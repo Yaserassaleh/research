@@ -419,19 +419,24 @@
       "entity": "Kuwait Financial Centre K.P.S.C.",
       "business_unit": "Board",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Appointment date not found.",
-      "previous_roles": null,
-      "education": null,
+      "appointed": "2023-03-22",
+      "appointed_note": "Election date of the current board (22 Mar 2023, three-year term; AR 2025 governance report S24 p.22) - a re-election, not his first appointment, which was not found (already Chairman at the FY2018 AGM, S31). A new term was probably elected at the 8 Apr 2026 AGM (seventh seat changed from Aldalali to AlSaad between S24 and S3/S23); minutes not accessible - see discrepancies.",
+      "previous_roles": "Career in financial services, asset management, insurance and commercial and professional enterprises in the Middle East and internationally (AR 2025 wording; no dates given); 2004-2009 Founding Chairman, Union of Investment Companies (UIC), Kuwait. AR 2025 governance table: 'Over 40 years in the financial sector'. Current other roles: Chairman of the Board Nomination and Remuneration Committee, Markaz; active member of various NGOs in Kuwait and abroad (S24 p.4).",
+      "education": "Professional accountancy, Glasgow University (AR 2025 governance report wording: 'Professional accountancy from Glasgow University'; no degree title given)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Board page of the 2026 company profile (S3); quoted as Chairman in the FY2025 results release, 11 Feb 2026 (S2, S5). No change news found; checked 2026-10-12.",
+      "role_evidence": "Chairman (Non-Executive Member) in AR 2025 (S24 pp.4, 22; attended all seven 2025 board meetings) and on the board pages of both 2026 profiles (S3, S23); quoted as Chairman in the FY2025 results release, 11 Feb 2026 (S2, S5). No 2025-2026 change news (S32, checked 2026-10-12).",
       "source_ids": [
         "S3",
+        "S23",
+        "S24",
+        "S26",
         "S2",
-        "S5"
+        "S5",
+        "S31",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -445,17 +450,22 @@
       "entity": "Kuwait Financial Centre K.P.S.C.",
       "business_unit": "Board",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
-      "education": null,
+      "appointed": "2023-03-22",
+      "appointed_note": "Date of election of the current board (AR 2025 governance report, S24 p.22). Already Vice Chairman/board member in the 2024 corporate presentation (S25 p.5). Possible re-election at the 8 Apr 2026 AGM not verifiable (see discrepancies).",
+      "previous_roles": "Partner and Manager, Al-Baseet Trading Co.; General Manager, Al-Jallal Real Estate Co. (both current per AR 2025; no dates). AR 2025 governance table: 'Over 40 years of experience in the real estate and financial sectors'. Current other roles: Chairman of the Board Audit Committee and member of the Board Nomination and Remuneration Committee, Markaz (S24 pp.4, 25-26).",
+      "education": "University degree, Alexandria University (field not stated in AR 2025)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Board page of the 2026 company profile (S3); checked 2026-10-12.",
+      "role_evidence": "Board pages of the 2026 profiles (S3, Mar 2026 version; S23, Jun 2026 version) and AR 2025 (S24: board biographies p.4; corporate governance report p.22 lists the seven directors elected 22/03/2023 for three years; meeting-attendance table p.23). Sustainability report 2024/25 board table (S26 p.22). Board members: official page + annual report only; no 2025-2026 change news on the TradeArabia Markaz chronology (S32), checked 2026-10-12. Vice Chairman, Non-Executive Member (S24 p.4).",
       "source_ids": [
-        "S3"
+        "S3",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -470,21 +480,26 @@
       "business_unit": "Group",
       "scope": "Group",
       "appointed": "2020",
-      "appointed_note": "Forbes ME: assumed current position in 2020.",
-      "previous_roles": "2010–2020 Chief Operating Officer, Markaz (oversaw asset management and investment banking); joined the Markaz group in 1989 as President of Mar-Gulf Management (Los Angeles), expanding real estate investments from the US to MENA/GCC and Europe. Also a member of the UNITAR Board of Trustees.",
-      "education": "MBA, INSEAD; M.Sc. and B.Sc. in Industrial Engineering, Texas A&M University",
+      "appointed_note": "CEO since 2020: UNITAR bio states he was COO 2010-2020 (S12); Forbes ME: 'appointed CEO in 2020' (S30), 'assumed his current position in 2020' (S11). Exact month not found.",
+      "previous_roles": "2010-2020 Chief Operating Officer, Markaz (oversaw the Asset Management and Investment Banking activities); 1989- President, Mar-Gulf Management Inc. (Los Angeles; Markaz's US real-estate subsidiary), expanding the real estate investment activity to the MENA region (GCC focus) and later Europe, followed by senior management positions across the Markaz group (dates not given); joined the Markaz group in 1989. UNITAR bio: 'more than 35 years of experience spent between Kuwait, the United States and France'. Current other roles: Chairman of Markaz's Management Executive Committee (S26 p.24); Chairman, Lebanese Business Council in Kuwait; Member, UNITAR Board of Trustees (S12).",
+      "education": "MBA, INSEAD (France); MSc Industrial Engineering, Texas A&M University; BSc Industrial Engineering, Texas A&M University (S12)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Executive management page of the 2026 profile (S3); FY2025 release, Feb 2026 (S2); Forbes ME Top 50 Asset Managers 2026, No. 24 (S11). The May 2026 appointments did not change his role (S6). LinkedIn search returned only a profile titled 'Ali Khalil - Executive - Markaz', which could not be matched to the CEO.",
+      "role_evidence": "CEO on the executive-management pages of both 2026 profiles (S3, S23), in AR 2025 (S24 p.8; signs the Executive Management's Report) and the sustainability report 2024/25 (S26 p.5); Forbes ME Top 50 Asset Managers 2026, No. 24 (S11). The 7 May 2026 appointments did not change his role (S6); no later leadership news on the TradeArabia chronology (S32, checked 2026-10-12). Bio page S20 answers 403. LinkedIn: earlier search found only an unmatched 'Ali Khalil - Executive - Markaz' profile; name-based searches not run.",
       "source_ids": [
         "S3",
+        "S23",
+        "S24",
+        "S26",
         "S2",
         "S11",
+        "S30",
         "S12",
         "S6",
-        "S20"
+        "S20",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -500,20 +515,24 @@
       "business_unit": "Group",
       "scope": "Group",
       "appointed": "2026-05-07",
-      "appointed_note": "Board approval date. He was Managing Director, Wealth Management and Business Development in the FY2025 release (Feb 2026).",
-      "previous_roles": "Managing Director, Wealth Management and Business Development, Markaz (to May 2026).",
+      "appointed_note": "Appointment approved at the board meeting of 7 May 2026 (company release carried by TradeArabia, 10 May 2026, S6; Markaz news page S13 seen in search only). Until then Managing Director, Wealth Management and Business Development (2024 corporate presentation S25 p.6; AR 2025 S24 p.8; FY2025 results release Feb 2026, S2).",
+      "previous_roles": "Managing Director, Wealth Management and Business Development, Markaz (held at least from 2024 to May 2026 per S25, S24, S2; start date not found). Earlier career not found in accessible official sources (markaz.com biography page blocked).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Appointment approved by the board on 7 May 2026 (TradeArabia, 10 May 2026, S6; Markaz news page seen in search, S13). Listed as Deputy CEO in the 2026 profile (S3). The only same-name LinkedIn profile found shows a different current organisation, so it was not used.",
+      "role_evidence": "Deputy Chief Executive Officer on the executive-management pages of both 2026 profiles (S3, Mar 2026 version; S23, Jun 2026 version); appointment release of May 2026 (S6, S13). AR 2025 roster (finalised around the Apr 2026 AGM) still shows the earlier MD title (S24 p.8). No later change news (S32, checked 2026-10-12). LinkedIn: the only same-name profile found earlier shows a different organisation, so none recorded.",
       "source_ids": [
         "S6",
-        "S3",
-        "S2",
         "S13",
-        "S20"
+        "S3",
+        "S23",
+        "S24",
+        "S25",
+        "S2",
+        "S20",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -528,18 +547,24 @@
       "business_unit": "Wealth Management and Business Development",
       "scope": "Group",
       "appointed": "2026-05-07",
-      "appointed_note": "Appointed head of the department by the board on 7 May 2026. Also the investor-relations contact ('EVP – Investor Relations, Wealth Management and Business Development' in the Q4 2025 and Q1 2026 decks).",
-      "previous_roles": "EVP – Investor Relations, Wealth Management and Business Development, Markaz (per Jan 2026 deck).",
+      "appointed_note": "Appointed Head of the Wealth Management and Business Development Department by the board on 7 May 2026 (S6; S13 search-only). Previously EVP Investor Relations (2024 corporate presentation S25 p.7; AR 2025 'Other Executives' S24 p.9) and investor-relations contact as 'EVP - Investor Relations, Wealth Management and Business Development' in the Q4 2025 and Q1 2026 earnings decks (S2, S1). Joining date not found.",
+      "previous_roles": "Executive Vice President, Investor Relations, Markaz (at least 2024 to May 2026; S25, S24); IR contact for the earnings presentations (S1, S2). Earlier career not found in accessible official sources.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Board appointment, 7 May 2026 (S6); senior management page of the 2026 profile (S3); IR contact in the May 2026 deck (S1). No LinkedIn profile found in search.",
+      "role_evidence": "Listed as 'Executive Vice President, Head of Wealth Management and Business Development' on the senior-management pages of both 2026 profiles (S3, S23); board appointment 7 May 2026 (S6). No later change news (S32, checked 2026-10-12). No LinkedIn profile found in earlier searches; name-based searches are not run.",
       "source_ids": [
         "S6",
+        "S13",
         "S3",
-        "S1"
+        "S23",
+        "S24",
+        "S25",
+        "S1",
+        "S2",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -555,16 +580,20 @@
       "business_unit": "Global Investment Advisory",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
+      "appointed_note": "Appointment date not found. Listed as 'Executive Vice President, Investment Advisory' in the 2024 corporate presentation (S25 p.7) and AR 2025 (S24 p.9); 'Global Investment Advisory' in the 2026 profiles (S3, S23).",
+      "previous_roles": "Executive Vice President, Investment Advisory, Markaz (at least 2024-2026; S25, S24). Earlier career not found in accessible official sources (markaz.com biography page blocked).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Senior management page of the 2026 profile (S3). LinkedIn search found a 'Kashish Tandon, CFA, CIPM – Kuwait Financial Centre – Markaz' profile, but an older post about a move to another firm made the match ambiguous, so no URL is recorded.",
+      "role_evidence": "Senior-management pages of both 2026 profiles (S3, S23) and AR 2025 'Other Executives' roster (S24 p.9). No change news (S32, checked 2026-10-12). LinkedIn: an earlier search showed a 'Kashish Tandon, CFA, CIPM - Kuwait Financial Centre - Markaz' profile, but an older post about a move to another firm made the match ambiguous, so no URL or qualifications are recorded from it.",
       "source_ids": [
-        "S3"
+        "S3",
+        "S23",
+        "S24",
+        "S25",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -579,24 +608,29 @@
       "business_unit": "MENA Equities",
       "scope": "Group",
       "appointed": "2026-05-07",
-      "appointed_note": "Appointed Head of the MENA Equities Department by the board on 7 May 2026, succeeding Amani Al-Omani.",
-      "previous_roles": null,
+      "appointed_note": "Appointed Head of the MENA Equities Department by the board on 7 May 2026 (S6; S13 search-only) after the retirement of Managing Director Amani I. Al-Omani. Already 'Executive Vice President, MENA Equities' in the 2024 corporate presentation (S25 p.6) and AR 2025 (S24 p.8).",
+      "previous_roles": "Executive Vice President, MENA Equities, Markaz (member of the Executive Management roster at least from 2024; S25, S24). Earlier career not found in accessible official sources.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Board appointment, 7 May 2026 (S6); executive management page of the 2026 profile (S3). No LinkedIn profile found in search.",
+      "role_evidence": "'Executive Vice President, Head of MENA Equities' on the executive-management pages of both 2026 profiles (S3, S23); board appointment 7 May 2026 (S6). No later change news (S32, checked 2026-10-12). No LinkedIn profile found in earlier searches.",
       "source_ids": [
         "S6",
-        "S3"
+        "S13",
+        "S3",
+        "S23",
+        "S24",
+        "S25",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
     {
-      "name": "Amani Al-Omani",
+      "name": "Amani I. Al-Omani",
       "name_ar": null,
-      "title": "Former Managing Director, MENA Equities Department",
+      "title": "Managing Director, MENA Equities (until May 2026)",
       "functions": [
         "Investments / asset management"
       ],
@@ -604,17 +638,21 @@
       "business_unit": "MENA Equities",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Retired after more than 24 years at Markaz. The board accepted her resignation on 7 May 2026.",
-      "previous_roles": null,
+      "appointed_note": "Appointment date not found. Listed as 'Managing Director, MENA Equities' in the 2024 corporate presentation (S25 p.6) and AR 2025 (S24 p.8). Company release: retired after more than 24 years at Markaz; the board accepted her resignation on 7 May 2026 (S6).",
+      "previous_roles": "Managing Director, MENA Equities, Markaz (Executive Management roster, at least 2024 to May 2026; S25, S24); more than 24 years at Markaz (S6). Earlier roles not found.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Departed",
-      "role_evidence": "TradeArabia, 10 May 2026 (S6); Markaz news page seen in search (S13).",
+      "role_evidence": "Departure: board accepted her resignation on retirement at its 7 May 2026 meeting (TradeArabia, 10 May 2026, S6; Markaz news page S13 seen in search only). She is absent from the management pages of both 2026 profiles (S3, S23). Successor as head of the department: Ghazi A. Al-Osaimi (already in this file).",
       "source_ids": [
         "S6",
-        "S13"
+        "S13",
+        "S24",
+        "S25",
+        "S3",
+        "S23"
       ],
       "checked": "2026-10-12"
     },
@@ -630,17 +668,21 @@
       "business_unit": "Strategy & Transformation; Custody",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Earlier title per LinkedIn snippet: Executive Vice President, Strategic Planning and Post Acquisition (Markaz).",
+      "appointed_note": "Date of promotion to Managing Director not found: AR 2025 (finalised around the Apr 2026 AGM) lists 'Alexander W. Salamoun, Executive Vice President, Strategic Planning and Custody Services' (S24 p.8); the 2026 profile with AUM as of 31 Mar 2026 already shows the MD title (S3 p.18), unchanged in the Jun 2026 version (S23). The 7 May 2026 appointments release does not mention him (S6). Full name 'Alexander' in S24.",
+      "previous_roles": "Executive Vice President, Strategic Planning and Custody Services, Markaz (AR 2025, S24); Executive Vice President, Head of Strategic Development (2024 corporate presentation, S25 p.6); earlier title per LinkedIn snippet: Executive Vice President, Strategic Planning and Post Acquisition (S21). Earlier career not found in accessible official sources.",
       "education": null,
-      "qualifications": "CFA, CAIA (shown in LinkedIn profile name)",
+      "qualifications": "CFA, CAIA (shown in LinkedIn profile name, S21; awarding bodies not stated)",
       "linkedin_url": "https://www.linkedin.com/in/alex-salamoun/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Executive management page of the 2026 profile (S3). LinkedIn search result shows the same name with current employer Kuwait Financial Centre – Markaz and a strategy title (S21).",
+      "role_evidence": "Executive-management pages of both 2026 profiles (S3, S23) with the MD title; AR 2025 roster (S24 p.8). No change news (S32, checked 2026-10-12). LinkedIn URL from the earlier pass: search result showed the same name, current employer Kuwait Financial Centre - Markaz and a strategy title (S21); not re-checked, no contrary evidence.",
       "source_ids": [
         "S3",
-        "S21"
+        "S23",
+        "S24",
+        "S25",
+        "S21",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -656,19 +698,22 @@
       "business_unit": "Strategic Planning, Digitization & Analytics",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
+      "appointed_note": "Appointment date not found. Title as quoted in the iMarkaz Invest launch release, 28 Mar 2026 (S7, S29). The Jun 2026 24-hour-US-access release (S33, seen in search results only) gives 'Salman H. Olayan, Senior Vice President - Strategy, Digitization & Analytics'. SVP level, so not on the profile management pages (EVP and above).",
+      "previous_roles": "Quoted for Markaz in the Objectway selection release (Jan 2025, S9) and the iMarkaz Invest releases (Mar and Jun 2026; S7, S29, S33). Earlier career not found in accessible official sources.",
       "education": null,
-      "qualifications": "CFA, CMA (shown in LinkedIn profile name)",
+      "qualifications": "CFA, CMA (shown in LinkedIn profile name, S17; awarding bodies not stated)",
       "linkedin_url": "https://www.linkedin.com/in/salman-alayan-cfa-cma/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Quoted in the iMarkaz Invest launch, 28–29 Mar 2026 (S7, S8) and the Objectway selection, Jan 2025 (S9). LinkedIn search result shows the same name with current employer Kuwait Financial Centre – Markaz and a digital-leadership credential (S17). SVP level, so not on the profile's management pages.",
+      "role_evidence": "Quoted with this title in the company's 28 Mar 2026 launch release (TradeArabia S7, Zawya S29) and, per a search snippet, in the Jun 2026 release (S33, page 403). Not on the 2026 profiles, which list EVP level and above (S3, S23). No departure news (S32, checked 2026-10-12). LinkedIn URL from the earlier pass (S17): same name, current employer Kuwait Financial Centre - Markaz; not re-checked, no contrary evidence.",
       "source_ids": [
         "S7",
         "S8",
+        "S29",
+        "S33",
         "S9",
-        "S17"
+        "S17",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -683,17 +728,21 @@
       "business_unit": "Wealth Management and Business Development",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
+      "appointed_note": "Appointment date not found. Title as quoted in the iMarkaz Invest launch release, 28 Mar 2026 ('Maryam Al Rifae, Senior Vice President - Wealth Management and Business Development at Markaz'; S7, S29). SVP level, so not on the profile management pages.",
+      "previous_roles": "Not found in accessible official sources (markaz.com biography pages blocked).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
-      "role_status": "Requires verification",
-      "role_evidence": "Quoted with this title in the iMarkaz Invest launch, 28–29 Mar 2026 (S7, S8). A LinkedIn search snippet links a 'Maryam A. Al-Rifae' to National Investments Company; date and identity are unclear. Not on the 2026 profile pages, which list EVP level and above.",
+      "role_status": "Verified current",
+      "role_evidence": "Rests on the company's 28 Mar 2026 release (TradeArabia S7, GCC Business News S8, Zawya S29), a 2026 company announcement; no later departure or appointment news on the TradeArabia Markaz chronology (S32, checked 2026-10-12). Not on the 2026 profiles, which list EVP level and above (S3, S23). An earlier LinkedIn snippet linking a 'Maryam A. Al-Rifae' to National Investments Company was undated and unverified, so it is not used as contrary evidence; name-based searches are not run.",
       "source_ids": [
         "S7",
-        "S8"
+        "S8",
+        "S29",
+        "S3",
+        "S23",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -708,16 +757,19 @@
       "business_unit": "Finance",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
+      "appointed_note": "Appointment date not found. 'Executive Vice President and Chief Financial Officer' in the 2024 corporate presentation (S25 p.6) and 2026 profiles (S3, S23); AR 2025 roster: 'Raja Farrukh Abrar, Chief Financial Officer' (S24 p.8).",
+      "previous_roles": "Chief Financial Officer, Markaz (Executive Management roster at least 2024-2026; S25, S24). Earlier career not found in accessible official sources.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Executive management page of the 2026 profile (S3); checked 2026-10-12.",
+      "role_evidence": "Executive-management pages of both 2026 profiles (S3, S23) and AR 2025 roster (S24 p.8); checked 2026-10-12. Non-decision-maker: official documents only.",
       "source_ids": [
-        "S3"
+        "S3",
+        "S23",
+        "S24",
+        "S25"
       ],
       "checked": "2026-10-12"
     },
@@ -732,16 +784,19 @@
       "business_unit": "Investment Banking",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
+      "appointed_note": "Appointment date not found. Same title in the 2024 corporate presentation (S25 p.6), AR 2025 ('Ahmed F. AlFalah', S24 p.8) and 2026 profiles (S3, S23).",
+      "previous_roles": "Managing Director, Investment Banking, Markaz (Executive Management roster at least 2024-2026; S25, S24). Earlier career not found in accessible official sources.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Executive management page of the 2026 profile (S3); checked 2026-10-12.",
+      "role_evidence": "Executive-management pages of both 2026 profiles (S3, S23) and AR 2025 roster (S24 p.8); checked 2026-10-12. Non-decision-maker: official documents only.",
       "source_ids": [
-        "S3"
+        "S3",
+        "S23",
+        "S24",
+        "S25"
       ],
       "checked": "2026-10-12"
     },
@@ -756,16 +811,20 @@
       "business_unit": "MENA Real Estate",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
+      "appointed_note": "Appointment date not found. Same title in the 2024 corporate presentation (S25 p.7), AR 2025 'Other Executives' (S24 p.9) and 2026 profiles (S3, S23).",
+      "previous_roles": "Executive Vice President, MENA Real Estate, Markaz (at least 2024-2026; S25, S24). Earlier career not found in accessible official sources.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Senior management page of the 2026 profile (S3). No matching LinkedIn profile found.",
+      "role_evidence": "Senior-management pages of both 2026 profiles (S3, S23) and AR 2025 roster (S24 p.9). No change news (S32, checked 2026-10-12). No matching LinkedIn profile found in earlier searches.",
       "source_ids": [
-        "S3"
+        "S3",
+        "S23",
+        "S24",
+        "S25",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -780,24 +839,28 @@
       "business_unit": "Research",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
+      "appointed_note": "Appointment date not found (Marmore established 2010). Markaz leadership page lists him as 'Raghu Mandagolathur - Chief Executive Officer - Marmore MENA Intelligence' (S20, seen in search results only).",
+      "previous_roles": "Not found in accessible official sources (Markaz leadership page blocked; Marmore site has no bio text). Marmore's website names him 'M.R. Raghu, CFA, FRM, FCMA - CEO, Marmore MENA Intelligence, the research arm of Markaz' (webinar notice, May 2023; S28).",
       "education": null,
-      "qualifications": "CFA, FRM, FCMA (shown in LinkedIn profile name)",
+      "qualifications": "CFA, FRM, FCMA (as given on Marmore's website, S28, and in the LinkedIn profile name, S22; awarding bodies not stated)",
       "linkedin_url": "https://www.linkedin.com/in/mrraghu/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Subsidiaries page of the 2026 profile (S3). LinkedIn search result shows the same name with current employer Marmore MENA Intelligence (S22).",
+      "role_evidence": "'Chief Executive Officer, Marmore MENA Intelligence' on the subsidiaries page of both 2026 profiles (S3, S23 p.20); Marmore website (S28); Markaz leadership page snippet (S20). No change news (S32, checked 2026-10-12). LinkedIn URL from the earlier pass (S22): same name, current employer Marmore MENA Intelligence; not re-checked, no contrary evidence.",
       "source_ids": [
         "S3",
-        "S22"
+        "S23",
+        "S28",
+        "S20",
+        "S22",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Sami Shabshab",
       "name_ar": null,
-      "title": "Managing Director, Mar-Gulf Management, Inc.",
+      "title": "Managing Director, Mar-Gulf Management Inc.",
       "functions": [
         "Subsidiary CEO"
       ],
@@ -805,16 +868,19 @@
       "business_unit": "US real estate",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
+      "appointed_note": "Appointment date not found. Title per the subsidiaries page of both 2026 profiles (S3, S23 p.20) and the Markaz subsidiaries web page (search snippet); the Markaz leadership page snippet says 'President - Mar-Gulf Management Inc.' (S20, search-only) - see discrepancies.",
+      "previous_roles": "Not found in accessible official sources (Markaz leadership and subsidiaries pages blocked).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Subsidiaries page of the 2026 profile (S3); checked 2026-10-12.",
+      "role_evidence": "Subsidiaries page of both 2026 profiles (S3, Mar 2026; S23, Jun 2026); leadership page snippet (S20). No change news (S32, checked 2026-10-12).",
       "source_ids": [
-        "S3"
+        "S3",
+        "S23",
+        "S20",
+        "S32"
       ],
       "checked": "2026-10-12"
     }
@@ -1217,7 +1283,8 @@
       "tier": 2,
       "published": "2026-05",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Seen in search results only (markaz.com HTML pages answer 403 to this environment; re-checked 2026-10-12)"
     },
     {
       "id": "S14",
@@ -1294,7 +1361,8 @@
       "tier": 2,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Seen in search results only (markaz.com HTML pages answer 403 to this environment; re-checked 2026-10-12)"
     },
     {
       "id": "S21",
@@ -1317,6 +1385,128 @@
       "published": null,
       "accessed": "2026-10-12",
       "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Markaz Profile 2026 (version with AUM as of 30 June 2026) - board, executive management, senior management and subsidiaries pages",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://www.markaz.com/getmedia/a8a3fddb-8350-4f62-814e-031bcfac599c/Markaz-Profile-Eng-2026_6.pdf",
+      "doc_type": "Company profile (pp.17-20: Board of Directors, Executive Management, Senior Management, Our Subsidiaries)",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Annual Report 2025 (AGM version) - Board of Directors biographies (pp.4-5), Executive Management and Other Executives rosters (pp.8-9), Corporate Governance Report (pp.22-27)",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://www.markaz.com/getmedia/84282269-5117-4ea7-8ee7-ff697031ccff/Markaz-AR-25-English-AGM-version-v1-3-final.pdf?ext=.pdf",
+      "doc_type": "Annual report - Board and Executive Management biographies, Corporate Governance Report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Markaz Corporate Presentation 2024 - Board of Directors (p.5), Executive Management (p.6), Senior Management (p.7)",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://markaz.com/getmedia/d7c2ef52-4a13-4ece-b5c5-99aaae69be37/Markaz-Corporate-Presentation-Eng-2024.pdf?ext=.pdf",
+      "doc_type": "Corporate presentation (management rosters, 2024 titles)",
+      "tier": 2,
+      "published": "2024",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Sustainability Report 2024/25 - section 2.2 Board and Management Overview (board table p.22, management committees p.24)",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://www.markaz.com/getmedia/14898964-57b2-49ce-b50e-71763e6d0ccc/Sustainability-Report-2425-v2-3.pdf?ext=.pdf",
+      "doc_type": "Sustainability report (governance section)",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "Supplementary Disclosure - Board of Directors Meeting No. 04 of 2026 (11 August 2026), letter to Boursa Kuwait",
+      "publisher": "Kuwait Financial Centre 'Markaz' (filed with Boursa Kuwait)",
+      "url": "https://www.markaz.com/getmedia/5ff43a93-3488-4d4b-b047-7e1db679e06f/DMI_BOD_post_meeting_4_of_2026.pdf?ext=.pdf",
+      "doc_type": "Exchange disclosure - board meeting results",
+      "tier": 1,
+      "published": "2026-08-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Marmore MENA Intelligence - 'Your Trusted Partner' (RFP page; webinar notice naming 'M.R. Raghu, CFA, FRM, FCMA - CEO, Marmore MENA Intelligence', May 2023)",
+      "publisher": "Marmore MENA Intelligence (Markaz subsidiary)",
+      "url": "https://www.marmoremena.com/en/rfp",
+      "doc_type": "Subsidiary website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "Kuwait Financial Centre launches GenNext e-trading platform (TradeArabia copy on Zawya, quotes Salman Olayan and Maryam Al Rifae with titles)",
+      "publisher": "Zawya / TradeArabia",
+      "url": "https://www.zawya.com/en/capital-markets/equities/kuwait-financial-centre-launches-gennext-e-trading-platform-352515",
+      "doc_type": "News (company release)",
+      "tier": 5,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "Ali H. Khalil - The Middle East's Top 30 Asset Managers 2024",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-30-asset-managers-2024/ali-h-khalil/",
+      "doc_type": "News / ranking list (short biography)",
+      "tier": 5,
+      "published": "2024",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "عمومية «المركز» تُقر توزيع 5 فلوس أرباحاً نقدية للسهم (AGM for FY2018; names Diraar Alghanim as Chairman)",
+      "publisher": "Mubasher",
+      "url": "https://www.mubasher.info/news/3446543/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S32",
+      "title": "Kuwait Financial Centre - news tag page (chronological list of Markaz items; latest 10 May 2026)",
+      "publisher": "TradeArabia",
+      "url": "https://www.tradearabia.com/tag/Kuwait-Financial-Centre",
+      "doc_type": "News listing",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S33",
+      "title": "Markaz Enhances iMarkaz Invest with 24-Hour Access to U.S. Markets (quotes Salman H. Olayan, Senior Vice President - Strategy, Digitization & Analytics)",
+      "publisher": "Albawaba (press release)",
+      "url": "https://www.albawaba.com/index%2ephp/business/pr/markaz-enhances-imarkaz-invest-24-hour-1630537",
+      "doc_type": "Press release",
+      "tier": 5,
+      "published": "2026-06-18",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (page answers 403)"
     }
   ],
   "original_reconciliation": [],
@@ -1375,6 +1565,38 @@
         "S6",
         "S3"
       ]
+    },
+    {
+      "field": "Board composition 2026 (seventh director)",
+      "detail": "AR 2025 (board biographies p.5 and corporate governance report p.22, finalised after the 8 Apr 2026 AGM) and the sustainability report 2024/25 (p.22) list Fahad Sulaiman Aldalali as the third independent director, elected 22 Mar 2023 for three years, with no other change. Both 2026 company profiles (with AUM as of 31 Mar 2026 and 30 Jun 2026) list Mohammed Saad AlSaad as a board member and omit Aldalali; the other six directors are unchanged. Q1 2026 deck: 7 directors, 3 independent.",
+      "source_ids": [
+        "S24",
+        "S26",
+        "S3",
+        "S23",
+        "S1"
+      ],
+      "resolution": "People list keeps the Chairman and Vice Chairman (both unchanged). The change most likely reflects a board election at the 8 Apr 2026 AGM (end of the 2023-2026 term), but the AGM minutes/Boursa Kuwait disclosure could not be opened (markaz.com material-information page and docs.boursakuwait.com.kw answer 403). Unresolved; AlSaad's appointment date and Aldalali's departure are not recorded."
+    },
+    {
+      "field": "Sami Shabshab title",
+      "detail": "2026 profiles (S3, S23) and the Markaz subsidiaries web page (search snippet): 'Managing Director, Mar-Gulf Management Inc.'; Markaz leadership web page (S20, search snippet only): 'President - Mar-Gulf Management Inc.'",
+      "source_ids": [
+        "S3",
+        "S23",
+        "S20"
+      ],
+      "resolution": "Used 'Managing Director' from the opened official documents; the leadership page could not be opened (403)."
+    },
+    {
+      "field": "Salman Olayan title wording",
+      "detail": "Mar 2026 launch release: 'Senior Vice President - Strategic Planning, Digitization & Analytics' (S7, S29). Jun 2026 24-hour-US release (search snippet, S33): 'Senior Vice President - Strategy, Digitization & Analytics'.",
+      "source_ids": [
+        "S7",
+        "S29",
+        "S33"
+      ],
+      "resolution": "Kept the Mar 2026 wording from opened sources; the Jun 2026 page was not opened (403). Same function either way."
     }
   ],
   "open_items": [
@@ -1384,10 +1606,14 @@
     "iMarkaz Invest execution broker and technology vendor not disclosed. The Objectway go-live status (announced Jan 2025) is not confirmed.",
     "Aggregator pages (not cited) list Markaz Fund for Excellent Yields (Mumtaz) with about 13% of Markaz shares. Check the Boursa Kuwait major-shareholder disclosures.",
     "Q3 2026 (30 Sep 2026) results not yet published as of 12 Oct 2026.",
-    "LinkedIn not verified for the CEO, Deputy CEO, Head of Wealth, Head of MENA Equities, EVP Global Investment Advisory and EVP MENA Real Estate. A LinkedIn snippet names Bassam Al-Othman as MD MENA Real Estate, but he is not in the 2026 profile; probably outdated.",
-    "Maryam Al Rifae (SVP Wealth Management, Mar 2026) needs current-role confirmation."
+    "People pass X05 (2026-10-12): markaz.com HTML (leadership bios, subsidiaries, news, material information), docs.boursakuwait.com.kw and Albawaba answer 403; Alanba PDFs are image-only. Education/career for the executives (Al-Nusif, Al-Refai, Tandon, Al-Osaimi, Salamoun, Olayan, Al Rifae, Abrar, Al-Falah, Elia, Raghu, Shabshab) could not be filled: AR 2025 has board bios only; profiles give names and titles only. Re-run when https://www.markaz.com/en/who-we-are/leadership/ is reachable.",
+    "8 Apr 2026 AGM: the 12 Apr 2026 disclosure (results and minutes) was not found as a /getmedia/ PDF, so the apparent board election (Mohammed Saad AlSaad in, Fahad Sulaiman Aldalali out) and any re-election dates for the Chairman and Vice Chairman are unverified. Check Boursa Kuwait disclosures for security 213.",
+    "Not profiled (official 2026 roster, not wealth/digital heads): Rasha A. Othman (EVP IB - Fixed Income & Capital Markets), Ali A. Al-Shamali (EVP Treasury, Operations & Corporate Services; chairs ALCO), Pradeep Rajagopalan (EVP Internal Controls; chairs the GRC committee overseeing IT and the Efficiency & Digitization sub-committee), Maha A. Imad (EVP Board Affairs & Legal; Board Secretary); directors Alshaya, Al-Jouan, Alghannam, Hayat, AlSaad (S24 has bios for all but AlSaad).",
+    "LinkedIn: verified URLs only for Salamoun, Olayan and Raghu (earlier search matches, kept). Not verified for the CEO, Deputy CEO, Head of WM, Head of MENA Equities, EVP Global Investment Advisory, EVP MENA Real Estate and SVP Al Rifae; name-based searches are declined by the search tool.",
+    "Maryam Al Rifae (SVP Wealth Management and Business Development): current role rests on the 28 Mar 2026 release only (SVP level is below the profile's management pages); re-confirm when the leadership page is reachable.",
+    "Marmore ownership wording differs: 2026 profiles say 'majority-owned subsidiary'; Marmore's own RFP page says 'wholly owned subsidiary of Kuwait Financial Centre' (S28). Not resolved in this people pass."
   ],
   "research_status": "Partial",
-  "researched_by": "P3",
+  "researched_by": "P3; people pass X05",
   "checked": "2026-10-12"
 }
