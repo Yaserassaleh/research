@@ -427,35 +427,40 @@
   "people": [
     {
       "name": "Abdulaziz Mohammed AlOnaizan",
-      "name_ar": null,
-      "title": "Chairman of the Board (Non-Executive) and Chairman of the Executive Committee; former CEO",
+      "name_ar": "عبدالعزيز العنيزان",
+      "title": "Chairman of the Board of Directors (Non-Executive Member) and Chairman of the Executive Committee",
       "functions": [
-        "Chair"
+        "Chair",
+        "Board"
       ],
       "entity": "Bank Albilad",
       "business_unit": "Board of Directors",
       "scope": "Group",
       "appointed": "2026-06-01",
-      "appointed_note": "Chairman effective 1 Jun 2026 until the end of the board term on 16 Apr 2028 (board approval 23 Apr 2026 after SAMA non-objection). He stepped down as CEO effective 23 Apr 2026; CEO since 2016. The board page says CEO 'to May 2026' (see discrepancies).",
-      "previous_roles": "CEO, Bank Albilad (2016 to Apr 2026); Chief Business Officer, Bank Albilad (AR 2025); earlier Alinma Bank, Arab National Bank and SAMBA. 35+ years in banking. Chairman of Enjaz Payment Services; the bank page also says Chairman of Albilad Capital (conflicts with another source, see sa-albilad-capital). Board roles at REDF, HRDF and Buna.",
-      "education": "Bachelor's in Quantitative Methods, King Saud University",
+      "appointed_note": "Chairman of the Board and of the Executive Committee effective 1 Jun 2026 until the end of the current board term on 16 Apr 2028; approved by the board on 23 Apr 2026 after SAMA non-objection, with his classification changed to Non-Executive Member (Saudi Exchange filing 26 Apr 2026, S9/S25). CEO from 2016: the CEO filing's table gives resignation acceptance 23 Apr 2026 and effective date 1 Jun 2026, while its introduction says 'effective 23 April 2026' (S25; see discrepancies). Current board term began 17 Apr 2025 (S24).",
+      "previous_roles": "2016-May 2026 Chief Executive Officer, Bank Albilad (S2, S25); before that Chief Business Officer, Bank Albilad (AR 2025, S4; years not given); earlier roles at Alinma Bank, Arab National Bank and SAMBA (board page, S2; years not given). Current other roles: Chairman, Enjaz Payment Services Company (S2); 'Chairman of Albilad Capital' per the bank's board page (S2) but Vice Chairman per Albilad Capital's own board CV (see sa-albilad-capital); board roles at the Real Estate Development Fund, the Human Resources Development Fund and Buna (S2).",
+      "education": "Bachelor's in Quantitative Methods, King Saud University (board page, S2; Albilad Capital's board CV adds the year 1987 and executive education at INSEAD Singapore and IESE - see sa-albilad-capital)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2); board announcement 26 Apr 2026 (S9); leadership announcement 27 Apr 2026 (S10)",
+      "role_evidence": "Official board page read by batch R5 on 2026-10-12 (S2); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page). Saudi Exchange filings of 26 Apr 2026 (S9, S25) and Argaam (S26) record the 1 Jun 2026 appointment; Mubasher's company profile lists him as Chairman, checked 2026-10-12 (S28). No later board change found in English/Arabic role-based searches (12 Oct 2026).",
       "source_ids": [
         "S2",
+        "S4",
         "S9",
         "S10",
-        "S4"
+        "S24",
+        "S25",
+        "S26",
+        "S28"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Nasser Mohammed AlSubeaei",
       "name_ar": null,
-      "title": "Vice Chairman of the Board (Non-Executive); Chairman until 31 May 2026",
+      "title": "Vice Chairman of the Board of Directors (Non-Executive Member); member of the Executive Committee",
       "functions": [
         "Board"
       ],
@@ -463,25 +468,27 @@
       "business_unit": "Board of Directors",
       "scope": "Group",
       "appointed": "2026-06-01",
-      "appointed_note": "Vice Chairman effective 1 Jun 2026 until 16 Apr 2028; resigned as Chairman effective the same day and stays on the board and Executive Committee. Signs the AR 2025 as Chairman. A search-result headline (Argaam) shows him reappointed Chairman in 2025.",
-      "previous_roles": "Experience in financial, banking, investment and real estate sectors. Vice Chairman of MASIC; Chairman of Al-Argan Real Estate and Thakher Real Estate; board roles at Akwan, Infath and King Salman Charitable Housing Society.",
-      "education": "Bachelor's in Accounting, King Saud University",
+      "appointed_note": "Vice Chairman effective 1 Jun 2026 until 16 Apr 2028, having resigned as Chairman effective the same day (board decision 23 Apr 2026 after SAMA non-objection; S9). Appointed Chairman on 17 Apr 2025 at the start of the 2025-2028 term, SAMA non-objection 24 Apr 2025 (Argaam, S24); signed the AR 2025 as Chairman (S4).",
+      "previous_roles": "Apr 2025-May 2026 Chairman of the Board, Bank Albilad (also Chairman in the previous term per the AR 2025; S4, S24); experience in the financial, banking, investment and real estate sectors (board page, S2; no dated career given). Current other roles: Vice Chairman, MASIC (Mohammed Ibrahim AlSubeaei & Sons Investment Company); Chairman, Al-Argan Real Estate and Thakher Real Estate; board member, Akwan, Infath and King Salman Charitable Housing Society (S2).",
+      "education": "Bachelor's in Accounting, King Saud University (S2)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official board page (S2); board announcement 26 Apr 2026 (S9); AR 2025 chairman statement (S4). The announcement spells him 'Nasser Mohammed Al-Subaie' and 'Nasser bin Mohammed Al-Subaie'; treated as one person.",
+      "role_evidence": "Official board page read by batch R5 on 2026-10-12 (S2); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page). Saudi Exchange filing 26 Apr 2026 (S9) and Argaam (S26) record the 1 Jun 2026 change; Mubasher's company profile lists him as Deputy Chairman, checked 2026-10-12 (S28). Filings spell him 'Al-Subaie', Mubasher 'Al Sebaiei'; treated as one person.",
       "source_ids": [
         "S2",
-        "S9",
         "S4",
-        "S24"
+        "S9",
+        "S24",
+        "S26",
+        "S28"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Bashaar Yahya Al Qunaibit",
-      "name_ar": null,
+      "name_ar": "بشار بن يحيى القنيبط",
       "title": "Chief Executive Officer",
       "functions": [
         "CEO"
@@ -490,20 +497,23 @@
       "business_unit": "Executive Management",
       "scope": "Group",
       "appointed": "2026-06-01",
-      "appointed_note": "Appointed CEO effective 1 Jun 2026 (announced 26-27 Apr 2026; SAMA approval secured). Senior Executive Vice President, Businesses, at the AR 2025 date.",
-      "previous_roles": "SEVP - Businesses, Bank Albilad; before that Chief Operating Officer, Saudi British Bank Takaful (AR 2025 table). 24 years of experience per AR 2025; 25+ years per the April 2026 announcement.",
-      "education": "Bachelor's in Business Administration (degree level per AR 2025; institution not stated); 'several professional certifications' per announcement",
-      "qualifications": null,
+      "appointed_note": "Board resolution 23 Apr 2026 after SAMA non-objection; work commencement 1 Jun 2026 (Saudi Exchange filing, S25). Previously Senior Executive Vice President - Business (filing S25; 'Businesses' in AR 2025, S4).",
+      "previous_roles": "Jun 2026- Chief Executive Officer, Bank Albilad; to May 2026 Senior Executive Vice President - Business, Bank Albilad (S25, S4); earlier at Saudi Awwal Bank (SABB): Deputy Managing Director, Retail Banking and Wealth Management; Chief Human Resources Officer; General Manager, Branches and Sales (Al Eqtisadiah, S27; years not given); Business Development Manager, SADAD Payment System (SAMA) (S27); earlier roles at the National Commercial Bank (S27); Chief Operating Officer, SABB Takaful (AR 2025 senior-executive table, S4). 'Over 25 years' in banking and financial services (S25); the AR 2025 table says 24 years (S4).",
+      "education": "Bachelor's degree in Business Administration (institution not stated; S25, S27)",
+      "qualifications": "'A number of academic and professional certifications' (not named in the filing, S25)",
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 lists him as CEO (S1); Mubasher and Enterprise AM report the appointment (S10, S11); a LinkedIn search did not return his profile",
+      "role_evidence": "Official executive page read by batch R5 on 2026-10-12 (S1); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page); that page lists him as CEO. Saudi Exchange filing 26 Apr 2026 with 'Brief Resume' (S25); Argaam 26 Apr 2026 (S26); Mubasher and Enterprise AM reports (S10, S11); Al Eqtisadiah career profile (S27). No later change found (12 Oct 2026). LinkedIn: R5's search returned no profile; not re-searched in X06 (name-based look-ups not permitted).",
       "source_ids": [
         "S1",
         "S4",
         "S10",
         "S11",
-        "S12"
+        "S12",
+        "S25",
+        "S26",
+        "S27"
       ],
       "checked": "2026-10-12"
     },
@@ -521,13 +531,13 @@
       "scope": "Bank",
       "appointed": null,
       "appointed_note": "Date not found. The website prints 'Waleed Khalid Al Dhubaib'.",
-      "previous_roles": "Executive Vice President, Riyad Bank (AR 2025 table). 23 years of experience.",
-      "education": "Bachelor's in Finance (AR 2025); KFUPM per LinkedIn search snippet",
+      "previous_roles": "Executive Vice President, Retail Banking, Bank Albilad (appointment date not published; the Retail Banking Group includes Private Banking and the Tamayuz tiers); previously Executive Vice President, Riyad Bank (AR 2025 senior-executive table, S4; years not given). 23 years of experience (S4, S21).",
+      "education": "Bachelor's in Finance (AR 2025, S4); King Fahd University of Petroleum and Minerals per the LinkedIn search snippet (S21)",
       "qualifications": null,
       "linkedin_url": "https://www.linkedin.com/in/waleeed/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4). LinkedIn search result 'Waleed AlDhubaib - بنك البلاد' with title EVP Retail Banking, 23 years and KFUPM, consistent with the AR; profile not opened (S21). The AR does not name a separate head of private banking.",
+      "role_evidence": "Official executive page read by batch R5 on 2026-10-12 (S1); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page); AR 2025 (S4). English and Arabic role-based searches (12 Oct 2026) for 2025-2026 retail, private-banking or wealth appointments or departures at Bank Albilad found none. LinkedIn search result 'Waleed AlDhubaib - بنك البلاد', EVP Retail Banking (S21; profile not opened). The AR names no separate head of private banking.",
       "source_ids": [
         "S1",
         "S4",
@@ -547,13 +557,13 @@
       "scope": "Bank",
       "appointed": null,
       "appointed_note": "Date not found",
-      "previous_roles": "Head of Finance and Global Transaction Services, Bank Albilad (AR 2025 table). 21 years of experience.",
-      "education": "Master's in Business Administration (degree level per AR 2025)",
+      "previous_roles": "Executive Vice President, Corporate Banking, Bank Albilad (date not published); previously Head of Finance and Global Transaction Services, Bank Albilad (AR 2025 senior-executive table, S4; years not given). 21 years of experience (S4).",
+      "education": "Master of Business Administration (AR 2025, S4; institution not stated)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4)",
+      "role_evidence": "Official executive page read by batch R5 on 2026-10-12 (S1); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page); AR 2025 (S4).",
       "source_ids": [
         "S1",
         "S4"
@@ -572,14 +582,14 @@
       "business_unit": "Technology",
       "scope": "Bank",
       "appointed": null,
-      "appointed_note": "Date not found",
-      "previous_roles": "Head of Technology, Saudi Industrial Development Fund (AR 2025 table). 24 years of experience.",
-      "education": "Master's in Information Systems (degree level per AR 2025)",
+      "appointed_note": "Date not found. LinkedIn and directory listings style the post 'Chief Technology Officer' (S22; see discrepancies).",
+      "previous_roles": "Executive Vice President, Technology (Chief Technology Officer), Bank Albilad (date not published; a LinkedIn summary describes a remit of IT operations, IT development, IT governance and a Data and AI Office, S22); previously Head of Technology, Saudi Industrial Development Fund (AR 2025 senior-executive table, S4; years not given). 24 years of experience (S4).",
+      "education": "Master's in Information Systems (AR 2025, S4; institution not stated)",
       "qualifications": null,
       "linkedin_url": "https://www.linkedin.com/in/aalghufaili/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4). LinkedIn search result 'Abdulaziz Al-Ghufaili - بنك البلاد' (same name and employer); title not shown in the snippet (S22).",
+      "role_evidence": "Official executive page read by batch R5 on 2026-10-12 (S1); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page); AR 2025 (S4). A 12 Oct 2026 web-search summary of his LinkedIn profile gives 'Chief Technology Officer at Bank Albilad' (S22). Role-based search for a 2026 technology-head appointment at Bank Albilad found none.",
       "source_ids": [
         "S1",
         "S4",
@@ -599,16 +609,17 @@
       "scope": "Group",
       "appointed": null,
       "appointed_note": "Date not found",
-      "previous_roles": "Head of Management Reporting, Bank Albilad (AR 2025 table). 24 years of experience.",
-      "education": "Master's in Finance (degree level per AR 2025)",
+      "previous_roles": "Executive Vice President, Finance, Bank Albilad (date not published); previously Head of Management Reporting, Bank Albilad (AR 2025 senior-executive table, S4; years not given). 24 years of experience (S4).",
+      "education": "Master's in Finance (AR 2025, S4; institution not stated)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4)",
+      "role_evidence": "Official executive page read by batch R5 on 2026-10-12 (S1); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page); AR 2025 (S4). Listed among the bank's disclosed insider shareholders on Mubasher's company profile, checked 2026-10-12 (S28), consistent with a current senior-executive post.",
       "source_ids": [
         "S1",
-        "S4"
+        "S4",
+        "S28"
       ],
       "checked": "2026-10-12"
     },
@@ -624,13 +635,13 @@
       "scope": "Bank",
       "appointed": null,
       "appointed_note": "Listed in AR 2025; not on the official executive page checked 12 Oct 2026",
-      "previous_roles": "CEO, Deutsche Gulf Finance (AR 2025 table). 40 years of experience.",
-      "education": "Bachelor's in Computer Engineering (degree level per AR 2025)",
+      "previous_roles": "Executive Vice President, Treasury, Bank Albilad (per AR 2025; date not published); previously Chief Executive Officer, Deutsche Gulf Finance (AR 2025 senior-executive table, S4; years not given). 40 years of experience (S4).",
+      "education": "Bachelor's in Computer Engineering (AR 2025, S4; institution not stated)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Requires verification",
-      "role_evidence": "AR 2025 lists him (S4 PDF pp.22, 85). The current official page (S1, 13 executives) has no treasury head. No departure or successor announcement found.",
+      "role_evidence": "AR 2025 lists him (S4 PDF pp.22, 85). The official executive page read by R5 on 2026-10-12 (13 executives) shows no treasury head (S1); the X06 re-check was blocked (WAF error page). English and Arabic searches (12 Oct 2026) for a Bank Albilad treasury appointment or departure in 2025-2026 found nothing.",
       "source_ids": [
         "S4",
         "S1"
@@ -649,13 +660,13 @@
       "scope": "Bank",
       "appointed": null,
       "appointed_note": "Date not found. AR 2025 calls the role 'Executive Vice President of Operations' on one page and 'Shared Services' on another.",
-      "previous_roles": "General Manager of Corporate Banking, Bank Albilad (AR 2025 table). 32 years of experience.",
-      "education": "Bachelor's in Accounting (degree level per AR 2025)",
+      "previous_roles": "Executive Vice President, Shared Services (Operations), Bank Albilad (date not published); previously General Manager, Corporate Banking, Bank Albilad (AR 2025 senior-executive table, S4; years not given). 32 years of experience (S4).",
+      "education": "Bachelor's in Accounting (AR 2025, S4; institution not stated)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4)",
+      "role_evidence": "Official executive page read by batch R5 on 2026-10-12 (S1); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page); AR 2025 (S4).",
       "source_ids": [
         "S1",
         "S4"
@@ -674,13 +685,13 @@
       "scope": "Bank",
       "appointed": null,
       "appointed_note": "Date not found",
-      "previous_roles": "General Manager, Credit Policies Sector, Bank Albilad (AR 2025 table). 30 years of experience.",
-      "education": "Bachelor's in Accounting (degree level per AR 2025)",
+      "previous_roles": "Executive Vice President, Risk Management, Bank Albilad (date not published); previously General Manager, Credit Policies Sector, Bank Albilad (AR 2025 senior-executive table, S4; years not given). 30 years of experience (S4).",
+      "education": "Bachelor's in Accounting (AR 2025, S4; institution not stated)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4)",
+      "role_evidence": "Official executive page read by batch R5 on 2026-10-12 (S1); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page); AR 2025 (S4).",
       "source_ids": [
         "S1",
         "S4"
@@ -698,14 +709,14 @@
       "business_unit": "Shariah",
       "scope": "Bank",
       "appointed": null,
-      "appointed_note": "Date not found; no biography visible on the website",
+      "appointed_note": "Date not found; no biography visible on the website (pop-ups empty when R5 read the page).",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1); bios on that page did not load (empty pop-ups)",
+      "role_evidence": "Official executive page read by batch R5 on 2026-10-12 (S1); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page); bios on that page did not load. No biography or 2025-2026 news found in the sources reachable in X06.",
       "source_ids": [
         "S1"
       ],
@@ -714,7 +725,7 @@
     {
       "name": "Haytham Sulaiman AlSuhaimi",
       "name_ar": null,
-      "title": "Non-Executive Board Member; Chief Business Development Officer, Albilad Capital",
+      "title": "Non-Executive Board Member; member of the Executive Committee; Chief Business Development Officer, Albilad Capital",
       "functions": [
         "Board",
         "Innovation / partnerships"
@@ -723,23 +734,25 @@
       "business_unit": "Board of Directors; Albilad Capital (business development)",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Board appointment date not on the page. Also sits on the Executive Committee. Albilad Capital's fund reports call him Vice President of Business Development (see sa-albilad-capital).",
-      "previous_roles": "Wealth management and investment background: Albilad Capital (financial analyst in investment banking, private equity and business development, then business development); intern at Jadwa (2015-2016); Marketing Manager at SAPIN UAE (2012-2014). Board roles at Sharing Solutions for IT, Nusaned Fund and Telad Investment Company.",
-      "education": "Master's in Investment and Financial Risks, University of Westminster; Bachelor's in Business Administration (United Arab Emirates)",
+      "appointed_note": "Current board term 17 Apr 2025 - 16 Apr 2028 (S24); first election date not shown in the sources opened. Albilad Capital's fund reports call him Vice President of Business Development (see sa-albilad-capital).",
+      "previous_roles": "Chief Business Development Officer (board page, S2) / Vice President, Business Development, Albilad Capital (current; date not published); earlier at Albilad Capital: financial analyst in investment banking, private equity and business development (S2); 2015-2016 intern, Jadwa Investment (S2); 2012-2014 Marketing Manager, SAPIN (UAE) (S2). Current other roles: board member, Sharing Solutions for IT, Nusaned Fund and Telad Investment Company (S2); non-independent member of the Albilad Capital fund boards (see sa-albilad-capital).",
+      "education": "Master's in Investment and Financial Risks, University of Westminster; Bachelor's in Business Administration (UAE institution not named) (board page, S2)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2). The page classifies him Non-Executive but lists an executive role at the subsidiary.",
+      "role_evidence": "Official board page read by batch R5 on 2026-10-12 (S2); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page). Mubasher's company profile lists 'Haytham bin Suleiman bin Abdulaziz Al Suhaymi' as a board member, checked 2026-10-12 (S28). The page classifies him Non-Executive while listing an executive post at the subsidiary (see discrepancies).",
       "source_ids": [
-        "S2"
+        "S2",
+        "S24",
+        "S28"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Adeeb Mohammed Abanumai",
       "name_ar": null,
-      "title": "Independent Board Member; Chairman of the Audit Committee; Vice Chairman until 31 May 2026",
+      "title": "Independent Board Member; Chairman of the Audit Committee (Vice Chairman until 31 May 2026)",
       "functions": [
         "Board"
       ],
@@ -747,18 +760,20 @@
       "business_unit": "Board of Directors",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Resigned as Vice Chairman effective 1 Jun 2026; remains a board member and Audit Committee chair until 16 Apr 2028",
-      "previous_roles": "Professional accountant; runs Abanumi CPA. Audit roles at Bin Saedan, Almaarefa University, Southern Province Cement and Budget Company; board member of AL Maather REIT Fund and Al Watania Poultry.",
-      "education": "Master's in Accounting, University of Miami; Bachelor's in Accounting, King Saud University",
+      "appointed_note": "Vice Chairman from 17 Apr 2025 (SAMA non-objection 24 Apr 2025; S24) until his resignation from that post effective 1 Jun 2026; remains a board member and Audit Committee chairman until 16 Apr 2028 (S9). Spelled Abanami/Abanmi in the filing and on Mubasher.",
+      "previous_roles": "Apr 2025-May 2026 Vice Chairman of the Board, Bank Albilad (S24, S9; also Vice Chairman in AR 2025, S4). Professional accountant; runs Abanumi CPA (board page, S2). Current other roles: audit committee roles at Bin Saedan, Almaarefa University, Southern Province Cement and Budget Company; board member, AL Maather REIT Fund and Al Watania Poultry (S2).",
+      "education": "Master's in Accounting, University of Miami; Bachelor's in Accounting, King Saud University (S2)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official board page (S2); board announcement 26 Apr 2026 (S9); AR 2025 lists him as Vice Chairman (S4)",
+      "role_evidence": "Official board page read by batch R5 on 2026-10-12 (S2); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page). Saudi Exchange filing 26 Apr 2026 (S9); Mubasher's company profile lists him as a board member, checked 2026-10-12 (S28).",
       "source_ids": [
         "S2",
+        "S4",
         "S9",
-        "S4"
+        "S24",
+        "S28"
       ],
       "checked": "2026-10-12"
     },
@@ -774,16 +789,18 @@
       "business_unit": "Albilad Capital (100% subsidiary)",
       "scope": "Subsidiary",
       "appointed": "2018",
-      "appointed_note": "Full profile in sa-albilad-capital. Not listed on the bank's executive page.",
-      "previous_roles": "Previously held roles at the Capital Market Authority (Forbes ME profile). Full profile in sa-albilad-capital.",
+      "appointed_note": "'Assumed his current role in 2018' (Forbes ME 2025 and 2026, S29, S23). Not listed on the bank's executive page; full profile in sa-albilad-capital.",
+      "previous_roles": "2018- Chief Executive Officer, Albilad Capital; previously roles at the Capital Market Authority (Forbes ME 2026, S23). Current other roles: member of the Audit Committee of the Saudi Exchange; member of the Investment and Funding Committee, Jeddah Central Development Company (Forbes ME 2025, S29); chairman of the Albilad Capital fund boards (see sa-albilad-capital).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Forbes Middle East Top 50 Asset Managers 2026 profile lists him as CEO of Albilad Capital since 2018 (S23); named as CEO in Albilad Capital's own Nov-Dec 2025 press releases (see sa-albilad-capital). Not on the bank's executive page.",
+      "role_evidence": "Forbes ME Top 50 Asset Managers 2026 (published 9 Jul 2026) lists him as CEO of Albilad Capital (S23), as does the 2025 list (S29); Albilad Capital's Oct-Dec 2025 releases name him CEO (read by R5 on 12 Oct 2026; albilad-capital.com was blocked in the X06 pass). Not on the bank's executive page (S1). No departure news found (12 Oct 2026). LinkedIn search-result match recorded in sa-albilad-capital; not re-checked.",
       "source_ids": [
-        "S23"
+        "S1",
+        "S23",
+        "S29"
       ],
       "checked": "2026-10-12"
     }
@@ -1045,7 +1062,8 @@
       "tier": 2,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Blocked in the X06 pass (12 Oct 2026: WAF error page); content as read by batch R5 earlier that day."
     },
     {
       "id": "S2",
@@ -1056,7 +1074,8 @@
       "tier": 2,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Blocked in the X06 pass (12 Oct 2026: WAF error page); content as read by batch R5 earlier that day."
     },
     {
       "id": "S3",
@@ -1078,7 +1097,8 @@
       "tier": 1,
       "published": "2026",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Blocked in the X06 pass (12 Oct 2026: WAF error page); content as read by batch R5 earlier that day."
     },
     {
       "id": "S5",
@@ -1279,7 +1299,7 @@
       "published": null,
       "accessed": "2026-10-12",
       "language": "en",
-      "note": "Seen in search results only"
+      "note": "Seen in search results only. A 12 Oct 2026 role-based search summary described his LinkedIn profile as 'Chief Technology Officer at Bank Albilad' with a remit of IT operations, IT development, IT governance and a Data and AI Office; that result did not display the URL, which is kept from the earlier search match (R5)."
     },
     {
       "id": "S23",
@@ -1297,12 +1317,70 @@
       "title": "Bank Albilad reappoints Nasser Al-Subaie as Chairman, Adeeb Abanumai as Vice Chairman",
       "publisher": "Argaam",
       "url": "https://www.argaam.com/en/article/articledetail/id/1807606",
-      "doc_type": "News headline",
+      "doc_type": "Financial news (report of the Tadawul filing: Chairman and Vice Chairman appointed at the 17 Apr 2025 board meeting for the term 17 Apr 2025 - 16 Apr 2028; SAMA non-objection 24 Apr 2025)",
       "tier": 5,
-      "published": "2025-04",
+      "published": "2025-04-24",
       "accessed": "2026-10-12",
       "language": "en",
-      "note": "Seen in search results only (headline); date inferred from the board term starting 17 Apr 2025"
+      "note": "Opened in the X06 people pass (12 Oct 2026)."
+    },
+    {
+      "id": "S25",
+      "title": "Bank Albilad Announces Resignation and Appointment of The CEO",
+      "publisher": "Bank Albilad via Saudi Exchange (filing text mirrored on Mubasher)",
+      "url": "https://english.mubasher.info/news/4600858/Bank-Albilad-Announces-Resignation-and-Appointment-of-The-CEO/",
+      "doc_type": "Saudi Exchange announcement - CEO resignation and appointment (verbatim filing text with 'Brief Resume' of the appointee)",
+      "tier": 1,
+      "published": "2026-04-26",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read on Mubasher; saudiexchange.sa returned HTTP 403. Mubasher's announcement list dates the item 22 April 2026, the page itself 26 April 2026."
+    },
+    {
+      "id": "S26",
+      "title": "Bank Albilad CEO resigns, Al Qunaibit to take over",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1899428",
+      "doc_type": "Financial news (report of two Tadawul filings: CEO change and board reshuffle)",
+      "tier": 5,
+      "published": "2026-04-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "بشار القنيبط .. من إدارة الثروات والأعمال إلى رئاسة بنك البلاد",
+      "publisher": "Al Eqtisadiah (aleqt.com)",
+      "url": "https://www.aleqt.com/الأخبار/بشار-القنيبط-من-إدارة-الثروات-والأعمال-إلى-رئاسة-بنك-البلاد-9121",
+      "doc_type": "Financial news - career profile of the incoming CEO",
+      "tier": 5,
+      "published": "2026-04-26",
+      "accessed": "2026-10-12",
+      "language": "ar",
+      "note": "Date inferred: the article refers to the Tadawul statement published 'today, Sunday' (26 Apr 2026)."
+    },
+    {
+      "id": "S28",
+      "title": "Bank Albilad (1140) - Company Profile (board of directors listing, insider and major holders, subsidiaries)",
+      "publisher": "Mubasher Info",
+      "url": "https://english.mubasher.info/markets/TDWL/stocks/1140/profile",
+      "doc_type": "Market-data company profile (board composition as displayed on 12 Oct 2026)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Used only to confirm current board composition while the official board page was blocked."
+    },
+    {
+      "id": "S29",
+      "title": "Top 40 Asset Managers 2025: Zaid Mohammed Almufarih (Albilad Capital)",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-40-asset-managers-2025/zaid-mohammed-almufarih/",
+      "doc_type": "Ranking profile",
+      "tier": 5,
+      "published": "2025-03-15",
+      "accessed": "2026-10-12",
+      "language": "en"
     }
   ],
   "original_reconciliation": [],
@@ -1321,13 +1399,15 @@
     },
     {
       "field": "AlOnaizan CEO end date",
-      "detail": "The board page bio says he was CEO 'to May 2026'; the filings say he stepped down as CEO effective 23 Apr 2026 and became Chairman on 1 Jun 2026.",
+      "detail": "The board page bio says CEO 'to May 2026'. The CEO filing (S25) says in its introduction that SAMA's non-objection was to accept his resignation 'effective 23 April 2026', while its structured table gives Resignation Acceptance Date 23 Apr 2026 and Resignation Effective Date 1 Jun 2026; Argaam and Mubasher reported 23 Apr 2026.",
       "source_ids": [
         "S2",
         "S9",
-        "S10"
+        "S10",
+        "S25",
+        "S26"
       ],
-      "resolution": "Used the filing dates. Minor."
+      "resolution": "Recorded his CEO tenure as 2016 to May 2026 (effective date 1 Jun 2026 per the filing table and the board page); 23 Apr 2026 is the board acceptance date. Minor."
     },
     {
       "field": "Treasury head",
@@ -1353,14 +1433,37 @@
         "S2"
       ],
       "resolution": "Left unresolved here; handled in sa-albilad-capital."
+    },
+    {
+      "field": "CEO Al Qunaibit's prior career",
+      "detail": "The AR 2025 senior-executive table gives 'Chief Operating Officer, Saudi British Bank Takaful' as his previous post and 24 years of experience; the Saudi Exchange filing says over 25 years and SEVP - Business; Al Eqtisadiah lists SABB roles (Deputy MD Retail Banking and Wealth Management, Chief HR Officer, GM Branches and Sales), SADAD (SAMA) and NCB, without years. An executive-tracker site seen in search results (not cited) calls his prior post 'Chief Business Officer'.",
+      "source_ids": [
+        "S4",
+        "S25",
+        "S27"
+      ],
+      "resolution": "All official and press items recorded in previous_roles; no years available. Minor."
+    },
+    {
+      "field": "Alghufaili title",
+      "detail": "Official page and AR 2025: Executive Vice President, Technology. LinkedIn search summary and a data vendor: Chief Technology Officer.",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S22"
+      ],
+      "resolution": "Kept the official title; CTO styling noted. Minor."
     }
   ],
   "open_items": [
-    "Executive bios on the website did not load (the 'Learn More' pop-ups are empty); career and degree level come from the AR 2025 senior-executive table, so institutions and dates are mostly missing.",
+    "People pass X06 (12 Oct 2026): every bankalbilad.com.sa URL tried (board, executive management, AR 2025 PDF, Arabic pages, non-www host) returned a WAF error page ('This page can't be displayed', HTTP 200), and saudiexchange.sa returned 403 (root and Resources PDFs), so the official-page role check could not be repeated. It rests on batch R5's read of the same pages earlier on 12 Oct 2026 plus the April 2026 filings (Mubasher, S9/S25), Argaam (S26), Al Eqtisadiah (S27) and Mubasher's company profile (S28). Re-run the people check when the site is reachable.",
+    "New CEO Bashaar Al Qunaibit: no official biography beyond the filing's 'Brief Resume' (bachelor's in business administration, 25+ years); SABB, SADAD and NCB roles come from Al Eqtisadiah without years; his 'academic and professional certifications' are not named anywhere opened. Check the executive-management bio or AR 2026.",
+    "Mubasher's board listing (12 Oct 2026) shows 11 directors; Zaid Alquaiz, Muadh Alhusaini, Nasser AlNasser, Haitham Alfayez, Mohammed Al Rajhi, Khalid Al Rajhi and Abdulaziz Al Bassam are not profiled here (no wealth, digital or executive roles identified).",
+    "Executive bios on the website did not load for R5 (empty 'Learn More' pop-ups) and the site was blocked in X06; career and degree level come from the AR 2025 senior-executive table, so institutions and dates are mostly missing. Appointment dates for all EVPs remain unknown.",
     "No head of wealth, private banking, affluent segment, digital or strategy is named on the website or in AR 2025. Private Banking sits inside Retail Banking under Waleed Al-Dhubaib, but no reporting line is documented.",
     "Customers, wealth client assets, bank-level AUM and investing users are not disclosed.",
     "Q3 2026 statements not yet listed (latest is Q2 2026, S8). Re-check late Oct 2026. The investor presentation on the IR page appears stale (refers to 2024 objectives) and was not used for metrics.",
-    "LinkedIn: no profile found for the CEO, Chairman, Treasury EVP or Chief Sharia Officer; the company page URL was not verified. LinkedIn matches for Waleed Al-Dhubaib and Abdulaziz Alghufaili are search-result matches only.",
+    "LinkedIn: no profile found by R5 for the CEO, Chairman, Treasury EVP or Chief Sharia Officer; name-based look-ups are not permitted in the X06 pass, so no new URLs were verified. The company page URL was not verified. Matches for Waleed Al-Dhubaib and Abdulaziz Alghufaili are search-result matches only (the Oct 2026 search summary for Alghufaili shows the CTO title).",
     "Intellect go-live status and scope beyond wholesale banking are unknown; the NSE press release PDF timed out and a news report was used.",
     "Leads checked: private/wealth propositions (thin, see capabilities); digital investing in the bank app (only an Investment Wakalah account; investing is in Albilad Capital apps); capital-arm AUM and funds are in sa-albilad-capital.",
     "Saudi Exchange pages were not queried (403 in earlier batches). The CMA register entry for Albilad Capital was not checked directly (licence number taken from company documents)."

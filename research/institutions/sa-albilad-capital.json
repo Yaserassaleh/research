@@ -369,7 +369,7 @@
   "people": [
     {
       "name": "Zaid bin Mohammed Al-Mufarih",
-      "name_ar": null,
+      "name_ar": "زيد محمد المفرح",
       "title": "Chief Executive Officer and Board Member",
       "functions": [
         "CEO",
@@ -379,14 +379,14 @@
       "business_unit": "Executive Management",
       "scope": "Subsidiary",
       "appointed": "2018",
-      "appointed_note": "'Assumed his current role in 2018' per Forbes Middle East 2026; chairs the Albilad Capital fund boards (FY2025 fund report). Spelled Almufarih, Al-Mufarih, Al-Mufraih across sources.",
-      "previous_roles": "Previously held roles at the Capital Market Authority (Forbes ME). A fund-board biography calls him 'Country Chief Financial Officer' with more than 15 years in the financial markets, with leadership positions in banking and financial services in the Kingdom. Ranked 15th in Forbes Middle East Top 50 Asset Managers 2026.",
+      "appointed_note": "'Assumed his current role in 2018' / 'at the helm of Albilad Capital since 2018' (Forbes ME 2024, 2025 and 2026: S38, S37, S21). Chairs the Albilad Capital fund boards (FY2025 sukuk ETF report, S18).",
+      "previous_roles": "2018- Chief Executive Officer, Albilad Capital; previously 'a number of positions' at the Capital Market Authority (Forbes ME 2026, S21); began his career at the Saudi Central Bank before moving to private-sector financial services (Forbes ME 2021 company profile, S39); 'over 20 years of experience in financial markets' (Forbes ME 2024, S38). A fund-board biography calls him 'Country Chief Financial Officer' with 15+ years in the financial markets (S18; see discrepancies). Current other roles: member of the Audit Committee of the Saudi Exchange (Tadawul) (S37; S38 says 'board member of the audit committee'); member of the Investment and Funding Committee, Jeddah Central Development Company (S37, S38); chairman of the Albilad Capital fund boards (S18).",
       "education": null,
       "qualifications": null,
       "linkedin_url": "https://www.linkedin.com/in/zaid-almufarih-ab35661a/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Quoted as CEO in Albilad Capital's own releases of 26 Oct, 10 Nov, 18 Nov and 1 Dec 2025 (S9, S7, S8, S6); Forbes ME 2026 list (S21); fund board report FY2025 (S18). LinkedIn search result 'Zaid Almufarih - Albilad Capital البلاد المالية'; profile not opened (S36). No departure news found.",
+      "role_evidence": "Quoted as CEO in Albilad Capital's releases of 26 Oct, 10 Nov, 18 Nov and 1 Dec 2025 (S9, S7, S8, S6; read by R5 on 12 Oct 2026 - albilad-capital.com returned a WAF error page in the X06 pass); Forbes ME Top 50 Asset Managers 2026, published 9 Jul 2026 (S21); fund board report FY2025 (S18). LinkedIn search result 'Zaid Almufarih - Albilad Capital البلاد المالية' recorded by R5 (S36), not re-checked. No 2025-2026 departure or successor news found in English/Arabic role-based searches (12 Oct 2026).",
       "source_ids": [
         "S6",
         "S7",
@@ -394,14 +394,17 @@
         "S9",
         "S18",
         "S21",
-        "S36"
+        "S36",
+        "S37",
+        "S38",
+        "S39"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Ihsan bin Abbas Bafakih",
       "name_ar": null,
-      "title": "Chairman of the Board (per Albilad Capital board CV)",
+      "title": "Chairman of the Board (per Albilad Capital board CV; see discrepancies)",
       "functions": [
         "Chair"
       ],
@@ -409,14 +412,14 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": "2023-04",
-      "appointed_note": "Chairman 'since April 2023' per the board CV (file metadata dated 12 Dec 2023).",
-      "previous_roles": "25+ years in banking, investment and real estate services. Governor of the State Properties General Authority; member of the Investment Committee of the Royal Commission for Makkah City and Holy Sites and of the Events Investment Fund Council Executive Committee; board and committee roles at Kidana Company. Previously led business sectors at HSBC Saudi Arabia, Saudi National Bank and the Saudi Authority for Industrial Cities and Technology Zones.",
-      "education": "Bachelor's in Business Administration, University of Westminster (Salt Lake City, USA)",
+      "appointed_note": "Chairman 'since April 2023' per the board CV (undated; file metadata 12 Dec 2023, S19).",
+      "previous_roles": "Apr 2023- Chairman, Albilad Capital (S19). Governor, State Properties General Authority (S19; Saudi press items from 2020-2021 seen in search results also name him Governor; current status not re-confirmed); member, Investment Committee of the Royal Commission for Makkah City and Holy Sites; member, Executive Committee of the Events Investment Fund Council; board and committee roles at Kidana Company (S19). Previously led business sectors at HSBC Saudi Arabia, Saudi National Bank and the Saudi Authority for Industrial Cities and Technology Zones (S19; years not given). 25+ years in banking, investment and real estate services (S19).",
+      "education": "Bachelor's in Business Administration, 'University of Westminster (Salt Lake City, USA)' as printed in the board CV (S19)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Conflicting sources",
-      "role_evidence": "The company's board CV (undated, Dec 2023 metadata) names him Chairman and AlOnaizan Vice Chairman (S19, S20). An executive directory seen in search results (not opened) lists him as current Chairman, updated 3 Jun 2026 (S30). The parent's board page (Oct 2026) says AlOnaizan is Chairman of Albilad Capital (S29).",
+      "role_evidence": "The board CV names him Chairman (S19) and AlOnaizan Vice Chairman (S20). The parent's board page, read by R5 on 2026-10-12, says AlOnaizan is 'Chairman of Albilad Capital' (S29); an executive directory seen in search results lists Bafakih as Chairman, updated 3 Jun 2026 (S30). X06 (12 Oct 2026): albilad-capital.com, bankalbilad.com.sa and saudiexchange.sa were all blocked and English/Arabic searches found no Albilad Capital board announcement, so the conflict stands.",
       "source_ids": [
         "S19",
         "S20",
@@ -428,7 +431,7 @@
     {
       "name": "Abdulaziz Mohammed AlOnaizan",
       "name_ar": null,
-      "title": "Vice Chairman (per Albilad Capital board CV); Chairman of Albilad Capital (per the parent's board page); Chairman of Bank Albilad",
+      "title": "Vice Chairman of the Board and Executive Committee member (per Albilad Capital board CV); 'Chairman of Albilad Capital' per the parent's board page; Chairman of Bank Albilad from 1 Jun 2026",
       "functions": [
         "Board",
         "Chair"
@@ -437,17 +440,20 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Became Chairman of Bank Albilad on 1 Jun 2026 after stepping down as bank CEO. Role at Albilad Capital differs by source. Full profile in sa-albilad.",
-      "previous_roles": "CEO of Bank Albilad from 2016 to Apr 2026; 35+ years in banking; chairs Enjaz Payment Services; board roles at ZATCA advisory board, REDF, HRDF and Buna (board CV).",
-      "education": "Bachelor's in Quantitative Methods, King Saud University (1987, board CV); executive education at INSEAD Singapore and IESE",
+      "appointed_note": "Albilad Capital board dates not published. At the parent: CEO from 2016, resignation accepted 23 Apr 2026 and effective 1 Jun 2026 (S43); Chairman of the Board and of the Executive Committee of Bank Albilad from 1 Jun 2026 to the end of the term on 16 Apr 2028 (Saudi Exchange filing 26 Apr 2026, S41). Which Albilad Capital role is current is unconfirmed.",
+      "previous_roles": "2016-May 2026 Chief Executive Officer, Bank Albilad (S43); before that Chief Business Officer, Bank Albilad; earlier Alinma Bank, Arab National Bank and SAMBA (parent board page, see sa-albilad); 35+ years in banking (board CV, S20). Current other roles: Chairman of the Board and of the Executive Committee, Bank Albilad (from 1 Jun 2026, S41); Chairman, Enjaz Payment Services Company; member, ZATCA advisory board; board roles at the Real Estate Development Fund, the Human Resources Development Fund and Buna (board CV, S20).",
+      "education": "Bachelor's in Quantitative Methods, King Saud University (1987); executive education at INSEAD (Singapore) and IESE Business School (board CV, S20)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Conflicting sources",
-      "role_evidence": "Albilad Capital board CV calls him Vice Chairman and Executive Committee member (S20); the parent's board page, checked 2026-10-12, says he is Chairman of Albilad Capital (S29). Which is current is not confirmed.",
+      "role_evidence": "Albilad Capital board CV: Vice Chairman and Executive Committee member (S20). The parent's board page, read by R5 on 2026-10-12: 'Chairman of Albilad Capital' (S29). Mubasher's company profile lists him as Chairman of Bank Albilad, checked 2026-10-12 (S40); parent filings of 26 Apr 2026 (S41, S43). Both official sites were blocked in the X06 pass; which Albilad Capital role is current is unconfirmed.",
       "source_ids": [
         "S20",
-        "S29"
+        "S29",
+        "S40",
+        "S41",
+        "S43"
       ],
       "checked": "2026-10-12"
     },
@@ -463,17 +469,18 @@
       "business_unit": "Business Development",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Non-independent member of the Albilad Capital fund boards. Also a non-executive director of Bank Albilad.",
-      "previous_roles": "Albilad Capital (financial analyst in investment banking, private equity and business development); Jadwa Investment (from 2015); SAPIN UAE (management roles)",
-      "education": "Master's in Investment and Financial Risks, University of Westminster",
+      "appointed_note": "Dates not published. Non-independent member of the Albilad Capital fund boards (S18). Non-executive director and Executive Committee member of Bank Albilad (S29, S40; board term details in sa-albilad).",
+      "previous_roles": "Vice President, Business Development (fund report, S18) / Chief Business Development Officer (parent board page, S29), Albilad Capital (current; date not published); earlier at Albilad Capital: financial analyst in investment banking, private equity and business development (S18, S29); 2015-2016 Jadwa Investment (intern per S29; 'from 2015' per S18); 2012-2014 Marketing Manager, SAPIN (UAE) (S29). Current other roles: non-executive director and Executive Committee member, Bank Albilad (S29, S40); board member, Sharing Solutions for IT, Nusaned Fund and Telad Investment Company (S29); non-independent member of the Albilad Capital fund boards (S18).",
+      "education": "Master's in Investment and Financial Risks, University of Westminster (S18, S29); Bachelor's in Business Administration, UAE institution not named (S29)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Bank Albilad board page checked 2026-10-12 lists him as Chief Business Development Officer at Albilad Capital (S29); FY2025 fund board report calls him Member of the Board and Vice President of Business Development (S18)",
+      "role_evidence": "Bank Albilad board page read by R5 on 2026-10-12 lists him as Chief Business Development Officer at Albilad Capital (S29); FY2025 fund board report: 'Member of the Board and Vice President of Business Development' (S18); Mubasher's company profile confirms his bank board seat, checked 2026-10-12 (S40). Both official sites were blocked in the X06 pass.",
       "source_ids": [
         "S18",
-        "S29"
+        "S29",
+        "S40"
       ],
       "checked": "2026-10-12"
     },
@@ -489,13 +496,13 @@
       "scope": "Subsidiary",
       "appointed": "2020-08",
       "appointed_note": "A LinkedIn search summary said he became CIO in August 2020 after serving as Head of Equities and then Head of Asset Management. Not confirmed on an official page.",
-      "previous_roles": "Head of Equities and Head of Asset Management at Albilad Capital before becoming CIO (search summary, not opened)",
+      "previous_roles": "Aug 2020- Chief Investment Officer, Albilad Capital; before that Head of Asset Management and, earlier, Head of Equities, Albilad Capital (LinkedIn search summary, S31; years not shown; not confirmed on an official page).",
       "education": null,
-      "qualifications": "CFA, CMT (shown in the profile name)",
+      "qualifications": "CFA; CMT (designations shown in the profile name, S31; awarding bodies not stated)",
       "linkedin_url": "https://www.linkedin.com/in/abdullah-alaqeel-cfa/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Requires verification",
-      "role_evidence": "LinkedIn search result 'Abdullah Alaqeel, CFA, CMT - Albilad Capital البلاد المالية' (name and employer match); the title and dates come from the search summary only (S31). No official page names the CIO or head of asset management.",
+      "role_evidence": "LinkedIn search result 'Abdullah Alaqeel, CFA, CMT - Albilad Capital البلاد المالية' (name and employer match); title and dates come from the search summary only (S31). No official page names the CIO or head of asset management; albilad-capital.com was blocked in the X06 pass; role-based searches (12 Oct 2026) for a 2025-2026 Albilad Capital CIO or asset-management appointment found nothing.",
       "source_ids": [
         "S31"
       ],
@@ -514,13 +521,13 @@
       "scope": "Subsidiary",
       "appointed": null,
       "appointed_note": "Date not found",
-      "previous_roles": "Director and Head of Operations, Al Rajhi Capital; Head of Asset Management Operations, Riyad Capital; Vice President, Securities Services Operations, Albilad Capital; about 8 years at HSBC Saudi Arabia (search summary of profile text)",
-      "education": "MBA, Al Yamamah University; bachelor's in Administrative Science, King Abdulaziz University",
+      "previous_roles": "Chief Operating Officer, Albilad Capital (date not published; oversees Operations, Procurement, Data Management and Administration Services); previously Director and Head of Operations, Al Rajhi Capital; Head of Asset Management Operations, Riyad Capital; Vice President, Securities Services Operations, Albilad Capital; about eight years at HSBC Saudi Arabia (LinkedIn search summary, S32; years not shown).",
+      "education": "MBA, Al Yamamah University; Bachelor's in Administrative Science, King Abdulaziz University (LinkedIn search summary, S32)",
       "qualifications": null,
       "linkedin_url": "https://sa.linkedin.com/in/alouthah",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Requires verification",
-      "role_evidence": "LinkedIn search result 'Motasim Alouthah, MBA'; search summaries of the profile text give COO at Albilad Capital. Profile fetch returned HTTP 999 (S32). No official page names the COO.",
+      "role_evidence": "LinkedIn search result 'Motasim Alouthah, MBA' (S32); a 12 Oct 2026 role-based search returned the same profile with the summary 'Chief Operating Officer, Albilad Capital' and a post on the launch of a Horizon Trading Solutions market-making platform (date not shown). Profile fetch returned HTTP 999 (R5). No official page names the COO; albilad-capital.com was blocked in the X06 pass.",
       "source_ids": [
         "S32"
       ],
@@ -537,16 +544,17 @@
       "business_unit": "Brokerage",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Date not found",
+      "appointed_note": "Date not found. In Dec 2018 Albilad Capital's 'Head of Brokerage and Product Development' was Sultan AL-Mugayel (Argaam, S42), so AlBatah's appointment is later than that.",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Requires verification",
-      "role_evidence": "An executive-directory profile seen in search results lists him as Head of Brokerage, updated 3 Jun 2026; the page returned HTTP 403 when opened and no official source names the brokerage head (S33).",
+      "role_evidence": "An executive-directory profile seen in search results lists him as Head of Brokerage, updated 3 Jun 2026; the page returned HTTP 403 (S33). No official source names the brokerage head; albilad-capital.com was blocked in the X06 pass; role-based searches (12 Oct 2026) found no appointment news.",
       "source_ids": [
-        "S33"
+        "S33",
+        "S42"
       ],
       "checked": "2026-10-12"
     }
@@ -1104,7 +1112,8 @@
       "tier": 1,
       "published": "2026",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Blocked in the X06 pass (12 Oct 2026: WAF error page); content as read by batch R5 earlier that day."
     },
     {
       "id": "S19",
@@ -1115,7 +1124,8 @@
       "tier": 2,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Blocked in the X06 pass (12 Oct 2026: WAF error page); content as read by batch R5 earlier that day."
     },
     {
       "id": "S20",
@@ -1126,7 +1136,8 @@
       "tier": 2,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Blocked in the X06 pass (12 Oct 2026: WAF error page); content as read by batch R5 earlier that day."
     },
     {
       "id": "S21",
@@ -1137,7 +1148,8 @@
       "tier": 5,
       "published": "2026",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "The Arabic version (https://www.forbesmiddleeast.com/ar/lists/top-50-asset-managers-2026/zaid-almufarih/) was also opened on 12 Oct 2026; it says he held a number of positions at the Capital Market Authority."
     },
     {
       "id": "S22",
@@ -1226,7 +1238,8 @@
       "tier": 2,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Blocked in the X06 pass (12 Oct 2026: WAF error page); content as read by batch R5 earlier that day."
     },
     {
       "id": "S30",
@@ -1262,7 +1275,7 @@
       "published": null,
       "accessed": "2026-10-12",
       "language": "en",
-      "note": "Seen in search results only"
+      "note": "Seen in search results only. A 12 Oct 2026 role-based search again returned this profile ('Motasim Alouthah, MBA') with the summary 'Chief Operating Officer, Albilad Capital' overseeing Operations, Procurement, Data Management and Administration Services, and a post announcing the launch of a Horizon Trading Solutions market-making platform (date not shown)."
     },
     {
       "id": "S33",
@@ -1310,6 +1323,86 @@
       "accessed": "2026-10-12",
       "language": "en",
       "note": "Seen in search results only"
+    },
+    {
+      "id": "S37",
+      "title": "Top 40 Asset Managers 2025: Zaid Mohammed Almufarih (Albilad Capital)",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-40-asset-managers-2025/zaid-mohammed-almufarih/",
+      "doc_type": "Ranking profile",
+      "tier": 5,
+      "published": "2025-03-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S38",
+      "title": "Top 30 Asset Managers 2024: Zaid Almufarih (Albilad Capital)",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-30-asset-managers-2024/zaid-almufarih/",
+      "doc_type": "Ranking profile",
+      "tier": 5,
+      "published": "2024-04-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S39",
+      "title": "أكبر 30 شركة لإدارة الأصول في الشرق الأوسط 2021: البلاد المالية",
+      "publisher": "Forbes Middle East (Arabic)",
+      "url": "https://www.forbesmiddleeast.com/ar/lists/the-middle-easts-30-biggest-asset-managers/albilad-capital/",
+      "doc_type": "Ranking company profile (names the CEO and his career start)",
+      "tier": 5,
+      "published": "2021-07-06",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S40",
+      "title": "Bank Albilad (1140) - Company Profile (board of directors listing)",
+      "publisher": "Mubasher Info",
+      "url": "https://english.mubasher.info/markets/TDWL/stocks/1140/profile",
+      "doc_type": "Market-data company profile of the parent (board composition as displayed on 12 Oct 2026)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Used only to confirm the parent-board seats of AlOnaizan and Al-Suhaimi while the official pages were blocked."
+    },
+    {
+      "id": "S41",
+      "title": "Bank Albilad announces Changes at the Board of Directors Level",
+      "publisher": "Bank Albilad via Saudi Exchange (filing text mirrored on Mubasher)",
+      "url": "https://english.mubasher.info/news/4600857/Bank-Albilad-announces-Changes-at-the-Board-of-Directors-Level/",
+      "doc_type": "Saudi Exchange announcement - parent board changes effective 1 Jun 2026 (verbatim filing text)",
+      "tier": 1,
+      "published": "2026-04-26",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read on Mubasher; saudiexchange.sa returned HTTP 403."
+    },
+    {
+      "id": "S42",
+      "title": "Albilad Capital set to launch new digitalized products",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/587007",
+      "doc_type": "Financial news (statement by the then Head of Brokerage and Product Development)",
+      "tier": 5,
+      "published": "2018-12-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S43",
+      "title": "Bank Albilad Announces Resignation and Appointment of The CEO",
+      "publisher": "Bank Albilad via Saudi Exchange (filing text mirrored on Mubasher)",
+      "url": "https://english.mubasher.info/news/4600858/Bank-Albilad-Announces-Resignation-and-Appointment-of-The-CEO/",
+      "doc_type": "Saudi Exchange announcement - parent CEO resignation (AlOnaizan) and appointment (verbatim filing text)",
+      "tier": 1,
+      "published": "2026-04-26",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read on Mubasher; saudiexchange.sa returned HTTP 403."
     }
   ],
   "original_reconciliation": [],
@@ -1363,18 +1456,37 @@
         "S18"
       ],
       "resolution": "Used press releases and Forbes ME for the title. Minor."
+    },
+    {
+      "field": "Haytham Al-Suhaimi title",
+      "detail": "The FY2025 fund board report calls him 'Vice President of Business Development'; the parent's board page calls him 'Chief Business Development Officer' at Albilad Capital.",
+      "source_ids": [
+        "S18",
+        "S29"
+      ],
+      "resolution": "Both recorded in the title. Minor."
+    },
+    {
+      "field": "CEO career before Albilad Capital",
+      "detail": "Forbes ME 2026 says he previously held positions at the Capital Market Authority; Forbes ME's 2021 Arabic company profile says he began his career at the Saudi Central Bank before moving to private-sector financial services. Not contradictory (different career stages) but no single dated career is published.",
+      "source_ids": [
+        "S21",
+        "S39"
+      ],
+      "resolution": "Both recorded in previous_roles without years. Minor."
     }
   ],
   "open_items": [
+    "People pass X06 (12 Oct 2026): albilad-capital.com (every URL incl. the board CVs and fund reports), bankalbilad.com.sa and saudiexchange.sa (HTTP 403, incl. Resources PDFs surfaced by search) were blocked, so no person could be re-verified against an official page; evidence rests on R5's same-day reads, Forbes ME (2024-2026), the April 2026 parent filings mirrored on Mubasher, Mubasher's parent-board listing and search-result snippets. No education found for the CEO, CIO or Head of Brokerage; no appointment dates for the CIO, COO or Head of Brokerage. Re-check the board page/CVs and fund annual reports when reachable.",
     "No FY2025 or interim standalone financial statements found on albilad-capital.com (FY2024 is the latest; a guessed FY2025 URL returned 404). Metrics are FY2024. FY2025 and H1 2026 income are shown only as the parent's segment proxy. Re-check the website's financial reports and the parent's Q3 2026 statements in late Oct 2026.",
     "No company-published total AUM, discretionary AUM, client numbers, investing users or headcount found. Forbes USD 10.35bn is unverified; State Street's USD 50bn+ is assets under custody and/or administration, not AUM.",
     "The company website is a thin landing page: About, management, board, wealth management and financial-reports pages were not found, so people come from fund reports, board CVs, press releases, LinkedIn search results and an executive directory. Only the CEO, Chairman and board member Al-Suhaimi have documentary support; the CIO, COO and Head of Brokerage are 'Requires verification'.",
-    "Chairman of Albilad Capital: conflicting evidence (see discrepancies). Whether the AlOnaizan board CV is current is unknown.",
+    "Chairman of Albilad Capital: conflicting evidence (see discrepancies), unresolved after X06 - no board announcement found in English or Arabic searches; whether the AlOnaizan board CV is current is unknown.",
     "Technology vendors for the Saudi trading app, Albilad Tadawul (DirectFN copyright line) and Albilad Global (IB Exchange Corp. copyright line) are inferred from App Store listings only; the new Albilad-Capital app lists no vendor. State Street agreement scope is described differently by Albilad Capital (post-trade services) and State Street (support for the securities services offering).",
     "Whether the KraneShares MoU (2023) produced any listed ETF is not shown; the planned Japan equity ETF with Asset Management One is due by end-2026 and not yet listed per the ETF page.",
     "Brokerage commission schedule, margin terms and IPO details were not on the brokerage page opened; the Albilad Global and Trading Packages sub-pages were not opened. The public fund list may be longer than 12 ('View More').",
     "Leads checked: wealth/private propositions (none at the capital arm; parent has Private Banking); digital investing in the bank app (only Wakala in the bank app; investing in Albilad Capital apps); REITs (Fund of REIT fund listed; no REIT launch found); robo/model portfolios (not found); partnerships 2025-2026 (State Street, Asset Management One, PIF anchor, Madkhol).",
-    "Saudi Exchange pages, the CMA register, and Business Wire (HTTP 403) were not used directly; the LinkedIn company page and Zaid Almufarih's profile are search-result matches only."
+    "Saudi Exchange pages (403, incl. fund-report PDFs), the CMA register and Business Wire (403) were not used directly; the LinkedIn company page and the profiles of Zaid Almufarih, Abdullah Alaqeel and Motasim Alouthah are search-result matches only (name-based look-ups are not permitted; Alouthah's profile reappeared in a 12 Oct 2026 role-based search with the COO title)."
   ],
   "research_status": "Partial",
   "researched_by": "R5",
