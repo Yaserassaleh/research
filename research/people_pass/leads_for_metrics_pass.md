@@ -1,1 +1,2 @@
 - ae-adcb: AR 2025 states Mubadala held 60.69% of ADCB at 31 Dec 2025 (found in people pass X11; shareholders field not edited).
+- ae-mashreq: Forbes ME 2026 profile of Philippides cites USD 1.34bn AUM (found in people pass X13; metrics not edited).
