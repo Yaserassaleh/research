@@ -1,176 +1,1899 @@
 {
-  "id": "intl-hsbc",
-  "name": "HSBC (GCC operations)",
-  "short_name": "HSBC",
-  "legal_name": "HSBC Bank Middle East Limited (DIFC-incorporated; registered no. 2199); ultimate parent HSBC Holdings plc",
-  "name_ar": null,
-  "country": "AE",
-  "hq_city": "Dubai (DIFC)",
-  "website": "https://www.hsbc.ae",
-  "linkedin_company": null,
-  "category": "International bank (GCC operations)",
-  "type": "Universal / commercial bank",
-  "model": "Conventional with Islamic window/subsidiary",
-  "founded": "HBME registered by continuation as a DIFC company on 30 Jun 2016 (registered no. 2199); HSBC says it was the first bank to open in the UAE, almost 80 years before 2023",
-  "regulators": ["DFSA - HSBC Bank Middle East Limited, category 1 licence, F003452 (lead regulator)", "CBUAE - UAE branch (HBME UAE Operations)", "UAE CMA (formerly SCA) - licence 602004 for certain services; HSBC Asset Management UAE funds registered with SCA", "DFSA - HSBC Private Bank (Suisse) SA DIFC branch, F002476"],
-  "listed": false,
-  "exchange": null,
-  "ticker": null,
-  "parent_id": null,
-  "ownership_summary": "HSBC Bank Middle East Limited (HBME) is wholly owned by HSBC Middle East Holdings B.V.; its ultimate parent is HSBC Holdings plc, incorporated in England (HBME Interim Report 2026, note 1). HBME itself is not listed.",
-  "shareholders": [{"holder": "HSBC Middle East Holdings B.V. (immediate parent; ultimate parent HSBC Holdings plc)", "pct": 100, "as_of": "2026-06-30", "source_ids": ["S1"]}],
-  "government_link": "No (wholly owned by HSBC Group).",
-  "group_structure": "HSBC's GCC business runs mainly through HSBC Bank Middle East Limited (HBME), a DIFC company with branches and subsidiaries across the Middle East and North Africa: the UAE branch (HBME UAE Operations, CBUAE-regulated, separately reported in AED), Qatar and other Middle East branches, and an Oman wholesale-only branch opened 2024. HBME reports two segments: Corporate and Institutional Banking (CIB) and International Wealth and Premier Banking (IWPB = Premier, Private Bank and asset-management manufacturing). Separately within HSBC Group: HSBC Private Bank (Suisse) SA DIFC branch; HSBC Asset Management's UAE (Dubai) business with onshore SCA-registered funds (Jan 2026); in Saudi Arabia, a 51% stake in HSBC Saudi Arabia (investment bank; SAB holds 49%), a 31% stake in Saudi Awwal Bank (SAB, profiled separately as sa-sab), and HSBC Capital RHQ (MISA regional HQ licence, Dec 2025). Double counting: HBME UAE Operations figures are included in HBME consolidated figures; SAB is an associate of HSBC and is not consolidated in HBME - do not add SAB's figures to this profile. HSBC presence in MENAT: nine countries (Algeria, Bahrain, Egypt, Kuwait, Oman, Qatar, Saudi Arabia, Turkiye, UAE).",
-  "subsidiaries": [
-    {"name": "HSBC Bank Middle East Limited - UAE Operations (UAE branch)", "pct": 100, "activity": "UAE retail, wealth, commercial and corporate banking; 8 branches", "linked_id": null, "source_ids": ["S3"]},
-    {"name": "HSBC Bank Middle East Limited - Oman Branch", "pct": 100, "activity": "Wholesale banking only (opened May 2024)", "linked_id": null, "source_ids": ["S12"]},
-    {"name": "HSBC Saudi Arabia", "pct": 51, "activity": "Investment bank in Saudi Arabia (HSBC Group 51%, SAB 49%); held at HSBC Group level, not by HBME", "linked_id": null, "source_ids": ["S11", "S9"]},
-    {"name": "Saudi Awwal Bank (SAB)", "pct": 31, "activity": "Saudi universal bank; HSBC Group associate (31%)", "linked_id": "sa-sab", "source_ids": ["S11", "S9"]},
-    {"name": "HSBC Capital RHQ", "pct": null, "activity": "Saudi regional headquarters entity for Capital Markets and Advisory (MISA RHQ licence, Dec 2025)", "linked_id": null, "source_ids": ["S13"]},
-    {"name": "HSBC Asset Management - UAE (Dubai branch)", "pct": null, "activity": "Onshore UAE asset management; 10 SCA-registered funds (Jan 2026)", "linked_id": null, "source_ids": ["S9"]},
-    {"name": "HSBC Private Bank (Suisse) SA - DIFC branch", "pct": null, "activity": "Private banking: advising, arranging, arranging custody, trust services, arranging credit (DFSA F002476, licensed 2015)", "linked_id": null, "source_ids": ["S19"]}
-  ],
-  "footprint": "HBME: UAE (head office DIFC; UAE branches in Abu Dhabi, Bur Dubai, Dubai Festival City Mall, Jumeirah, Jebel Ali, Sharjah, Ras Al Khaimah, Fujairah per FY2025 UAE Operations report), Qatar and other Middle East branches (H1 2026 PBT split: UAE incl. head office, Qatar, Rest of Middle East), Oman wholesale branch (2024). HSBC Group present in nine MENAT countries incl. all six GCC states; MENAT assets USD 73bn at 31 Dec 2024 (group boilerplate).",
-  "customer_segments": "UAE: Personal/Advance, Premier (AED 500k relationship balance, or salary AED 40k / AED 30k for Emiratis, or AED 3m mortgage), Premier Elite, Global Private Banking (HNW/UHNW, with an Arab and Emirati client desk); corporate and institutional clients via CIB.",
-  "business_lines": "Corporate and Institutional Banking (commercial banking, global banking and markets, transaction banking, securities services); International Wealth and Premier Banking (Premier, Private Bank, HSBC Asset Management manufacturing); UAE retail products (accounts, cards, mortgages, insurance via partner plans); WorldTrader online investing (stocks, ETFs, funds, bonds); onshore UAE funds; tokenised deposit service (Jun 2026).",
-  "metrics": [
-    {"metric": "total_assets", "value": 71895699, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed)", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.5 (printed p.4)", "note": ""},
-    {"metric": "total_assets", "value": 64295192, "unit": "thousand", "currency": "USD", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Total assets, consolidated statement of financial position (audited)", "status": "Verified", "source_ids": ["S1", "S2"], "locator": "S1 PDF p.5", "note": ""},
-    {"metric": "customer_deposits", "value": 39110496, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Customer accounts (excludes deposits by banks and non-trading repurchase agreements)", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.5", "note": "31 Dec 2025: USD 37,039,075k."},
-    {"metric": "net_loans", "value": 24920564, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Loans and advances to customers (net), excludes non-trading reverse repos", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.5", "note": "31 Dec 2025: USD 22,618,419k."},
-    {"metric": "total_equity", "value": 6424302, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Total equity", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.5", "note": ""},
-    {"metric": "operating_income", "value": 2610260, "unit": "thousand", "currency": "USD", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Net operating income before change in expected credit losses and other credit impairment charges", "status": "Verified", "source_ids": ["S2"], "locator": "PDF p.9", "note": ""},
-    {"metric": "net_profit", "value": 856210, "unit": "thousand", "currency": "USD", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Profit for the year attributable to shareholder of the parent company (FY2024: USD 867,936k)", "status": "Verified", "source_ids": ["S2"], "locator": "PDF p.9; directors' report p.4", "note": ""},
-    {"metric": "operating_income", "value": 1260153, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Net operating income before change in expected credit losses", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.3", "note": ""},
-    {"metric": "net_profit", "value": 357147, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Profit for the period attributable to shareholder of the parent company (H1 2025: USD 455,836k; ECL charge rose to USD 124.7m)", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.3", "note": ""},
-    {"metric": "wealth_segment_operating_income", "value": 407656, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Segment: International Wealth and Premier Banking (IWPB) within HBME", "definition": "IWPB net operating income before change in ECL (Premier, Private Bank, Asset Management manufacturing); H1 2025: USD 438,051k", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.10 (note 5)", "note": "IWPB profit before tax H1 2026: USD 108,908k (H1 2025: USD 174,835k)."},
-    {"metric": "wealth_segment_total_assets", "value": 14008439, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Segment: IWPB within HBME", "definition": "IWPB total assets (segment balance sheet); IWPB total liabilities USD 19,255,268k", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.10", "note": "Balance-sheet assets, not AUM."},
-    {"metric": "unit_trust_fee_income", "value": 35847, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Entity: HSBC Bank Middle East Limited (consolidated)", "definition": "Fee income - unit trust (H1 2025: USD 23,653k)", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.9 (note 3)", "note": "Indicator of fund distribution activity."},
-    {"metric": "profit_before_tax", "value": 361858, "unit": "thousand", "currency": "USD", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Geography within HBME: UAE (UAE branch and head office)", "definition": "Profit before tax by geographical region - U.A.E (Qatar USD 65,200k; Rest of Middle East USD 47,007k)", "status": "Verified", "source_ids": ["S1"], "locator": "PDF p.10", "note": ""},
-    {"metric": "total_assets", "value": 194143709, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations", "definition": "Total assets per balance sheet reconciliation (CC2) in Q2 2026 UAE Operations financial statements and Pillar 3 disclosures", "status": "Verified", "source_ids": ["S4"], "locator": "PDF p.9", "note": "Included in HBME consolidated figures (do not add)."},
-    {"metric": "total_assets", "value": 170496510, "unit": "thousand", "currency": "AED", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations", "definition": "Total assets, statement of financial position (audited, PwC)", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.15 (printed p.13)", "note": ""},
-    {"metric": "customer_deposits", "value": 117434106, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations", "definition": "Customer accounts (CC2 balance sheet reconciliation)", "status": "Verified", "source_ids": ["S4"], "locator": "PDF p.9", "note": "31 Dec 2025: AED 113,488,075k (S3)."},
-    {"metric": "net_loans", "value": 57505577, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations", "definition": "Loans and advances to customers (CC2 balance sheet reconciliation)", "status": "Verified", "source_ids": ["S4"], "locator": "PDF p.9", "note": "31 Dec 2025: AED 52,004,607k (S3)."},
-    {"metric": "operating_income", "value": 7521142, "unit": "thousand", "currency": "AED", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations", "definition": "Net operating income before change in expected credit losses", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.13", "note": ""},
-    {"metric": "net_profit", "value": 2549096, "unit": "thousand", "currency": "AED", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations", "definition": "Profit for the year (branch; attributable to head office); FY2024 AED 2,658,851k", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.13", "note": ""},
-    {"metric": "branches", "value": 8, "unit": "unit", "currency": null, "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations", "definition": "UAE branches listed in note 1 (Abu Dhabi, Bur Dubai, Dubai Festival City Mall, Jumeirah, Jebel Ali, Sharjah, Ras Al Khaimah, Fujairah)", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.18", "note": "Count of named locations."},
-    {"metric": "brokerage_trading_value", "value": 800, "unit": "million", "currency": "USD", "period_end": "2025-09", "period_label": "12 months to Sep 2025", "period_type": "duration", "scope": "Product: WorldTrader (UAE)", "definition": "Trading volumes on the World Trader platform in the 12 months since launch, as stated by HSBC", "status": "Verified", "source_ids": ["S8"], "locator": "Press release, 16 Sep 2025", "note": "Company statement; launch date implied roughly Sep 2024."},
-    {"metric": "total_assets", "value": 73, "unit": "billion", "currency": "USD", "period_end": "2024-12-31", "period_label": "31 Dec 2024", "period_type": "point_in_time", "scope": "Region: HSBC in MENAT (all HSBC entities in nine countries)", "definition": "Assets across MENAT, per HSBC press-release boilerplate", "status": "Verified", "source_ids": ["S9"], "locator": "Notes to editors", "note": "Rounded; regional management figure; includes non-GCC markets (Turkiye, Egypt, Algeria)."},
-    {"metric": "total_assets", "value": 3438161, "unit": "million", "currency": "USD", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group (global) - HSBC Holdings plc consolidated", "definition": "Total assets", "status": "Verified", "source_ids": ["S5"], "locator": "PDF p.3", "note": "Global group figure, for context only."},
-    {"metric": "customer_deposits", "value": 1827703, "unit": "million", "currency": "USD", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group (global) - HSBC Holdings plc consolidated", "definition": "Customer accounts", "status": "Verified", "source_ids": ["S5"], "locator": "PDF p.3", "note": "Global group figure."},
-    {"metric": "aum", "value": 852, "unit": "billion", "currency": "USD", "period_end": "2025-09-30", "period_label": "30 Sep 2025", "period_type": "point_in_time", "scope": "Group (global) - HSBC Asset Management", "definition": "HSBC Asset Management assets under management (global); Shariah-compliant AUM USD 10bn+ (Oct 2025)", "status": "Verified", "source_ids": ["S9"], "locator": "Release boilerplate", "note": "Global asset-management figure, not GCC."}
-  ],
-  "disclosure_checks": [
-    {"metric": "aum", "status": "Not publicly disclosed", "where_checked": "No HBME, UAE or MENAT AUM/invested assets: HBME Interim Report 2026 (S1), HBME ARA 2025 (S2), UAE Operations ARA 2025 (S3), Q2 2026 UAE Pillar 3 (S4), UAE wealth releases (S8, S9, S10)."},
-    {"metric": "wealth_client_assets", "status": "Not publicly disclosed", "where_checked": "S1, S2, S3, S8, S10, S14 - only IWPB segment balance-sheet assets/liabilities."},
-    {"metric": "customers", "status": "Not found after research", "where_checked": "S1-S4, hsbc.ae Premier page (S16), UAE releases."},
-    {"metric": "investing_users", "status": "Not publicly disclosed", "where_checked": "WorldTrader page (S15), Sep 2025 release (S8) gives trading volume only."}
-  ],
-  "people": [
-    {"name": "Brendan Nelson", "name_ar": null, "title": "Group Chairman (image caption on the same page reads 'Interim Group Chairman')", "functions": ["Chair", "Board"], "entity": "HSBC Holdings plc", "business_unit": "Board of Directors", "scope": "Group (global)", "appointed": null, "appointed_note": "Appointment date not shown on page.", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official board page, checked 2026-10-12 (S6); interim vs permanent status not confirmed.", "source_ids": ["S6"], "checked": "2026-10-12"},
-    {"name": "Georges Elhedery", "name_ar": null, "title": "Group Chief Executive Officer", "functions": ["Group CEO", "Board"], "entity": "HSBC Holdings plc", "business_unit": "Group", "scope": "Group (global)", "appointed": null, "appointed_note": "", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official board and senior management pages, checked 2026-10-12 (S6, S7).", "source_ids": ["S6", "S7"], "checked": "2026-10-12"},
-    {"name": "Barry O'Byrne", "name_ar": null, "title": "CEO, International Wealth and Premier Banking", "functions": ["Wealth", "Affluent", "Private banking"], "entity": "HSBC Holdings plc", "business_unit": "International Wealth and Premier Banking", "scope": "Group (global)", "appointed": null, "appointed_note": "", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official senior management page, checked 2026-10-12 (S7).", "source_ids": ["S7"], "checked": "2026-10-12"},
-    {"name": "David Liao", "name_ar": null, "title": "Co-CEO of Asia and Middle East", "functions": ["CEO"], "entity": "HSBC Holdings plc", "business_unit": "Asia and Middle East", "scope": "Group region (Asia and Middle East)", "appointed": null, "appointed_note": "", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official senior management page, checked 2026-10-12 (S7).", "source_ids": ["S7"], "checked": "2026-10-12"},
-    {"name": "Surendra Rosha", "name_ar": null, "title": "Co-CEO of Asia and Middle East", "functions": ["CEO"], "entity": "HSBC Holdings plc", "business_unit": "Asia and Middle East", "scope": "Group region (Asia and Middle East)", "appointed": null, "appointed_note": "", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official senior management page, checked 2026-10-12 (S7).", "source_ids": ["S7"], "checked": "2026-10-12"},
-    {"name": "Abdulfattah Sharaf", "name_ar": null, "title": "Chairman of the Board, HSBC Bank Middle East Limited", "functions": ["Chair", "Board"], "entity": "HSBC Bank Middle East Limited", "business_unit": "Board of Directors", "scope": "Entity (HBME / MENAT)", "appointed": "2023-05-01", "appointed_note": "Succeeded Samir Assaf (who remains an HBME non-executive director).", "previous_roles": "2010-2023 CEO, HSBC UAE (13 years), combined from 2017 with oversight of Algeria, Bahrain and Kuwait as Head of International; joined HSBC UAE 2008 as CEO, Personal Financial Services, MENA.", "education": null, "qualifications": null, "linkedin_url": "https://ae.linkedin.com/in/abdulfattah-sharaf-00b48669", "linkedin_status": "Verified (profile/search match)", "role_status": "Verified current", "role_evidence": "Signs HBME Interim Report 2026 as Chairman (S1); HBME ARA 2025 board list (S2); appointment release 27 Apr 2023 (S25); LinkedIn snippet 'Chairman, HSBC Bank Middle East ...' (S21).", "source_ids": ["S1", "S2", "S25", "S21"], "checked": "2026-10-12"},
-    {"name": "Selim Kervanci", "name_ar": null, "title": "Chief Executive Officer, Middle East, North Africa and Turkiye (MENAT); CEO and Director, HSBC Bank Middle East Limited", "functions": ["CEO", "Board"], "entity": "HSBC Bank Middle East Limited", "business_unit": "MENAT region", "scope": "Regional (MENAT)", "appointed": "2025-01-01", "appointed_note": "Appointed to the HBME Board and as CEO, MENAT effective 1 Jan 2025. Stephen Moss was quoted as Regional CEO, MENAT in Apr 2024 (S12).", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": "https://www.linkedin.com/in/selimkervanci/", "linkedin_status": "Verified (profile/search match)", "role_status": "Verified current", "role_evidence": "Signs HBME Interim Report 2026 (approved 4 Aug 2026) as CEO/Director (S1); HBME ARA 2025 directors' report (S2); LinkedIn snippet 'Selim K.' CEO MENAT, HSBC, Jan 2025-present (S20).", "source_ids": ["S1", "S2", "S20", "S12"], "checked": "2026-10-12"},
-    {"name": "Mohamed Al Marzooqi", "name_ar": null, "title": "Chief Executive Officer, UAE, HSBC Bank Middle East Limited", "functions": ["CEO"], "entity": "HSBC Bank Middle East Limited - UAE", "business_unit": "UAE", "scope": "Country (UAE)", "appointed": "2023-05-01", "appointed_note": "Spelled 'Mohammed Al Marzouqi' in the UAE Operations ARA 2025 signature.", "previous_roles": "Joined HSBC UAE 2002; roles across retail, commercial, corporate and investment banking; Head of Global Banking, UAE before becoming CEO (S25).", "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Quoted as CEO UAE in HSBC releases of 12 Jan 2026 and 22 Jun 2026 (S9, S26); signs UAE Operations ARA 2025 as CEO (S3).", "source_ids": ["S3", "S9", "S25", "S26"], "checked": "2026-10-12"},
-    {"name": "Dinesh Sharma", "name_ar": null, "title": "Regional Head of International Wealth and Premier Banking (IWPB), Middle East, North Africa and Turkiye", "functions": ["Wealth", "Affluent", "Retail"], "entity": "HSBC Bank Middle East Limited", "business_unit": "International Wealth and Premier Banking", "scope": "Regional (MENAT)", "appointed": "2022-09-01", "appointed_note": "Joined as regional head of wealth and personal banking effective 1 Sep 2022 (reports seen in search results); title in Jan 2026 release reads 'Regional Head of International Wealth and Personal Banking, MENAT'.", "previous_roles": "Middle East consumer bank CEO at Citibank before joining HSBC (2022 reports, search results only).", "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Quoted in HSBC UAE releases of 16 Sep 2025, 13 Oct 2025 and 12 Jan 2026 (S8, S10, S9).", "source_ids": ["S8", "S9", "S10"], "checked": "2026-10-12"},
-    {"name": "Aladdin Hangari", "name_ar": null, "title": "Head of HSBC Private Bank, MENA", "functions": ["Private banking"], "entity": "HSBC Private Bank", "business_unit": "Global Private Banking", "scope": "Regional (MENA)", "appointed": "2024-01", "appointed_note": "Succeeded Sobhi Tabbara (reports seen in search results). DFSA register lists him as Authorised Individual of HSBC Private Bank (Suisse) SA DIFC branch (entries 22 Apr 2024 and 14 May 2025).", "previous_roles": "About 20 years at Credit Suisse, latterly CEO of Credit Suisse (Qatar) LLC (reports seen in search results).", "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Quoted with this title in HSBC Private Bank release of 7 Aug 2026 (S14); DFSA register (S19).", "source_ids": ["S14", "S19"], "checked": "2026-10-12"},
-    {"name": "Feras Al Jarmani", "name_ar": null, "title": "Head of UAE Market, HSBC Private Bank", "functions": ["Private banking"], "entity": "HSBC Private Bank", "business_unit": "Global Private Banking - UAE", "scope": "Country (UAE)", "appointed": "2026-08-07", "appointed_note": "Expanded from Head of the UAE Market for Arab and Emirati Clients; brings all UAE private banking teams under one leader. Spelled 'Al Jaramani' in some press coverage.", "previous_roles": "25 years in financial services, incl. 13 years at HSBC serving sovereign and corporate clients in the UAE (S14).", "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "HSBC Private Bank release, 7 Aug 2026 (S14).", "source_ids": ["S14"], "checked": "2026-10-12"},
-    {"name": "Daisy Ho", "name_ar": null, "title": "CEO, Asia & Middle East, HSBC Asset Management", "functions": ["Investments / asset management"], "entity": "HSBC Asset Management", "business_unit": "Asset Management", "scope": "Regional (Asia and Middle East)", "appointed": null, "appointed_note": "", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Quoted with this title in HSBC UAE release of 12 Jan 2026 (S9).", "source_ids": ["S9"], "checked": "2026-10-12"},
-    {"name": "James Grist", "name_ar": null, "title": "General Manager, HSBC Asset Management UAE entity", "functions": ["Investments / asset management", "Subsidiary CEO"], "entity": "HSBC Asset Management - UAE", "business_unit": "Asset Management", "scope": "Country (UAE)", "appointed": "2026-01", "appointed_note": "Responsible for the onshore funds platform and broader UAE investment capabilities.", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "HSBC UAE release, 12 Jan 2026 (S9); no later change found.", "source_ids": ["S9"], "checked": "2026-10-12"},
-    {"name": "Faris AlGhannam", "name_ar": null, "title": "Chief Executive Officer, HSBC Saudi Arabia", "functions": ["CEO", "Subsidiary CEO"], "entity": "HSBC Saudi Arabia", "business_unit": "Saudi Arabia", "scope": "Country (Saudi Arabia)", "appointed": "2022-10-01", "appointed_note": "Succeeded Rajiv Shukla; joined HSBC Saudi Arabia 2011 (2022 coverage, search results only).", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Requires verification", "role_evidence": "Named CEO in a 2026 Zawya press release on an Al Rajhi Capital ETF custody mandate and in 2022 Argaam coverage, both seen in search results only (S22, S23); HSBC Saudi Arabia website did not respond.", "source_ids": ["S22", "S23"], "checked": "2026-10-12"}
-  ],
-  "capabilities": {
-    "wealth_summary": "HSBC's GCC wealth business sits in the International Wealth and Premier Banking (IWPB) segment of HSBC Bank Middle East (H1 2026 IWPB income USD 408m, PBT USD 109m), led regionally by Dinesh Sharma. In Sep 2025 HSBC called its UAE push its biggest IWPB investment in two decades: the first Middle East wealth centre (Jumeirah, Dubai, for Premier and HNW clients), a revamped Premier account (AED 500k relationship balance) with an in-app Future Planner tool (Oct 2025), and a doubling of affluent frontline staff. Self-directed investing runs on WorldTrader, powered by Interactive Brokers (U.K.) Limited, offering ADX/DFM and international stocks, ETFs, funds and bonds (USD 800m traded in its first 12 months). In Jan 2026 HSBC Asset Management opened a Dubai branch and registered 10 onshore SCA feeder funds, including World Selection multi-asset portfolios and three Shariah/sukuk funds. HSBC Private Bank (MENA head Aladdin Hangari; UAE head Feras Al Jarmani from Aug 2026) operates from the DIFC and aims to be the leading private bank in the region.",
-    "segments": [
-      {"name": "HSBC Premier", "tier": "Affluent", "eligibility": "One of: total relationship balance AED 500,000; monthly salary AED 40,000 (AED 30,000 for Emiratis) plus AED 500k TRB within 12 months; HSBC home loan drawdown AED 3m+ plus AED 500k TRB within 12 months; shared/ international Premier status.", "source_ids": ["S16"]},
-      {"name": "HSBC Premier Elite", "tier": "Upper affluent", "eligibility": "Not stated on page checked.", "source_ids": ["S16"]},
-      {"name": "HSBC Global Private Banking", "tier": "Private / HNW-UHNW", "eligibility": "Not published on pages checked.", "source_ids": ["S14"]}
-    ],
-    "private_banking": {"present": "Yes", "detail": "HSBC Private Bank MENA (Aladdin Hangari); UAE market unified under Feras Al Jarmani (Aug 2026); HSBC Private Bank (Suisse) SA DIFC branch licensed for advising, arranging, arranging custody, trust services and credit; onshore private banking advisory launched in Kuwait (Aug 2023).", "source_ids": ["S14", "S19", "S11"]},
-    "asset_management": {"present": "Yes", "detail": "HSBC Asset Management UAE (Dubai branch, GM James Grist) launched 10 SCA-registered onshore feeder funds in Jan 2026 (World Selection 2-5 portfolios, India fixed income, strategic duration bond, US income, Islamic global equity index, Shariah multi-asset, global sukuk). HSBC AM global AUM USD 852bn (Sep 2025).", "source_ids": ["S9"]},
-    "brokerage": {"present": "Yes", "detail": "WorldTrader: orders transmitted to and custodied by Interactive Brokers (U.K.) Limited; ADX and DFM (300+ assets) plus US, European and Asian markets; up to 25 markets and 77 exchanges via app.", "source_ids": ["S15", "S17"]},
-    "digital_investing": {"present": "Yes", "detail": "WorldTrader app and web platform (stocks, ETFs, mutual funds, bonds), accounts opened in HSBC UAE app; Lombard lending against WorldTrader holdings; Future Planner financial-planning tool in HSBC UAE app (Oct 2025). USD 800m trading volume in first 12 months (to Sep 2025).", "source_ids": ["S15", "S17", "S10", "S8"]},
-    "advisory": {"present": "Yes", "detail": "Premier relationship managers and wealth specialists; DFSA licence covers advising on financial products (HBME and HSBC Private Bank Suisse DIFC).", "source_ids": ["S16", "S18", "S19"]},
-    "discretionary": {"present": "Unclear", "detail": "Not found on UAE pages; HBME DFSA licence has no managing-assets permission.", "source_ids": ["S17", "S18"]},
-    "model_portfolios_robo": {"present": "Unclear", "detail": "Risk-graded World Selection 2-5 multi-asset feeder funds offered onshore (fund-based portfolios); no robo-advice or model-portfolio service found.", "source_ids": ["S9"]},
-    "funds_platform": {"present": "Yes", "detail": "Mutual funds via WorldTrader and online banking; onshore HSBC UAE funds; unit trust fee income USD 35.8m in H1 2026 at HBME.", "source_ids": ["S15", "S9", "S1"]},
-    "structured_products": {"present": "Yes", "detail": "Structured products listed in hsbc.ae investments navigation (no detail); HBME DFSA licence covers advising, arranging and dealing in structured products.", "source_ids": ["S17", "S18"]},
-    "private_markets": {"present": "Not found after research", "detail": "No private-markets or alternatives offering found on UAE pages or releases checked.", "source_ids": ["S17", "S9"]},
-    "islamic_wealth": {"present": "Yes", "detail": "Onshore Islamic Global Equity Index, Shariah Multi Asset and Global Sukuk feeder funds (Jan 2026); HSBC AM Shariah AUM USD 10bn+ (Oct 2025); HBME DFSA Islamic window endorsement; UAE branch has an Internal Shari'ah Supervision Committee.", "source_ids": ["S9", "S18", "S3"]},
-    "asset_classes": ["Local equities", "US/international equities", "ETFs", "Mutual funds", "Bonds", "Sukuk", "Structured products"],
-    "partners": [
-      {"partner": "Interactive Brokers (U.K.) Limited", "kind": "Execution / custody platform", "what": "Powers WorldTrader; receives orders and holds client securities as custodian", "date": null, "status": "Live", "source_ids": ["S15"]}
-    ],
-    "initiatives": [
-      {"date": "2026-08-07", "what": "HSBC Private Bank unified UAE private banking teams under Feras Al Jarmani; stated ambition to be the leading private bank in the Middle East.", "source_ids": ["S14"]},
-      {"date": "2026-06-22", "what": "Launched Tokenised Deposit Service in the UAE for corporate liquidity (24/7 on-chain transfers).", "source_ids": ["S26"]},
-      {"date": "2026-01-12", "what": "HSBC Asset Management launched UAE onshore business (Dubai branch) and 10 SCA-registered funds.", "source_ids": ["S9"]},
-      {"date": "2025-12-09", "what": "MISA granted HSBC a Regional HQ licence for Capital Markets and Advisory in Saudi Arabia (HSBC Capital RHQ).", "source_ids": ["S13"]},
-      {"date": "2025-10-13", "what": "Revamped Premier account in the UAE with Future Planner planning tool in the mobile app.", "source_ids": ["S10"]},
-      {"date": "2025-09-16", "what": "Opened first Middle East wealth centre (Jumeirah, Dubai); described as HSBC's biggest IWPB investment in two decades.", "source_ids": ["S8"]},
-      {"date": "2024-04-02", "what": "Named Elie El Asmar CEO of new wholesale-only Oman branch (opening May 2024).", "source_ids": ["S12"]}
-    ],
-    "evidence_for_arta": {
-      "opportunities": [
-        "States its UAE wealth push is its biggest IWPB investment in 20 years, with the goal of being the UAE's leading international wealth player (S8, S14).",
-        "No discretionary, model-portfolio or private-markets offering found on UAE pages; HBME DFSA licence lacks managing assets (S17, S18).",
-        "Shift to onshore, UAE-domiciled products (10 SCA funds launched Jan 2026) (S9)."
-      ],
-      "barriers": [
-        "WorldTrader execution and custody already outsourced to Interactive Brokers (U.K.) Limited (S15).",
-        "In-house manufacturing via HSBC Asset Management, including Shariah funds (S9).",
-        "Group-wide propositions (Premier revamp and Future Planner rolled out globally) suggest group-level platform decisions (S10)."
-      ],
-      "incumbent_vendors": ["Interactive Brokers (U.K.) Limited - WorldTrader execution/custody (S15)"]
-    }
+ "id": "intl-hsbc",
+ "name": "HSBC (GCC operations)",
+ "short_name": "HSBC",
+ "legal_name": "HSBC Bank Middle East Limited (DIFC-incorporated; registered no. 2199); ultimate parent HSBC Holdings plc",
+ "name_ar": null,
+ "country": "AE",
+ "hq_city": "Dubai (DIFC)",
+ "website": "https://www.hsbc.ae",
+ "linkedin_company": null,
+ "category": "International bank (GCC operations)",
+ "type": "Universal / commercial bank",
+ "model": "Conventional with Islamic window/subsidiary",
+ "founded": "HBME registered by continuation as a DIFC company on 30 Jun 2016 (registered no. 2199); HSBC says it was the first bank to open in the UAE, almost 80 years before 2023",
+ "regulators": [
+  "DFSA - HSBC Bank Middle East Limited, category 1 licence, F003452 (lead regulator)",
+  "CBUAE - UAE branch (HBME UAE Operations)",
+  "UAE CMA (formerly SCA) - licence 602004 for certain services; HSBC Asset Management UAE funds registered with SCA",
+  "DFSA - HSBC Private Bank (Suisse) SA DIFC branch, F002476"
+ ],
+ "listed": false,
+ "exchange": null,
+ "ticker": null,
+ "parent_id": null,
+ "ownership_summary": "HSBC Bank Middle East Limited (HBME) is wholly owned by HSBC Middle East Holdings B.V.; its ultimate parent is HSBC Holdings plc, incorporated in England (HBME Interim Report 2026, note 1). HBME itself is not listed.",
+ "shareholders": [
+  {
+   "holder": "HSBC Middle East Holdings B.V. (immediate parent; ultimate parent HSBC Holdings plc)",
+   "pct": 100,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S1"
+   ]
+  }
+ ],
+ "government_link": "No (wholly owned by HSBC Group).",
+ "group_structure": "HSBC's GCC business runs mainly through HSBC Bank Middle East Limited (HBME), a DIFC company with branches and subsidiaries across the Middle East and North Africa: the UAE branch (HBME UAE Operations, CBUAE-regulated, separately reported in AED), Qatar and other Middle East branches, and an Oman wholesale-only branch opened 2024. HBME reports two segments: Corporate and Institutional Banking (CIB) and International Wealth and Premier Banking (IWPB = Premier, Private Bank and asset-management manufacturing). Separately within HSBC Group: HSBC Private Bank (Suisse) SA DIFC branch; HSBC Asset Management's UAE (Dubai) business with onshore SCA-registered funds (Jan 2026); in Saudi Arabia, a 51% stake in HSBC Saudi Arabia (investment bank; SAB holds 49%), a 31% stake in Saudi Awwal Bank (SAB, profiled separately as sa-sab), and HSBC Capital RHQ (MISA regional HQ licence, Dec 2025). Double counting: HBME UAE Operations figures are included in HBME consolidated figures; SAB is an associate of HSBC and is not consolidated in HBME - do not add SAB's figures to this profile. HSBC presence in MENAT: nine countries (Algeria, Bahrain, Egypt, Kuwait, Oman, Qatar, Saudi Arabia, Turkiye, UAE).",
+ "subsidiaries": [
+  {
+   "name": "HSBC Bank Middle East Limited - UAE Operations (UAE branch)",
+   "pct": 100,
+   "activity": "UAE retail, wealth, commercial and corporate banking; 8 branches",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
   },
-  "sources": [
-    {"id": "S1", "title": "HSBC Bank Middle East Limited Interim Report 2026", "publisher": "HSBC Bank Middle East Limited", "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2026/interim/pdfs/hsbc-bank-middle-east-limited/260804-hbme-interim-report-2026.pdf", "doc_type": "Reviewed interim financial statements", "tier": 1, "published": "2026-08-04", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S2", "title": "HSBC Bank Middle East Limited Annual Report and Accounts 2025", "publisher": "HSBC Bank Middle East Limited", "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2025/annual/pdfs/hsbc-bank-middle-east-limited/260225-hbme-annual-report-and-accounts-2025.pdf", "doc_type": "Annual report (audited)", "tier": 1, "published": "2026-02-25", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S3", "title": "HSBC Bank Middle East Limited - UAE Operations Annual Report and Accounts 2025", "publisher": "HSBC Bank Middle East Limited", "url": "https://www.about.hsbc.ae/-/media/uae/en/financial-information/260330-hbme-annual-report-and-accounts-2025.pdf?sc_lang=en-GB", "doc_type": "Annual financial statements (audited, PwC)", "tier": 1, "published": "2026-03-30", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S4", "title": "HBME UAE Operations - Q2 2026 financial statements and Pillar 3 disclosures", "publisher": "HSBC Bank Middle East Limited", "url": "https://www.about.hsbc.ae/-/media/uae/en/financial-information/260811-q2-uae-operations-fs-and-p3-disclosures.pdf?sc_lang=en-GB", "doc_type": "Regulatory disclosure (Pillar 3)", "tier": 1, "published": "2026-08-11", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S5", "title": "HSBC Holdings plc Interim Results 2026 - media release", "publisher": "HSBC Holdings plc", "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2026/interim/pdfs/hsbc-holdings-plc/260804-hsbc-holdings-plc-interim-results-2026-media-release.pdf", "doc_type": "Results announcement", "tier": 1, "published": "2026-08-04", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S6", "title": "Board of directors", "publisher": "HSBC Holdings plc", "url": "https://www.hsbc.com/who-we-are/leadership-and-governance/board-of-directors", "doc_type": "Official leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S7", "title": "Senior management", "publisher": "HSBC Holdings plc", "url": "https://www.hsbc.com/who-we-are/leadership-and-governance/senior-management", "doc_type": "Official leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S8", "title": "HSBC opens first Middle East wealth centre in the UAE", "publisher": "HSBC UAE", "url": "https://www.about.hsbc.ae/news-and-media/hsbc-opens-first-middle-east-wealth-centre-in-the-uae", "doc_type": "Press release", "tier": 2, "published": "2025-09-16", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S9", "title": "HSBC is the first global asset manager to launch onshore funds in the UAE", "publisher": "HSBC UAE", "url": "https://www.about.hsbc.ae/news-and-media/hsbc-is-the-first-global-asset-manager-to-launch-onshore-funds-in-the-uae", "doc_type": "Press release", "tier": 2, "published": "2026-01-12", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S10", "title": "HSBC enhances Premier offering as new survey reveals one in four UAE adults uncertain about their financial future", "publisher": "HSBC UAE", "url": "https://www.about.hsbc.ae/news-and-media/hsbc-enhances-premier-offering-in-four-uae-adults-uncertain-about-their-financial-future", "doc_type": "Press release", "tier": 2, "published": "2025-10-13", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S11", "title": "HSBC Appoints Head of Global Private Banking in Kuwait, Launching Onshore Advisory Services", "publisher": "HSBC UAE", "url": "https://www.about.hsbc.ae/news-and-media/middle-east-global-private-banking", "doc_type": "Press release", "tier": 2, "published": "2023-08-14", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S12", "title": "Elie El Asmar named Chief Executive for HSBC's new Oman branch", "publisher": "HSBC UAE", "url": "https://www.about.hsbc.ae/news-and-media/elie-el-asmar-named-chief-executive-for-hsbcs-new-oman-branch", "doc_type": "Press release", "tier": 2, "published": "2024-04-02", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S13", "title": "MISA awards HSBC RHQ license for CMA Business in Saudi Arabia", "publisher": "HSBC UAE", "url": "https://www.about.hsbc.ae/news-and-media/misa-awards-hsbc-rhq-license-for-cma-business-in-saudi-arabia", "doc_type": "Press release", "tier": 2, "published": "2025-12-09", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S14", "title": "HSBC Private Bank appoints Feras Al Jarmani to lead its UAE Market", "publisher": "HSBC Private Bank", "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/media-release/2026/hsbc-private-bank-appoints-feras-al-jarmani-to-lead-its-uae-market.pdf", "doc_type": "Press release", "tier": 2, "published": "2026-08-07", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S15", "title": "HSBC WorldTrader - HSBC UAE", "publisher": "HSBC UAE", "url": "https://www.hsbc.ae/investments/products/worldtrader/", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S16", "title": "HSBC Premier - HSBC UAE", "publisher": "HSBC UAE", "url": "https://www.hsbc.ae/premier/", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S17", "title": "Investments - HSBC UAE", "publisher": "HSBC UAE", "url": "https://www.hsbc.ae/investments/", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S18", "title": "DFSA Public Register - HSBC Bank Middle East Limited, F003452", "publisher": "Dubai Financial Services Authority", "url": "https://www.dfsa.ae/public-register/firms/hsbc-bank-middle-east-limited-1", "doc_type": "Regulator register", "tier": 3, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S19", "title": "DFSA Public Register - HSBC Private Bank (Suisse) SA, F002476", "publisher": "Dubai Financial Services Authority", "url": "https://www.dfsa.ae/public-register/firms/hsbc-private-bank-suisse-sa", "doc_type": "Regulator register", "tier": 3, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S20", "title": "Selim K. - CEO, Middle East, North Africa and Turkiye (LinkedIn)", "publisher": "LinkedIn", "url": "https://www.linkedin.com/in/selimkervanci/", "doc_type": "LinkedIn profile (search result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only; surname abbreviated in snippet, full name in URL"},
-    {"id": "S21", "title": "Abdulfattah Sharaf - Chairman, HSBC Bank Middle East ... (LinkedIn)", "publisher": "LinkedIn", "url": "https://ae.linkedin.com/in/abdulfattah-sharaf-00b48669", "doc_type": "LinkedIn profile (search result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only"},
-    {"id": "S22", "title": "Al Rajhi Capital appoints HSBC Saudi Arabia as custodian to Al Rajhi MSCI Saudi Arabia ETF", "publisher": "Zawya", "url": "https://www.zawya.com/en/press-release/companies-news/al-rajhi-capital-appoints-hsbc-saudi-arabia-as-custodian-to-al-rajhi-msci-saudi-arabia-etf-584669", "doc_type": "Press release (news site)", "tier": 5, "published": "2026", "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only"},
-    {"id": "S23", "title": "HSBC Saudi Arabia appoints new CEO", "publisher": "Argaam", "url": "https://www.argaam.com/en/article/articledetail/id/1590675", "doc_type": "News", "tier": 5, "published": "2022-09", "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only"},
-    {"id": "S25", "title": "HSBC UAE makes senior leadership appointments as it accelerates growth in MENAT region", "publisher": "HSBC UAE", "url": "https://www.about.hsbc.ae/news-and-media/hsbc-uae-senior-leadership-appointments", "doc_type": "Press release", "tier": 2, "published": "2023-04-27", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S26", "title": "HSBC launches Tokenised Deposit Service in the UAE, connecting Global Liquidity across Key Financial Markets", "publisher": "HSBC UAE", "url": "https://www.about.hsbc.ae/news-and-media/hsbc-launches-tokenised-deposit-service-in-the-uae", "doc_type": "Press release", "tier": 2, "published": "2026-06-22", "accessed": "2026-10-12", "language": "en"}
+  {
+   "name": "HSBC Bank Middle East Limited - Oman Branch",
+   "pct": 100,
+   "activity": "Wholesale banking only (opened May 2024)",
+   "linked_id": null,
+   "source_ids": [
+    "S12"
+   ]
+  },
+  {
+   "name": "HSBC Saudi Arabia",
+   "pct": 51,
+   "activity": "Investment bank in Saudi Arabia (HSBC Group 51%, SAB 49%); held at HSBC Group level, not by HBME",
+   "linked_id": null,
+   "source_ids": [
+    "S11",
+    "S9"
+   ]
+  },
+  {
+   "name": "Saudi Awwal Bank (SAB)",
+   "pct": 31,
+   "activity": "Saudi universal bank; HSBC Group associate (31%)",
+   "linked_id": "sa-sab",
+   "source_ids": [
+    "S11",
+    "S9"
+   ]
+  },
+  {
+   "name": "HSBC Capital RHQ",
+   "pct": null,
+   "activity": "Saudi regional headquarters entity for Capital Markets and Advisory (MISA RHQ licence, Dec 2025)",
+   "linked_id": null,
+   "source_ids": [
+    "S13"
+   ]
+  },
+  {
+   "name": "HSBC Asset Management - UAE (Dubai branch)",
+   "pct": null,
+   "activity": "Onshore UAE asset management; 10 SCA-registered funds (Jan 2026)",
+   "linked_id": null,
+   "source_ids": [
+    "S9"
+   ]
+  },
+  {
+   "name": "HSBC Private Bank (Suisse) SA - DIFC branch",
+   "pct": null,
+   "activity": "Private banking: advising, arranging, arranging custody, trust services, arranging credit (DFSA F002476, licensed 2015)",
+   "linked_id": null,
+   "source_ids": [
+    "S19"
+   ]
+  }
+ ],
+ "footprint": "HBME: UAE (head office DIFC; UAE branches in Abu Dhabi, Bur Dubai, Dubai Festival City Mall, Jumeirah, Jebel Ali, Sharjah, Ras Al Khaimah, Fujairah per FY2025 UAE Operations report), Qatar and other Middle East branches (H1 2026 PBT split: UAE incl. head office, Qatar, Rest of Middle East), Oman wholesale branch (2024). HSBC Group present in nine MENAT countries incl. all six GCC states; MENAT assets USD 73bn at 31 Dec 2024 (group boilerplate).",
+ "customer_segments": "UAE: Personal/Advance, Premier (AED 500k relationship balance, or salary AED 40k / AED 30k for Emiratis, or AED 3m mortgage), Premier Elite, Global Private Banking (HNW/UHNW, with an Arab and Emirati client desk); corporate and institutional clients via CIB.",
+ "business_lines": "Corporate and Institutional Banking (commercial banking, global banking and markets, transaction banking, securities services); International Wealth and Premier Banking (Premier, Private Bank, HSBC Asset Management manufacturing); UAE retail products (accounts, cards, mortgages, insurance via partner plans); WorldTrader online investing (stocks, ETFs, funds, bonds); onshore UAE funds; tokenised deposit service (Jun 2026).",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 71895699,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.5 (printed p.4)",
+   "note": ""
+  },
+  {
+   "metric": "total_assets",
+   "value": 64295192,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Total assets, consolidated statement of financial position (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S1",
+    "S2"
+   ],
+   "locator": "S1 PDF p.5",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 39110496,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Customer accounts (excludes deposits by banks and non-trading repurchase agreements)",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.5",
+   "note": "31 Dec 2025: USD 37,039,075k."
+  },
+  {
+   "metric": "net_loans",
+   "value": 24920564,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Loans and advances to customers (net), excludes non-trading reverse repos",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.5",
+   "note": "31 Dec 2025: USD 22,618,419k."
+  },
+  {
+   "metric": "total_equity",
+   "value": 6424302,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Total equity",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.5",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 2610260,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Net operating income before change in expected credit losses and other credit impairment charges",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.9",
+   "note": ""
+  },
+  {
+   "metric": "net_profit",
+   "value": 856210,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Profit for the year attributable to shareholder of the parent company (FY2024: USD 867,936k)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.9; directors' report p.4",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 1260153,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Net operating income before change in expected credit losses",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "net_profit",
+   "value": 357147,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Profit for the period attributable to shareholder of the parent company (H1 2025: USD 455,836k; ECL charge rose to USD 124.7m)",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "wealth_segment_operating_income",
+   "value": 407656,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Segment: International Wealth and Premier Banking (IWPB) within HBME",
+   "definition": "IWPB net operating income before change in ECL (Premier, Private Bank, Asset Management manufacturing); H1 2025: USD 438,051k",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.10 (note 5)",
+   "note": "IWPB profit before tax H1 2026: USD 108,908k (H1 2025: USD 174,835k)."
+  },
+  {
+   "metric": "wealth_segment_total_assets",
+   "value": 14008439,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Segment: IWPB within HBME",
+   "definition": "IWPB total assets (segment balance sheet); IWPB total liabilities USD 19,255,268k",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.10",
+   "note": "Balance-sheet assets, not AUM."
+  },
+  {
+   "metric": "unit_trust_fee_income",
+   "value": 35847,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Entity: HSBC Bank Middle East Limited (consolidated)",
+   "definition": "Fee income - unit trust (H1 2025: USD 23,653k)",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.9 (note 3)",
+   "note": "Indicator of fund distribution activity."
+  },
+  {
+   "metric": "profit_before_tax",
+   "value": 361858,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Geography within HBME: UAE (UAE branch and head office)",
+   "definition": "Profit before tax by geographical region - U.A.E (Qatar USD 65,200k; Rest of Middle East USD 47,007k)",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.10",
+   "note": ""
+  },
+  {
+   "metric": "total_assets",
+   "value": 194143709,
+   "unit": "thousand",
+   "currency": "AED",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations",
+   "definition": "Total assets per balance sheet reconciliation (CC2) in Q2 2026 UAE Operations financial statements and Pillar 3 disclosures",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.9",
+   "note": "Included in HBME consolidated figures (do not add)."
+  },
+  {
+   "metric": "total_assets",
+   "value": 170496510,
+   "unit": "thousand",
+   "currency": "AED",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations",
+   "definition": "Total assets, statement of financial position (audited, PwC)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.15 (printed p.13)",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 117434106,
+   "unit": "thousand",
+   "currency": "AED",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations",
+   "definition": "Customer accounts (CC2 balance sheet reconciliation)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.9",
+   "note": "31 Dec 2025: AED 113,488,075k (S3)."
+  },
+  {
+   "metric": "net_loans",
+   "value": 57505577,
+   "unit": "thousand",
+   "currency": "AED",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations",
+   "definition": "Loans and advances to customers (CC2 balance sheet reconciliation)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.9",
+   "note": "31 Dec 2025: AED 52,004,607k (S3)."
+  },
+  {
+   "metric": "operating_income",
+   "value": 7521142,
+   "unit": "thousand",
+   "currency": "AED",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations",
+   "definition": "Net operating income before change in expected credit losses",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.13",
+   "note": ""
+  },
+  {
+   "metric": "net_profit",
+   "value": 2549096,
+   "unit": "thousand",
+   "currency": "AED",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations",
+   "definition": "Profit for the year (branch; attributable to head office); FY2024 AED 2,658,851k",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.13",
+   "note": ""
+  },
+  {
+   "metric": "branches",
+   "value": 8,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Branch: HSBC Bank Middle East Limited - UAE Operations",
+   "definition": "UAE branches listed in note 1 (Abu Dhabi, Bur Dubai, Dubai Festival City Mall, Jumeirah, Jebel Ali, Sharjah, Ras Al Khaimah, Fujairah)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.18",
+   "note": "Count of named locations."
+  },
+  {
+   "metric": "brokerage_trading_value",
+   "value": 800,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-09",
+   "period_label": "12 months to Sep 2025",
+   "period_type": "duration",
+   "scope": "Product: WorldTrader (UAE)",
+   "definition": "Trading volumes on the World Trader platform in the 12 months since launch, as stated by HSBC",
+   "status": "Verified",
+   "source_ids": [
+    "S8"
+   ],
+   "locator": "Press release, 16 Sep 2025",
+   "note": "Company statement; launch date implied roughly Sep 2024."
+  },
+  {
+   "metric": "total_assets",
+   "value": 73,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2024-12-31",
+   "period_label": "31 Dec 2024",
+   "period_type": "point_in_time",
+   "scope": "Region: HSBC in MENAT (all HSBC entities in nine countries)",
+   "definition": "Assets across MENAT, per HSBC press-release boilerplate",
+   "status": "Verified",
+   "source_ids": [
+    "S9"
+   ],
+   "locator": "Notes to editors",
+   "note": "Rounded; regional management figure; includes non-GCC markets (Turkiye, Egypt, Algeria)."
+  },
+  {
+   "metric": "total_assets",
+   "value": 3438161,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group (global) - HSBC Holdings plc consolidated",
+   "definition": "Total assets",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "PDF p.3",
+   "note": "Global group figure, for context only."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 1827703,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group (global) - HSBC Holdings plc consolidated",
+   "definition": "Customer accounts",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "PDF p.3",
+   "note": "Global group figure."
+  },
+  {
+   "metric": "aum",
+   "value": 852,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2025-09-30",
+   "period_label": "30 Sep 2025",
+   "period_type": "point_in_time",
+   "scope": "Group (global) - HSBC Asset Management",
+   "definition": "HSBC Asset Management assets under management (global); Shariah-compliant AUM USD 10bn+ (Oct 2025)",
+   "status": "Verified",
+   "source_ids": [
+    "S9"
+   ],
+   "locator": "Release boilerplate",
+   "note": "Global asset-management figure, not GCC."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "No HBME, UAE or MENAT AUM/invested assets: HBME Interim Report 2026 (S1), HBME ARA 2025 (S2), UAE Operations ARA 2025 (S3), Q2 2026 UAE Pillar 3 (S4), UAE wealth releases (S8, S9, S10)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "S1, S2, S3, S8, S10, S14 - only IWPB segment balance-sheet assets/liabilities."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S1-S4, hsbc.ae Premier page (S16), UAE releases."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "WorldTrader page (S15), Sep 2025 release (S8) gives trading volume only."
+  }
+ ],
+ "people": [
+  {
+   "name": "Brendan Nelson",
+   "name_ar": null,
+   "title": "Group Chairman (image caption on the same page reads 'Interim Group Chairman')",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "HSBC Holdings plc",
+   "business_unit": "Board of Directors",
+   "scope": "Group (global)",
+   "appointed": null,
+   "appointed_note": "Appointment date not shown on page.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official board page, checked 2026-10-12 (S6); interim vs permanent status not confirmed.",
+   "source_ids": [
+    "S6"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Georges Elhedery",
+   "name_ar": null,
+   "title": "Group Chief Executive Officer",
+   "functions": [
+    "Group CEO",
+    "Board"
+   ],
+   "entity": "HSBC Holdings plc",
+   "business_unit": "Group",
+   "scope": "Group (global)",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official board and senior management pages, checked 2026-10-12 (S6, S7).",
+   "source_ids": [
+    "S6",
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Barry O'Byrne",
+   "name_ar": null,
+   "title": "CEO, International Wealth and Premier Banking",
+   "functions": [
+    "Wealth",
+    "Affluent",
+    "Private banking"
+   ],
+   "entity": "HSBC Holdings plc",
+   "business_unit": "International Wealth and Premier Banking",
+   "scope": "Group (global)",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official senior management page, checked 2026-10-12 (S7).",
+   "source_ids": [
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "David Liao",
+   "name_ar": null,
+   "title": "Co-CEO of Asia and Middle East",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "HSBC Holdings plc",
+   "business_unit": "Asia and Middle East",
+   "scope": "Group region (Asia and Middle East)",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official senior management page, checked 2026-10-12 (S7).",
+   "source_ids": [
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Surendra Rosha",
+   "name_ar": null,
+   "title": "Co-CEO of Asia and Middle East",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "HSBC Holdings plc",
+   "business_unit": "Asia and Middle East",
+   "scope": "Group region (Asia and Middle East)",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official senior management page, checked 2026-10-12 (S7).",
+   "source_ids": [
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulfattah Sharaf",
+   "name_ar": null,
+   "title": "Chairman of the Board (Non-Executive Director), HSBC Bank Middle East Limited",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "HSBC Bank Middle East Limited",
+   "business_unit": "Board of Directors",
+   "scope": "Entity (HBME / MENAT)",
+   "appointed": "2023-05-01",
+   "appointed_note": "Appointed Chairman of the HBME Board effective 1 May 2023, succeeding Samir Assaf, who stayed on as a Non-Executive Director (HSBC UAE release of 27 Apr 2023, S25). Earlier HBME board term 2010-2019 (S25). The HBME board at Oct 2026 (official lists, S27, S28): Sharaf (Chairman NED), Samir Assaf, Amina Alrustamani (Deputy Chair per AR 2025), Selim Kervanci (CEO MENAT, Executive Director), Paul Lawrence, John Bartlett, Dr Majed Najm; Daniel Hankinson (Executive Director) stepped down 11 Dec 2025 (S2).",
+   "previous_roles": "May 2023- Chairman (Non-Executive Director), HSBC Bank Middle East Limited; 2010-2023 Chief Executive Officer, HSBC UAE (from 2017 also Head of International, overseeing Algeria, Bahrain and Kuwait); 2008-2010 Chief Executive Officer, Personal Financial Services, Middle East and North Africa, HSBC (joined HSBC UAE in 2008); 2010-2019 Board member, HSBC Bank Middle East Limited (first term); former board roles at HSBC Saudi Arabia and Etisalat (dates not published). Current other roles (per the Apr 2023 release): Board member, HSBC Private Bank (Suisse) SA; member, Higher Board of the DIFC; board member, Noor Dubai Foundation; Board of Trustees, American University of Sharjah; Advisory Board, Mastercard MEA.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": "https://ae.linkedin.com/in/abdulfattah-sharaf-00b48669",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "HBME Board of Directors lists on the official HSBC Kuwait and HSBC Bahrain sites, checked 2026-10-12, show 'Chairman Non-Executive Director' (S27, S28); HBME Annual Report and Accounts 2025 board list (S2, p.2); signed the HBME Interim Report 2026, approved 4 Aug 2026, as Chairman (S1); appointment release (S25). Role-based 2025-2026 searches on HBME/MENAT leadership surfaced no change. LinkedIn URL kept from B33 (search-result match, S21); no official bio with education found (AUS trustees page carried no entry).",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S25",
+    "S21",
+    "S27",
+    "S28"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Selim Kervanci",
+   "name_ar": null,
+   "title": "Chief Executive Officer, Middle East, North Africa and Türkiye (MENAT); Executive Director, HSBC Bank Middle East Limited",
+   "functions": [
+    "CEO",
+    "Board"
+   ],
+   "entity": "HSBC Bank Middle East Limited",
+   "business_unit": "MENAT region",
+   "scope": "Regional (MENAT)",
+   "appointed": "2025-01-01",
+   "appointed_note": "HBME AR 2025: 'appointed to the Board of Directors and Chief Executive Officer, MENAT region effective 01 January 2025' (S2). Announced by HSBC Group on 26 Nov 2024, subject to regulatory approval, reporting to the Co-CEOs Asia and the Middle East, Surendra Rosha and David Liao (S35). DFSA register lists 'Mr Suleyman Selim Kervanci' as an Authorised Individual of HBME effective 01-Jan-2025 (S18). Predecessor as Regional CEO MENAT: Stephen Moss (S12, S25).",
+   "previous_roles": "Jan 2025- Chief Executive Officer, MENAT, and Executive Director, HSBC Bank Middle East Limited; to Dec 2024 Chief Executive Officer, HSBC Türkiye; member of the MENAT Executive Committee for more than a decade; regional roles across investment banking, capital markets, advisory and client coverage; joined HSBC in 1996 (whole career at HSBC; 28+ years of banking experience per S33, S35).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": "https://www.linkedin.com/in/selimkervanci/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official HBME board lists on the HSBC Kuwait and Bahrain sites, checked 2026-10-12: 'Chief Executive Officer, MENAT - Executive Director' (S27, S28); signed the Interim Report 2026 (approved 4 Aug 2026) as Chief Executive Officer/Director (S1); HBME AR 2025 (S2); DFSA Authorised Individual since 1 Jan 2025 (S18); Entrepreneur ME profile of 29 Jul 2026 (S33). Role-based 2026 searches found no departure. LinkedIn URL kept from B33 (search-result match, S20). Note: Entrepreneur's headline also styles him 'CEO, UAE' - see discrepancies.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S12",
+    "S18",
+    "S20",
+    "S27",
+    "S28",
+    "S33",
+    "S35"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Al Marzooqi",
+   "name_ar": null,
+   "title": "Chief Executive Officer, UAE, HSBC Bank Middle East Limited",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "HSBC Bank Middle East Limited - UAE",
+   "business_unit": "UAE",
+   "scope": "Country (UAE)",
+   "appointed": "2023-05-01",
+   "appointed_note": "Effective 1 May 2023, succeeding Abdulfattah Sharaf (S25). Spelled 'Mohammed Al Marzouqi' in the UAE Operations ARA 2025 signature (S3).",
+   "previous_roles": "May 2023- Chief Executive Officer, UAE, HSBC Bank Middle East Limited; to Apr 2023 Head of Global Banking, UAE, HSBC; 2002-2023 roles across retail, commercial, corporate and investment banking at HSBC UAE, including leading coverage of major client relationships (joined HSBC in the UAE in 2002) (S25; years of the intermediate roles not published).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted as 'Chief Executive Officer, UAE, HSBC Bank Middle East Limited' in HSBC UAE releases of 11 Jun 2026 (S32) and 22 Jun 2026 (S26) and 12 Jan 2026 (S9); signed the UAE Operations ARA 2025 as CEO (S3). about.hsbc.ae has no management page (probed paths answered 404, 2026-10-12). A Gulf Business item on his earlier Global Banking appointment answered 403. No LinkedIn profile surfaced in role-based searches (name-based look-ups not permitted).",
+   "source_ids": [
+    "S3",
+    "S9",
+    "S25",
+    "S26",
+    "S32"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Yan Bechet",
+   "name_ar": null,
+   "title": "Chief Operating Officer, UAE, and Interim Head of International Wealth and Premier Banking, UAE",
+   "functions": [
+    "Operations",
+    "Wealth",
+    "Affluent",
+    "Retail"
+   ],
+   "entity": "HSBC Bank Middle East Limited - UAE",
+   "business_unit": "UAE operations / International Wealth and Premier Banking (UAE)",
+   "scope": "Country (UAE)",
+   "appointed": null,
+   "appointed_note": "Interim IWPB UAE role evidenced only by his Seamless Fintech Middle East 2026 speaker biography (event 22-24 Sep 2026, S43); start date and the permanent post-holder are not published. HSBC has issued no release on the UAE IWPB head.",
+   "previous_roles": "By Sep 2026 Chief Operating Officer, UAE, and Interim Head of International Wealth and Premier Banking, UAE, HSBC Bank Middle East; earlier Chief Operating Officer, Corporate Banking UAE (client due diligence, onboarding and financial crime risk) and head of Corporate Banking for Dubai and the Northern Emirates, HSBC; over 20 years of international banking with senior roles in the UK, France, Germany, Egypt and the UAE (employers and years not published). Current other roles: Chair, UAE Banks Federation AI Committee (S43).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Only source is a conference speaker biography updated for the 22-24 Sep 2026 event (S43). No HSBC leadership page or release names the UAE IWPB head; a role-based search for the UAE IWPB head found nothing else. Added because he currently leads the UAE wealth and Premier business, ARTA's key counterpart function.",
+   "source_ids": [
+    "S43"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dinesh Sharma",
+   "name_ar": null,
+   "title": "Regional Head of International Wealth and Premier Banking (IWPB), Middle East, North Africa and Türkiye",
+   "functions": [
+    "Wealth",
+    "Affluent",
+    "Retail"
+   ],
+   "entity": "HSBC Bank Middle East Limited",
+   "business_unit": "International Wealth and Premier Banking",
+   "scope": "Regional (MENAT)",
+   "appointed": "2022-09-01",
+   "appointed_note": "Appointed 'regional head of wealth and personal banking for EMEA' starting 1 Sep 2022, subject to regulatory approval, based in the UAE and leading the MENAT and Europe franchises (Gulf Daily News, 27 Jun 2022, S36). Entrepreneur ME (Feb 2026) says 'in his current role since September 2022' (S34). Title wording varies by release (see discrepancies).",
+   "previous_roles": "Sep 2022- Regional Head of International Wealth and Premier Banking, MENAT (appointed as regional head of wealth and personal banking, EMEA), HSBC Bank Middle East; to 2022 Chief Executive Officer, Consumer Bank Middle East, Citibank (led the repositioning of the UAE as a global wealth-management hub for Citibank); earlier consumer-banking and risk roles across Asia, Europe, the Middle East and North Africa in 22 countries (over 30 years' experience per S34; employers and years not published).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted in HSBC UAE releases of 16 Sep 2025, 13 Oct 2025 and 12 Jan 2026 (S8, S10, S9); Entrepreneur ME profile of 20 Feb 2026 (S34); appointment report (S36). Role-based 2026 searches for a MENAT wealth-head appointment returned only the Aug 2026 private-bank UAE appointment (S14). No LinkedIn profile surfaced (name-based look-ups not permitted).",
+   "source_ids": [
+    "S8",
+    "S9",
+    "S10",
+    "S34",
+    "S36"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Aladdin Hangari",
+   "name_ar": null,
+   "title": "Head of HSBC Private Bank, Middle East and North Africa",
+   "functions": [
+    "Private banking"
+   ],
+   "entity": "HSBC Private Bank",
+   "business_unit": "Global Private Banking",
+   "scope": "Regional (MENA)",
+   "appointed": "2024-01",
+   "appointed_note": "Named head of Global Private Banking MENA in an announcement reported 4 Oct 2023, taking over from Sobhi Tabbara (head of the MENA UHNW business since 2012), who left in January 2024 after a transition (Hubbis, S38). DFSA register lists him as an Authorised Individual of HSBC Private Bank (Suisse) SA DIFC branch (entries 22 Apr 2024 and 14 May 2025, S19).",
+   "previous_roles": "Jan 2024- Head of HSBC Private Bank (Global Private Banking), Middle East and North Africa (announced Oct 2023); c.2003-2023 Credit Suisse (about two decades), latterly Chief Executive Officer, Credit Suisse (Qatar) LLC, and Chief Executive Officer, Aventicum Capital Management Holding (S38; years of the Credit Suisse roles not published).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted as 'Head of HSBC Private Bank, MENA' in the HSBC Private Bank release of 7 Aug 2026 (S14); DFSA register (S19); appointment report (S38). HSBC Private Bank newsroom index checked 2026-10-12 shows no later MENA leadership change (S46); the Aug 2026 Global India appointments do not affect this post (S44). No LinkedIn profile surfaced in role-based searches.",
+   "source_ids": [
+    "S14",
+    "S19",
+    "S38",
+    "S44",
+    "S46"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Feras Al Jarmani",
+   "name_ar": null,
+   "title": "Head of UAE Market, HSBC Private Bank",
+   "functions": [
+    "Private banking"
+   ],
+   "entity": "HSBC Private Bank",
+   "business_unit": "Global Private Banking - UAE",
+   "scope": "Country (UAE)",
+   "appointed": "2026-08-07",
+   "appointed_note": "Release of 7 Aug 2026: expands his role from Head of the UAE Market for Arab and Emirati Clients to overall responsibility for HSBC's private banking business across the UAE, bringing the UAE private banking teams under one leader (S14). Surname spelled 'Al Jaramani' in some press coverage.",
+   "previous_roles": "Aug 2026- Head of UAE Market, HSBC Private Bank; to Aug 2026 Head of the UAE Market for Arab and Emirati Clients, HSBC Private Bank; 13 years at HSBC serving sovereign and corporate clients in the UAE; 25 years in financial services in total (earlier employers and years not published) (S14).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "HSBC Private Bank release of 7 Aug 2026 (S14); the newsroom index checked 2026-10-12 lists no later UAE change (S46). No LinkedIn profile surfaced in role-based searches (name-based look-ups not permitted).",
+   "source_ids": [
+    "S14",
+    "S46"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Daisy Ho",
+   "name_ar": null,
+   "title": "Chief Executive Officer, Asia and Middle East, HSBC Asset Management",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "HSBC Asset Management",
+   "business_unit": "Asset Management",
+   "scope": "Regional (Asia and Middle East)",
+   "appointed": "2021-11-08",
+   "appointed_note": "Joined HSBC Asset Management on 8 Nov 2021 as Regional CEO, Asia Pacific and Hong Kong, based in Hong Kong and reporting to the HSBC AM CEO (Hubbis, 3 Nov 2021, S39). The broader 'CEO, Asia & Middle East' title appears in the 12 Jan 2026 UAE release (S9); the date of that change is not published.",
+   "previous_roles": "Nov 2021- Regional Chief Executive Officer, Asia Pacific and Hong Kong (title by Jan 2026: CEO, Asia and Middle East), HSBC Asset Management; 2005-2021 Fidelity International: President, China; earlier Managing Director, Asia ex-Japan and Middle East; Head of Institutional Business, Asia ex-Japan; joined 2005 as Head of Relationship Management, Institutional Business, Hong Kong; before 2005 senior management roles in the wealth and asset management divisions of JPMorgan, AXA and Hang Seng Bank (S39).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted with this title in the HSBC UAE release of 12 Jan 2026 (S9); appointment report (S39). A role-based search for HSBC Asset Management regional CEO appointments returned nothing newer than 2021. Group-level HSBC AM executive; profiled only because the title covers the Middle East.",
+   "source_ids": [
+    "S9",
+    "S39"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "James Grist",
+   "name_ar": null,
+   "title": "General Manager, HSBC Asset Management UAE entity",
+   "functions": [
+    "Investments / asset management",
+    "Subsidiary CEO"
+   ],
+   "entity": "HSBC Asset Management - UAE",
+   "business_unit": "Asset Management",
+   "scope": "Country (UAE)",
+   "appointed": "2026-01",
+   "appointed_note": "Named in the 12 Jan 2026 release as responsible for the onshore funds platform and broader UAE investment capabilities (S9). No HSBC Asset Management UAE leadership page or biography found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "HSBC UAE release of 12 Jan 2026 (S9). No later change found; HSBC AM publishes no UAE leadership page.",
+   "source_ids": [
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faris AlGhannam",
+   "name_ar": null,
+   "title": "Chief Executive Officer and Board Member, HSBC Saudi Arabia",
+   "functions": [
+    "CEO",
+    "Subsidiary CEO"
+   ],
+   "entity": "HSBC Saudi Arabia",
+   "business_unit": "Saudi Arabia",
+   "scope": "Country (Saudi Arabia)",
+   "appointed": "2022-10-01",
+   "appointed_note": "Board appointment effective 1 Oct 2022, subject to regulatory approval, succeeding Rajiv Shukla (CEO from Apr 2019, who became Senior Managing Director & Advisor to the Regional CEO); announced by Majed Najm, Chairman of HSBC Saudi Arabia (Argaam, S23).",
+   "previous_roles": "Oct 2022- Chief Executive Officer and board member, HSBC Saudi Arabia; to Sep 2022 Deputy Chief Executive Officer, HSBC Saudi Arabia; 2011-2022 senior roles at HSBC Saudi Arabia (joined 2011); 2006-2011 capital markets and corporate finance roles with international financial institutions in the UK; began his banking career in 2005 (S23).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted as 'Chief Executive of HSBC Saudi Arabia' in a 2026 HSBC press release carried by Zawya (opened 2026-10-12; cites custody assets at 31 Mar 2026 and Euromoney 2026 awards, S22); appointment report (S23). The official hsbcsaudi.com site is unreachable through the session proxy (CONNECT 502), so no official page could be checked; no 2025-2026 departure news in role-based searches.",
+   "source_ids": [
+    "S22",
+    "S23"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdul Hakeem Mostafawi",
+   "name_ar": null,
+   "title": "Chief Executive Officer, Qatar, HSBC Bank Middle East Limited",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "HSBC Bank Middle East Limited - Qatar",
+   "business_unit": "Qatar",
+   "scope": "Country (Qatar)",
+   "appointed": null,
+   "appointed_note": "In the role since at least early 2011: quoted as HSBC's chief executive in Qatar in May 2011 (S41) and in a 2011 Gulf Times item (S42). Appointment date not found in the sources opened.",
+   "previous_roles": "By 2011- Chief Executive Officer, Qatar, HSBC Bank Middle East Limited (S41, S42, S40); earlier career not published on the pages opened.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official 'HSBC in Qatar' page, checked 2026-10-12, names him 'Our Chief Executive Officer' (S31); quoted as CEO Qatar at the opening of HSBC Qatar's new Msheireb headquarters and first wealth centre, 25 Jun 2026 (S40). Role-based searches found no 2025-2026 change.",
+   "source_ids": [
+    "S31",
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Omar Al-Ansari",
+   "name_ar": null,
+   "title": "Head of International Wealth & Premier Banking, HSBC Qatar",
+   "functions": [
+    "Wealth",
+    "Affluent",
+    "Retail"
+   ],
+   "entity": "HSBC Bank Middle East Limited - Qatar",
+   "business_unit": "International Wealth and Premier Banking (Qatar)",
+   "scope": "Country (Qatar)",
+   "appointed": null,
+   "appointed_note": "Appointment date not published; first seen in the bank's 25 Jun 2026 statement on the Doha wealth centre (S40).",
+   "previous_roles": "By Jun 2026 Head of International Wealth & Premier Banking, HSBC Qatar (S40); earlier career not published.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted with this title in HSBC Qatar's statement on its new head office and Premier wealth centre, reported 25 Jun 2026 (S40). Not on an official page (the Qatar site names only the CEO, S31). Added as the current Qatar wealth head.",
+   "source_ids": [
+    "S40",
+    "S31"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmed Al Murad",
+   "name_ar": null,
+   "title": "Chief Executive Officer, HSBC Kuwait",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "HSBC Bank Middle East Limited - Kuwait Branch",
+   "business_unit": "Kuwait",
+   "scope": "Country (Kuwait)",
+   "appointed": "2025",
+   "appointed_note": "Appointed CEO at HSBC's 20-years-in-Kuwait event (operations began 2005), succeeding Samer Alabed; first Kuwaiti national in the role (Zawya press release seen in search results only, HTTP 400 on open, S45). Exact date not seen. Alabed was CEO Kuwait in Aug 2023 (S11).",
+   "previous_roles": "2025- Chief Executive Officer, HSBC Kuwait; c.2014-2025 leadership roles across corporate, institutional and commercial banking at HSBC (11 years); almost two decades in financial services in total (S45, search snippet; earlier employers not seen).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official HSBC Kuwait site, checked 2026-10-12, names him 'Our CEO - Ahmed Al Murad, Chief Executive Officer' (S29); appointment release seen in search results (S45).",
+   "source_ids": [
+    "S29",
+    "S45",
+    "S11"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Rayan Kazerooni",
+   "name_ar": null,
+   "title": "Head of Global Private Banking, HSBC Kuwait",
+   "functions": [
+    "Private banking"
+   ],
+   "entity": "HSBC Bank Middle East Limited - Kuwait Branch",
+   "business_unit": "Global Private Banking (Kuwait)",
+   "scope": "Country (Kuwait)",
+   "appointed": "2023-08",
+   "appointed_note": "Appointed with the launch of onshore wealth-management advisory services in Kuwait (release of 14 Aug 2023, S11).",
+   "previous_roles": "Aug 2023- Head of Global Private Banking, HSBC Kuwait; before Aug 2023 Bank of London and The Middle East plc, Dubai branch (role not stated) (S11).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Appointment release of 14 Aug 2023 (S11). No official page lists the Kuwait private-banking head and role-based searches found no 2025-2026 confirmation or successor. A kw.linkedin.com result with the same name appeared in a role-based search, but its snippet showed no employer or title, so no URL is recorded.",
+   "source_ids": [
+    "S11"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Joseph Ghorayeb",
+   "name_ar": null,
+   "title": "Chief Executive Officer, HSBC Bahrain",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "HSBC Bank Middle East Limited - Bahrain Branch",
+   "business_unit": "Bahrain",
+   "scope": "Country (Bahrain)",
+   "appointed": "2023-09-01",
+   "appointed_note": "Appointment announced 3 Aug 2023, effective 1 Sep 2023, succeeding Chris Russell, who retired after 18 years at HSBC (Gulf Daily News, S37).",
+   "previous_roles": "Sep 2023- Chief Executive Officer, HSBC Bahrain; 2022-2023 Head of Wholesale Banking, HSBC Bahrain; earlier leadership positions with HSBC in the UAE, Qatar and Bahrain; joined HSBC in Canada in 2006 (S37; years of the intermediate roles not published).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official HSBC Bahrain site, checked 2026-10-12, names him 'Our CEO - Joseph Ghorayeb' (S30); appointment report (S37). Role-based 2026 search found no change.",
+   "source_ids": [
+    "S30",
+    "S37"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Elie El Asmar",
+   "name_ar": null,
+   "title": "Chief Executive Officer, HSBC Bank Middle East Limited - Oman Branch",
+   "functions": [
+    "CEO",
+    "Corporate / wholesale"
+   ],
+   "entity": "HSBC Bank Middle East Limited - Oman Branch",
+   "business_unit": "Oman (wholesale-only branch)",
+   "scope": "Country (Oman)",
+   "appointed": "2024",
+   "appointed_note": "Named CEO of the new wholesale-only Oman branch on 2 Apr 2024, ahead of its opening in May 2024 (S12).",
+   "previous_roles": "2024- Chief Executive Officer, HSBC Bank Middle East Limited - Oman Branch; over 30 years of service at HSBC across the Middle East and North Africa in international and corporate banking, including a previous country CEO role (country and years not stated in the release) (S12).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Appointment release of 2 Apr 2024 (S12). No Oman leadership page exists (about.hsbc.co.om redirects to business.hsbc.om, which carries no management page) and no 2025-2026 source naming the Oman branch CEO was found in role-based searches.",
+   "source_ids": [
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "HSBC's GCC wealth business sits in the International Wealth and Premier Banking (IWPB) segment of HSBC Bank Middle East (H1 2026 IWPB income USD 408m, PBT USD 109m), led regionally by Dinesh Sharma. In Sep 2025 HSBC called its UAE push its biggest IWPB investment in two decades: the first Middle East wealth centre (Jumeirah, Dubai, for Premier and HNW clients), a revamped Premier account (AED 500k relationship balance) with an in-app Future Planner tool (Oct 2025), and a doubling of affluent frontline staff. Self-directed investing runs on WorldTrader, powered by Interactive Brokers (U.K.) Limited, offering ADX/DFM and international stocks, ETFs, funds and bonds (USD 800m traded in its first 12 months). In Jan 2026 HSBC Asset Management opened a Dubai branch and registered 10 onshore SCA feeder funds, including World Selection multi-asset portfolios and three Shariah/sukuk funds. HSBC Private Bank (MENA head Aladdin Hangari; UAE head Feras Al Jarmani from Aug 2026) operates from the DIFC and aims to be the leading private bank in the region.",
+  "segments": [
+   {
+    "name": "HSBC Premier",
+    "tier": "Affluent",
+    "eligibility": "One of: total relationship balance AED 500,000; monthly salary AED 40,000 (AED 30,000 for Emiratis) plus AED 500k TRB within 12 months; HSBC home loan drawdown AED 3m+ plus AED 500k TRB within 12 months; shared/ international Premier status.",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "name": "HSBC Premier Elite",
+    "tier": "Upper affluent",
+    "eligibility": "Not stated on page checked.",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "name": "HSBC Global Private Banking",
+    "tier": "Private / HNW-UHNW",
+    "eligibility": "Not published on pages checked.",
+    "source_ids": [
+     "S14"
+    ]
+   }
   ],
-  "original_reconciliation": [],
-  "discrepancies": [
-    {"field": "Dinesh Sharma title", "detail": "Sep 2025 and Oct 2025 releases: 'Head of International Wealth and Premier Banking (IWPB), MENAT'; Jan 2026 release: 'Regional Head of International Wealth and Personal Banking, MENAT'.", "source_ids": ["S8", "S10", "S9"], "resolution": "Recorded the IWPB title (matches HBME segment naming); same role."},
-    {"field": "UAE CEO name spelling", "detail": "'Mohamed Al Marzooqi' in press releases vs 'Mohammed Al Marzouqi' in UAE Operations ARA 2025 signature.", "source_ids": ["S9", "S3"], "resolution": "Same person; press-release spelling used."},
-    {"field": "Group Chairman title", "detail": "Board page text says 'Group Chairman' while its image caption says 'Interim Group Chairman'.", "source_ids": ["S6"], "resolution": "Recorded as Group Chairman with note; interim status unconfirmed."}
+  "private_banking": {
+   "present": "Yes",
+   "detail": "HSBC Private Bank MENA (Aladdin Hangari); UAE market unified under Feras Al Jarmani (Aug 2026); HSBC Private Bank (Suisse) SA DIFC branch licensed for advising, arranging, arranging custody, trust services and credit; onshore private banking advisory launched in Kuwait (Aug 2023).",
+   "source_ids": [
+    "S14",
+    "S19",
+    "S11"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "HSBC Asset Management UAE (Dubai branch, GM James Grist) launched 10 SCA-registered onshore feeder funds in Jan 2026 (World Selection 2-5 portfolios, India fixed income, strategic duration bond, US income, Islamic global equity index, Shariah multi-asset, global sukuk). HSBC AM global AUM USD 852bn (Sep 2025).",
+   "source_ids": [
+    "S9"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "WorldTrader: orders transmitted to and custodied by Interactive Brokers (U.K.) Limited; ADX and DFM (300+ assets) plus US, European and Asian markets; up to 25 markets and 77 exchanges via app.",
+   "source_ids": [
+    "S15",
+    "S17"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "WorldTrader app and web platform (stocks, ETFs, mutual funds, bonds), accounts opened in HSBC UAE app; Lombard lending against WorldTrader holdings; Future Planner financial-planning tool in HSBC UAE app (Oct 2025). USD 800m trading volume in first 12 months (to Sep 2025).",
+   "source_ids": [
+    "S15",
+    "S17",
+    "S10",
+    "S8"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Premier relationship managers and wealth specialists; DFSA licence covers advising on financial products (HBME and HSBC Private Bank Suisse DIFC).",
+   "source_ids": [
+    "S16",
+    "S18",
+    "S19"
+   ]
+  },
+  "discretionary": {
+   "present": "Unclear",
+   "detail": "Not found on UAE pages; HBME DFSA licence has no managing-assets permission.",
+   "source_ids": [
+    "S17",
+    "S18"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Unclear",
+   "detail": "Risk-graded World Selection 2-5 multi-asset feeder funds offered onshore (fund-based portfolios); no robo-advice or model-portfolio service found.",
+   "source_ids": [
+    "S9"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Mutual funds via WorldTrader and online banking; onshore HSBC UAE funds; unit trust fee income USD 35.8m in H1 2026 at HBME.",
+   "source_ids": [
+    "S15",
+    "S9",
+    "S1"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "Structured products listed in hsbc.ae investments navigation (no detail); HBME DFSA licence covers advising, arranging and dealing in structured products.",
+   "source_ids": [
+    "S17",
+    "S18"
+   ]
+  },
+  "private_markets": {
+   "present": "Not found after research",
+   "detail": "No private-markets or alternatives offering found on UAE pages or releases checked.",
+   "source_ids": [
+    "S17",
+    "S9"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Onshore Islamic Global Equity Index, Shariah Multi Asset and Global Sukuk feeder funds (Jan 2026); HSBC AM Shariah AUM USD 10bn+ (Oct 2025); HBME DFSA Islamic window endorsement; UAE branch has an Internal Shari'ah Supervision Committee.",
+   "source_ids": [
+    "S9",
+    "S18",
+    "S3"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "US/international equities",
+   "ETFs",
+   "Mutual funds",
+   "Bonds",
+   "Sukuk",
+   "Structured products"
   ],
-  "open_items": [
-    "No AUM, wealth client assets or customer counts disclosed for HBME/UAE/MENAT; only IWPB segment balance-sheet data.",
-    "HSBC Saudi Arabia: official site (hsbcsaudi.com) did not respond; CEO Faris AlGhannam confirmed only via search snippets (2026 Zawya). HSBC Saudi Arabia financials not collected.",
-    "Country heads for Qatar, Kuwait, Bahrain and Oman not researched (Oman CEO Elie El Asmar named Apr 2024 only).",
-    "LinkedIn not verified for Mohamed Al Marzooqi, Dinesh Sharma, Aladdin Hangari; not checked for group executives.",
-    "A LinkedIn post (search result only) names Vivek Pandohi as an earlier 'HSBC Private Bank Head of UAE Market'; current status not checked after the Aug 2026 consolidation under Feras Al Jarmani.",
-    "WorldTrader launch date not stated on product page; Sep 2025 release implies about Sep 2024. Product page shows inconsistent admin-fee waiver dates (31 Dec 2026 vs 30 Jun 2025).",
-    "HSBC Group listing details and major shareholders not recorded (out of GCC scope).",
-    "No original extract exists for this institution, so there is no original reconciliation."
+  "partners": [
+   {
+    "partner": "Interactive Brokers (U.K.) Limited",
+    "kind": "Execution / custody platform",
+    "what": "Powers WorldTrader; receives orders and holds client securities as custodian",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S15"
+    ]
+   }
   ],
-  "research_status": "Complete",
-  "researched_by": "B33",
-  "checked": "2026-10-12"
+  "initiatives": [
+   {
+    "date": "2026-08-07",
+    "what": "HSBC Private Bank unified UAE private banking teams under Feras Al Jarmani; stated ambition to be the leading private bank in the Middle East.",
+    "source_ids": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2026-06-22",
+    "what": "Launched Tokenised Deposit Service in the UAE for corporate liquidity (24/7 on-chain transfers).",
+    "source_ids": [
+     "S26"
+    ]
+   },
+   {
+    "date": "2026-01-12",
+    "what": "HSBC Asset Management launched UAE onshore business (Dubai branch) and 10 SCA-registered funds.",
+    "source_ids": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2025-12-09",
+    "what": "MISA granted HSBC a Regional HQ licence for Capital Markets and Advisory in Saudi Arabia (HSBC Capital RHQ).",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2025-10-13",
+    "what": "Revamped Premier account in the UAE with Future Planner planning tool in the mobile app.",
+    "source_ids": [
+     "S10"
+    ]
+   },
+   {
+    "date": "2025-09-16",
+    "what": "Opened first Middle East wealth centre (Jumeirah, Dubai); described as HSBC's biggest IWPB investment in two decades.",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2024-04-02",
+    "what": "Named Elie El Asmar CEO of new wholesale-only Oman branch (opening May 2024).",
+    "source_ids": [
+     "S12"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "States its UAE wealth push is its biggest IWPB investment in 20 years, with the goal of being the UAE's leading international wealth player (S8, S14).",
+    "No discretionary, model-portfolio or private-markets offering found on UAE pages; HBME DFSA licence lacks managing assets (S17, S18).",
+    "Shift to onshore, UAE-domiciled products (10 SCA funds launched Jan 2026) (S9)."
+   ],
+   "barriers": [
+    "WorldTrader execution and custody already outsourced to Interactive Brokers (U.K.) Limited (S15).",
+    "In-house manufacturing via HSBC Asset Management, including Shariah funds (S9).",
+    "Group-wide propositions (Premier revamp and Future Planner rolled out globally) suggest group-level platform decisions (S10)."
+   ],
+   "incumbent_vendors": [
+    "Interactive Brokers (U.K.) Limited - WorldTrader execution/custody (S15)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "HSBC Bank Middle East Limited Interim Report 2026",
+   "publisher": "HSBC Bank Middle East Limited",
+   "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2026/interim/pdfs/hsbc-bank-middle-east-limited/260804-hbme-interim-report-2026.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-08-04",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "HSBC Bank Middle East Limited Annual Report and Accounts 2025",
+   "publisher": "HSBC Bank Middle East Limited",
+   "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2025/annual/pdfs/hsbc-bank-middle-east-limited/260225-hbme-annual-report-and-accounts-2025.pdf",
+   "doc_type": "Annual report (audited)",
+   "tier": 1,
+   "published": "2026-02-25",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "HSBC Bank Middle East Limited - UAE Operations Annual Report and Accounts 2025",
+   "publisher": "HSBC Bank Middle East Limited",
+   "url": "https://www.about.hsbc.ae/-/media/uae/en/financial-information/260330-hbme-annual-report-and-accounts-2025.pdf?sc_lang=en-GB",
+   "doc_type": "Annual financial statements (audited, PwC)",
+   "tier": 1,
+   "published": "2026-03-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "HBME UAE Operations - Q2 2026 financial statements and Pillar 3 disclosures",
+   "publisher": "HSBC Bank Middle East Limited",
+   "url": "https://www.about.hsbc.ae/-/media/uae/en/financial-information/260811-q2-uae-operations-fs-and-p3-disclosures.pdf?sc_lang=en-GB",
+   "doc_type": "Regulatory disclosure (Pillar 3)",
+   "tier": 1,
+   "published": "2026-08-11",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "HSBC Holdings plc Interim Results 2026 - media release",
+   "publisher": "HSBC Holdings plc",
+   "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2026/interim/pdfs/hsbc-holdings-plc/260804-hsbc-holdings-plc-interim-results-2026-media-release.pdf",
+   "doc_type": "Results announcement",
+   "tier": 1,
+   "published": "2026-08-04",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Board of directors",
+   "publisher": "HSBC Holdings plc",
+   "url": "https://www.hsbc.com/who-we-are/leadership-and-governance/board-of-directors",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Senior management",
+   "publisher": "HSBC Holdings plc",
+   "url": "https://www.hsbc.com/who-we-are/leadership-and-governance/senior-management",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "HSBC opens first Middle East wealth centre in the UAE",
+   "publisher": "HSBC UAE",
+   "url": "https://www.about.hsbc.ae/news-and-media/hsbc-opens-first-middle-east-wealth-centre-in-the-uae",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2025-09-16",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "HSBC is the first global asset manager to launch onshore funds in the UAE",
+   "publisher": "HSBC UAE",
+   "url": "https://www.about.hsbc.ae/news-and-media/hsbc-is-the-first-global-asset-manager-to-launch-onshore-funds-in-the-uae",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-01-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "HSBC enhances Premier offering as new survey reveals one in four UAE adults uncertain about their financial future",
+   "publisher": "HSBC UAE",
+   "url": "https://www.about.hsbc.ae/news-and-media/hsbc-enhances-premier-offering-in-four-uae-adults-uncertain-about-their-financial-future",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2025-10-13",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "HSBC Appoints Head of Global Private Banking in Kuwait, Launching Onshore Advisory Services",
+   "publisher": "HSBC UAE",
+   "url": "https://www.about.hsbc.ae/news-and-media/middle-east-global-private-banking",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2023-08-14",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Elie El Asmar named Chief Executive for HSBC's new Oman branch",
+   "publisher": "HSBC UAE",
+   "url": "https://www.about.hsbc.ae/news-and-media/elie-el-asmar-named-chief-executive-for-hsbcs-new-oman-branch",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2024-04-02",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "MISA awards HSBC RHQ license for CMA Business in Saudi Arabia",
+   "publisher": "HSBC UAE",
+   "url": "https://www.about.hsbc.ae/news-and-media/misa-awards-hsbc-rhq-license-for-cma-business-in-saudi-arabia",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2025-12-09",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "HSBC Private Bank appoints Feras Al Jarmani to lead its UAE Market",
+   "publisher": "HSBC Private Bank",
+   "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/media-release/2026/hsbc-private-bank-appoints-feras-al-jarmani-to-lead-its-uae-market.pdf",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-08-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "HSBC WorldTrader - HSBC UAE",
+   "publisher": "HSBC UAE",
+   "url": "https://www.hsbc.ae/investments/products/worldtrader/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "HSBC Premier - HSBC UAE",
+   "publisher": "HSBC UAE",
+   "url": "https://www.hsbc.ae/premier/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Investments - HSBC UAE",
+   "publisher": "HSBC UAE",
+   "url": "https://www.hsbc.ae/investments/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "DFSA Public Register - HSBC Bank Middle East Limited, F003452",
+   "publisher": "Dubai Financial Services Authority",
+   "url": "https://www.dfsa.ae/public-register/firms/hsbc-bank-middle-east-limited-1",
+   "doc_type": "Regulator register",
+   "tier": 3,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "DFSA Public Register - HSBC Private Bank (Suisse) SA, F002476",
+   "publisher": "Dubai Financial Services Authority",
+   "url": "https://www.dfsa.ae/public-register/firms/hsbc-private-bank-suisse-sa",
+   "doc_type": "Regulator register",
+   "tier": 3,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "Selim K. - CEO, Middle East, North Africa and Turkiye (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/selimkervanci/",
+   "doc_type": "LinkedIn profile (search result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only; surname abbreviated in snippet, full name in URL"
+  },
+  {
+   "id": "S21",
+   "title": "Abdulfattah Sharaf - Chairman, HSBC Bank Middle East ... (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://ae.linkedin.com/in/abdulfattah-sharaf-00b48669",
+   "doc_type": "LinkedIn profile (search result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only"
+  },
+  {
+   "id": "S22",
+   "title": "Al Rajhi Capital appoints HSBC Saudi Arabia as custodian to Al Rajhi MSCI Saudi Arabia ETF",
+   "publisher": "Zawya",
+   "url": "https://www.zawya.com/en/press-release/companies-news/al-rajhi-capital-appoints-hsbc-saudi-arabia-as-custodian-to-al-rajhi-msci-saudi-arabia-etf-584669",
+   "doc_type": "Press release (news site)",
+   "tier": 5,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened 2026-10-12. Page shows no publication date; text cites custody assets at 31 Mar 2026 and Euromoney Awards for Excellence 2026, so mid-2026. HSBC press release distributed via Zawya."
+  },
+  {
+   "id": "S23",
+   "title": "HSBC Saudi Arabia appoints new CEO",
+   "publisher": "Argaam",
+   "url": "https://www.argaam.com/en/article/articledetail/id/1590675",
+   "doc_type": "News",
+   "tier": 5,
+   "published": "2022",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened 2026-10-12. Publication date not shown on page; appointment effective 1 Oct 2022."
+  },
+  {
+   "id": "S25",
+   "title": "HSBC UAE makes senior leadership appointments as it accelerates growth in MENAT region",
+   "publisher": "HSBC UAE",
+   "url": "https://www.about.hsbc.ae/news-and-media/hsbc-uae-senior-leadership-appointments",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2023-04-27",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S26",
+   "title": "HSBC launches Tokenised Deposit Service in the UAE, connecting Global Liquidity across Key Financial Markets",
+   "publisher": "HSBC UAE",
+   "url": "https://www.about.hsbc.ae/news-and-media/hsbc-launches-tokenised-deposit-service-in-the-uae",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-06-22",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S27",
+   "title": "Management - HSBC Bank Middle East Limited Board of Directors",
+   "publisher": "HSBC Kuwait (about.hsbc.com.kw)",
+   "url": "https://www.about.hsbc.com.kw/management",
+   "doc_type": "Official leadership page (HBME board list)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S28",
+   "title": "Management - HSBC Bank Middle East Limited Board of Directors",
+   "publisher": "HSBC Bahrain (about.hsbc.com.bh)",
+   "url": "https://www.about.hsbc.com.bh/management",
+   "doc_type": "Official leadership page (HBME board list)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S29",
+   "title": "HSBC in Kuwait (home page; 'Our CEO')",
+   "publisher": "HSBC Kuwait",
+   "url": "https://www.about.hsbc.com.kw/",
+   "doc_type": "Official country page naming the CEO",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S30",
+   "title": "HSBC in Bahrain (home page; 'Our CEO')",
+   "publisher": "HSBC Bahrain",
+   "url": "https://www.about.hsbc.com.bh/",
+   "doc_type": "Official country page naming the CEO",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S31",
+   "title": "HSBC in Qatar ('Our Chief Executive Officer')",
+   "publisher": "HSBC Qatar",
+   "url": "https://www.about.hsbc.com.qa/hsbc-in-qatar",
+   "doc_type": "Official country page naming the CEO",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S32",
+   "title": "HSBC convenes global investors to unlock UAE's long-term opportunities amid an evolving regional landscape",
+   "publisher": "HSBC UAE",
+   "url": "https://www.about.hsbc.ae/news-and-media/hsbc-convenes-global-investors-to-unlock-uaes-long-term-opportunities",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-06-11",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S33",
+   "title": "The Finance Frontier 2026: Selim Kervanci, CEO, Middle East, North Africa & Türkiye; CEO, UAE, HSBC",
+   "publisher": "Entrepreneur Middle East",
+   "url": "https://mena.entrepreneur.com/finance/the-finance-frontier-2026-selim-kervanci-ceo-middle-east-north-africa-turkiye-ceo-uae-hsbc",
+   "doc_type": "Executive profile (news magazine)",
+   "tier": 5,
+   "published": "2026-07-29",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S34",
+   "title": "The 100 NRIs - 2026: Dinesh Sharma, Regional Head of International Wealth and Personal Banking - MENAT, HSBC",
+   "publisher": "Entrepreneur Middle East",
+   "url": "https://mena.entrepreneur.com/?p=34875",
+   "doc_type": "Executive profile (news magazine)",
+   "tier": 5,
+   "published": "2026-02-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S35",
+   "title": "HSBC appoints Selim Kervanci as Middle East CEO",
+   "publisher": "Finance Middle East",
+   "url": "https://www.financemiddleeast.com/banking-and-insurance/hsbc-appoints-selim-kervanci-as-middle-east-ceo/",
+   "doc_type": "News (reports HSBC Group announcement of 26 Nov 2024)",
+   "tier": 5,
+   "published": "2024-11-26",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S36",
+   "title": "HSBC names new regional wealth head",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1115965/HSBC-names-new-regional-wealth-head",
+   "doc_type": "News (appointment)",
+   "tier": 5,
+   "published": "2022-06-27",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S37",
+   "title": "HSBC names new chief executive (Bahrain)",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1287857/HSBC-names-new-chief-executive",
+   "doc_type": "News (appointment)",
+   "tier": 5,
+   "published": "2023-08-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S38",
+   "title": "HSBC Bolsters Middle East Private Banking Team with Credit Suisse Talent",
+   "publisher": "Hubbis",
+   "url": "https://hubbis.com/news/hsbc-bolsters-middle-east-private-banking-team-with-credit-suisse-talent",
+   "doc_type": "News (appointment)",
+   "tier": 5,
+   "published": "2023-10-04",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S39",
+   "title": "HSBC Asset Management appoints Daisy Ho as new Regional CEO for Asia Pacific & Hong Kong",
+   "publisher": "Hubbis",
+   "url": "https://www.hubbis.com/news/hsbc-asset-management-appoints-daisy-ho-as-new-regional-ceo-for-asia-pacific-hong-kong",
+   "doc_type": "News (appointment)",
+   "tier": 5,
+   "published": "2021-11-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S40",
+   "title": "HSBC Qatar unveils its new Head Office featuring its first Wealth Centre in Msheireb Downtown Doha",
+   "publisher": "The Peninsula Qatar",
+   "url": "https://thepeninsulaqatar.com/article/25/06/2026/hsbc-qatar-unveils-its-new-head-office-featuring-its-first-wealth-centre-in-msheireb-downtown-doha",
+   "doc_type": "News (bank announcement with executive quotes)",
+   "tier": 5,
+   "published": "2026-06-25",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S41",
+   "title": "HSBC strengthens Qatari business",
+   "publisher": "EMEA Finance",
+   "url": "https://www.emeafinance.com/live/actual/appointments/2110-hsbc-strengthens-qatari-business-1131",
+   "doc_type": "News (appointment)",
+   "tier": 5,
+   "published": "2011-05-06",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S42",
+   "title": "HSBC appoints chief of retail banking (Qatar)",
+   "publisher": "Gulf Times",
+   "url": "https://gulf-times.com/story/28921/hsbc-appoints-chief-of-retail-banking",
+   "doc_type": "News (appointment)",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Page shows no date; the search result dates it to 2011 (the appointee had 'nearly 12 years' at the bank after joining in 1999)."
+  },
+  {
+   "id": "S43",
+   "title": "Yan Bechet - Chief Operating Officer UAE and Interim Head of International Wealth and Premier Banking UAE, HSBC Bank Middle East (speaker profile, Seamless Fintech Middle East 2026)",
+   "publisher": "Terrapinn (Seamless Middle East Fintech, 22-24 Sep 2026)",
+   "url": "https://www.terrapinn.com/exhibition/seamless-middle-east-fintech/speaker-yan-BECHET.stm",
+   "doc_type": "Conference speaker biography",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Not an HSBC publication; biography as supplied to the conference (event 22-24 Sep 2026)."
+  },
+  {
+   "id": "S44",
+   "title": "HSBC Private Bank Appoints Senior Bankers For Global India, Singapore",
+   "publisher": "WealthBriefing",
+   "url": "https://www.wealthbriefing.com/html/printarticle.php?id=208645",
+   "doc_type": "News (appointments)",
+   "tier": 5,
+   "published": "2026-08-27",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S45",
+   "title": "HSBC celebrates 20 years in Kuwait, appoints Ahmed Al Murad as CEO",
+   "publisher": "Zawya (HSBC press release)",
+   "url": "https://www.zawya.com/en/press-release/people-in-the-news/hsbc-celebrates-20-years-in-kuwait-appoints-ahmed-al-murad-as-ceo-vxn9hf5p",
+   "doc_type": "Press release (news site)",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page answered HTTP 400 on 2026-10-12). Date not shown; the 20-year anniversary of the 2005 launch implies 2025."
+  },
+  {
+   "id": "S46",
+   "title": "Media releases and news (index)",
+   "publisher": "HSBC Private Bank",
+   "url": "https://www.privatebanking.hsbc.com/media-releases-and-news/",
+   "doc_type": "Official newsroom index",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Dinesh Sharma title",
+   "detail": "Jun 2022 appointment report: 'regional head of wealth and personal banking for EMEA' (S36); Sep/Oct 2025 releases: 'Head of International Wealth and Premier Banking (IWPB), MENAT' (S8, S10); Jan 2026 release and Entrepreneur ME Feb 2026: 'Regional Head of International Wealth and Personal Banking, MENAT' (S9, S34).",
+   "source_ids": [
+    "S8",
+    "S10",
+    "S9",
+    "S34",
+    "S36"
+   ],
+   "resolution": "Recorded the IWPB title (matches HBME segment naming); same role since Sep 2022."
+  },
+  {
+   "field": "UAE CEO name spelling",
+   "detail": "'Mohamed Al Marzooqi' in press releases vs 'Mohammed Al Marzouqi' in UAE Operations ARA 2025 signature.",
+   "source_ids": [
+    "S9",
+    "S3"
+   ],
+   "resolution": "Same person; press-release spelling used."
+  },
+  {
+   "field": "Group Chairman title",
+   "detail": "Board page text says 'Group Chairman' while its image caption says 'Interim Group Chairman'.",
+   "source_ids": [
+    "S6"
+   ],
+   "resolution": "Recorded as Group Chairman with note; interim status unconfirmed."
+  },
+  {
+   "field": "Selim Kervanci - 'CEO, UAE'",
+   "detail": "Entrepreneur ME's 29 Jul 2026 profile headline styles him 'CEO, Middle East, North Africa & Türkiye; CEO, UAE, HSBC', but its body text describes only the MENAT role; HSBC's own releases of 11 and 22 Jun 2026 name Mohamed Al Marzooqi as 'Chief Executive Officer, UAE, HSBC Bank Middle East Limited'.",
+   "source_ids": [
+    "S33",
+    "S32",
+    "S26"
+   ],
+   "resolution": "Official releases used: Kervanci CEO MENAT, Al Marzooqi CEO UAE. The Entrepreneur headline is treated as an editorial styling; re-check if HSBC announces a UAE CEO change."
+  },
+  {
+   "field": "Aladdin Hangari appointment date",
+   "detail": "Hubbis (4 Oct 2023) reports him named head of GPB MENA with predecessor Sobhi Tabbara leaving in January 2024 after a transition; the DFSA register's first entry for him at HSBC Private Bank (Suisse) SA DIFC branch is dated 22 Apr 2024.",
+   "source_ids": [
+    "S38",
+    "S19"
+   ],
+   "resolution": "Recorded Jan 2024 as the effective start (end of the transition), announcement Oct 2023, DFSA authorisation Apr 2024."
+  }
+ ],
+ "open_items": [
+  "No AUM, wealth client assets or customer counts disclosed for HBME/UAE/MENAT; only IWPB segment balance-sheet data.",
+  "HSBC Saudi Arabia: official site (hsbcsaudi.com) unreachable through the session proxy (CONNECT 502, 2026-10-12); CEO Faris AlGhannam confirmed from the 2026 Zawya release (opened) and the 2022 Argaam report; no official biography or board page read. HSBC Saudi Arabia financials not collected.",
+  "WorldTrader launch date not stated on product page; Sep 2025 release implies about Sep 2024. Product page shows inconsistent admin-fee waiver dates (31 Dec 2026 vs 30 Jun 2025).",
+  "HSBC Group listing details and major shareholders not recorded (out of GCC scope).",
+  "No original extract exists for this institution, so there is no original reconciliation.",
+  "People pass X26 (2026-10-12): the five HSBC Group executives (Brendan Nelson, Georges Elhedery, Barry O'Byrne, David Liao, Surendra Rosha) were out of scope and left as recorded by B33; only GCC-relevant people were deepened.",
+  "Country CEOs added from official country pages: Qatar (Abdul Hakeem Mostafawi), Kuwait (Ahmed Al Murad, 2025), Bahrain (Joseph Ghorayeb, Sep 2023). Oman branch CEO Elie El Asmar (Apr 2024) has no 2025-2026 confirmation and no official page - 'Requires verification'.",
+  "UAE wealth head: Yan Bechet is 'Chief Operating Officer UAE and Interim Head of IWPB UAE' per his Sep 2026 Seamless Fintech speaker biography only; HSBC has published no release on the UAE IWPB head, the predecessor is not identified, and a Feb 2026 HSBC careers listing for 'Area Director - IWPB, Abu Dhabi' is a job advert, not a person. Check for a permanent appointment.",
+  "Kuwait private banking: Rayan Kazerooni (Head of GPB Kuwait, Aug 2023) not confirmed for 2025-2026; the Zawya release on Ahmed Al Murad's appointment answered HTTP 400, so his exact appointment date is unknown.",
+  "Qatar: Head of IWPB Omar Al-Ansari added from the 25 Jun 2026 wealth-centre statement; Country COO Laura Dunn not profiled; the current head of private banking in Qatar is not identified (Talal Alghalib in 2011; an Oct 2023 Arabic report of a new head was not opened). Mostafawi's CEO appointment date (before 2011) not found.",
+  "Vivek Pandohi: appointed Head of Middle East for Global India (HSBC Private Bank) on 27 Aug 2026, reporting to Gautam Anand, Head of Global India; previously led the UAE Global India and Expat business (S44). Desk-level role, not profiled.",
+  "HBME non-executive directors Amina Alrustamani (Deputy Chair), Samir Assaf, Paul Lawrence, John Bartlett and Dr Majed Najm (also Chairman of HSBC Saudi Arabia) are listed on the official board pages but not profiled (board members are not added in the people pass); Daniel Hankinson (Executive Director) stepped down 11 Dec 2025.",
+  "Education and qualifications: none published in the HSBC sources opened for any GCC executive. A search snippet of an undated conference biography credits Selim Kervanci with a BSc Electrical Engineering (Istanbul Technical University) and an MBA (Vrije Universiteit Brussel), but the page redirected to the 2026 summit homepage and could not be read, so it is not recorded.",
+  "LinkedIn: official HSBC pages carry no profile links; name-based look-ups are not permitted in this environment, so no new URLs were verified. Kept B33's search-result matches for Sharaf (S21) and Kervanci (S20). Not verified: Al Marzooqi, Sharma, Hangari, Al Jarmani, Kazerooni; not checked: the remaining people.",
+  "Blocked or unreadable in this pass: hsbcsaudi.com (502 via proxy), Zawya Kuwait CEO release (400), gulfbusiness.com (403), ibsintelligence.com and asianprivatebanker.com pages (no extractable text), uludagekonomizirvesi.org bio (redirects). about.hsbc.ae has no management page (404 on probed paths); the Kuwait, Bahrain and Qatar sites' /news-and-media paths answer 404."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B33",
+ "checked": "2026-10-12"
 }
