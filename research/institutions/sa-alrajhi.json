@@ -1,1773 +1,442 @@
 {
-  "id": "sa-alrajhi",
-  "name": "Al Rajhi Bank",
-  "short_name": "alrajhi bank",
-  "legal_name": "Al Rajhi Banking and Investment Corporation (a Saudi Joint Stock Company)",
-  "name_ar": "مصرف الراجحي",
-  "country": "SA",
-  "hq_city": "Riyadh",
-  "website": "https://www.alrajhibank.com.sa",
-  "linkedin_company": "https://www.linkedin.com/company/alrajhibank/",
-  "category": "Bank",
-  "type": "Islamic commercial bank",
-  "model": "Islamic",
-  "founded": "Roots in 1957 (fact sheet); formed and licensed as a joint stock company under Royal Decree No. M/59 dated 29 June 1987; CR 1010000096",
-  "regulators": [
-    "SAMA",
-    "CMA"
+ "id": "sa-alrajhi",
+ "name": "Al Rajhi Bank",
+ "short_name": "alrajhi bank",
+ "legal_name": "Al Rajhi Banking and Investment Corporation (a Saudi Joint Stock Company)",
+ "name_ar": "مصرف الراجحي",
+ "country": "SA",
+ "hq_city": "Riyadh",
+ "website": "https://www.alrajhibank.com.sa",
+ "linkedin_company": "https://www.linkedin.com/company/alrajhibank/",
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "Roots in 1957 (fact sheet); formed and licensed as a joint stock company under Royal Decree No. M/59 dated 29 June 1987; CR 1010000096",
+ "regulators": ["SAMA", "CMA"],
+ "listed": true,
+ "exchange": "Tadawul (Saudi Exchange)",
+ "ticker": "1120",
+ "parent_id": null,
+ "ownership_summary": "Tadawul-listed bank, chaired by Abdullah bin Sulaiman Al Rajhi; two Al Rajhi family members sit on the board (S2). Holders above 5% could not be verified: the Saudi Exchange major-shareholders page returned 403 and Argaam's shareholder table is behind a login. The EGM of 20 Apr 2026 approved a 1-for-2 bonus issue, raising share capital from SAR 40bn (4,000m shares) to SAR 60bn (6,000m shares) (S3 note 14). Market capitalisation was SAR 395.4bn at 30 Jun 2026 (S5).",
+ "shareholders": [],
+ "government_link": "No direct government shareholding found in the sources reviewed. Major-shareholder register not accessible (see open_items).",
+ "group_structure": "Parent bank with the Saudi branch network plus foreign branches in Kuwait and Jordan and a Malaysian Islamic bank subsidiary. Subsidiaries at 30 Jun 2026 (S3 note 1): Al Rajhi Capital Company (100%; CMA-licensed dealing/brokerage, asset management, advising, arranging, custody; profiled separately as sa-alrajhi-capital), Emkan Finance (100%; micro consumer and SME finance), International Digital Solutions Co. / Neoleap (100%; payments, urpay wallet), Neotek (100%; open banking, SAMA-authorised), Drahim Holdings (67.48%; PFM and automated investment), Ejada Systems (90%; IT services; classified held for sale with a planned private placement and IPO), Tawtheeq (100%), Tuder Real Estate (100%), Management and Development for Human Resources Co. (100%), Al Rajhi Financial Markets Ltd (Cayman, 100%) and Al Rajhi Corporation Limited (Malaysia, 100%). The bank also holds an associate (carrying value SAR 1,270m). Double counting: Al Rajhi Capital's revenue and AUM sit inside the bank's 'Investment services, brokerage and other' segment; do not add sa-alrajhi-capital figures to this record.",
+ "subsidiaries": [
+  {"name": "Al Rajhi Capital Company", "pct": 100.0, "activity": "CMA-licensed dealing/brokerage, managing assets, advising, arranging and custody (CMA licence 07068/37)", "linked_id": "sa-alrajhi-capital", "source_ids": ["S3", "S44"]},
+  {"name": "Drahim Holdings (Cayman Islands)", "pct": 67.48, "activity": "Personal finance management and automated investment (robo) platform; 65% acquired June 2024 for SAR 83.4m (stake 65% at end-2025, 67.48% at 30 Jun 2026)", "linked_id": null, "source_ids": ["S3", "S4", "S14"]},
+  {"name": "Al Rajhi Corporation Limited (Al Rajhi Bank Malaysia)", "pct": 100.0, "activity": "Licensed Islamic bank in Malaysia; 2025 net profit SAR 94.8m", "linked_id": null, "source_ids": ["S3", "S13"]},
+  {"name": "Al Rajhi Bank - Kuwait (foreign branch)", "pct": 100.0, "activity": "Islamic banking branch in Kuwait; 2025 net profit SAR 0.8m", "linked_id": null, "source_ids": ["S3", "S13"]},
+  {"name": "Al Rajhi Bank - Jordan (foreign branch)", "pct": 100.0, "activity": "Islamic banking branch in Jordan; 2025 net profit SAR 43.8m", "linked_id": null, "source_ids": ["S3", "S13"]},
+  {"name": "International Digital Solutions Co. (Neoleap)", "pct": 100.0, "activity": "Digital payments, settlement; urpay wallet (8m+ users)", "linked_id": null, "source_ids": ["S3", "S16"]},
+  {"name": "New Technology Company for Software Solutions (Neotek)", "pct": 100.0, "activity": "SAMA-authorised fintech and open banking services", "linked_id": null, "source_ids": ["S3"]},
+  {"name": "Emkan Finance Company", "pct": 100.0, "activity": "Micro consumer financing, finance lease and SME financing", "linked_id": null, "source_ids": ["S3"]},
+  {"name": "Ejada Systems Company", "pct": 90.0, "activity": "IT, systems analysis and consulting; held for sale (planned loss of control via private placements and IPO)", "linked_id": null, "source_ids": ["S3"]},
+  {"name": "Tawtheeq Company", "pct": 100.0, "activity": "Registration of finance lease contracts", "linked_id": null, "source_ids": ["S3"]},
+  {"name": "Tuder Real Estate Company", "pct": 100.0, "activity": "Holds title deeds for the bank's mortgage programmes", "linked_id": null, "source_ids": ["S3"]},
+  {"name": "Al Rajhi Financial Markets Ltd (Cayman Islands)", "pct": 100.0, "activity": "Treasury-related transactions on behalf of the bank", "linked_id": null, "source_ids": ["S3"]}
+ ],
+ "footprint": "Saudi Arabia plus Malaysia, Jordan and Kuwait. 547 branches at 30 Jun 2026 including foreign branches (S3 note 1). The fact sheet gives 513 branches in KSA plus 13 in Malaysia, 13 in Jordan and 2 in Kuwait, 4,273 ATMs, 990k+ POS terminals and 135 remittance centres (S5, S8). Six Private Banking centres: Riyadh, Jeddah, Madinah, Makkah, Dammam and Qassim (S19).",
+ "customer_segments": "Retail mass ('Classic experience'), youth and expatriates; Affluent and Diamond Affluent tiers (the AR calls this the 'Premium' segment); Private Banking (HNW); MSME; large corporate; financial institutions (S10, S19-S21, S46).",
+ "business_lines": "Four reportable segments (S3 note 19): Retail (H1 2026 operating income SAR 10.2bn); Corporate incl. MSME and VIP deposits (SAR 5.9bn); Treasury (SAR 4.2bn); 'Investment services, brokerage and other' (SAR 1.12bn), which covers mutual funds, local and international share trading and investment portfolios run through Al Rajhi Capital. Private Banking is a separate executive function (Chief Private Banking Officer). Other group businesses: payments (Neoleap/urpay), consumer and SME finance (Emkan), open banking (Neotek), robo/PFM (Drahim), and investment banking through Al Rajhi Capital. All products are Shariah-compliant.",
+ "metrics": [
+  {"metric": "total_assets", "value": 1054772497, "unit": "thousand", "currency": "SAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed by Deloitte and PwC, report dated 29 Jul 2026)", "status": "Verified", "locator": "S3 p.1 (PDF p.4)", "note": "Earnings release S6 gives SAR 1,055bn (rounded), consistent.", "source_ids": ["S3", "S6"]},
+  {"metric": "total_assets", "value": 1043268297, "unit": "thousand", "currency": "SAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Total assets, audited consolidated statement of financial position (Deloitte and EY, report dated 4 Feb 2026)", "status": "Verified", "locator": "S4 p.1 (PDF p.9)", "note": "Extra record.", "source_ids": ["S4"]},
+  {"metric": "customer_deposits", "value": 688359499, "unit": "thousand", "currency": "SAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "'Customers' deposits': demand deposits and call accounts 431,497,277; customers' time investments (all Murabaha) 246,737,486; other customer accounts 10,124,736 (SAR '000). Excludes due to banks, SAMA and other FIs (107,264,297) and debt securities/term financing (74,834,389).", "status": "Verified", "locator": "S3 p.1 and note 10 p.26 (PDF p.29)", "note": "CASA 64% (S6).", "source_ids": ["S3"]},
+  {"metric": "customer_deposits", "value": 667287500, "unit": "thousand", "currency": "SAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "'Customers' deposits', audited consolidated statement of financial position (excludes due to banks, SAMA and other FIs)", "status": "Verified", "locator": "S4 p.1 (PDF p.9)", "note": "Extra record.", "source_ids": ["S4"]},
+  {"metric": "net_loans", "value": 762096104, "unit": "thousand", "currency": "SAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "'Financing, net' at amortised cost, all Shariah-compliant, net of ECL allowance of 8,778,945. Retail 477,258,921 (mortgage 273,192,908; personal 170,821,623; auto leasing 23,020,984; cards 10,223,406); corporate 284,837,183 (large corporate 216,741,610; MSME 68,095,573).", "status": "Verified", "locator": "S3 p.1 and note 8(a) p.17 (PDF p.20)", "note": "", "source_ids": ["S3"]},
+  {"metric": "net_loans", "value": 752759851, "unit": "thousand", "currency": "SAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "'Financing, net', audited consolidated statement of financial position", "status": "Verified", "locator": "S4 p.1 (PDF p.9)", "note": "Extra record.", "source_ids": ["S4"]},
+  {"metric": "gross_loans", "value": 770875049, "unit": "thousand", "currency": "SAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Gross financing (performing 765,145,586 + non-performing 5,729,463) before ECL allowance", "status": "Verified", "locator": "S3 note 8(a) p.17 (PDF p.20)", "note": "", "source_ids": ["S3"]},
+  {"metric": "total_equity", "value": 152566000, "unit": "thousand", "currency": "SAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Total equity, including equity sukuk of 31,743,500 and non-controlling interests of 149,238. Equity attributable to the Bank's shareholders was 120,673,262.", "status": "Verified", "locator": "S3 p.1 (PDF p.4)", "note": "", "source_ids": ["S3"]},
+  {"metric": "total_equity", "value": 142912345, "unit": "thousand", "currency": "SAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Total equity incl. equity sukuk 27,907,879; attributable to shareholders 114,854,169", "status": "Verified", "locator": "S4 p.1 (PDF p.9)", "note": "Extra record.", "source_ids": ["S4"]},
+  {"metric": "operating_income", "value": 39093965, "unit": "thousand", "currency": "SAR", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Group consolidated", "definition": "'Total operating income', consolidated statement of income (net financing and investment income 29,845,671 + net fees 5,869,207 + exchange 1,558,950 + other 1,820,137)", "status": "Verified", "locator": "S4 p.2 (PDF p.10)", "note": "FY2024: 32,055,303.", "source_ids": ["S4"]},
+  {"metric": "operating_income", "value": 21412963, "unit": "thousand", "currency": "SAR", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Group consolidated", "definition": "'Total operating income', interim condensed consolidated statement of income, six months", "status": "Verified", "locator": "S3 p.2 (PDF p.5)", "note": "H1 2025: 18,802,975 (+13.9%). Extra record.", "source_ids": ["S3", "S6"]},
+  {"metric": "net_profit", "value": 24791754, "unit": "thousand", "currency": "SAR", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Group consolidated", "definition": "Net income for the year attributable to the Bank's shareholders, after zakat (total net income 24,824,510 incl. NCI 32,756); before Tier 1 sukuk costs", "status": "Verified", "locator": "S4 p.2 (PDF p.10)", "note": "FY2024: 19,722,206.", "source_ids": ["S4"]},
+  {"metric": "net_profit", "value": 13763688, "unit": "thousand", "currency": "SAR", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Group consolidated", "definition": "Net income for the period attributable to the Bank's shareholders, after zakat (total 13,788,714 incl. NCI 25,026); before Tier 1 sukuk costs of 754,025", "status": "Verified", "locator": "S3 p.2 (PDF p.5) and note 15 p.28", "note": "H1 2025: 12,057,051 (+14.2%). Note 15 prints 13,763,689 (rounding).", "source_ids": ["S3", "S6"]},
+  {"metric": "aum", "value": 165822, "unit": "million", "currency": "SAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group, through subsidiary Al Rajhi Capital", "definition": "'Investment management services ... through its subsidiary, which include management of funds with total assets under management of SAR 165,822 million' (audited FS). Discretionary/non-discretionary split not stated.", "status": "Verified", "locator": "S4 note 'Investment management services' p.100 (PDF p.107)", "note": "2024: SAR 123,319m (+34.5%). AR 2025 gives SAR 165.8bn, +35%, '2nd largest asset manager in the Kingdom' (S9). Also recorded in sa-alrajhi-capital; do not add.", "source_ids": ["S4", "S9"]},
+  {"metric": "customers", "value": 21.7, "unit": "million", "currency": null, "period_end": "2026-06-30", "period_label": "2Q 2026", "period_type": "point_in_time", "scope": "Group (all customers)", "definition": "'21.7 million Customers' (At a glance, 2Q 2026); active vs registered not stated", "status": "Verified", "locator": "S5 slide 4", "note": "CEO on the 28 Jul 2026 call: 'approximately 22 million customers' (S7).", "source_ids": ["S5", "S8"]},
+  {"metric": "customers", "value": 19.5, "unit": "million", "currency": null, "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Retail Banking Group", "definition": "'Total retail customers' at year-end 2025 (+1.5m YoY, incl. 1.1m expatriate customers)", "status": "Verified", "locator": "AR 2025, Retail Banking Group section", "note": "Extra record. Different scope from the group figure.", "source_ids": ["S10"]},
+  {"metric": "employees", "value": 24712, "unit": "unit", "currency": null, "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Bank (incl. branches outside KSA)", "definition": "'24,712 employees (2024: 23,437)' (FS note 1)", "status": "Verified", "locator": "S4 note 1 p.8 (PDF p.16)", "note": "Fact sheet 2Q26 says '+25,000 employees' (S8).", "source_ids": ["S4"]},
+  {"metric": "branches", "value": 547, "unit": "unit", "currency": null, "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Bank, incl. branches outside KSA", "definition": "'547 branches (December 31, 2025: 545 branches and June 30, 2025: 544 branches)' (interim FS note 1)", "status": "Verified", "locator": "S3 note 1 p.8 (PDF p.11)", "note": "Investor presentation and fact sheet: 513 branches in KSA (S5, S8). See discrepancies.", "source_ids": ["S3"]},
+  {"metric": "investment_brokerage_segment_operating_income", "value": 1120509, "unit": "thousand", "currency": "SAR", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "'Investment services, brokerage and other' segment", "definition": "Total operating income of the segment (net fees 672,804); net income before zakat 1,056,602; segment assets 12,617,210", "status": "Verified", "locator": "S3 note 19 p.32 (PDF p.35)", "note": "H1 2025: 945,659. FY2025: 2,020,201 (S4 note, PDF p.75).", "source_ids": ["S3"]}
+ ],
+ "disclosure_checks": [
+  {"metric": "wealth_client_assets", "status": "Not publicly disclosed", "where_checked": "Private Banking, Affluent and Diamond Affluent pages (S19-S21); AR 2025 Retail Banking Group section (S10); 2Q26 investor presentation (S5)"},
+  {"metric": "investing_users", "status": "Not publicly disclosed", "where_checked": "AR 2025 Al Rajhi Capital section gives '3 million' Super App downloads, not active investors (S9); Drahim section says only that the user base doubled (S14); 2Q26 presentation (S5)"},
+  {"metric": "aua", "status": "Not publicly disclosed", "where_checked": "Group FS H1 2026 and FY2025 (S3, S4). Al Rajhi Capital assets under custody (SAR 3.7bn, end-2025) are recorded in sa-alrajhi-capital."}
+ ],
+ "people": [
+  {"name": "Abdullah bin Sulaiman Al Rajhi", "name_ar": "عبد الله بن سليمان الراجحي", "title": "Chairman of the Board (Non-Executive); Chairman of the Executive Committee", "functions": ["Chair"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Board of Directors", "scope": "Group", "appointed": null, "appointed_note": "Chairman for the current board term, 14 Nov 2023–13 Nov 2026 (reappointed; Enterprise AM 29 Nov 2023, S37; board term per AR 2025, S50 p.232). The date of his first appointment as Chairman is not published in the sources opened. Nominations for the 11-seat board of 14 Nov 2026–13 Nov 2029 ran 12 Jul–11 Aug 2026 (S34); no nominee list or assembly date had been published by 12 Oct 2026. Also non-executive Chairman of Al Rajhi Capital (S43).", "previous_roles": "1979–31 Mar 2012 Al Rajhi Bank: Managing Director and Chief Executive Officer; Chief Executive Officer; General Manager; First Deputy General Manager; Deputy General Manager Financial Affairs; Deputy General Manager Investment and Foreign Relations (AR 2025; contributed to converting Al Rajhi Exchange and Trade Company into a public joint stock company). Current other roles: Chairman, Al Rajhi Capital; Chairman, Al Rajhi Company for Cooperative Insurance (Al Rajhi Takaful); Chairman, Al Rajhi Holding Group; Chairman, Alfarbi Petrochemicals Company; Chairman, Interior & Exterior Floor Textiles Solutions Holding Co.; Chairman, Al Ajyal Holding Company; Chairman, ASAQ Company; Chairman, ARGC FC Company; Chairman, Al Rajhi Medical Hospital Company (S18, S50).", "education": "Bachelor of Business Administration, King Abdulaziz University", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Chairman profile checked 2026-10-12 (S33, EN; Arabic listing S61); AR 2025 board biography (S18, S50); quoted as Chairman in the 21 Jul 2026 earnings release (S6). Board term ends 13 Nov 2026 — re-check after the election.", "source_ids": ["S2", "S33", "S61", "S18", "S50", "S37", "S34", "S6", "S43"], "checked": "2026-10-12"},
+  {"name": "Ibrahim bin Mohammed Al Romaih", "name_ar": "ابراهيم بن محمد الرميح", "title": "Deputy Chairman of the Board (Independent Director); Chairman of the Nominations and Remunerations Committee; member of the Executive Committee", "functions": ["Board"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Board of Directors", "scope": "Group", "appointed": null, "appointed_note": "Vice Chairman for the term 14 Nov 2023–13 Nov 2026 (reappointed; S37, S50 p.232). Classified as an independent director in AR 2025 (S50 p.248). First election date not published in the sources opened.", "previous_roles": "Chief Executive Officer, Saudi Arabian Investment Company; Vice Chairman of the Board, Capital Market Authority; Associate Secretary General, Public Investment Fund; board member, National Commercial Bank; board member, ACWA Power (dates not published; 'close to 30 years' in banking, finance and investment). Current other roles: board member, Saudi Arabian Investment Company (S18, S52).", "education": "Bachelor of Economics, Portland State University (USA); Master's in Economics, Central Michigan University (USA); Finance course, Chase Manhattan Bank (USA)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Deputy Chairman profile checked 2026-10-12 (S52; Arabic listing S61); AR 2025 (S18, S50).", "source_ids": ["S2", "S52", "S61", "S18", "S50", "S37"], "checked": "2026-10-12"},
+  {"name": "Waleed Abdullah Al-Mogbel", "name_ar": "وليد بن عبدالله المقبل", "title": "Managing Director and Chief Executive Officer", "functions": ["Group CEO", "Board"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Executive Management", "scope": "Group", "appointed": "2020-01", "appointed_note": "Named CEO in Nov 2019 to succeed Stefano Bertamini at the end of 2019 (S36); Forbes ME: CEO since 2020, Managing Director since 2022 (S58). Board approved his appointment as board member and Managing Director on 31 Oct 2022 (S35); the only executive director on the board (S50 p.248). Non-executive board member and Executive Committee chairman of Al Rajhi Capital (S43).", "previous_roles": "Jan 2020– Chief Executive Officer (Managing Director from Oct 2022), Al Rajhi Bank; earlier Deputy Chief Executive Officer; Chief Operating Officer; Executive Vice President; Head of Operations; Head of the Financial Group, Al Rajhi Bank (dates not published; S25, S50). Current other roles: Chairman, Emkan Finance Company; Chairman, International Digital Solutions Company (Neoleap); Chairman, Human Resources Management and Development Company (Atmaal; the official bio calls it Tanfeeth); Chairman, Neotek; Chairman, Drahim Holdings; board member, Al Rajhi Company for Cooperative Insurance (Al Rajhi Takaful); board member, Al Rajhi Capital (AR 2025, S50). The official bio page still lists the chairmanship of Ejada Systems, which AR 2025 lists as a previous position (S25, S50).", "education": "PhD in Auditing, Cardiff University (2006); Master in Finance, University of Southampton (2003); Bachelor of Accounting, King Saud University (1999)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official CEO profile (EN and AR) checked 2026-10-12 (S25, S51); listed on the Arabic executive and board rosters (S54, S61); AR 2025 (S11, S50); led the Q2 2026 call on 28 Jul 2026 (S7); Forbes ME Top 100 CEOs, 6 Aug 2026 (S58). Role-based 2026 searches found no departure and no LinkedIn profile URL.", "source_ids": ["S1", "S2", "S25", "S51", "S54", "S61", "S11", "S50", "S7", "S35", "S36", "S43", "S58"], "checked": "2026-10-12"},
+  {"name": "Abdulrahman Abdullah Al-Fadda", "name_ar": "عبدالرحمن بن عبدالله الفدى", "title": "Chief Financial Officer (Head of the Financial Group)", "functions": ["Finance"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Finance", "scope": "Group", "appointed": null, "appointed_note": "Date not found. AR 2025 titled him 'Chief Financial Officer and Acting Chief Risk Officer' (S11, S50); the official page (Oct 2026) shows CFO only (S30, S51).", "previous_roles": "Chief Financial Officer, Al Rajhi Bank (date not published; also Acting Chief Risk Officer per AR 2025); earlier General Manager of Treasury and Financial Institutions, Al Rajhi Bank (official bio). Experience: 26 years (official bio) / 29 years (AR 2025). Current other roles: Non-Independent Executive Director, Al Rajhi Banking & Investment Corporation (Malaysia) Bhd (S56).", "education": "Bachelor's degree in Electrical Engineering (institution not stated)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official CFO profile (EN and AR) checked 2026-10-12 (S30, S51); Arabic roster (S54); presented on the 28 Jul 2026 call (S7); listed as executive director on the Malaysian subsidiary's board page (S56).", "source_ids": ["S1", "S30", "S51", "S54", "S11", "S50", "S7", "S56"], "checked": "2026-10-12"},
+  {"name": "Majed Saleh Al-Rajhi", "name_ar": "ماجد بن صالح الراجحي", "title": "General Manager Retail Banking (General Manager, Retail Banking Group)", "functions": ["Retail", "Affluent"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Retail Banking Group", "scope": "Bank", "appointed": null, "appointed_note": "Date not found; a role-based search for the appointment returned no news. Arabic title: مدير عام المجموعة المصرفية للأفراد (S51).", "previous_roles": "General Manager Retail Banking, Al Rajhi Bank (date not published); earlier Assistant General Manager Private and Affluent Banking, Al Rajhi Bank (official bio). Experience: 18 years (official bio) / 21 years (AR 2025).", "education": "MBA, London Business School", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official profile (EN and AR) checked 2026-10-12 (S27, S51); Arabic roster (S54); AR 2025 (S11, S50). Role-based searches found no appointment or departure news and no LinkedIn profile URL.", "source_ids": ["S1", "S27", "S51", "S54", "S11", "S50"], "checked": "2026-10-12"},
+  {"name": "Hani Abdullah Al Meghem", "name_ar": "هاني عبدالله المقحم", "title": "Chief Private Banking Officer", "functions": ["Private banking", "Wealth"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Private Banking", "scope": "Bank", "appointed": null, "appointed_note": "Not in the AR 2025 executive list (S11, S50), so added to the executive team in 2026; no announcement found in role-based EN/AR searches (12 Oct 2026). Arabic title: رئيس المصرفية الخاصة (S51).", "previous_roles": "2026– Chief Private Banking Officer, Al Rajhi Bank; earlier Assistant General Manager, Vision Realization Programs and Corporate Solutions, Al Rajhi Bank (official bio). Experience: 20 years (official bio). LinkedIn posts seen in earlier search snippets also mention Head of Private Banking and Director of Strategic Initiatives in Retail Banking (unverified).", "education": "Bachelor in Economics and Administration (institution not stated)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official profile (EN and AR) checked 2026-10-12 (S26, S51); Arabic roster lists the Chief Private Banking Officer post (S54). An aggregator profile names a different holder of this title (aggregators are leads only, not cited); the official page is used. No LinkedIn profile URL matched.", "source_ids": ["S1", "S26", "S51", "S54"], "checked": "2026-10-12"},
+  {"name": "Turki Mohammed Al-Dhfayan", "name_ar": "تركي بن محمد الضفيان", "title": "Chief Strategic Projects and Acting Chief Digital Officer", "functions": ["Digital", "Strategy"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Strategic Projects / Digital", "scope": "Bank", "appointed": null, "appointed_note": "AR 2025 lists him as 'Chief Strategic Projects' only (S11, S50); the acting CDO role appears on the official page in 2026 (S28, S51), after Abdullah Al-Furaiji (CDO in AR 2025) left the roster. Dates not found.", "previous_roles": "Chief Strategic Projects (AR 2025) and, from 2026, Acting Chief Digital Officer, Al Rajhi Bank; earlier Chief Marketing and Customer Experience Officer, Al Rajhi Bank (official bio). Experience: 18 years (official bio) / 19 years (AR 2025).", "education": "Associate Degree in Telecommunications", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official profile (EN and AR) checked 2026-10-12 (S28, S51); Arabic roster (S54); AR 2025 (S11, S50). A LinkedIn profile under his name appeared in an earlier search with a different current employer in the snippet, so no URL was matched. Role-based 2026 searches found no CDO appointment.", "source_ids": ["S1", "S28", "S51", "S54", "S11", "S50"], "checked": "2026-10-12"},
+  {"name": "Abid Shakeel", "name_ar": "عابد شكيل", "title": "Chief Strategy Officer", "functions": ["Strategy"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Strategy", "scope": "Group", "appointed": null, "appointed_note": "Not in the AR 2025 executive list (S11, S50); appointed 2026. No announcement found in role-based EN/AR searches. The bank is preparing its next three-year strategy (S7).", "previous_roles": "2026– Chief Strategy Officer, Al Rajhi Bank; earlier Chief Advisor, G20 Central Bank & Regulatory Authority; Regional Partner, Financial Services, Deloitte; Principal & Senior Director, Financial Services, EY (dates not published; 29 years' experience per the official bio).", "education": "Higher National Diploma, Physics", "qualifications": "Fellow, Chartered Management Institute (FCMI)", "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official profile (EN and AR) checked 2026-10-12 (S29, S51); Arabic roster (S54).", "source_ids": ["S1", "S29", "S51", "S54", "S7"], "checked": "2026-10-12"},
+  {"name": "Saed Basheer Basseet", "name_ar": "سائد بشير بسيط", "title": "Chief Marketing and Customer Experience Officer", "functions": ["Retail", "Other"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Marketing and Customer Experience", "scope": "Bank", "appointed": null, "appointed_note": "AR 2025 listed Abdullah Saad Aljabr in this role (S11, S50); the change is not announced in the sources found, so 2026.", "previous_roles": "2026– Chief Marketing and Customer Experience Officer, Al Rajhi Bank; earlier Chief Marketing and Customer Experience Officer, Neoleap (bank subsidiary) (official bio). Experience: 19 years (official bio).", "education": "Master's in Knowledge and Information System Management, University of Southampton (UK)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official profile (EN and AR) checked 2026-10-12 (S31, S51); Arabic roster (S54).", "source_ids": ["S1", "S31", "S51", "S54", "S11"], "checked": "2026-10-12"},
+  {"name": "Hussein Talal Bayari", "name_ar": "حسين بن طلال بياري", "title": "General Manager Corporate Banking Group", "functions": ["Corporate / wholesale"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Corporate Banking Group", "scope": "Bank", "appointed": null, "appointed_note": "Date not found. Succeeded Hossam Al-Basrawi, who held the post until his move to Al Rajhi Capital in Mar 2025 (S59).", "previous_roles": "General Manager Corporate Banking Group, Al Rajhi Bank (date not published; by the time AR 2025 was prepared); earlier Executive Vice President, Head of Global Corporates, Saudi National Bank (official bio). Experience: '+16 years' (official bio).", "education": "Master's degree in Business Administration (institution not stated)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official profile (EN and AR) checked 2026-10-12 (S32, S51); Arabic roster (S54); AR 2025 (S11, S50).", "source_ids": ["S1", "S32", "S51", "S54", "S11", "S50", "S59"], "checked": "2026-10-12"},
+  {"name": "Faisal Abdullah Al-Sheref", "name_ar": "فيصل بن عبدالله الشريف", "title": "General Manager Sharia (General Manager of the Shariah Group)", "functions": ["Islamic / Shariah"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Shariah Group", "scope": "Group", "appointed": null, "appointed_note": "Date not found.", "previous_roles": "General Manager of the Shariah Group, Al Rajhi Bank (date not published); earlier Assistant General Manager, Shariah Counsel (Arabic bio: Shariah Board Secretariat), Al Rajhi Bank. Experience: 19 years (official bio).", "education": "Doctorate in Comparative Jurisprudence (institution not stated)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official profile (EN and AR) checked 2026-10-12 (S53, S51); Arabic roster (S54); AR 2025 (S11, S50).", "source_ids": ["S1", "S53", "S51", "S54", "S11", "S50"], "checked": "2026-10-12"},
+  {"name": "Abdullah Ali Al-Furaiji", "name_ar": null, "title": "Chief Digital Officer (per AR 2025)", "functions": ["Digital"], "entity": "Al Rajhi Banking and Investment Corporation", "business_unit": "Digital", "scope": "Bank", "appointed": null, "appointed_note": "Listed as CDO in AR 2025 (S11, S50); absent from the official executive roster in Oct 2026 (S54), where Turki Al-Dhfayan is Acting CDO.", "previous_roles": "Chief Digital Officer, Al Rajhi Bank (per AR 2025); earlier Assistant General Manager Digital Business, Al Rajhi Bank. Experience: 25 years (AR 2025).", "education": "Bachelor's degree in Organisation and Management Development, Financial Accounting (institution not stated)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Conflicting sources", "role_evidence": "AR 2025 (published 2026) lists him as CDO (S11, S50); the official executive roster checked 2026-10-12 has no CDO profile and shows an acting CDO (S54, S28). No departure news found in role-based searches.", "source_ids": ["S11", "S50", "S1", "S54", "S28"], "checked": "2026-10-12"},
+  {"name": "Hossam Essam Al-Basrawi", "name_ar": "حسام بن عصام البصراوي", "title": "Chief Executive Officer, Al Rajhi Capital", "functions": ["Subsidiary CEO", "Investments / asset management", "Brokerage"], "entity": "Al Rajhi Capital Company", "business_unit": "Al Rajhi Capital (100% subsidiary)", "scope": "Subsidiary", "appointed": "2025-03", "appointed_note": "Effective March 2025 (People Matters ME, 19 Mar 2025, S59). Full profile in sa-alrajhi-capital.", "previous_roles": "Mar 2025– Chief Executive Officer, Al Rajhi Capital; 2023–2025 member of Al Rajhi Capital's Executive Committee (S59); Mar 2020–2025 General Manager Corporate Banking Group, Al Rajhi Bank (S59; AR 2025 and the Al Rajhi Capital bio give this as his previous position, S12, S60). Experience: 27 years (AR 2025) / 'more than 29 years' (Al Rajhi Capital bio).", "education": "Bachelor's degree in Law", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Al Rajhi Capital management page and bio checked 2026-10-12 (S42, S60); AR 2025 subsidiary CEOs page (S12, S50). See sa-alrajhi-capital for 2026 corroboration (EquiLend release, Forbes ME ranking).", "source_ids": ["S42", "S60", "S12", "S50", "S59"], "checked": "2026-10-12"},
+  {"name": "Sultan Alkhayal", "name_ar": null, "title": "Chief Executive Officer, Drahim", "functions": ["Subsidiary CEO", "Digital", "Investments / asset management"], "entity": "Drahim Holdings", "business_unit": "Drahim (67.48% subsidiary)", "scope": "Subsidiary", "appointed": null, "appointed_note": "Date not found. Al Rajhi Bank acquired 65% of Drahim in June 2024 (S4); the bank's CEO chairs Drahim Holdings (S50).", "previous_roles": "Chief Executive Officer, Drahim (date not published); earlier Co-Founder and Board Member, Aqwas (AR 2025). Experience: 10 years (AR 2025).", "education": "Bachelor of Science, Software Engineering; Mini-MBA for SME Growth (institutions not stated)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "AR 2025 subsidiary CEOs page, published 2026 (S12, S50 p.228–230). Drahim's website (drahim.sa) has no leadership or about page (checked 2026-10-12; /about, /en and /about-us return 404), so no company-level re-check was possible; a role-based search found no 2026 change. Single-source status; re-check when Drahim publishes a team page.", "source_ids": ["S12", "S50", "S4"], "checked": "2026-10-12"},
+  {"name": "Syahrul Ishak", "name_ar": null, "title": "Chief Executive Officer, alrajhi bank Malaysia (official page: Mohd Syahrul Ishak)", "functions": ["Subsidiary CEO"], "entity": "Al Rajhi Banking & Investment Corporation (Malaysia) Bhd", "business_unit": "International network", "scope": "Subsidiary", "appointed": "2024-05", "appointed_note": "Fintech News Malaysia reported his appointment on 13 May 2024 (S57; the search summary gives a start date of 13 May 2024 and names Arsalaan Ahmed as predecessor). AR 2025 gives no date.", "previous_roles": "May 2024– Chief Executive Officer, Al Rajhi Banking & Investment Corporation (Malaysia) Bhd; earlier Managing Director and Regional Head, Cash Management, Group Transaction Banking, CIMB Bank (AR 2025; dates not published). Experience: 20 years (AR 2025).", "education": "Bachelor of Science in Business Administration (institution not stated)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Listed as 'Mohd Syahrul Ishak, Chief Executive Officer (CEO)' on the Malaysian subsidiary's Executive Management page checked 2026-10-12 (S55); AR 2025 (S12, S50); appointment report (S57). A role-based search found no later CEO change.", "source_ids": ["S12", "S50", "S55", "S57"], "checked": "2026-10-12"}
+ ],
+ "capabilities": {
+  "wealth_summary": "Al Rajhi Bank is fully Shariah-compliant. Its investment business sits in the 100%-owned Al Rajhi Capital: AUM of SAR 165,822m at end-2025 (+34.5%), second-largest asset manager in KSA, and the leading Tadawul broker by value traded (S4, S9). The bank sells wealth through three published tiers. Affluent: SAR 250k opening deposit, SAR 100k average balance, SAR 20k salary, or SAR 1m relationship with Al Rajhi Capital. Diamond Affluent: SAR 1m, 500k, 40k or SAR 2m with Al Rajhi Capital. Private Banking: no threshold published; six centres and a dedicated RM, with investment products 'offered to you through AlRajhi Capital' (S19-S21). A Chief Private Banking Officer, not in the AR 2025 executive list, now sits on the executive team (S1). The bank owns 67.48% of Drahim, a robo/PFM platform whose robo portfolios passed 1.5bn in investments (currency not stated) and which launched Drahim Business with 30+ funds in Sep 2025 (S3, S14). Al Rajhi Capital also runs the 'alrajhi Mashora' robo-advisory service (S9). The 'Harmonize the Group' strategy ends in 2026, and a new 3-year strategy is being prepared (S7).",
+  "segments": [
+   {
+    "name": "Affluent",
+    "tier": "Affluent",
+    "eligibility": "Any one of: new account opened with SAR 250k+; 3-month average balance SAR 100,000+; monthly salary transfer SAR 20,000+; total relationship value SAR 1m+ with Al Rajhi Capital (as published). Affluent centres in branches; free Visa Signature card.",
+    "source_ids": [
+     "S20"
+    ]
+   },
+   {
+    "name": "Diamond Affluent",
+    "tier": "Upper affluent",
+    "eligibility": "Any one of: new account opened with SAR 1m+; 3-month average balance SAR 500,000+; monthly salary transfer SAR 40,000+; total relationship value SAR 2m+ with Al Rajhi Capital (as published). Dedicated relationship manager; fee exemption; Infinite card.",
+    "source_ids": [
+     "S21"
+    ]
+   },
+   {
+    "name": "Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "Not published. Dedicated relationship manager; investment products through AlRajhi Capital; credit facilities to support investments; 6 Private Banking centres.",
+    "source_ids": [
+     "S19"
+    ]
+   }
   ],
-  "listed": true,
-  "exchange": "Tadawul (Saudi Exchange)",
-  "ticker": "1120",
-  "parent_id": null,
-  "ownership_summary": "Tadawul-listed bank, chaired by Abdullah bin Sulaiman Al Rajhi; two Al Rajhi family members sit on the board (S2). Holders above 5% could not be verified: the Saudi Exchange major-shareholders page returned 403 and Argaam's shareholder table is behind a login. The EGM of 20 Apr 2026 approved a 1-for-2 bonus issue, raising share capital from SAR 40bn (4,000m shares) to SAR 60bn (6,000m shares) (S3 note 14). Market capitalisation was SAR 395.4bn at 30 Jun 2026 (S5).",
-  "shareholders": [],
-  "government_link": "No direct government shareholding found in the sources reviewed. Major-shareholder register not accessible (see open_items).",
-  "group_structure": "Parent bank with the Saudi branch network plus foreign branches in Kuwait and Jordan and a Malaysian Islamic bank subsidiary. Subsidiaries at 30 Jun 2026 (S3 note 1): Al Rajhi Capital Company (100%; CMA-licensed dealing/brokerage, asset management, advising, arranging, custody; profiled separately as sa-alrajhi-capital), Emkan Finance (100%; micro consumer and SME finance), International Digital Solutions Co. / Neoleap (100%; payments, urpay wallet), Neotek (100%; open banking, SAMA-authorised), Drahim Holdings (67.48%; PFM and automated investment), Ejada Systems (90%; IT services; classified held for sale with a planned private placement and IPO), Tawtheeq (100%), Tuder Real Estate (100%), Management and Development for Human Resources Co. (100%), Al Rajhi Financial Markets Ltd (Cayman, 100%) and Al Rajhi Corporation Limited (Malaysia, 100%). The bank also holds an associate (carrying value SAR 1,270m). Double counting: Al Rajhi Capital's revenue and AUM sit inside the bank's 'Investment services, brokerage and other' segment; do not add sa-alrajhi-capital figures to this record.",
-  "subsidiaries": [
-    {
-      "name": "Al Rajhi Capital Company",
-      "pct": 100.0,
-      "activity": "CMA-licensed dealing/brokerage, managing assets, advising, arranging and custody (CMA licence 07068/37)",
-      "linked_id": "sa-alrajhi-capital",
-      "source_ids": [
-        "S3",
-        "S44"
-      ]
-    },
-    {
-      "name": "Drahim Holdings (Cayman Islands)",
-      "pct": 67.48,
-      "activity": "Personal finance management and automated investment (robo) platform; 65% acquired June 2024 for SAR 83.4m (stake 65% at end-2025, 67.48% at 30 Jun 2026)",
-      "linked_id": null,
-      "source_ids": [
-        "S3",
-        "S4",
-        "S14"
-      ]
-    },
-    {
-      "name": "Al Rajhi Corporation Limited (Al Rajhi Bank Malaysia)",
-      "pct": 100.0,
-      "activity": "Licensed Islamic bank in Malaysia; 2025 net profit SAR 94.8m",
-      "linked_id": null,
-      "source_ids": [
-        "S3",
-        "S13"
-      ]
-    },
-    {
-      "name": "Al Rajhi Bank - Kuwait (foreign branch)",
-      "pct": 100.0,
-      "activity": "Islamic banking branch in Kuwait; 2025 net profit SAR 0.8m",
-      "linked_id": null,
-      "source_ids": [
-        "S3",
-        "S13"
-      ]
-    },
-    {
-      "name": "Al Rajhi Bank - Jordan (foreign branch)",
-      "pct": 100.0,
-      "activity": "Islamic banking branch in Jordan; 2025 net profit SAR 43.8m",
-      "linked_id": null,
-      "source_ids": [
-        "S3",
-        "S13"
-      ]
-    },
-    {
-      "name": "International Digital Solutions Co. (Neoleap)",
-      "pct": 100.0,
-      "activity": "Digital payments, settlement; urpay wallet (8m+ users)",
-      "linked_id": null,
-      "source_ids": [
-        "S3",
-        "S16"
-      ]
-    },
-    {
-      "name": "New Technology Company for Software Solutions (Neotek)",
-      "pct": 100.0,
-      "activity": "SAMA-authorised fintech and open banking services",
-      "linked_id": null,
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "name": "Emkan Finance Company",
-      "pct": 100.0,
-      "activity": "Micro consumer financing, finance lease and SME financing",
-      "linked_id": null,
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "name": "Ejada Systems Company",
-      "pct": 90.0,
-      "activity": "IT, systems analysis and consulting; held for sale (planned loss of control via private placements and IPO)",
-      "linked_id": null,
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "name": "Tawtheeq Company",
-      "pct": 100.0,
-      "activity": "Registration of finance lease contracts",
-      "linked_id": null,
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "name": "Tuder Real Estate Company",
-      "pct": 100.0,
-      "activity": "Holds title deeds for the bank's mortgage programmes",
-      "linked_id": null,
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "name": "Al Rajhi Financial Markets Ltd (Cayman Islands)",
-      "pct": 100.0,
-      "activity": "Treasury-related transactions on behalf of the bank",
-      "linked_id": null,
-      "source_ids": [
-        "S3"
-      ]
-    }
-  ],
-  "footprint": "Saudi Arabia plus Malaysia, Jordan and Kuwait. 547 branches at 30 Jun 2026 including foreign branches (S3 note 1). The fact sheet gives 513 branches in KSA plus 13 in Malaysia, 13 in Jordan and 2 in Kuwait, 4,273 ATMs, 990k+ POS terminals and 135 remittance centres (S5, S8). Six Private Banking centres: Riyadh, Jeddah, Madinah, Makkah, Dammam and Qassim (S19).",
-  "customer_segments": "Retail mass ('Classic experience'), youth and expatriates; Affluent and Diamond Affluent tiers (the AR calls this the 'Premium' segment); Private Banking (HNW); MSME; large corporate; financial institutions (S10, S19-S21, S46).",
-  "business_lines": "Four reportable segments (S3 note 19): Retail (H1 2026 operating income SAR 10.2bn); Corporate incl. MSME and VIP deposits (SAR 5.9bn); Treasury (SAR 4.2bn); 'Investment services, brokerage and other' (SAR 1.12bn), which covers mutual funds, local and international share trading and investment portfolios run through Al Rajhi Capital. Private Banking is a separate executive function (Chief Private Banking Officer). Other group businesses: payments (Neoleap/urpay), consumer and SME finance (Emkan), open banking (Neotek), robo/PFM (Drahim), and investment banking through Al Rajhi Capital. All products are Shariah-compliant.",
-  "metrics": [
-    {
-      "metric": "total_assets",
-      "value": 1054772497,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed by Deloitte and PwC, report dated 29 Jul 2026)",
-      "status": "Verified",
-      "locator": "S3 p.1 (PDF p.4)",
-      "note": "Earnings release S6 gives SAR 1,055bn (rounded), consistent.",
-      "source_ids": [
-        "S3",
-        "S6"
-      ]
-    },
-    {
-      "metric": "total_assets",
-      "value": 1043268297,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total assets, audited consolidated statement of financial position (Deloitte and EY, report dated 4 Feb 2026)",
-      "status": "Verified",
-      "locator": "S4 p.1 (PDF p.9)",
-      "note": "Extra record.",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "customer_deposits",
-      "value": 688359499,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "'Customers' deposits': demand deposits and call accounts 431,497,277; customers' time investments (all Murabaha) 246,737,486; other customer accounts 10,124,736 (SAR '000). Excludes due to banks, SAMA and other FIs (107,264,297) and debt securities/term financing (74,834,389).",
-      "status": "Verified",
-      "locator": "S3 p.1 and note 10 p.26 (PDF p.29)",
-      "note": "CASA 64% (S6).",
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "metric": "customer_deposits",
-      "value": 667287500,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "'Customers' deposits', audited consolidated statement of financial position (excludes due to banks, SAMA and other FIs)",
-      "status": "Verified",
-      "locator": "S4 p.1 (PDF p.9)",
-      "note": "Extra record.",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "net_loans",
-      "value": 762096104,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "'Financing, net' at amortised cost, all Shariah-compliant, net of ECL allowance of 8,778,945. Retail 477,258,921 (mortgage 273,192,908; personal 170,821,623; auto leasing 23,020,984; cards 10,223,406); corporate 284,837,183 (large corporate 216,741,610; MSME 68,095,573).",
-      "status": "Verified",
-      "locator": "S3 p.1 and note 8(a) p.17 (PDF p.20)",
-      "note": "",
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "metric": "net_loans",
-      "value": 752759851,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "'Financing, net', audited consolidated statement of financial position",
-      "status": "Verified",
-      "locator": "S4 p.1 (PDF p.9)",
-      "note": "Extra record.",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "gross_loans",
-      "value": 770875049,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Gross financing (performing 765,145,586 + non-performing 5,729,463) before ECL allowance",
-      "status": "Verified",
-      "locator": "S3 note 8(a) p.17 (PDF p.20)",
-      "note": "",
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "metric": "total_equity",
-      "value": 152566000,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total equity, including equity sukuk of 31,743,500 and non-controlling interests of 149,238. Equity attributable to the Bank's shareholders was 120,673,262.",
-      "status": "Verified",
-      "locator": "S3 p.1 (PDF p.4)",
-      "note": "",
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "metric": "total_equity",
-      "value": 142912345,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total equity incl. equity sukuk 27,907,879; attributable to shareholders 114,854,169",
-      "status": "Verified",
-      "locator": "S4 p.1 (PDF p.9)",
-      "note": "Extra record.",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "operating_income",
-      "value": 39093965,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "FY2025",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "'Total operating income', consolidated statement of income (net financing and investment income 29,845,671 + net fees 5,869,207 + exchange 1,558,950 + other 1,820,137)",
-      "status": "Verified",
-      "locator": "S4 p.2 (PDF p.10)",
-      "note": "FY2024: 32,055,303.",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "operating_income",
-      "value": 21412963,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "H1 2026",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "'Total operating income', interim condensed consolidated statement of income, six months",
-      "status": "Verified",
-      "locator": "S3 p.2 (PDF p.5)",
-      "note": "H1 2025: 18,802,975 (+13.9%). Extra record.",
-      "source_ids": [
-        "S3",
-        "S6"
-      ]
-    },
-    {
-      "metric": "net_profit",
-      "value": 24791754,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "FY2025",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "Net income for the year attributable to the Bank's shareholders, after zakat (total net income 24,824,510 incl. NCI 32,756); before Tier 1 sukuk costs",
-      "status": "Verified",
-      "locator": "S4 p.2 (PDF p.10)",
-      "note": "FY2024: 19,722,206.",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "net_profit",
-      "value": 13763688,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "H1 2026",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "Net income for the period attributable to the Bank's shareholders, after zakat (total 13,788,714 incl. NCI 25,026); before Tier 1 sukuk costs of 754,025",
-      "status": "Verified",
-      "locator": "S3 p.2 (PDF p.5) and note 15 p.28",
-      "note": "H1 2025: 12,057,051 (+14.2%). Note 15 prints 13,763,689 (rounding).",
-      "source_ids": [
-        "S3",
-        "S6"
-      ]
-    },
-    {
-      "metric": "aum",
-      "value": 165822,
-      "unit": "million",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group, through subsidiary Al Rajhi Capital",
-      "definition": "'Investment management services ... through its subsidiary, which include management of funds with total assets under management of SAR 165,822 million' (audited FS). Discretionary/non-discretionary split not stated.",
-      "status": "Verified",
-      "locator": "S4 note 'Investment management services' p.100 (PDF p.107)",
-      "note": "2024: SAR 123,319m (+34.5%). AR 2025 gives SAR 165.8bn, +35%, '2nd largest asset manager in the Kingdom' (S9). Also recorded in sa-alrajhi-capital; do not add.",
-      "source_ids": [
-        "S4",
-        "S9"
-      ]
-    },
-    {
-      "metric": "customers",
-      "value": 21.7,
-      "unit": "million",
-      "currency": null,
-      "period_end": "2026-06-30",
-      "period_label": "2Q 2026",
-      "period_type": "point_in_time",
-      "scope": "Group (all customers)",
-      "definition": "'21.7 million Customers' (At a glance, 2Q 2026); active vs registered not stated",
-      "status": "Verified",
-      "locator": "S5 slide 4",
-      "note": "CEO on the 28 Jul 2026 call: 'approximately 22 million customers' (S7).",
-      "source_ids": [
-        "S5",
-        "S8"
-      ]
-    },
-    {
-      "metric": "customers",
-      "value": 19.5,
-      "unit": "million",
-      "currency": null,
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Retail Banking Group",
-      "definition": "'Total retail customers' at year-end 2025 (+1.5m YoY, incl. 1.1m expatriate customers)",
-      "status": "Verified",
-      "locator": "AR 2025, Retail Banking Group section",
-      "note": "Extra record. Different scope from the group figure.",
-      "source_ids": [
-        "S10"
-      ]
-    },
-    {
-      "metric": "employees",
-      "value": 24712,
-      "unit": "unit",
-      "currency": null,
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Bank (incl. branches outside KSA)",
-      "definition": "'24,712 employees (2024: 23,437)' (FS note 1)",
-      "status": "Verified",
-      "locator": "S4 note 1 p.8 (PDF p.16)",
-      "note": "Fact sheet 2Q26 says '+25,000 employees' (S8).",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "branches",
-      "value": 547,
-      "unit": "unit",
-      "currency": null,
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Bank, incl. branches outside KSA",
-      "definition": "'547 branches (December 31, 2025: 545 branches and June 30, 2025: 544 branches)' (interim FS note 1)",
-      "status": "Verified",
-      "locator": "S3 note 1 p.8 (PDF p.11)",
-      "note": "Investor presentation and fact sheet: 513 branches in KSA (S5, S8). See discrepancies.",
-      "source_ids": [
-        "S3"
-      ]
-    },
-    {
-      "metric": "investment_brokerage_segment_operating_income",
-      "value": 1120509,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "H1 2026",
-      "period_type": "duration",
-      "scope": "'Investment services, brokerage and other' segment",
-      "definition": "Total operating income of the segment (net fees 672,804); net income before zakat 1,056,602; segment assets 12,617,210",
-      "status": "Verified",
-      "locator": "S3 note 19 p.32 (PDF p.35)",
-      "note": "H1 2025: 945,659. FY2025: 2,020,201 (S4 note, PDF p.75).",
-      "source_ids": [
-        "S3"
-      ]
-    }
-  ],
-  "disclosure_checks": [
-    {
-      "metric": "wealth_client_assets",
-      "status": "Not publicly disclosed",
-      "where_checked": "Private Banking, Affluent and Diamond Affluent pages (S19-S21); AR 2025 Retail Banking Group section (S10); 2Q26 investor presentation (S5)"
-    },
-    {
-      "metric": "investing_users",
-      "status": "Not publicly disclosed",
-      "where_checked": "AR 2025 Al Rajhi Capital section gives '3 million' Super App downloads, not active investors (S9); Drahim section says only that the user base doubled (S14); 2Q26 presentation (S5)"
-    },
-    {
-      "metric": "aua",
-      "status": "Not publicly disclosed",
-      "where_checked": "Group FS H1 2026 and FY2025 (S3, S4). Al Rajhi Capital assets under custody (SAR 3.7bn, end-2025) are recorded in sa-alrajhi-capital."
-    }
-  ],
-  "people": [
-    {
-      "name": "Abdullah bin Sulaiman Al Rajhi",
-      "name_ar": null,
-      "title": "Chairman of the Board",
-      "functions": [
-        "Chair"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Board of Directors",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Reappointed Chairman for the board term ending 13 Nov 2026 (Enterprise AM, 29 Nov 2023). A new board term starts 14 Nov 2026; nominations ran 12 Jul-11 Aug 2026 (S34). Also non-executive Chairman of Al Rajhi Capital (S43).",
-      "previous_roles": "Held many positions at Al Rajhi Bank from 1979 to 31 March 2012, including senior executive roles; helped convert Al Rajhi Exchange and Trade Company into a public joint stock company (AR 2025). Chairman of several companies in KSA.",
-      "education": "Bachelor of Business Administration, King Abdulaziz University",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2, S33); quoted as Chairman in the 21 Jul 2026 earnings release (S6). Board term ends 13 Nov 2026; re-check after the election.",
-      "source_ids": [
-        "S2",
-        "S33",
-        "S18",
-        "S37",
-        "S6",
-        "S43"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Ibrahim bin Mohammed Al Romaih",
-      "name_ar": null,
-      "title": "Deputy Chairman of the Board; Chairman of the Nominations and Remunerations Committee",
-      "functions": [
-        "Board"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Board of Directors",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Reappointed Vice Chairman for the term ending 13 Nov 2026 (S37).",
-      "previous_roles": "About 30 years in banking, finance and investment; former CEO of Saudi Arabian Investment Company (AR 2025)",
-      "education": "Economics degrees, Portland State University and Central Michigan University (US)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S18)",
-      "source_ids": [
-        "S2",
-        "S18",
-        "S37"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Waleed Abdullah Al-Mogbel",
-      "name_ar": null,
-      "title": "Managing Director and Chief Executive Officer",
-      "functions": [
-        "Group CEO",
-        "Board"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Executive Management",
-      "scope": "Group",
-      "appointed": "2020-01",
-      "appointed_note": "Named CEO in Nov 2019 to succeed Stefano Bertamini at the end of 2019 (S36). Board approved his appointment as board member and Managing Director on 31 Oct 2022 (S35). Non-executive board member of Al Rajhi Capital (S43).",
-      "previous_roles": "Deputy CEO, Al Rajhi Bank; Chief Operating Officer, Al Rajhi Bank; EVP and Head of Operations (AR 2025). Current: board member, Takaful Al Rajhi; Chairman of Emkan Finance, Neoleap, Tanfeeth and EJADA Systems (official bio).",
-      "education": "PhD in Auditing, Cardiff University (2006); Master's in Finance, University of Southampton (2003); Bachelor's in Accounting, King Saud University (1999)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
-      "role_status": "Verified current",
-      "role_evidence": "Official executive management and board pages checked 2026-10-12 (S1, S2, S25); led the Q2 2026 call on 28 Jul 2026 (S7); no departure news found",
-      "source_ids": [
-        "S1",
-        "S2",
-        "S25",
-        "S7",
-        "S35",
-        "S36",
-        "S43"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Abdulrahman Abdullah Al-Fadda",
-      "name_ar": null,
-      "title": "Chief Financial Officer",
-      "functions": [
-        "Finance"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Finance",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Date not found. AR 2025 titled him 'Chief Financial Officer and Acting Chief Risk Officer'; the official page (Oct 2026) shows CFO only.",
-      "previous_roles": "General Manager of Treasury and Financial Institutions, Al Rajhi Bank",
-      "education": "Bachelor's degree in Electrical Engineering",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1, S30); presented on the 28 Jul 2026 call (S7)",
-      "source_ids": [
-        "S1",
-        "S30",
-        "S11",
-        "S7"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Majed Saleh Al-Rajhi",
-      "name_ar": null,
-      "title": "General Manager Retail Banking",
-      "functions": [
-        "Retail",
-        "Affluent"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Retail Banking Group",
-      "scope": "Bank",
-      "appointed": null,
-      "appointed_note": "Date not found",
-      "previous_roles": "AGM Private and Affluent Banking, Al Rajhi Bank",
-      "education": "MBA, London Business School",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1, S27); AR 2025 (S11)",
-      "source_ids": [
-        "S1",
-        "S27",
-        "S11"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Hani Abdullah Al Meghem",
-      "name_ar": null,
-      "title": "Chief Private Banking Officer",
-      "functions": [
-        "Private banking",
-        "Wealth"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Private Banking",
-      "scope": "Bank",
-      "appointed": null,
-      "appointed_note": "Not in the AR 2025 executive list (S11), so likely added to the executive team in 2026; no announcement found.",
-      "previous_roles": "AGM - Vision Realization Programs and Corporate Solutions, Al Rajhi Bank (official bio). LinkedIn posts seen in search snippets also mention earlier roles as Head of Private Banking and Director of Strategic Initiatives in Retail Banking (unverified).",
-      "education": "Bachelor in Economics and Administration",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
-      "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1, S26). LinkedIn posts in search snippets describe him as Chief Private Banking Officer, but no profile URL was matched.",
-      "source_ids": [
-        "S1",
-        "S26"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Turki Mohammed Al-Dhfayan",
-      "name_ar": null,
-      "title": "Chief Strategic Projects and Acting Chief Digital Officer",
-      "functions": [
-        "Digital",
-        "Strategy"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Strategic Projects / Digital",
-      "scope": "Bank",
-      "appointed": null,
-      "appointed_note": "AR 2025 lists him as 'Chief Strategic Projects' only; the acting CDO role is shown on the official page (Oct 2026). Date not found.",
-      "previous_roles": "Chief Marketing and Customer Experience Officer, Al Rajhi Bank",
-      "education": "Associate Degree in Telecommunications",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
-      "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1, S28). A LinkedIn profile under his name appeared in search with a different current employer in the snippet, so it was not matched.",
-      "source_ids": [
-        "S1",
-        "S28",
-        "S11"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Abid Shakeel",
-      "name_ar": null,
-      "title": "Chief Strategy Officer",
-      "functions": [
-        "Strategy"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Strategy",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Not in the AR 2025 executive list (S11); likely appointed 2026. No announcement found.",
-      "previous_roles": "Chief Advisor, G20 Central Bank & Regulatory Authority; Regional Partner, Financial Services, Deloitte; Principal & Senior Director, Financial Services, EY",
-      "education": "Higher National Diploma in Physics",
-      "qualifications": "Fellow, Chartered Management Institute",
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1, S29). The bank is preparing its next 3-year strategy (S7).",
-      "source_ids": [
-        "S1",
-        "S29"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Saed Basheer Basseet",
-      "name_ar": null,
-      "title": "Chief Marketing and Customer Experience Officer",
-      "functions": [
-        "Retail",
-        "Other"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Marketing and Customer Experience",
-      "scope": "Bank",
-      "appointed": null,
-      "appointed_note": "AR 2025 listed Abdullah Saad Aljabr in this role; change not announced in sources found.",
-      "previous_roles": "Chief Marketing and Customer Experience Officer, Neoleap",
-      "education": "Master's in Knowledge and Information System Management, University of Southampton (UK)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1, S31)",
-      "source_ids": [
-        "S1",
-        "S31",
-        "S11"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Hussein Talal Bayari",
-      "name_ar": null,
-      "title": "General Manager Corporate Banking Group",
-      "functions": [
-        "Corporate / wholesale"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Corporate Banking Group",
-      "scope": "Bank",
-      "appointed": null,
-      "appointed_note": "Date not found",
-      "previous_roles": "EVP, Head of Global Corporates, Saudi National Bank",
-      "education": "Master's degree in Business Administration",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1, S32); AR 2025 (S11)",
-      "source_ids": [
-        "S1",
-        "S32",
-        "S11"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Faisal Abdullah Al-Sheref",
-      "name_ar": null,
-      "title": "General Manager Sharia (General Manager of the Shariah Group)",
-      "functions": [
-        "Islamic / Shariah"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Shariah Group",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Date not found",
-      "previous_roles": "AGM, Shariah Counsel, Al Rajhi Bank",
-      "education": "Doctorate in Comparative Jurisprudence",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S11)",
-      "source_ids": [
-        "S1",
-        "S11"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Abdullah Ali Al-Furaiji",
-      "name_ar": null,
-      "title": "Chief Digital Officer (per AR 2025)",
-      "functions": [
-        "Digital"
-      ],
-      "entity": "Al Rajhi Banking and Investment Corporation",
-      "business_unit": "Digital",
-      "scope": "Bank",
-      "appointed": null,
-      "appointed_note": "Listed as CDO in AR 2025; absent from the official executive page in Oct 2026, where Turki Al-Dhfayan is Acting CDO.",
-      "previous_roles": "AGM Digital Business, Al Rajhi Bank",
-      "education": "Bachelor's in Organisation and Management Development, Financial Accounting",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Conflicting sources",
-      "role_evidence": "AR 2025 (published 2026) lists him as CDO (S11); official executive page checked 2026-10-12 does not (S1). No departure news found.",
-      "source_ids": [
-        "S11",
-        "S1"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Hossam Essam Al-Basrawi",
-      "name_ar": null,
-      "title": "Chief Executive Officer, Al Rajhi Capital",
-      "functions": [
-        "Subsidiary CEO",
-        "Investments / asset management",
-        "Brokerage"
-      ],
-      "entity": "Al Rajhi Capital Company",
-      "business_unit": "Al Rajhi Capital (100% subsidiary)",
-      "scope": "Subsidiary",
-      "appointed": null,
-      "appointed_note": "Date not found. Full profile in sa-alrajhi-capital.",
-      "previous_roles": "General Manager Corporate Banking Group, Al Rajhi Bank",
-      "education": "Bachelor's degree in Law",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Al Rajhi Capital management page checked 2026-10-12 (S42); AR 2025 subsidiary CEOs page (S12)",
-      "source_ids": [
-        "S42",
-        "S12"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Sultan Alkhayal",
-      "name_ar": null,
-      "title": "Chief Executive Officer, Drahim",
-      "functions": [
-        "Subsidiary CEO",
-        "Digital",
-        "Investments / asset management"
-      ],
-      "entity": "Drahim Holdings",
-      "business_unit": "Drahim (67.48% subsidiary)",
-      "scope": "Subsidiary",
-      "appointed": null,
-      "appointed_note": "Date not found",
-      "previous_roles": "Co-Founder and Board Member, Aqwas",
-      "education": "BSc Software Engineering; Mini-MBA for SME Growth",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "AR 2025 subsidiary CEOs page (S12). Not checked against a Drahim leadership page.",
-      "source_ids": [
-        "S12"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Syahrul Ishak",
-      "name_ar": null,
-      "title": "Chief Executive Officer, Al Rajhi Bank Malaysia",
-      "functions": [
-        "Subsidiary CEO"
-      ],
-      "entity": "Al Rajhi Banking & Investment Corporation (Malaysia) / Al Rajhi Corporation Limited",
-      "business_unit": "International network",
-      "scope": "Subsidiary",
-      "appointed": null,
-      "appointed_note": "Date not found",
-      "previous_roles": "Managing Director and Regional Head, Cash Management, Group Transaction Banking, CIMB Bank",
-      "education": "Bachelor of Science in Business Administration",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "AR 2025 subsidiary CEOs page (S12). Not checked against the Malaysian bank's site.",
-      "source_ids": [
-        "S12"
-      ],
-      "checked": "2026-10-12"
-    }
-  ],
-  "capabilities": {
-    "wealth_summary": "Al Rajhi Bank is fully Shariah-compliant. Its investment business sits in the 100%-owned Al Rajhi Capital: AUM of SAR 165,822m at end-2025 (+34.5%), second-largest asset manager in KSA, and the leading Tadawul broker by value traded (S4, S9). The bank sells wealth through three published tiers. Affluent: SAR 250k opening deposit, SAR 100k average balance, SAR 20k salary, or SAR 1m relationship with Al Rajhi Capital. Diamond Affluent: SAR 1m, 500k, 40k or SAR 2m with Al Rajhi Capital. Private Banking: no threshold published; six centres and a dedicated RM, with investment products 'offered to you through AlRajhi Capital' (S19-S21). A Chief Private Banking Officer, not in the AR 2025 executive list, now sits on the executive team (S1). The bank owns 67.48% of Drahim, a robo/PFM platform whose robo portfolios passed 1.5bn in investments (currency not stated) and which launched Drahim Business with 30+ funds in Sep 2025 (S3, S14). Al Rajhi Capital also runs the 'alrajhi Mashora' robo-advisory service (S9). The 'Harmonize the Group' strategy ends in 2026, and a new 3-year strategy is being prepared (S7).",
-    "segments": [
-      {
-        "name": "Affluent",
-        "tier": "Affluent",
-        "eligibility": "Any one of: new account opened with SAR 250k+; 3-month average balance SAR 100,000+; monthly salary transfer SAR 20,000+; total relationship value SAR 1m+ with Al Rajhi Capital (as published). Affluent centres in branches; free Visa Signature card.",
-        "source_ids": [
-          "S20"
-        ]
-      },
-      {
-        "name": "Diamond Affluent",
-        "tier": "Upper affluent",
-        "eligibility": "Any one of: new account opened with SAR 1m+; 3-month average balance SAR 500,000+; monthly salary transfer SAR 40,000+; total relationship value SAR 2m+ with Al Rajhi Capital (as published). Dedicated relationship manager; fee exemption; Infinite card.",
-        "source_ids": [
-          "S21"
-        ]
-      },
-      {
-        "name": "Private Banking",
-        "tier": "Private / HNW",
-        "eligibility": "Not published. Dedicated relationship manager; investment products through AlRajhi Capital; credit facilities to support investments; 6 Private Banking centres.",
-        "source_ids": [
-          "S19"
-        ]
-      }
-    ],
-    "private_banking": {
-      "present": "Yes",
-      "detail": "Private Banking proposition with a dedicated RM, 'investment products and services offered to you through AlRajhi Capital', 'financial solutions and credit facilities to support investments', and 6 Private Banking centres in Riyadh, Jeddah, Madinah, Makkah, Dammam and Qassim (S19). Led by a Chief Private Banking Officer on the executive committee (S1). The AR strategy section also mentions 'exclusive Private Banking services for high-net-worth clients' for corporate clients (S15). No PB client or asset figures published.",
-      "source_ids": [
-        "S19",
-        "S1",
-        "S15"
-      ]
-    },
-    "asset_management": {
-      "present": "Yes",
-      "detail": "Through Al Rajhi Capital: AUM SAR 165,822m at 31 Dec 2025 (2024: 123,319m), ranked #2 in KSA. Al Rajhi Awaeed Fund is the largest public mutual fund in KSA. The 2025 'Fund Factory' launched private funds, and real estate launched 13+ private funds of SAR 25.8bn+. The bank also runs Mudaraba funds through its Investment Department (FS note). See sa-alrajhi-capital.",
-      "source_ids": [
-        "S4",
-        "S9"
-      ]
-    },
-    "brokerage": {
-      "present": "Yes",
-      "detail": "Through Al Rajhi Capital: 15.5% market share by value traded at end-2025 (AR); the 2Q26 presentation shows '+13%' market share of value traded. 25.2% share of the Kingdom's digital trading market; Super App (3m+ downloads) and Super Web; options across 38 international markets; fully digital margin lending.",
-      "source_ids": [
-        "S9",
-        "S5"
-      ]
-    },
-    "digital_investing": {
-      "present": "Yes",
-      "detail": "AR 2025: Al Rajhi Capital's 'investment options are integrated into the alrajhi bank app'. The bank site offers 'Investment funds' (equity, growth, savings, balanced, real estate, endowment) funded from current account, Visa or Apple Pay, plus a Systematic Investment Plan (fixed monthly investment into a chosen fund) (S22-S24). Equities, IPOs and international trading run in the separate Al Rajhi Capital Super App/Super Web. Drahim (67.48%) offers robo portfolios and a Drahim Investment Card issued by the bank with Al Rajhi Capital investments (S14). A new lifestyle money-management app, 'nera', is run as an Al Rajhi Bank channel (S41).",
-      "source_ids": [
-        "S9",
-        "S22",
-        "S23",
-        "S24",
-        "S14",
-        "S41"
-      ]
-    },
-    "advisory": {
-      "present": "Yes",
-      "detail": "Al Rajhi Capital is CMA-licensed for advising (S3 note 1); Private Banking and Diamond Affluent have dedicated RMs (S19, S21); Al Rajhi Capital has a Head of Wealth and Institutional Clients (S42).",
-      "source_ids": [
-        "S3",
-        "S19",
-        "S21",
-        "S42"
-      ]
-    },
-    "discretionary": {
-      "present": "Yes",
-      "detail": "Al Rajhi Capital lists 'Discretionary Portfolio Management' under asset management (S44). Size not disclosed.",
-      "source_ids": [
-        "S44"
-      ]
-    },
-    "model_portfolios_robo": {
-      "present": "Yes",
-      "detail": "Two in-group robo offers. (1) Al Rajhi Capital's 'alrajhi Mashora', an automated, algorithm-driven investment service (AR 2025). (2) Drahim, a 67.48% subsidiary and 'financial management and automated investment platform' under SAMA and CMA licences. Its robo portfolios passed 1.5bn in investments (currency not stated); it launched Rent and Dividend portfolios and, in Sep 2025, Drahim Business with 30+ local and global funds.",
-      "source_ids": [
-        "S9",
-        "S14",
-        "S3"
-      ]
-    },
-    "funds_platform": {
-      "present": "Yes",
-      "detail": "In-house Al Rajhi Capital funds sold through the bank site/app and the Al Rajhi Capital app. Drahim Business offers 'more than 30 local and global investment funds' (managers not named). No third-party fund platform provider found.",
-      "source_ids": [
-        "S23",
-        "S14"
-      ]
-    },
-    "structured_products": {
-      "present": "Not found after research",
-      "detail": "No client-facing structured products found on Private Banking, Affluent or Investment pages. The bank holds 'FVOCI sukuk and structured products investments' on its own balance sheet (S3), which is not a client offering.",
-      "source_ids": [
-        "S19",
-        "S22",
-        "S3"
-      ]
-    },
-    "private_markets": {
-      "present": "Yes",
-      "detail": "Al Rajhi Capital private funds: PE/financing funds launched by its Fund Factory in 2025 and 13+ private real estate funds (SAR 25.8bn+); exited a SAR 1bn+ private fund. Access for Private Banking clients is via Al Rajhi Capital.",
-      "source_ids": [
-        "S9",
-        "S19"
-      ]
-    },
-    "islamic_wealth": {
-      "present": "Yes",
-      "detail": "The whole group is Shariah-compliant under a Shari'a Authority (S3 note 1). Shariah funds, Murabaha customer time investments, Mudaraba funds, Al Rajhi Awaeed money market fund, and sukuk (Al Rajhi Capital is a primary dealer for Saudi government sukuk).",
-      "source_ids": [
-        "S3",
-        "S4",
-        "S9"
-      ]
-    },
-    "asset_classes": [
-      "Local equities",
-      "GCC equities",
-      "US/international equities",
-      "ETFs",
-      "Mutual funds",
-      "Sukuk",
-      "Private markets / alternatives",
-      "Real estate funds",
-      "Gold / precious metals"
-    ],
-    "partners": [
-      {
-        "partner": "Al Rajhi Capital (in-house subsidiary)",
-        "kind": "Product / investment arm",
-        "what": "Supplies funds, brokerage, discretionary, robo-advisory and private-market products to bank clients; its relationship value counts toward Affluent/Diamond eligibility",
-        "date": null,
-        "status": "Live",
-        "source_ids": [
-          "S19",
-          "S20",
-          "S21",
-          "S9"
-        ]
-      },
-      {
-        "partner": "Drahim (67.48% subsidiary)",
-        "kind": "Robo-advisory / PFM platform",
-        "what": "Automated investment portfolios and PFM; Drahim Investment Card issued by the bank, processed by Neoleap, with Al Rajhi Capital investments",
-        "date": "2024-06",
-        "status": "Live",
-        "source_ids": [
-          "S4",
-          "S14"
-        ]
-      },
-      {
-        "partner": "Temenos",
-        "kind": "Core banking / digital banking software",
-        "what": "Selected Temenos T24 Transact (core banking renovation), Temenos Infinity (digital) and Temenos Loan Origination",
-        "date": "2019-02-27",
-        "status": "Announced",
-        "source_ids": [
-          "S39"
-        ]
-      },
-      {
-        "partner": "ServiceNow (with ejada Systems)",
-        "kind": "AI workflow platform",
-        "what": "Multi-year agreement for the ServiceNow AI Platform across HR, IT and financial services; ejada deploys and manages it",
-        "date": "2025-11-10",
-        "status": "Announced",
-        "source_ids": [
-          "S38"
-        ]
-      },
-      {
-        "partner": "Mozn",
-        "kind": "AI fraud prevention",
-        "what": "FOCAL financial crime prevention platform",
-        "date": "2025-10-20",
-        "status": "Announced",
-        "source_ids": [
-          "S40"
-        ]
-      }
-    ],
-    "initiatives": [
-      {
-        "date": "2024-06",
-        "what": "Acquired 65% of Drahim Holdings (PFM and automated investment) for SAR 83.4m; stake 67.48% at 30 Jun 2026",
-        "source_ids": [
-          "S4",
-          "S3"
-        ]
-      },
-      {
-        "date": "2025",
-        "what": "Al Rajhi Capital launched Super Web, a Family Proposition (parents onboard and monitor dependants' investments), securities lending and single-stock options; AUM +35% to SAR 165.8bn",
-        "source_ids": [
-          "S9"
-        ]
-      },
-      {
-        "date": "2025",
-        "what": "Retail launched a Premium Rewards Credit Card for the HNWI segment; Premium segment customers +8% YoY",
-        "source_ids": [
-          "S10"
-        ]
-      },
-      {
-        "date": "2025-09",
-        "what": "Drahim launched Drahim Business: automated investing across 30+ local and global funds",
-        "source_ids": [
-          "S14"
-        ]
-      },
-      {
-        "date": "2026-04-20",
-        "what": "EGM approved a bonus issue raising capital to SAR 60bn and an H2 2025 dividend of SAR 7bn",
-        "source_ids": [
-          "S3",
-          "S49"
-        ]
-      },
-      {
-        "date": "2026",
-        "what": "Al Rajhi Capital 2026 priorities: expand international dealing and institutional trading, grow custody scale, launch a client portal, deepen alternatives",
-        "source_ids": [
-          "S9"
-        ]
-      },
-      {
-        "date": "2026",
-        "what": "'nera' lifestyle money-management app operated as an Al Rajhi Bank channel (SAMA licence 1420). A LinkedIn post seen in search results dates its launch to 10 May 2026 (unverified).",
-        "source_ids": [
-          "S41"
-        ]
-      },
-      {
-        "date": "2026-07-09",
-        "what": "Opened nominations for an 11-member board for 14 Nov 2026 to 13 Nov 2029",
-        "source_ids": [
-          "S34"
-        ]
-      },
-      {
-        "date": "2026-07-28",
-        "what": "Q2-26 call: CEO said 2026 is the last year of 'Harmonize the Group' and 'we are in the process of preparing our next 3-year strategy'; fee growth drivers included 'investment banking and assets under management'",
-        "source_ids": [
-          "S7"
-        ]
-      }
-    ],
-    "evidence_for_arta": {
-      "opportunities": [
-        "Strategy reset: the CEO said on 28 Jul 2026 that the bank is 'preparing our next 3-year strategy' to replace 'Harmonize the Group', which ends in 2026 (S7 p.14).",
-        "Wealth leadership is new: a Chief Private Banking Officer (Hani Al Meghem) and a Chief Strategy Officer (Abid Shakeel) appear on the Oct 2026 executive page but not in the AR 2025 executive list (S1, S11). The digital head is acting (S1).",
-        "Affluent eligibility already counts Al Rajhi Capital relationship value (SAR 1m Affluent, SAR 2m Diamond), so bank and investment propositions are linked (S20, S21).",
-        "The bank's own investment pages list only 'Investment funds' and a 'Systematic Investment Plan'; Private Banking lists investment products only via Al Rajhi Capital, with no model portfolios or international/alternatives offer on the bank side (S19, S22-S24).",
-        "Very large digital base: 21.7m customers, a 96:4 digital-to-manual ratio and 75% of active customers on digital channels (S5, S17). Al Rajhi Capital's Super App has 3m+ downloads (S9).",
-        "On the Q2-26 call, the CFO named assets under management as a fee-income growth driver (S7 p.5)."
-      ],
-      "barriers": [
-        "Islamic-only group: all products need Shari'a Authority approval (S3 note 1).",
-        "In-group robo and model portfolios already exist: Al Rajhi Capital's 'alrajhi Mashora' robo service and the 67.48%-owned Drahim automated investment platform (S9, S14).",
-        "Investment licences sit in Al Rajhi Capital (CMA licence 07068/37), the #2 asset manager with a large in-house fund factory and private real estate funds, so product contracts would likely be with the subsidiary (S9, S44).",
-        "Strong in-house tech group: Ejada (systems integration, being sold down), Neoleap (payments), Neotek (open banking) (S3)."
-      ],
-      "incumbent_vendors": [
-        "Temenos: T24 Transact core banking, Temenos Infinity, Loan Origination (selected Feb 2019) (S39)",
-        "ServiceNow AI Platform, implemented by ejada Systems (Nov 2025) (S38)",
-        "Mozn FOCAL fraud prevention (Oct 2025) (S40)",
-        "Drahim (in-group robo/PFM) and Neotek (in-group open banking) (S3, S14)"
-      ]
-    }
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Private Banking proposition with a dedicated RM, 'investment products and services offered to you through AlRajhi Capital', 'financial solutions and credit facilities to support investments', and 6 Private Banking centres in Riyadh, Jeddah, Madinah, Makkah, Dammam and Qassim (S19). Led by a Chief Private Banking Officer on the executive committee (S1). The AR strategy section also mentions 'exclusive Private Banking services for high-net-worth clients' for corporate clients (S15). No PB client or asset figures published.",
+   "source_ids": [
+    "S19",
+    "S1",
+    "S15"
+   ]
   },
-  "sources": [
-    {
-      "id": "S1",
-      "title": "Executive Management",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management",
-      "doc_type": "Official leadership page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S2",
-      "title": "Board Members",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Board-Members",
-      "doc_type": "Official leadership page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S3",
-      "title": "Interim Condensed Consolidated Financial Information (Unaudited) as of and for the six-month period ended 30 June 2026",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/ax0k7s74wvl7/b/Marketing_Email_Images/o/353_0_2026-07-29_14-52-14_En.pdf",
-      "doc_type": "Reviewed interim financial statements (Deloitte, PwC; review report 29 Jul 2026)",
-      "tier": 1,
-      "published": "2026-07-29",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S4",
-      "title": "Consolidated Financial Statements and Independent Auditors' Report as of and for the year ended 31 December 2025",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/ax0k7s74wvl7/b/Marketing_Email_Images/o/Financial%20ResultsQ4en.pdf",
-      "doc_type": "Audited financial statements (Deloitte, EY; report dated 4 Feb 2026)",
-      "tier": 1,
-      "published": "2026-02-04",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S5",
-      "title": "Investor Presentation 2Q 2026",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Investor-Relation/Financial-Materials/2026/Q2/ARB-Investor-Presentation-2Q2026.pdf",
-      "doc_type": "Investor presentation",
-      "tier": 2,
-      "published": "2026-07",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S6",
-      "title": "2Q 2026 Earnings Release",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Investor-Relation/Financial-Materials/2026/Q2/ARB-2Q2026-Earnings-Release.pdf",
-      "doc_type": "Results press release",
-      "tier": 2,
-      "published": "2026-07-21",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S7",
-      "title": "2Q26 Financial Results Earnings Call Transcript (28 July 2026)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Investor-Relation/Financial-Materials/2026/Q2/2Q-2026-Earnings-Call-Transcript.pdf",
-      "doc_type": "Earnings call transcript",
-      "tier": 2,
-      "published": "2026-07-28",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S8",
-      "title": "Al Rajhi Bank Q2 2026 Fact Sheet",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Investor-Relation/Financial-Materials/2026/Q2/External-FactSheet-2Q2026.pdf",
-      "doc_type": "Fact sheet",
-      "tier": 2,
-      "published": "2026-07",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S9",
-      "title": "Integrated Annual Report 2025: Al Rajhi Capital",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/business_in_perspective/subsidiaries/alrajhi_capital.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S10",
-      "title": "Integrated Annual Report 2025: Retail Banking Group",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/business_in_perspective/business_portfolio_review/retail_banking_group.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S11",
-      "title": "Integrated Annual Report 2025: Executive Management",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/corporate_governance/executive_management.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S12",
-      "title": "Integrated Annual Report 2025: Chief Executive Officers of Subsidiaries and International Network",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/corporate_governance/chief_executive_officers_of_subsidiaries_and_international_network.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S13",
-      "title": "Integrated Annual Report 2025: Subsidiaries and International Network",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/business_in_perspective/subsidiaries_and_international_network.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S14",
-      "title": "Integrated Annual Report 2025: Drahim",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/business_in_perspective/subsidiaries/drahim.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S15",
-      "title": "Integrated Annual Report 2025: Strategic Direction",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/context/strategic_direction.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S16",
-      "title": "Integrated Annual Report 2025: Managing Director and Chief Executive Officer's Review",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/overview/managing_director_and_chief_executive_officer_s_review.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S17",
-      "title": "Integrated Annual Report 2025: Digitalisation and Automation",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/customer_engagement_and_responsible_banking/digitalisation_and_automation.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S18",
-      "title": "Integrated Annual Report 2025: Board of Directors",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/ir25/corporate_governance/board_of_directors.html",
-      "doc_type": "Annual report (digital edition)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S19",
-      "title": "Private Banking",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/Personal/Segments/Private-Banking",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S20",
-      "title": "Affluent",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/Personal/Segments/Affluent",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S21",
-      "title": "Diamond Affluent",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/Personal/Segments/Diamond-Affluent",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S22",
-      "title": "Investment",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/Investment",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S23",
-      "title": "Investment Funds",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/Investment/Product-and-Services/Investment-Funds",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S24",
-      "title": "Systematic Investment Plan",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/Investment/Product-and-Services/Systematic-Investment-Plan",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S25",
-      "title": "Managing Director and Chief Executive Officer (profile)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Executive-Officer",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S26",
-      "title": "Chief Private Banking Officer (profile)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Private-Banking-Officer",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S27",
-      "title": "General Manager Retail Banking (profile)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/General-Manager-Retail-Banking",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S28",
-      "title": "Chief Strategic Projects and Acting Chief Digital Officer (profile)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Strategic-Projects-And-Acting-Chief-Digital-Officer",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S29",
-      "title": "Chief Strategy Officer (profile)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Strategy-Officer",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S30",
-      "title": "Chief Financial Officer (profile)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Financial-Officer",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S31",
-      "title": "Chief Marketing and Customer Experience Officer (profile)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Marketing-and-Customer-Experience-Officer",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S32",
-      "title": "General Manager Corporate Banking Group (profile)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/General-Manager-Corporate-banking",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S33",
-      "title": "Mr. Abdullah bin Sulaiman Al Rajhi, Chairman (profile)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Board-Members/Mr-Abdullah-S-Al-Rajhi",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S34",
-      "title": "alrajhi bank opens board nomination for new term",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Media-Center/2026/alrajhi-bank-opens-board-nomination-for-new-term",
-      "doc_type": "Press release",
-      "tier": 2,
-      "published": "2026-07-09",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S35",
-      "title": "Al Rajhi Bank names CEO Waleed Almogbel as board member and managing director",
-      "publisher": "Argaam",
-      "url": "https://www.argaam.com/en/article/articledetail/id/1601500",
-      "doc_type": "News",
-      "tier": 5,
-      "published": "2022-11-10",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S36",
-      "title": "Saudi Arabia's Al Rajhi Bank names new CEO",
-      "publisher": "Salaam Gateway",
-      "url": "https://salaamgateway.com/story/saudi-arabias-al-rajhi-bank-names-new-ceo",
-      "doc_type": "News",
-      "tier": 5,
-      "published": "2019-11-05",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S37",
-      "title": "Al Rajhi Bank reappoints chairman and VP",
-      "publisher": "Enterprise AM (KSA)",
-      "url": "https://enterpriseam.com/ksa/2023/11/29/al-rajhi-bank-reappoints-chairman-and-vp/",
-      "doc_type": "News",
-      "tier": 5,
-      "published": "2023-11-29",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S38",
-      "title": "Al Rajhi Bank selects ServiceNow and ejada Systems to enhance its digital operations in KSA",
-      "publisher": "Intelligent CIO Middle East",
-      "url": "https://www.intelligentcio.com/me/2025/11/10/al-rajhi-bank-selects-servicenow-and-ejada-systems-to-enhance-its-digital-operations-in-ksa/",
-      "doc_type": "Trade news (vendor announcement)",
-      "tier": 5,
-      "published": "2025-11-10",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S39",
-      "title": "Al Rajhi Bank selects Temenos T24 for core banking renovation",
-      "publisher": "Retail Banker International",
-      "url": "https://www.retailbankerinternational.com/news/al-rajhi-bank-temenos-t24/",
-      "doc_type": "Trade news",
-      "tier": 5,
-      "published": "2019-02-27",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S40",
-      "title": "alrajhi bank pacts with Mozn to harness AI in fraud prevention",
-      "publisher": "Sharikat Mubasher",
-      "url": "https://en.sharikatmubasher.com/media-hub/news/21512403/alrajhi-bank-pacts-with-mozn-to-harness-ai-in-fraud-prevention?lang=en",
-      "doc_type": "News",
-      "tier": 5,
-      "published": "2025-10-20",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S41",
-      "title": "nera (official website)",
-      "publisher": "Al Rajhi Bank (nera channel)",
-      "url": "https://www.nera.sa/",
-      "doc_type": "Official product website",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S42",
-      "title": "Management Team",
-      "publisher": "Al Rajhi Capital",
-      "url": "https://alrajhi-capital.sa/about-us/management",
-      "doc_type": "Official leadership page (subsidiary)",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S43",
-      "title": "Board of Directors",
-      "publisher": "Al Rajhi Capital",
-      "url": "https://alrajhi-capital.sa/about-us/board-of-director",
-      "doc_type": "Official leadership page (subsidiary)",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S44",
-      "title": "Al Rajhi Capital home page (navigation; CMA License 07068/37)",
-      "publisher": "Al Rajhi Capital",
-      "url": "https://www.alrajhi-capital.sa/en",
-      "doc_type": "Official website (subsidiary)",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S45",
-      "title": "Investor Relations (financial materials list)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Investor-Relations",
-      "doc_type": "Official IR website",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S46",
-      "title": "Site Map (segments: Classic experience, Affluent, Diamond Affluent, Private Banking; Gold and Silver Wallet)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/SiteMap",
-      "doc_type": "Official website",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S47",
-      "title": "About alrajhi bank (footer links incl. official LinkedIn)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank",
-      "doc_type": "Official website",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S49",
-      "title": "Alrajhi bank Announces the Start Date for Electronic Voting (16th EGM)",
-      "publisher": "Al Rajhi Bank",
-      "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Media-Center/2026/Alrajhi-bank-Announces-the-Start-Date-for-Electronic-Voting",
-      "doc_type": "Press release",
-      "tier": 2,
-      "published": "2026-04-16",
-      "accessed": "2026-10-12",
-      "language": "en"
-    }
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Through Al Rajhi Capital: AUM SAR 165,822m at 31 Dec 2025 (2024: 123,319m), ranked #2 in KSA. Al Rajhi Awaeed Fund is the largest public mutual fund in KSA. The 2025 'Fund Factory' launched private funds, and real estate launched 13+ private funds of SAR 25.8bn+. The bank also runs Mudaraba funds through its Investment Department (FS note). See sa-alrajhi-capital.",
+   "source_ids": [
+    "S4",
+    "S9"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Through Al Rajhi Capital: 15.5% market share by value traded at end-2025 (AR); the 2Q26 presentation shows '+13%' market share of value traded. 25.2% share of the Kingdom's digital trading market; Super App (3m+ downloads) and Super Web; options across 38 international markets; fully digital margin lending.",
+   "source_ids": [
+    "S9",
+    "S5"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "AR 2025: Al Rajhi Capital's 'investment options are integrated into the alrajhi bank app'. The bank site offers 'Investment funds' (equity, growth, savings, balanced, real estate, endowment) funded from current account, Visa or Apple Pay, plus a Systematic Investment Plan (fixed monthly investment into a chosen fund) (S22-S24). Equities, IPOs and international trading run in the separate Al Rajhi Capital Super App/Super Web. Drahim (67.48%) offers robo portfolios and a Drahim Investment Card issued by the bank with Al Rajhi Capital investments (S14). A new lifestyle money-management app, 'nera', is run as an Al Rajhi Bank channel (S41).",
+   "source_ids": [
+    "S9",
+    "S22",
+    "S23",
+    "S24",
+    "S14",
+    "S41"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Al Rajhi Capital is CMA-licensed for advising (S3 note 1); Private Banking and Diamond Affluent have dedicated RMs (S19, S21); Al Rajhi Capital has a Head of Wealth and Institutional Clients (S42).",
+   "source_ids": [
+    "S3",
+    "S19",
+    "S21",
+    "S42"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "Al Rajhi Capital lists 'Discretionary Portfolio Management' under asset management (S44). Size not disclosed.",
+   "source_ids": [
+    "S44"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Yes",
+   "detail": "Two in-group robo offers. (1) Al Rajhi Capital's 'alrajhi Mashora', an automated, algorithm-driven investment service (AR 2025). (2) Drahim, a 67.48% subsidiary and 'financial management and automated investment platform' under SAMA and CMA licences. Its robo portfolios passed 1.5bn in investments (currency not stated); it launched Rent and Dividend portfolios and, in Sep 2025, Drahim Business with 30+ local and global funds.",
+   "source_ids": [
+    "S9",
+    "S14",
+    "S3"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "In-house Al Rajhi Capital funds sold through the bank site/app and the Al Rajhi Capital app. Drahim Business offers 'more than 30 local and global investment funds' (managers not named). No third-party fund platform provider found.",
+   "source_ids": [
+    "S23",
+    "S14"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "No client-facing structured products found on Private Banking, Affluent or Investment pages. The bank holds 'FVOCI sukuk and structured products investments' on its own balance sheet (S3), which is not a client offering.",
+   "source_ids": [
+    "S19",
+    "S22",
+    "S3"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "Al Rajhi Capital private funds: PE/financing funds launched by its Fund Factory in 2025 and 13+ private real estate funds (SAR 25.8bn+); exited a SAR 1bn+ private fund. Access for Private Banking clients is via Al Rajhi Capital.",
+   "source_ids": [
+    "S9",
+    "S19"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "The whole group is Shariah-compliant under a Shari'a Authority (S3 note 1). Shariah funds, Murabaha customer time investments, Mudaraba funds, Al Rajhi Awaeed money market fund, and sukuk (Al Rajhi Capital is a primary dealer for Saudi government sukuk).",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S9"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "US/international equities",
+   "ETFs",
+   "Mutual funds",
+   "Sukuk",
+   "Private markets / alternatives",
+   "Real estate funds",
+   "Gold / precious metals"
   ],
-  "original_reconciliation": [],
-  "discrepancies": [
-    {
-      "field": "AUM growth 2025",
-      "detail": "The MD and CEO's review says Al Rajhi Capital 'retained second place in assets under management, achieving 11% growth'. The AR's Al Rajhi Capital section says AUM grew 35% to SAR 165.8bn, and the audited FS give SAR 165,822m vs 123,319m (+34.5%).",
-      "resolution": "Used the audited FS figure. The 11% may refer to a different measure; unresolved.",
-      "source_ids": [
-        "S16",
-        "S9",
-        "S4"
-      ]
-    },
-    {
-      "field": "Executive team",
-      "detail": "AR 2025 lists COO Abdullah Saleh Al-Omari, CDO Abdullah Ali Al-Furaiji, CMCXO Abdullah Saad Aljabr and Chief Internal Auditor Dhary Al-Shammry, and gives the CFO as also Acting CRO. The official page on 12 Oct 2026 has no COO or CDO, shows Turki Al-Dhfayan as Acting CDO, Saed Basseet as CMCXO, and adds a Chief Strategy Officer (Abid Shakeel) and a Chief Private Banking Officer (Hani Al Meghem).",
-      "resolution": "Used the official page as current. No announcements of these changes were found; Al-Furaiji recorded as 'Conflicting sources'.",
-      "source_ids": [
-        "S11",
-        "S1"
-      ]
-    },
-    {
-      "field": "Branches",
-      "detail": "Interim FS: 547 branches at 30 Jun 2026 including foreign branches. Fact sheet: 513 in KSA + 13 Malaysia + 13 Jordan + 2 Kuwait = 541.",
-      "resolution": "Recorded the FS figure with the KSA count in the note; difference of 6 unexplained.",
-      "source_ids": [
-        "S3",
-        "S8"
-      ]
-    },
-    {
-      "field": "Brokerage market share",
-      "detail": "AR 2025: 15.5% market share by value traded at end-2025. 2Q26 presentation: '+13%' of value traded.",
-      "resolution": "Both recorded with dates; the 2Q26 figure may be a period share. Not converted to a metric.",
-      "source_ids": [
-        "S9",
-        "S5"
-      ]
-    },
-    {
-      "field": "Shares outstanding",
-      "detail": "2Q26 presentation and fact sheet show 'Shares outstanding 4.0 bn' at 30 Jun 2026, but the interim FS show 6,000m shares after the 20 Apr 2026 bonus issue, and the stated market cap (SAR 395.4bn at SAR 65.9) implies 6.0bn shares.",
-      "resolution": "The presentation figure is stale; FS used.",
-      "source_ids": [
-        "S5",
-        "S8",
-        "S3"
-      ]
-    }
+  "partners": [
+   {
+    "partner": "Al Rajhi Capital (in-house subsidiary)",
+    "kind": "Product / investment arm",
+    "what": "Supplies funds, brokerage, discretionary, robo-advisory and private-market products to bank clients; its relationship value counts toward Affluent/Diamond eligibility",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S19",
+     "S20",
+     "S21",
+     "S9"
+    ]
+   },
+   {
+    "partner": "Drahim (67.48% subsidiary)",
+    "kind": "Robo-advisory / PFM platform",
+    "what": "Automated investment portfolios and PFM; Drahim Investment Card issued by the bank, processed by Neoleap, with Al Rajhi Capital investments",
+    "date": "2024-06",
+    "status": "Live",
+    "source_ids": [
+     "S4",
+     "S14"
+    ]
+   },
+   {
+    "partner": "Temenos",
+    "kind": "Core banking / digital banking software",
+    "what": "Selected Temenos T24 Transact (core banking renovation), Temenos Infinity (digital) and Temenos Loan Origination",
+    "date": "2019-02-27",
+    "status": "Announced",
+    "source_ids": [
+     "S39"
+    ]
+   },
+   {
+    "partner": "ServiceNow (with ejada Systems)",
+    "kind": "AI workflow platform",
+    "what": "Multi-year agreement for the ServiceNow AI Platform across HR, IT and financial services; ejada deploys and manages it",
+    "date": "2025-11-10",
+    "status": "Announced",
+    "source_ids": [
+     "S38"
+    ]
+   },
+   {
+    "partner": "Mozn",
+    "kind": "AI fraud prevention",
+    "what": "FOCAL financial crime prevention platform",
+    "date": "2025-10-20",
+    "status": "Announced",
+    "source_ids": [
+     "S40"
+    ]
+   }
   ],
-  "open_items": [
-    "Shareholders above 5%: Saudi Exchange major-shareholders pages returned HTTP 403; Argaam shareholder table requires login; the full AR 2025 PDF (directors' report) exceeded the 10 MB fetch limit. Check the Tadawul page or the AR 2025 board report.",
-    "Q3 2026 (30 Sep 2026) results not yet on the IR page as of 12 Oct 2026 (S45). Re-check late Oct 2026.",
-    "Board term ends 13 Nov 2026; the general assembly date and candidate list for the 2026-2029 term were not found. Re-check chair and board after the election.",
-    "Al Rajhi Capital AUM at 30 Jun 2026 not disclosed in bank materials.",
-    "Private Banking eligibility thresholds and client/asset figures not published.",
-    "Appointment dates of the Chief Private Banking Officer, Chief Strategy Officer, Acting CDO and CMCXO not found; status of former CDO (Al-Furaiji) and COO (Al-Omari) unknown.",
-    "Lead 'Mazaya' tier: not found; the published segments are Classic experience, Affluent, Diamond Affluent and Private Banking (S46). Lead 'Al Rajhi Private': the official name is 'Private Banking'.",
-    "Lead 'partnerships with global asset managers or wealth-tech vendors 2025-2026': none found for the bank. Al Rajhi Capital's EquiLend and Benzinga deals are covered in sa-alrajhi-capital.",
-    "Lead 'international expansion': no new markets found. Existing Malaysia (subsidiary), Jordan and Kuwait (branches); Kuwait made a 2025 net profit of SAR 0.8m (S13).",
-    "nera launch date (10 May 2026) and its Temenos/Ejada build come only from LinkedIn posts seen in search results; not confirmed by a bank release.",
-    "Which investment functions sit in the alrajhi bank app versus the Al Rajhi Capital Super App is documented only by one AR line (S9); the bank's Media Center is JS-rendered and returned no items.",
-    "Board/CEO LinkedIn profiles not found; the CEO and CPBO were searched."
+  "initiatives": [
+   {
+    "date": "2024-06",
+    "what": "Acquired 65% of Drahim Holdings (PFM and automated investment) for SAR 83.4m; stake 67.48% at 30 Jun 2026",
+    "source_ids": [
+     "S4",
+     "S3"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Al Rajhi Capital launched Super Web, a Family Proposition (parents onboard and monitor dependants' investments), securities lending and single-stock options; AUM +35% to SAR 165.8bn",
+    "source_ids": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Retail launched a Premium Rewards Credit Card for the HNWI segment; Premium segment customers +8% YoY",
+    "source_ids": [
+     "S10"
+    ]
+   },
+   {
+    "date": "2025-09",
+    "what": "Drahim launched Drahim Business: automated investing across 30+ local and global funds",
+    "source_ids": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2026-04-20",
+    "what": "EGM approved a bonus issue raising capital to SAR 60bn and an H2 2025 dividend of SAR 7bn",
+    "source_ids": [
+     "S3",
+     "S49"
+    ]
+   },
+   {
+    "date": "2026",
+    "what": "Al Rajhi Capital 2026 priorities: expand international dealing and institutional trading, grow custody scale, launch a client portal, deepen alternatives",
+    "source_ids": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2026",
+    "what": "'nera' lifestyle money-management app operated as an Al Rajhi Bank channel (SAMA licence 1420). A LinkedIn post seen in search results dates its launch to 10 May 2026 (unverified).",
+    "source_ids": [
+     "S41"
+    ]
+   },
+   {
+    "date": "2026-07-09",
+    "what": "Opened nominations for an 11-member board for 14 Nov 2026 to 13 Nov 2029",
+    "source_ids": [
+     "S34"
+    ]
+   },
+   {
+    "date": "2026-07-28",
+    "what": "Q2-26 call: CEO said 2026 is the last year of 'Harmonize the Group' and 'we are in the process of preparing our next 3-year strategy'; fee growth drivers included 'investment banking and assets under management'",
+    "source_ids": [
+     "S7"
+    ]
+   }
   ],
-  "research_status": "Complete",
-  "researched_by": "B11",
-  "checked": "2026-10-12"
+  "evidence_for_arta": {
+   "opportunities": [
+    "Strategy reset: the CEO said on 28 Jul 2026 that the bank is 'preparing our next 3-year strategy' to replace 'Harmonize the Group', which ends in 2026 (S7 p.14).",
+    "Wealth leadership is new: a Chief Private Banking Officer (Hani Al Meghem) and a Chief Strategy Officer (Abid Shakeel) appear on the Oct 2026 executive page but not in the AR 2025 executive list (S1, S11). The digital head is acting (S1).",
+    "Affluent eligibility already counts Al Rajhi Capital relationship value (SAR 1m Affluent, SAR 2m Diamond), so bank and investment propositions are linked (S20, S21).",
+    "The bank's own investment pages list only 'Investment funds' and a 'Systematic Investment Plan'; Private Banking lists investment products only via Al Rajhi Capital, with no model portfolios or international/alternatives offer on the bank side (S19, S22-S24).",
+    "Very large digital base: 21.7m customers, a 96:4 digital-to-manual ratio and 75% of active customers on digital channels (S5, S17). Al Rajhi Capital's Super App has 3m+ downloads (S9).",
+    "On the Q2-26 call, the CFO named assets under management as a fee-income growth driver (S7 p.5)."
+   ],
+   "barriers": [
+    "Islamic-only group: all products need Shari'a Authority approval (S3 note 1).",
+    "In-group robo and model portfolios already exist: Al Rajhi Capital's 'alrajhi Mashora' robo service and the 67.48%-owned Drahim automated investment platform (S9, S14).",
+    "Investment licences sit in Al Rajhi Capital (CMA licence 07068/37), the #2 asset manager with a large in-house fund factory and private real estate funds, so product contracts would likely be with the subsidiary (S9, S44).",
+    "Strong in-house tech group: Ejada (systems integration, being sold down), Neoleap (payments), Neotek (open banking) (S3)."
+   ],
+   "incumbent_vendors": [
+    "Temenos: T24 Transact core banking, Temenos Infinity, Loan Origination (selected Feb 2019) (S39)",
+    "ServiceNow AI Platform, implemented by ejada Systems (Nov 2025) (S38)",
+    "Mozn FOCAL fraud prevention (Oct 2025) (S40)",
+    "Drahim (in-group robo/PFM) and Neotek (in-group open banking) (S3, S14)"
+   ]
+  }
+ },
+ "sources": [
+  {"id": "S1", "title": "Executive Management", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management", "doc_type": "Official leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S2", "title": "Board Members", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Board-Members", "doc_type": "Official leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S3", "title": "Interim Condensed Consolidated Financial Information (Unaudited) as of and for the six-month period ended 30 June 2026", "publisher": "Al Rajhi Bank", "url": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/ax0k7s74wvl7/b/Marketing_Email_Images/o/353_0_2026-07-29_14-52-14_En.pdf", "doc_type": "Reviewed interim financial statements (Deloitte, PwC; review report 29 Jul 2026)", "tier": 1, "published": "2026-07-29", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S4", "title": "Consolidated Financial Statements and Independent Auditors' Report as of and for the year ended 31 December 2025", "publisher": "Al Rajhi Bank", "url": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/ax0k7s74wvl7/b/Marketing_Email_Images/o/Financial%20ResultsQ4en.pdf", "doc_type": "Audited financial statements (Deloitte, EY; report dated 4 Feb 2026)", "tier": 1, "published": "2026-02-04", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S5", "title": "Investor Presentation 2Q 2026", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Investor-Relation/Financial-Materials/2026/Q2/ARB-Investor-Presentation-2Q2026.pdf", "doc_type": "Investor presentation", "tier": 2, "published": "2026-07", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S6", "title": "2Q 2026 Earnings Release", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Investor-Relation/Financial-Materials/2026/Q2/ARB-2Q2026-Earnings-Release.pdf", "doc_type": "Results press release", "tier": 2, "published": "2026-07-21", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S7", "title": "2Q26 Financial Results Earnings Call Transcript (28 July 2026)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Investor-Relation/Financial-Materials/2026/Q2/2Q-2026-Earnings-Call-Transcript.pdf", "doc_type": "Earnings call transcript", "tier": 2, "published": "2026-07-28", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S8", "title": "Al Rajhi Bank Q2 2026 Fact Sheet", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Investor-Relation/Financial-Materials/2026/Q2/External-FactSheet-2Q2026.pdf", "doc_type": "Fact sheet", "tier": 2, "published": "2026-07", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S9", "title": "Integrated Annual Report 2025: Al Rajhi Capital", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/business_in_perspective/subsidiaries/alrajhi_capital.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S10", "title": "Integrated Annual Report 2025: Retail Banking Group", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/business_in_perspective/business_portfolio_review/retail_banking_group.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S11", "title": "Integrated Annual Report 2025: Executive Management", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/corporate_governance/executive_management.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S12", "title": "Integrated Annual Report 2025: Chief Executive Officers of Subsidiaries and International Network", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/corporate_governance/chief_executive_officers_of_subsidiaries_and_international_network.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S13", "title": "Integrated Annual Report 2025: Subsidiaries and International Network", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/business_in_perspective/subsidiaries_and_international_network.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S14", "title": "Integrated Annual Report 2025: Drahim", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/business_in_perspective/subsidiaries/drahim.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S15", "title": "Integrated Annual Report 2025: Strategic Direction", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/context/strategic_direction.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S16", "title": "Integrated Annual Report 2025: Managing Director and Chief Executive Officer's Review", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/overview/managing_director_and_chief_executive_officer_s_review.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S17", "title": "Integrated Annual Report 2025: Digitalisation and Automation", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/customer_engagement_and_responsible_banking/digitalisation_and_automation.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S18", "title": "Integrated Annual Report 2025: Board of Directors", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ir25/corporate_governance/board_of_directors.html", "doc_type": "Annual report (digital edition)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S19", "title": "Private Banking", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/Personal/Segments/Private-Banking", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S20", "title": "Affluent", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/Personal/Segments/Affluent", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S21", "title": "Diamond Affluent", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/Personal/Segments/Diamond-Affluent", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S22", "title": "Investment", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/Investment", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S23", "title": "Investment Funds", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/Investment/Product-and-Services/Investment-Funds", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S24", "title": "Systematic Investment Plan", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/Investment/Product-and-Services/Systematic-Investment-Plan", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S25", "title": "Managing Director and Chief Executive Officer (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Executive-Officer", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S26", "title": "Chief Private Banking Officer (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Private-Banking-Officer", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S27", "title": "General Manager Retail Banking (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/General-Manager-Retail-Banking", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S28", "title": "Chief Strategic Projects and Acting Chief Digital Officer (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Strategic-Projects-And-Acting-Chief-Digital-Officer", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S29", "title": "Chief Strategy Officer (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Strategy-Officer", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S30", "title": "Chief Financial Officer (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Financial-Officer", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S31", "title": "Chief Marketing and Customer Experience Officer (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/Chief-Marketing-and-Customer-Experience-Officer", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S32", "title": "General Manager Corporate Banking Group (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/General-Manager-Corporate-banking", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S33", "title": "Mr. Abdullah bin Sulaiman Al Rajhi, Chairman (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Board-Members/Mr-Abdullah-S-Al-Rajhi", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S34", "title": "alrajhi bank opens board nomination for new term", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Media-Center/2026/alrajhi-bank-opens-board-nomination-for-new-term", "doc_type": "Press release", "tier": 2, "published": "2026-07-09", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S35", "title": "Al Rajhi Bank names CEO Waleed Almogbel as board member and managing director", "publisher": "Argaam", "url": "https://www.argaam.com/en/article/articledetail/id/1601500", "doc_type": "News", "tier": 5, "published": "2022-11-10", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S36", "title": "Saudi Arabia's Al Rajhi Bank names new CEO", "publisher": "Salaam Gateway", "url": "https://salaamgateway.com/story/saudi-arabias-al-rajhi-bank-names-new-ceo", "doc_type": "News", "tier": 5, "published": "2019-11-05", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S37", "title": "Al Rajhi Bank reappoints chairman and VP", "publisher": "Enterprise AM (KSA)", "url": "https://enterpriseam.com/ksa/2023/11/29/al-rajhi-bank-reappoints-chairman-and-vp/", "doc_type": "News", "tier": 5, "published": "2023-11-29", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S38", "title": "Al Rajhi Bank selects ServiceNow and ejada Systems to enhance its digital operations in KSA", "publisher": "Intelligent CIO Middle East", "url": "https://www.intelligentcio.com/me/2025/11/10/al-rajhi-bank-selects-servicenow-and-ejada-systems-to-enhance-its-digital-operations-in-ksa/", "doc_type": "Trade news (vendor announcement)", "tier": 5, "published": "2025-11-10", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S39", "title": "Al Rajhi Bank selects Temenos T24 for core banking renovation", "publisher": "Retail Banker International", "url": "https://www.retailbankerinternational.com/news/al-rajhi-bank-temenos-t24/", "doc_type": "Trade news", "tier": 5, "published": "2019-02-27", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S40", "title": "alrajhi bank pacts with Mozn to harness AI in fraud prevention", "publisher": "Sharikat Mubasher", "url": "https://en.sharikatmubasher.com/media-hub/news/21512403/alrajhi-bank-pacts-with-mozn-to-harness-ai-in-fraud-prevention?lang=en", "doc_type": "News", "tier": 5, "published": "2025-10-20", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S41", "title": "nera (official website)", "publisher": "Al Rajhi Bank (nera channel)", "url": "https://www.nera.sa/", "doc_type": "Official product website", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S42", "title": "Management Team", "publisher": "Al Rajhi Capital", "url": "https://alrajhi-capital.sa/about-us/management", "doc_type": "Official leadership page (subsidiary)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S43", "title": "Board of Directors", "publisher": "Al Rajhi Capital", "url": "https://alrajhi-capital.sa/about-us/board-of-director", "doc_type": "Official leadership page (subsidiary)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S44", "title": "Al Rajhi Capital home page (navigation; CMA License 07068/37)", "publisher": "Al Rajhi Capital", "url": "https://www.alrajhi-capital.sa/en", "doc_type": "Official website (subsidiary)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S45", "title": "Investor Relations (financial materials list)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Investor-Relations", "doc_type": "Official IR website", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S46", "title": "Site Map (segments: Classic experience, Affluent, Diamond Affluent, Private Banking; Gold and Silver Wallet)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/SiteMap", "doc_type": "Official website", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S47", "title": "About alrajhi bank (footer links incl. official LinkedIn)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank", "doc_type": "Official website", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S49", "title": "Alrajhi bank Announces the Start Date for Electronic Voting (16th EGM)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Media-Center/2026/Alrajhi-bank-Announces-the-Start-Date-for-Electronic-Voting", "doc_type": "Press release", "tier": 2, "published": "2026-04-16", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S50", "title": "Integrated Annual Report 2025 (full PDF, English, 432 pages): Board of Directors biographies (PDF pp.218–222), Executive Management (pp.224–226), CEOs of subsidiaries (pp.228–230), Board structure and term (p.232), director classification and remuneration (p.248)", "publisher": "Al Rajhi Bank", "url": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/ax0k7s74wvl7/b/Marketing_Email_Images/o/ARBIAR25%20integrated%20annual%20report%20full%20proof%20English.pdf", "doc_type": "Annual report PDF — governance section", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en", "note": "Linked from the Arabic Investor Relations page (Arabic edition); the English file opened at the parallel URL. Gives no individual appointment dates for directors or executives except a footnote on Abaalkhail's membership."},
+  {"id": "S51", "title": "Executive Management profiles (Arabic): CEO, CFO, GM Retail Banking, GM Corporate Banking, GM Sharia, Chief Private Banking Officer, Chief Strategy Officer, Chief Strategic Projects and Acting CDO, Chief Marketing and CX Officer", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ar/About-alrajhi-bank/Executive-Management/Chief-Executive-Officer", "doc_type": "Official biographies (Arabic; nine pages under the same path, one per post)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "ar"},
+  {"id": "S52", "title": "Mr. Ibrahim bin Mohammed Al Romaih, Deputy Chairman (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Board-Members/Mr-Ibrahim-M-Al-Romaih", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S53", "title": "General Manager Sharia (profile)", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/en/About-alrajhi-bank/Executive-Management/General-Manager-Sharia", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S54", "title": "الإدارة التنفيذية (Executive Management, Arabic listing): 14 profile links — CEO, CFO, GM Retail, GM Corporate, GM Treasury Group, GM Sharia, Chief Private Banking Officer, Chief Strategy Officer, Chief Strategic Projects and Acting CDO, Chief Marketing and CX Officer, Chief Compliance Officer, Chief Credit Officer, Chief Governance and Legal Officer, Chief HR Officer", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ar/About-alrajhi-bank/Executive-Management", "doc_type": "Official leadership page (Arabic)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "ar", "note": "The English listing page (S1) served an F5/TSPD JavaScript challenge on 12 Oct 2026 (HTTP 200, no content); the Arabic listing and the individual EN/AR profile pages loaded. Names on the listing are rendered client-side; the roster was read from its profile links."},
+  {"id": "S55", "title": "Executive Management — alrajhi bank Malaysia", "publisher": "Al Rajhi Banking & Investment Corporation (Malaysia) Bhd", "url": "https://www.alrajhibank.com.my/about/corporate-profile/executive-management/", "doc_type": "Official leadership page (subsidiary)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S56", "title": "Board of Directors — alrajhi bank Malaysia", "publisher": "Al Rajhi Banking & Investment Corporation (Malaysia) Bhd", "url": "https://www.alrajhibank.com.my/about/corporate-profile/board-of-directors/", "doc_type": "Official leadership page (subsidiary)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S57", "title": "Syahrul Ishak Takes Helm as CEO at Al Rajhi Malaysia", "publisher": "Fintech News Malaysia", "url": "https://fintechnews.my/44171/various/syahrul-ishak-takes-helm-as-ceo-at-al-rajhi-malaysia/", "doc_type": "News report", "tier": 5, "published": "2024-05-13", "accessed": "2026-10-12", "language": "en", "note": "Headline and date read on the page; the article body did not render. The start date of 13 May 2024 and the predecessor's name come from the search summary of this article."},
+  {"id": "S58", "title": "أقوى الرؤساء التنفيذيين في الشرق الأوسط 2026: وليد بن عبدالله المقبل (Top 100 CEOs 2026)", "publisher": "Forbes Middle East", "url": "https://www.forbesmiddleeast.com/ar/lists/top-100-ceos-2026/waleed-abdullah-al-mogbel/", "doc_type": "Ranking profile", "tier": 5, "published": "2026-08-06", "accessed": "2026-10-12", "language": "ar"},
+  {"id": "S59", "title": "Al Rajhi Capital appoints Hossam Al Basrawi to CEO role", "publisher": "People Matters (Middle East)", "url": "https://me.peoplemattersglobal.com/news/appointments/al-rajhi-capital-elevates-hossam-al-basrawi-to-ceo-role-44832", "doc_type": "News report (citing the appointee's LinkedIn post)", "tier": 5, "published": "2025-03-19", "accessed": "2026-10-12", "language": "en"},
+  {"id": "S60", "title": "Hossam Essam Al-Basrawi, Chief Executive Officer (profile)", "publisher": "Al Rajhi Capital", "url": "https://alrajhi-capital.sa/about-us/management/Hossam-Essam-Al-Basrawi", "doc_type": "Official biography (subsidiary)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
+  {"id": "S61", "title": "أعضاء مجلس الإدارة (Board Members, Arabic listing): 11 profile links", "publisher": "Al Rajhi Bank", "url": "https://www.alrajhibank.com.sa/ar/About-alrajhi-bank/Board-Members", "doc_type": "Official leadership page (Arabic)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "ar", "note": "The English listing (S2) served the same JavaScript challenge on 12 Oct 2026; the Arabic listing loaded and its 11 profile links match the AR 2025 board."}
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {"field": "AUM growth 2025", "detail": "The MD and CEO's review says Al Rajhi Capital 'retained second place in assets under management, achieving 11% growth'. The AR's Al Rajhi Capital section says AUM grew 35% to SAR 165.8bn, and the audited FS give SAR 165,822m vs 123,319m (+34.5%).", "resolution": "Used the audited FS figure. The 11% may refer to a different measure; unresolved.", "source_ids": ["S16", "S9", "S4"]},
+  {"field": "Executive team", "detail": "AR 2025 lists COO Abdullah Saleh Al-Omari, CDO Abdullah Ali Al-Furaiji, CMCXO Abdullah Saad Aljabr, CHRO Ahmed Al-Sudais and Chief Internal Auditor Dhary Al-Shammry, and gives the CFO as also Acting CRO. The official roster on 12 Oct 2026 (Arabic listing; the English page was challenge-blocked) has 14 posts: no COO, CDO or Chief Internal Auditor profile; Turki Al-Dhfayan as Acting CDO; Saed Basseet as CMCXO; plus a Chief Strategy Officer (Abid Shakeel) and a Chief Private Banking Officer (Hani Al Meghem) who are not in AR 2025.", "resolution": "Official roster used as current. No announcements of these changes were found in role-based EN/AR searches; Al-Furaiji recorded as 'Conflicting sources'.", "source_ids": ["S11", "S50", "S1", "S54"]},
+  {"field": "Branches", "detail": "Interim FS: 547 branches at 30 Jun 2026 including foreign branches. Fact sheet: 513 in KSA + 13 Malaysia + 13 Jordan + 2 Kuwait = 541.", "resolution": "Recorded the FS figure with the KSA count in the note; difference of 6 unexplained.", "source_ids": ["S3", "S8"]},
+  {"field": "Brokerage market share", "detail": "AR 2025: 15.5% market share by value traded at end-2025. 2Q26 presentation: '+13%' of value traded.", "resolution": "Both recorded with dates; the 2Q26 figure may be a period share. Not converted to a metric.", "source_ids": ["S9", "S5"]},
+  {"field": "Shares outstanding", "detail": "2Q26 presentation and fact sheet show 'Shares outstanding 4.0 bn' at 30 Jun 2026, but the interim FS show 6,000m shares after the 20 Apr 2026 bonus issue, and the stated market cap (SAR 395.4bn at SAR 65.9) implies 6.0bn shares.", "resolution": "The presentation figure is stale; FS used.", "source_ids": ["S5", "S8", "S3"]},
+  {"field": "CEO's group chairmanships", "detail": "Official CEO bio page: Chairman of Emkan, Neoleap, Tanfeeth and Ejada Systems. AR 2025: Chairman of Emkan, Neoleap, Atmaal (Human Resources Management and Development Co.), Neotek and Drahim Holdings, with the Ejada chairmanship listed as a previous position. Experience: 'more than 24 years' (bio page) vs 'over 28 years' (AR 2025).", "source_ids": ["S25", "S50"], "resolution": "AR 2025 (the later document) used for current chairmanships; the bio page appears not to have been updated. Minor."},
+  {"field": "Executives' years of experience", "detail": "Official profile pages and AR 2025 differ: Al-Fadda 26 vs 29 years; Majed Al-Rajhi 18 vs 21; Al-Dhfayan 18 vs 19.", "source_ids": ["S30", "S27", "S28", "S50"], "resolution": "Both figures quoted in previous_roles; no appointment dates can be derived. Minor."}
+ ],
+ "open_items": ["Shareholders above 5%: Saudi Exchange major-shareholders pages returned HTTP 403; Argaam shareholder table requires login; the full AR 2025 PDF (directors' report) exceeded the 10 MB fetch limit. Check the Tadawul page or the AR 2025 board report.", "Q3 2026 (30 Sep 2026) results not yet on the IR page as of 12 Oct 2026 (S45). Re-check late Oct 2026.", "Board term ends 13 Nov 2026: nominations for the 11-seat 2026–2029 board ran 12 Jul–11 Aug 2026 (S34); as of 12 Oct 2026 no nominee list or general-assembly date was found in EN/AR searches, and the Saudi Exchange announcement PDFs (9 Jul 2026 nomination notice; 8 Nov 2023 election results) returned HTTP 403. Re-check chair and board after the election.", "Al Rajhi Capital AUM at 30 Jun 2026 not disclosed in bank materials.", "Private Banking eligibility thresholds and client/asset figures not published.", "Appointment dates of the Chief Private Banking Officer, Chief Strategy Officer, Acting CDO and CMCXO not found (role-based EN/AR searches, 12 Oct 2026); none of these posts is in AR 2025, so all date from 2026. Status of former CDO (Al-Furaiji), COO (Al-Omari), CMCXO (Aljabr) and the HR and internal-audit chiefs unknown. The full AR 2025 PDF (S50) gives no individual appointment dates for executives or directors.", "Lead 'Mazaya' tier: not found; the published segments are Classic experience, Affluent, Diamond Affluent and Private Banking (S46). Lead 'Al Rajhi Private': the official name is 'Private Banking'.", "Lead 'partnerships with global asset managers or wealth-tech vendors 2025-2026': none found for the bank. Al Rajhi Capital's EquiLend and Benzinga deals are covered in sa-alrajhi-capital.", "Lead 'international expansion': no new markets found. Existing Malaysia (subsidiary), Jordan and Kuwait (branches); Kuwait made a 2025 net profit of SAR 0.8m (S13).", "nera launch date (10 May 2026) and its Temenos/Ejada build come only from LinkedIn posts seen in search results; not confirmed by a bank release.", "Which investment functions sit in the alrajhi bank app versus the Al Rajhi Capital Super App is documented only by one AR line (S9); the bank's Media Center is JS-rendered and returned no items.", "LinkedIn: the search tool declines name-based look-ups, so no new verifications were possible; role-based searches surfaced no profile URL for the CEO, CPBO, GM Retail or Acting CDO. All remain 'Not verified' or 'Not checked'.", "Bot protection (12 Oct 2026): the English Executive-Management, Board-Members, Investor-Relations, AGM and Media-Center pages return an F5/TSPD JavaScript challenge (HTTP 200, 5 KB, no content). The Arabic listings, the individual EN/AR profile pages, the digital AR 2025 and the full AR 2025 PDF loaded; the people pass used those.", "Drahim CEO (Sultan Alkhayal) rests on AR 2025 only: drahim.sa has no leadership page. Al Rajhi Bank Malaysia CEO confirmed on the subsidiary's own Executive Management page; the bank's CFO (Al-Fadda) and GM Treasury (Al-Ajaji) sit on the Malaysian board as executive directors (S56)."],
+ "research_status": "Complete",
+ "researched_by": "B11",
+ "checked": "2026-10-12"
 }
