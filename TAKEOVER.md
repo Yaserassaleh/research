@@ -6,6 +6,24 @@ Everything is on disk; nothing depends on the old conversation.
 Project folder:
 `/Users/yaserassaleh/Library/CloudStorage/OneDrive-beyridge.com/ARTA GCC FI Intelligence`
 
+## 0. Cloud session status (12 Oct 2026, after 15:20) — read this first
+
+The project now also lives in GitHub: `Yaserassaleh/research`, branch `claude/tender-volta-xqmo8b`, with the same
+layout as §2 at the repository root (no `00 Original workbook (unchanged)/` and no `research/original_extracts/` —
+they were not uploaded). In a cloud session, read the Mac paths below as paths under the repository root.
+
+- All tools are present again (rebuilt; see research/PROGRESS_LEDGER.md "Cloud session"). `python3 tools/status.py`
+  works. 96 of 106 institutions are built; 10 are not started (B17 Abyan, B18 Alkhabeer + SEDCO, B22 Dlala +
+  Investcorp, B28 Al Baraka Group, B29b GFH + SICO, B32 Ahli Bank Oman + Bank Nizwa); 22 profiles are partial.
+- Research, gap-closing, check_links and verify_numbers need outbound web access. The cloud environment must have
+  Network access set to Full (environment settings), otherwise WebFetch and downloads fail; WebSearch alone is not
+  enough under the protocol. The built-in browser tools (mcp__Claude_Browser) are not available in cloud sessions,
+  so bot-protected sites stay blocked there.
+- Website, current version (96 institutions): https://claude.ai/artifact/1eKXkN8WvRUvXGnTEhbMaH. The interim link
+  in §7 belongs to the Claude account on the Mac and cannot be updated from the cloud account.
+- original_value_match in the QA report needs research/original_extracts/; until they are uploaded, the 18:40
+  results are carried forward (research/original_value_match_1840.json).
+
 ## 1. Paste this into a new Claude Code session (working directory = the project folder)
 
 ```
@@ -124,7 +142,9 @@ and the `people_at_multiple_institutions` list.
 
 ## 7. Publish the website
 
-The site is already published (interim, 12 Oct 2026): https://claude.ai/artifact/8Ae5QsZDFF5a2MLBdK6pDC
+The site is already published (interim, 12 Oct 2026): https://claude.ai/artifact/8Ae5QsZDFF5a2MLBdK6pDC (Mac account).
+Cloud account version (96 institutions, 12 Oct 2026): https://claude.ai/artifact/1eKXkN8WvRUvXGnTEhbMaH — republish the
+same file to that URL from the cloud account.
 From a NEW session, update it by publishing `site/gcc-fi-intelligence.html` with the Artifact tool and passing that URL
 as `url` (read it first with action "read" if the tool asks). Without `url` a new, separate artifact is created. The local preview is `site/preview.html` served with
 `python3 -m http.server 8765 --bind 127.0.0.1` from the `site/` folder.

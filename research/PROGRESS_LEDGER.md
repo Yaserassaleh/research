@@ -58,9 +58,9 @@ files did not arrive.
       research/original_workbook_ids.json (23 ids), research/original_value_match_1840.json (QA carry-over).
 - [x] Full build: 96 institutions, 1,192 people, 1,318 metrics, 2,223 sources; 0 invalid JSON, broken source refs or
       vocabulary errors. 6 new QA flags accepted with reasons (research/qa_accepted.json).
+- [x] tools/check_links.py, verify_numbers.py and pdftext.py rebuilt (same output formats; tested on a local server).
 - [ ] Not possible here: the environment's network policy blocks outbound web access (WebFetch/curl fail; WebSearch
-      works), so no research agents, link checks or number checks were run. tools/check_links.py,
-      tools/verify_numbers.py and tools/pdftext.py were not in the upload.
+      works), so no research agents, link checks or number checks were run.
 - [ ] original_value_match cannot be recomputed without research/original_extracts/ (18:40 results carried forward).
 
 ## Incidents
@@ -69,6 +69,8 @@ files did not arrive.
 
 ## Website
 - Interim version published 12 Oct 2026: https://claude.ai/artifact/8Ae5QsZDFF5a2MLBdK6pDC (republish site/gcc-fi-intelligence.html to update the same URL).
+- Cloud session, 12 Oct 2026: 96 institutions published at https://claude.ai/artifact/1eKXkN8WvRUvXGnTEhbMaH (a different Claude
+  account from the interim link, which this account cannot open).
 
 ## Central QA
 - research/qa_accepted.json — flags reviewed and accepted, with reasons.
