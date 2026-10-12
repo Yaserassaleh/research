@@ -264,56 +264,60 @@
   "people": [
     {
       "name": "H.H. Sheikh Ammar bin Humaid Al Nuaimi",
-      "name_ar": null,
-      "title": "Chairman of the Board (Crown Prince of Ajman)",
+      "name_ar": "الشيخ عمار بن حميد النعيمي",
+      "title": "Chairman",
       "functions": [
-        "Chair"
+        "Chair",
+        "Board"
       ],
       "entity": "Ajman Bank PJSC",
-      "business_unit": "Board",
+      "business_unit": "Board of Directors",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Date not captured.",
-      "previous_roles": null,
+      "appointed_note": "Date of first appointment not published. The CG Report 2025 says the board's three-year term ended in 2024 and board elections were held at the April 2024 AGM (S5 p.63), so the current term runs 2024-2027. Written as 'H.H. Sheikh Ammar Bin Humaid Bin Rashid Al Nuaimi' in the CG Report.",
+      "previous_roles": "Current other roles: Crown Prince of Ajman (official About Us page, S6). No career biography is published by the bank.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Board list on the official About Us page checked 2026-10-12 (S6); signed the H1 2026 statements as Chairman (S1).",
+      "role_evidence": "Listed as Chairman on the official About Us board list checked 2026-10-12 (S6) and in the CG Report 2025 (S5 pp.8-9, Chairman's message); signed the H1 2026 statements as Chairman, 23 Jul 2026 (S1). WAM coverage of the 2026 board meetings names him as chairing (S35, search results only).",
       "source_ids": [
         "S6",
-        "S1"
+        "S5",
+        "S1",
+        "S35"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "H.H. Sheikh Rashid bin Humaid Al Nuaimi",
-      "name_ar": null,
+      "name_ar": "الشيخ راشد بن حميد النعيمي",
       "title": "Vice Chairman",
       "functions": [
         "Board"
       ],
       "entity": "Ajman Bank PJSC",
-      "business_unit": "Board",
+      "business_unit": "Board of Directors",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
+      "appointed_note": "Date not published; board re-elected at the April 2024 AGM for a three-year term (S5 p.63). Written as 'H.H. Sheikh Rashid Bin Humaid Bin Rashid Al Nuaimi' in the CG Report.",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official About Us page checked 2026-10-12 (S6).",
+      "role_evidence": "Listed as Vice Chairman on the official About Us page checked 2026-10-12 (S6) and in the CG Report 2025 (S5 p.9). No biography is published for him in either source.",
       "source_ids": [
-        "S6"
+        "S6",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Mustafa Al Khalfawi",
-      "name_ar": null,
+      "name_ar": "مصطفى الخلفاوي",
       "title": "Chief Executive Officer",
       "functions": [
         "CEO"
@@ -321,21 +325,23 @@
       "entity": "Ajman Bank PJSC",
       "business_unit": "Executive management",
       "scope": "Group",
-      "appointed": "2023-09",
-      "appointed_note": "Appointment date per Corporate Governance Report 2025. Also Chairman of subsidiary Skyrise Properties and Board Member of the Union of Arab Banks.",
-      "previous_roles": "First Abu Dhabi Bank (from 2008): Head of Global Banking UAE; Global Head of Government, Sovereigns & Public Sector; CEO of FAB's ADGM branch; board member of FAB Islamic and Magnati. Earlier: Emirates NBD (regional manager, Deira branch) and Al Futtaim Group (official bio).",
-      "education": "Executive Master's in Big Data and Business Analytics, ESCP Business School; Bachelor's in Marketing and Management, Ajman University of Science and Technology; executive programmes at Yale SOM and Saïd Business School",
+      "appointed": "2023-09-01",
+      "appointed_note": "Appointment announced 17 Jul 2023 with effect from 1 Sep 2023 (S32); CG Report 2025 gives 'September 2023' (S5 p.18). Full name Mustafa Mohammed Saeed Al Khalfawi.",
+      "previous_roles": "2023– Chief Executive Officer, Ajman Bank; 2008–2023 First Abu Dhabi Bank (and predecessor): Head of Global Banking UAE and Global Head of Government, Sovereigns & Public Sector; CEO of FAB's ADGM branch; board member of FAB Islamic and Magnati; member of the UAE Banks Federation Wholesale Banking Committee; earlier Regional Manager, Deira branch, Emirates NBD (consumer banking); career began at Al Futtaim Group (S7). Current other roles: Chairman, Skyrise Properties (Ajman Bank subsidiary); Board Member, Union of Arab Banks, representing the UAE Banks Federation; Advisory Council Member, Ajman University (S5 p.18).",
+      "education": "Executive Master's in Big Data and Business Analytics, ESCP Business School; Bachelor's in Marketing and Management, Ajman University of Science and Technology; executive programmes: Frontiers in Finance, Yale School of Management; Leadership Programme in Eras of Disruption, Saïd Business School, University of Oxford",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official profile and executive list checked 2026-10-12 (S7, S6); signed H1 2026 statements as CEO, 23 Jul 2026 (S1); quoted as CEO in the Aug 2026 AB ONE CORP release (S24).",
+      "role_evidence": "Official executive roster and profile checked 2026-10-12 (S6, S7); CG Report 2025 biography (S5 p.18); signed the H1 2026 statements as CEO, 23 Jul 2026 (S1); quoted as CEO in the Feb 2026 CTO appointment release (S33) and the Aug 2026 AB ONE CORP release (S24). 2026 role-based news searches (English and Arabic) found no change.",
       "source_ids": [
         "S7",
         "S6",
         "S5",
         "S1",
-        "S24"
+        "S24",
+        "S32",
+        "S33"
       ],
       "checked": "2026-10-12"
     },
@@ -345,31 +351,34 @@
       "title": "Acting Head of Consumer Banking",
       "functions": [
         "Retail",
+        "Affluent",
         "Wealth",
         "Private banking"
       ],
       "entity": "Ajman Bank PJSC",
-      "business_unit": "Consumer Banking",
+      "business_unit": "Consumer Banking (incl. Priority Banking and Wealth Management)",
       "scope": "Bank",
       "appointed": null,
-      "appointed_note": "Appears on the current executive page but not in the Corporate Governance Report 2025, which names Faizal Kundil as Head of Consumer Banking; probably a 2026 appointment (date not stated).",
-      "previous_roles": "More than 28 years in private banking and wealth management in the UAE and MENA; senior roles at LGT Bank, Bank of Singapore, First Abu Dhabi Bank, Emirates NBD and Abu Dhabi Commercial Bank; says he managed client assets over USD 1.8bn (official bio).",
+      "appointed_note": "Date not published. He is absent from the CG Report 2025 (which names Faizal Kundil as Head of Consumer Banking as at FY2025, S5 p.23) and from the Apr 2025 Head of Fintech & AI release (S34), so the acting appointment dates from 2026 (between the CG Report's publication and 12 Oct 2026). No appointment release found (WebSearch, English and Arabic, Oct 2026).",
+      "previous_roles": "2026– Acting Head of Consumer Banking, Ajman Bank; before Ajman Bank senior private-banking leadership positions at LGT Bank, Bank of Singapore, First Abu Dhabi Bank, Emirates NBD and Abu Dhabi Commercial Bank (order and years not given); the official bio states 'more than 28 years of experience in private banking and wealth management' and client assets managed 'exceeding USD 1.8 billion' (S8).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive list and profile checked 2026-10-12 (S6, S8).",
+      "role_evidence": "Listed as Acting Head of Consumer Banking on the official executive roster and his profile page, checked 2026-10-12 (S6, S8). Not in the CG Report 2025 (S5). Official bio names no degree.",
       "source_ids": [
         "S8",
-        "S6"
+        "S6",
+        "S5",
+        "S34"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Faizal Kundil",
       "name_ar": null,
-      "title": "Head of Consumer Banking (per Corporate Governance Report 2025)",
+      "title": "Head of Consumer Banking",
       "functions": [
         "Retail",
         "Wealth"
@@ -378,17 +387,19 @@
       "business_unit": "Consumer Banking",
       "scope": "Bank",
       "appointed": "2021-01",
-      "appointed_note": "CG Report 2025 says he oversaw retail, business banking and wealth management portfolios.",
-      "previous_roles": "Citibank, Standard Chartered, Dubai Islamic Bank, Emirates Islamic, FAB Group (CG Report 2025).",
+      "appointed_note": "Joined Ajman Bank in January 2021 as Head of Consumer Banking (S5 p.23; S10 'Appointed 2021').",
+      "previous_roles": "2021– Head of Consumer Banking, Ajman Bank (retail, business banking and wealth management portfolios; the Head of Fintech & AI appointed 7 Apr 2025 reported to him, S34); before 2021 consumer-finance roles at Citibank, Standard Chartered Bank, Dubai Islamic Bank, Emirates Islamic Bank and FAB Group (order and years not given) (S5, S10).",
       "education": "Bachelor of Commerce, University of Delhi; Leadership Acceleration Programme, Harvard Business School",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Listed in CG Report 2025 (S5 p.23) but absent from the current executive page, which shows Walid Tawfiq as Acting Head of Consumer Banking (S6, checked 2026-10-12). Possible departure; not confirmed by news (search unavailable).",
+      "role_status": "Conflicting sources",
+      "role_evidence": "CG Report 2025 (published 2026; S5 pp.17, 23) and his still-live profile page (S10) list him as Head of Consumer Banking, but the current executive roster on the About Us page, checked 2026-10-12 (S6), omits him and shows Walid Tawfiq as Acting Head of Consumer Banking. No departure or reassignment announcement was found in English or Arabic role-based news searches (Oct 2026). Probably left the role in 2026; unconfirmed.",
       "source_ids": [
         "S5",
-        "S6"
+        "S6",
+        "S10",
+        "S34"
       ],
       "checked": "2026-10-12"
     },
@@ -402,21 +413,22 @@
         "Digital"
       ],
       "entity": "Ajman Bank PJSC",
-      "business_unit": "Operations",
+      "business_unit": "Operations (Operations, IT, Digital Banking, Administration, Internal Control, Real Estate & Engineering)",
       "scope": "Bank",
       "appointed": "2021-11",
-      "appointed_note": "CG Report 2025 gives Nov 2021 as appointment date; the website profile says 'Appointed 2015' (probably when he joined the bank). Oversees Operations, IT, Continuous Improvement, Administration, Internal Control, Digital Banking, Real Estate & Engineering.",
-      "previous_roles": "Ajman Bank Head of Government and Group Head of Retail Banking; Emirates Islamic Bank; National Bank of Dubai (official bio).",
-      "education": "International Business Management, Eckerd College (Florida)",
+      "appointed_note": "Appointed COO in November 2021 (CG Report 2025, S5 p.19). His profile page says 'Appointed 2015' (S9), read as the year he joined the bank. The new Chief Technology Officer (Dr Joseph George, effective 4 Feb 2026) reports to him (S33).",
+      "previous_roles": "2021– Chief Operating Officer, Ajman Bank (Operations, Information Technology, Continuous Improvement, Administration, Internal Control, Digital Banking, Real Estate & Engineering); earlier at Ajman Bank: Head of Government and Group Head of Retail Banking; before Ajman Bank Emirates Islamic Bank and National Bank of Dubai (corporate banking operations; years not given). Current other roles: Director, Skyrise Properties (S5).",
+      "education": "International Business Management, Eckerd College, Florida, USA (graduate; degree level not stated)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive list and profile checked 2026-10-12 (S6, S9); CG Report 2025 (S5).",
+      "role_evidence": "Official executive roster and profile checked 2026-10-12 (S6, S9); CG Report 2025 biography (S5 p.19); quoted as COO in the Feb 2026 CTO appointment release (S33).",
       "source_ids": [
         "S9",
         "S6",
-        "S5"
+        "S5",
+        "S33"
       ],
       "checked": "2026-10-12"
     },
@@ -431,17 +443,18 @@
       "business_unit": "Finance",
       "scope": "Bank",
       "appointed": "2024-03",
-      "appointed_note": "",
-      "previous_roles": "CFO for Citibank entities in the UAE (incl. DIFC and ADGM) and Turkey; board of Citi Islamic Investment Bank (Bahrain); Executive Director, Citi Qatar (official bio).",
-      "education": "Degree in Economics, Istanbul University",
+      "appointed_note": "March 2024 (CG Report 2025, S5 p.20); profile page 'Appointed 2024' (S11). The bank's appointment release was announced as 'Group Chief Financial Officer' (title seen in search results); the page returned an empty response.",
+      "previous_roles": "2024– Chief Financial Officer, Ajman Bank; CFO for all Citibank legal entities in the UAE (onshore, DIFC and ADGM); earlier CFO, Citibank Turkey; board member, Citi Islamic Investment Bank (Bahrain); Executive Director, Citi Qatar; earlier Citi business and product roles (strategic planning, partnerships and alliances, sales, relationship and product management); years not given (S11). Current other roles: Director, Skyrise Properties (S5).",
+      "education": "Bachelor's degree in Economics, Istanbul University",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive list checked 2026-10-12 (S6); CG Report 2025 (S5).",
+      "role_evidence": "Official executive roster and profile checked 2026-10-12 (S6, S11); CG Report 2025 biography (S5 p.20).",
       "source_ids": [
         "S6",
-        "S5"
+        "S5",
+        "S11"
       ],
       "checked": "2026-10-12"
     },
@@ -456,17 +469,18 @@
       "business_unit": "Treasury & Capital Markets",
       "scope": "Bank",
       "appointed": "2024-04",
-      "appointed_note": "Treasury & Capital Markets runs the sukuk trading platform, third-party funds and investment advisory for wealth clients (S14, S16, S18); his own remit over these is not documented.",
-      "previous_roles": "Senior treasury roles at Commercial Bank of Dubai, First Gulf Bank, ADCB and National Bank of Dubai (CG Report 2025).",
-      "education": "BSc Economics, University of Southampton",
+      "appointed_note": "April 2024 (CG Report 2025, S5 p.21); profile page 'Appointed 2024' (S12). Treasury & Capital Markets runs the sukuk trading platform, third-party funds and investment advisory for wealth clients (S14, S16, S18); the CG Report gives him 'executive oversight of Global Markets and treasury platforms'. Full name Adrian P. L. Hodges.",
+      "previous_roles": "2024– Treasurer, Ajman Bank (liquidity and funding, capital markets access, proprietary investment portfolios, asset-liability governance; executive oversight of Global Markets and treasury platforms); Head of Global Markets Solutions, Commercial Bank of Dubai; earlier senior treasury and global markets roles at First Gulf Bank, ADCB and National Bank of Dubai, with a career across the Middle East, Asia and Australia (years not given) (S5, S12).",
+      "education": "BSc Economics, University of Southampton, UK; Strategic ALM, London Financial Studies; leadership training, INSEAD Singapore",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive list checked 2026-10-12 (S6); CG Report 2025 (S5).",
+      "role_evidence": "Official executive roster and profile checked 2026-10-12 (S6, S12); CG Report 2025 biography (S5 p.21).",
       "source_ids": [
         "S6",
-        "S5"
+        "S5",
+        "S12"
       ],
       "checked": "2026-10-12"
     },
@@ -481,18 +495,19 @@
       "business_unit": "Wholesale Banking",
       "scope": "Bank",
       "appointed": "2024-03",
-      "appointed_note": "The wholesale segment includes 'investment solutions, wealth management' per the segment note (S1).",
-      "previous_roles": "Head of Corporate Finance and Investment Banking, Abu Dhabi Islamic Bank; DIB Capital; Head of Capital Markets and Syndicated Loans, Dubai Islamic Bank; Standard Chartered, United Bank Limited, Grant Thornton, MCB Bank (official bio).",
-      "education": "Bachelor of Commerce; MBA",
+      "appointed_note": "March 2024 (CG Report 2025, S5 p.22); profile page 'Appointed 2024' (S30). The wholesale segment includes 'investment solutions, wealth management' per the segment note (S1).",
+      "previous_roles": "2024– Head of Wholesale Banking, Ajman Bank (corporate and institutional banking, structured finance, trade finance, capital markets); Head of Corporate Finance and Investment Banking, Abu Dhabi Islamic Bank; DIB Capital (Dubai Islamic Bank subsidiary); Head of Capital Markets and Syndicated Loans, Dubai Islamic Bank; earlier Standard Chartered Bank, United Bank Limited, Grant Thornton and MCB Bank Limited (years not given) (S30). Current other roles: Director, Skyrise Properties (S5).",
+      "education": "Bachelor of Commerce (profile: 'SM University, Pakistan'); MBA, Institute of Business Administration, Pakistan (CG Report 2025)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive list checked 2026-10-12 (S6); quoted in AB ONE CORP release, Aug 2026 (S24).",
+      "role_evidence": "Official executive roster and profile checked 2026-10-12 (S6, S30); CG Report 2025 biography (S5 p.22); quoted in the AB ONE CORP release, Aug 2026 (S24).",
       "source_ids": [
         "S6",
         "S5",
-        "S24"
+        "S24",
+        "S30"
       ],
       "checked": "2026-10-12"
     },
@@ -504,19 +519,21 @@
         "Strategy"
       ],
       "entity": "Ajman Bank PJSC",
-      "business_unit": "CEO Office / EPMO",
+      "business_unit": "CEO Office / Enterprise PMO & ESG",
       "scope": "Bank",
-      "appointed": "2023-05",
-      "appointed_note": "Joined May 2023 as Head of Corporate Governance; profile says he reports to the CEO and oversees transformation management and strategy execution.",
-      "previous_roles": "Director at a large global consulting firm (financial services advisory, governance and regulatory compliance) (official bio).",
-      "education": "MS (UK) and MBA; sustainable investing specialisation, Harvard",
-      "qualifications": "CGS, PMP, CAMS",
+      "appointed": "2024-11",
+      "appointed_note": "Appointed Head of Enterprise PMO & ESG in November 2024 (CG Report 2025, S5 p.27); joined Ajman Bank in May 2023 as Head of Corporate Governance (S31). Profile says he reports directly to the CEO.",
+      "previous_roles": "2024– Head of Enterprise Project Management Office & ESG, Ajman Bank (executive monitoring, transformation management, bank-wide project execution, strategy implementation, ESG; business management for the CEO's office); 2023–2024 Head of Corporate Governance, Ajman Bank (set up the Corporate Governance division); before 2023 Director leading the financial services advisory practice (corporate governance and regulatory compliance, Middle East) at a large global consulting firm (not named) (S31).",
+      "education": "MSc Finance, Leeds Beckett University, UK; MBA Finance, University of Karachi (CG Report 2025); specialisation in sustainable investing, Harvard University (profile)",
+      "qualifications": "Certified Corporate Governance Specialist (CGS); Project Management Professional (PMP); Certified Anti-Money Laundering Specialist (CAMS)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official executive list checked 2026-10-12 (S6).",
+      "role_evidence": "Official executive roster and profile checked 2026-10-12 (S6, S31); CG Report 2025 biography (S5 p.27).",
       "source_ids": [
-        "S6"
+        "S6",
+        "S5",
+        "S31"
       ],
       "checked": "2026-10-12"
     }
@@ -1084,6 +1101,108 @@
       "published": "2026-01",
       "accessed": "2026-10-12",
       "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Faizal Kundil — Head of Consumer Banking (profile)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/team/faizal-kundil",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page still live on 2026-10-12 but no longer linked from the executive roster on the About Us page (S6), which lists Walid Tawfiq as Acting Head of Consumer Banking."
+    },
+    {
+      "id": "S11",
+      "title": "Ediz Ozsoy — Chief Financial Officer (profile)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/team/ediz-ozsoy",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Adrian Hodges — Treasurer (profile)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/team/adrian-p-l-hodges",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "Kashif Raza — Head of Wholesale Banking (profile)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/team/kashif-raza",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "Zohaib Ali Zahid — Head of Enterprise Project Management Office & ESG (profile)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/team/zohaib-ali-zahid",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S32",
+      "title": "Ajman Bank Appoints Mustafa Mohammed Saeed Al Khalfawi as CEO",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/newsdetail/ajman-bank-appoints-mustafa-mohammed-saeed-al-khalfawi-as-ceo",
+      "doc_type": "Press release — CEO appointment",
+      "tier": 2,
+      "published": "2023-07-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S33",
+      "title": "Ajman Bank appoints Dr. Joseph George as Chief Technology Officer",
+      "publisher": "Zawya (Ajman Bank press release)",
+      "url": "https://www.zawya.com/en/press-release/people-in-the-news/ajman-bank-appoints-dr-joseph-george-as-chief-technology-officer-vydjva2a",
+      "doc_type": "News — republished press release",
+      "tier": 5,
+      "published": "2026-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S34",
+      "title": "Ajman Bank appoints head of fintech and AI",
+      "publisher": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/105788/ajman-bank-appoints-head-of-fintech-and-ai",
+      "doc_type": "News — republished press release",
+      "tier": 5,
+      "published": "2025-04",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (page returned HTTP 403). Snippet: Tahir Turksoy appointed Head of Fintech & AI within the Consumer Banking Division effective 7 Apr 2025, reporting to Faizal Kundil."
+    },
+    {
+      "id": "S35",
+      "title": "عمار بن حميد يترأس اجتماع مجلس إدارة مصرف عجمان (Ammar bin Humaid chairs Ajman Bank board meeting)",
+      "publisher": "Emirates News Agency (WAM)",
+      "url": "https://www.wam.ae/ar/article/bkt8090-عمار-بن-حميد-يترأس-اجتماع-مجلس-إدارة-مصرف-عجمان",
+      "doc_type": "News agency report",
+      "tier": 5,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "ar",
+      "note": "Seen in search results only: the page is script-rendered and returned only its title to the fetch tool. Search snippet: H.H. Sheikh Ammar bin Humaid Al Nuaimi chaired the Ajman Bank board meeting (Q1 2026 results) attended by CEO Mustafa Al Khalfawi."
     }
   ],
   "original_reconciliation": [],
@@ -1111,11 +1230,13 @@
     },
     {
       "field": "Head of Consumer Banking",
-      "detail": "CG Report 2025 names Faizal Kundil (from Jan 2021); the current website lists Walid Tawfiq as Acting Head of Consumer Banking.",
-      "resolution": "Walid Tawfiq recorded as current; Faizal Kundil 'Requires verification'.",
+      "detail": "CG Report 2025 (published 2026) names Faizal Kundil as Head of Consumer Banking (from Jan 2021) and his profile page is still live; the current executive roster on the About Us page lists Walid Tawfiq as Acting Head of Consumer Banking and omits Kundil. The Apr 2025 Head of Fintech & AI release still had Kundil in post.",
+      "resolution": "Walid Tawfiq recorded as current (acting, 2026 start date unknown); Faizal Kundil kept with role_status 'Conflicting sources' until an announcement is found.",
       "source_ids": [
         "S5",
-        "S6"
+        "S6",
+        "S10",
+        "S34"
       ]
     },
     {
@@ -1126,15 +1247,27 @@
         "S9",
         "S5"
       ]
+    },
+    {
+      "field": "Kashif Raza MBA institution",
+      "detail": "Profile page (S30): 'MBA from Business School, Pakistan'; CG Report 2025 (S5 p.22): 'MBA, Institute of Business Administration, Pakistan'.",
+      "source_ids": [
+        "S30",
+        "S5"
+      ],
+      "resolution": "CG Report wording used (more specific, tier 1)."
     }
   ],
   "open_items": [
-    "WebSearch quota exhausted: no news search for 2025–2026 appointments/departures (e.g. date of Walid Tawfiq's appointment and Faizal Kundil's exit), or merger talks; none indicated in official sources.",
-    "LinkedIn checks not performed (search quota exhausted) for CEO, Acting Head of Consumer Banking and COO.",
+    "People pass X11 (2026-10-12): role-based WebSearch checks run in English and Arabic for 2025-2026 appointments and departures. Only 2026 appointment found: Dr Joseph George as Chief Technology Officer effective 4 Feb 2026, reporting to the COO (S33); he is not on the official executive roster and was not added. No announcement found for Walid Tawfiq's acting appointment or Faizal Kundil's status. No merger or change-of-control news.",
+    "LinkedIn not checked for any Ajman Bank person: the search tool declines name-based look-ups and the official site carries no profile links.",
     "Integrated Annual Report 2025 link on the IR page returned HTTP 404; Wealth Management Account KFS link also returned 404, so the wealth tier threshold is unknown.",
     "No named Head of Wealth Management or Head of Treasury & Capital Markets investment sales found.",
     "Q3 2026 results not yet published at 2026-10-12.",
-    "Fund platform/custody provider for the funds and sukuk platform not named."
+    "Fund platform/custody provider for the funds and sukuk platform not named.",
+    "Board: appointment dates of the Chairman and Vice Chairman are not published; the CG Report 2025 only states that the board was re-elected at the April 2024 AGM for a three-year term (S5 p.63). The other five directors (Al Hosani, Al Mazroei, Galadari, Al Hashimi, Aljarman; bios in S5 pp.10-14) are not profiled in this file.",
+    "Tahir Turksoy was appointed Head of Fintech & AI within Consumer Banking from 7 Apr 2025, reporting to Faizal Kundil (S34, Finextra, seen in search results only; page 403). Not on the official executive roster; not added.",
+    "The bank's CFO appointment release page (ajmanbank.ae/site/newsdetail/ajman-bank-appoints-group-chief-financial-officer) returned an empty response; the exact 2024 announcement date was not captured. WAM 2026 board-meeting articles are script-rendered and return no text (S35)."
   ],
   "research_status": "Complete",
   "researched_by": "B05",

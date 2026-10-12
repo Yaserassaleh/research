@@ -12,100 +12,907 @@
   "type": "Islamic commercial bank",
   "model": "Islamic",
   "founded": "1982 (incorporated 8 July 1982 under Emiri Decree No. 45 of 1982; operations began 1983; first Islamic financial institution in Qatar)",
-  "regulators": ["QCB", "QFMA (QSE-listed issuer)"],
+  "regulators": [
+    "QCB",
+    "QFMA (QSE-listed issuer)"
+  ],
   "listed": true,
   "exchange": "QSE",
   "ticker": "QIBK",
   "parent_id": null,
   "ownership_summary": "QSE-listed. At FY2025 (Annual Report 2025 governance disclosures) Qatar Investment Authority owned 16.67% and Sheikh Hamad bin Jassim bin Jabr Al Thani more than 6.54%; government ownership was 21.58%; 9,390 shareholders; Qatari holders 81.45%. The June 2026 results presentation shows QH (QIA) 16.4%, other domestic 65.2% and foreign 18.4% as at 30 Jun 2026.",
   "shareholders": [
-    {"holder": "Qatar Investment Authority", "pct": 16.67, "as_of": "2025-12-31", "source_ids": ["S6"]},
-    {"holder": "Sheikh Hamad bin Jassim bin Jabr Al Thani", "pct": 6.54, "as_of": "2025-12-31", "source_ids": ["S6"]},
-    {"holder": "Qatar Holding (QIA)", "pct": 16.4, "as_of": "2026-06-30", "source_ids": ["S7"]}
+    {
+      "holder": "Qatar Investment Authority",
+      "pct": 16.67,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "holder": "Sheikh Hamad bin Jassim bin Jabr Al Thani",
+      "pct": 6.54,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "holder": "Qatar Holding (QIA)",
+      "pct": 16.4,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S7"
+      ]
+    }
   ],
   "government_link": "Yes - Qatar Investment Authority is the largest shareholder (16.67% at FY2025; 16.4% via QH at 30 Jun 2026); total government ownership 21.58% (Annual Report 2025, p.39). The bank cites 'strong Government support with the QIA as its largest shareholder' (results presentation).",
   "group_structure": "Qatar Islamic Bank (Q.P.S.C.) is the QSE-listed parent. Consolidated subsidiaries (30 Jun 2026): QIB (UK) (99.71%, London, 'investment banking' - real estate finance and private banking), Arab Finance House (Lebanon, 99.99%), Aqar Real Estate Development and Investment (49%, controlled via board majority), Durat Al Doha Real Estate (82.61%), QIB Sukuk Ltd (100%), QIB Solutions LLC (100%, IT services). Overseas branch: QIB Sudan. Associates: QInvest LLC (49%, investment bank licensed by QFCRA; reclassified from 65.62% subsidiary to associate in 2025 after a partial stake sale; profiled separately as qa-qinvest - its AUM, people and capabilities belong in that file and are equity-accounted here, so do not add), Al Jazeera Finance (30%), Damaan Islamic Insurance (18.75% at FY2025), Bawabat Al Shamal Real Estate (25%).",
   "subsidiaries": [
-    {"name": "QIB (UK) plc", "pct": 99.71, "activity": "Islamic investment banking, real estate finance and private banking (United Kingdom)", "linked_id": null, "source_ids": ["S3", "S8", "S17"]},
-    {"name": "QInvest LLC (associate)", "pct": 49.0, "activity": "Islamic investment bank / asset management (QFC) - associate since 2025", "linked_id": "qa-qinvest", "source_ids": ["S4", "S8"]},
-    {"name": "Arab Finance House S.A.L.", "pct": 99.99, "activity": "Islamic banking (Lebanon)", "linked_id": null, "source_ids": ["S3", "S8"]},
-    {"name": "Aqar Real Estate Development and Investment Company W.L.L.", "pct": 49, "activity": "Real estate investment (Qatar) - consolidated via board control", "linked_id": null, "source_ids": ["S3"]},
-    {"name": "Durat Al Doha Real Estate Investment and Development W.L.L.", "pct": 82.61, "activity": "Real estate investment (Qatar)", "linked_id": null, "source_ids": ["S3"]},
-    {"name": "QIB Sukuk Ltd", "pct": 100, "activity": "Sukuk issuance vehicle (Cayman Islands)", "linked_id": null, "source_ids": ["S3"]},
-    {"name": "QIB Solutions LLC", "pct": 100, "activity": "IT services and operations (Qatar)", "linked_id": null, "source_ids": ["S3"]},
-    {"name": "Al Jazeera Finance Company (associate)", "pct": 30.0, "activity": "Financing (Qatar) - associate", "linked_id": null, "source_ids": ["S4", "S8"]},
-    {"name": "Damaan Islamic Insurance Company (Q.P.S.C.) (associate)", "pct": 18.75, "activity": "Takaful insurance (Qatar) - associate", "linked_id": null, "source_ids": ["S4"]},
-    {"name": "Bawabat Al Shamal Real Estate Company W.L.L. (associate)", "pct": 25.0, "activity": "Real estate (Doha Festival City) - associate", "linked_id": null, "source_ids": ["S4", "S8"]}
+    {
+      "name": "QIB (UK) plc",
+      "pct": 99.71,
+      "activity": "Islamic investment banking, real estate finance and private banking (United Kingdom)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S8",
+        "S17"
+      ]
+    },
+    {
+      "name": "QInvest LLC (associate)",
+      "pct": 49.0,
+      "activity": "Islamic investment bank / asset management (QFC) - associate since 2025",
+      "linked_id": "qa-qinvest",
+      "source_ids": [
+        "S4",
+        "S8"
+      ]
+    },
+    {
+      "name": "Arab Finance House S.A.L.",
+      "pct": 99.99,
+      "activity": "Islamic banking (Lebanon)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S8"
+      ]
+    },
+    {
+      "name": "Aqar Real Estate Development and Investment Company W.L.L.",
+      "pct": 49,
+      "activity": "Real estate investment (Qatar) - consolidated via board control",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Durat Al Doha Real Estate Investment and Development W.L.L.",
+      "pct": 82.61,
+      "activity": "Real estate investment (Qatar)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "QIB Sukuk Ltd",
+      "pct": 100,
+      "activity": "Sukuk issuance vehicle (Cayman Islands)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "QIB Solutions LLC",
+      "pct": 100,
+      "activity": "IT services and operations (Qatar)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Al Jazeera Finance Company (associate)",
+      "pct": 30.0,
+      "activity": "Financing (Qatar) - associate",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S8"
+      ]
+    },
+    {
+      "name": "Damaan Islamic Insurance Company (Q.P.S.C.) (associate)",
+      "pct": 18.75,
+      "activity": "Takaful insurance (Qatar) - associate",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Bawabat Al Shamal Real Estate Company W.L.L. (associate)",
+      "pct": 25.0,
+      "activity": "Real estate (Doha Festival City) - associate",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S8"
+      ]
+    }
   ],
   "footprint": "Qatar-centric: 22 branches in Qatar plus one branch in Sudan (30 Jun 2026 interim statements note 1); results presentation: 22 branches and offices and over 191 ATMs/CDMs in Qatar at 30 Jun 2026. International presence through QIB UK (London), Arab Finance House (Beirut) and QIB Sudan (Khartoum). Head office moved to QIB Towers, West Bay, in 2025. Second-largest bank in Qatar by total assets, financing and net profit; ~38% of listed Islamic banks' assets in Qatar (results presentation, June 2026).",
   "customer_segments": "Personal banking tiers: Essential Banking (mass), Tamayuz Banking (affluent; QAR 350k deposit or QAR 50k salary), Private Banking (by invitation/referral, HNW); youth (QIB Junior), domestic workers (QIB Lite app), university students, payroll; SME; corporate/wholesale and government; international real-estate and private-banking clients via QIB UK.",
   "business_lines": "Four reporting segments: Corporate banking, Personal banking, Group function (treasury, investment, finance), Local & international subsidiaries. Personal banking: accounts and deposits (Misk prize account, Flexi CD), personal/home/vehicle financing, cards, takaful (bancatakaful savings plans), Tamayuz and Private Banking with wealth and investment advisory, and in-app QSE stock trading via partner broker The Group Securities. Wholesale banking: corporate finance, trade, transaction banking, alternative financing. Treasury and sukuk investments. In H1 2026 Personal banking generated QAR 1,260.7m net financing/investing income and QAR 248.2m net fees (segment note).",
   "metrics": [
-    {"metric": "total_assets", "value": 234046164, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "TOTAL ASSETS, interim consolidated statement of financial position (reviewed, Deloitte, 20 Jul 2026)", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.4 (scanned page, read visually)", "note": "Release rounds to QAR 234bn (S5)."},
-    {"metric": "total_assets", "value": 221050778, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "TOTAL ASSETS, consolidated statement of financial position (audited)", "status": "Verified", "source_ids": ["S3", "S4"], "locator": "S3 PDF p.4 comparative column", "note": ""},
-    {"metric": "customer_deposits", "value": 148280301, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Customers' current accounts (QAR 18,773,304k) plus participatory investment accounts including share in reserve attributable to quasi-equity (QAR 129,506,997k; term 102.2bn, saving 22.9bn, call 4.3bn, all unrestricted). Excludes due to banks and sukuk financing.", "status": "Verified", "source_ids": ["S3", "S5"], "locator": "S3 PDF p.4 and note 8 (PDF p.23)", "note": "Sum computed from statement lines; equals the release's 'Customer deposits QAR 148.3 Billion' (S5), which gives no definition."},
-    {"metric": "customer_deposits", "value": 142726624, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Customers' current accounts (QAR 17,219,483k) plus participatory investment accounts incl. reserve share (QAR 125,507,141k)", "status": "Verified", "source_ids": ["S3", "S9"], "locator": "S3 PDF p.4 comparative column", "note": "Computed; matches 'QAR 142.7 billion customer deposits' on About page (S9)."},
-    {"metric": "net_loans", "value": 156414437, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Financing assets (net of deferred profit and ECL; Islamic financing), interim statement of financial position", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.4", "note": "Release: QAR 156.4bn. NPF ratio 1.49%."},
-    {"metric": "net_loans", "value": 138481616, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Financing assets (net), statement of financial position (audited)", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.4 comparative column", "note": ""},
-    {"metric": "investment_securities", "value": 60426151, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Investment securities on the bank's own balance sheet (not client assets / not AUM)", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.4", "note": "Release: QAR 60.4bn."},
-    {"metric": "total_equity", "value": 34746539, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "TOTAL EQUITY incl. QAR 4bn sukuk eligible as additional capital and non-controlling interests; excludes quasi-equity (participatory investment accounts)", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.4", "note": "Equity attributable to equity holders of the bank QAR 30,621,694k (release: QAR 30.6bn)."},
-    {"metric": "operating_income", "value": 11367277, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Group consolidated", "definition": "'Total income', consolidated statement of income: net financing and investing income after sukuk holders' share, net fees, FX, share of associates and other income; before deducting profit attributable to quasi-equity holders (QAR 4,728,018k)", "status": "Verified", "source_ids": ["S4"], "locator": "PDF p.9", "note": "Islamic-bank presentation: depositors' (quasi-equity) share is deducted below total income."},
-    {"metric": "operating_income", "value": 5637058, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Group consolidated", "definition": "'Total income', interim statement of income (before quasi-equity holders' share of QAR 2,192,822k)", "status": "Verified", "source_ids": ["S3", "S5"], "locator": "S3 PDF p.5", "note": ""},
-    {"metric": "net_profit", "value": 4835114, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Group consolidated", "definition": "Net profit for the year attributable to equity holders of the Bank", "status": "Verified", "source_ids": ["S4", "S9"], "locator": "S4 PDF p.9", "note": "Total net profit QAR 4,830,181k incl. NCI."},
-    {"metric": "net_profit", "value": 2225320, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Group consolidated", "definition": "Net profit for the period attributable to equity holders of the Bank", "status": "Verified", "source_ids": ["S3", "S5"], "locator": "S3 PDF p.5", "note": "Release: QAR 2,225.3m, +2.3% YoY."},
-    {"metric": "off_balance_sheet_aum", "value": 10520, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Bank: off-balance sheet assets under management (FAS 46)", "definition": "'Off-balance sheet assets under management' line in the statement of financial position (funds managed on behalf of investors outside the balance sheet). Unchanged at QAR 10,520k at 31 Dec 2025 and 30 Jun 2025.", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.4", "note": "Not a measure of the wealth franchise; recorded under its own key so it is not read as wealth AUM."},
-    {"metric": "branches", "value": 22, "unit": "unit", "currency": null, "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Bank - Qatar", "definition": "Branches in Qatar (plus one branch in Sudan)", "status": "Verified", "source_ids": ["S3", "S7"], "locator": "S3 note 1 (PDF p.11); S7 p.4", "note": "S7: '22 branches and offices and over 191 ATMs and CDMs in Qatar'."}
+    {
+      "metric": "total_assets",
+      "value": 234046164,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "TOTAL ASSETS, interim consolidated statement of financial position (reviewed, Deloitte, 20 Jul 2026)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "PDF p.4 (scanned page, read visually)",
+      "note": "Release rounds to QAR 234bn (S5)."
+    },
+    {
+      "metric": "total_assets",
+      "value": 221050778,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "TOTAL ASSETS, consolidated statement of financial position (audited)",
+      "status": "Verified",
+      "source_ids": [
+        "S3",
+        "S4"
+      ],
+      "locator": "S3 PDF p.4 comparative column",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 148280301,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' current accounts (QAR 18,773,304k) plus participatory investment accounts including share in reserve attributable to quasi-equity (QAR 129,506,997k; term 102.2bn, saving 22.9bn, call 4.3bn, all unrestricted). Excludes due to banks and sukuk financing.",
+      "status": "Verified",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "locator": "S3 PDF p.4 and note 8 (PDF p.23)",
+      "note": "Sum computed from statement lines; equals the release's 'Customer deposits QAR 148.3 Billion' (S5), which gives no definition."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 142726624,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' current accounts (QAR 17,219,483k) plus participatory investment accounts incl. reserve share (QAR 125,507,141k)",
+      "status": "Verified",
+      "source_ids": [
+        "S3",
+        "S9"
+      ],
+      "locator": "S3 PDF p.4 comparative column",
+      "note": "Computed; matches 'QAR 142.7 billion customer deposits' on About page (S9)."
+    },
+    {
+      "metric": "net_loans",
+      "value": 156414437,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Financing assets (net of deferred profit and ECL; Islamic financing), interim statement of financial position",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "PDF p.4",
+      "note": "Release: QAR 156.4bn. NPF ratio 1.49%."
+    },
+    {
+      "metric": "net_loans",
+      "value": 138481616,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Financing assets (net), statement of financial position (audited)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "PDF p.4 comparative column",
+      "note": ""
+    },
+    {
+      "metric": "investment_securities",
+      "value": 60426151,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Investment securities on the bank's own balance sheet (not client assets / not AUM)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "PDF p.4",
+      "note": "Release: QAR 60.4bn."
+    },
+    {
+      "metric": "total_equity",
+      "value": 34746539,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "TOTAL EQUITY incl. QAR 4bn sukuk eligible as additional capital and non-controlling interests; excludes quasi-equity (participatory investment accounts)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "PDF p.4",
+      "note": "Equity attributable to equity holders of the bank QAR 30,621,694k (release: QAR 30.6bn)."
+    },
+    {
+      "metric": "operating_income",
+      "value": 11367277,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total income', consolidated statement of income: net financing and investing income after sukuk holders' share, net fees, FX, share of associates and other income; before deducting profit attributable to quasi-equity holders (QAR 4,728,018k)",
+      "status": "Verified",
+      "source_ids": [
+        "S4"
+      ],
+      "locator": "PDF p.9",
+      "note": "Islamic-bank presentation: depositors' (quasi-equity) share is deducted below total income."
+    },
+    {
+      "metric": "operating_income",
+      "value": 5637058,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total income', interim statement of income (before quasi-equity holders' share of QAR 2,192,822k)",
+      "status": "Verified",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "locator": "S3 PDF p.5",
+      "note": ""
+    },
+    {
+      "metric": "net_profit",
+      "value": 4835114,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit for the year attributable to equity holders of the Bank",
+      "status": "Verified",
+      "source_ids": [
+        "S4",
+        "S9"
+      ],
+      "locator": "S4 PDF p.9",
+      "note": "Total net profit QAR 4,830,181k incl. NCI."
+    },
+    {
+      "metric": "net_profit",
+      "value": 2225320,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit for the period attributable to equity holders of the Bank",
+      "status": "Verified",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "locator": "S3 PDF p.5",
+      "note": "Release: QAR 2,225.3m, +2.3% YoY."
+    },
+    {
+      "metric": "off_balance_sheet_aum",
+      "value": 10520,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank: off-balance sheet assets under management (FAS 46)",
+      "definition": "'Off-balance sheet assets under management' line in the statement of financial position (funds managed on behalf of investors outside the balance sheet). Unchanged at QAR 10,520k at 31 Dec 2025 and 30 Jun 2025.",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "PDF p.4",
+      "note": "Not a measure of the wealth franchise; recorded under its own key so it is not read as wealth AUM."
+    },
+    {
+      "metric": "branches",
+      "value": 22,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank - Qatar",
+      "definition": "Branches in Qatar (plus one branch in Sudan)",
+      "status": "Verified",
+      "source_ids": [
+        "S3",
+        "S7"
+      ],
+      "locator": "S3 note 1 (PDF p.11); S7 p.4",
+      "note": "S7: '22 branches and offices and over 191 ATMs and CDMs in Qatar'."
+    }
   ],
   "disclosure_checks": [
-    {"metric": "aum", "status": "Not publicly disclosed", "where_checked": "No wealth or private-banking AUM found. Checked: H1 2026 interim statements (S3); FY2025 statements (S4); H1 2026 release (S5); Annual Report 2025 (S6); June 2026 results presentation (S7); Private Banking and Euromoney award pages (S10, S14). The only 'AUM' line is off-balance-sheet AUM of QAR 10.5m (recorded as off_balance_sheet_aum). QInvest AUM belongs to qa-qinvest."},
-    {"metric": "customers", "status": "Not found after research", "where_checked": "Annual Report 2025 (S6), results presentation (S7), H1 release (S5), About page (S9). The Annual Report gives only growth rates (mobile banking users +12% in 2025)."},
-    {"metric": "investing_users", "status": "Not publicly disclosed", "where_checked": "Brokerage service page (S12), mobile app page (S13), Annual Report 2025 (S6)."},
-    {"metric": "wealth_client_assets", "status": "Not publicly disclosed", "where_checked": "Private Banking page (S10), Tamayuz page (S11), Euromoney award release (S14), Annual Report 2025 (S6), results presentation (S7)."},
-    {"metric": "employees", "status": "Not found after research", "where_checked": "Annual Report 2025 human capital and governance sections (S6); results presentation (S7)."}
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "No wealth or private-banking AUM found. Checked: H1 2026 interim statements (S3); FY2025 statements (S4); H1 2026 release (S5); Annual Report 2025 (S6); June 2026 results presentation (S7); Private Banking and Euromoney award pages (S10, S14). The only 'AUM' line is off-balance-sheet AUM of QAR 10.5m (recorded as off_balance_sheet_aum). QInvest AUM belongs to qa-qinvest."
+    },
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "Annual Report 2025 (S6), results presentation (S7), H1 release (S5), About page (S9). The Annual Report gives only growth rates (mobile banking users +12% in 2025)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "Brokerage service page (S12), mobile app page (S13), Annual Report 2025 (S6)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Private Banking page (S10), Tamayuz page (S11), Euromoney award release (S14), Annual Report 2025 (S6), results presentation (S7)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "Annual Report 2025 human capital and governance sections (S6); results presentation (S7)."
+    }
   ],
   "people": [
-    {"name": "Sheikh Jassim Bin Hamad Bin Jassim Bin Jaber Al Thani", "name_ar": null, "title": "Chairman (Non-Executive & Non-Independent)", "functions": ["Chair", "Board"], "entity": "Qatar Islamic Bank (Q.P.S.C.)", "business_unit": "Board of Directors", "scope": "Group", "appointed": "2005-04", "appointed_note": "Board member since June 2004; Chairman since April 2005 (S2).", "previous_roles": "Board of Credit Suisse Group AG and Credit Suisse AG, Apr 2010-Apr 2017; Chairman of QInvest, Qatar Navigation (Milaha) and Damaan Islamic Insurance (BEEMA); Vice Chairman of QTerminals (S2).", "education": "Graduate of the Royal Military Academy Sandhurst, UK (S2)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Board of Directors page checked 2026-10-12 (S2); signed the 30 Jun 2026 interim statements as Chairman (S3).", "source_ids": ["S2", "S3"], "checked": "2026-10-12"},
-    {"name": "Bassel Gamal", "name_ar": null, "title": "Group Chief Executive Officer", "functions": ["Group CEO"], "entity": "Qatar Islamic Bank (Q.P.S.C.)", "business_unit": "Group", "scope": "Group", "appointed": "2013-02", "appointed_note": "Group CEO since February 2013 (S1).", "previous_roles": "Commercial International Bank (Chase National Bank), Egypt, from 1990 for over a decade; Ahli United Bank Group, Bahrain, from 2001, last role Senior Deputy Group CEO - Banking Group (incl. private banking and wealth management across eight countries); Ahli Bank Qatar Deputy CEO 2004-2006, CEO 2006-early 2009; currently Chairman of QIB-UK and board member of QInvest (S1).", "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); signed 30 Jun 2026 interim statements (S3); Annual Report 2025 executive team (S6). No departure news in 2025-2026 searches.", "source_ids": ["S1", "S3", "S6"], "checked": "2026-10-12"},
-    {"name": "Dorai Anand", "name_ar": null, "title": "General Manager - Personal Banking Group", "functions": ["Retail", "Affluent", "Private banking", "Wealth"], "entity": "Qatar Islamic Bank (Q.P.S.C.)", "business_unit": "Personal Banking Group (Tamayuz and Private Banking; Annual Report 2025 org chart places Wealth Management under the Chief Personal & Private Banking Officer)", "scope": "Group", "appointed": null, "appointed_note": "Joined QIB in 2011 (S1). Annual Report 2025 lists him as 'Chief Personal Banking Officer' (S6).", "previous_roles": "Citibank (12 years); Al Rajhi Bank (8 years); joined QIB 2011 (S1). Official spokesperson for Private Banking (Euromoney award, Apr 2026) and for mobile app launches (Sep 2026) (S14, S15).", "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); quoted with this title on 6 Sep 2026 (S15) and 12 Apr 2026 (S14).", "source_ids": ["S1", "S6", "S14", "S15"], "checked": "2026-10-12"},
-    {"name": "Constantinos Constantinides", "name_ar": null, "title": "Chief Strategy & Digital Officer", "functions": ["Strategy", "Digital", "Innovation / partnerships"], "entity": "Qatar Islamic Bank (Q.P.S.C.)", "business_unit": "Strategy & Digital", "scope": "Group", "appointed": "2012", "appointed_note": "Joined 2012 as Chief Strategy Officer; managing the digital transformation since early 2018 (S1).", "previous_roles": "Al Rajhi Bank: General Manager of Strategy (business development and international expansion) and earlier Deputy GM, Retail Banking Group; management consultant at Accenture for European banks (S1).", "education": "MBA in International Strategy, University of Birmingham (S1)", "qualifications": null, "linkedin_url": "https://qa.linkedin.com/in/constantinos-constantinides-25b5082", "linkedin_status": "Verified (profile/search match)", "role_status": "Verified current", "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); Annual Report 2025 executive team (S6).", "source_ids": ["S1", "S6"], "checked": "2026-10-12"},
-    {"name": "Tarek Youssef Fawzi", "name_ar": null, "title": "General Manager - Wholesale Banking Group", "functions": ["Corporate / wholesale"], "entity": "Qatar Islamic Bank (Q.P.S.C.)", "business_unit": "Wholesale Banking Group", "scope": "Group", "appointed": "2014-09", "appointed_note": "Joined Sep 2014 as GM - Wholesale Banking Group; GM - Wholesale Banking Group and International from 2016 (S1). Annual Report 2025: 'Chief Wholesale Banking Officer' (S6).", "previous_roles": "37+ years in corporate banking, investment and treasury across Egypt, Kuwait, KSA, Oman, UAE and Qatar; led wholesale digital transformation at QIB (S1).", "education": "Bachelor's in Economics and Business Administration, The American University in Cairo (S1)", "qualifications": null, "linkedin_url": "https://qa.linkedin.com/in/tarek-fawzi-91250a49", "linkedin_status": "Verified (profile/search match)", "role_status": "Verified current", "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); Annual Report 2025 (S6).", "source_ids": ["S1", "S6"], "checked": "2026-10-12"},
-    {"name": "Saleem Ul Haq", "name_ar": null, "title": "Chief Operating Officer, Operations & IT Group", "functions": ["Operations", "Technology"], "entity": "Qatar Islamic Bank (Q.P.S.C.)", "business_unit": "Operations & IT Group", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": "CEO, Africa & Gulf Bank; COO, Bank One (Mauritius); COO Cards and Payments, Absa; COO, Barclays Bank Egypt; Head of Operations Emerging Markets (Barclays); senior roles at Citibank CIB MENA, Egypt and Pakistan (S1).", "education": "MBA in Marketing of Financial Services, Institute of Business Administration, Karachi (S1)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); Annual Report 2025 (S6).", "source_ids": ["S1", "S6"], "checked": "2026-10-12"},
-    {"name": "Gourang Hemani", "name_ar": null, "title": "Chief Financial Officer", "functions": ["Finance"], "entity": "Qatar Islamic Bank (Q.P.S.C.)", "business_unit": "Finance", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": "PwC India; Standard Chartered Bank India; Banque Saudi Fransi (15 years, last role Deputy CFO) (S1).", "education": null, "qualifications": "CFA charterholder; FRM; Chartered Accountant (India) (S1)", "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); Annual Report 2025 (S6).", "source_ids": ["S1", "S6"], "checked": "2026-10-12"},
-    {"name": "Rakesh Sanghvi", "name_ar": null, "title": "Chief Risk Officer", "functions": ["Other"], "entity": "Qatar Islamic Bank (Q.P.S.C.)", "business_unit": "Risk", "scope": "Group", "appointed": "2013", "appointed_note": "Joined QIB in 2013 (S1).", "previous_roles": "Group Head of Risk Management, Ahli United Bank (Bahrain); Ernst & Young Bahrain; corporate banking in Bahrain and with Ahli Bank Qatar (S1).", "education": null, "qualifications": "FCA (Institute of Chartered Accountants of India); CISA (S1)", "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); Annual Report 2025 (S6).", "source_ids": ["S1", "S6"], "checked": "2026-10-12"},
-    {"name": "Khalefa Al Mesalam", "name_ar": null, "title": "Head of Human Capital Group", "functions": ["Other"], "entity": "Qatar Islamic Bank (Q.P.S.C.)", "business_unit": "Human Capital", "scope": "Group", "appointed": "2011", "appointed_note": "With QIB since 2011 (S1).", "previous_roles": "HSBC Qatar; Commercial Bank of Qatar; Al Khaliji Bank (last role Group Recruitment Manager) (S1).", "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Senior Management page checked 2026-10-12 (S1).", "source_ids": ["S1"], "checked": "2026-10-12"},
-    {"name": "Greg Ellison", "name_ar": null, "title": "Chief Executive Officer, QIB (UK)", "functions": ["Subsidiary CEO"], "entity": "QIB (UK) plc", "business_unit": "QIB UK", "scope": "Subsidiary: QIB (UK)", "appointed": "2026-04", "appointed_note": "Joined QIB UK in April 2026 (S17).", "previous_roles": "CEO, Alpha Bank London; CEO, Capital International Group (founded and launched Capital International Bank, a fully digital corporate bank); senior roles at Barclays Wealth incl. Head of Banking and MD of the Jersey, Guernsey and Isle of Man businesses; began career at HBOS (S17).", "education": "Degree in Business Studies, Swansea University; MBA, Henley Business School; executive diplomas from Oxford Saïd Business School and MIT (S17)", "qualifications": "Chartered Director (S17)", "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "QIB UK Senior Management page (S17) and QIB Group page (S8), checked 2026-10-12.", "source_ids": ["S17", "S8"], "checked": "2026-10-12"},
-    {"name": "Fuad Shakhshir", "name_ar": null, "title": "Chief Commercial Officer, QIB (UK) (Structured Real Estate and Private Banking teams)", "functions": ["Private banking", "Corporate / wholesale"], "entity": "QIB (UK) plc", "business_unit": "QIB UK - Structured Real Estate and Private Banking", "scope": "Subsidiary: QIB (UK)", "appointed": "2025-04", "appointed_note": "Joined May 2017 as Head of Structured Real Estate; promoted to Chief Commercial Officer April 2025 (S17).", "previous_roles": "16 years at Lloyds Banking Group, London (infrastructure, real estate, restructuring); Principal Consultant, KPMG London (S17).", "education": "MBA, Imperial College London (S17)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "QIB UK Senior Management page checked 2026-10-12 (S17).", "source_ids": ["S17"], "checked": "2026-10-12"}
+    {
+      "name": "Sheikh Jassim Bin Hamad Bin Jassim Bin Jaber Al Thani",
+      "name_ar": "الشيخ جاسم بن حمد بن جاسم بن جبر آل ثاني",
+      "title": "Chairman (Non-Executive & Non-Independent)",
+      "functions": [
+        "Chair",
+        "Board"
+      ],
+      "entity": "Qatar Islamic Bank (Q.P.S.C.)",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2005-04",
+      "appointed_note": "Board member since June 2004; Chairman since April 2005 (S2). The board was re-elected for the 2026-2028 term in March 2026 (S2; nominations closed 10 Dec 2025 per QIB release seen in search results).",
+      "previous_roles": "2005– Chairman, QIB (board member 2004–); 2010-04–2017-04 member of the boards of directors of Credit Suisse Group AG and Credit Suisse AG, Zurich. Current other roles: Chairman, QInvest; Chairman, Qatar Navigation (Milaha); Chairman, Damaan Islamic Insurance Company (BEEMA); Vice Chairman, QTerminals (S2).",
+      "education": "Graduate, Royal Military Academy Sandhurst, UK; advanced leadership training courses (S2)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Board of Directors page checked 2026-10-12 (S2), which reflects the board elected for 2026-2028; signed the FY2025 statements as Chairman on 12 Feb 2026 (S6 p.60) and the 30 Jun 2026 interim statements (S3).",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bassel Gamal",
+      "name_ar": null,
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "Qatar Islamic Bank (Q.P.S.C.)",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2013-02",
+      "appointed_note": "Group CEO since February 2013 (S1, S6 p.29).",
+      "previous_roles": "2013-02– Group Chief Executive Officer, QIB; 2006–early 2009 Chief Executive Officer, Ahli Bank Qatar; 2004–2006 Deputy CEO, Ahli Bank Qatar; 2001– Ahli United Bank Group, Bahrain, last role Senior Deputy Group CEO – Banking Group (corporate banking, retail banking, treasury & investment, private banking & wealth management and financial institutions across eight countries); 1990–c.2001 Commercial International Bank (Chase National Bank), Egypt. Current other roles: Chairman, QIB (UK); board member, QInvest (S1, S6).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); AR 2025 executive management table and biography (S6 p.29); signed the FY2025 statements on 12 Feb 2026 (S6 p.60) and the 30 Jun 2026 interim statements (S3). 2026 role-based news searches found no change (Forbes ME Top 100 CEOs 2026 and Entrepreneur ME 2026 profiles describe him as Group CEO; seen in search results). No education is published in S1 or S6. LinkedIn: no search match in the original research; not re-checked (search tool declines name look-ups).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dorai Anand",
+      "name_ar": null,
+      "title": "General Manager – Personal Banking Group",
+      "functions": [
+        "Retail",
+        "Affluent",
+        "Private banking",
+        "Wealth"
+      ],
+      "entity": "Qatar Islamic Bank (Q.P.S.C.)",
+      "business_unit": "Personal Banking Group (Tamayuz and Private Banking; the AR 2025 org chart places Wealth Management, Retail Products, Branches and Alternative Channels under the 'Chief – Personal & Private Banking Officer')",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined QIB in 2011 (S1); the date of appointment as General Manager is not published. AR 2025 lists him as 'Chief Personal Banking Officer' (S6 p.29) and its organisational structure labels the post 'Chief – Personal & Private Banking Officer' (S6 p.19).",
+      "previous_roles": "2011– Personal Banking Group, QIB (General Manager); before 2011 Al Rajhi Bank (8 years) and Citibank (12 years) in retail banking, consumer assets, customer service and operations roles (years not given) (S1, S6). Official spokesperson for Private Banking (Euromoney award, 12 Apr 2026, S14) and for mobile-app launches (6 Sep 2026, S15).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); AR 2025 executive table and biography (S6 pp.6, 29); quoted with this title on 12 Apr 2026 (S14) and 6 Sep 2026 (S15). 2026 role-based news search for a new personal/private banking head found none. No education published.",
+      "source_ids": [
+        "S1",
+        "S6",
+        "S14",
+        "S15"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Constantinos Constantinides",
+      "name_ar": null,
+      "title": "Chief Strategy & Digital Officer",
+      "functions": [
+        "Strategy",
+        "Digital",
+        "Innovation / partnerships"
+      ],
+      "entity": "Qatar Islamic Bank (Q.P.S.C.)",
+      "business_unit": "Strategy & Digital (AR 2025 org chart: strategy & innovation, data science, marketing, research, digital experience, digital banking, enterprise PMO, ESG)",
+      "scope": "Group",
+      "appointed": "2012",
+      "appointed_note": "Joined QIB in 2012 as Chief Strategy Officer; has led the digital transformation programme since early 2018, hence the current title (S1, S6 p.29).",
+      "previous_roles": "2012– Chief Strategy (and, from 2018, Digital) Officer, QIB; before 2012 General Manager of Strategy (business development and international expansion), Al Rajhi Bank; earlier Deputy General Manager, Al Rajhi Retail Banking Group; earlier management consultant, Accenture (strategic initiatives for European banks and financial institutions); years not given (S1, S6).",
+      "education": "MBA in International Strategy, University of Birmingham, UK",
+      "qualifications": null,
+      "linkedin_url": "https://qa.linkedin.com/in/constantinos-constantinides-25b5082",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); AR 2025 executive table and biography (S6 pp.6, 29). LinkedIn URL kept from the original research (marked verified there); not re-opened, no contrary evidence.",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tarek Youssef Fawzi",
+      "name_ar": null,
+      "title": "General Manager – Wholesale Banking Group",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Qatar Islamic Bank (Q.P.S.C.)",
+      "business_unit": "Wholesale Banking Group (AR 2025 org chart: 'Chief – Wholesale & Strategic Investments Banking Officer', incl. financial institutions, strategic investments, transaction banking and treasury)",
+      "scope": "Group",
+      "appointed": "2014-09",
+      "appointed_note": "Joined Sep 2014 as GM – Wholesale Banking Group; GM – Wholesale Banking Group and International from 2016 (S1). AR 2025 title: 'Chief Wholesale Banking Officer' (S6 p.29).",
+      "previous_roles": "2016– GM – Wholesale Banking Group and International, QIB; 2014-09–2016 GM – Wholesale Banking Group, QIB; before 2014 senior roles in wholesale, retail, SME, treasury, investment and country management with international and regional banks in Egypt, Kuwait, Saudi Arabia, Oman, the UAE and Qatar (employers and years not given; the official bio cites 'over 37 years' of experience) (S1, S6).",
+      "education": "Bachelor's in Economics and Business Administration, The American University in Cairo; executive education programmes (institutions not named)",
+      "qualifications": null,
+      "linkedin_url": "https://qa.linkedin.com/in/tarek-fawzi-91250a49",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); AR 2025 executive table and biography (S6 pp.6, 29). LinkedIn URL kept from the original research (matched there); not re-opened, no contrary evidence.",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saleem Ul Haq",
+      "name_ar": null,
+      "title": "Chief Operating Officer, Operations & IT Group",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "Qatar Islamic Bank (Q.P.S.C.)",
+      "business_unit": "Operations & IT Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not published (S1, S6).",
+      "previous_roles": "Chief Operating Officer, Operations & IT Group, QIB; before QIB: CEO, Africa & Gulf Bank (last role); Chief Operating Officer, Bank One (Mauritius); COO Cards and Payments, Absa; Chief Operating Officer, Barclays Bank Egypt; Head of Operations Emerging Markets, Barclays; senior roles at Citibank CIB MENA, Citibank Egypt and Citibank Pakistan; years not given (the bio cites '27+ years') (S1, S6 p.30).",
+      "education": "MBA in Marketing of Financial Services, Institute of Business Administration, Karachi",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); AR 2025 executive table and biography (S6 pp.6, 29-30).",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Gourang Hemani",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Qatar Islamic Bank (Q.P.S.C.)",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not published (S1, S6).",
+      "previous_roles": "Chief Financial Officer, QIB; before QIB: Deputy Chief Financial Officer (last role), Banque Saudi Fransi, Saudi Arabia (15 years: asset-liability management, treasury middle office, financial planning); Standard Chartered Bank, India; career began at Price Waterhouse Coopers, India; years not given (the bio cites 31 years) (S1, S6 p.30).",
+      "education": null,
+      "qualifications": "CFA charterholder; FRM; Chartered Accountant (India)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); AR 2025 executive table and biography (S6 pp.6, 29-30); signed the FY2025 internal-control statement with the Group CEO (S6 p.48).",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Rakesh Sanghvi",
+      "name_ar": null,
+      "title": "Chief Risk Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Qatar Islamic Bank (Q.P.S.C.)",
+      "business_unit": "Risk",
+      "scope": "Group",
+      "appointed": "2013",
+      "appointed_note": "Joined QIB in 2013 (S1, S6).",
+      "previous_roles": "2013– Chief Risk Officer, QIB; before 2013 Group Head of Risk Management, Ahli United Bank, Bahrain; led the bank's Corporate Finance unit; over 10 years in corporate banking in Bahrain and with Ahli Bank in Qatar; earlier Ernst & Young, Bahrain (audit and consulting); years not given (the bio cites 34 years) (S1, S6 p.30).",
+      "education": null,
+      "qualifications": "FCA (Institute of Chartered Accountants of India); CISA (USA)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); AR 2025 executive table and biography (S6 pp.6, 29-30).",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalefa Al Mesalam",
+      "name_ar": null,
+      "title": "Head of Human Capital Group",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Qatar Islamic Bank (Q.P.S.C.)",
+      "business_unit": "Human Capital",
+      "scope": "Group",
+      "appointed": "2011",
+      "appointed_note": "With QIB since 2011 (S1).",
+      "previous_roles": "2011– Head of Human Capital Group, QIB; before 2011 Group Recruitment Manager (last role), Al Khaliji Bank; earlier Commercial Bank of Qatar and HSBC Qatar (retail banking, human capital, organisational development and talent roles); years not given (S1).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); AR 2025 executive table (S6 pp.6, 29).",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Greg Ellison",
+      "name_ar": null,
+      "title": "Chief Executive Officer, QIB (UK)",
+      "functions": [
+        "Subsidiary CEO"
+      ],
+      "entity": "QIB (UK) plc",
+      "business_unit": "QIB UK",
+      "scope": "Subsidiary: QIB (UK)",
+      "appointed": "2026-04",
+      "appointed_note": "Joined QIB (UK) as CEO in April 2026 (S17). Predecessor Richard Musty was appointed CEO from January 2023 (S19, search results only).",
+      "previous_roles": "2026-04– Chief Executive Officer, QIB (UK) plc; Chief Executive Officer, Alpha Bank London (strategic repositioning and digital investment); Chief Executive Officer, Capital International Group (founded and launched Capital International Bank, a fully digital corporate bank); Barclays Wealth: Head of Banking and Managing Director for the offshore businesses in Jersey, Guernsey and the Isle of Man; career began at HBOS; years not given (the bio cites 'over 29 years' in financial services and 'more than 17 years in Chief Executive roles') (S17).",
+      "education": "Degree in Business Studies, Swansea University; MBA, Henley Business School; executive diplomas, Oxford Saïd Business School and MIT",
+      "qualifications": "Chartered Director",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "QIB (UK) Senior Management page checked 2026-10-12 (S17) and QIB Group page (S8). 2026 role-based news search found only the 2023 Musty appointment (S19) and no later change; the QIB UK page is the most recent source.",
+      "source_ids": [
+        "S17",
+        "S8",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fuad Shakhshir",
+      "name_ar": null,
+      "title": "Chief Commercial Officer, QIB (UK)",
+      "functions": [
+        "Private banking",
+        "Corporate / wholesale"
+      ],
+      "entity": "QIB (UK) plc",
+      "business_unit": "QIB UK – Structured Real Estate and Private Banking teams",
+      "scope": "Subsidiary: QIB (UK)",
+      "appointed": "2025-04",
+      "appointed_note": "Joined QIB (UK) in May 2017 as Head of Structured Real Estate; promoted to Chief Commercial Officer in April 2025, responsible for the Structured Real Estate and Private Banking teams (S17).",
+      "previous_roles": "2025-04– Chief Commercial Officer, QIB (UK); 2017-05–2025-04 Head of Structured Real Estate, QIB (UK); before 2017 16 years at Lloyds Banking Group, London (senior positions in infrastructure, real estate and restructuring, UK and mainland Europe; senior and mezzanine debt and equity transactions); earlier Principal Consultant, KPMG London. Current other roles: qualified SME business mentor; previously served three years on the Imperial College Business School Alumni Board (S17).",
+      "education": "MBA, Imperial College London",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "QIB (UK) Senior Management page checked 2026-10-12 (S17).",
+      "source_ids": [
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    }
   ],
   "capabilities": {
     "wealth_summary": "QIB's wealth offer sits in the Personal Banking Group under GM Dorai Anand; the Annual Report 2025 org chart places a Wealth Management unit under the Chief Personal & Private Banking Officer. Tiers are Tamayuz (affluent: QAR 350k deposit, QAR 50k salary or QAR 3m financing eligibility) and Private Banking (by invitation or referral; relationship-balance criterion not quantified). Private Banking offers Shari'a-compliant sukuk, equities, structured investment products, mutual funds, FX and real estate investments, plus investment advisory and active portfolio management. All private-banking RMs are certified in international investments. Clients get video banking and portfolio monitoring in the QIB Mobile App. QIB was named Euromoney Qatar's Best Private Bank 2026. Digital investing is limited to QSE stock trading inside the QIB Mobile App through partner broker The Group Securities (launched July 2021), plus IPO services and viewing deposits and investments; the app has 320+ features. QIB has no in-house asset manager or broker: QInvest (49% associate) is the group's investment bank, and QIB UK adds London real estate finance and private banking. No wealth AUM or client numbers are disclosed.",
     "segments": [
-      {"name": "Tamayuz Banking", "tier": "Affluent", "eligibility": "Any one of: minimum start-up and yearly average deposit QAR 350,000 for 6 months; salary credit QAR 50,000 per month; or non-salaried person eligible for financing of QAR 3 million+ with at least QAR 1.5 million annual account inflows.", "source_ids": ["S11"]},
-      {"name": "Private Banking (QIB Private)", "tier": "Private / HNW", "eligibility": "Minimum relationship balance (deposits, investments and financed assets; amount not published), active engagement, and in select cases invitation or referral.", "source_ids": ["S10"]},
-      {"name": "Essential Banking", "tier": "Mass retail", "eligibility": "Not reviewed in detail.", "source_ids": ["S10"]}
+      {
+        "name": "Tamayuz Banking",
+        "tier": "Affluent",
+        "eligibility": "Any one of: minimum start-up and yearly average deposit QAR 350,000 for 6 months; salary credit QAR 50,000 per month; or non-salaried person eligible for financing of QAR 3 million+ with at least QAR 1.5 million annual account inflows.",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "name": "Private Banking (QIB Private)",
+        "tier": "Private / HNW",
+        "eligibility": "Minimum relationship balance (deposits, investments and financed assets; amount not published), active engagement, and in select cases invitation or referral.",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "name": "Essential Banking",
+        "tier": "Mass retail",
+        "eligibility": "Not reviewed in detail.",
+        "source_ids": [
+          "S10"
+        ]
+      }
     ],
-    "private_banking": {"present": "Yes", "detail": "QIB Private (Shari'a-compliant private banking 'since 1995'). Certified RMs; a priority private banking centre at QIB Al Sadd branch; door-to-door or fully digital onboarding; multi-currency accounts and deposits; investments (sukuk, real estate, international equities, ESG-focused deposit, structured investment products, mutual funds, FX); investment advisory with active portfolio management; financing against investment portfolios; 24x7 private hotline and video banking with e-signatures. Named Qatar's Best Private Bank by Euromoney (Private Banking Awards 2026). QIB UK also runs a private banking team, under its CCO.", "source_ids": ["S10", "S14", "S17"]},
-    "asset_management": {"present": "No", "detail": "No in-house asset management subsidiary or proprietary fund range was found at the bank. QInvest LLC (49% associate since 2025, QFC-licensed) is the group's investment bank / asset manager and is profiled separately as qa-qinvest. The bank's only AUM line is off-balance-sheet AUM of QAR 10.5m.", "source_ids": ["S3", "S4", "S8"]},
-    "brokerage": {"present": "Yes", "detail": "Via partner, not in-house: customers with a brokerage account at The Group Securities Company and a National Investor Number link it in the QIB Mobile App ('My Products' > 'Brokerage'). They can trade QSE-listed stocks in real time, move funds instantly between bank and brokerage accounts, see net worth and portfolio, and use a single sign-on. Qatar only.", "source_ids": ["S12", "S16"]},
-    "digital_investing": {"present": "Yes", "detail": "QIB Mobile App (320+ features): in-app QSE equity trading through The Group Securities (launched 8 Jul 2021), IPO subscription services, and viewing of deposits and investments. Private Banking clients get portfolio monitoring, transactions and secure messaging/video with RMs. Tamayuz and Private customers have a dedicated interface. No in-app funds, sukuk or international equities purchase found. AI-powered features for analysing customer behaviour were added in 2025.", "source_ids": ["S12", "S13", "S14", "S6", "S16"]},
-    "advisory": {"present": "Yes", "detail": "Investment advisory and personalised wealth planning by certified Private Banking RMs; Tamayuz clients get 'expert financial recommendations' and access to sukuk and portfolio diversification in Qatar and globally.", "source_ids": ["S10", "S11", "S14"]},
-    "discretionary": {"present": "Unclear", "detail": "The Private Banking page says QIB will 'actively manage your portfolio', but no discretionary mandate product, terms or manager were found.", "source_ids": ["S10"]},
-    "model_portfolios_robo": {"present": "Not found after research", "detail": "No robo-advisor or model-portfolio offering found on the personal, Private Banking, Tamayuz or mobile-app pages or in the Annual Report 2025.", "source_ids": ["S10", "S11", "S13", "S6"]},
-    "funds_platform": {"present": "Unclear", "detail": "Private Banking lists 'mutual funds' among investment opportunities, but no fund shelf, fund names or platform provider is published.", "source_ids": ["S14"]},
-    "structured_products": {"present": "Yes", "detail": "'Structured investment products' are offered to Private Banking customers (no issuers or terms published).", "source_ids": ["S14"]},
-    "private_markets": {"present": "Not found after research", "detail": "Private Banking offers 'real estate investments' (Qatar and abroad via a network of projects) but no private equity, private credit or fund-based private-markets product was found. QIB UK finances prime London real estate.", "source_ids": ["S10", "S14", "S17"]},
-    "islamic_wealth": {"present": "Yes", "detail": "Fully Shari'a-compliant: sukuk, Shari'a-screened equities, structured investments, mutual funds and real estate for Private Banking; Sustainable Flexi CD; Afaq savings takaful plan; QSE trading via The Group Securities.", "source_ids": ["S10", "S14", "S13"]},
-    "asset_classes": ["Local equities", "US/international equities", "Mutual funds", "Sukuk", "Structured products", "Real estate funds"],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "QIB Private (Shari'a-compliant private banking 'since 1995'). Certified RMs; a priority private banking centre at QIB Al Sadd branch; door-to-door or fully digital onboarding; multi-currency accounts and deposits; investments (sukuk, real estate, international equities, ESG-focused deposit, structured investment products, mutual funds, FX); investment advisory with active portfolio management; financing against investment portfolios; 24x7 private hotline and video banking with e-signatures. Named Qatar's Best Private Bank by Euromoney (Private Banking Awards 2026). QIB UK also runs a private banking team, under its CCO.",
+      "source_ids": [
+        "S10",
+        "S14",
+        "S17"
+      ]
+    },
+    "asset_management": {
+      "present": "No",
+      "detail": "No in-house asset management subsidiary or proprietary fund range was found at the bank. QInvest LLC (49% associate since 2025, QFC-licensed) is the group's investment bank / asset manager and is profiled separately as qa-qinvest. The bank's only AUM line is off-balance-sheet AUM of QAR 10.5m.",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S8"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Via partner, not in-house: customers with a brokerage account at The Group Securities Company and a National Investor Number link it in the QIB Mobile App ('My Products' > 'Brokerage'). They can trade QSE-listed stocks in real time, move funds instantly between bank and brokerage accounts, see net worth and portfolio, and use a single sign-on. Qatar only.",
+      "source_ids": [
+        "S12",
+        "S16"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "QIB Mobile App (320+ features): in-app QSE equity trading through The Group Securities (launched 8 Jul 2021), IPO subscription services, and viewing of deposits and investments. Private Banking clients get portfolio monitoring, transactions and secure messaging/video with RMs. Tamayuz and Private customers have a dedicated interface. No in-app funds, sukuk or international equities purchase found. AI-powered features for analysing customer behaviour were added in 2025.",
+      "source_ids": [
+        "S12",
+        "S13",
+        "S14",
+        "S6",
+        "S16"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Investment advisory and personalised wealth planning by certified Private Banking RMs; Tamayuz clients get 'expert financial recommendations' and access to sukuk and portfolio diversification in Qatar and globally.",
+      "source_ids": [
+        "S10",
+        "S11",
+        "S14"
+      ]
+    },
+    "discretionary": {
+      "present": "Unclear",
+      "detail": "The Private Banking page says QIB will 'actively manage your portfolio', but no discretionary mandate product, terms or manager were found.",
+      "source_ids": [
+        "S10"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo-advisor or model-portfolio offering found on the personal, Private Banking, Tamayuz or mobile-app pages or in the Annual Report 2025.",
+      "source_ids": [
+        "S10",
+        "S11",
+        "S13",
+        "S6"
+      ]
+    },
+    "funds_platform": {
+      "present": "Unclear",
+      "detail": "Private Banking lists 'mutual funds' among investment opportunities, but no fund shelf, fund names or platform provider is published.",
+      "source_ids": [
+        "S14"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "'Structured investment products' are offered to Private Banking customers (no issuers or terms published).",
+      "source_ids": [
+        "S14"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "Private Banking offers 'real estate investments' (Qatar and abroad via a network of projects) but no private equity, private credit or fund-based private-markets product was found. QIB UK finances prime London real estate.",
+      "source_ids": [
+        "S10",
+        "S14",
+        "S17"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Fully Shari'a-compliant: sukuk, Shari'a-screened equities, structured investments, mutual funds and real estate for Private Banking; Sustainable Flexi CD; Afaq savings takaful plan; QSE trading via The Group Securities.",
+      "source_ids": [
+        "S10",
+        "S14",
+        "S13"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "US/international equities",
+      "Mutual funds",
+      "Sukuk",
+      "Structured products",
+      "Real estate funds"
+    ],
     "partners": [
-      {"partner": "The Group Securities Company", "kind": "Brokerage / execution", "what": "QSE stock trading inside the QIB Mobile App via linked brokerage accounts, with a customised platform for QIB app users", "date": "2021-07-08", "status": "Live", "source_ids": ["S12", "S16"]},
-      {"partner": "Temenos", "kind": "Core banking technology", "what": "Temenos core banking system implemented in 2016 (QIB 'our journey' timeline)", "date": "2016", "status": "Live", "source_ids": ["S9"]},
-      {"partner": "PayLater", "kind": "Fintech partner (payments)", "what": "Shari'a-compliant Buy Now Pay Later in Qatar (2025)", "date": "2025", "status": "Live", "source_ids": ["S6"]}
+      {
+        "partner": "The Group Securities Company",
+        "kind": "Brokerage / execution",
+        "what": "QSE stock trading inside the QIB Mobile App via linked brokerage accounts, with a customised platform for QIB app users",
+        "date": "2021-07-08",
+        "status": "Live",
+        "source_ids": [
+          "S12",
+          "S16"
+        ]
+      },
+      {
+        "partner": "Temenos",
+        "kind": "Core banking technology",
+        "what": "Temenos core banking system implemented in 2016 (QIB 'our journey' timeline)",
+        "date": "2016",
+        "status": "Live",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "partner": "PayLater",
+        "kind": "Fintech partner (payments)",
+        "what": "Shari'a-compliant Buy Now Pay Later in Qatar (2025)",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S6"
+        ]
+      }
     ],
     "initiatives": [
-      {"date": "2026-09-06", "what": "QIB Mobile App enhancements: advanced search across 320+ features, redesigned credit-card overview, in-app customer survey.", "source_ids": ["S15"]},
-      {"date": "2026-04-12", "what": "Named Qatar's Best Private Bank by Euromoney (Private Banking Awards 2026); highlights certified RMs and Private Banking video banking.", "source_ids": ["S14"]},
-      {"date": "2026-04", "what": "Greg Ellison (ex-Alpha Bank London, Barclays Wealth) joined as CEO of QIB UK.", "source_ids": ["S17"]},
-      {"date": "2025", "what": "Partial sale of QInvest; QInvest reclassified from 65.62% subsidiary to 49% associate.", "source_ids": ["S4"]},
-      {"date": "2025", "what": "Digital: QIB Junior App launched (ages 8-17); AI-powered features in QIB Mobile Apps; mobile banking users +12%, digital financial transactions +39% vs 2024.", "source_ids": ["S6"]}
+      {
+        "date": "2026-09-06",
+        "what": "QIB Mobile App enhancements: advanced search across 320+ features, redesigned credit-card overview, in-app customer survey.",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2026-04-12",
+        "what": "Named Qatar's Best Private Bank by Euromoney (Private Banking Awards 2026); highlights certified RMs and Private Banking video banking.",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2026-04",
+        "what": "Greg Ellison (ex-Alpha Bank London, Barclays Wealth) joined as CEO of QIB UK.",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Partial sale of QInvest; QInvest reclassified from 65.62% subsidiary to 49% associate.",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Digital: QIB Junior App launched (ages 8-17); AI-powered features in QIB Mobile Apps; mobile banking users +12%, digital financial transactions +39% vs 2024.",
+        "source_ids": [
+          "S6"
+        ]
+      }
     ],
     "evidence_for_arta": {
       "opportunities": [
@@ -126,66 +933,535 @@
     }
   },
   "sources": [
-    {"id": "S1", "title": "Senior management", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/about-us/senior-management", "doc_type": "Official leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S2", "title": "Board of directors", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/about-us/board-of-directors", "doc_type": "Official board page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S3", "title": "Qatar Islamic Bank (Q.P.S.C.) Interim Condensed Consolidated Financial Statements 30 June 2026", "publisher": "Qatar Stock Exchange (issuer filing)", "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QIBK&reportEndDate=2026-06-30&lang=1", "doc_type": "Reviewed interim financial statements (Deloitte review report 20 Jul 2026)", "tier": 1, "published": "2026-07-20", "accessed": "2026-10-12", "language": "en", "note": "Statement of financial position is a scanned page; read visually."},
-    {"id": "S4", "title": "Qatar Islamic Bank (Q.P.S.C.) Consolidated Financial Statements 31 December 2025", "publisher": "Qatar Stock Exchange (issuer filing)", "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QIBK&reportEndDate=2025-12-31&lang=1", "doc_type": "Audited consolidated financial statements (88 pp.)", "tier": 1, "published": "2026-02", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S5", "title": "QIB Profit Grows by 2.3% to Reach QAR 2,225 Million for the Six Months Ended 30 June 2026", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/about-us/media-center/news/news-listing/2026/07/20/qib-profit-grows-by-23-to-reach-qar-2225-million-for-the-six-months-ended-30-june-2026", "doc_type": "Results press release", "tier": 2, "published": "2026-07-20", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S6", "title": "QIB Annual Report 2025", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/-/media/project/qib/files/annual-reports/en/qib---annual-report-2025-english.pdf?rev=e5ea1a44acba4b088f35828fa8bc1e3d", "doc_type": "Annual report incl. corporate governance report (140 pp.)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S7", "title": "Qatar Islamic Bank Results Presentation June 2026", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/-/media/project/qib/files/investor-presentation/en/qib-investor-presentation-2026.pdf?rev=36df381599e947bbb586d9bba0da2d36", "doc_type": "Investor presentation (21 pp.)", "tier": 2, "published": "2026-07", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S8", "title": "QIB Group", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/about-us/qib-group", "doc_type": "Official group structure page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S9", "title": "About QIB", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/about-us", "doc_type": "Official website page (key figures and history timeline)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S10", "title": "Private Banking", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/personal/accounts/tiers/private-banking", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S11", "title": "Tamayuz Banking", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/personal/accounts/tiers/tamayuz-banking", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S12", "title": "Brokerage Service", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/personal/ways-to-bank/services/brokerage-service", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S13", "title": "QIB Mobile App", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/personal/ways-to-bank/digital-banking/mobile-app", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S14", "title": "QIB Named Qatar's Best Private Bank by Euromoney", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/about-us/media-center/news/news-listing/2026/04/12/qib-named-qatars-best-private-bank-by-euromoney", "doc_type": "Press release", "tier": 2, "published": "2026-04-12", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S15", "title": "QIB Introduces New Features to its Mobile App to Enhance Customer Experience", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/about-us/media-center/news/news-listing/2026/09/06/qib-introduces-new-features-to-its-mobile-app-to-enhance-customer-experience", "doc_type": "Press release", "tier": 2, "published": "2026-09-06", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S16", "title": "QIB launches the stock trading service through QIB Mobile App in partnership with The Group", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/about-us/media-center/news/news-listing/2021/07/08/qib-launches-the-stock-trading-service-through-qib-mobile-app-in-partnership-with-the-group", "doc_type": "Press release", "tier": 2, "published": "2021-07-08", "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only (with Gulf Times and The Group coverage)."},
-    {"id": "S17", "title": "Senior management - QIB UK", "publisher": "QIB (UK)", "url": "https://www.qib-uk.com/en/seniormanagement", "doc_type": "Official subsidiary leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S18", "title": "QIB personal banking home page (links official LinkedIn company page)", "publisher": "Qatar Islamic Bank", "url": "https://www.qib.com.qa/en/personal", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S19", "title": "QIB UK appoints Richard Musty as Chief Executive Officer", "publisher": "The Peninsula / Qatar Tribune", "url": "https://thepeninsulaqatar.com/article/22/06/2023/qib-uk-appoints-richard-musty-as-ceo", "doc_type": "News", "tier": 5, "published": "2023-06-22", "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only."}
+    {
+      "id": "S1",
+      "title": "Senior management",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/senior-management",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of directors",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/board-of-directors",
+      "doc_type": "Official board page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Re-read 2026-10-12: the page now reflects the board elected for the 2026-2028 term (four members 'since March 2026')."
+    },
+    {
+      "id": "S3",
+      "title": "Qatar Islamic Bank (Q.P.S.C.) Interim Condensed Consolidated Financial Statements 30 June 2026",
+      "publisher": "Qatar Stock Exchange (issuer filing)",
+      "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QIBK&reportEndDate=2026-06-30&lang=1",
+      "doc_type": "Reviewed interim financial statements (Deloitte review report 20 Jul 2026)",
+      "tier": 1,
+      "published": "2026-07-20",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Statement of financial position is a scanned page; read visually."
+    },
+    {
+      "id": "S4",
+      "title": "Qatar Islamic Bank (Q.P.S.C.) Consolidated Financial Statements 31 December 2025",
+      "publisher": "Qatar Stock Exchange (issuer filing)",
+      "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QIBK&reportEndDate=2025-12-31&lang=1",
+      "doc_type": "Audited consolidated financial statements (88 pp.)",
+      "tier": 1,
+      "published": "2026-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "QIB Profit Grows by 2.3% to Reach QAR 2,225 Million for the Six Months Ended 30 June 2026",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/media-center/news/news-listing/2026/07/20/qib-profit-grows-by-23-to-reach-qar-2225-million-for-the-six-months-ended-30-june-2026",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": "2026-07-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "QIB Annual Report 2025",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/-/media/project/qib/files/annual-reports/en/qib---annual-report-2025-english.pdf?rev=e5ea1a44acba4b088f35828fa8bc1e3d",
+      "doc_type": "Annual report incl. corporate governance report (140 pp.)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Governance section: senior management photos p.6, organisational structure p.19, Article 6 senior executive management table and biographies pp.29-30, FY2025 statements signed 12 Feb 2026 p.60 (PDF pages)."
+    },
+    {
+      "id": "S7",
+      "title": "Qatar Islamic Bank Results Presentation June 2026",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/-/media/project/qib/files/investor-presentation/en/qib-investor-presentation-2026.pdf?rev=36df381599e947bbb586d9bba0da2d36",
+      "doc_type": "Investor presentation (21 pp.)",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "QIB Group",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/qib-group",
+      "doc_type": "Official group structure page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "About QIB",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us",
+      "doc_type": "Official website page (key figures and history timeline)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Private Banking",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/personal/accounts/tiers/private-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Tamayuz Banking",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/personal/accounts/tiers/tamayuz-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Brokerage Service",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/personal/ways-to-bank/services/brokerage-service",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "QIB Mobile App",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/personal/ways-to-bank/digital-banking/mobile-app",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "QIB Named Qatar's Best Private Bank by Euromoney",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/media-center/news/news-listing/2026/04/12/qib-named-qatars-best-private-bank-by-euromoney",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-04-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "QIB Introduces New Features to its Mobile App to Enhance Customer Experience",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/media-center/news/news-listing/2026/09/06/qib-introduces-new-features-to-its-mobile-app-to-enhance-customer-experience",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-09-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "QIB launches the stock trading service through QIB Mobile App in partnership with The Group",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/media-center/news/news-listing/2021/07/08/qib-launches-the-stock-trading-service-through-qib-mobile-app-in-partnership-with-the-group",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2021-07-08",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (with Gulf Times and The Group coverage)."
+    },
+    {
+      "id": "S17",
+      "title": "Senior management - QIB UK",
+      "publisher": "QIB (UK)",
+      "url": "https://www.qib-uk.com/en/seniormanagement",
+      "doc_type": "Official subsidiary leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Re-read 2026-10-12."
+    },
+    {
+      "id": "S18",
+      "title": "QIB personal banking home page (links official LinkedIn company page)",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/personal",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "QIB UK appoints Richard Musty as Chief Executive Officer",
+      "publisher": "The Peninsula / Qatar Tribune",
+      "url": "https://thepeninsulaqatar.com/article/22/06/2023/qib-uk-appoints-richard-musty-as-ceo",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-06-22",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only."
+    }
   ],
   "original_reconciliation": [
-    {"field": "Institution", "original_value": "Qatar Islamic Bank (QIB)", "finding": "Confirmed", "new_value": "Qatar Islamic Bank (Q.P.S.C.)", "source_ids": ["S3"], "materiality": "Minor"},
-    {"field": "Country", "original_value": "Qatar", "finding": "Confirmed", "new_value": "QA", "source_ids": ["S3"], "materiality": "Minor"},
-    {"field": "Institution type", "original_value": "Sharia-compliant universal/commercial bank; publicly listed", "finding": "Confirmed", "new_value": "Islamic commercial bank; model Islamic; QSE-listed (QIBK)", "source_ids": ["S3"], "materiality": "Minor"},
-    {"field": "Assets (bn) / Currency / Assets as of", "original_value": "QAR 234bn (rounded official release), 30 Jun 2026, bank group", "finding": "Confirmed", "new_value": "QAR 234,046,164 thousand at 30 Jun 2026 (reviewed statements)", "source_ids": ["S3", "S5"], "materiality": "Minor"},
-    {"field": "Deposits (bn) / Deposits as of / Deposit measure", "original_value": "QAR 148.3bn customer deposits, 30 Jun 2026 (rounded official release)", "finding": "Confirmed", "new_value": "QAR 148,280,301 thousand = customers' current accounts + participatory investment accounts incl. reserve share (definition added)", "source_ids": ["S3", "S5"], "materiality": "Minor"},
-    {"field": "Chief executive", "original_value": "Bassel Gamal", "finding": "Confirmed", "new_value": "Bassel Gamal, Group CEO since Feb 2013", "source_ids": ["S1", "S3"], "materiality": "Minor"},
-    {"field": "Wealth / investment arm", "original_value": "QIB Private Banking; personal-banking leadership Dorai Anand. QInvest 49%-owned associate, Hussein Fakhreddine acting CEO; QIB-UK 99.7%-owned subsidiary led by Greg Ellison.", "finding": "Confirmed", "new_value": "All confirmed: QIB Private (S10); Dorai Anand GM Personal Banking Group (S1, S15); QInvest 49% associate with Acting CEO Hussein Fakhreddine per QIB Group page (S8, S4); QIB UK 99.71% (S3), CEO Greg Ellison since Apr 2026 (S17).", "source_ids": ["S1", "S3", "S4", "S8", "S10", "S17"], "materiality": "Minor"},
-    {"field": "Business focus", "original_value": "Personal, private, SME and wholesale Islamic banking with extensive digital delivery.", "finding": "Confirmed", "new_value": "Segments: corporate, personal, group function, subsidiaries; Tamayuz and Private tiers; QIB Mobile App 320+ features", "source_ids": ["S3", "S13"], "materiality": "Minor"},
-    {"field": "Ownership", "original_value": "QIA 16.67%; Sheikh Hamad bin Jassim bin Jabr Al Thani more than 6.54%; government ownership 21.58% (FY2025 report)", "finding": "Updated", "new_value": "FY2025 figures confirmed (AR 2025 p.39); results presentation shows QH (QIA) 16.4% at 30 Jun 2026", "source_ids": ["S6", "S7"], "materiality": "Minor"},
-    {"field": "Research coverage / Last prior research / Relationship / opportunity / Prior research source", "original_value": "Completed profile research; 2026-10-05; Profile delivered to Hani / Wissam; Gmail thread link", "finding": "Could not verify", "new_value": "Internal workflow fields; outside public-source scope; not changed", "source_ids": [], "materiality": "Minor"},
-    {"field": "Website", "original_value": "https://www.qib.com.qa/", "finding": "Confirmed", "new_value": "https://www.qib.com.qa", "source_ids": ["S18"], "materiality": "Minor"},
-    {"field": "Company LinkedIn", "original_value": "https://www.linkedin.com/company/qib", "finding": "Confirmed", "new_value": "Linked from the official website footer (Verified, official link)", "source_ids": ["S18"], "materiality": "Minor"},
-    {"field": "Gaps / important distinctions", "original_value": "No separate current head of Private Banking publicly verified; no bank-wide wealth AUM or client count; QInvest reclassified as associate; company LinkedIn About section has 2016 metrics.", "finding": "Confirmed", "new_value": "Still no named Private Banking/Wealth head (AR 2025 org chart shows a Wealth Management unit under the Chief Personal & Private Banking Officer); no wealth AUM or client count; QInvest associate confirmed (FY2025 note 1 and 12). LinkedIn About section not re-checked.", "source_ids": ["S6", "S4"], "materiality": "Minor"},
-    {"field": "Assets (USD bn) / Deposits (USD bn)", "original_value": "Formula-derived USD values (and size metrics 'Assets in original USD estimate' USD 64.3bn, 'Deposits in original USD estimate' USD 40.7bn)", "finding": "Removed", "new_value": "Not recorded: protocol keeps original currency (QAR); USD conversion is done centrally with documented FX", "source_ids": [], "materiality": "Minor"},
-    {"field": "AUM / AUA (USD bn)", "original_value": "Not found", "finding": "Confirmed", "new_value": "Wealth AUM not publicly disclosed; only off-balance-sheet AUM QAR 10.5m (recorded separately)", "source_ids": ["S3"], "materiality": "Minor"},
-    {"field": "Size metric: Financing assets", "original_value": "QAR 156.4bn, 30 Jun 2026", "finding": "Confirmed", "new_value": "QAR 156,414,437 thousand (net_loans)", "source_ids": ["S3"], "materiality": "Minor"},
-    {"field": "Size metric: Investment securities", "original_value": "QAR 60.4bn, 30 Jun 2026", "finding": "Confirmed", "new_value": "QAR 60,426,151 thousand (recorded as investment_securities; not AUM)", "source_ids": ["S3"], "materiality": "Minor"},
-    {"field": "Management: Bassel Gamal - Group Chief Executive Officer", "original_value": "Current role verified; LinkedIn not verified (original research URL linkedin.com/in/bassel-gamal-aly-ba74991a)", "finding": "Confirmed", "new_value": "Role confirmed; LinkedIn still not verified (no search match), URL not recorded", "source_ids": ["S1"], "materiality": "Minor"},
-    {"field": "Management: Constantinos Constantinides - Chief Strategy & Digital Officer", "original_value": "Current role verified; LinkedIn qa.linkedin.com/in/constantinos-constantinides-25b5082 'Public profile identity verified'", "finding": "Confirmed", "new_value": "Role confirmed on official page; original verified LinkedIn URL retained (no contrary evidence; not re-opened in this pass)", "source_ids": ["S1"], "materiality": "Minor"},
-    {"field": "Management: Dorai Anand - General Manager, Personal Banking Group", "original_value": "Current role verified; LinkedIn qa.linkedin.com/in/d-anand-b882112 (association with QIB, role text limited)", "finding": "Confirmed", "new_value": "Role confirmed (S1; quoted Sep 2026). Annual Report 2025 uses 'Chief Personal Banking Officer'. Original LinkedIn was not identity-verified, so URL not recorded (Not verified).", "source_ids": ["S1", "S6", "S15"], "materiality": "Minor"},
-    {"field": "Management: Greg Ellison - Chief Executive Officer, QIB (UK)", "original_value": "Current role verified; LinkedIn not verified", "finding": "Confirmed", "new_value": "CEO since April 2026; biography added", "source_ids": ["S17", "S8"], "materiality": "Minor"},
-    {"field": "Management: Hussein Fakhreddine - Acting CEO, QInvest LLC", "original_value": "Current role verified (associate leader)", "finding": "Confirmed", "new_value": "Listed as Acting CEO on QIB Group page (S8). Not recorded as a person here: QInvest is profiled separately as qa-qinvest.", "source_ids": ["S8"], "materiality": "Minor"},
-    {"field": "Management: Saleem Ul Haq - Chief Operating Officer, Operations & IT Group", "original_value": "Current role verified; LinkedIn not verified", "finding": "Confirmed", "new_value": "Same title on official page; biography added", "source_ids": ["S1"], "materiality": "Minor"},
-    {"field": "Management: Tarek Youssef Fawzi - General Manager, Wholesale Banking Group", "original_value": "Current role verified; LinkedIn qa.linkedin.com/in/tarek-fawzi-91250a49 (employer, AUC education and Mashreq history match)", "finding": "Confirmed", "new_value": "Role confirmed; original matched LinkedIn URL retained (no contrary evidence; not re-opened). Annual Report 2025 title 'Chief Wholesale Banking Officer'.", "source_ids": ["S1", "S6"], "materiality": "Minor"}
+    {
+      "field": "Institution",
+      "original_value": "Qatar Islamic Bank (QIB)",
+      "finding": "Confirmed",
+      "new_value": "Qatar Islamic Bank (Q.P.S.C.)",
+      "source_ids": [
+        "S3"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Country",
+      "original_value": "Qatar",
+      "finding": "Confirmed",
+      "new_value": "QA",
+      "source_ids": [
+        "S3"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Institution type",
+      "original_value": "Sharia-compliant universal/commercial bank; publicly listed",
+      "finding": "Confirmed",
+      "new_value": "Islamic commercial bank; model Islamic; QSE-listed (QIBK)",
+      "source_ids": [
+        "S3"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Assets (bn) / Currency / Assets as of",
+      "original_value": "QAR 234bn (rounded official release), 30 Jun 2026, bank group",
+      "finding": "Confirmed",
+      "new_value": "QAR 234,046,164 thousand at 30 Jun 2026 (reviewed statements)",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Deposits (bn) / Deposits as of / Deposit measure",
+      "original_value": "QAR 148.3bn customer deposits, 30 Jun 2026 (rounded official release)",
+      "finding": "Confirmed",
+      "new_value": "QAR 148,280,301 thousand = customers' current accounts + participatory investment accounts incl. reserve share (definition added)",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Chief executive",
+      "original_value": "Bassel Gamal",
+      "finding": "Confirmed",
+      "new_value": "Bassel Gamal, Group CEO since Feb 2013",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Wealth / investment arm",
+      "original_value": "QIB Private Banking; personal-banking leadership Dorai Anand. QInvest 49%-owned associate, Hussein Fakhreddine acting CEO; QIB-UK 99.7%-owned subsidiary led by Greg Ellison.",
+      "finding": "Confirmed",
+      "new_value": "All confirmed: QIB Private (S10); Dorai Anand GM Personal Banking Group (S1, S15); QInvest 49% associate with Acting CEO Hussein Fakhreddine per QIB Group page (S8, S4); QIB UK 99.71% (S3), CEO Greg Ellison since Apr 2026 (S17).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4",
+        "S8",
+        "S10",
+        "S17"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Business focus",
+      "original_value": "Personal, private, SME and wholesale Islamic banking with extensive digital delivery.",
+      "finding": "Confirmed",
+      "new_value": "Segments: corporate, personal, group function, subsidiaries; Tamayuz and Private tiers; QIB Mobile App 320+ features",
+      "source_ids": [
+        "S3",
+        "S13"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Ownership",
+      "original_value": "QIA 16.67%; Sheikh Hamad bin Jassim bin Jabr Al Thani more than 6.54%; government ownership 21.58% (FY2025 report)",
+      "finding": "Updated",
+      "new_value": "FY2025 figures confirmed (AR 2025 p.39); results presentation shows QH (QIA) 16.4% at 30 Jun 2026",
+      "source_ids": [
+        "S6",
+        "S7"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Research coverage / Last prior research / Relationship / opportunity / Prior research source",
+      "original_value": "Completed profile research; 2026-10-05; Profile delivered to Hani / Wissam; Gmail thread link",
+      "finding": "Could not verify",
+      "new_value": "Internal workflow fields; outside public-source scope; not changed",
+      "source_ids": [],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Website",
+      "original_value": "https://www.qib.com.qa/",
+      "finding": "Confirmed",
+      "new_value": "https://www.qib.com.qa",
+      "source_ids": [
+        "S18"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Company LinkedIn",
+      "original_value": "https://www.linkedin.com/company/qib",
+      "finding": "Confirmed",
+      "new_value": "Linked from the official website footer (Verified, official link)",
+      "source_ids": [
+        "S18"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Gaps / important distinctions",
+      "original_value": "No separate current head of Private Banking publicly verified; no bank-wide wealth AUM or client count; QInvest reclassified as associate; company LinkedIn About section has 2016 metrics.",
+      "finding": "Confirmed",
+      "new_value": "Still no named Private Banking/Wealth head (AR 2025 org chart shows a Wealth Management unit under the Chief Personal & Private Banking Officer); no wealth AUM or client count; QInvest associate confirmed (FY2025 note 1 and 12). LinkedIn About section not re-checked.",
+      "source_ids": [
+        "S6",
+        "S4"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Assets (USD bn) / Deposits (USD bn)",
+      "original_value": "Formula-derived USD values (and size metrics 'Assets in original USD estimate' USD 64.3bn, 'Deposits in original USD estimate' USD 40.7bn)",
+      "finding": "Removed",
+      "new_value": "Not recorded: protocol keeps original currency (QAR); USD conversion is done centrally with documented FX",
+      "source_ids": [],
+      "materiality": "Minor"
+    },
+    {
+      "field": "AUM / AUA (USD bn)",
+      "original_value": "Not found",
+      "finding": "Confirmed",
+      "new_value": "Wealth AUM not publicly disclosed; only off-balance-sheet AUM QAR 10.5m (recorded separately)",
+      "source_ids": [
+        "S3"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Size metric: Financing assets",
+      "original_value": "QAR 156.4bn, 30 Jun 2026",
+      "finding": "Confirmed",
+      "new_value": "QAR 156,414,437 thousand (net_loans)",
+      "source_ids": [
+        "S3"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Size metric: Investment securities",
+      "original_value": "QAR 60.4bn, 30 Jun 2026",
+      "finding": "Confirmed",
+      "new_value": "QAR 60,426,151 thousand (recorded as investment_securities; not AUM)",
+      "source_ids": [
+        "S3"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Management: Bassel Gamal - Group Chief Executive Officer",
+      "original_value": "Current role verified; LinkedIn not verified (original research URL linkedin.com/in/bassel-gamal-aly-ba74991a)",
+      "finding": "Confirmed",
+      "new_value": "Role confirmed; LinkedIn still not verified (no search match), URL not recorded",
+      "source_ids": [
+        "S1"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Management: Constantinos Constantinides - Chief Strategy & Digital Officer",
+      "original_value": "Current role verified; LinkedIn qa.linkedin.com/in/constantinos-constantinides-25b5082 'Public profile identity verified'",
+      "finding": "Confirmed",
+      "new_value": "Role confirmed on official page; original verified LinkedIn URL retained (no contrary evidence; not re-opened in this pass)",
+      "source_ids": [
+        "S1"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Management: Dorai Anand - General Manager, Personal Banking Group",
+      "original_value": "Current role verified; LinkedIn qa.linkedin.com/in/d-anand-b882112 (association with QIB, role text limited)",
+      "finding": "Confirmed",
+      "new_value": "Role confirmed (S1; quoted Sep 2026). Annual Report 2025 uses 'Chief Personal Banking Officer'. Original LinkedIn was not identity-verified, so URL not recorded (Not verified).",
+      "source_ids": [
+        "S1",
+        "S6",
+        "S15"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Management: Greg Ellison - Chief Executive Officer, QIB (UK)",
+      "original_value": "Current role verified; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "CEO since April 2026; biography added",
+      "source_ids": [
+        "S17",
+        "S8"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Management: Hussein Fakhreddine - Acting CEO, QInvest LLC",
+      "original_value": "Current role verified (associate leader)",
+      "finding": "Confirmed",
+      "new_value": "Listed as Acting CEO on QIB Group page (S8). Not recorded as a person here: QInvest is profiled separately as qa-qinvest.",
+      "source_ids": [
+        "S8"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Management: Saleem Ul Haq - Chief Operating Officer, Operations & IT Group",
+      "original_value": "Current role verified; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Same title on official page; biography added",
+      "source_ids": [
+        "S1"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "Management: Tarek Youssef Fawzi - General Manager, Wholesale Banking Group",
+      "original_value": "Current role verified; LinkedIn qa.linkedin.com/in/tarek-fawzi-91250a49 (employer, AUC education and Mashreq history match)",
+      "finding": "Confirmed",
+      "new_value": "Role confirmed; original matched LinkedIn URL retained (no contrary evidence; not re-opened). Annual Report 2025 title 'Chief Wholesale Banking Officer'.",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "materiality": "Minor"
+    }
   ],
   "discrepancies": [
-    {"field": "Executive titles", "detail": "Annual Report 2025 executive table lists 'Chief Wholesale Banking Officer' (Fawzi) and 'Chief Personal Banking Officer' (Anand), and its org chart shows 'Chief - Personal & Private Banking Officer'. The website and the Sep 2026 release use 'General Manager - Wholesale Banking Group' and 'General Manager - Personal Banking Group'.", "source_ids": ["S6", "S1", "S15"], "resolution": "Used the website titles (most recent, confirmed by Sep 2026 release); AR titles noted in appointed_note."},
-    {"field": "QIA shareholding", "detail": "Annual Report 2025: QIA 16.67% (FY2025). Results presentation: 'QH (QIA), 16.4%' as at 30 Jun 2026.", "source_ids": ["S6", "S7"], "resolution": "Both recorded with dates; the difference may reflect date, rounding or holding vehicle (Qatar Holding); not resolved."},
-    {"field": "Customer deposits definition", "detail": "Release gives 'Customer deposits QAR 148.3 Billion' without definition; statements show customers' current accounts and participatory investment accounts (quasi-equity) separately.", "source_ids": ["S5", "S3"], "resolution": "Recorded sum of current accounts + PIA incl. reserve share (QAR 148,280,301k), which matches the release."},
-    {"field": "QIB UK CEO", "detail": "2023 news (search results only) named Richard Musty as QIB UK CEO from Jan 2023; QIB UK site now names Greg Ellison, who joined in April 2026.", "source_ids": ["S19", "S17"], "resolution": "Ellison recorded as current."}
+    {
+      "field": "Executive titles",
+      "detail": "Annual Report 2025 executive table lists 'Chief Wholesale Banking Officer' (Fawzi) and 'Chief Personal Banking Officer' (Anand), and its org chart shows 'Chief - Personal & Private Banking Officer'. The website and the Sep 2026 release use 'General Manager - Wholesale Banking Group' and 'General Manager - Personal Banking Group'.",
+      "source_ids": [
+        "S6",
+        "S1",
+        "S15"
+      ],
+      "resolution": "Used the website titles (most recent, confirmed by Sep 2026 release); AR titles noted in appointed_note."
+    },
+    {
+      "field": "QIA shareholding",
+      "detail": "Annual Report 2025: QIA 16.67% (FY2025). Results presentation: 'QH (QIA), 16.4%' as at 30 Jun 2026.",
+      "source_ids": [
+        "S6",
+        "S7"
+      ],
+      "resolution": "Both recorded with dates; the difference may reflect date, rounding or holding vehicle (Qatar Holding); not resolved."
+    },
+    {
+      "field": "Customer deposits definition",
+      "detail": "Release gives 'Customer deposits QAR 148.3 Billion' without definition; statements show customers' current accounts and participatory investment accounts (quasi-equity) separately.",
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "resolution": "Recorded sum of current accounts + PIA incl. reserve share (QAR 148,280,301k), which matches the release."
+    },
+    {
+      "field": "QIB UK CEO",
+      "detail": "2023 news (search results only) named Richard Musty as QIB UK CEO from Jan 2023; QIB UK site now names Greg Ellison, who joined in April 2026.",
+      "source_ids": [
+        "S19",
+        "S17"
+      ],
+      "resolution": "Ellison recorded as current."
+    },
+    {
+      "field": "QIB (UK) CEO appointment year",
+      "detail": "QIB UK site (S17) says Greg Ellison joined in April 2026; the 2023 news (S19) names Richard Musty as CEO from Jan 2023. No announcement of Musty's departure was found; a 2026 role-based search surfaced only the 2023 report.",
+      "source_ids": [
+        "S17",
+        "S19"
+      ],
+      "resolution": "Ellison recorded as current on the strength of the official QIB UK page."
+    }
   ],
   "open_items": [
     "Q3 2026 (30 Sep 2026) results not yet published: QSE financial-statement API returned 404 for QIBK 2026-09-30 on 12 Oct 2026; QIB calendar page shows no date.",
-    "No named head of Private Banking or of the Wealth Management unit found (AR 2025 org chart shows the unit without names).",
-    "LinkedIn: no search match for Bassel Gamal or Dorai Anand (set Not verified); Constantinos Constantinides and Tarek Fawzi URLs retained from original research without re-opening.",
+    "No named head of Private Banking or Wealth Management: the AR 2025 organisational structure (S6 p.19) places Wealth Management, Retail Products, Branches and Alternative Channels under the 'Chief – Personal & Private Banking Officer' (Dorai Anand) and lists no separate private-banking executive; the website senior management page (S1) names none either.",
+    "LinkedIn: no search match for Bassel Gamal or Dorai Anand in the original research (Not verified); Constantinos Constantinides and Tarek Fawzi URLs retained from the original research without re-opening. People pass X11 could not run LinkedIn checks (search tool declines name-based look-ups).",
     "Private Banking fund shelf, structured-product issuers and any custody/platform vendor are not published; discretionary mandate availability unclear.",
     "No customer count, employee headcount or wealth AUM disclosed in the Annual Report 2025, H1 2026 release or results presentation.",
     "The 8 Jul 2021 brokerage-partnership release (S16) was seen in search results only; current terms confirmed from the live Brokerage Service page (S12).",
-    "QInvest (49% associate) metrics, people and products are in qa-qinvest and are not duplicated here."
+    "QInvest (49% associate) metrics, people and products are in qa-qinvest and are not duplicated here.",
+    "People pass X11 (2026-10-12): role-based news searches for 2025-2026 QIB executive appointments found none; results were dominated by QIIB (a different bank). Appointment dates for Saleem Ul Haq and Gourang Hemani, and Dorai Anand's date as GM, are not published.",
+    "AR 2025 senior management page (S6 p.6) shows a 'Mr. Lav Kataria' whose title is illegible in the PDF text and who appears neither on the website senior management page (S1) nor in the AR executive table (S6 p.29); identity and role unverified, not added.",
+    "Board changes: Sheikha Hanoof Al Thani resigned in May 2025 (S6 p.19); the board elected in March 2026 added Sraiya Al-Kaabi, Khalid Al-Emadi, Maitha Al-Naemi and Fahad Al-Kaabi (S2). Only the Chairman is profiled in this file.",
+    "Education is not published for Gamal, Anand, Hemani, Sanghvi or Al Mesalam in S1 or S6 (only professional qualifications for Hemani and Sanghvi)."
   ],
   "research_status": "Complete",
   "researched_by": "B19",
