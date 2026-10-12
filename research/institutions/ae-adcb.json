@@ -1,0 +1,875 @@
+{
+  "id": "ae-adcb",
+  "name": "Abu Dhabi Commercial Bank",
+  "short_name": "ADCB",
+  "legal_name": "Abu Dhabi Commercial Bank PJSC",
+  "name_ar": "بنك أبوظبي التجاري",
+  "country": "AE",
+  "hq_city": "Abu Dhabi",
+  "website": "https://www.adcb.com",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1985 (the bank marked its 40th anniversary in 2025)",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "ADCB",
+  "parent_id": null,
+  "ownership_summary": "Listed with a primary listing on ADX. Mubadala Investment Company is the anchor shareholder: it took up its full pro-rata entitlement in the AED 6.1bn rights issue completed in Dec 2025 (FY2025 release). Mubadala's percentage and the rest of the register could not be verified because adcb.com HTML pages and the 2025 annual/integrated reports were not accessible (403 / over 10 MB).",
+  "shareholders": [
+    {
+      "holder": "Mubadala Investment Company (anchor shareholder; took up full pro-rata rights entitlement, Dec 2025; percentage not verified)",
+      "pct": null,
+      "as_of": "2025-12-04",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    }
+  ],
+  "government_link": "Yes — Mubadala Investment Company (Abu Dhabi sovereign investor) is the anchor shareholder (stake not verified in this batch); designated a Domestic Systemically Important Bank by CBUAE with a D-SIB buffer from 30 Jun 2026 (S4).",
+  "group_structure": "Group parent Abu Dhabi Commercial Bank PJSC. Reportable segments: Retail Banking, Private Banking, Corporate and Investment Banking, Treasury and Investments, Others (S2, S4). Subsidiaries named in 2025–2026 results: Al Hilal Bank (fully digital Islamic bank, captured inside this profile per universe rules), ADCB Egypt, and Meedaf (non-core banking holding platform launched 2025, which holds the TouchPoints loyalty programme, a JV with Brink's and an investment in InDebted) (S1, S3). Ownership percentages of subsidiaries not verified (financial statements not opened). ADCB Securities and an ADGM asset-management subsidiary are internal leads not verified in this batch. All metrics below are ADCB group consolidated (Al Hilal Bank included; no double counting).",
+  "subsidiaries": [
+    {
+      "name": "Al Hilal Bank PJSC",
+      "pct": null,
+      "activity": "Fully digital Islamic retail bank; onboarded all new customers digitally in 2025; >95% of active customers bank digitally",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "ADCB Egypt",
+      "pct": null,
+      "activity": "Banking, Egypt (H1 2026 net profit EGP 1.814bn; loans EGP 79.9bn, deposits EGP 153.5bn at 30 Jun 2026)",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "Meedaf",
+      "pct": null,
+      "activity": "Non-core banking holding platform (launched 2025): TouchPoints loyalty, JV with Brink's (cash management), investment in InDebted (AI collections)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "footprint": "UAE-focused: 70% of gross loans in the UAE (Abu Dhabi 46%, Dubai 19%, other Emirates 5%) and 30% outside the UAE at 30 Jun 2026 (S2); subsidiary bank in Egypt (S1). Branch count not found (official pages blocked).",
+  "customer_segments": "Retail (incl. Al Hilal Bank digital Islamic retail), affluent and private banking (Private Banking and Wealth Management), corporates, government-related entities and financial institutions (Corporate and Investment Banking Group), treasury clients.",
+  "business_lines": "Corporate and Investment Banking (H1 2026: 33.8% of operating income), Retail Banking (34.2%), Treasury and Investments (24.9%), Private Banking (6.0%, AED 0.719bn) and Others (S2). Private Banking and Wealth Management offers holistic advisory, discretionary portfolio management, tailored wealth planning and integrated financing on what it calls a sophisticated investment platform (S5). Retail launched 'new digital investment capabilities' in 2025 (S3) and a new AI-enabled mobile banking app with a conversational AI interface in Q2 2026 (S1). Fee lines include 'asset mgt./investment services' (FY2025 AED 267m net) (S4).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 833184,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, balance sheet highlights in the Q2 2026 earnings release / MD&A and presentation appendix",
+      "status": "Verified",
+      "locator": "Release p.4; presentation p.24",
+      "note": "Taken from the official earnings release and presentation; the reviewed interim financial statements PDF could not be located (adcb.com IR pages return 403).",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 526638,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Deposits from customers' (CASA AED 240,702m + time deposits AED 285,936m); excludes due to banks (AED 25,776m) and euro commercial paper",
+      "status": "Verified",
+      "locator": "Release p.4; presentation pp.11, 24",
+      "note": "From earnings release/presentation (financial statements not opened).",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 444596,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and advances to customers, net' (includes Islamic financing of Al Hilal Bank; gross loans AED 453bn)",
+      "status": "Verified",
+      "locator": "Release p.4; presentation pp.12, 24",
+      "note": "Gross loans given only rounded (AED 453bn).",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 89250,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Total shareholders' equity' (non-controlling interests a further AED 4m)",
+      "status": "Verified",
+      "locator": "Presentation p.24",
+      "note": "Release rounds to AED 89bn.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 22183,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income' (net interest and Islamic financing income AED 14,688m + non-interest income AED 7,495m)",
+      "status": "Verified",
+      "locator": "FY2025 release p.8",
+      "note": "From earnings release; audited FS not opened.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 11445,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net profit for the period' after tax (total; attributable split not given in the release; NCI is immaterial at AED 4m equity)",
+      "status": "Verified",
+      "locator": "FY2025 release pp.2, 8",
+      "note": "+22% yoy.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 11981,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income', six months to 30 Jun 2026",
+      "status": "Verified",
+      "locator": "Release p.4",
+      "note": "+12% yoy.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 6737,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net profit for the period' after tax (total)",
+      "status": "Verified",
+      "locator": "Release p.4",
+      "note": "+34% yoy, not like-for-like (H1 2025 taxed at 15% DMTT, H1 2026 at 9%).",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "segment_operating_income",
+      "value": 1841,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Segment: Private Banking",
+      "definition": "Private Banking segment contribution to operating income (8% of FY2025 group operating income)",
+      "status": "Verified",
+      "locator": "FY2025 presentation p.5",
+      "note": "Read from a chart label.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "segment_operating_income",
+      "value": 719,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Segment: Private Banking",
+      "definition": "Private Banking segment contribution to operating income (6.0% of H1 2026 group operating income)",
+      "status": "Verified",
+      "locator": "H1 2026 presentation p.5",
+      "note": "Read from a chart label. Annualised it is below FY2025 (AED 1,841m), while Retail rose from 26% to 34.2% of operating income; segment definitions may have changed — see discrepancies.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "asset_management_investment_fees",
+      "value": 267,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Asset mgt./investment services' net fees and commission income (net of related expenses)",
+      "status": "Verified",
+      "locator": "FY2025 presentation p.10 (pie chart)",
+      "note": "+23% yoy (FY2024: AED 217m); 7% of net fees of AED 3,607m.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "asset_management_investment_fees",
+      "value": 148,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Asset mgt./investment services' net fees and commission income (net of related expenses)",
+      "status": "Verified",
+      "locator": "H1 2026 presentation p.9 (pie chart)",
+      "note": "+18% yoy (H1 2025: AED 125m).",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Q2 2026, Q1 2026 and FY2025 earnings releases and presentations (S1–S5). Only growth rates are given for 'assets under management within investment and advisory solutions': +50% yoy in 2025, +7% in Q1 2026, +27% yoy at 30 Jun 2026. 2025 annual and integrated reports not read (over 10 MB)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Same documents (S1–S5); private-banking client base growth given only as percentages (+26% yoy at Jun 2026) and 277 new clients in Q4 2025."
+    },
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "Releases give only additions (56,000+ retail customers in Q2 2026; Al Hilal 24,000+ in H1 2026) (S1, S5). Annual report not read; adcb.com pages blocked (403)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "S1–S5; product pages blocked (403)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "FY2025 release gives Emirati headcount of 2,054 only (S3); total headcount not in releases; annual report not read."
+    },
+    {
+      "metric": "branches",
+      "status": "Not found after research",
+      "where_checked": "S1–S5; branch locator pages blocked (403)."
+    }
+  ],
+  "people": [
+    {
+      "name": "H.E. Khaldoon Khalifa Al Mubarak",
+      "name_ar": null,
+      "title": "Chairman",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Abu Dhabi Commercial Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not checked (board page blocked).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Quoted as Chairman in the FY2025 earnings release, 29 Jan 2026 (S3). Official board page returned 403 on 2026-10-12 and no later source was checked (search budget exhausted).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ala'a Eraiqat",
+      "name_ar": null,
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "Abu Dhabi Commercial Bank PJSC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not checked (leadership page blocked).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as Group Chief Executive Officer in the Q2 2026 earnings release, 23 Jul 2026 (S1), and the FY2025 release (S3). Leadership page returned 403 (2026-10-12).",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Deepak Khullar",
+      "name_ar": null,
+      "title": "Group Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Abu Dhabi Commercial Bank PJSC",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as Group Chief Financial Officer in the Q2 2026 earnings release, 23 Jul 2026 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ludovic Nobili",
+      "name_ar": null,
+      "title": "Group Chief Corporate, Wealth and Investment Banking Officer (per original workbook; not confirmed in this batch)",
+      "functions": [
+        "Corporate / wholesale",
+        "Wealth",
+        "Private banking"
+      ],
+      "entity": "Abu Dhabi Commercial Bank PJSC",
+      "business_unit": "Corporate, Wealth and Investment Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Original workbook recorded this as a verified official role on 2026-10-07 (source S069, not provided). ADCB's leadership page returned 403 on 2026-10-12 and none of the 2025–2026 earnings releases or presentations name him (S1–S5).",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Deepak Rochlani",
+      "name_ar": null,
+      "title": "Group Chief Retail Banking Officer (per original workbook; not confirmed in this batch)",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "Abu Dhabi Commercial Bank PJSC",
+      "business_unit": "Retail Banking Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Original workbook recorded this as a verified official role on 2026-10-07 (source S069, not provided). Leadership page returned 403 on 2026-10-12; not named in S1–S5.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jamal Al Awadhi",
+      "name_ar": null,
+      "title": "Chief Executive Officer, Al Hilal Bank",
+      "functions": [
+        "Subsidiary CEO",
+        "Digital"
+      ],
+      "entity": "Al Hilal Bank PJSC",
+      "business_unit": "Al Hilal Bank",
+      "scope": "Subsidiary: Al Hilal Bank",
+      "appointed": "2025-01",
+      "appointed_note": "Appointment reported 16 Jan 2025.",
+      "previous_roles": "Deputy CEO, Al Hilal Bank; earlier COO, Wio Bank and CEO, Abu Dhabi Media (S6).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Enterprise AM, 16 Jan 2025 (S6). Al Hilal Bank website returned 403 on 2026-10-12; no 2026 confirmation found.",
+      "source_ids": [
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "ADCB runs a Private Banking and Wealth Management business reported as the Private Banking segment (FY2025 operating income AED 1.84bn, 8% of group; H1 2026 AED 0.72bn, 6%). It does not publish AUM, but says 'assets under management within investment and advisory solutions' grew 50% in 2025 and 27% yoy to Jun 2026, with the private-banking client base up 26% yoy and 277 new clients in Q4 2025. Its stated aim is to be 'the private bank of choice in the region' through holistic advisory, discretionary portfolio management, wealth planning and integrated financing on a 'sophisticated investment platform' (Q1 2026). Retail Banking reports healthy investment and insurance flows and launched 'new digital investment capabilities' in 2025, then a new AI-enabled mobile app with a conversational AI interface in Q2 2026; product details were not accessible. Net 'asset mgt./investment services' fees were AED 267m in FY2025 (+23%) and AED 148m in H1 2026 (+18%). Al Hilal Bank is a fully digital Islamic retail bank; no Islamic wealth products were evidenced. Product pages (Excellency, ADCB Securities, private banking) could not be checked because adcb.com and alhilalbank.ae returned HTTP 403.",
+    "segments": [
+      {
+        "name": "Private Banking (Private Banking and Wealth Management)",
+        "tier": "HNW / UHNW",
+        "eligibility": "Not verified (product pages blocked)",
+        "source_ids": [
+          "S1",
+          "S2",
+          "S5"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Private Banking and Wealth Management: holistic advisory, discretionary portfolio management, tailored wealth planning and integrated financing (S5). Client base +7% in Q1 2026 and +26% yoy at Jun 2026; AUM within investment and advisory solutions +50% yoy (2025) and +27% yoy (Jun 2026) (S1, S3, S5). Eligibility and head of private banking not verified.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ]
+    },
+    "asset_management": {
+      "present": "Unclear",
+      "detail": "Fee line 'asset mgt./investment services' exists (FY2025 AED 267m net) (S4). In May 2018 ADCB obtained an ADGM (FSRA) licence covering asset management through a new asset-management subsidiary, also under SCA supervision (S7). No 2025–2026 evidence of the entity, its fund range or AUM was accessible.",
+      "source_ids": [
+        "S4",
+        "S7"
+      ]
+    },
+    "brokerage": {
+      "present": "Unclear",
+      "detail": "ADCB Securities is an internal lead; its website (adcbsecurities.com) and adcb.com returned 403, and the 2025–2026 results documents do not mention it (S1–S5). Not verified in this batch.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Retail Banking 'launch of new digital investment capabilities' in 2025 (S3); new AI-enabled mobile banking app with a conversational AI interface launched in Q2 2026 (S1). What can be bought in-app, and the exact launch date, not verified.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Holistic advisory within Private Banking; 'investment and advisory solutions' AUM growth reported (S1, S5).",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary portfolio management within Private Banking (S1, S5).",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "Not mentioned in results documents S1–S5; product pages blocked (403).",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "funds_platform": {
+      "present": "Unclear",
+      "detail": "Results refer to a 'broadening investment platform' and 'enhanced product offerings' (S1, S3) but no fund shelf, providers or platform vendor are named in accessible sources.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "structured_products": {
+      "present": "Unclear",
+      "detail": "Not mentioned in S1–S5; product pages blocked.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "Not mentioned in S1–S5; product pages blocked.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Unclear",
+      "detail": "Al Hilal Bank is a fully digital Islamic bank (deposits, cards, savings, FX accounts) (S1, S3, S5); Islamic Banking demand is growing in Retail (S1). No Shariah-compliant investment or wealth product evidenced.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ]
+    },
+    "asset_classes": [],
+    "partners": [],
+    "initiatives": [
+      {
+        "date": "2018-05-01",
+        "what": "Obtained ADGM (FSRA) financial services licence incl. asset management via a new asset-management subsidiary; opened an ADGM private banking centre",
+        "source_ids": [
+          "S7"
+        ]
+      },
+      {
+        "date": "2025-01",
+        "what": "Five-year strategy launched in Q1 2025: double net profit to AED 20bn within five years (c.20% annual growth), RoE >15%, c.AED 25bn dividends",
+        "source_ids": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "date": "2025-10",
+        "what": "Group-wide AI-led transformation programme targeting AED 4bn of financial value; 150+ use cases, dedicated AI leadership and 'partnerships with global AI leaders' (unnamed); internal tools Enterprise Knowledge, Board Observer, Credit Companion",
+        "source_ids": [
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Retail launched new digital investment capabilities; Private Banking AUM in investment and advisory solutions +50% yoy",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "First bank certified by CBUAE for the Al Tareq Open Finance platform; first Open Finance hackathon",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Meedaf launched as non-core banking holding platform (Brink's JV, InDebted investment, TouchPoints loyalty moved in)",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025-12-04",
+        "what": "AED 6.1bn rights issue completed (largest on ADX); Mubadala took up its full entitlement",
+        "source_ids": [
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Q2 2026: launched new AI-enabled mobile banking app with a conversational AI interface; first UAE bank to launch a Tourist Account",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2026-06-30",
+        "what": "D-SIB capital buffer (+50 bps) applies from 30 Jun 2026",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Fast-growing private bank: AUM within investment and advisory solutions +50% yoy in 2025 and +27% yoy at Jun 2026; client base +26% yoy (S1, S3).",
+        "Stated ambition to be 'the private bank of choice in the region' through advisory, discretionary management and wealth planning on a 'sophisticated investment platform' (S5).",
+        "Retail is adding digital investing: 'new digital investment capabilities' (2025) and a new AI-enabled app with a conversational AI interface (Q2 2026); specifics not published (S1, S3).",
+        "Group AI programme targets AED 4bn of value across 150+ use cases; named AI tools so far are internal (knowledge, credit, board), none for wealth clients or RMs (S3, S4).",
+        "Investment fee line is small: net 'asset mgt./investment services' fees AED 267m in FY2025 vs net fees AED 3,607m (S4).",
+        "Al Hilal Bank has a fully digital Islamic retail base (>95% of active customers digital) but no Islamic investment product evidenced (S3)."
+      ],
+      "barriers": [
+        "In-house AI transformation with dedicated AI leadership, specialist delivery teams and unnamed 'global AI leaders' as partners (S3).",
+        "Meedaf is ADCB's own vehicle for fintech partnerships and investments (Brink's JV, InDebted) (S3).",
+        "Capital and management attention focused on corporate lending growth and a 2030 profit target; Private Banking is 6–8% of operating income (S2, S4)."
+      ],
+      "incumbent_vendors": []
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Second Quarter 2026 Earnings press release and management discussion & analysis",
+      "publisher": "Abu Dhabi Commercial Bank",
+      "url": "https://www.adcb.com/en/multimedia/pdfs/2026/july/Earnings-PressRelease-Q2-2026.pdf",
+      "doc_type": "Results press release / MD&A",
+      "tier": 2,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Second Quarter 2026 Earnings presentation",
+      "publisher": "Abu Dhabi Commercial Bank",
+      "url": "https://www.adcb.com/en/multimedia/pdfs/2026/july/Earnings-Presentation-Q2-2026.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Fourth Quarter and Full Year 2025 Earnings press release and management discussion & analysis",
+      "publisher": "Abu Dhabi Commercial Bank",
+      "url": "https://www.adcb.com/en/multimedia/pdfs/2026/january/Earnings-PressRelease-FY-2025.pdf",
+      "doc_type": "Results press release / MD&A",
+      "tier": 2,
+      "published": "2026-01-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Fourth quarter and full year 2025 Earnings presentation",
+      "publisher": "Abu Dhabi Commercial Bank",
+      "url": "https://www.adcb.com/en/multimedia/pdfs/2026/january/Earnings-Presentation-FY-2025.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "First Quarter 2026 Earnings press release and management discussion & analysis",
+      "publisher": "Abu Dhabi Commercial Bank",
+      "url": "https://www.adcb.com/en/multimedia/pdfs/2026/april/Earnings-PressRelease-Q1-2026.pdf",
+      "doc_type": "Results press release / MD&A",
+      "tier": 2,
+      "published": "2026-04-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Executive changes at FAB; Al Hilal Bank names new CEO",
+      "publisher": "Enterprise AM (UAE)",
+      "url": "https://enterpriseam.com/uae/2025/01/16/executive-changes-at-fab-al-hilal-bank-names-new-ceo/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-01-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "ADCB becomes first local bank to operate in Abu Dhabi Global Market (ADCB Asset Management)",
+      "publisher": "Mondo Visione",
+      "url": "https://mondovisione.com/news/adcb-becomes-first-local-bank-to-operate-in-abu-dhabi-global-market-adcb-asset-201851/",
+      "doc_type": "News (republished release)",
+      "tier": 5,
+      "published": "2018-05-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Banks sheet row",
+      "original_value": "Missing (banks_row null; ADCB absent from the Banks sheet)",
+      "finding": "Updated",
+      "new_value": "Institution profile created from ADCB 2025–2026 earnings releases and presentations (Partial: official HTML pages blocked)",
+      "materiality": "Material",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "field": "Total assets (30 Jun 2026)",
+      "original_value": "AED 833.184 billion (release p.4, converted from AED million)",
+      "finding": "Confirmed",
+      "new_value": "AED 833,184 million",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "Customer deposits (30 Jun 2026)",
+      "original_value": "AED 526.638 billion (release p.4)",
+      "finding": "Confirmed",
+      "new_value": "AED 526,638 million 'Deposits from customers'",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "Size metric source URL",
+      "original_value": "https://www.adcb.com/en/multimedia/pdfs/2026/july/Earnings-PressRelease-Q2-2026.pdf",
+      "finding": "Confirmed",
+      "new_value": "Opened 2026-10-12; dated 23 Jul 2026",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Person: Ala'a Eraiqat",
+      "original_value": "Group Chief Executive Officer",
+      "finding": "Confirmed",
+      "new_value": "Group Chief Executive Officer (Q2 2026 release, 23 Jul 2026)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Person: Ludovic Nobili",
+      "original_value": "Group Chief Corporate, Wealth, and Investment Banking Officer; 'Verified current official role' (2026-10-07)",
+      "finding": "Could not verify",
+      "new_value": "Kept with role_status 'Requires verification': leadership page returned 403 and no accessible 2025–2026 ADCB document names him",
+      "materiality": "Material",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "field": "Person: Deepak Rochlani",
+      "original_value": "Group Chief Retail Banking Officer; 'Verified current official role' (2026-10-07)",
+      "finding": "Could not verify",
+      "new_value": "Kept with role_status 'Requires verification' (same reason)",
+      "materiality": "Material",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "field": "Person: Arvind Iyer (relationship contact)",
+      "original_value": "Business contact; title not verified; business email and internal mailbox link recorded",
+      "finding": "Could not verify",
+      "new_value": "No public source confirms his role. Not added to people; business email and internal mailbox link deliberately not copied (internal data).",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "People coverage",
+      "original_value": "4 people",
+      "finding": "Updated",
+      "new_value": "6 people: added Chairman, Group CFO and Al Hilal Bank CEO; Nobili and Rochlani pending verification",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S6"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "Net loans 31 Dec 2025",
+      "detail": "FY2025 release and presentation: AED 405,967m (S3, S4). Q2 2026 release and presentation show Dec'25 as AED 403,031m after reclassification ('certain disclosure notes/numbers have been reclassified') (S1, S2).",
+      "resolution": "Recorded only the 30 Jun 2026 figure (primary period).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "field": "Private Banking segment size",
+      "detail": "Private Banking was 8% of FY2025 operating income (AED 1,841m) but 6.0% in H1 2026 (AED 719m, about AED 1.44bn annualised), while Retail rose from 26% to 34.2%, despite private-banking AUM growth of 27% yoy.",
+      "resolution": "Unresolved; possibly a change in segment allocation. Both values recorded; check segment note in the H1 2026 financial statements.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "field": "Mid-quarter AI app date",
+      "detail": "Internal lead says an AI-powered app/assistant launched around 11 May 2026; the Q2 2026 release confirms a new AI-enabled mobile app with a conversational AI interface in Q2 2026 but gives no date (S1).",
+      "resolution": "Recorded as Q2 2026.",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "open_items": [
+    "adcb.com HTML pages (leadership, board, investor relations, products, media centre), alhilalbank.ae and adcbsecurities.com all returned HTTP 403 on 2026-10-12; no bypass attempted. Leadership roles of Ludovic Nobili and Deepak Rochlani, Chairman confirmation, Excellency and private-banking eligibility, ADCB Securities and product shelf remain unverified.",
+    "2025 annual report (https://www.adcb.com/en/multimedia/pdfs/2026/march/adcb-2025-annual-report-english.pdf), 2025 integrated report (.../2026/february/adcb-integrated-report-2025-en.pdf) and 2025 ESG report (.../2026/june/2025-adcb-esg-report-english.pdf) exceed the 10 MB fetch limit; they should hold management, shareholder percentages, customers, employees and branches.",
+    "H1 2026 and FY2025 financial statement PDFs could not be located (IR page blocked); balance-sheet and income figures come from the official earnings releases/presentations.",
+    "Lead 'AI-powered app/assistant launch around 11 May 2026': confirmed only as a Q2 2026 launch of a new AI-enabled mobile banking app with a conversational AI interface (S1); exact date and whether it supports investing not verified.",
+    "Leads 'ADCB Securities' and 'ADCB private banking / Excellency': private banking confirmed (S1, S5); ADCB Securities and Excellency not verified because the relevant sites were blocked.",
+    "Mubadala's shareholding percentage not verified.",
+    "Web search budget was exhausted early in this institution's research; news checks for 2025–2026 appointments/departures at ADCB were not possible. Re-run people checks when search is available.",
+    "Original relationship contact (Arvind Iyer) has no public role confirmation; internal email not copied."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B01",
+  "checked": "2026-10-12"
+}

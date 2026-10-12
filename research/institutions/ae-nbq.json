@@ -1,0 +1,867 @@
+{
+  "id": "ae-nbq",
+  "name": "National Bank of Umm Al Qaiwain",
+  "short_name": "NBQ",
+  "legal_name": "National Bank of Umm Al-Qaiwain (PSC)",
+  "name_ar": "بنك أم القيوين الوطني",
+  "country": "AE",
+  "hq_city": "Umm Al Qaiwain",
+  "website": "https://www.nbq.ae",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional",
+  "founded": "1982 (incorporated by Amiri Decree No. 1 of 5 Jan 1982; operations from 1 Aug 1982)",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "NBQ",
+  "parent_id": null,
+  "ownership_summary": "Listed on ADX. The Government of Umm Al Qaiwain is the largest shareholder and promoter with 34.00% at 31 Dec 2025; other holders above 5%: Salem Abdullah Salem Al Hosani 13.29%, Abdul Wahed Al Rostamani Group LLC 10.11% and Abdulla Ahmed Abdulla Al Mousa 6.06%. Moody's (10 Jul 2026) still cites the 34% government stake.",
+  "shareholders": [
+    {
+      "holder": "Government of Umm Al Qaiwain",
+      "pct": 34.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3",
+        "S9"
+      ]
+    },
+    {
+      "holder": "Salem Abdullah Salem Al Hosani",
+      "pct": 13.29,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "Abdul Wahed Al Rostamani Group LLC",
+      "pct": 10.11,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "Abdulla Ahmed Abdulla Al Mousa",
+      "pct": 6.06,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "government_link": "Yes: Government of Umm Al Qaiwain holds 34.00% (31 Dec 2025). The Chairman is the Crown Prince of Umm Al Qaiwain, and Al Mualla family members hold the chair and vice-chair seats (S3, S5). Balances with major shareholders included AED 6.55bn of deposits at 31 Dec 2025 (S3).",
+  "group_structure": "Bank plus one subsidiary, Twin Towns Marketing Management (L.L.C.-SO), Dubai (S1, S3). It carried a small associate until 2025 (share of loss AED 257 thousand in 2025, nil in H1 2026). The Islamic window, open since 2005, stopped originating new business and is in run-off (S3 note 1; AGM 9 Mar 2026, S5).",
+  "subsidiaries": [
+    {
+      "name": "Twin Towns Marketing Management (L.L.C.-SO), Dubai",
+      "pct": null,
+      "activity": "Marketing management (consolidated subsidiary; ownership % not checked)",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    }
+  ],
+  "footprint": "UAE only: 9 branches, plus ATMs/CCDMs, mobile and online banking (30 Jun 2026, S1). Domestic market share about 0.4% of UAE banking assets (Moody's, Dec 2025, S9).",
+  "customer_segments": "Wholesale/corporate (incl. government-related entities and large UAE groups), SME, and retail (salaried individuals, UAE nationals' loan schemes, cards). No affluent, priority or private banking tier found.",
+  "business_lines": "Corporate and retail banking (51% of 2025 segment gross income) and treasury and investments (48%) (fact sheet, S8). Retail products: current, savings, Al Kanz, children's savings, call and fixed deposits; personal, auto and mortgage loans (incl. National Loans Scheme); credit and prepaid cards. Wholesale: transaction banking, trade finance, corporate finance, institutional banking, FX/treasury, syndication; Dubai RERA trustee bank for escrow accounts (Nov 2025). No investment, wealth or brokerage products for clients were found.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 24095320,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed by Deloitte)",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4, scanned page)",
+      "note": "31 Dec 2025: AED 22,889,932 thousand.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 17126063,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits and Islamic customers' deposits; the balance sheet shows no separate due-to-banks line",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4)",
+      "note": "31 Dec 2025: AED 15,701,868 thousand.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 8713133,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Net loans and advances and Islamic financing receivables (net of ECL of AED 98,013 thousand; Islamic financing AED 55,665 thousand)",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4); loans note (PDF p.13)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 8811146,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total loans and advances and Islamic financing receivables before ECL",
+      "status": "Verified",
+      "locator": "loans note (PDF p.13)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 6426504,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total shareholders' equity",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 841014,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Gross income' (net interest and Islamic income, net fees, other operating income), before operating expenses and investment gains",
+      "status": "Verified",
+      "locator": "Consolidated income statement (PDF p.172)",
+      "note": "NBQ's own 'Operating income' line is after opex and adds investment gains: AED 692,116 thousand. Gross income H1 2026: AED 352,435 thousand (S1).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 580749,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year after tax (all attributable to the Bank's shareholders)",
+      "status": "Verified",
+      "locator": "Consolidated income statement (PDF p.172)",
+      "note": "FY2024: AED 506,026 thousand.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 271148,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the six-month period after tax",
+      "status": "Verified",
+      "locator": "p.3 (PDF p.5)",
+      "note": "H1 2025: AED 313,762 thousand.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 439,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025",
+      "period_type": "point_in_time",
+      "scope": "Bank (report excludes subsidiary data)",
+      "definition": "Total number of employees in 2025",
+      "status": "Verified",
+      "locator": "Integrated Report 2025 p.72",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 9,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "UAE",
+      "definition": "Branches",
+      "status": "Verified",
+      "locator": "Note 1",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Integrated Report 2025 (S3), H1 2026 interim statements (S1) and MD&A (S2); no client asset management business found."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "As above; no wealth or priority banking segment exists in the website menus (S11)."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Integrated Report 2025 (S3), fact sheet 2025 (S8), MD&A H1 2026 (S2)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "No investing product found on website (S11) or in the annual report (S3)."
+    }
+  ],
+  "people": [
+    {
+      "name": "HH Sheikh Rashid bin Saud Al Mualla",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors (non-executive); Crown Prince of Umm Al Qaiwain",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2011-02",
+      "appointed_note": "Chairman since Feb 2011; re-elected to the 2026-2029 board at the AGM of 9 Mar 2026, subject to CBUAE approval.",
+      "previous_roles": "Crown Prince of Umm Al Qaiwain and Chairman of the UAQ Executive Council (official governance report).",
+      "education": "Bachelor's in Political Science, American University of Sharjah (2011)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Governance report in Integrated Report 2025 (S3); re-elected 9 Mar 2026 (S5).",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Sager Saud Rashid Ahmed Al Mualla",
+      "name_ar": null,
+      "title": "Vice Chairman and Chairman of the Executive Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2026",
+      "appointed_note": "Elected to the board on 9 Mar 2026; signs the H1 2026 statements as Vice Chairman.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Signatory of the H1 2026 interim statements (S1); elected 9 Mar 2026 (S5).",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Nasser Rashid AbdulAziz Al Moalla",
+      "name_ar": null,
+      "title": "Board member (Vice Chairman and Chairman of the Executive Committee to Mar 2026)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "1982",
+      "appointed_note": "With the bank since 1982; re-elected 9 Mar 2026. The H1 2026 statements show a different Vice Chairman.",
+      "previous_roles": "Chairman, Union Insurance Company (2021-); Vice Chairman, Umm Al Quwain Cement (1981-2017); Vice Chairman, Sharjah Insurance (2000-2021).",
+      "education": "Bachelor's degree, Tulane University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Integrated Report 2025 (S3); AGM results 9 Mar 2026 (S5).",
+      "source_ids": [
+        "S3",
+        "S5",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Adnan Al Awadhi",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not found in the documents opened.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Signs the CEO message in Integrated Report 2025 (S3), the H1 2026 MD&A (S2) and the 30 Jun 2026 statement of financial position (S1). Departure news not checked (search budget exhausted).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Konattu Pradeep",
+      "name_ar": null,
+      "title": "Deputy Chief Executive Officer",
+      "functions": [
+        "Deputy CEO"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Organisation chart in Integrated Report 2025 (S3, p.130); no 2026 source opened.",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sudarshan Seshadri",
+      "name_ar": null,
+      "title": "Head of Retail Banking",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Retail Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Organisation chart in Integrated Report 2025 (S3, p.130); no 2026 source opened.",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ravikumar Sampath",
+      "name_ar": null,
+      "title": "Head of Wholesale Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Wholesale Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Organisation chart in Integrated Report 2025 (S3, p.130).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Vikrant Gupta",
+      "name_ar": null,
+      "title": "Head of Treasury",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Treasury",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Organisation chart in Integrated Report 2025 (S3, p.130).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Shibu Mathai",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Organisation chart in Integrated Report 2025 (S3, p.130).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Hamed",
+      "name_ar": null,
+      "title": "Head of Strategy",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "Strategy",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Organisation chart in Integrated Report 2025 (S3, p.130).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jayamohan Damodaran",
+      "name_ar": null,
+      "title": "Head of IT",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "National Bank of Umm Al-Qaiwain (PSC)",
+      "business_unit": "IT",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Organisation chart in Integrated Report 2025 (S3, p.130).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "NBQ is a small (AED 24.1bn assets at 30 Jun 2026), corporate- and treasury-led bank in Umm Al Qaiwain with 9 branches and 439 staff. Retail banking is deposits, salary loans, mortgages and cards. The website shows no investment, wealth, priority or brokerage products. Its own large investment portfolio drives 'investment gains', but this is proprietary, not a client business. The Islamic window has stopped new business and is in run-off. Digital work in 2025-26 focused on a new retail mobile/internet banking platform, UAE Pass, Aani instant payments and Apple Wallet, with plans for core banking and treasury platform modernisation and Open Finance partnerships.",
+    "segments": [
+      {
+        "name": "Retail Banking (no named affluent tier)",
+        "tier": "Mass market",
+        "eligibility": "Not published",
+        "source_ids": [
+          "S3",
+          "S11"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private or priority banking proposition on the website or in the annual report.",
+      "source_ids": [
+        "S3",
+        "S11"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset management business. Investment securities (AED 3.54bn at 30 Jun 2026) are the bank's own portfolio.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "brokerage": {
+      "present": "Not found after research",
+      "detail": "No brokerage subsidiary or client trading service found.",
+      "source_ids": [
+        "S3",
+        "S11"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "Retail digital banking platform (mobile and internet) went live in 2025, but no investing features are described.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "advisory": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S3",
+        "S11"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S11"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "Treasury offers corporate FX forwards, split deals and money market instruments; no retail structured products found.",
+      "source_ids": [
+        "S11"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "No",
+      "detail": "The Islamic window (from 2005) stopped originating new business and is being run down; a Shari'ah executive member stays until the run-off is complete.",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    "asset_classes": [],
+    "partners": [
+      {
+        "partner": "Deyaar Development PJSC",
+        "kind": "Product partner (home finance)",
+        "what": "Home financing for buyers of AYA Beachfront Residences, Umm Al Quwain",
+        "date": "2026-02-26",
+        "status": "Announced",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "partner": "Aani (instant payments)",
+        "kind": "Payments infrastructure",
+        "what": "Joined the Aani instant payment platform",
+        "date": "2025-08-11",
+        "status": "Live",
+        "source_ids": [
+          "S10",
+          "S3"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025",
+        "what": "New retail digital banking platform (mobile and internet) live; UAE Pass login; Aani; Apple Wallet extensions; cloud strategy prepared with a consultancy; loan origination modernisation due 2026; core banking and treasury platform modernisation planned; Open Finance programme",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025-11-13",
+        "what": "Accredited by Dubai RERA as trustee bank for real estate escrow accounts",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "date": "2026-03-09",
+        "what": "AGM elected the 2026-2029 board and approved a 20% cash dividend (AED 400m); Islamic window confirmed closed and in run-off",
+        "source_ids": [
+          "S5"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "No client investment, wealth or brokerage offering at all (website menus and annual report, S3, S11), so any wealth proposition would be greenfield.",
+        "Deposit base grew 29% year on year to AED 17.1bn at 30 Jun 2026, and the bank says it will 'launch a slew of solutions' and pursue Open Finance partnerships in retail (S2, S3).",
+        "Core banking and treasury platform modernisation is planned, so the technology stack is being re-platformed (S3)."
+      ],
+      "barriers": [
+        "Very small retail franchise and no affluent segment; 439 staff and 9 branches (S3).",
+        "Strategy is corporate, treasury and digital-payments focused; no stated wealth ambition found (S2, S3).",
+        "Funding is concentrated, with large deposits from major shareholders (S3, S9)."
+      ],
+      "incumbent_vendors": []
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Interim condensed consolidated financial information for the six-month period ended 30 June 2026",
+      "publisher": "National Bank of Umm Al-Qaiwain (PSC)",
+      "url": "https://nbq.ae/docs/default-source/downloads/annual-report/02-nbq-fs-2026-q2-e.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Management Discussion and Analysis Report for the six months ended 30 June 2026",
+      "publisher": "National Bank of Umm Al-Qaiwain (PSC)",
+      "url": "https://nbq.ae/docs/default-source/downloads/annual-report/02-nbq-adx-mrpt-2026-q2-e.pdf",
+      "doc_type": "ADX MD&A report",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Integrated Report 2025 (incl. corporate governance report and audited financial statements)",
+      "publisher": "National Bank of Umm Al-Qaiwain (PSC)",
+      "url": "https://nbq.ae/docs/default-source/downloads/annual-report/01-nbq-annual-report-2025-e.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Management Discussion and Analysis Report for the year ended 31 Dec 2025",
+      "publisher": "National Bank of Umm Al-Qaiwain (PSC)",
+      "url": "https://nbq.ae/docs/default-source/downloads/annual-report/01-nbq-adx-mgt-2025-e.pdf",
+      "doc_type": "ADX MD&A report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Report Concerning Results of Annual General Assembly Meeting, 9 March 2026",
+      "publisher": "National Bank of Umm Al-Qaiwain (PSC)",
+      "url": "https://nbq.ae/docs/default-source/downloads/shareholder-information/01-nbq-agm-adx-09032026-e.pdf",
+      "doc_type": "Exchange disclosure (AGM results)",
+      "tier": 1,
+      "published": "2026-03-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Invitation to attend the Annual General Assembly Meeting, 9 March 2026",
+      "publisher": "National Bank of Umm Al-Qaiwain (PSC)",
+      "url": "https://nbq.ae/docs/default-source/downloads/shareholder-information/01-nbq-agmn-2026-e.pdf",
+      "doc_type": "AGM notice",
+      "tier": 1,
+      "published": "2026-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Disclosure of the list of candidates for membership of the Board of Directors (2026-2029)",
+      "publisher": "National Bank of Umm Al-Qaiwain (PSC)",
+      "url": "https://nbq.ae/docs/default-source/downloads/shareholder-information/01-nbq-dbodn-2026.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-03-05",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S8",
+      "title": "NBQ Fact Sheet (2025)",
+      "publisher": "National Bank of Umm Al-Qaiwain (PSC)",
+      "url": "https://nbq.ae/docs/default-source/downloads/fact-sheet/01-nbq-fact-sheet-2025.pdf",
+      "doc_type": "Investor fact sheet",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "National Bank of Umm Al-Qaiwain (PSC): Update following rating affirmation, outlook remains stable",
+      "publisher": "Moody's Ratings (hosted on NBQ investor briefcase)",
+      "url": "https://nbq.ae/docs/default-source/downloads/fact-sheet/01-nbq-moody-10072026-pbc1468966.pdf",
+      "doc_type": "Rating agency credit opinion",
+      "tier": 5,
+      "published": "2026-07-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "News & Events (media room listing)",
+      "publisher": "National Bank of Umm Al-Qaiwain",
+      "url": "https://www.nbq.ae/general/news-and-media",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "NBQ homepage and personal/wholesale product menus",
+      "publisher": "National Bank of Umm Al-Qaiwain",
+      "url": "https://www.nbq.ae/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Investor Relations: Financial Information",
+      "publisher": "National Bank of Umm Al-Qaiwain",
+      "url": "https://www.nbq.ae/about-us/investor-relations/financial-information",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Islamic window status",
+      "detail": "Integrated Report 2025 note 1 and the 9 Mar 2026 AGM say new Islamic business has stopped and the window is in run-off (S3, S5). The H1 2026 interim note 1 still says the Group 'carries out Islamic banking operations through Islamic banking window' (S1), and Moody's (Jul 2026) lists Islamic banking among services (S9). Islamic income rose to AED 32.7m in H1 2026 (S1).",
+      "resolution": "Treated as run-off per the board decision and AGM; recorded islamic_wealth as 'No'. Rising Islamic income is unexplained.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5",
+        "S9"
+      ]
+    },
+    {
+      "field": "Vice Chairman",
+      "detail": "Integrated Report 2025 names Sheikh Nasser Rashid Al Moalla as Vice Chairman; the H1 2026 statements are signed by Sager Saud Rashid Ahmed Almualla as Vice Chairman and Chairman of the Executive Committee.",
+      "resolution": "Used the H1 2026 signatory as current Vice Chairman (change after the 9 Mar 2026 board election).",
+      "source_ids": [
+        "S3",
+        "S1"
+      ]
+    }
+  ],
+  "open_items": [
+    "Web search budget for the session ran out during this institution, so no news check was possible for leadership changes, LinkedIn profiles or 2026 appointments. All people are taken from official documents; those found only on the 2025 organisation chart are marked 'Requires verification'.",
+    "No official leadership web page found; CEO Adnan Al Awadhi's appointment date and biography are not published in the documents opened.",
+    "No official NBQ LinkedIn link on the website; linkedin_company left null.",
+    "Twin Towns Marketing Management ownership percentage and activity not checked in the financial statement notes.",
+    "Q3 2026 results not yet published on the IR page (checked 2026-10-12)."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B06",
+  "checked": "2026-10-12"
+}

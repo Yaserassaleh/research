@@ -1,0 +1,1383 @@
+{
+  "id": "sa-anb-capital",
+  "name": "ANB Capital",
+  "short_name": "anb capital",
+  "legal_name": "ANB Capital Company (a Saudi Closed Joint Stock Company, Single Person Company); formerly Arab National Investment Company",
+  "name_ar": "شركة العربي المالية",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://anbcapital.com.sa",
+  "linkedin_company": "https://www.linkedin.com/company/anbcapital/",
+  "category": "Bank-owned investment subsidiary",
+  "type": "Asset & wealth manager",
+  "model": "Not applicable",
+  "founded": "2007 registration (CR 1010239908 dated 7 Nov 2007; CMA resolution 2007-36-4 dated 5 Jul 2007; CMA licence 07072-37). Commercial operations began 12 Jan 2008 when it took over ANB's investment services and asset management activities. Renamed from Arab National Investment Company to ANB Capital Company on 29 Jun 2022 (same CR).",
+  "regulators": [
+    "CMA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": "sa-anb",
+  "ownership_summary": "Wholly owned by Arab National Bank (100,000,000 shares of SAR 10; 100% at 31 Dec 2024 and 31 Dec 2025). Share capital SAR 1,000m, fully paid (raised from SAR 400m to SAR 1,000m in March 2017). The annual report calls it the bank's 'sole investment arm'. No dividends were declared or paid in 2024 or 2025.",
+  "shareholders": [
+    {
+      "holder": "Arab National Bank",
+      "pct": 100.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S4"
+      ]
+    }
+  ],
+  "government_link": "Indirect at most. The parent, Arab National Bank, is 40% owned by Arab Bank PLC (Jordan), with no government holder above 5% disclosed (see sa-anb). Nothing government-owned at anb capital level.",
+  "group_structure": "100% subsidiary of Arab National Bank (sa-anb), fully consolidated by the parent. No subsidiaries other than special purpose vehicles that hold fund assets under CMA rules; these SPVs are not consolidated (AR 2025). Holds a 23.76% associate stake in the Sara Second Real Estate Investment Fund (SAR 325m invested 21 May 2020, equity accounted). Double counting: the parent reports anb capital as its 'Investment and brokerage services' segment (see sa-anb, where the segment total is within SAR 0.2m of anb capital's own SAR 556.2m operating income). Never add this record's figures to sa-anb. Roughly a third of anb capital's own FY2025 operating income came from the parent (SAR 175.9m of SAR 556.2m, calculated from note 17: deposit commission 150.4m, advisory fee 10.0m, discretionary portfolio fees 10.3m, corporate finance 4.3m, custody 0.9m).",
+  "subsidiaries": [],
+  "footprint": "Saudi Arabia only. Head office King Faisal Road, Murabbaa, Riyadh. Four investment centres on the website (checked 12 Oct 2026): Riyadh (2), Al-Khobar, Jeddah. International brokerage reaches GCC, Egypt and US markets through the anb capital Global platform. Also distributes funds through the anb mobile app (parent).",
+  "customer_segments": "Individual investors (retail, HNW; wealth management for 'individuals, families, entrepreneurs and corporations'); discretionary mandates for corporate, institutional and HNW clients with investable assets of SAR 20m or more; institutional clients served by a dedicated sales team (asset managers, sovereign wealth funds, family offices); corporates and government entities for investment banking; anb retail and affluent clients via the parent.",
+  "business_lines": "FY2025 operating income SAR 556.2m (audited): asset management fees 181.1m; special commission on cash deposits 150.4m (all placed with the parent); margin lending income 96.0m; investment banking and advisory fees 74.8m; brokerage fees net of Tadawul fees 36.4m; investment gains and other 17.4m. Activities: public mutual funds (14 listed on the website), discretionary portfolio management, 24 closed-ended real estate funds, 4 private equity and venture funds, private fixed income funds, wealth management and advisory, Saudi and international brokerage with Shariah and conventional margin lending, investment banking (ECM, DCM, M&A, debt advisory), sell-side research (since late 2024), and a licence for custody that is not a core activity.",
+  "metrics": [
+    {
+      "metric": "aum",
+      "value": 24.6,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "anb capital",
+      "definition": "'AUM - Net Asset Value' as printed in the annual report (net asset value basis). Discretionary/non-discretionary split not stated.",
+      "status": "Verified",
+      "locator": "S4 PDF pp.7, 15, 24",
+      "note": "Rounded press figure as printed. Latest available: anb capital publishes no interim statements (S15).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "aum_gross_asset_value",
+      "value": 28.0,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "anb capital",
+      "definition": "'AUM - Gross Asset Value' (gross asset value basis, as printed). Same book as the NAV figure above, not additive.",
+      "status": "Verified",
+      "locator": "S4 PDF pp.7, 15, 24",
+      "note": "Rounded as printed. Gross exceeds NAV by SAR 3.4bn; the report does not explain the gap.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 2425799584,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "anb capital Company, audited statement of financial position",
+      "definition": "Total assets (SAR as printed; includes margin lending receivables 1,267,242,263 and cash 553,862,916)",
+      "status": "Verified",
+      "locator": "S5 PDF p.5",
+      "note": "Latest available. FY2024: 2,146,500,858. Excludes off-balance-sheet fund assets.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 2246292654,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "anb capital Company",
+      "definition": "Total equity (share capital 1,000,000,000; retained earnings 1,247,032,962; other reserves negative 740,308)",
+      "status": "Verified",
+      "locator": "S5 PDF p.5",
+      "note": "FY2024: 1,931,792,796.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 556188305,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "anb capital Company",
+      "definition": "'Total operating income' in the statement of profit or loss (brokerage net, asset management fees, investment banking, margin and deposit commission, investment gains, other)",
+      "status": "Verified",
+      "locator": "S5 PDF p.6; S4 PDF p.22",
+      "note": "FY2024: 486,128,657 (+14%).",
+      "source_ids": [
+        "S5",
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 311452339,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "anb capital Company",
+      "definition": "'Income for the year' after zakat and income tax of 58,725,107; single shareholder, no non-controlling interest",
+      "status": "Verified",
+      "locator": "S5 PDF p.6",
+      "note": "FY2024: 400,169,680, which included a one-off SAR 152m gain on the Business Gate Fund exit (CEO letter, S4 PDF p.7; share of associate earnings 155.8m in 2024).",
+      "source_ids": [
+        "S5",
+        "S4"
+      ]
+    },
+    {
+      "metric": "asset_management_fees",
+      "value": 181101311,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "anb capital Company",
+      "definition": "'Asset management fees income' line in the statement of profit or loss",
+      "status": "Verified",
+      "locator": "S5 PDF p.6",
+      "note": "FY2024: 126,364,087 (+43%). 32.6% of FY2025 operating income.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "brokerage_commission_income",
+      "value": 36431758,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "anb capital Company",
+      "definition": "'Brokerage fees income, net' (brokerage income 69,971,121 less Tadawul fees 33,539,363), note 20(a)",
+      "status": "Verified",
+      "locator": "S5 PDF pp.6, 32",
+      "note": "FY2024 net: 46,690,232 (-22%). Margin lending income is separate (below).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "margin_lending_income",
+      "value": 95987028,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "anb capital Company",
+      "definition": "'Special commission income on margin lending'",
+      "status": "Verified",
+      "locator": "S5 PDF p.6",
+      "note": "FY2024: 88,155,220 (+9%). Brokerage net plus margin lending = SAR 132.4m, 24% of operating income (AR rounds to SAR 132m).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "investment_banking_advisory_fees",
+      "value": 74840098,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "anb capital Company",
+      "definition": "'Investment banking and advisory fees'",
+      "status": "Verified",
+      "locator": "S5 PDF p.6",
+      "note": "FY2024: 45,258,319 (+65%). Led by the Flynas IPO (SAR 4.1bn) as joint bookrunner (S4).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "special_commission_income_deposits",
+      "value": 150426560,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "anb capital Company",
+      "definition": "'Special commission income on cash deposits'; note 17 shows the full SAR 150,426,560 as income from the parent, Arab National Bank",
+      "status": "Verified",
+      "locator": "S5 PDF pp.6, 32",
+      "note": "27% of operating income. FY2024: 170,599,233.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 68,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "anb capital brokerage",
+      "definition": "'Brokerage value traded' of SAR 68 billion in 2025 as printed in the annual report",
+      "status": "Verified",
+      "locator": "S4 PDF p.23",
+      "note": "Rounded as printed. Market share not stated; the AR gives market-wide value traded of SAR 1.30 trillion (PDF p.9) but its decline figures differ between pages (30.2% on p.9, 43% on p.23), so no share was calculated.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "fund_count",
+      "value": 14,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Website, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "Public mutual funds listed on the website",
+      "definition": "Public mutual funds on the 'Public Mutual Funds' page: 8 equity, 2 money market, 3 multi-asset, 1 sukuk/debt; 12 Shariah-compliant, 2 conventional",
+      "status": "Verified",
+      "locator": "S7 fund table",
+      "note": "Excludes private and real estate funds. Website prices dated 8 and 11 Oct 2026; no fund AUM shown.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "real_estate_fund_count",
+      "value": 24,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Closed-ended real estate funds under management",
+      "definition": "Active real estate funds after 7 launches in 2025 (residential, office, retail, industrial)",
+      "status": "Verified",
+      "locator": "S4 PDF pp.8, 18",
+      "note": "The website's real estate page lists 22 distinct funds with unlabelled figures (see open_items).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "private_equity_venture_fund_count",
+      "value": 4,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Private equity and venture capital funds",
+      "definition": "'A portfolio of four private equity and venture capital funds', including the anb Seed Fund (10 fintech investments) and a 2025 healthcare fund (Baraya Extended Care)",
+      "status": "Verified",
+      "locator": "S4 PDF p.17",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 4,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Website, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "anb capital",
+      "definition": "Investment centres on the 'Investment centers' page (Riyadh 2, Al-Khobar 1, Jeddah 1)",
+      "status": "Verified",
+      "locator": "Investment centers page",
+      "note": "",
+      "source_ids": [
+        "S14"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum_30_jun_2026",
+      "status": "Not publicly disclosed",
+      "where_checked": "anb capital corporate disclosures page lists only annual reports and annual FS (S15); news room (S16); parent H1 2026 results via Argaam (S25, consolidated only). Parent IR financial-statements page showed 'The Website is under maintenance' on 12 Oct 2026 (S24)."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 (S4); FS 2025 (S5); website pages (S3, S10, S13)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 (S4); new trading app page (S12); Global platform page (S11)"
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "AR 2025 (S4; text search for headcount, staff, employees); FS 2025 (S5, only salary cost SAR 143.7m); website (S1, S3)"
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 (S4) and Wealth Management page (S13) give no wealth-unit balances"
+    },
+    {
+      "metric": "brokerage_market_share",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 (S4 PDF pp.9, 23) gives value traded SAR 68bn but no share"
+    },
+    {
+      "metric": "aum_discretionary",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 (S4) gives no DPM balance (discretionary fee income from the parent alone was SAR 10.3m, note 17 of S5)"
+    },
+    {
+      "metric": "income_h1_2026",
+      "status": "Not publicly disclosed",
+      "where_checked": "No interim statements published by anb capital (S15); parent segment note not opened because the parent IR page was under maintenance (S24)"
+    }
+  ],
+  "people": [
+    {
+      "name": "Samra A. Alkuwaiz",
+      "name_ar": null,
+      "title": "Chairperson of the Board of Directors (Independent)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": "2022-11",
+      "appointed_note": "Board member appointed November 2022 (AR 2025 attendance table); date she became Chairperson not found.",
+      "previous_roles": "Managing partner and co-founder roles at several Saudi companies; former lecturer at King Saud University; former board member, partner and CFO of Osool Capital, the first independent licensed brokerage in Saudi Arabia; Board Member and Executive Director, Al Hasil Holding. Named among the most powerful Arab women by Arabian Business (2011).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 board list (S4); no departure news found",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Obaid A. Alrasheed",
+      "name_ar": null,
+      "title": "Vice Chairperson of the Board (Non-Executive); Managing Director and CEO of Arab National Bank",
+      "functions": [
+        "Board"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": "2021-02",
+      "appointed_note": "Appointed to the anb capital board February 2021 (AR 2025). The website lists him as 'Member' only (see discrepancies). Full profile in sa-anb.",
+      "previous_roles": "MD and CEO, Arab National Bank (37+ years in banking); Vice Chairperson of SHL Finance, Saudi Chemical Holding and Dr. Sulaiman Al Habib Medical Group",
+      "education": "Bachelor's in Business Administration, San Jose State University (California)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S4)",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalid S. Alghamdi",
+      "name_ar": null,
+      "title": "Chief Executive Officer and Executive Board Member",
+      "functions": [
+        "CEO",
+        "Investments / asset management"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Executive Management",
+      "scope": "Subsidiary",
+      "appointed": "2021",
+      "appointed_note": "'CEO and Board Member since 2021' per Bridge Middle East (S23, month not given); board seat dated November 2022 in the AR 2025 attendance table. The official site gives no start date.",
+      "previous_roles": "Merrill Lynch (London); GIB Capital; CEO and board member, Credit Suisse Saudi Arabia; CEO and board member, Mizuho Saudi Arabia. Reports advising on more than USD 50bn of transactions, including over USD 40bn of Saudi IPOs. Member of the CMA Capital Market Institutions Committee. Board member, Safwa Cement Company.",
+      "education": "MBA in Finance, University of Colorado Boulder; BA (Hons), University of London",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive and board pages checked 2026-10-12 (S1, S2); signs the AR 2025 CEO letter (S4) and the audited FS 2025 (S5); search for 2026 news found no departure or successor",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4",
+        "S5",
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fahad M. Al-Mazyad",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Operations",
+      "scope": "Subsidiary",
+      "appointed": "2023-09",
+      "appointed_note": "In role since September 2023 per the official bio",
+      "previous_roles": "20+ years in capital markets: SABB; HSBC Saudi Arabia (COO for Brokerage); Albilad Capital (COO)",
+      "education": "Bachelor of Business Administration, King Abdulaziz University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Loay H. Al-Salman",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Finance",
+      "scope": "Subsidiary",
+      "appointed": "2019",
+      "appointed_note": "Joined in 2019 per the official bio; signs the audited FS 2025",
+      "previous_roles": "17+ years in finance and banking: PricewaterhouseCoopers; NCB Capital (Vice President, Finance)",
+      "education": "BS in Accounting and MBA, University of Bahrain",
+      "qualifications": "Licensed CPA (New Hampshire, USA)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1); signatory on FS 2025 (S5)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahab Minhas",
+      "name_ar": null,
+      "title": "Chief Strategy Officer",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Strategy and Marketing",
+      "scope": "Subsidiary",
+      "appointed": "2022-01",
+      "appointed_note": "Joined January 2022 per the official bio",
+      "previous_roles": "25+ years with financial institutions: Sulaiman Al Rajhi Investment Company; GIB Capital (about 15 years in investment banking); Ernst & Young",
+      "education": "MBA, Lahore University of Management Sciences",
+      "qualifications": "CFA charterholder",
+      "linkedin_url": "https://sa.linkedin.com/in/ahabminhas",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1). LinkedIn search result titled 'Ahab Minhas, CFA'; the search summary said the anb capital LinkedIn page lists him as Chief Strategy Officer. Profile not opened, so evidence is limited to the title and the CFA match (S21).",
+      "source_ids": [
+        "S1",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bader A. Al-Essa",
+      "name_ar": null,
+      "title": "Head of Brokerage",
+      "functions": [
+        "Brokerage"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Capital Markets (brokerage)",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joined in 2004; progressed through Central Trading Unit roles to Head of Local Brokerage, then Head of Brokerage. Date of current title not found.",
+      "previous_roles": "Began at Alistithmar Capital (per official bio); then anb capital from 2004",
+      "education": "Bachelor's in Public Administration, King Saud University",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/bader-alessa-65b692118/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1). LinkedIn search result 'Bader Alessa - anb capital'; title not shown in the snippet (S19).",
+      "source_ids": [
+        "S1",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalid S. Al-Deghaither",
+      "name_ar": null,
+      "title": "Head of Asset Management",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Asset Management",
+      "scope": "Subsidiary",
+      "appointed": "2023",
+      "appointed_note": "Joined 2022 as Director of Equities; promoted to Head of Asset Management in 2023 (official bio)",
+      "previous_roles": "11+ years in asset management: Samba Capital; Saudi Fransi Capital; HSBC Saudi Arabia (Senior Portfolio Manager)",
+      "education": "Bachelor's in Finance, York University (Toronto)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1). An older Arab News profile names a different head of asset management (Muneera Al-Dossary, 2022-2023), who has since moved on (see discrepancies).",
+      "source_ids": [
+        "S1",
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Rakan T. Al-Rubayan",
+      "name_ar": null,
+      "title": "Head of Wealth Management",
+      "functions": [
+        "Wealth",
+        "Affluent"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Wealth Management",
+      "scope": "Subsidiary",
+      "appointed": "2022",
+      "appointed_note": "Head of Wealth Management since 2022; with anb from 2006 and anb capital from 2008 (official bio). Spelled 'Alrubian' in LinkedIn-sourced search summaries.",
+      "previous_roles": "VIP stockbroker, investment officer and Central Region manager at anb capital",
+      "education": "Institute of Public Administration (graduated 2006)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1). Two searches did not return his own LinkedIn profile.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hussam A. Alsurayhi",
+      "name_ar": null,
+      "title": "Head of Product and Business Development",
+      "functions": [
+        "Innovation / partnerships",
+        "Investments / asset management"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Product and Business Development",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joining date not stated",
+      "previous_roles": "17+ years in investment management: Head of Alternative Investments, Tharawat Tuwaiq; Al Rajhi Capital; Capital Market Authority",
+      "education": "Master's in Applied Finance, University of Newcastle (Australia); Bachelor's in Finance, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1). The AR 2025 organisation chart shows a Product and Business Development unit (S4 PDF p.13).",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Omar A. Ardati",
+      "name_ar": null,
+      "title": "Head of Private Equity",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Private Equity",
+      "scope": "Subsidiary",
+      "appointed": "2023",
+      "appointed_note": "Joined 2020 in Investment Banking; moved to Private Equity in 2023 (official bio)",
+      "previous_roles": "Six years at Fawaz Alhokair Group (including the Arabian Centres IPO); began at Olayan Group in 2008",
+      "education": "BBA, American University of Beirut",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/omar-ardati-b6377616/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1). LinkedIn search result 'Omar Ardati - anb capital'; title not shown in the snippet (S20).",
+      "source_ids": [
+        "S1",
+        "S20"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Usman Khalid",
+      "name_ar": null,
+      "title": "Head of Investment Banking",
+      "functions": [
+        "Other"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Investment Banking",
+      "scope": "Subsidiary",
+      "appointed": "2022-09",
+      "appointed_note": "Joined September 2022 (official bio)",
+      "previous_roles": "About 15 years at JPMorgan in London and Hong Kong (2002-2016); managed global equity portfolios in London",
+      "education": "BSc in Finance, Wharton School, University of Pennsylvania",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Osama A. Alharthi",
+      "name_ar": null,
+      "title": "Head of Real Estate",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Real Estate",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joining date not stated",
+      "previous_roles": "Senior Director of Investments, AWJ Holding; SNB Capital; Capital Market Authority",
+      "education": "Bachelor's in Accounting, KFUPM; Master's in Economics, Central Michigan University",
+      "qualifications": "CAIA charterholder",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed S. Almonajam",
+      "name_ar": null,
+      "title": "Chief Governance, Risk and Compliance Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Governance, Risk and Compliance",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joining date not stated",
+      "previous_roles": "20+ years in GRC: Chief of GRC at a PIF subsidiary; Chief Compliance Officer, Al Rajhi Capital; Head of Compliance and Risk, Riyadh Capital; Senior Risk Officer, Samba",
+      "education": "EMBA, Al Yamamah University; postgraduate certificate, Washington State University; diplomas in International Law and Legal Translation",
+      "qualifications": "CFE, PMP and other certifications as listed on the official page (RMP, PBA, P3O, MCIArb, FIDIC)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khaled A. Alrashed",
+      "name_ar": null,
+      "title": "Non-Executive Board Member; head of the parent's Retail Banking Group",
+      "functions": [
+        "Board",
+        "Retail",
+        "Affluent"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": "2025-08",
+      "appointed_note": "Appointed to the anb capital board August 2025. The AR calls him 'Chief Personal Bank Officer' at ANB; the website calls him CEO of the Retail Banking Group (see discrepancies). Full profile in sa-anb.",
+      "previous_roles": "18+ years in retail and corporate banking at ANB (AR); board member, Saudi Financial Support Services, Al Arabi Heavy Equipment and SHL Finance; chairs investment funds at anb capital (website)",
+      "education": "Bachelor's in Business Administration (accounting), King Saud University; postgraduate certificate, Washington State University; EMBA, Al Yamamah University and INSEEC University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S4)",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mashaal A. Aljomaih",
+      "name_ar": null,
+      "title": "Independent Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "ANB Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": "2025-08",
+      "appointed_note": "Appointed August 2025 (AR 2025)",
+      "previous_roles": "CEO, Investcorp Saudi Arabia Financial Investments Co (current); 20+ years in investment banking, wealth management and real estate advisory; Managing Director, BNP Paribas Investment Company; senior roles at JP Morgan (Saudi Arabia and UK); co-founder, Darin Partners (London); board member, Saudi Vision Bank and Itqan Capital",
+      "education": "MBA, Clark University; executive education at INSEAD",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S4)",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "anb capital is the parent bank's sole investment arm and the product engine behind its affluent and private offers (see sa-anb). It reported SAR 24.6bn AUM on a net asset value basis (SAR 28.0bn gross) at 31 Dec 2025. FY2025 operating income was SAR 556.2m, of which asset management fees were SAR 181.1m, margin lending SAR 96.0m, investment banking SAR 74.8m and net brokerage only SAR 36.4m (-22%); SAR 150.4m was interest on deposits placed with the parent. The shelf is 14 public mutual funds (12 Shariah-compliant; Saudi equity, money market, multi-asset and a sovereign sukuk fund), 24 closed-ended real estate funds, 4 private equity and venture funds, private fixed income funds and discretionary mandates from SAR 20m. The Wealth Management page describes research-led advisory and customised portfolios, but publishes no minimums, products or named team beyond the head of the unit. Clients trade Saudi equities in a new app (2025) that has scheduled recurring orders and margin, and international markets (GCC, Egypt, US with fractional shares from USD 1) on the 'anb capital Global' platform, which the site says is powered by Global Trading Network (GTN). 2026 priorities in the annual report: diversify products, grow discretionary mandates, execute a private credit strategy, build joint ventures and partnerships, introduce REITs.",
+    "segments": [
+      {
+        "name": "Discretionary portfolio management",
+        "tier": "Private / HNW",
+        "eligibility": "'Suitable for clients with investible assets of SAR 20 million and above' (corporate, institutional and high-net-worth clients, as published)",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "name": "Wealth Management",
+        "tier": "Affluent",
+        "eligibility": "Not published. Targets 'individuals, families, entrepreneurs, and corporations'; no minimums or eligibility criteria stated.",
+        "source_ids": [
+          "S13"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "anb capital has no private banking unit of its own. Wealth Management (advisory and portfolio management) and discretionary mandates from SAR 20m are the closest services. The parent bank runs Private Banking and the anb Elite proposition (see sa-anb).",
+      "source_ids": [
+        "S13",
+        "S6"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "AUM SAR 24.6bn NAV / SAR 28.0bn gross at 31 Dec 2025. 14 public mutual funds on the website (8 equity, 2 money market, 3 multi-asset, 1 sovereign sukuk fund; 12 Shariah, 2 conventional; SAR and USD money market funds). 24 closed-ended real estate funds, 4 private equity and venture funds (anb Seed Fund, healthcare fund), 2 private fixed income funds and 2 public multi-asset funds launched in 2025. Asset management fees SAR 181.1m in FY2025 (+43%). No fund-level AUM published on the website.",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S7",
+        "S8",
+        "S6"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Saudi Exchange plus GCC (Qatar, Dubai, Abu Dhabi, Muscat, Bahrain), Egypt and US exchanges (NYSE, Nasdaq, OTC; options data). Channels: broker-assisted Central Trading Unit, IVR self-trading, web, apps and a TWS active-trader program. Brokerage value traded SAR 68bn in 2025; brokerage fees SAR 36.4m net of Tadawul fees; Shariah and conventional margin lending (SAR 96.0m income). Institutional sales and trading desk with two new global broker relationships in 2025 (brokers not named). Sell-side research since late 2024.",
+      "source_ids": [
+        "S10",
+        "S11",
+        "S4",
+        "S5"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "New anb capital trading app and web platform (2025): conditional and stop-loss orders, digital IPO subscriptions, online margin, scheduled recurring investment orders, watchlists (Shariah, newly listed, growth, ESG), analyst ratings, one-tap switch to the global platform. 'anb capital Global' (e-brokerage for GCC, Egypt, US; web, iOS, Android) is stated to be powered by GTN; fractional US shares from USD 1; open to anb capital clients with a local portfolio and an active anb current account. Funds can also be subscribed in the anb mobile app (parent). Launch date of the new app not stated on the page.",
+      "source_ids": [
+        "S12",
+        "S11",
+        "S6",
+        "S4"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Wealth Management page: research-based investment advisory and customised portfolios, including Shariah-compliant strategies, 'experienced advisors' (not named). Head of Wealth Management since 2022. Investment banking advisory (ECM, DCM, M&A, debt advisory) is a separate division.",
+      "source_ids": [
+        "S13",
+        "S1",
+        "S4"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary Portfolio Management for clients with investable assets of SAR 20m and above; process covers objectives, risk tolerance, execution, periodic review and rebalancing. The parent also places a discretionary portfolio with anb capital (SAR 10.3m fee income in FY2025). 2026 priority: 'Grow DPMs'. DPM AUM not disclosed.",
+      "source_ids": [
+        "S6",
+        "S4",
+        "S5"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo-advisor or model-portfolio product found on the anb capital website or in AR 2025. The new app offers scheduled recurring orders (automated investing) and three Shariah multi-asset funds (conservative, balanced, growth) act as risk-profiled options.",
+      "source_ids": [
+        "S12",
+        "S7",
+        "S4"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "Own funds only on the website and in the anb app. No third-party fund shelf or fund-platform provider found.",
+      "source_ids": [
+        "S7",
+        "S6"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured products on the anb capital website or in AR 2025. The parent bank's Treasury sells structured deposits (see sa-anb).",
+      "source_ids": [
+        "S10",
+        "S4"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "24 closed-ended real estate funds (7 launched in 2025; Narjis View Fund exited at 2.3x cash-on-cash and over 50% IRR); 4 private equity and venture funds including the anb Seed Fund (10 fintech investments) and a healthcare fund (Baraya Extended Care); real estate debt structuring; 2026 priorities include a private credit strategy and expanding VC and PE. Two real estate funds bought land in Al Khobar for over SAR 800m on 30 Jul 2026.",
+      "source_ids": [
+        "S4",
+        "S8",
+        "S9",
+        "S17"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "12 of the 14 public funds are labelled Shariah-compliant (Shariah equity, SAR and USD Trade money market, multi-asset and sovereign sukuk funds); Shariah margin lending; Business Gate Fund is Shariah-compliant; annual Shariah Committee report (Arabic) published. The firm offers both Shariah and conventional services.",
+      "source_ids": [
+        "S7",
+        "S10",
+        "S9",
+        "S15"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Global Trading Network (GTN)",
+        "kind": "Execution / platform technology",
+        "what": "anb capital's Global platform page states it is powered by GTN as technology and market data provider; the Android package ID is com.directfn.mobile.anb_prod. Covers GCC, Egypt and US markets. No announcement or date found.",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "partner": "Two unnamed global brokers",
+        "kind": "Execution / broker",
+        "what": "AR 2025: 'two new global broker relationships' expanded the institutional desk's ability to serve international clients",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "partner": "Arab National Bank (parent)",
+        "kind": "Distribution / funding",
+        "what": "Funds can be subscribed in the anb mobile app; the bank supplies the margin lending facility (since 1 Apr 2017), holds anb capital's cash deposits (SAR 553.8m current accounts) and places a discretionary portfolio",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S6",
+          "S5"
+        ]
+      },
+      {
+        "partner": "Riyadh Development Company",
+        "kind": "Developer / unitholder",
+        "what": "Named developer and unitholder (about 10%) of a planned SAR 2.1bn real estate fund east of Riyadh; the website lists the 'anbc Riyadh Real Estate Development Fund' (2024, SAR 2,106m).",
+        "date": "2024-10-14",
+        "status": "Announced",
+        "source_ids": [
+          "S27",
+          "S8"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025",
+        "what": "Launched an upgraded trading application and web platform: conditional orders, stop-loss tools, digital IPO subscriptions and enhanced online margin trading",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched 7 closed-ended real estate funds (24 active); introduced two private fixed income funds and two public multi-asset funds; launched a healthcare private equity fund; anb Seed Fund invested in ten fintech companies; full exit of the Narjis View Fund",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Investment banking: joint bookrunner on the SAR 4.1bn Flynas IPO and on ANB's SAR 3.3bn and USD 750m Additional Tier 1 issues; investment banking fees +65%",
+        "source_ids": [
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Institutional sales and trading desk added two global broker relationships; sell-side research broadened coverage (insurance, software and services, car rental, retail pharmacies, travel and tourism)",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025-08",
+        "what": "Board reconstituted: three directors resigned (including the parent's wholesale bank head and its head of strategic investments) and three joined (Ziyad Alhazzani, Mashaal Aljomaih, Khaled Alrashed)",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "2026 priorities (AR 2025): expand AUM under current offerings, diversify products, grow DPMs, execute a private credit strategy, build joint ventures and partnerships with key players, expand VC and grow PE funds, introduce REITs, upgrade the trading platform for regional and global markets, enhance the institutional desk",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-07-30",
+        "what": "Two anb capital real estate funds acquired 1.7 million sqm of raw land on King Khalid Road, Al Khobar, for more than SAR 800m",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2026-08-25",
+        "what": "Announced changes to the board memberships of several anb capital funds (fund-governance notice; detail not opened)",
+        "source_ids": [
+          "S16"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "AR 2025 lists 2026 priorities to 'Diversify our product offering', 'Grow DPMs', 'Execute private credit strategy' and 'Build joint ventures and partnerships with key players' (S4 PDF p.19)",
+        "The public fund range is 14 funds, mostly Saudi equity (8 equity, 2 money market, 3 multi-asset, 1 sukuk); no global, third-party or structured products are listed (S7)",
+        "Wealth Management page offers advisory and customised portfolios but publishes no minimums, products or platform; the unit is led by a named head since 2022 (S13, S1)",
+        "Brokerage is weak: net brokerage income fell 22% to SAR 36.4m in FY2025 while asset management fees rose 43% to SAR 181.1m (S5 PDF p.6)",
+        "The new app offers scheduled recurring orders but no robo or model-portfolio product was found (S12)",
+        "Plans a 2026 upgrade of the trading platform for regional and global markets and enhanced institutional desk (S4 PDF p.19)"
+      ],
+      "barriers": [
+        "Captive investment arm: the AR calls it the bank's 'sole investment arm'; SAR 175.9m of FY2025 operating income came from the parent (S4 PDF p.13; S5 note 17)",
+        "Own-fund shelf and own channels: funds sold through anb capital and the anb app; no third-party shelf found (S7, S6)",
+        "Global trading stack already supplied by GTN (S11)",
+        "Largely Shariah-labelled public range (12 of 14 funds), so products need Shariah Committee approval (S7, S15)",
+        "Small branch footprint (4 centres) and no disclosed client or user numbers, so scale of the digital opportunity cannot be sized (S14)"
+      ],
+      "incumbent_vendors": [
+        "Global Trading Network (GTN): named by anb capital as technology and market data provider of the Global platform (S11)",
+        "Local trading app and TWS program: vendor not named (S10, S12)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Executive Management",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/executive-management",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "About us (company description, licence, CEO letter, board and executives)",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/about-us",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "anb capital Annual Report 2025",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/documents/182269/0/anb+capital+-+En+annual+report+final+V16+CMA.pdf/48d4defe-9de8-89ff-a8f2-08dd02558496?t=1774968847531",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "anb capital Company financial statements for the years ended 31 December 2025 and 2024",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/documents/182269/0/ANBC+Financial+Statement+English+2025.pdf/3f2e640f-cb4d-b2ca-7814-57449c1784f8?t=1774971139307",
+      "doc_type": "Audited financial statements (statement pages are scanned images, read visually)",
+      "tier": 1,
+      "published": "2026-03-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Asset management",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/asset-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Public Mutual Funds",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/public-mutual-funds",
+      "doc_type": "Official product page (fund list with prices dated 8 and 11 Oct 2026)",
+      "tier": 2,
+      "published": "2026-10-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Real Estate",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/real-estate",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Alternative investments",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/alternative-investments",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Securities brokerage",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/securities-brokerage",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "anb capital Global",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/anbcapital-global",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "anb capital new trading app",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/anbc-new-app",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Wealth Management",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/wealth-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Find an investment center",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/investment-centers",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Corporate Disclosures (annual reports, annual FS, Pillar III 2019-2022, Shariah reports)",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/corporate-disclosures",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "News Room (20 items dated 14 Jul to 1 Oct 2026)",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/news-room",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": "2026-10-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Two funds managed by anb capital acquire land in Al Khobar",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/news-details?news-id=7087634",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Who's Who: Muneera Al-Dossary, head of asset management at ANB Capital",
+      "publisher": "Arab News",
+      "url": "https://arabnews.com/node/2225796",
+      "doc_type": "News profile",
+      "tier": 5,
+      "published": "2023-01-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Bader Alessa - anb capital (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bader-alessa-65b692118/",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Omar Ardati - anb capital (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/omar-ardati-b6377616/",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Ahab Minhas, CFA (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://sa.linkedin.com/in/ahabminhas",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "anb capital (LinkedIn company page, linked from the official About us page)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/company/anbcapital/",
+      "doc_type": "Official social link",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Khalid Al-Ghamdi, CEO and Board Member of ANB Capital",
+      "publisher": "Bridge Middle East",
+      "url": "https://bridgemena.com/mena-leaders/khalid-al-ghamdi-2",
+      "doc_type": "Executive profile (undated)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Arab National Bank financial statements page ('The Website is under maintenance')",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/financial-statements",
+      "doc_type": "Official IR page (maintenance notice only)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "ANB H1 2026 results (consolidated; no segment data)",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/financial-reports/company-report/45/2026/71",
+      "doc_type": "Financial news (results report)",
+      "tier": 5,
+      "published": "2026-07-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Ms. Muneera Hejab AlDossary (SISCO people profile)",
+      "publisher": "SISCO",
+      "url": "https://sisco.com.sa/en/people/ms-muneera-hejab-aldossary",
+      "doc_type": "Company people page",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "Riyadh Development to become a unitholder-developer of anb capital's potential real estate fund",
+      "publisher": "Enterprise AM",
+      "url": "https://enterpriseam.com/ksa/2024/10/14/riyadh-development-to-become-a-unitholder-developer-of-anb-capitals-potential-real-estate-fund/",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2024-10-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Vice Chairperson",
+      "detail": "AR 2025 lists Obaid A. Alrasheed as Vice Chairperson of the board; the website's board page lists him as 'Member' and names no vice chair.",
+      "resolution": "Recorded the AR title (dated February 2021 appointment) with a note. Minor.",
+      "source_ids": [
+        "S4",
+        "S2"
+      ]
+    },
+    {
+      "field": "Khaled Alrashed title",
+      "detail": "anb capital AR 2025: 'Chief Personal Bank Officer' at ANB. anb capital website: 'CEO of Retail Banking Group at ANB'. The parent's own title is recorded in sa-anb (Chief Retail Bank Officer).",
+      "resolution": "Recorded as a board member with the parent role described generically. Minor.",
+      "source_ids": [
+        "S4",
+        "S2"
+      ]
+    },
+    {
+      "field": "Legal name",
+      "detail": "The website footer still prints 'Arab National Investment Company'. The audited FS state the name changed to ANB Capital Company on 29 Jun 2022 with the same CR.",
+      "resolution": "Used the FS name; old name kept as 'formerly'. Minor.",
+      "source_ids": [
+        "S10",
+        "S5"
+      ]
+    },
+    {
+      "field": "Head of asset management",
+      "detail": "Arab News (2 Jan 2023) profiled Muneera Al-Dossary as head of asset management at ANB Capital since June 2022. The official page (Oct 2026) lists Khalid S. Al-Deghaither, who says he was promoted to the role in 2023. A search result for her SISCO profile indicates she left in 2023 for Franklin Templeton Saudi Arabia (page not opened).",
+      "resolution": "Used the official page. Treat any source naming Al-Dossary as stale.",
+      "source_ids": [
+        "S18",
+        "S1",
+        "S26"
+      ]
+    },
+    {
+      "field": "Market value traded decline",
+      "detail": "The AR gives the 2025 decline in Saudi market value traded as 30.2% (PDF p.9), 'more than 40%' (CEO letter) and 43% (PDF p.23).",
+      "resolution": "No market share was calculated from these figures. Unresolved; likely different measures.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "open_items": [
+    "No interim standalone statements: anb capital publishes only annual reports and FS (S15). All metrics are FY2025; AUM at 30 Jun 2026 and H1 2026 income are not disclosed. The parent's H1 2026 segment note and investor presentation were not opened because the parent's IR financial-statements page showed 'The Website is under maintenance' on 12 Oct 2026 (S24); the Argaam results page has no segment data (S25). Re-check once the parent publishes Q3 2026 (late Oct 2026).",
+    "Clients, brokerage accounts, app users and headcount are not disclosed in any source opened.",
+    "The vendor of the local (Saudi) trading app and of the TWS active-trader program is not named. GTN is named only for the Global platform (S11); launch date of the new app is not stated (AR 2025 places it in 2025).",
+    "The two 'new global broker relationships' of 2025 are not named.",
+    "Wealth Management page gives no eligibility, minimums, product list or team; the wealth unit's balances are not disclosed.",
+    "Leads checked: REITs - none launched, only a 2026 priority in AR 2025; robo or model portfolios - not found (recurring orders only); partnerships 2025-2026 - only the GTN platform statement and unnamed brokers; brokerage market share - not disclosed. The lead on digital trading apps is confirmed (new app 2025, Global platform).",
+    "The website real estate page lists 22 distinct funds with unlabelled figures (sum about SAR 24.3bn if read as fund sizes); these were not used as AUM and cannot be reconciled to the AR figure of SAR 24.6bn NAV for all assets.",
+    "LinkedIn: no profile found for the CEO or the Heads of Wealth Management and Asset Management. LinkedIn matches for Ahab Minhas, Bader Alessa and Omar Ardati are search-result matches only (profiles not opened).",
+    "Saudi Exchange fund statement pages (hosted at saudiexchange.sa, seen in search results) and the CMA authorised-person register were not opened. The 25 Aug 2026 fund-board change notice and the 2024 Riyadh Development fund were not followed up."
+  ],
+  "research_status": "Complete",
+  "researched_by": "R5",
+  "checked": "2026-10-12"
+}

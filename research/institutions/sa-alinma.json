@@ -1,0 +1,1473 @@
+{
+  "id": "sa-alinma",
+  "name": "Alinma Bank",
+  "short_name": "alinma",
+  "legal_name": "Alinma Bank (a Saudi Joint Stock Company)",
+  "name_ar": "مصرف الإنماء",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://www.alinma.com",
+  "linkedin_company": "https://www.linkedin.com/company/alinma-bank",
+  "category": "Bank",
+  "type": "Islamic commercial bank",
+  "model": "Islamic",
+  "founded": "2006 (Royal Decree No. M/15 dated 28 March 2006; CR 1010250808 dated 26 May 2008; listed on Tadawul 2008)",
+  "regulators": [
+    "SAMA",
+    "CMA"
+  ],
+  "listed": true,
+  "exchange": "Tadawul (Saudi Exchange)",
+  "ticker": "1150",
+  "parent_id": null,
+  "ownership_summary": "Widely held Tadawul-listed bank. The Public Investment Fund is the only shareholder disclosed above 5%, holding 250,000,000 shares (10%) at both the start and end of 2025 (AR 2025). The bank was founded in 2006 with PIF, the Public Pension Agency and GOSI each holding 10% (IR site). Foreign ownership was 13.7% at 30 Jun 2026 (2Q26 investor presentation). Share capital rose to SAR 30bn through a 1-for-5 bonus issue approved by the EGM on 21 Apr 2026.",
+  "shareholders": [
+    {
+      "holder": "Public Investment Fund",
+      "pct": 10.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "government_link": "Yes. The Public Investment Fund holds 10% (31 Dec 2025, S5). The bank was founded in 2006 with PIF, the Public Pension Agency and GOSI as 10% founding shareholders each (S22). The Vice Chairman is a PIF executive (S2, S5).",
+  "group_structure": "Parent bank with 100%-owned subsidiaries: Alinma Capital Company (CMA-licensed asset management, custody, advisory, underwriting and brokerage; profiled separately as sa-alinma-capital), Al-Tanweer Real Estate Company, Saudi Fintech Company (AlinmaPay), Esnad Company (outsourced staff), Alinma SPV Ltd (Cayman; derivatives and repo), TechStrike Company (technology services, est. Feb 2025) and Ersal Financial Remittance Company. The bank also consolidates Alinma Sukuk ETF (97.8%), Alinma Digital Fund (100%; fintech/payments private equity) and Alinma 8th Opportunities Real Estate Fund (100%) at 30 Jun 2026 (S3 note 1). Double counting: Alinma Capital's assets, revenue and AUM are consolidated in the bank's figures and its 'Investment and brokerage' segment. Do not add sa-alinma-capital metrics to this record.",
+  "subsidiaries": [
+    {
+      "name": "Alinma Capital Company (formerly Alinma Investment Company)",
+      "pct": 100.0,
+      "activity": "Asset management, custodianship, advisory, underwriting and brokerage (CMA licence 37-09134)",
+      "linked_id": "sa-alinma-capital",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Saudi Fintech Company",
+      "pct": 100.0,
+      "activity": "Financial technology products and services to the bank and others",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "TechStrike Company",
+      "pct": 100.0,
+      "activity": "Technology products and services to the bank (CR 18 Feb 2025)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Ersal Financial Remittance Company",
+      "pct": 100.0,
+      "activity": "Money transfer services",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Al-Tanweer Real Estate Company",
+      "pct": 100.0,
+      "activity": "Holds legal title of properties financed by the bank",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Esnad Company",
+      "pct": 100.0,
+      "activity": "Outsourced staff to the bank",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Alinma SPV Ltd (Cayman Islands)",
+      "pct": 100.0,
+      "activity": "Derivatives and repurchase agreements with international banks",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "footprint": "Saudi Arabia only. 130 branches at 30 Jun 2026 (121 at 30 Jun 2025) (S3 note 1). 1,408 ATMs and 188,692 POS terminals at end-2025 (S5). 3 dedicated Private Banking centres in Riyadh (Lumiere Center), Jeddah (King Road Tower) and Al Khobar (S5, S9).",
+  "customer_segments": "Retail (mass; youth through the 'iz' digital app; expats, with the Expats Affluent Banking package launched 2025), affluent tiers (alinma Gold, Platinum, Diamond), Private Banking (HNW), SME, corporate and institutional (S5, S9-S12).",
+  "business_lines": "Four reportable segments (S3 note 12): Retail banking; Corporate banking (corporate, SME, institutional); Treasury; Investment and brokerage, run through Alinma Capital (asset management, brokerage, custody, advisory, investment banking). Investment and brokerage made up SAR 609.6m of SAR 6,138.1m total operating income in H1 2026 (about 10%). Private Banking Group sits within the bank. Other activities: digital payments and fintech (Saudi Fintech Company/AlinmaPay, Banking-as-a-Service), remittances (Ersal), bancassurance. All products are Shariah-compliant.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 329287383,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed by KPMG and PwC)",
+      "status": "Verified",
+      "locator": "S3 p.1 (PDF p.4)",
+      "note": "Press release S8 gives SAR 329,287 million, consistent.",
+      "source_ids": [
+        "S3",
+        "S8"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 311067148,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, audited consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "S4 p.1 (PDF p.9)",
+      "note": "Extra record (FY2025 year-end).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 245254218,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits: demand 97,702,305; savings 16,581,017; customers' time investments (Murabaha and Mudaraba) 129,127,940; others 1,842,956 (SAR '000). Excludes amounts due to SAMA, banks and other financial institutions (9,678,915) and sukuk/CDs issued.",
+      "status": "Verified",
+      "locator": "S3 p.1 and note 8 p.21",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 227373930,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits, audited consolidated statement of financial position (excludes due to SAMA, banks and other financial institutions)",
+      "status": "Verified",
+      "locator": "S4 p.1",
+      "note": "Extra record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 243911154,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Financing, net': all Shariah-compliant financing, net of allowance for impairment (ECL) of 4,177,803. Retail 66,609,256 (home, personal, auto, credit cards); commercial 177,301,898 (corporate and SME).",
+      "status": "Verified",
+      "locator": "S3 p.1 and note 6 p.18",
+      "note": "",
+      "source_ids": [
+        "S3",
+        "S8"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 229746838,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Financing, net', audited consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "S4 p.1",
+      "note": "Extra record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 248088957,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Gross financing (performing 245,714,317 + non-performing 2,374,640), before allowance for impairment",
+      "status": "Verified",
+      "locator": "S3 note 6 p.18",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 50124457,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity, including Tier 1 Sukuk of 12,379,075. Equity attributable to shareholders of the bank was 37,745,382.",
+      "status": "Verified",
+      "locator": "S3 p.1",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 48241122,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including Tier 1 Sukuk (12,502,050); attributable to shareholders 35,739,072",
+      "status": "Verified",
+      "locator": "S4 p.1",
+      "note": "Extra record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 11905330,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', consolidated statement of income (net financing and investment income 9,376,718 + net fees 1,732,328 + other income)",
+      "status": "Verified",
+      "locator": "S4 p.2 (PDF p.10)",
+      "note": "FY2024: 10,940,076.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 6138085,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', interim condensed consolidated statement of income, six months",
+      "status": "Verified",
+      "locator": "S3 p.2",
+      "note": "H1 2025: 5,760,280. Extra record.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 6397149,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income for the year after zakat'. No non-controlling interests line is presented, so this is income attributable to the bank's shareholders before Tier 1 Sukuk costs (EPS is calculated after Tier 1 Sukuk costs).",
+      "status": "Verified",
+      "locator": "S4 p.2",
+      "note": "FY2024: 5,831,661.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 3273707,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income for the period attributable to the Bank's shareholders' (= net income after zakat), six months, before Tier 1 Sukuk costs of 342,598",
+      "status": "Verified",
+      "locator": "S3 p.2 and note 13 p.26",
+      "note": "H1 2025: 3,081,264 (+6%).",
+      "source_ids": [
+        "S3",
+        "S8"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 129.7,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "2Q 2026 (30 Jun 2026)",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital / Investment and brokerage segment",
+      "definition": "'Assets Under Management' as labelled by the bank for Alinma Capital and the Investments and Brokerage segment. Up 39% YoY from SAR 93.1bn at 2Q25. Discretionary/non-discretionary split not stated.",
+      "status": "Verified",
+      "locator": "S6 slides 18 and 47",
+      "note": "The bank calls Alinma Capital the '3rd largest asset manager in KSA by AUM as of Q1 2026' (S6 slide 18). AUM at 1Q26: SAR 126.6bn.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 104607,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital (subsidiary)",
+      "definition": "'Management of funds with total assets under management' through the subsidiary (audited FS note 38)",
+      "status": "Verified",
+      "locator": "S4 note 38 p.105",
+      "note": "Comparative 2024 in the bank FS is SAR 93,650m, but Alinma Capital's own FS says SAR 90,103m (see discrepancies).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 6.3,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "2Q 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "'Active Customers' as shown in the 2Q2026 investor presentation (exact date not stated beyond 2Q 2026; the AR defines active customers as at least one transaction in the last 30 days)",
+      "status": "Verified",
+      "locator": "S6 slide 5",
+      "note": "AR 2025 gives '6.5 Mn customers' at 31 Dec 2025 (S5, PDF p.23) without the 'active' qualifier. The two definitions are different.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 6.5,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "'6.5 Mn customers' (Social and Relationship Capital, as of 31 December 2025); total vs active not stated",
+      "status": "Verified",
+      "locator": "S5 PDF p.23",
+      "note": "AR 2025 also states 'more than one million new retail customers' in 2025.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "mobile_monthly_average_users",
+      "value": 45.2,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "2Q 2026",
+      "period_type": "duration",
+      "scope": "Retail digital",
+      "definition": "'Monthly Average Users (Smart Phone Users Logins)'. This is a login count, not unique users.",
+      "status": "Verified",
+      "locator": "S6 slide 5",
+      "note": "Daily average users 1.5Mn; 98.1% of transactions digital (2Q26). End-2025: 42.3Mn (S5).",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 2823,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "'2,823 Employees' (Human Capital, AR 2025); 23% women, 96% Saudi nationals",
+      "status": "Verified",
+      "locator": "S5 PDF p.23",
+      "note": "Date not stated explicitly; presented alongside year-end 2025 figures. Subsidiary headcount (e.g. Esnad outsourced staff) may be excluded.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 130,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank, KSA",
+      "definition": "Number of branches in KSA (interim FS note 1)",
+      "status": "Verified",
+      "locator": "S3 note 1 p.8",
+      "note": "AR 2025 gives 127 branches and 1,408 ATMs (end-2025).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "investment_brokerage_segment_operating_income",
+      "value": 609553,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Investment and brokerage segment",
+      "definition": "Total operating income of the 'Investment and brokerage' segment (net fees 441,296); income before zakat 332,844",
+      "status": "Verified",
+      "locator": "S3 note 12 p.25",
+      "note": "H1 2025: 563,406. FY2025: 1,128,540 (S4 segment note).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 32.4,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Alinma Capital brokerage",
+      "definition": "'Brokerage Trading Values' (down 4% YoY from SAR 33.7bn)",
+      "status": "Verified",
+      "locator": "S6 slide 47",
+      "note": "Brokerage trading income H1 2026 SAR 59.0mn, down 20% YoY from SAR 73.5mn.",
+      "source_ids": [
+        "S6"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 Private Banking section (S5 pp.100-103) gives only growth rates (+32% deposits, +26% clients in 2025; +90% clients since end-2022); H1 2026 FS (S3); 2Q26 investor presentation (S6)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 digital section (S5 pp.54-56), 2Q26 investor presentation (S6), Q2-26 call transcript (S7); no count of app investors or brokerage accounts"
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "Bank FS H1 2026 and FY2025 (S3, S4). Custody assets are disclosed only in Alinma Capital's own AR (about SAR 95bn at end-2025; see sa-alinma-capital)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Abdulmalik Abdullah AlHogail",
+      "name_ar": "عبد الملك بن عبدالله الحقيل",
+      "title": "Chairman of the Board; Chairman of the Executive Committee",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2019",
+      "appointed_note": "AR 2025 bio: 'Appointed: 21 May, 2019' and 'Chairman of the Board, alinma (2019 – Present)'. Reappointed Chairman for the board term 21 May 2025 to 20 May 2028; SAMA no-objection 2 Jun 2025 (S17).",
+      "previous_roles": "Vice President and CFO, Al Faisaliah Group. Former board member of Saudi Electricity Company, National Chemicals Company, Arabia International Medical Holding, Saudi Accenture, Philips Saudi Arabia Healthcare, Modern Electronic Company, alinma capital and Pharma International. Current: Vice Chairman, Americana Restaurant Group (2022–); board member, Bahri (2017–).",
+      "education": "PhD in Accounting/Finance and Master's in Accounting, Case Western Reserve University (US); Bachelor's in Accounting, King Saud University",
+      "qualifications": "CPA (AICPA), CMA (IMA), CFM (IMA), SOCPA",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); H1 2026 results release quotes him as Chairman (S8); no departure news found",
+      "source_ids": [
+        "S2",
+        "S5",
+        "S8",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saad Abdulaziz AlKroud",
+      "name_ar": "سعد بن عبدالعزيز الكرود",
+      "title": "Vice Chairman of the Board; Chairman of the Governance and Sustainability Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2022-05-21",
+      "appointed_note": "Reappointed Vice Chairman for the 2025–2028 term (S17).",
+      "previous_roles": "Secretary General of the Board of Directors and Chief of Staff, Public Investment Fund; Advisor to the Chairman, Abdullatif Alissa Group; Vice President, Wealth Management and Diversification Company. Current: Head of Local Real Estate Investment Division, PIF (2025–) per AR 2025.",
+      "education": "Master of Management and Leadership, University of La Verne (US); Bachelor of Finance, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5); no departure news found. The official board page still calls him 'Current Chief of staff at the Public Investment Fund', while AR 2025 gives his PIF role as Head of Local Real Estate Investment Division.",
+      "source_ids": [
+        "S2",
+        "S5",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Ali AlKhalifa",
+      "name_ar": "عبد الله بن علي الخليفة",
+      "title": "Managing Director and Chief Executive Officer",
+      "functions": [
+        "CEO",
+        "Board"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Executive Management",
+      "scope": "Group",
+      "appointed": "2021-01",
+      "appointed_note": "CEO since January 2021. Elected to the board at the 24 Apr 2025 OGM and appointed Managing Director after SAMA no-objection (June 2025 announcement, S16). Also Vice Chairman of Alinma Capital's board.",
+      "previous_roles": "2021– CEO alinma; previously CFO, Banque Saudi Fransi; CFO, Al Rajhi Bank; CFO/Financial Director, Arab National Bank; earlier roles at Samba Financial Group (per Alinma Capital board bio). Current: Chairman, Saudi Fintech Company (2021–); Chairman, TechStrike (2025–); Vice Chairman, Ersal Financial Remittance (2021–); Vice Chairman, Alinma Capital.",
+      "education": "Master of Accounting, University of Miami (US); Bachelor of Accounting, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management and board pages checked 2026-10-12 (S1, S2); presented Q2-26 results on 27 Jul 2026 (S7); no departure news found",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5",
+        "S7",
+        "S16"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saleh Abdullah AlZumaie",
+      "name_ar": null,
+      "title": "Deputy Chief Executive Officer (Head of Retail and Digital Banking Executive Group)",
+      "functions": [
+        "Deputy CEO",
+        "Retail",
+        "Digital",
+        "Private banking"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Retail & Digital Banking Executive Group",
+      "scope": "Group",
+      "appointed": "2023-01",
+      "appointed_note": "Board appointed him Deputy CEO while he continued to lead the Retail and Digital Banking Executive Group (alinma news, Jan 2023; exact date not stated, S18). On the Q2-26 call he was introduced as 'deputy CEO covering retail, digital, and private' (S7).",
+      "previous_roles": "Before Deputy CEO: senior executive and head of Retail and Digital Banking Group, alinma. Earlier: General Manager, Digital and Payments, Al Rajhi Bank; General Manager, Retail Banking Group, Al Rajhi Bank; Manager, Remittances Department, Al Rajhi Bank.",
+      "education": "Bachelor of English Language, Imam Muhammad bin Saud Islamic University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page checked 2026-10-12 (S1); 2Q26 investor presentation (S6); Q2-26 call 27 Jul 2026 (S7)",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S6",
+        "S7",
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulrahman Mohammed AlNasser",
+      "name_ar": null,
+      "title": "Chief Retail Banking Officer",
+      "functions": [
+        "Retail",
+        "Affluent"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Retail Banking",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "General Manager of Branch and Sales Banking, alinma; General Manager of Branch Banking, alinma; Assistant General Manager, Eastern Region, alinma; Branch Manager, alinma",
+      "education": "MBA, Dar Al Uloom University; Bachelor's in Computer Science, Qassim University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page checked 2026-10-12 (S1); 2Q26 presentation (S6). A same-name LinkedIn profile at Alinma Bank appeared in search, but the snippet showed no title, so it was not recorded.",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Musaad K. ALGadi",
+      "name_ar": "مساعد القاضي",
+      "title": "Chief Digital Officer (as reported; not on the official executive page)",
+      "functions": [
+        "Digital"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Digital",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "A search-engine summary of LinkedIn content dated the CDO appointment to March 2025. Not seen in a primary source.",
+      "previous_roles": "Per LinkedIn content seen via search (unverified): CEO, Saudi Financial Technology Company (alinma subsidiary; AlinmaPay, ClickPay); General Manager, Product Development and Digitalization, alinma. The opened profile states '+15 Years in alinma Bank between IT and Retail Banking'.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://sa.linkedin.com/in/malgadi",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Requires verification",
+      "role_evidence": "Not listed on the official executive management page (S1, checked 2026-10-12), which lists only the executive committee. The opened LinkedIn profile shows the same name and employer alinma but no visible title (S20). The CDO title comes only from search-result summaries.",
+      "source_ids": [
+        "S20",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yasser AlOufi",
+      "name_ar": null,
+      "title": "Chief Information Officer (as of Feb 2025)",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Information Technology",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Title as quoted in IBM's 19/20 Feb 2025 release",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Named as CIO in IBM's Feb 2025 press release (S15). Not on the official executive management page (S1). No 2026 confirmation found.",
+      "source_ids": [
+        "S15",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Meshary Abdulaziz AlJubair",
+      "name_ar": null,
+      "title": "Chief Operating Officer (COO)",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Operations",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "General Manager, Information Technology Division, alinma; Deputy General Manager, IT Division, alinma; Manager, Information Security Planning Department, Saudi Telecom Company",
+      "education": "BSc Computer Engineering, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page checked 2026-10-12 (S1); 2Q26 presentation (S6)",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Adel Saleh Abalkhail",
+      "name_ar": null,
+      "title": "Chief Financial Officer (CFO)",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Deputy General Manager, Financial Group, Al Rajhi Bank; CFO, Al Rajhi Bank Malaysia; CFO, Al Rajhi Bank Jordan",
+      "education": "Master of Accounting and Finance, University of Illinois (US); Bachelor of Accounting, King Saud University",
+      "qualifications": "CPA; SOCPA",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page checked 2026-10-12 (S1); presented H1 2026 financials on the 27 Jul 2026 call (S7)",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S7"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jameel Naif AlHamdan",
+      "name_ar": "جميل بن نايف الحمدان",
+      "title": "Chief Corporate Banking Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Corporate Banking",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Also a non-independent board member of Alinma Capital (S21)",
+      "previous_roles": "General Manager, Corporate Banking, Bank AlBilad; Acting Head, Corporate Banking Group, Banque Saudi Fransi; Regional Head, Business Banking Group, Banque Saudi Fransi",
+      "education": "Bachelor of Administrative Sciences, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page checked 2026-10-12 (S1); answered questions on the 27 Jul 2026 call (S7)",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S7",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mhana Abdulrahman Abaalkhail",
+      "name_ar": null,
+      "title": "Chief Treasury Officer",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Treasury",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not in the AR 2025 executive list, which showed Abdullah Jamaan AlZahrani as Chief Treasury Officer. Listed in the July 2026 presentation (spelled 'Mahanna Abdulrahman Abalkhail') and on the official page, so likely appointed in H1 2026. No announcement found.",
+      "previous_roles": "Head of Investment and Balance Sheet, Treasury, alinma; Head of Money Market, Treasury, alinma",
+      "education": "MBA, University of Manchester (UK); Bachelor of Industrial Engineering, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page checked 2026-10-12 (S1); 2Q26 presentation (S6)",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yaser Abdulaziz AlMarshde",
+      "name_ar": null,
+      "title": "Chief Shariah Officer (CSO)",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Shariah",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Chief of Shariah Advisors and Chairman of the Council of Shariah Scholars, Al Rajhi Bank; Senior Shariah Advisor, Al Rajhi Bank",
+      "education": "Master of Islamic Jurisprudence (Shariah Law), Higher Institute of Judiciary, Imam Muhammad bin Saud Islamic University; Bachelor's in Shariah, same university",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Anees Ahmed Moumina",
+      "name_ar": "أنيس بن أحمد مؤمنه",
+      "title": "Board Member; Chairman of the Risk Committee; Chairman of Alinma Capital",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Alinma Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2022-05-21",
+      "appointed_note": "Chairman of Alinma Capital since Dec 2023 (S21; AR 2025 says 2023–present)",
+      "previous_roles": "CEO, Savola Group; CEO, SEDCO Holding Group; General Manager and Senior Credit Officer, Citibank/Samba Financial Group; former board member of Saudi National Bank, Almarai and others",
+      "education": "Master's in Engineering Management (Honors) and Bachelor's in Civil Engineering (Honors), George Washington University (US)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5)",
+      "source_ids": [
+        "S2",
+        "S5",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mazin Fawaz Baghdadi",
+      "name_ar": "مازن بن فواز بغدادي",
+      "title": "CEO & Managing Director, Alinma Capital",
+      "functions": [
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Alinma Capital (100% subsidiary)",
+      "scope": "Subsidiary",
+      "appointed": "2020",
+      "appointed_note": "Promoted to CEO and MD of Alinma Investment in 2020 (Arab News, May 2024). Full profile in sa-alinma-capital.",
+      "previous_roles": "Joined Alinma Investment 2016 (official bio). Previously Chief Investment Officer, HSBC Saudi Arabia; roles at Riyad Bank and Saudi Fransi Capital",
+      "education": "Bachelor's in Finance, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Alinma Capital senior executives page checked 2026-10-12 (S21)",
+      "source_ids": [
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "alinma is a fully Shariah-compliant Saudi bank. Its asset management, brokerage, custody and advisory sit in the 100%-owned Alinma Capital (renamed from Alinma Investment in Feb 2025), whose AUM was SAR 129.7bn at 30 Jun 2026 (+39% YoY). The bank describes it as the 3rd-largest asset manager in KSA by AUM at Q1 2026. The Private Banking Group runs three dedicated centres (Riyadh, Jeddah, Al Khobar) and grew its client base 26% and deposits 32% in 2025. Below it sit the published affluent tiers alinma Gold, Platinum and Diamond, with current-account entry deposits of SAR 75,000, 250,000 and 800,000. In 2025 the bank launched a digital wealth management platform in the alinma app with mutual fund subscriptions, and an Investor Financing programme for private clients investing in Saudi equities. Under Strategy 2030 (execution from 2026), Private Banking plans an 'open-architecture wealth ecosystem in partnership with global asset managers', an AI-powered wealth-advisory companion and a proposition for next-generation wealth holders. Alinma Capital's 2030 plan adds partnerships with global asset managers to co-develop funds, a top-tier wealth advisory team and a new engagement-led app.",
+    "segments": [
+      {
+        "name": "alinma Gold",
+        "tier": "Mass affluent",
+        "eligibility": "New main account with initial deposit of SAR 75,000; minimum 3-month average balance SAR 50,000; salary transfer of at least SAR 6,000 (as published)",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "name": "alinma Platinum",
+        "tier": "Affluent",
+        "eligibility": "Open with SAR 250,000 in a current account, SAR 1,000,000 in savings, or SAR 2,000,000 in the Nama product; maintain 3-month average SAR 100,000 current (or SAR 1m savings / SAR 2m Nama); salary transfer of at least SAR 15,000 (as published)",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "name": "alinma Diamond",
+        "tier": "Affluent / upper affluent",
+        "eligibility": "Open with SAR 800,000 current, SAR 3,000,000 savings, or SAR 5,000,000 Nama; maintain 3-month average SAR 500,000 current (or SAR 3m savings / SAR 5m Nama); salary transfer of at least SAR 30,000 (as published). Benefits include discounts on alinma capital products and financing for investment strategies",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "name": "alinma Private (Private Banking)",
+        "tier": "Private / HNW",
+        "eligibility": "Not published. Dedicated Relationship Manager; 3 Private Banking centres (Riyadh Lumiere Center, Khobar head office, Jeddah King Road Tower)",
+        "source_ids": [
+          "S9",
+          "S5"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Private Banking Group with 3 dedicated centres in Riyadh, Jeddah and Al Khobar and a dedicated-RM model. 2025: client base +26%, deposits +32%; since end-2022, clients +90%, deposits +47%, financing +135%. Offering per the alinma Private page: wealth management services, structured products, advanced FX solutions, 'direct investment with fixed returns at special prices', discounts on alinma capital products, Visa Infinite cards and concierge. 2025 launches: Investor Financing (structured financing for investing in Saudi equities); access to private equity via alinma capital; early-stage real estate project access and raw-land investments. 2030 goals: be 'the Islamic private bank of choice in Saudi Arabia'; open-architecture ecosystem with global asset managers; next-generation wealth proposition; AI-powered wealth-advisory companion; 'red carpet services' with strategic partners.",
+      "source_ids": [
+        "S5",
+        "S9",
+        "S6"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Through Alinma Capital (100%): AUM SAR 129.7bn at 30 Jun 2026 and SAR 104,607m at 31 Dec 2025. 72 funds at end-2025, including public equity, money market, Sukuk ETF, REIT, endowment, real estate and private equity funds. Alternatives AUM exceeded SAR 84bn at end-2025. Fund management fees are 50% of the bank's fees from banking services (H1 2026). See sa-alinma-capital.",
+      "source_ids": [
+        "S6",
+        "S4",
+        "S7",
+        "S25"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Through Alinma Capital: Saudi market (Tadawul) plus GCC, Egypt, US, European and Asian markets via 'Alinma Capital Platform' (local) and 'Alinma Capital Global Platform'; web, app and phone channels; Murabaha margin facilities. Brokerage trading value SAR 32.4bn in H1 2026 (-4% YoY); brokerage trading income SAR 59.0m (-20% YoY). Brokerage is 8% of the bank's fee income.",
+      "source_ids": [
+        "S6",
+        "S7",
+        "S26"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Bank app: Nama investment product (bank-managed Shariah investment pool) subscribe and track. In 2025 the bank also launched a 'digital wealth management platform with seamless mutual fund subscriptions' (AR 2025). Equities, IPOs, Sukuk orders and mutual fund subscription/redemption run in the separate Alinma Capital app and web platform; international trading via Alinma Capital Global. No in-app model portfolios, alternatives or international equities found in the bank app.",
+      "source_ids": [
+        "S5",
+        "S13",
+        "S14",
+        "S27",
+        "S26"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "RM-led advisory in Private Banking ('expertise-driven advisory with a Relationship Manager-led coverage approach'). Alinma Capital holds a CMA advising licence and offers investment management advisory based on an Investment Policy Statement. Strategy 2030 plans 'a top-tier wealth advisory team' at Alinma Capital.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Alinma Capital private investment portfolios / mandates (discretionary portfolio management). AUM about SAR 15bn at end-2025 per Alinma Capital AR; see sa-alinma-capital.",
+      "source_ids": [
+        "S25"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Unclear",
+      "detail": "No client-facing robo-advisor or model-portfolio product found in the bank app. Alinma Capital launched 'Nasih', an investment-allocation tool based on client data and risk profile, in 2025 (Alinma Capital AR; see sa-alinma-capital). It is unclear whether clients use it directly. Strategy 2030 plans an 'AI-powered wealth companion' and 'AI-powered app companions'.",
+      "source_ids": [
+        "S25",
+        "S6",
+        "S7"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "In-house funds (Alinma Capital) are distributed through the bank app's 2025 wealth management platform and the Alinma Capital app. No third-party fund shelf or fund-platform provider found.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "'Structured products and advanced foreign exchange solutions' are listed for alinma Private clients. No product details or issuers published.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Alinma Capital alternatives (real estate and private equity funds; alternatives AUM above SAR 84bn at end-2025). A new private fund with SAR 447mn AUM was launched in 2Q 2026. Private Banking gives clients access to private equity with alinma capital and to early-stage real estate projects. The bank consolidates Alinma Digital Fund (fintech PE) and Alinma 8th Opportunities Real Estate Fund.",
+      "source_ids": [
+        "S6",
+        "S5",
+        "S3",
+        "S25"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "The whole franchise is Shariah-compliant under a Shariah Committee: Shariah funds, Alinma Sukuk ETF (Saudi government sukuk), Murabaha/Mudaraba customers' time investments, Nama investment pool.",
+      "source_ids": [
+        "S3",
+        "S13"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Sukuk",
+      "Structured products",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "IBM",
+        "kind": "Technology platform (API / integration)",
+        "what": "API marketplace platform on IBM Cloud Pak for Integration, IBM API Connect, Red Hat OpenShift on IBM Cloud and IBM DataPower. IBM's release calls IBM a technology partner; it does not describe a systems-integrator role.",
+        "date": "2025-02-19",
+        "status": "Live",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "partner": "Alinma Capital (in-house subsidiary)",
+        "kind": "Product / investment arm",
+        "what": "Supplies funds, brokerage, custody and private-market products to bank clients; Private Banking collaborates on PE and real estate access",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S3",
+          "S5"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-02-12",
+        "what": "Investment arm renamed from Alinma Investment to Alinma Capital (CMA notice)",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "date": "2025-02-19",
+        "what": "Launched API marketplace platform built on IBM hybrid cloud and integration software (Banking-as-a-Service and open banking)",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched a digital wealth management platform with mutual fund subscriptions in the alinma app; completed the 2021–2025 Digital Strategy and began the 2026–2030 Digital Strategy",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Private Banking launched the Investor Financing programme (financing to invest in Saudi equities) and widened PE and real estate access with alinma capital",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Fintech investments: Lean Technologies (open banking), Ejari, NearPay, Amwal Tech, Wadaie (deposit aggregation), Qashio, and VC funds Oryx, Sukna and SEEDRA. Cooperation agreements with Savvy Group, Walaplus, jisr and Future Work.",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2026-07",
+        "what": "Strategy 2030 update (2Q26 presentation). Private Banking pillar: 'Set up market differentiating value propositions and service models for Private Banking clients' and 'Offer world-class global and exclusive local investments opportunities'. Alinma Capital pillar: partner with global AMs to co-develop funds, set up a top-tier wealth advisory team, launch a new app, AI-powered wealth companion. 9 of 13 Alinma Capital initiatives started.",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "date": "2026-07-27",
+        "what": "Q2-26 call: CEO said the bank wants to 'build more strategic partnerships with global asset management to develop the region-specific investment opportunity for our customers' and to 'develop GenAI and AI-powered app companions'",
+        "source_ids": [
+          "S7"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Private Banking 2030 plan: 'build an open-architecture wealth ecosystem in partnership with global asset managers, giving Private Banking clients early or exclusive access to high-quality onshore and offshore investment products' (S5 pp.100-103)",
+        "Private Banking 2030 plan includes an 'AI-powered wealth-advisory companion' and a proposition for next-generation wealth holders (S5 pp.100-103)",
+        "Alinma Capital 2030 focus areas: 'Forge partnerships with global AMs to co-develop funds', 'Set up a top-tier wealth advisory team', 'Launch cutting-edge app with engagement features and modules', 'Enhance CX with AI-powered wealth companion and personalization' (S6 slide 18)",
+        "CEO on 27 Jul 2026 call: plans 'more strategic partnerships with global asset management' and 'GenAI and AI-powered app companions' (S7)",
+        "The bank app's wealth offer is limited to mutual fund subscriptions (2025 platform) and the Nama pool. No model portfolios, international or alternatives access found in the bank app (S5, S14)",
+        "Brokerage is under pressure: H1 2026 brokerage trading income -20% YoY and trading value -4% YoY, while AUM grew 39% (S6 slide 47)"
+      ],
+      "barriers": [
+        "Islamic-only bank: every product must be Shariah-compliant and approved by its Shariah Committee (S3 note 1)",
+        "Investment licences sit in Alinma Capital (CMA licence 37-09134), so any investment-product contract would likely be with the subsidiary, not the bank (S3 note 1)",
+        "Large proprietary alternatives franchise (alternatives AUM above SAR 84bn) and in-house fund range compete with third-party private-markets shelves (S6; sa-alinma-capital)",
+        "Alinma Capital already runs its own trading apps and a global trading platform, and built the 'Nasih' allocation tool in-house in 2025 (see sa-alinma-capital)"
+      ],
+      "incumbent_vendors": [
+        "IBM: API platform (Cloud Pak for Integration, API Connect, Red Hat OpenShift on IBM Cloud, DataPower), live Feb 2025 (S15)",
+        "Global Trading Network (GTN): Alinma Capital's global trading login is hosted on a globaltradingnetwork.com subdomain and its Android app ID is com.gtn.alin. Inferred from official links, not announced (see sa-alinma-capital)",
+        "T24 core system at Alinma Capital, named in Alinma Capital AR 2025 (see sa-alinma-capital)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Executive Management",
+      "publisher": "Alinma Bank (Investor Relations)",
+      "url": "https://ir.alinma.com/en/investor-relations/about-us/corporate-governance/executive-management",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors",
+      "publisher": "Alinma Bank (Investor Relations)",
+      "url": "https://ir.alinma.com/en/investor-relations/about-us/corporate-governance/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Interim Condensed Consolidated Financial Statements (Unaudited) for the six months ended 30 June 2026",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/media/4smpptoe/alinma-financial-statement-q2-2026-en.pdf",
+      "doc_type": "Reviewed interim financial statements (KPMG, PwC)",
+      "tier": 1,
+      "published": "2026-07-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Consolidated Financial Statements for the year ended 31 December 2025",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/media/503frasr/english-consolidated-financial-statements-december-2025.pdf",
+      "doc_type": "Audited financial statements (KPMG, PwC; report dated 4 Feb 2026)",
+      "tier": 1,
+      "published": "2026-02-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "alinma Annual Report 2025",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/media/2wldyfqb/alinma-2025-annual-report-en1.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Investor Presentation 2Q 2026",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/media/qqrb15ni/alinma-investor-presentation-2q2026.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Alinma Bank Q2-26 Earnings Conference Webcast Transcript (27 July 2026)",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/media/0jppivof/alinma-q2-26-earnings-conference-webcast-transcript-1.pdf",
+      "doc_type": "Earnings call transcript",
+      "tier": 2,
+      "published": "2026-07-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "alinma Reports SAR 3,274 Million in Net Profits by the End of Q2 2026, with a Growth of 6%",
+      "publisher": "Alinma Bank",
+      "url": "https://alinma.com/en/About-the-Bank/The-Bank/News/2026/7/Net-Profits-of-Q2",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "alinma Private",
+      "publisher": "Alinma Bank",
+      "url": "https://alinma.com/en/Retail/Accounts/alinma-Private",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "alinma Diamond",
+      "publisher": "Alinma Bank",
+      "url": "https://alinma.com/en/Retail/Accounts/alinma-Diamond",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "alinma Platinum",
+      "publisher": "Alinma Bank",
+      "url": "https://alinma.com/en/Retail/Accounts/alinma-Platinium",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "alinma Gold",
+      "publisher": "Alinma Bank",
+      "url": "https://alinma.com/en/Retail/Accounts/alinma-Gold",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Invest Account (Nama Investment Product)",
+      "publisher": "Alinma Bank",
+      "url": "https://alinma.com/en/Retail/Saving-Investment/Invest-Account",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "New alinma App",
+      "publisher": "Alinma Bank",
+      "url": "https://alinma.com/en/Retail/Digital-Channels/New-Alinma-App",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Alinma Bank launches new platform powered by IBM Hybrid Cloud & AI technology to fuel innovation for Digital Banking",
+      "publisher": "IBM Middle East & Africa Newsroom",
+      "url": "https://mea.newsroom.ibm.com/IBM-Alinma-Bank-collaboration",
+      "doc_type": "Vendor press release",
+      "tier": 2,
+      "published": "2025-02-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "alinma Bank Appoints Abdullah AlKhalifa as Managing Director and CEO",
+      "publisher": "Alinma Bank",
+      "url": "https://www.alinma.com/About-the-Bank/The-Bank/News/2025/6/Board-of-Directors-and-CEO",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-06",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S17",
+      "title": "alinma Bank announces the appointment of the Chairman and Vice-Chairman of the Board of Directors",
+      "publisher": "Alinma Bank",
+      "url": "https://alinma.com/About-the-Bank/The-Bank/News/2025/6/Chairman-and-Vice-Chairman-of-the-Board-of-Directors",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-06",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S18",
+      "title": "Saleh Abdullah Alzumaie Named Alinma Bank Deputy CEO",
+      "publisher": "Alinma Bank",
+      "url": "https://www.alinma.com/About-the-Bank/The-Bank/News/2023/01/saleh-abdullah-alzumaie-named-alinma-bank-deputy-ceo",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2023-01",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S19",
+      "title": "alinma homepage (links to official LinkedIn, segment and app pages)",
+      "publisher": "Alinma Bank",
+      "url": "https://alinma.com/en/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Musaad K. ALGadi (LinkedIn profile)",
+      "publisher": "LinkedIn",
+      "url": "https://sa.linkedin.com/in/malgadi",
+      "doc_type": "LinkedIn profile (opened; title not visible; CDO title only in search-result summaries)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Senior Executives; Board of Directors (Alinma Capital)",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/executive-team",
+      "doc_type": "Official leadership page (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Investor Relations home",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/",
+      "doc_type": "Official IR website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Alinma Capital Company consolidated financial statements 31 December 2025",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/-/media/Project/Alinma/PDF/Annual-Report-and-Financial-statements-company/Signed-English-Alinma-Capital-Company-Signed-FS-2025.pdf",
+      "doc_type": "Audited financial statements (subsidiary)",
+      "tier": 1,
+      "published": "2026-03-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Change the name of Alinma Investment company",
+      "publisher": "Capital Market Authority (CMA)",
+      "url": "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_3736.aspx",
+      "doc_type": "Regulator announcement",
+      "tier": 3,
+      "published": "2025-02-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Alinma Capital Annual Report 2025 (التقرير السنوي 2025)",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/-/media/Project/Alinma/PDF/May2026/Annual-Report-2025-1.pdf",
+      "doc_type": "Annual report (subsidiary)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S26",
+      "title": "International Trading",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/international-trading",
+      "doc_type": "Official product page (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "alinma capital - الإنماء المالية (App Store listing)",
+      "publisher": "Apple App Store (seller: Alinma Investment Company)",
+      "url": "https://apps.apple.com/sa/app/alinma-capital-الإنماء-المالية/id1550503215",
+      "doc_type": "Official app listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "AUM comparative, 31 Dec 2024",
+      "detail": "Bank FY2025 FS note 38 gives Alinma Capital AUM of SAR 93,650m for 2024. Alinma Capital's own FY2025 FS note 22.1 gives SAR 90,103m. Both give SAR 104,607m for 2025.",
+      "resolution": "Only the 2025 and 30 Jun 2026 figures are recorded, and these agree. Comparative difference unresolved; possibly a scope difference.",
+      "source_ids": [
+        "S4",
+        "S23"
+      ]
+    },
+    {
+      "field": "Chief Treasury Officer",
+      "detail": "AR 2025 executive management lists Abdullah Jamaan AlZahrani as Chief Treasury Officer. The 2Q26 presentation (Jul 2026) and the official executive page (checked 12 Oct 2026) list Mhana/Mahanna Abdulrahman Abaalkhail/Abalkhail.",
+      "resolution": "Used the official page (most recent). No change announcement found. Name spelling follows the official page.",
+      "source_ids": [
+        "S5",
+        "S6",
+        "S1"
+      ]
+    },
+    {
+      "field": "Chief Strategy and Sustainability Officer",
+      "detail": "AR 2025 lists Fahad Abdulaziz AlMohaimeed as Chief Strategy and Sustainability Officer. He is not on the official executive page or the 2Q26 management slide.",
+      "resolution": "Not recorded as current; status unresolved.",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S6"
+      ]
+    },
+    {
+      "field": "Customers",
+      "detail": "AR 2025 reports 6.5 Mn customers at 31 Dec 2025. The 2Q26 presentation reports 6.3 Mn 'Active Customers'.",
+      "resolution": "Different definitions (total vs active). Both recorded with labels; not a decline.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "field": "IBM role (internal lead)",
+      "detail": "Internal notes said IBM was a systems integrator at Alinma. IBM's Feb 2025 release describes IBM as the technology/software provider for an API platform and mentions no consulting or integration services.",
+      "resolution": "Recorded IBM as API/integration platform technology provider. Systems-integrator role not verified.",
+      "source_ids": [
+        "S15"
+      ]
+    }
+  ],
+  "open_items": [
+    "Saudi Exchange (saudiexchange.sa) announcement pages returned HTTP 403. Figures were taken from bank-published reviewed/audited statements and press release instead. The Euroland announcements feed on ir.alinma.com is JS-rendered and could not be read.",
+    "Q3 2026 (30 Sep 2026) results not yet published on ir.alinma.com as of 12 Oct 2026. Re-check after late Oct 2026.",
+    "Head of Private Banking / wealth not named in any official source. The Deputy CEO covers retail, digital and private. Find the Private Banking Group head (LinkedIn/news).",
+    "CDO (Musaad K. ALGadi) and CIO (Yasser AlOufi, Feb 2025) are not on the official executive page. Confirm current titles.",
+    "Which funds (in-house only, or third-party) are on the bank app's 2025 wealth management platform: not documented publicly.",
+    "Alinma Private eligibility thresholds not published.",
+    "Lead not verified: Dell Technologies MoU on data centre/AI/cloud (seen only in a search result from a tech-news aggregator).",
+    "Board and executive LinkedIn profiles for CEO and Deputy CEO not found via search."
+  ],
+  "research_status": "Complete",
+  "researched_by": "P2",
+  "checked": "2026-10-12"
+}

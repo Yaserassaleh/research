@@ -1,0 +1,974 @@
+{
+  "id": "kw-kic",
+  "name": "Kuwait Investment Company",
+  "short_name": "KIC",
+  "legal_name": "Kuwait Investment Company K.S.C. (Public)",
+  "name_ar": "الشركة الكويتية للاستثمار",
+  "country": "KW",
+  "hq_city": "Kuwait City",
+  "website": "https://www.kic.com.kw",
+  "linkedin_company": null,
+  "category": "Non-bank",
+  "type": "Asset & wealth manager",
+  "model": "Not applicable",
+  "founded": "1961 (incorporated 3 Dec 1961; described as Kuwait's first investment company)",
+  "regulators": [
+    "CMA Kuwait",
+    "CBK"
+  ],
+  "listed": true,
+  "exchange": "Boursa Kuwait",
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Listed on Boursa Kuwait; 62% owned by the Kuwait Investment Authority (KIA), its ultimate parent, per the audited FY2025 statements and the H1 2026 interim statements. Paid-up capital KD 55,125,000 (551.25m shares; 500,000 treasury shares at 30 Jun 2026).",
+  "shareholders": [
+    {
+      "holder": "Kuwait Investment Authority (ultimate parent)",
+      "pct": 62,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S12",
+        "S13"
+      ]
+    }
+  ],
+  "government_link": "Yes — 62% owned by the Kuwait Investment Authority, Kuwait's sovereign wealth fund (as of 30 Jun 2026). KIC also manages fiduciary portfolios for KIA and government agencies.",
+  "group_structure": "Parent company with four operating sectors (Asset Management; Direct Investment & Corporate Finance; Treasury; Operations). Consolidated subsidiaries (FY2025): Kuwait Financial Brokerage Co. (45.47%, brokerage, controlled), Kuwait International Fair Co. (51%), Al Masar Leasing & Investment Co. (45.75%, Shariah-compliant leasing/investment, controlled), Arab Financial Services Co. (100%, brokerage), Kuwait Foreign Investment Co. (USA, 100%), Kuwait Maritime Transportation Co. (76%), Al Awaed Fund (100%), Al Hilal Islamic Fund (99.75%), KIC Capital Fund B.S.C. (Bahrain, 100%), KIC Bond Fund (under liquidation), MAJEL and WISALY S.A.R.L. (German real estate). Associate: National Hotels Company B.S.C. (Bahrain Bourse, 20.94%). Board (website, checked 2026-10-12): Bader Fawaz AlQattan (Chairman), Tameem Abdulaziz Al Mansour (Deputy Chairman, independent), Jamal Abdullah AlSaleem, Bader Nasser AlSubaiee, Fahad Mutlaq AlSheraian (independent), Bader Mohammad Alomairi, Abdullah Mohammad Alhadlaq, Aljazi Ali Almishwat, Lulwa Abdullatif Altherban.",
+  "subsidiaries": [
+    {
+      "name": "Kuwait Financial Brokerage Company K.S.C. (Closed)",
+      "pct": 45.47,
+      "activity": "Brokerage (Boursa Kuwait), advisory and online trading; consolidated as controlled",
+      "linked_id": null,
+      "source_ids": [
+        "S13",
+        "S4"
+      ]
+    },
+    {
+      "name": "Arab Financial Services Company K.S.C. (Closed)",
+      "pct": 100,
+      "activity": "Brokerage",
+      "linked_id": null,
+      "source_ids": [
+        "S13"
+      ]
+    },
+    {
+      "name": "Al Masar Leasing and Investment Company K.S.C. (Closed)",
+      "pct": 45.75,
+      "activity": "Shariah-compliant asset management, investment consulting, Islamic leasing and direct investments",
+      "linked_id": null,
+      "source_ids": [
+        "S13",
+        "S4"
+      ]
+    },
+    {
+      "name": "Kuwait International Fair Company K.S.C. (Closed)",
+      "pct": 51,
+      "activity": "Exhibitions",
+      "linked_id": null,
+      "source_ids": [
+        "S13",
+        "S4"
+      ]
+    },
+    {
+      "name": "Kuwait Foreign Investment Company (USA)",
+      "pct": 100,
+      "activity": "Investment",
+      "linked_id": null,
+      "source_ids": [
+        "S13"
+      ]
+    },
+    {
+      "name": "KIC Capital Fund B.S.C. (Bahrain)",
+      "pct": 100,
+      "activity": "Investment",
+      "linked_id": null,
+      "source_ids": [
+        "S13"
+      ]
+    },
+    {
+      "name": "National Hotels Company B.S.C. (associate)",
+      "pct": 20.94,
+      "activity": "Hospitality, Bahrain (listed on Bahrain Bourse)",
+      "linked_id": null,
+      "source_ids": [
+        "S13",
+        "S4"
+      ]
+    }
+  ],
+  "footprint": "Head office in Sharq, Kuwait City (Souk Al Manakh Building). Clients served from Kuwait; online trading covers Kuwait, UAE, Qatar, Saudi, Egypt, Hong Kong, China and US markets; real estate and direct investments mainly in MENA and Germany. Checked 2026-10-12.",
+  "customer_segments": "Institutional and government clients (fiduciary portfolios for KIA, government agencies and other financial institutions), individual and institutional portfolio clients, HNW individuals (Wealth Management unit set up 2025), retail investors via KIC Trade and funds, corporate clients (investment banking, corporate finance, market making for 18 Boursa-listed companies at end 2025).",
+  "business_lines": "Asset management (local, Arab and international funds and portfolios; fiduciary mandates of KD 2.13bn at 30 Jun 2026), wealth management for HNW (2025), online trading (KIC Trade) and brokerage subsidiaries, market making on Boursa Kuwait (since 2022), investment research, investment banking (M&A, capital raising, advisory, restructuring), corporate finance (lending under CBK rules), direct investments and real estate, treasury.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 334745286,
+      "unit": "unit",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets (interim condensed consolidated; maturity analysis note, reviewed)",
+      "status": "Verified",
+      "locator": "Note 13, p.10 (statement of financial position page is an image)",
+      "note": "Reviewed, unaudited. Q3 2026 not yet published on kic.com.kw at 12 Oct 2026.",
+      "source_ids": [
+        "S12",
+        "S15"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 322565284,
+      "unit": "unit",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets (audited)",
+      "status": "Verified",
+      "locator": "FY2025 FS maturity note; H1 2026 note 13 comparative",
+      "note": "",
+      "source_ids": [
+        "S13",
+        "S12"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 174844250,
+      "unit": "unit",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated (incl. non-controlling interests)",
+      "definition": "Total equity, derived as total assets KD 334,745,286 less total liabilities KD 159,901,036",
+      "status": "Verified",
+      "locator": "Note 13",
+      "note": "Derived; CFO cited about KD 175m total equity and KD 136m attributable to shareholders on the 13 Aug 2026 analyst call.",
+      "source_ids": [
+        "S12",
+        "S15"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 48074102,
+      "unit": "unit",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Total 'Revenue' in the consolidated statement of profit or loss (fees, rental income, investment income, ECL releases, fair value changes, finance and other income)",
+      "status": "Verified",
+      "locator": "Consolidated statement of profit or loss, p.7",
+      "note": "FY2024: KD 34,647,977.",
+      "source_ids": [
+        "S13"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 17131914,
+      "unit": "unit",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Total 'Operating revenue', interim condensed consolidated statement of profit or loss",
+      "status": "Verified",
+      "locator": "p.3",
+      "note": "H1 2025: KD 22,169,570.",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 19713119,
+      "unit": "unit",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year attributable to shareholders of the Parent Company",
+      "status": "Verified",
+      "locator": "Consolidated statement of profit or loss, p.7",
+      "note": "Total profit KD 23,793,940 incl. NCI; FY2024 attributable KD 12,569,897 (+57%).",
+      "source_ids": [
+        "S13",
+        "S14"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 5158794,
+      "unit": "unit",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period attributable to shareholders of the Parent Company",
+      "status": "Verified",
+      "locator": "p.3",
+      "note": "H1 2025: KD 10,192,001.",
+      "source_ids": [
+        "S12",
+        "S15"
+      ]
+    },
+    {
+      "metric": "fiduciary_assets",
+      "value": 2.13,
+      "unit": "billion",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group (off-balance sheet)",
+      "definition": "'Fiduciary assets': carrying value of investment portfolios managed on behalf of KIA, government agencies and other financial institutions (not labelled AUM)",
+      "status": "Verified",
+      "locator": "Note 11, p.10",
+      "note": "Rounded as printed. 31 Dec 2025: KD 2.177bn; 31 Dec 2024: KD 1.789bn (S13 note 28). Fiduciary fee income FY2025 KD 5,533,225. Not labelled AUM, so not recorded as aum.",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    {
+      "metric": "fiduciary_assets",
+      "value": 2.177,
+      "unit": "billion",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group (off-balance sheet)",
+      "definition": "'Fiduciary assets' (portfolios managed for KIA, government agencies and other financial institutions)",
+      "status": "Verified",
+      "locator": "Note 28",
+      "note": "Audited note.",
+      "source_ids": [
+        "S13"
+      ]
+    },
+    {
+      "metric": "fund_nav",
+      "value": 217.4,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "End 2025",
+      "period_type": "point_in_time",
+      "scope": "Fund: Al-Raed Investment Fund (Boursa Kuwait equities)",
+      "definition": "Net asset value of KIC's largest fund",
+      "status": "Verified",
+      "locator": "Executive Management's Report, p.19",
+      "note": "Rounded.",
+      "source_ids": [
+        "S14"
+      ]
+    },
+    {
+      "metric": "market_maker_mandates",
+      "value": 18,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "End 2025",
+      "period_type": "point_in_time",
+      "scope": "Parent company",
+      "definition": "Number of Boursa Kuwait-listed companies for which KIC acts as market maker",
+      "status": "Conflicting sources",
+      "locator": "Annual Report p.19",
+      "note": "Website says 17. 2026 disclosures show both additions (Oula Fuel, Osoul) and cancellations (Gulf Bank, Dalqan, Beyout).",
+      "source_ids": [
+        "S14",
+        "S5",
+        "S17"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 audited FS (S13), Annual Report 2025 (S14), H1 2026 interim FS (S12), Q2 2026 analyst call (S15), kic.com.kw service pages (S5–S8). Only 'fiduciary assets' and individual fund NAVs are disclosed."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Annual Report 2025, analyst call minutes, website (S5–S8, S14, S15)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "KIC Trade user numbers not found on the Online Trading page (S6) or in the Annual Report 2025 (S14)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "Annual Report 2025 gives staff costs (KD 9.48m FY2025) but no headcount found in the extracted text (S14)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Bader Fawaz AlQattan",
+      "name_ar": null,
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Kuwait Investment Company K.S.C.P.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not found in sources opened.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page on kic.com.kw, checked 2026-10-12 (S3); signs the Board of Directors' report in the Annual Report 2025 (S14). News search for changes not possible (search budget exhausted).",
+      "source_ids": [
+        "S3",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tameem Abdulaziz Al Mansour",
+      "name_ar": null,
+      "title": "Deputy Chairman (Independent)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Kuwait Investment Company K.S.C.P.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page (S3) and Annual Report 2025 (S14), checked 2026-10-12.",
+      "source_ids": [
+        "S3",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fawaz Sulaiman Al Ahmad",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Kuwait Investment Company K.S.C.P.",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not found in sources opened.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive Management page, checked 2026-10-12 (S2); signs the Executive Management's Report in the Annual Report 2025 (S14). Not a participant in the 13 Aug 2026 analyst call (S15). No departure disclosure seen in the 2026 announcements list (S17).",
+      "source_ids": [
+        "S2",
+        "S14",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faisal Yousef Al Mishari",
+      "name_ar": "فيصل يوسف المشاري",
+      "title": "Deputy CEO – Direct Investment and Corporate Finance Sector",
+      "functions": [
+        "Deputy CEO",
+        "Corporate / wholesale"
+      ],
+      "entity": "Kuwait Investment Company K.S.C.P.",
+      "business_unit": "Direct Investment & Corporate Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Annual Report 2025 also listed him as Acting EVP – Asset Management Sector.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive Management page (S2) and Q2 2026 analyst call, 13 Aug 2026 (S15).",
+      "source_ids": [
+        "S2",
+        "S14",
+        "S15"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ghazi Qais Al Nusif",
+      "name_ar": "غازي قيس النصف",
+      "title": "Deputy CEO – Asset Management Sector",
+      "functions": [
+        "Deputy CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Kuwait Investment Company K.S.C.P.",
+      "business_unit": "Asset Management (local and global portfolios and funds)",
+      "scope": "Group",
+      "appointed": "2026",
+      "appointed_note": "Not in the Annual Report 2025 executive list (Asset Management then had an acting head). KIC filed 'Appointment of Executive Vice President – Asset Management' on 8 Jul 2026, but the scanned PDF is not machine-readable, so the name in it is unconfirmed.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive Management page (S2) and Q2 2026 analyst call participant list, 13 Aug 2026 (S15).",
+      "source_ids": [
+        "S2",
+        "S15",
+        "S16"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Wael Sami Al Ebrahim",
+      "name_ar": null,
+      "title": "Deputy CEO – Operations Sector",
+      "functions": [
+        "Deputy CEO",
+        "Operations",
+        "Technology"
+      ],
+      "entity": "Kuwait Investment Company K.S.C.P.",
+      "business_unit": "Operations (HR, administration, IT, settlements, training)",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive Management page (S2) and Annual Report 2025 (S14).",
+      "source_ids": [
+        "S2",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hany A. Elnowaihy",
+      "name_ar": "هاني عبدالفتاح النويهي",
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Kuwait Investment Company K.S.C.P.",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive Management page (S2); presented H1 2026 results on 13 Aug 2026 (S15).",
+      "source_ids": [
+        "S2",
+        "S15"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "KIC is Kuwait's oldest investment company (1961), 62% owned by the KIA, and its client business is dominated by fiduciary portfolios managed for KIA, government agencies and other institutions (KD 2.13bn at 30 Jun 2026, earning KD 5.5m of fees in FY2025). It runs four CMA-regulated funds (Al-Raed Investment Fund, NAV KD 217.4m at end 2025; Shariah-compliant Kuwait Investment Fund and KIC-GCC Equity Fund; Al Hilal Islamic money market fund), local, GCC and international discretionary portfolios, and relaunched a KIC Global Balanced Portfolio in May 2025. A dedicated Wealth Management unit for HNW clients was set up in 2025 under a new five-year strategy. KIC Trade gives online access to Kuwait, GCC, Egyptian, Hong Kong, Chinese and US markets (equities, ETFs, options, bonds and sukuk, margin), with e-KYC launched in 2025. KIC signed an exclusive agreement with Goldman Sachs Asset Management in H2 2025 to bring a foreign investment product to Kuwait, subject to regulatory approval.",
+    "segments": [
+      {
+        "name": "Wealth Management",
+        "tier": "HNW",
+        "eligibility": "High-net-worth individuals and institutions; thresholds not published",
+        "source_ids": [
+          "S7",
+          "S14"
+        ]
+      },
+      {
+        "name": "Fiduciary / institutional mandates",
+        "tier": "Institutional",
+        "eligibility": "KIA, government agencies and other financial institutions",
+        "source_ids": [
+          "S12"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "No",
+      "detail": "Not a bank. HNW coverage is through the Wealth Management unit (see advisory).",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Asset Management Sector: Local & Arab Funds Management, Local & Arab Portfolio Management (company-managed, client-managed and custody portfolios), International Funds & Portfolios. Fiduciary assets KD 2.13bn (30 Jun 2026). Funds: Al-Raed Investment Fund (NAV KD 217.4m, end 2025), Kuwait Investment Fund (Shariah), KIC-GCC Equity Fund (Shariah, launched 2003, 1.75% fee), Al Hilal Islamic Fund (Shariah money market, launched 2003, 1% fee), Al Awaed Fund; Real Estate Opportunity Fund under liquidation.",
+      "source_ids": [
+        "S5",
+        "S12",
+        "S14",
+        "S10",
+        "S11",
+        "S13",
+        "S17"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "KIC Trade (Online Trading Department): Boursa Kuwait, DFM, Nasdaq Dubai, ADX, QSE, Tadawul, EGX, Hong Kong, China and US markets; equities, ETFs, US options, bonds and sukuk, margin trading. Also via subsidiaries Kuwait Financial Brokerage Co. (45.47%, Boursa broker with online platforms) and Arab Financial Services Co. (100%). Market maker for listed companies since 2022.",
+      "source_ids": [
+        "S6",
+        "S5",
+        "S13",
+        "S4"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "KIC Trade on web, mobile and desktop with digital account opening (e-KYC at ekyc.kic.com.kw, launched 2025). Annual Report cites expansion of electronic trading platforms and plans for AI-enabled analytics.",
+      "source_ids": [
+        "S6",
+        "S5",
+        "S14"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Wealth Management unit (2025): financial planning, portfolio management and specialised advisory for HNW individuals and institutions. Investment Research Unit covers Boursa Kuwait, GCC and MENA markets and provides advisory services. Investment banking advisory (M&A, capital raising, restructuring).",
+      "source_ids": [
+        "S7",
+        "S5",
+        "S9",
+        "S14"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Company-managed portfolios (local, Arab and international) and fiduciary mandates where the Group makes investment decisions under the agreements.",
+      "source_ids": [
+        "S5",
+        "S12"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo or model-portfolio offering found; KIC Global Balanced Portfolio (relaunched May 2025) is a managed portfolio.",
+      "source_ids": [
+        "S14",
+        "S6"
+      ]
+    },
+    "funds_platform": {
+      "present": "Unclear",
+      "detail": "No named third-party fund shelf. International portfolios invest in funds, and an exclusive agreement with Goldman Sachs Asset Management (H2 2025) aims to introduce a foreign investment product in Kuwait, pending regulatory approval.",
+      "source_ids": [
+        "S5",
+        "S14"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found on service pages or in the Annual Report 2025.",
+      "source_ids": [
+        "S5",
+        "S14"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "Proprietary direct investments (listed and unlisted, mainly MENA) and real estate (incl. Germany). Client portfolios 'may include alternative investments'; a client Real Estate Opportunity Fund is under liquidation. No current client private-markets product named.",
+      "source_ids": [
+        "S5",
+        "S8",
+        "S17"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Shariah-compliant Kuwait Investment Fund and KIC-GCC Equity Fund (equities plus GCC government sukuk; external Shariah auditor Osool), Al Hilal Islamic money market fund (Shariah auditor Sharia Audit House since Jan 2025), Shariah-compliant stocks and sukuk on KIC Trade, and Shariah-compliant subsidiary Al Masar Leasing & Investment.",
+      "source_ids": [
+        "S10",
+        "S11",
+        "S14",
+        "S6",
+        "S4"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Options (US-listed)",
+      "Mutual funds",
+      "Money market funds",
+      "Bonds",
+      "Sukuk",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Goldman Sachs Asset Management",
+        "kind": "Product partner",
+        "what": "Exclusive agreement (H2 2025) to introduce a new foreign investment product in Kuwait, subject to regulatory approvals",
+        "date": "2025",
+        "status": "Announced",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "partner": "Gulf Custody Company",
+        "kind": "Custody",
+        "what": "Custodian of KIC funds (e.g. Al Hilal Islamic Fund, KIC-GCC Equity Fund)",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "partner": "Kuwait Clearing Company",
+        "kind": "Registrar / record keeper",
+        "what": "Record keeper for Al Hilal Islamic Fund",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S10"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-05",
+        "what": "Relaunched the restructured KIC Global Balanced Portfolio",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "New five-year strategy: dedicated Wealth Management division for HNW clients; e-KYC launched; more markets on electronic trading platforms; AI-enabled analytics planned",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Exclusive agreement with Goldman Sachs Asset Management to introduce a foreign investment product in Kuwait (pending regulatory approval)",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2025-12-31",
+        "what": "Market-making mandates rose to 18 Boursa-listed companies (10 added in 2025)",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2026-07-08",
+        "what": "Disclosure: appointment of Executive Vice President – Asset Management (scanned filing)",
+        "source_ids": [
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "date": "2026-08",
+        "what": "KIC-led consortium prequalified by the Public Authority for Housing Welfare (Boursa disclosure, 31 Aug 2026)",
+        "source_ids": [
+          "S17"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Wealth Management division for HNW clients was set up in 2025 and is in a 'foundational phase' that includes 'exploring digital solutions to support gradual expansion' (S14).",
+        "Client shelf is mostly in-house Kuwait/GCC funds and portfolios; international product access is being sought through the Goldman Sachs AM agreement, still pending regulatory approval (S14, S5).",
+        "Strategy names AI-enabled analytics and expanded electronic platforms; e-KYC launched 2025 (S14)."
+      ],
+      "barriers": [
+        "62% KIA-owned; client assets are concentrated in government fiduciary mandates rather than retail or affluent wealth (S12).",
+        "Already runs its own KIC Trade multi-market platform and brokerage subsidiaries (S6, S13).",
+        "H1 2026 attributable profit fell 49% year on year to KD 5.2m, which may constrain new spending (S12, S15)."
+      ],
+      "incumbent_vendors": [
+        "Goldman Sachs Asset Management — product partner, pending approval (S14)",
+        "Gulf Custody Company — fund custodian (S10, S11)",
+        "KIC Trade platform vendor not named (S6)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Our Story (About us)",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/8/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Executive Management",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/234/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Board of Directors",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/107/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Affiliates",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/115/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Organization Structure Detail (sector and department descriptions)",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/335/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Online Trading (KIC Trade)",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/99/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Wealth Management",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/283/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Portfolio Management",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/93/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Investment Banking",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/91/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Al Hilal Islamic Fund (fund page)",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/203/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "KIC-GCC Equity Fund (fund page)",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/cms/pages/244/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Interim condensed consolidated financial information for the period ended June 30, 2026 (reviewed by RSM Albazie & Co., 11 Aug 2026)",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/documents/1218/10049e.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-08-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Consolidated financial statements for the year ended December 31, 2025 (audited by RSM Albazie & Co., 11 Feb 2026)",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/documents/124/10047e.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-02-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Annual Report 2025",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/documents/88/Annual_Report.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Minutes of the analysts' conference for the second quarter 30/06/2026 (held 13 Aug 2026; filed with Boursa Kuwait 16 Aug 2026)",
+      "publisher": "Kuwait Investment Company",
+      "url": "http://www.kic.com.kw/backend/en/documents/1220/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9_16_08_2026__%D9%85%D8%AD%D8%B6%D8%B1_%D9%85%D8%A4%D8%AA%D9%85%D8%B1_%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%84%D9%8A%D9%86_%D9%84%D9%84%D9%81%D8%AA%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D9%87%D9%8A%D8%A9_%D9%81%D9%8A_30_06_2026.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-08-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Appointment of Executive Vice President – Asset Management (Disclosure of Material Information, 8 Jul 2026)",
+      "publisher": "Kuwait Investment Company",
+      "url": "http://www.kic.com.kw/backend/en/documents/1208/2129.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-07-08",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S17",
+      "title": "Disclosures & Announcements list, 2026",
+      "publisher": "Kuwait Investment Company",
+      "url": "https://www.kic.com.kw/backend/en/api/rest/disclosure/announcements/?year=2026",
+      "doc_type": "Exchange disclosure index",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Market-making mandates",
+      "detail": "Annual Report 2025: 18 listed companies at end 2025 (S14). Website organisation page: 17 companies (S5). 2026 disclosures show additions and cancellations (S17).",
+      "resolution": "Recorded 18 at end 2025 as Conflicting sources; current count not established.",
+      "source_ids": [
+        "S14",
+        "S5",
+        "S17"
+      ]
+    },
+    {
+      "field": "Brokerage subsidiary name",
+      "detail": "FY2025 FS lists 'Kuwait Financial Brokerage Company' in the subsidiary table but 'KIC Financial Brokerage Company (Wasata)' in the NCI note (S13); website uses 'Kuwait Financial Brokerage Company' (S4).",
+      "resolution": "Used 'Kuwait Financial Brokerage Company' (45.47%).",
+      "source_ids": [
+        "S13",
+        "S4"
+      ]
+    },
+    {
+      "field": "Head of Asset Management",
+      "detail": "Annual Report 2025 lists Faisal Al Mishari as Acting EVP – Asset Management; website and Aug 2026 call list Ghazi Al Nusif as Deputy CEO – Asset Management; the 8 Jul 2026 appointment filing uses the title 'Executive Vice President' and could not be read.",
+      "resolution": "Recorded Ghazi Al Nusif as current head (two consistent 2026 sources).",
+      "source_ids": [
+        "S14",
+        "S2",
+        "S15",
+        "S16"
+      ]
+    }
+  ],
+  "open_items": [
+    "WebSearch budget was exhausted before this institution, so no news searches (appointments/departures 2025–2026, Arabic press) or LinkedIn checks were possible; all people have linkedin_status 'Not checked'. Re-run news and LinkedIn checks for the CEO and Deputy CEO Asset Management.",
+    "Boursa Kuwait company profile returned HTTP 403; ticker not recorded and shareholders above 5% other than KIA not confirmed.",
+    "CMA Kuwait licence register not checked directly; regulators taken from the audited FS note (CBK for financing, CMA as investment company).",
+    "The 8 Jul 2026 'Appointment of EVP – Asset Management' and Jul 2026 'Disclosure of Material Information' PDFs are scans without readable text; OCR needed.",
+    "KIC Trade execution/technology vendor and user numbers not found.",
+    "Q3 2026 results not yet posted on kic.com.kw (checked 2026-10-12)."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B09",
+  "checked": "2026-10-12"
+}

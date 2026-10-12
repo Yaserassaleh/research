@@ -1,0 +1,1401 @@
+{
+  "id": "ae-adib",
+  "name": "Abu Dhabi Islamic Bank",
+  "short_name": "ADIB",
+  "legal_name": "Abu Dhabi Islamic Bank Public Joint Stock Company",
+  "name_ar": "مصرف أبوظبي الإسلامي",
+  "country": "AE",
+  "hq_city": "Abu Dhabi",
+  "website": "https://www.adib.ae",
+  "linkedin_company": "https://www.linkedin.com/company/abu-dhabi-islamic-bank",
+  "category": "Bank",
+  "type": "Islamic commercial bank",
+  "model": "Islamic",
+  "founded": "1997 (first Islamic bank established in the Emirate of Abu Dhabi; listed on ADX)",
+  "regulators": [
+    "CBUAE",
+    "SCA",
+    "DFSA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "ADIB",
+  "parent_id": null,
+  "ownership_summary": "Listed on ADX with 3,632,000,000 shares. At 31 Dec 2025 the only holders above 5% were Emirates International Investment Company LLC (1,431,110,701 shares, 39.40%) and Emirates NBD PJSC (246,223,389 shares, 6.78%); other investors held 53.82%. UAE nationals held 73.3% and foreign investors 26.7% (foreign cap 40%). In Sep 2026 the board proposed an AED 1.75bn rights issue (up to 106.383m new shares at AED 16.45); the investor presentation says major shareholders confirmed full-entitlement participation.",
+  "shareholders": [
+    {
+      "holder": "Emirates International Investment Company LLC",
+      "pct": 39.4,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S10"
+      ]
+    },
+    {
+      "holder": "Emirates NBD PJSC",
+      "pct": 6.78,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S10"
+      ]
+    }
+  ],
+  "government_link": "Not established from opened sources for equity: the ultimate owner of the 39.40% holder (Emirates International Investment Company) was not verified. The Abu Dhabi Government (Department of Finance) holds AED 2bn of Tier 1 sukuk issued on 16 Apr 2009 under the Abu Dhabi bank capitalisation programme. That is capital, not ordinary equity (FY2025 FS).",
+  "group_structure": "Parent bank in Abu Dhabi (CBUAE) with 61 UAE branches and overseas branches in Iraq, Qatar and Sudan (30 Jun 2026). Wealth and investment subsidiaries: Abu Dhabi Islamic Securities Company LLC ('ADIB Securities', 95%, SCA-licensed equity brokerage) and ADIB Capital Ltd (100%, DIFC, DFSA-regulated asset management, funds, arranging and advisory; described on the board page as the bank's 'investment banking and asset management arm'). Other subsidiaries: ADIB Egypt (53%), Burooj Properties and MPM Properties (real estate), Kawader Services (manpower), ADIB (UK) Ltd, and SPVs incl. Fractionalized Sukuk Holding Limited (ADGM; linked to the Smart Sukuk platform). ADIB Invest 1 (BVI, brokerage) was listed at 31 Dec 2025 but not in the 30 Jun 2026 list. Associates and JVs: Abu Dhabi National Takaful (42%), Bosna Bank International (27%), The Residential REIT (IC) Limited (29%), Saudi Finance Company (51% JV), Abu Dhabi Islamic Merchant Acquiring Company (51% JV) and Arab Link Money Transfer (51%, under liquidation). No subsidiary has its own file, so all figures are group consolidated.",
+  "subsidiaries": [
+    {
+      "name": "Abu Dhabi Islamic Securities Company LLC (ADIB Securities)",
+      "pct": 95.0,
+      "activity": "Equity brokerage (SCA licence 604041); ADX and DFM; online, phone and investment centres",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S9",
+        "S26"
+      ]
+    },
+    {
+      "name": "ADIB Capital Ltd",
+      "pct": 100.0,
+      "activity": "DIFC asset-management subsidiary regulated by the DFSA: arranging deals, advising on financial products, managing collective investment funds (Shariah vehicles)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S9",
+        "S2"
+      ]
+    },
+    {
+      "name": "Abu Dhabi Islamic Bank – Egypt (S.A.E.)",
+      "pct": 53.0,
+      "activity": "Islamic bank, Egypt (79 branches; about 900k customers)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "name": "Burooj Properties LLC / MPM Properties LLC",
+      "pct": 100.0,
+      "activity": "Real estate investments / real estate services",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Kawader Services LLC",
+      "pct": 100.0,
+      "activity": "Manpower supply",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "ADIB (UK) Limited",
+      "pct": 100.0,
+      "activity": "Other services",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Fractionalized Sukuk Holding Limited",
+      "pct": null,
+      "activity": "SPV (ADGM per CG report), consolidated by control",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S9"
+      ]
+    },
+    {
+      "name": "Abu Dhabi National Takaful PJSC (associate)",
+      "pct": 42.0,
+      "activity": "Islamic insurance (ADX-listed)",
+      "linked_id": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "name": "Bosna Bank International D.D. (associate)",
+      "pct": 27.0,
+      "activity": "Islamic banking, Bosnia",
+      "linked_id": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "name": "The Residential REIT (IC) Limited (associate)",
+      "pct": 29.0,
+      "activity": "Real estate fund",
+      "linked_id": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "name": "Saudi Finance Company CSJC (joint venture)",
+      "pct": 51.0,
+      "activity": "Islamic retail finance, Saudi Arabia (held via ADIB Two Financial Invest LLC)",
+      "linked_id": null,
+      "source_ids": [
+        "S7",
+        "S9"
+      ]
+    }
+  ],
+  "footprint": "UAE: 61 branches (30 Jun 2026). International: Egypt (ADIB Egypt, 79 branches), branches in Iraq, Qatar and Sudan, ADIB (UK) Ltd, and associates in Bosnia and Saudi Arabia. The investor presentation says '+140 branches' across '5 markets' (Sep 2026).",
+  "customer_segments": "Retail with a focus on UAE nationals (780,000 UAE national customers, which the bank says is over 60% market share) and the mass-affluent segment; Priority Banking (Gold, Diamond); Private Banking (HNW); Business Banking/SME; Wholesale (large corporates, GREs, financial institutions); international via ADIB Egypt.",
+  "business_lines": "Retail Banking (48% of group revenue; deposits, cards, home and personal finance, wealth products), Wholesale Banking (29%; corporate and investment finance, transaction banking, DCM), Treasury (6%; sukuk investing, FX, rates, equity and debt execution), and Others incl. ADIB Egypt, associates and subsidiaries (16%). Private Banking is a separate reporting segment for HNW clients. The wealth stack includes Wealth Management (advisory, third-party and ADIB-branded funds, structured products, sukuk trading, alternatives), ADIB Securities (brokerage), ADIB Capital (DIFC asset management and investment banking) and the Smart Sukuk digital fractional-sukuk platform.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 303916157,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated interim statement of financial position (reviewed)",
+      "status": "Verified",
+      "locator": "PDF p.7",
+      "note": "31 Dec 2025 (audited comparative): AED 280,753,148 thousand.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 280753148,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, statement of financial position (audited comparative column in H1 2026 FS)",
+      "status": "Verified",
+      "locator": "S3 PDF p.7; S7 Board report PDF p.3 (AED 280.8bn)",
+      "note": "",
+      "source_ids": [
+        "S3",
+        "S7"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 245651689,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Depositors' accounts; excludes due to financial institutions (AED 15,624,632 thousand)",
+      "status": "Verified",
+      "locator": "PDF p.7",
+      "note": "CASA AED 157bn, 64% of deposits (MD&A, S4). 31 Dec 2025: AED 229,096,294 thousand.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 206189321,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customer financing, net = Murabaha and other Islamic financing (AED 127,406,767 thousand) + Ijara financing (AED 78,782,554 thousand), each net of impairment provisions; excludes investment in sukuk",
+      "status": "Verified",
+      "locator": "S3 PDF p.7; S4 p.7",
+      "note": "Sum of two FS lines; it matches the MD&A line 'Customer financing, net' of AED 206,189 million. 31 Dec 2025: AED 181,376 million.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 210,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Gross customer financing (before provisions), as stated in the MD&A",
+      "status": "Verified",
+      "locator": "p.2 and p.7",
+      "note": "Rounded. Retail AED 104bn, wholesale AED 84bn.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 32327000,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. Tier 1 sukuk (AED 4,754,375 thousand) and non-controlling interest (AED 1,738,883 thousand)",
+      "status": "Verified",
+      "locator": "PDF p.7",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 12304.0,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Group net revenue: total operating income net of distribution to depositors and sukuk holders (FS total operating income AED 17,907,294 thousand less distribution AED 5,603,306 thousand)",
+      "status": "Verified",
+      "locator": "S7 Board report PDF p.3; P&L PDF p.11",
+      "note": "FY2024: AED 10,631.9m. Non-funded income FY2025 AED 4.8bn (39% of revenue).",
+      "source_ids": [
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 6673692,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year after zakat and tax attributable to equity holders of the Bank",
+      "status": "Verified",
+      "locator": "PDF p.11",
+      "note": "Total profit after zakat and tax AED 7,070,123 thousand (FY2024: 6,101,417); profit before zakat and tax AED 8,101,260 thousand.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 3527465,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the six months after tax attributable to equity holders of the Bank",
+      "status": "Verified",
+      "locator": "PDF p.5",
+      "note": "Total profit after tax AED 3,755,572 thousand ('AED 3.8bn' in MD&A); H1 2025 attributable AED 3,292,353 thousand.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 2.7,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "point_in_time",
+      "scope": "Group franchise incl. about 900k in Egypt",
+      "definition": "Customers across the franchise (company statement; active vs registered not specified)",
+      "status": "Verified",
+      "locator": "S5 p.6; S6 PDF p.6",
+      "note": "Rounded. 780,000 UAE national customers. 125,000 new customers in H1 2026 and about 283,000 in 2025 (S4, S8).",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 61,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "UAE",
+      "definition": "Branches in the UAE (excl. 3 overseas branches in Iraq, Qatar and Sudan and 79 ADIB Egypt branches)",
+      "status": "Verified",
+      "locator": "Note 1, PDF p.11",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "H1 2026 earnings presentation (S5) says only 'Wealth AUMs ... growing +30% over two years', with no value. Also checked H1 2026 MD&A (S4), investor presentation (S6), FY2025 FS and MD&A (S7, S8), CG Report 2025 (S9) and wealth pages; checked 2026-10-12."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Same as above. Private Banking is a reporting segment in the FS (S7 segment note) but client assets are not given."
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 FS give only the fiduciary-assets accounting policy, with no amount (S7, PDF p.40). No custody or AUA figure in S3–S6."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "No Smart Sukuk, ADIB Securities or fund client counts in S4–S6, S8, S13 or S26."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "CG Report 2025 gives only ratios (e.g. women 44% of employees) (S9). The Integrated Annual Report 2025 PDF was too large to fetch."
+    }
+  ],
+  "people": [
+    {
+      "name": "H.E. Jawaan Awaidha Suhail Al Khaili",
+      "name_ar": "جوعان عويضة سهيل الخييلي",
+      "title": "Chairman (non-independent, non-executive)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2008-02",
+      "appointed_note": "Joined the ADIB board February 2008; board re-appointed him as Chairman during 2025 (CG Report).",
+      "previous_roles": "Chairs National Holding and Ittihad International Investment LLC; co-founder and chairman of Emirates Link Group (board page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page (S2, checked 2026-10-12); quoted as Chairman in H1 2026 MD&A (S4, 29 Jul 2026) and signed H1 2026 FS (S3).",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Faisal Sultan Naser Salem Al Shuaibi",
+      "name_ar": null,
+      "title": "Vice Chairman (independent, non-executive)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2019-03",
+      "appointed_note": "Joined the board March 2019 (board page).",
+      "previous_roles": "Director General, Strategy and Performance Development General Directorate, Ministry of Interior (board page).",
+      "education": "PhD in strategic development in government and security institutions (board page)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page (S2, checked 2026-10-12).",
+      "source_ids": [
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Najib Youssef Fayyad",
+      "name_ar": null,
+      "title": "Board Member (non-independent, non-executive); Chairman of ADIB Capital",
+      "functions": [
+        "Board",
+        "Investments / asset management"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Board / ADIB Capital",
+      "scope": "Group; Subsidiary: ADIB Capital Ltd",
+      "appointed": null,
+      "appointed_note": "Chairs the board of ADIB Capital Ltd (CG Report 2025).",
+      "previous_roles": "Group CEO, National Holding Group (now Special Advisor to its board); CEO, Abu Dhabi Investment House; investment banking in Bahrain; chairman of a regulated asset manager in Türkiye; earlier at Arthur Andersen Global Corporate Finance, KPMG and PwC (Washington DC) (CG Report 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page lists him as board member and Chairman of ADIB Capital (S2, checked 2026-10-12); CG Report 2025 (S9).",
+      "source_ids": [
+        "S2",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalifa Matar Khalifa Saif Al Mheiri",
+      "name_ar": null,
+      "title": "Board Member (independent, non-executive); Chairman of ADIB Egypt",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2016-04",
+      "appointed_note": "Board member since April 2016; Chairman of ADIB Egypt since March 2018.",
+      "previous_roles": "Executive Director, Fixed Income Department, Abu Dhabi Investment Authority (with ADIA since 1995) (board page).",
+      "education": "BSc, University of Arizona; Master's in Finance, London Business School (board page)",
+      "qualifications": "CFA charterholder (board page)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page (S2, checked 2026-10-12).",
+      "source_ids": [
+        "S2",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Abdelbary",
+      "name_ar": "محمد عبد الباري",
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined ADIB May 2020 as Group CFO. The date he became Group CEO was not confirmed; the CFO role passed to an acting CFO in March 2024 (CG Report 2025). Board member of ADIB Capital; vice chairman of MPM and Burooj Properties. The exec committee page spells his name 'Mohammed'.",
+      "previous_roles": "Over 28 years in financial services incl. Citibank, Barclays and Standard Chartered (CG Report 2025).",
+      "education": null,
+      "qualifications": "CFA charterholder (CG Report 2025)",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "First on the official Executive Committee page (S1, checked 2026-10-12); quoted as GCEO in H1 2026 MD&A (S4) and signed the H1 2026 FS (S3).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Amit Malhotra",
+      "name_ar": null,
+      "title": "Global Head of Retail Banking; Chairman of ADIB Securities",
+      "functions": [
+        "Retail",
+        "Wealth",
+        "Brokerage"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Retail Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Chairman of Abu Dhabi Islamic Securities (ADIB Securities) and of Abu Dhabi Islamic Merchant Acquiring Company; board member of ADIB Capital (CG Report 2025). Quoted on the 2025 Head of Wealth Management hire, so wealth sits under Retail.",
+      "previous_roles": "Nearly three decades in banking; portfolios at Commercial Bank of Dubai, Citibank, Al Hilal Bank and Standard Chartered (CG Report 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Committee page (S1, checked 2026-10-12); CG Report 2025 (S9).",
+      "source_ids": [
+        "S1",
+        "S9",
+        "S35"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Basit Sajid Saiyed",
+      "name_ar": null,
+      "title": "Head of Wealth Management",
+      "functions": [
+        "Wealth",
+        "Investments / asset management"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Wealth Management (Retail Banking)",
+      "scope": "Group (bank-wide wealth function)",
+      "appointed": "2025-03",
+      "appointed_note": "Appointment announced 24 Mar 2025 to lead the bank-wide Wealth Management function.",
+      "previous_roles": "Head of Investments & Wealth Solutions for MENAT at HSBC; earlier capital markets roles at various banks; nearly two decades in the UAE, UK and Hong Kong (press release coverage).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Only source is March 2025 release coverage (S35). Not on the Executive Committee page (S1), which lists no wealth head. No 2026 confirmation found (WebSearch budget exhausted).",
+      "source_ids": [
+        "S35"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hasan Al Shamsi",
+      "name_ar": null,
+      "title": "Acting Head of Private Banking; Vice Chairman of ADIB Securities",
+      "functions": [
+        "Private banking",
+        "Brokerage"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Private Banking",
+      "scope": "UAE",
+      "appointed": null,
+      "appointed_note": "Shown as 'Acting Head of Private Banking' in the ADIB Securities board table, CG Report 2025.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "CG Report 2025 only (S9). Not on the Executive Committee page (S1).",
+      "source_ids": [
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdul Qadir Khanani",
+      "name_ar": null,
+      "title": "Group Treasurer",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Treasury",
+      "scope": "Group",
+      "appointed": "2012",
+      "appointed_note": "Joined ADIB in 2012 as Group Treasurer (CG Report 2025).",
+      "previous_roles": "Over 35 years in regional and international banks incl. Citigroup (CG Report 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Committee page (S1, checked 2026-10-12); CG Report 2025 (S9).",
+      "source_ids": [
+        "S1",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahsan Akhtar",
+      "name_ar": null,
+      "title": "Group Chief Financial Officer",
+      "functions": [
+        "Finance",
+        "Strategy"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2024-03",
+      "appointed_note": "Acting Group CFO from March 2024 per CG Report 2025 (remit incl. Group Strategy and Strategic Sourcing & Procurement). The exec committee page now shows 'Group Chief Financial Officer'. Group Financial Controller from 2008.",
+      "previous_roles": "15 years at international banks and firms incl. Citibank and PwC (CG Report 2025).",
+      "education": "Graduate, London School of Economics (CG Report 2025)",
+      "qualifications": "UK chartered accountant (CG Report 2025)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Committee page (S1, checked 2026-10-12); CG Report 2025 (S9).",
+      "source_ids": [
+        "S1",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Maher Mustafa Al Ruz",
+      "name_ar": null,
+      "title": "Group Chief Customer Officer",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Customer Excellence",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Heads Customer Excellence (CG Report 2025 organisation chart).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Committee page (S1, checked 2026-10-12); CG Report 2025 (S9).",
+      "source_ids": [
+        "S1",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Osaid M. A. Kailani",
+      "name_ar": null,
+      "title": "Global Head of Shari'a",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "Shari'a Control",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Oversees Shari'a compliance and governance of all products (CG Report 2025, spelled 'Kilani'); organised ADIB's Ethical Finance Innovation Challenge and Awards (EFICA).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Committee page (S1, checked 2026-10-12); CG Report 2025 (S9).",
+      "source_ids": [
+        "S1",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulla Al Shehhi",
+      "name_ar": null,
+      "title": "Global Head, International Business Group",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Abu Dhabi Islamic Bank PJSC",
+      "business_unit": "International Business Group",
+      "scope": "Group (businesses outside the UAE)",
+      "appointed": null,
+      "appointed_note": "With ADIB more than 20 years; board member of Saudi Finance Company and Abu Dhabi National Takaful; Vice Chairman of Bosna Bank International (CG Report 2025).",
+      "previous_roles": "Over 30 years in banking incl. finance and strategy (CG Report 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Committee page (S1, checked 2026-10-12); CG Report 2025 (S9).",
+      "source_ids": [
+        "S1",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "ADIB runs a broad Shariah wealth stack across Retail Banking (Global Head Amit Malhotra), with a bank-wide Head of Wealth Management hired from HSBC in March 2025 and a separate Private Banking unit (acting head per CG Report 2025). Priority tiers are Gold (AED 250k) and Diamond (AED 750k); holdings at ADIB Securities count towards eligibility. The shelf includes about 14 third-party Shariah funds plus ADIB-branded funds (ADIB Global Sukuk Fund, managed by Azimut in DIFC since Oct 2021), the Khuttati regular-investment plan with four model portfolios, Wakala-based structured products (from USD 30k), secondary sukuk trading (USD 200k per sukuk), and 'ADIB Alternative Investments' (single or co-investments for sophisticated clients). Digital channels include the ADIB Wealth portal (2021), ADIB Securities trading inside the ADIB Mobile App, and the Smart Sukuk fractional-sukuk platform (from USD 1,000; UAE Treasury Sukuk from AED 4,000). ADIB was the first partner bank in the Ministry of Finance's Retail Sukuk programme (Nov 2025). Asset management sits in ADIB Capital (DIFC, DFSA), which launched new products in H1 2026. The Vision 2035 plan (Sep 2026) commits to 'transform the Wealth management franchise into a market-leading, client-centric growth engine'. Wealth AUM is not disclosed; the bank says it grew about 30% over two years.",
+    "segments": [
+      {
+        "name": "Priority Banking – Gold",
+        "tier": "Affluent",
+        "eligibility": "Any one of: deposits/investments with ADIB of AED 250,000; ADIB Securities holdings of AED 250,000; monthly salary transfer of AED 40,000; or ADIB Home Finance of AED 1,250,000",
+        "source_ids": [
+          "S29"
+        ]
+      },
+      {
+        "name": "Priority Banking – Diamond",
+        "tier": "Priority",
+        "eligibility": "Any one of: deposits/investments with ADIB of AED 750,000; ADIB Securities holdings of AED 750,000; monthly salary transfer of AED 80,000; or ADIB Home Finance of AED 4,000,000",
+        "source_ids": [
+          "S28"
+        ]
+      },
+      {
+        "name": "ADIB Private Banking",
+        "tier": "Private",
+        "eligibility": "Threshold not published; certified private banker assigned",
+        "source_ids": [
+          "S22",
+          "S24"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "ADIB Private Banking: a separate segment in the FS for HNW clients. Each client gets a certified private banker. The offer is a pre-selection of third-party mutual funds and structured products, plus ADIB Securities brokerage. No eligibility threshold is published. CG Report 2025 shows an Acting Head of Private Banking.",
+      "source_ids": [
+        "S22",
+        "S23",
+        "S24",
+        "S7",
+        "S9"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "ADIB Capital Ltd (100%, DIFC, DFSA-regulated) arranges deals, advises on financial products and manages collective investment funds for Shariah vehicles; the board page calls it the 'investment banking and asset management arm'. The H1 2026 MD&A reports 'the launch of new ADIB Capital products' (not named). The ADIB Global Sukuk Fund (DIFC protected cell, launched 4 Oct 2021, min USD 10,000) is managed by Azimut Investment. ADIB also holds 29% of The Residential REIT (IC) Limited. AUM not disclosed.",
+      "source_ids": [
+        "S9",
+        "S2",
+        "S4",
+        "S17",
+        "S7"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Abu Dhabi Islamic Securities Company LLC (ADIB Securities), 95% owned, SCA licence 604041: ADX and DFM equities with Shariah-compliant stock lists, traded online (e-Trading), by phone or at customer investment centres. The bank calls it 'the number one Islamic brokerage in the UAE' (company claim). ADIB Securities access is now in the ADIB Mobile App. Brokerage fees appear as a line in non-funded income.",
+      "source_ids": [
+        "S3",
+        "S9",
+        "S25",
+        "S26",
+        "S31",
+        "S5"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "(1) Smart Sukuk, which the bank calls 'the UAE's first digitally licensed Fractionalized sukuk investment platform': from USD 1,000, monitored in the ADIB Mobile App; it also distributes UAE Ministry of Finance Treasury Sukuk from AED 4,000 (first bank in the Retail Sukuk programme, Nov 2025). (2) ADIB Securities trading and portfolio view in the ADIB Mobile App. (3) ADIB Wealth portal (launched Oct 2021) with portfolio dashboard, own investment plans and direct trading. (4) Online applications ('10 minutes') for funds, structured products, sukuk portfolio, alternatives and Khuttati.",
+      "source_ids": [
+        "S13",
+        "S14",
+        "S36",
+        "S31",
+        "S32",
+        "S34",
+        "S12"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Diamond: 'Trusted Advice by a Trusted Advisor' from a trained and certified team, with a research service. Fund selection is supported by Investment Advisors. Wealth Management specialists risk-profile clients for structured products. Private clients get a certified private banker.",
+      "source_ids": [
+        "S30",
+        "S15",
+        "S18",
+        "S24"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary portfolio management mandate found on private banking, priority or wealth pages. ADIB Capital's described DFSA activities are arranging, advising and managing collective investment funds (CG Report 2025).",
+      "source_ids": [
+        "S23",
+        "S30",
+        "S9"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Khuttati – My Plan: monthly investment (from AED 1,000) into four Portfolio Solutions (Conservative, Balanced, Growth, Enhanced) or chosen mutual funds; apply online or at a branch. No robo-advisor found.",
+      "source_ids": [
+        "S21"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Third-party Shariah mutual funds, with KFS documents for about 14 distinct funds. Fund names indicate Franklin Templeton, 'Emirates' funds (Emirates India Equity, Emirates Global Sukuk), Comgest, 'Al Ahli' funds (Saudi, GCC, North America), Azimut, Old Mutual, Oasis Crescent and Mashreq Al Islami Income, plus ADIB Global Sukuk Fund and Khuttati. Subscription fee up to 3%. Platform provider not named.",
+      "source_ids": [
+        "S15",
+        "S23"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "ADIB Structured Products: Wakala-based notes on themes such as oil, gold or equity baskets, with exposure to Shariah equities, sukuk and commodities. Minimum USD 30,000, agency fee up to 2%, 3-month lock-in, and protection conditional on holding to maturity.",
+      "source_ids": [
+        "S18",
+        "S23"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "ADIB Alternative Investments: 'single or co-investment with a group of other investors' for 'highly sophisticated clients' willing to lock up capital; no managers or asset classes named. The Diamond wealth page lists private equity, alternative investments and real estate advisory.",
+      "source_ids": [
+        "S20",
+        "S30"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Fully Islamic bank; products approved by ADIB's Fatwa and Shari'a Supervisory Board and Global Head of Shari'a. Shariah funds, sukuk (primary retail T-Sukuk, fractional and secondary), Wakala structured notes and Shariah-compliant stock lists at ADIB Securities. Industry awards include 'Best Islamic Wealth Manager' (IFN 2025 poll) and 'Islamic Wealth Manager of the Year' (The Asset Triple A).",
+      "source_ids": [
+        "S30",
+        "S4",
+        "S8",
+        "S26"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "Mutual funds",
+      "Sukuk",
+      "Structured products",
+      "Private markets / alternatives",
+      "Real estate funds",
+      "Commodities"
+    ],
+    "partners": [
+      {
+        "partner": "Azimut Investment",
+        "kind": "Fund manager",
+        "what": "Manages the ADIB Global Sukuk Fund (DIFC protected cell, launched 4 Oct 2021); Azimut Global Sukuk Fund also on the shelf",
+        "date": "2021-10-04",
+        "status": "Live",
+        "source_ids": [
+          "S17",
+          "S15"
+        ]
+      },
+      {
+        "partner": "Third-party fund houses (Franklin Templeton, Comgest, Old Mutual, Oasis Crescent, Mashreq, 'Emirates' and 'Al Ahli' funds)",
+        "kind": "Fund houses",
+        "what": "Shariah mutual funds on ADIB's third-party fund list",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "partner": "UAE Ministry of Finance (Retail Sukuk initiative)",
+        "kind": "Product partner (sovereign retail sukuk distribution)",
+        "what": "ADIB was the first bank to give retail investors access to UAE Treasury Sukuk via its Smart Sukuk platform (from AED 4,000)",
+        "date": "2025-11-03",
+        "status": "Live",
+        "source_ids": [
+          "S36",
+          "S14"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-10-05",
+        "what": "Launched ADIB Wealth multi-channel portal (portfolio dashboard, investment plans, direct trading), which ADIB called a first among UAE Islamic banks",
+        "source_ids": [
+          "S34"
+        ]
+      },
+      {
+        "date": "2025-03-24",
+        "what": "Hired Basit Sajid Saiyed (ex-HSBC MENAT investments and wealth solutions) as Head of Wealth Management, aiming to become 'the premier Islamic bank for wealth management services'",
+        "source_ids": [
+          "S35"
+        ]
+      },
+      {
+        "date": "2025-11-03",
+        "what": "First partner bank in the Ministry of Finance Retail Sukuk initiative; T-Sukuk sold through the Smart Sukuk platform",
+        "source_ids": [
+          "S36"
+        ]
+      },
+      {
+        "date": "2026-07-29",
+        "what": "H1 2026: first UAE bank licensed as an Open Finance provider (AlTareq TPP); 'new ADIB Capital products' launched; 'strong Wealth Management growth'; 79% of new customers acquired digitally",
+        "source_ids": [
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "date": "2026-09-15",
+        "what": "Vision 2035 and five-year strategy: 'Transform the Wealth management franchise into a market-leading, client-centric growth engine', capture 'growth pools across wealth', scale ADIB Ventures and ecosystem partnerships, embed Gen AI; board proposes AED 1.75bn rights issue",
+        "source_ids": [
+          "S6"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Stated strategic priority: Vision 2035 makes transforming wealth management into a 'market-leading, client-centric growth engine' a named pillar, alongside scaling ADIB Ventures and ecosystem partnerships (S6, Sep 2026).",
+        "Wealth growth is cited but not measured: 'Wealth AUMs ... +30% over two years' and 'new ADIB Capital products' (H1 2026), with no AUM disclosed (S4, S5).",
+        "No discretionary mandates or robo service found; model portfolios exist only inside the Khuttati savings plan (S21, S23, S30).",
+        "Private markets offer is generic: 'ADIB Alternative Investments' names no managers or vehicles (S20).",
+        "Fresh capital and wealth leadership: AED 1.75bn rights issue proposed (Sep 2026) and a new Head of Wealth Management (Mar 2025) (S6, S35)."
+      ],
+      "barriers": [
+        "Fully Islamic: every product needs Fatwa and Shari'a Supervisory Board approval (S30, S9).",
+        "Already digital in investing: Smart Sukuk fractional platform, ADIB Securities in-app trading and the ADIB Wealth portal (S13, S31, S32).",
+        "Own product factories: ADIB Capital (DIFC asset manager) and ADIB Securities (SCA broker), plus an Azimut-managed ADIB-branded sukuk fund (S9, S17).",
+        "Leadership gaps to navigate: COO post vacant and private banking head acting (CG Report 2025); no digital/technology head on the published executive committee (S1, S9)."
+      ],
+      "incumbent_vendors": [
+        "Azimut Investment — manager of ADIB Global Sukuk Fund (S17)",
+        "ADIB Wealth portal runs at adibwealth.ae/Investrack; vendor not named on the page (S32)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "ADIB Executive Committee",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/about/adib-executive-committee",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Our Leadership — Board of Directors",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/about/our-leadership",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Condensed consolidated interim financial statements, 30 June 2026 (reviewed)",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/-/media/Project/ADIB/ADIBSite/docs/Investor-Relations/Quarterly-results/Financial-statements/2026/ADIB-FS-Q2-EN.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Management Discussion & Analysis – H1 2026 Financial Results",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/-/media/Project/ADIB/ADIBSite/docs/Investor-Relations/Quarterly-results/MDA/2026/MDA-H1-EN.pdf",
+      "doc_type": "Results MD&A",
+      "tier": 2,
+      "published": "2026-07-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "1H 2026 Earnings Presentation",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/-/media/Project/ADIB/ADIBSite/docs/Investor-Relations/Quarterly-results/Earning-presentation/2026/EP-Q2.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "1H 2026 Investor Presentation (incl. Vision 2035 and proposed rights issue)",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/-/media/project/adib/adibsite/docs/investor-relations/investor-presentation/2026/ip-q2.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-09-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Consolidated financial statements for the year ended 31 December 2025 (audited, KPMG), incl. Report of the Board of Directors",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/-/media/project/adib/adibsite/docs/investor-relations/quarterly-results/financial-statements/2025/adib-fs-q4-en.pdf",
+      "doc_type": "Audited annual financial statements",
+      "tier": 1,
+      "published": "2026-01-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Management Discussion & Analysis – 2025 Full Year Financial Results",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/-/media/project/adib/adibsite/docs/investor-relations/quarterly-results/mda/2025/mda-q4-en.pdf",
+      "doc_type": "Results MD&A",
+      "tier": 2,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Corporate Governance Annual Report 2025",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/-/media/project/adib/adibsite/docs/investor-relations/corporate-governance/cg-annual-report-2025-en.pdf",
+      "doc_type": "Corporate governance report (regulatory disclosure)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Shareholder structure",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/investor-relations/shareholders/shareholder-structure",
+      "doc_type": "Official investor relations page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Wealth Management",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Investment Solutions",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Smart Sukuk Investment",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions/smart-sukuk-investment",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "UAE Treasury Sukuk (via ADIB Smart Sukuk Platform)",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions/uae-treasury-sukuk",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Third Party Mutual Funds",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions/third-party-mutual-funds",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "ADIB Global Sukuk Fund",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions/adib-global-sukuk-fund",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "ADIB Global Sukuk Fund 1 – Key Facts Statement",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/-/media/project/adib/adibsite/docs/kfs/wm-adib-global-sukuk-fund.pdf",
+      "doc_type": "Official product document (KFS)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "ADIB Structured Products",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions/adib-structured-products",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "ADIB Sukuk Portfolio",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions/adib-sukuk-portfolio",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "ADIB Alternative Investments",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions/adib-alternative-investments",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Khuttati – My Plan",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions/khuttati-my-plan",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "ADIB Private Banking",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/private/welcome/private-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Private Banking — Investment Offering",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/private/your-investment/investment-offering",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Private Banking — Relationship Management",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/private/welcome/relationship-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Private Banking — ADIB Securities",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/private/your-investment/adib-securities",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "ADIB Securities website (licence footer, e-Trading, Shari'a-compliant stocks)",
+      "publisher": "Abu Dhabi Islamic Securities Company (ADIB Securities)",
+      "url": "https://www.adibsecurities.ae/en/Pages/default.aspx",
+      "doc_type": "Official subsidiary website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Priority Banking — Diamond",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/priority-banking/diamond",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "Priority Banking — Gold",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/priority-banking/gold",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "Priority Banking — Diamond — Wealth Management",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/priority-banking/diamond/wealth-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "Mobile Banking (ADIB Mobile App)",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en/personal/services/mobile-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S32",
+      "title": "ADIB wealth — Login (adibwealth.ae/Investrack)",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://adibwealth.ae/investrack",
+      "doc_type": "Official platform login page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S33",
+      "title": "ADIB homepage (navigation and footer links)",
+      "publisher": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae/en",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S34",
+      "title": "UAE bank unveils wealth management portal",
+      "publisher": "International Adviser",
+      "url": "https://international-adviser.com/uae-bank-unveils-wealth-management-portal",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-10-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S35",
+      "title": "ADIB Strengthens Wealth Management Capabilities With Key Appointment",
+      "publisher": "Arabian Marketer (ADIB press release)",
+      "url": "https://arabianmarketer.ae/?p=31485",
+      "doc_type": "News (republished press release)",
+      "tier": 5,
+      "published": "2025-03-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S36",
+      "title": "UAE launches first retail sukuk with Abu Dhabi Islamic Bank",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/uae-launches-first-retail-sukuk-with-abu-dhabi-islamic-bank-1.500332219",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-11-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Group CFO title",
+      "detail": "The Executive Committee page lists Ahsan Akhtar as 'Group Chief Financial Officer'; CG Report 2025 calls him 'Acting Group CFO' since March 2024.",
+      "resolution": "Used the current official page title. Confirmation of permanent appointment not found.",
+      "source_ids": [
+        "S1",
+        "S9"
+      ]
+    },
+    {
+      "field": "Wholesale banking head",
+      "detail": "The Executive Committee page lists Hakim Karoui as Group Head of Wholesale Banking; CG Report 2025 shows Mohammed Al Fahim as Acting Global Head of Wholesale Banking.",
+      "resolution": "Treated as a 2026 change. Not profiled here (not wealth-relevant); appointment date not verified.",
+      "source_ids": [
+        "S1",
+        "S9"
+      ]
+    },
+    {
+      "field": "ADIB Global Sukuk Fund manager",
+      "detail": "The product page says only that portfolios are 'managed by a highly experienced team'; the KFS names Azimut Investment as Fund Manager (DIFC).",
+      "resolution": "Used the KFS.",
+      "source_ids": [
+        "S16",
+        "S17"
+      ]
+    },
+    {
+      "field": "H1 2026 net profit",
+      "detail": "The MD&A headline is 'AED 3.8 billion' net profit after tax; profit attributable to equity holders is AED 3,527,465 thousand.",
+      "resolution": "The MD&A figure includes non-controlling interest (AED 228,107 thousand). Recorded the attributable figure per protocol.",
+      "source_ids": [
+        "S4",
+        "S3"
+      ]
+    },
+    {
+      "field": "ADIB Invest 1 (BVI brokerage)",
+      "detail": "Listed as a 100% subsidiary in FY2025 FS and CG Report 2025, but absent from the 30 Jun 2026 subsidiary list.",
+      "resolution": "Unresolved; possibly closed or merged in H1 2026. Not listed above.",
+      "source_ids": [
+        "S7",
+        "S3"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead 'SS&C wealth platform (Investrack or similar)': NOT verified. The ADIB Wealth portal login sits at adibwealth.ae/Investrack, but the page names no vendor and the Oct 2021 launch coverage names none. No source linking SS&C (or any vendor) to 'Investrack' at ADIB was found; confirm through vendor channels.",
+    "Lead 'Smart Banking app investing': no 'Smart Banking' brand found. The app is 'ADIB Mobile Banking'. Investing features found: Smart Sukuk (fractional and UAE T-Sukuk) and ADIB Securities access. 'Smart' is used for Smart Sukuk and Smart Teller.",
+    "Lead 'Shariah robo/model portfolios': only Khuttati Portfolio Solutions (four risk profiles, regular investment) found. No robo-advisor.",
+    "Smart Sukuk: launch date, licensing regulator and technology provider not stated on the product page. The related SPV Fractionalized Sukuk Holding Limited is shown as UAE/ADGM. Check KFS/T&Cs and ADGM/SCA registers.",
+    "ADIB Capital (DIFC): CEO/SEO and AUM not identified; DFSA register not opened. 'New ADIB Capital products' (H1 2026) not named.",
+    "No digital/technology/innovation head appears on the Executive Committee page, and the COO post was vacant per CG Report 2025. Identify the CDO/CTO and the ADIB Ventures lead.",
+    "Private Banking: eligibility threshold not published. Head shown as acting (Hasan Al Shamsi, CG Report 2025). A 2022 head of private banking appointment (Dr Amer Alameri) was seen in search results only and is not confirmed current.",
+    "Basit Sajid Saiyed (Head of Wealth Management, Mar 2025) not confirmed in 2026 sources. Mohamed Abdelbary's Group CEO appointment date not confirmed.",
+    "Integrated Annual Report 2025 PDF exceeded the fetch size limit (>10 MB) and was not read; it may hold wealth AUM, headcount and vendor detail.",
+    "LinkedIn profiles not checked: WebSearch budget ran out before ADIB people checks.",
+    "Ultimate ownership of Emirates International Investment Company LLC (39.40%) not verified, so the government link is left unconfirmed. Status of the AED 1.75bn rights issue (EGM approval and subscription) not checked.",
+    "Q3 2026 results not yet on the quarterly results page (checked 2026-10-12)."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B02",
+  "checked": "2026-10-12"
+}

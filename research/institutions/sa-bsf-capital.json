@@ -1,0 +1,855 @@
+{
+  "id": "sa-bsf-capital",
+  "name": "BSF Capital",
+  "short_name": "BSF Capital",
+  "legal_name": "Saudi Fransi Capital (a Saudi closed joint stock company), trading as 'BSF Capital'",
+  "name_ar": "السعودي الفرنسي كابيتال",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://bsfcapital.sa",
+  "linkedin_company": null,
+  "category": "Bank-owned investment subsidiary",
+  "type": "Asset & wealth manager",
+  "model": "Not applicable",
+  "founded": "BSF AR 2025 milestones give 2008 ('Launch of BSF Capital (investment arm)'). BSF Capital's press boilerplate (Feb 2025) says 'established in 1985' (seen in search results only). CMA licence 11153-37 per Saudi Exchange fund filings (seen in search results only).",
+  "regulators": [
+    "CMA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": "sa-bsf",
+  "ownership_summary": "Wholly owned by Banque Saudi Fransi (100%). Capital SAR 1,000 million per BSF's 2025 Board report; the AR's BSF Capital section says it was incorporated with paid-up capital of SAR 500 million.",
+  "shareholders": [
+    {
+      "holder": "Banque Saudi Fransi",
+      "pct": 100.0,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "government_link": "Indirect only through the parent; BSF has no government entity among its 5%+ shareholders (see sa-bsf).",
+  "group_structure": "100% subsidiary of BSF (sa-bsf), fully consolidated. Its results drive BSF's 'Investment banking and brokerage' segment. FY2025 BSF Capital net income before zakat SAR 399.0m (6.7% of group) and total income SAR 710.3m. BSF provided an overdraft facility of SAR 1,330m at 31 Dec 2025. Double counting: AUM and segment figures appear in both files; never add them to sa-bsf. Sister wealth entity: Sur Multi Family Office Limited (UK) is owned directly by the bank, not by BSF Capital.",
+  "subsidiaries": [],
+  "footprint": "Saudi Arabia. Headquartered in Riyadh with 'multiple locations across Saudi Arabia'; FY2025 income reported for Western, Eastern and Central regions plus head office. International brokerage access for clients.",
+  "customer_segments": "Local and international financial institutions, corporates, government entities and individual investors (AR 2025), including BSF private banking and affluent clients.",
+  "business_lines": "Investment banking (ECM, DCM, M&A, underwriting; 2025 deals include the Flynas, Sport Clubs and Almajdiah IPOs and the ACWA Power rights issue), asset management (public and private funds, real estate funds, discretionary portfolios), wealth management and investment advisory, debt and equity research, institutional sales and trading, local and international brokerage, custody.",
+  "metrics": [
+    {
+      "metric": "aum",
+      "value": 34.8,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "2Q 2026",
+      "period_type": "point_in_time",
+      "scope": "BSF Capital, as reported by parent BSF",
+      "definition": "'Assets Under Management' (Investment Banking and Brokerage segment slide)",
+      "status": "Verified",
+      "locator": "S2 slide 57",
+      "note": "Quarterly series (SAR bn): 2Q25 32.0; 3Q25 33.5; 4Q25 31.0; 1Q26 36.4; 2Q26 34.8. Also recorded in sa-bsf; do not add.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 36.4,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-03-31",
+      "period_label": "1Q 2026",
+      "period_type": "point_in_time",
+      "scope": "BSF Capital, as reported by parent BSF",
+      "definition": "'Assets Under Management' (parent presentation)",
+      "status": "Verified",
+      "locator": "S2 slide 57",
+      "note": "Extra record.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 31.0,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "4Q 2025",
+      "period_type": "point_in_time",
+      "scope": "BSF Capital, as reported by parent BSF",
+      "definition": "'Assets Under Management' (parent presentation)",
+      "status": "Verified",
+      "locator": "S2 slide 57; S4 note 41 (PDF p.137)",
+      "note": "Parent FS note 41: funds managed through the subsidiary had net asset value of SAR 30,971m (2024: 30,494m), incl. Islamic mutual funds SAR 3,303m. Forbes ME (Mar 2025) gave USD 8.1bn at Dec 2024 (S9).",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 17.8,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "2Q 2026 (quarter)",
+      "period_type": "duration",
+      "scope": "BSF Capital, as reported by parent BSF",
+      "definition": "'Brokerage Trading Value' for the quarter",
+      "status": "Verified",
+      "locator": "S2 slide 57",
+      "note": "1Q26: 13.9; 4Q25: 14.3; 3Q25: 21.1; 2Q25: 18.1 (SAR bn).",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 13.9,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-03-31",
+      "period_label": "1Q 2026 (quarter)",
+      "period_type": "duration",
+      "scope": "BSF Capital, as reported by parent BSF",
+      "definition": "'Brokerage Trading Value' for the quarter",
+      "status": "Verified",
+      "locator": "S2 slide 57",
+      "note": "Extra record.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 710275,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "BSF Capital standalone, as reported in parent's Board of Directors' report",
+      "definition": "'Total income' of BSF Capital in the geographic revenue analysis (Western 30,550; Eastern 73,296; Central 49,663; Head Office 556,766). Total expenses before provisions 311,235; provisions 31.",
+      "status": "Verified",
+      "locator": "S1 PDF p.203",
+      "note": "Not taken from BSF Capital's own financial statements (not accessible).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_income_before_zakat",
+      "value": 399009,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "BSF Capital standalone, as reported in parent's Board of Directors' report",
+      "definition": "Net income before zakat of Saudi Fransi Capital (BSF Capital); 6.7% of group net income before zakat",
+      "status": "Verified",
+      "locator": "S1 PDF p.201",
+      "note": "Net profit after zakat not found.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "parent_segment_operating_income",
+      "value": 298701,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "BSF 'Investment banking and brokerage' segment (proxy; not BSF Capital standalone)",
+      "definition": "Segment total operating income: investment management, asset management, custody, retail investment products, corporate finance, local and international share brokerage, insurance. Segment net income before zakat 132,366; segment total assets 3,507,189 (SAR '000).",
+      "status": "Verified",
+      "locator": "S3 note 19 (PDF p.35); S2 slide 57",
+      "note": "H1 2025: operating income 330,908; net income before zakat 182,269 (-27% YoY in H1 2026).",
+      "source_ids": [
+        "S3",
+        "S2"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 229,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "BSF Capital",
+      "definition": "Full-time employees (64 female, 165 male)",
+      "status": "Verified",
+      "locator": "S1 PDF p.79",
+      "note": "2024: 228.",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "total_assets",
+      "status": "Not found after research",
+      "where_checked": "BSF Capital website (S15, blocked); parent AR 2025 (S1); parent FS (S3, S4) give only segment assets (SAR 3,507m at 30 Jun 2026, a proxy)"
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not found after research",
+      "where_checked": "Parent AR 2025 gives only net income before zakat (S1 p.201); BSF Capital FS not accessible (S15); Saudi Exchange 403"
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Parent AR 2025 BSF Capital section (S1 pp.73-79); parent presentations (S2, S17); Q1/Q2 2026 calls (S10, S11)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "Same as customers; no app-store listing found"
+    },
+    {
+      "metric": "aua",
+      "status": "Not found after research",
+      "where_checked": "Parent AR 2025 (S1); parent FS notes (S4)"
+    },
+    {
+      "metric": "discretionary_portfolio_aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Parent AR 2025 (S1); parent presentation (S2)"
+    }
+  ],
+  "people": [
+    {
+      "name": "Khalid (Khaled) bin Waleed Al Braikan",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO",
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Saudi Fransi Capital (BSF Capital)",
+      "business_unit": "Executive management",
+      "scope": "Company",
+      "appointed": "2026-04",
+      "appointed_note": "IFN Investor headline 'BSF Capital appoints new CEO' dated 3 Apr 2026 (opened; body paywalled). Name seen in search snippets of that article.",
+      "previous_roles": "Per search snippets only: Head of Asset Management at NCB Capital (about 13 years at NCB Capital); earlier roles at HSBC Saudi Arabia and Samba Capital. Not confirmed from an official source.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "IFN Investor 3 Apr 2026 (S6). LinkedIn-hosted pages describing him as CEO appeared in search, but their URLs belong to other people, so no profile was verified. Official website blocked (S15).",
+      "source_ids": [
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Salam Al-Khunaizi",
+      "name_ar": null,
+      "title": "Chief Executive Officer and Board Member (until 2026, per later report)",
+      "functions": [
+        "CEO",
+        "Board"
+      ],
+      "entity": "Saudi Fransi Capital (BSF Capital)",
+      "business_unit": "Executive management",
+      "scope": "Company",
+      "appointed": "2021",
+      "appointed_note": "Forbes ME (Mar 2025): in current role since 2021.",
+      "previous_roles": "CEO and board member of BSF Capital (2025 press release). Member of the Saudi Shura Council and the CMA's Capital Market Institutions Committee (Forbes ME 2025). Earlier CEO of Samba Capital (Forbes ME Arabic profile, search result only).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Conflicting sources",
+      "role_evidence": "Named CEO in the BlackRock release (4 Feb 2025, S5) and Forbes ME list (15 Mar 2025, S9). IFN Investor reported a new CEO on 3 Apr 2026 (S6). No official confirmation of departure (website blocked).",
+      "source_ids": [
+        "S5",
+        "S9",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bader Hamad AlSalloom",
+      "name_ar": null,
+      "title": "Vice Chairman of the Board, BSF Capital (also CEO of parent BSF)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Saudi Fransi Capital (BSF Capital)",
+      "business_unit": "Board of Directors",
+      "scope": "Company (board); Group CEO of parent",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "See sa-bsf. CEO of BSF since Sep 2022.",
+      "education": "BSc Finance, King Fahd University of Petroleum and Minerals",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official BSF CEO bio checked 2026-10-12 says he 'serves as the Vice Chairman of BSF Capital' (S12)",
+      "source_ids": [
+        "S12"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nawwaf AlOtaibi",
+      "name_ar": null,
+      "title": "Head of Wealth Management (former)",
+      "functions": [
+        "Wealth"
+      ],
+      "entity": "Saudi Fransi Capital (BSF Capital)",
+      "business_unit": "Wealth Management",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "IFN Investor headline 'BSF Capital to get new wealth management head', 1 May 2026 (S7, opened). The name and his departure 'after 10 years' were seen in search snippets only. Successor not found.",
+      "source_ids": [
+        "S7"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Viktoria Beromelidze",
+      "name_ar": null,
+      "title": "Head of Debt Capital Markets",
+      "functions": [
+        "Corporate / wholesale",
+        "Other"
+      ],
+      "entity": "Saudi Fransi Capital (BSF Capital)",
+      "business_unit": "Investment Banking (DCM)",
+      "scope": "Company",
+      "appointed": "2025-11",
+      "appointed_note": "Enterprise AM (19 Oct 2025): appointment effective the following month.",
+      "previous_roles": "Head of EMEA debt capital markets, Bank of China; earlier UBS (New York and London), CEE origination in CEEMEA capital markets. 20+ years in financial services.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Enterprise AM, 19 Oct 2025 (S8). No departure news found; no official page available (S15).",
+      "source_ids": [
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Saudi Fransi Capital, branded BSF Capital since the June 2024 group rebrand, is BSF's 100% CMA-licensed investment arm. It covers investment banking, asset management, research, institutional sales and trading, local and international brokerage, and custody. AUM was SAR 34.8bn at 30 Jun 2026 (SAR 31.0bn at end-2025), and the firm employed 229 people at end-2025. In 2025 it repositioned wealth management from product-driven to advisory-led, aiming to be 'the wealth advisor of choice in the Kingdom'. It also expanded its BlackRock partnership (Feb 2025) to give clients globally diversified, Shariah-compliant multi-asset portfolios, and began building a digital wealth platform whose first output, the 'BSF Invest App', was scheduled for early 2026. Under the parent's Strategy 2030 the arm's priorities are 'Wealth management acceleration' and a 'brokerage system upgrade'. The strategy was refreshed around institutional and private banking clients in mid-2026, after a CEO change (Apr 2026) and a wealth-head change (May 2026). Brokerage and asset management fees fell 22% YoY in Q1 2026 and 17% in H1 2026.",
+    "segments": [],
+    "private_banking": {
+      "present": "No",
+      "detail": "Private banking sits in the parent's Personal Banking Group (see sa-bsf). BSF Capital provides investment advisory, asset management and brokerage to BSF Private Banking clients, and its 2026 strategy refresh focuses on institutional and private banking clients.",
+      "source_ids": [
+        "S14",
+        "S10"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "AUM SAR 34.8bn (30 Jun 2026). Mutual funds (conventional and Shariah-compliant, KSA and international markets), open-ended and publicly traded funds, private placements and discretionary portfolios (parent PB page). Islamic mutual funds SAR 3,303m at end-2025. 2025 launches: eight real estate funds (mixed use, hospitality, industrial, residential; expected development value above SAR 5bn), a fund for the Kingdom's first all-inclusive Rixos resort, a film investment fund and an industrial-city fund in Riyadh. Award: Best Performance Investment Fund (Sukuk and International Bonds category), Sanadeq Media Group.",
+      "source_ids": [
+        "S2",
+        "S14",
+        "S4",
+        "S1"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Local and international securities brokerage, custody, margin lending, institutional sales and trading, and research. Brokerage trading value SAR 17.8bn in 2Q 2026 and SAR 13.9bn in 1Q 2026. Q1 2026 call: 'upgrading our brokerage platform'. Strategy 2030: 'Upgrade brokerage ecosystem'.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S11",
+        "S17",
+        "S14"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "An existing brokerage platform is being upgraded (Q1 2026 call). The current app name was not confirmed from an official page; a mobile trading app called 'Fransi Tadawul' appeared in search results only. AR 2025: BSF Capital began implementing a digital wealth platform whose first output is the 'BSF Invest App', planned for early 2026. It was to be mobile-first, give access to globally diversified portfolios, and later add BSF Capital mutual and private funds. No launch announcement or app-store listing was found by 12 Oct 2026.",
+      "source_ids": [
+        "S11",
+        "S1"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Holds a CMA licence for advising (AR 2025). Investment advisory is offered to BSF Private Banking clients. In 2025 it built a specialist internal investment-solutions team and moved to an advisory-led, data-driven client engagement model. Saudi Exchange fund filings describe the CMA licence (11153-37) as covering dealing, arranging, managing, advising and custody (search result only).",
+      "source_ids": [
+        "S1",
+        "S14",
+        "S16"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary portfolio management is listed among BSF Capital asset management services (parent PB page). Discretionary AUM is not disclosed.",
+      "source_ids": [
+        "S14"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Unclear",
+      "detail": "Through BlackRock, clients 'now have access to investment portfolios which are globally diversified and sharia compliant' (AR 2025), delivered through advisory. The planned BSF Invest App would offer diversified portfolios digitally. No live robo service was confirmed.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Own funds plus third-party funds: parent PB page cites relationships with BlackRock, Nomura and Ashmore for funds and private placements. No fund-platform technology vendor named.",
+      "source_ids": [
+        "S14",
+        "S5"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured products found at BSF Capital level in sources read (the parent bank offers structured deposits; see sa-bsf). Own website not accessible.",
+      "source_ids": [
+        "S1",
+        "S14",
+        "S15"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Private placements and real estate / hospitality / film / industrial development funds launched in 2025 (see asset_management).",
+      "source_ids": [
+        "S1",
+        "S14"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Shariah-compliant mutual funds (Islamic funds SAR 3,303m at end-2025) and BlackRock portfolios described as Shariah compliant.",
+      "source_ids": [
+        "S4",
+        "S1"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "US/international equities",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "BlackRock",
+        "kind": "Global asset manager / product partner",
+        "what": "Partnership expanded Feb 2025 to offer multi-asset investment strategies with global exposure across client segments; AR 2025 says clients now access globally diversified, Shariah-compliant portfolios",
+        "date": "2025-02-04",
+        "status": "Live",
+        "source_ids": [
+          "S5",
+          "S1"
+        ]
+      },
+      {
+        "partner": "Nomura",
+        "kind": "Fund provider",
+        "what": "Named on the parent's PB page as a relationship bringing funds and private placements to Saudi investors",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "partner": "Ashmore",
+        "kind": "Fund provider",
+        "what": "Named on the parent's PB page as a fund relationship",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "partner": "Banque Saudi Fransi (parent)",
+        "kind": "Distribution",
+        "what": "BSF Private Banking and affluent clients receive BSF Capital advisory and products; BSF provides an overdraft facility (SAR 1,330m at 31 Dec 2025)",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S14",
+          "S1"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2024-06-04",
+        "what": "Group rebrand: identity extended to BSF Capital (formerly marketed as Saudi Fransi Capital / SFC)",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "date": "2025-02-04",
+        "what": "Expanded BlackRock partnership for global multi-asset strategies",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Wealth management moved from product-centric to advisory-led model; specialist investment-solutions team; data-driven client engagement",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Digital wealth platform implementation started; 'BSF Invest App' scheduled for early 2026",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Eight real estate funds plus Rixos resort, film and industrial-city funds launched",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2025-10-19",
+        "what": "Hired Viktoria Beromelidze (ex-Bank of China) as Head of DCM",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2026-02-16",
+        "what": "Parent Strategy 2030 sets BSF Capital priorities: wealth management acceleration, brokerage system upgrade, scaling the investment banking franchise and PI portfolio",
+        "source_ids": [
+          "S2",
+          "S17"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "what": "New CEO appointed (reported by IFN Investor)",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "what": "Head of Wealth Management change reported (IFN Investor)",
+        "source_ids": [
+          "S7"
+        ]
+      },
+      {
+        "date": "2026-07-27",
+        "what": "Strategy refreshed around institutional and private banking; near-term focus on brokerage and asset management fees",
+        "source_ids": [
+          "S10"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Building a digital wealth platform and 'BSF Invest App' with globally diversified portfolios, to be extended to its own mutual and private funds (AR 2025, S1 p.77)",
+        "Parent Strategy 2030 priorities for BSF Capital: 'Wealth management acceleration, brokerage system upgrade' (S17 slide 5; S2 slide 18)",
+        "Fee pressure: brokerage and asset management fees -22% YoY in Q1 2026 and -17% in H1 2026; segment net income before zakat -27% (S11, S10, S2 slide 57)",
+        "New CEO (Apr 2026) and a change of Head of Wealth Management (May 2026) (S6, S7)",
+        "Strategy refreshed around private banking clients of the parent (S10)"
+      ],
+      "barriers": [
+        "BlackRock is the incumbent global partner for multi-asset, Shariah-compliant portfolios (S5, S1)",
+        "BSF Invest App implementation already started in 2025; its technology vendor is not named (S1 p.77)",
+        "Part of the client base needs Shariah-compliant products (S4 note 41)"
+      ],
+      "incumbent_vendors": [
+        "BlackRock (S5, S1)",
+        "Nomura and Ashmore (funds; S14)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Integrated Annual Report 2025 (BSF Capital section pp.73-79; Board of Directors' report pp.198-206)",
+      "publisher": "BSF (Banque Saudi Fransi)",
+      "url": "https://bsf.sa/ContentFiles/integrated_annual_report/2025/services/pdf/BSFIR25-English.pdf",
+      "doc_type": "Annual report of parent",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "BSF Investor Presentation 1H 2026",
+      "publisher": "BSF",
+      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF%20InvestorPresentation%20Q2%202026.pdf",
+      "doc_type": "Parent investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Condensed Interim Consolidated Financial Statements, six months ended June 30, 2026",
+      "publisher": "Banque Saudi Fransi",
+      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF%20Financial%20Q2%202026%20-%20English.pdf",
+      "doc_type": "Parent reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Consolidated Financial Statements, year ended December 31, 2025",
+      "publisher": "Banque Saudi Fransi",
+      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/Financial_Statments_Q4_2025.pdf",
+      "doc_type": "Parent audited financial statements",
+      "tier": 1,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "BSF Capital partners with BlackRock to deliver innovative investment solutions in Saudi Arabia",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.com/node/2588926/corporate-news",
+      "doc_type": "News (labelled sponsored content)",
+      "tier": 5,
+      "published": "2025-02-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "BSF Capital appoints new CEO",
+      "publisher": "IFN Investor",
+      "url": "https://ifninvestor.com/bsf-capital-appoints-new-ceo",
+      "doc_type": "News (paywalled)",
+      "tier": 5,
+      "published": "2026-04-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "BSF Capital to get new wealth management head",
+      "publisher": "IFN Investor",
+      "url": "https://ifninvestor.com/bsf-capital-to-get-new-wealth-management-head/",
+      "doc_type": "News (paywalled)",
+      "tier": 5,
+      "published": "2026-05-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "BSF Capital names Viktoria Beromelidze as head of debt capital markets",
+      "publisher": "Enterprise AM",
+      "url": "https://enterpriseam.com/ksa/2025/10/19/bsf-capital-names-viktoria-beromelidze-as-head-of-debt-capital-markets/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-10-19",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Top 40 Asset Managers 2025: Salam AlKhunaizi",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-40-asset-managers-2025/salam-alkhunaizi/",
+      "doc_type": "News / ranking",
+      "tier": 5,
+      "published": "2025-03-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "BSF Earnings Call Q2 2026 transcript (July 27, 2026)",
+      "publisher": "BSF",
+      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/TRANSCRIPT%20BSF%20Q2%202026%20Earnings%20Call%20(1).pdf",
+      "doc_type": "Parent earnings call transcript",
+      "tier": 2,
+      "published": "2026-07-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "BSF Q1 2026 Earnings Call transcript",
+      "publisher": "BSF",
+      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/TRANSCRIPT%20BSF%20Q1%202026%20Earnings%20Call.pdf",
+      "doc_type": "Parent earnings call transcript",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Bader Alsalloom, Chief Executive Officer (bio page)",
+      "publisher": "BSF",
+      "url": "https://bsf.sa/english/the-bank/managament-team/bader-alsalloom",
+      "doc_type": "Official biography",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Banque Saudi Fransi unveils it's new identity to BSF",
+      "publisher": "BSF",
+      "url": "https://bsf.sa/english/news/rebrand-press-release",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-06-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Private Banking (section on services provided through BSF Capital)",
+      "publisher": "BSF",
+      "url": "https://bsf.sa/english/private-banking",
+      "doc_type": "Official product page of parent",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "BSF Capital website",
+      "publisher": "BSF Capital",
+      "url": "https://bsfcapital.sa",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Saudi Exchange fund filing (Saudi Fransi Capital as fund manager; licence wording)",
+      "publisher": "Saudi Exchange",
+      "url": "https://cdn.saudiexchange.sa/Resources/fsPdf/901_0_2023-08-02_13-35-24_En.pdf",
+      "doc_type": "Exchange filing",
+      "tier": 1,
+      "published": "2023-08-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "BSF Earnings Presentation 2Q 2026 (27/07/2026)",
+      "publisher": "BSF",
+      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF%20EarningsPresentation%20Q2%202026.pdf",
+      "doc_type": "Parent investor presentation",
+      "tier": 2,
+      "published": "2026-07-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Top 50 Asset Managers 2026",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-50-asset-managers-2026/",
+      "doc_type": "News / ranking",
+      "tier": 5,
+      "published": "2026-07-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Licensed Financial Market Institutions (Authorised Persons)",
+      "publisher": "Capital Market Authority",
+      "url": "https://cma.gov.sa/en/Market/AuthorisedPersons/Pages/default.aspx",
+      "doc_type": "Regulator register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Chief Executive Officer",
+      "detail": "Arab News (4 Feb 2025) and Forbes ME (15 Mar 2025) name Salam Al-Khunaizi as CEO. IFN Investor (3 Apr 2026) reports a new CEO; search snippets name Khalid bin Waleed Al Braikan.",
+      "resolution": "Al Braikan recorded as CEO with 'Requires verification'; Al-Khunaizi as 'Conflicting sources'. Official site blocked.",
+      "source_ids": [
+        "S5",
+        "S9",
+        "S6"
+      ]
+    },
+    {
+      "field": "Share capital",
+      "detail": "AR 2025 BSF Capital section: 'Incorporated with a paid-up capital of SAR 500 million'. Board report subsidiaries table: capital SAR 1,000 million.",
+      "resolution": "Recorded SAR 1,000m as current capital; the 500m figure may be the capital at incorporation. Unresolved.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Founding year",
+      "detail": "AR 2025 milestones: BSF Capital launched 2008. BSF Capital press boilerplate (search result only): established 1985.",
+      "resolution": "Both recorded in 'founded'. The 1985 date may refer to a predecessor entity. Unresolved.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    }
+  ],
+  "open_items": [
+    "bsfcapital.sa (and sfc.sa, which redirects) returned 'Permission Denied' or an unsupported-browser page. BSF Capital's own financial statements, Pillar 3, board and management pages were not read.",
+    "CEO name (Al Braikan) comes from IFN search snippets. Confirm it on the official site or a CMA/Tadawul notice.",
+    "Successor to the Head of Wealth Management not found. Nawwaf AlOtaibi's departure was seen in search snippets only.",
+    "Board chairman and members not found. AR 2025 gives only counts (6 members, 2 independent). BSF CEO Bader AlSalloom is Vice Chairman.",
+    "Heads of asset management, brokerage and CIO not found.",
+    "BSF Invest App: launch not confirmed and no app-store listing found. Current trading app name ('Fransi Tadawul') seen in search results only.",
+    "CMA licence 11153-37 seen in search results only. CMA register entry not checked (paged list).",
+    "Standalone total assets, net profit after zakat, client and app-user counts not found.",
+    "Lead check: AUM, brokerage, funds and the BlackRock partnership are confirmed. No live robo/model-portfolio product found. No wealth-tech vendor named for the digital trading app or the BSF Invest platform.",
+    "BSF Capital ranked #15 in Forbes ME Top 40 Asset Managers 2025 but does not appear in the Top 50 for 2026 (published 12 Jul 2026).",
+    "Saudi Exchange fund filings (e.g. Saudi Riyal Money Market Fund FY2025 FS) returned 403 and were not read."
+  ],
+  "research_status": "Partial",
+  "researched_by": "R4",
+  "checked": "2026-10-12"
+}

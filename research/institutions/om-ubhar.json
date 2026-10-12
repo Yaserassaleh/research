@@ -1,0 +1,902 @@
+{
+  "id": "om-ubhar",
+  "name": "Ubhar Capital",
+  "short_name": "U Capital",
+  "legal_name": "Ubhar Capital SAOC",
+  "name_ar": "شركة اوبار للاستثمارات المالية ش م ع م",
+  "country": "OM",
+  "hq_city": "Muscat",
+  "website": "https://u-capital.net",
+  "linkedin_company": null,
+  "category": "Non-bank",
+  "type": "Investment bank / alternatives manager",
+  "model": "Not applicable",
+  "founded": "2017 (CR 1279406 established 14 Feb 2017; FSA registration 21 Feb 2017; began operations Jan 2017 after acquiring Oman Arab Bank's Investment Management Group; acquired Gulf Baader Capital Markets SAOC in Jun 2020)",
+  "regulators": [
+    "FSA Oman"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Closed joint-stock company (SAOC) controlled by the OMINVEST group. The company website lists Jabreen International Development Company SAOC (Jabreen Capital, an OMINVEST subsidiary) 81.27%, Arab Bank (Switzerland) Ltd 18.72% and OMINVEST 0.01%. The FSA register lists Jabreen Capital 81.26% and OMINVEST 18.72%. No Bank Dhofar shareholding found (checked 2026-10-12).",
+  "shareholders": [
+    {
+      "holder": "Jabreen International Development Company SAOC (Jabreen Capital; OMINVEST subsidiary)",
+      "pct": 81.27,
+      "as_of": "2026-10-12",
+      "source_ids": [
+        "S2",
+        "S17"
+      ]
+    },
+    {
+      "holder": "Arab Bank (Switzerland) Ltd (per company website; FSA register instead shows OMINVEST with 18.72%)",
+      "pct": 18.72,
+      "as_of": "2026-10-12",
+      "source_ids": [
+        "S2",
+        "S17"
+      ]
+    },
+    {
+      "holder": "Oman International Development and Investment Company SAOG (OMINVEST) (direct, per website)",
+      "pct": 0.01,
+      "as_of": "2026-10-12",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "government_link": "None found. Controlled by OMINVEST, which the company describes as Oman's largest private-sector investment company (MSX-listed). Checked 2026-10-12.",
+  "group_structure": "Subsidiary of the OMINVEST group via Jabreen Capital (OMINVEST's private equity arm). Ubhar Capital is the group's investment banking, brokerage and asset management platform; OMINVEST executives sit on its board. No subsidiaries of Ubhar Capital were found; it is investment and administrative manager of public funds registered with the FSA (The First Mazoon Fund, Ubar Fund for Gulf Markets).",
+  "subsidiaries": [],
+  "footprint": "Single office in Muscat (Ominvest Business Center, Madinat Al Irfan / Airport Heights). Execution arrangements for GCC, MENA, US and European markets; India access via a Kotak Mahindra Bank tie-up. Checked 2026-10-12.",
+  "customer_segments": "Institutional (government pension funds, sovereign funds, banks, central banks, listed companies), HNW and individual investors, corporates and issuers (corporate finance, liquidity provision), endowment institutions (Gheras fund), NRIs and expats (India access).",
+  "business_lines": "Asset management (discretionary mandates and funds), brokerage (MSX and international equities, fixed income, OTC bonds) with online trading, wealth management (relationship managers, global funds, fixed income, bespoke solutions), corporate finance and advisory (ECM, DCM, M&A, private equity), market making and liquidity provision, custody and fund administration, research, structured instruments. Holds an FSA investment banking licence since May 2024.",
+  "metrics": [
+    {
+      "metric": "wealth_client_assets",
+      "value": 560,
+      "unit": "million",
+      "currency": "USD",
+      "period_end": "",
+      "period_label": "Undated website claim (accessed 12 Oct 2026)",
+      "period_type": "point_in_time",
+      "scope": "Asset Management division",
+      "definition": "'Assets over USD 560 million' managed by the Asset Management team (not labelled AUM)",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Undated; the same page says the team manages 2 funds while the asset management page says 3, so the figure may be stale.",
+      "source_ids": [
+        "S1",
+        "S7"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 1000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "",
+      "period_label": "Undated website claim (accessed 12 Oct 2026)",
+      "period_type": "point_in_time",
+      "scope": "Company",
+      "definition": "'Over 1000 clients, spanning geographies' (total; active vs registered not stated)",
+      "status": "Requires verification",
+      "locator": "Homepage key figures",
+      "note": "The services page uses the same 'over 1000 clients' figure for the India Access team, so scope is unclear.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 44,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "",
+      "period_label": "Undated website claim (accessed 12 Oct 2026)",
+      "period_type": "point_in_time",
+      "scope": "Company",
+      "definition": "Employees",
+      "status": "Requires verification",
+      "locator": "Homepage key figures",
+      "note": "Undated.",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "total_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Unlisted SAOC; no financial statements on u-capital.net (S1, S2) or the FSA register entry (S17). Parent OMINVEST website returned HTTP 403 / timed out, so group filings could not be checked."
+    },
+    {
+      "metric": "operating_income",
+      "status": "Not publicly disclosed",
+      "where_checked": "As for total_assets."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not publicly disclosed",
+      "where_checked": "As for total_assets."
+    },
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Website gives only an undated 'assets over USD 560 million' for Asset Management (S1, S7); no dated AUM in news items (S14–S16)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Abdulaziz Khalifa Al Saadi",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Company",
+      "scope": "Company",
+      "appointed": "2020-12",
+      "appointed_note": "CEO since December 2020 (official bio).",
+      "previous_roles": "Deputy Director General for Operations, Civil Services Pension Fund (CSPF), overseeing investment operations and internal audit; former board member of Bank Nizwa, OMINVEST, Jabreen Capital and Muscat National Development and Investment Company (official bio).",
+      "education": "Bachelor's in Accounting, Sultan Qaboos University; Master's in Business, Victoria University, Melbourne (official bio)",
+      "qualifications": "ACCA",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team leaders page and About page, checked 2026-10-12 (site carries Oct 2026 research, so it is maintained) (S2, S3); quoted as CEO in the 19 May 2024 licence release (S14). News search for 2025–2026 changes not possible (search budget exhausted).",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulaziz Mohammed Al Balushi",
+      "name_ar": null,
+      "title": "Chairman of the Board (Group CEO of OMINVEST)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Board",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Group CEO of OMINVEST since 2014; CEO of Ahli Bank SAOG 2007–2013; Deputy Chairman of Jabreen International Development Co.; board member of Oman Arab Bank, National Finance and National Life & General Insurance (official bio).",
+      "education": "MSc Finance, University of Strathclyde (official bio)",
+      "qualifications": "Fellow of the Chartered Institute of Bankers (UK); Fellow of the Institute of Financial Services",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Chairman on the company About page (S2) and on the FSA register board list (S17), both checked 2026-10-12.",
+      "source_ids": [
+        "S2",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nasri Malhamé",
+      "name_ar": null,
+      "title": "Vice Chairman (advisor to the board of Arab Bank (Switzerland))",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Board",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "Website: 'Nasri Victor Malhamé', Vice Chairman. FSA register: 'Nasri Patrick Malhame', Deputy Chairman.",
+      "previous_roles": "Former CEO and General Manager of Arab Bank (Switzerland); fund directorships incl. AB Alternative Strategies Fund (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as vice/deputy chairman on both the About page (S2) and the FSA register (S17); middle name differs.",
+      "source_ids": [
+        "S2",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bader (Badar) Al Shanfari",
+      "name_ar": null,
+      "title": "Board Member (COO of OMINVEST)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Board",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "COO of OMINVEST; former CEO of Uzbek-Oman Investment Company; former Deputy CEO of Jabreen Capital; former Deputy CEO of EastBridge Partners, Singapore (official bio).",
+      "education": "BBA, Duquesne University; MBA, University of Strathclyde (official bio)",
+      "qualifications": "CPA (Delaware)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Conflicting sources",
+      "role_evidence": "On the company About page (S2) but not on the FSA register board list (S17).",
+      "source_ids": [
+        "S2",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Chetan Kejriwal",
+      "name_ar": null,
+      "title": "Board Member (CFO of OMINVEST)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Board",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "CFO of OMINVEST; previously Partner, EY MENA (official bio).",
+      "education": "Bachelor of Commerce, Mumbai University (official bio)",
+      "qualifications": "Member, Institute of Chartered Accountants of India",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Conflicting sources",
+      "role_evidence": "On the company About page (S2) but not on the FSA register board list (S17).",
+      "source_ids": [
+        "S2",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tareq El Sharif",
+      "name_ar": null,
+      "title": "Board Member (VP and Head of GCC Private Banking, Arab Bank Plc, UAE)",
+      "functions": [
+        "Board",
+        "Private banking"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Board",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Arab Bank since 2011; earlier Ernst & Young and Rasmala Investment Bank (official bio).",
+      "education": "MBA in Finance (institution not stated)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Conflicting sources",
+      "role_evidence": "On the company About page (S2) but not on the FSA register board list (S17).",
+      "source_ids": [
+        "S2",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yasmin Abdullah",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Operations",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team leaders page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abhishek Mathur",
+      "name_ar": null,
+      "title": "Acting Chief Investment Banking Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Investment Banking / Corporate Finance & Advisory",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "Acting role.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team leaders page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abbas Ali",
+      "name_ar": null,
+      "title": "Head of Investment Strategy",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Asset Management / Investment Strategy",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team leaders page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Talal Al Balushi",
+      "name_ar": null,
+      "title": "Head of Brokerage",
+      "functions": [
+        "Brokerage"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Brokerage",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team leaders page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tahir Abbas",
+      "name_ar": null,
+      "title": "Head of Research",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Ubhar Capital SAOC",
+      "business_unit": "Research",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team leaders page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Ubhar Capital (U Capital) is an FSA-licensed Omani investment firm owned about 81% by OMINVEST's Jabreen Capital. It received an FSA investment banking licence in May 2024, which it describes as the first for an Omani private company. FSA-registered activities include brokerage, portfolio and investment management, custody, fund administration, margin financing, market making, marketing of non-Omani securities and issuing structured instruments. Asset Management runs discretionary equity and fixed income mandates for pension funds, sovereign funds, banks, central banks and HNW clients ('assets over USD 560m', undated) and three funds: Tarabut (Shariah balanced), The First Mazoon Fund (GCC/MENA equity and bonds; custodian National Bank of Oman) and Gheras Endowment Investment Fund (Shariah). Wealth Management offers RM-led access to global funds, international fixed income and bespoke solutions through external global managers, plus Indian markets via Kotak Mahindra Bank. Brokerage ranked top-3 on MSX by market share in 2015–2022 and offers online trading for Omani, GCC and US markets. It was Oman's first licensed market maker and liquidity provider (trained by Al Ramz), and is liquidity provider for Oman Arab Bank (2024) and Bank Muscat (2025).",
+    "segments": [
+      {
+        "name": "Wealth Management",
+        "tier": "Affluent / HNW",
+        "eligibility": "Individual and institutional investors; thresholds not published",
+        "source_ids": [
+          "S5",
+          "S7"
+        ]
+      },
+      {
+        "name": "Institutional asset management",
+        "tier": "Institutional",
+        "eligibility": "Government pension funds, sovereign funds, banks, central banks, listed companies and HNW individuals",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "No",
+      "detail": "Not a bank. HNW coverage through Wealth Management relationship managers; leverage arranged through tie-ups with local and international banks.",
+      "source_ids": [
+        "S7",
+        "S5"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Discretionary country-specific equity, regional equity and fixed income mandates; 'assets over USD 560 million' (undated); team of 5–6. Funds: Tarabut Fund (Shariah balanced, NAV OMR 1.205/unit 8 Oct 2026), The First Mazoon Fund (NAV OMR 1.099/unit 11 Oct 2026; FSA reg. 1/2007), Gheras Endowment Investment Fund (Shariah). FSA register also lists Ubhar as investment and administrative manager of 'Ubar Fund for Gulf Markets (formerly Oman Arab Fund)' (FSA reg. 10/2009).",
+      "source_ids": [
+        "S4",
+        "S7",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S18",
+        "S19"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Equity and fixed income brokerage; execution for GCC, MENA, US and European markets and ETFs; international OTC bond trading; institutional sales desk; top-3 MSX broker by market share 2015–2022 (No. 1 in 2017, 2019, 2021). Margin financing licensed. Market maker and liquidity provider: Oman Arab Bank (May 2024), Bank Muscat (from 6 Jul 2025).",
+      "source_ids": [
+        "S6",
+        "S7",
+        "S17",
+        "S8",
+        "S15",
+        "S16"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Online trading for Omani, GCC and US markets via the u-capitallink.net platform and a mobile app (the homepage links an app listed as 'uinvest'); portfolio viewer and SMS alerts. Launch dates not stated.",
+      "source_ids": [
+        "S1",
+        "S6"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Wealth Management: risk profiling, asset allocation, portfolio review and rebalancing recommendations; FSA activity 'Investment Advice & Research'; research coverage of MSX and GCC companies in Arabic and English.",
+      "source_ids": [
+        "S5",
+        "S17"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary portfolio mandates for institutional and HNW clients (FSA activity 'Portfolio Management').",
+      "source_ids": [
+        "S4",
+        "S17"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No model or robo portfolios found on u-capital.net.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Access to global funds and international fixed income via 'best in class global investment managers' (not named); Global Mutual Funds KIDs published on the Wealth Management page; FSA activity 'Marketing non-Omani Securities'. Indian market products via Kotak Mahindra Bank tie-up.",
+      "source_ids": [
+        "S5",
+        "S4",
+        "S7",
+        "S17"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "FSA-registered 'Issuer of Structured Instruments'; the May 2024 licence release lists issuance of structured instruments among services. Specific notes not published.",
+      "source_ids": [
+        "S17",
+        "S14"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "Corporate Finance & Advisory lists private equity and private placements; parent Jabreen Capital is a private equity firm. No client private-markets fund found.",
+      "source_ids": [
+        "S9",
+        "S7",
+        "S2"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Tarabut Fund (open-ended Shariah-compliant balanced fund: GCC and international Shariah equities and sukuk) and Gheras Endowment Investment Fund (Shariah equities and sukuk for endowment institutions).",
+      "source_ids": [
+        "S11",
+        "S13"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Bonds",
+      "Sukuk",
+      "Mutual funds",
+      "Structured products"
+    ],
+    "partners": [
+      {
+        "partner": "Al Ramz Capital (Al Ramz Corporation PJSC)",
+        "kind": "Technical partner (market making / liquidity provision)",
+        "what": "Strategic partner that trained the 3-person MM/LP team",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "partner": "Kotak Mahindra Bank",
+        "kind": "Distribution partner",
+        "what": "Tie-up to distribute Indian investment products and services in Oman (wealth management and IB advisory)",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S7"
+        ]
+      },
+      {
+        "partner": "National Bank of Oman",
+        "kind": "Custody",
+        "what": "Custodian of The First Mazoon Fund and Ubar Fund for Gulf Markets",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S18",
+          "S19"
+        ]
+      },
+      {
+        "partner": "Bloomberg and Reuters terminals",
+        "kind": "Market data / order placement",
+        "what": "Used by brokerage for order placement and confirmation",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S6"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2017-01",
+        "what": "Started operations after acquiring Oman Arab Bank's Investment Management Group",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2020-06",
+        "what": "Acquired Gulf Baader Capital Markets SAOC",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2024-05-12",
+        "what": "Appointed liquidity provider for Oman Arab Bank SAOG",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "date": "2024-05-19",
+        "what": "Granted FSA investment banking licence (company: first Omani private company to receive it)",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2025-07-03",
+        "what": "Appointed liquidity provider for Bank Muscat SAOG (trading from 6 Jul 2025)",
+        "source_ids": [
+          "S15"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Wealth Management relies on external 'best in class global investment managers' for global funds, fixed income and bespoke solutions, without naming a platform (S5).",
+        "Licensed to market non-Omani securities and issue structured instruments; investment banking licence since May 2024 (S14, S17).",
+        "Homepage invites banks, brokers, external asset managers and fintechs to partner for trading, execution and reporting services (company claim, S1)."
+      ],
+      "barriers": [
+        "Small firm: 44 employees and over 1,000 clients (undated website claims) (S1).",
+        "Wealth offer is RM-led; digital channel is a brokerage trading app only (S1, S5, S6).",
+        "Ownership and board details conflict between the website and the FSA register, so governance contacts need checking (S2, S17)."
+      ],
+      "incumbent_vendors": [
+        "Al Ramz Capital — MM/LP partner (S8)",
+        "Kotak Mahindra Bank — India access (S7)",
+        "National Bank of Oman — fund custodian (S18, S19)",
+        "Bloomberg, Reuters — terminals (S6)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "U Capital homepage (key figures, online trading, partnership)",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "About Us (history, shareholders, board, CEO bio)",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/about-us/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Meet our Team Leaders",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/about-us/meet-our-team-leaders/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Asset Management",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/assets-management/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Wealth Management",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/wealth-management/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Brokerage",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/u-capital-brokerage/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Services Offered",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/services-offered/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Market Maker and Liquidity Provider",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/market-maker-and-liquidity-provider/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Corporate Finance & Advisory",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/corporate-finance-advisory/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Mutual Funds",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/fund-manged/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Tarabut Fund",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/tarabut-fund/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "The First Mazoon Fund",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/the-first-mazoon-fund/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Gheras Endowment Investment Fund",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/gheras-endowment-investment-fund/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Ubhar Capital Granted Prestigious Investment Banking License by Financial Services Authority",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/news/ubhar-capital-granted-prestigious-investment-banking-license-by-financial-services-authority/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-05-19",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Bank Muscat SAOG Appoints Ubhar Capital as a Liquidity Provider",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/news/bank-muscat-saog-appoints-ubhar-capital-as-a-liquidity-provider/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-07-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "News & Updates (incl. Oman Arab Bank SAOG appoints Ubhar Capital as liquidity provider, 12 May 2024)",
+      "publisher": "Ubhar Capital SAOC",
+      "url": "https://u-capital.net/news-updates/",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "FSA register — Ubhar Capital SAOC (Companies Working in the field of Securities): activities, shareholders ≥5%, board",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/DisplayCompanyDetails?companyType=6&companyId=54&selectedCompanyType=6",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "FSA register — The First Mazoon Fund (reg. 1/2007)",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/DisplayCompanyDetails?companyType=7&companyId=4&selectedCompanyType=7",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "FSA register — Ubar Fund for Gulf Markets (formerly Oman Arab Fund) (reg. 10/2009)",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/DisplayCompanyDetails?companyType=7&companyId=16&selectedCompanyType=7",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Shareholders",
+      "detail": "Website: Jabreen International Development Co. 81.27%, Arab Bank (Switzerland) 18.72%, OMINVEST 0.01%. FSA register: Jabreen Capital 81.26%, OMINVEST 18.72%.",
+      "resolution": "Unresolved; both recorded. The register shows only holders of 5%+ and may label the 18.72% holder differently or be out of date.",
+      "source_ids": [
+        "S2",
+        "S17"
+      ]
+    },
+    {
+      "field": "Board of directors",
+      "detail": "Website board: Al Balushi (Chair), Malhamé (Vice Chair), Al Shanfari, Kejriwal, El Sharif. FSA register (undated) lists Al Balushi (Chair), Malhame (Deputy Chair), plus Shahid Rasool Choudhry, Rani Jabban, Anwar Hilal Al Jabri, Waleed Al Yaarubi, Al-Wadhah Al-Adawi, Sanjay Kawatra and Ziad Kamal.",
+      "resolution": "Recorded the chair and vice chair as verified; other website directors marked 'Conflicting sources'. The register appears to include past directors.",
+      "source_ids": [
+        "S2",
+        "S17"
+      ]
+    },
+    {
+      "field": "Number of funds / asset figures",
+      "detail": "Services page and homepage: '2 funds', 'assets over USD 560 million', '25+ mandates'. Asset management page: 'three Funds (including one as an Advisor)'. Mutual Funds page lists 3. FSA register shows Ubhar as manager of The First Mazoon Fund and Ubar Fund for Gulf Markets; Tarabut and Gheras do not appear in the FSA funds list.",
+      "resolution": "Recorded the three funds named on the website, noted the FSA-registered funds, and flagged the USD 560m as undated.",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S10",
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "field": "First Mazoon Fund inception",
+      "detail": "Website: incorporated 1997. FSA register: establishment date 30/04/2007, registration 1/2007.",
+      "resolution": "Unresolved; the 2007 date may reflect re-registration under a later fund regime.",
+      "source_ids": [
+        "S12",
+        "S18"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead 'ownership by Bank Dhofar' is not supported: neither the company website nor the FSA register shows a Bank Dhofar stake (owners are Jabreen Capital/OMINVEST and, per the website, Arab Bank (Switzerland)).",
+    "Lead 'formerly U Capital' is inaccurate: 'U Capital' / 'U-Capital' is the current brand of Ubhar Capital SAOC and is still used on the website in Oct 2026; no rebrand found.",
+    "WebSearch budget was exhausted, so no news searches (2025–2026 appointments, Arabic press, Zawya/Times of Oman) or LinkedIn checks were possible; all linkedin_status 'Not checked'.",
+    "No financial statements found (unlisted SAOC). OMINVEST's website returned 403 / timed out, so its group reports (which may show Ubhar's results) were not checked.",
+    "Relationship between the website's Tarabut Fund and the FSA-registered 'Ubar Fund for Gulf Markets (formerly Oman Arab Fund)' not established.",
+    "uinvest / u-capitallink.net app launch date, technology vendor and user numbers not found."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B09",
+  "checked": "2026-10-12"
+}

@@ -1,0 +1,1009 @@
+{
+  "id": "ae-uab",
+  "name": "United Arab Bank",
+  "short_name": "UAB",
+  "legal_name": "United Arab Bank P.J.S.C.",
+  "name_ar": "البنك العربي المتحد",
+  "country": "AE",
+  "hq_city": "Sharjah",
+  "website": "https://www.uab.ae",
+  "linkedin_company": "https://www.linkedin.com/company/united-arab-bank/",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1975 (incorporated in Sharjah as a private joint stock company; converted to a public company in 1982)",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "UAB",
+  "parent_id": null,
+  "ownership_summary": "Listed on ADX. The Commercial Bank (P.S.Q.C.) of Qatar is the largest shareholder with 39.91% at 31 Dec 2025, a stake first acquired (40%) in December 2007, and appoints 4 of 11 directors. Other holders above 5% at 31 Dec 2025: Al Majid Investment Company 10.79%, HH Sheikh Mohammed bin Faisal bin Sultan Al Qassimi (Chairman) 9.99% and Sheikh Faisal bin Sultan bin Salem Al Qassimi 7.42%. No change of control found in 2026 filings or news (checked 2026-10-12).",
+  "shareholders": [
+    {
+      "holder": "The Commercial Bank (P.S.Q.C.), Qatar",
+      "pct": 39.91,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "Al Majid Investment Company (L.L.C)",
+      "pct": 10.79,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "HH Sheikh Mohammed bin Faisal bin Sultan Al Qassimi",
+      "pct": 9.99,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "Sheikh Faisal bin Sultan bin Salem Al Qassimi",
+      "pct": 7.42,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "government_link": "No UAE government shareholder found among holders above 5% (31 Dec 2025). The largest shareholder, The Commercial Bank (Qatar), is itself a listed Qatari bank. Members of the Sharjah ruling family (Al Qassimi) hold 17.41% combined, and the Chairman is one of them (S3).",
+  "group_structure": "Single bank, no subsidiaries reported. Islamic banking runs through a Shari'a-compliant window at selected branches, with Islamic financing receivables of AED 3.02bn gross at 30 Jun 2026 (S1). UAB is an associate of The Commercial Bank (Qatar) (universe id qa-cbq), which equity-accounts its 39.91% stake, so UAB figures would be partly double-counted if added to CBQ's.",
+  "subsidiaries": [],
+  "footprint": "UAE only. 6 branches and 22 ATMs at end 2025 (Dubai, Abu Dhabi, Al Ain, Sharjah, Ras Al Khaimah) (S3). Three mall branches were planned for early 2026; a branch at Dalma Mall, Abu Dhabi, opened in June 2026 (S11).",
+  "customer_segments": "Corporate and commercial (main business), personal banking (mass retail via salary-transfer loans, mortgages and cards; Premium Banking for affluent clients), Islamic banking window, treasury clients.",
+  "business_lines": "Corporate Banking; Treasury & Capital Markets; Personal Banking (accounts, cards, personal loans, mortgages, deposits, Premium Banking); Islamic Banking window (Wakala/Mudaraba deposits, Murabaha financing). Personal Banking contributed 10% of FY2025 operating income (AED 79m) with AED 3.1bn of loans and AED 3.0bn of deposits at 31 Dec 2025 (S3). Retail investment products are limited to term deposits, treasury FX and rate hedging, in-app ADX IPO subscription (Aug 2025) and third-party market access promised to Premium clients.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 27748079,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (no subsidiaries)",
+      "definition": "Total assets, interim statement of financial position (reviewed by PwC)",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4)",
+      "note": "31 Dec 2025: AED 26,999,976 thousand (S2).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 18166081,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Customer deposits and Islamic customer deposits; excludes due to banks (AED 3,928,853 thousand)",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4); note 11",
+      "note": "Term deposits 10.95bn, current accounts 6.83bn, call and savings 0.39bn.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 15327559,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Loans and advances and Islamic financing receivables, net (net of ECL; includes Islamic financing)",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 15741523,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Gross loans and advances and Islamic financing receivables (Islamic financing AED 3,021,199 thousand)",
+      "status": "Verified",
+      "locator": "note 8 (PDF p.13)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 4038758,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Total equity, including Tier 1 instrument of AED 550,875 thousand",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 796543,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Total operating income, audited statement of income",
+      "status": "Verified",
+      "locator": "Statement of income, p.9 (PDF p.11)",
+      "note": "FY2024: AED 605,803 thousand. H1 2026: AED 420,831 thousand (S1).",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 437857,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Net profit for the year after tax (no non-controlling interests)",
+      "status": "Verified",
+      "locator": "Statement of income, p.9 (PDF p.11)",
+      "note": "FY2024: AED 300,960 thousand.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 201037,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Net profit for the six-month period after tax",
+      "status": "Verified",
+      "locator": "p.3 (PDF p.5)",
+      "note": "H1 2025: AED 207,742 thousand.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 6,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "End 2025",
+      "period_type": "point_in_time",
+      "scope": "UAE",
+      "definition": "Branches/offices (plus 22 ATMs)",
+      "status": "Verified",
+      "locator": "AR 2025 PDF pp.8 and 15",
+      "note": "Dalma Mall branch opened June 2026; total 2026 count not published.",
+      "source_ids": [
+        "S3",
+        "S11"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 annual report (S3), FY2025 financial statements (S2), H1 2026 interim statements (S1) and results release (S4); no asset management or custody business reported."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Annual report 2025 Personal Banking review (S3); Premium Banking page (S7)."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Annual report 2025 (S3), H1 2026 release (S4)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "ADX IPO partnership release (S9), annual report 2025 (S3)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not publicly disclosed",
+      "where_checked": "Annual report 2025 ESG section (S3) gives only percentages (60% male/40% female; 30% Emiratisation) and 71 contractors, not total headcount."
+    }
+  ],
+  "people": [
+    {
+      "name": "HH Sheikh Mohammed Bin Faisal Bin Sultan Al Qassimi",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors (non-executive)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2024-03",
+      "appointed_note": "Board member since 2011; elected Chairman March 2024. Holds 9.99% of shares (31 Dec 2025).",
+      "previous_roles": "Chaired the Board Credit Committee from 2016; directorships include MANAFA LLC, Hospitality Management Holding LLC, Reef Real Estate Investment Co. LLC (official bio).",
+      "education": "Bachelor's in Business Administration and Accounting, Webster University, Switzerland",
+      "qualifications": "Member, Certified Management Accountant (CMA); Member, Society of Technical Analysts (UK)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Signed the H1 2026 interim statements on 22 Jul 2026 (S1) and quoted in the H1 2026 release (S4). No change news found.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Omar Hussain Alfardan",
+      "name_ar": null,
+      "title": "Vice Chairman (non-executive; represents The Commercial Bank)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2024",
+      "appointed_note": "Re-elected to the Board in 2024 for three years.",
+      "previous_roles": "Managing Director, The Commercial Bank (P.S.Q.C.); Chairman, Alternatif Bank (Turkey); President and CEO, Alfardan Group (official bio).",
+      "education": "BBA and Master's in Finance, Webster University, Geneva",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Annual report 2025 board pages (S3). No change news found.",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Stephen Moss",
+      "name_ar": null,
+      "title": "Director (non-executive); Group CEO of The Commercial Bank (Qatar)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2025-09",
+      "appointed_note": "Nominated to the Board in September 2025 for three years.",
+      "previous_roles": "Regional CEO Middle East, North Africa and Türkiye at a global bank; earlier Chief of Staff to the Group CEO, Group Head of Strategy and Group Head of M&A (official bio; bank not named in the bio).",
+      "education": "BA Economics and Accountancy, University of Kent",
+      "qualifications": "Chartered Accountant (ICAEW)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Annual report 2025 board pages (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Shirish Bhide",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2022",
+      "appointed_note": "Joined UAB in 2022 (official bio).",
+      "previous_roles": "Executive Committee member at First Gulf Bank and First Abu Dhabi Bank (Group Head of Corporate, Commercial and International Banking; Group Chief Credit Officer); 4 years at The National Commercial Bank, Jeddah (international risk management); 18 years at Citibank in India and Africa, leaving in 2009 as CEO of Citibank Uganda.",
+      "education": "Postgraduate Diploma in Accounting & Finance, London School of Economics; MBA, University of Poona",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page checked 2026-10-12 (S6); signed H1 2026 statements (S1); quoted by WAM 17 Sep 2026 (S15). No departure news found.",
+      "source_ids": [
+        "S6",
+        "S1",
+        "S3",
+        "S15"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdul Haleem Sheikh",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Over two decades at Samba Financial Group / Saudi National Bank, Riyadh (Group CFO and Head of Financial Control); 10+ years at PricewaterhouseCoopers.",
+      "education": null,
+      "qualifications": "Chartered and Management Accountant",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6) and annual report 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faizal Kundil",
+      "name_ar": null,
+      "title": "Head of Personal Banking",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Personal Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not published; not in the annual report 2025, so probably appointed in 2026.",
+      "previous_roles": "Per Ajman Bank's team page (still live): Head of Consumer Banking, Ajman Bank from Jan 2021; earlier consumer-finance roles at Citibank, Standard Chartered, Dubai Islamic Bank, Emirates Islamic and First Abu Dhabi Bank group.",
+      "education": "Bachelor of Commerce, University of Delhi (Ajman Bank page)",
+      "qualifications": "Leadership Acceleration Program certificate, Harvard Business School (Ajman Bank page)",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Conflicting sources",
+      "role_evidence": "UAB senior management page lists him as Head of Personal Banking (checked 2026-10-12, S6), but Ajman Bank's team page still lists him as its Head of Consumer Banking (S14). No appointment announcement found.",
+      "source_ids": [
+        "S6",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Emre Yalcin",
+      "name_ar": null,
+      "title": "Head of Personal Banking (per annual report 2025; 'Head of Retail Banking' in 2025 releases)",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Personal Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "22 years in retail banking and wealth management at HSBC, Barclays, GE Capital and Garanti BBVA; most recently Head of Retail Financing Assets at Al Hilal Digital Bank (ADCB Group).",
+      "education": "BSc Electronics & Communication Engineering, Istanbul Technical University; Master's in Economics and Finance, Bosphorus University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed in annual report 2025 (S3) and quoted in the Jul and Aug 2025 releases (S9, S10), but no longer on the senior management page checked 2026-10-12 (S6), which names Faizal Kundil. Probably departed; no departure news found.",
+      "source_ids": [
+        "S3",
+        "S6",
+        "S9",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sara Kazem",
+      "name_ar": null,
+      "title": "Head of Branch Banking",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Personal Banking / Branches",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted with this title in the Dalma Mall branch release, June 2026 (S11).",
+      "source_ids": [
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Carla Ajaka",
+      "name_ar": null,
+      "title": "Head of Treasury and Capital Markets",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Treasury & Capital Markets",
+      "scope": "Group",
+      "appointed": "2020-08",
+      "appointed_note": "",
+      "previous_roles": "Over two decades at HSBC Middle East, incl. Head of Global Markets for Lebanon, Kuwait, Algeria and Jordan.",
+      "education": "BBA, American University of Beirut; MBA, Notre Dame University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6) and annual report 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed El Desouky",
+      "name_ar": null,
+      "title": "Head of Islamic Banking",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Islamic Banking window",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Spelled 'Mohamed ElDesouky' in the annual report.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": "AAOIFI Certified Islamic Banker",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6) and annual report 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Abdullah AlTaee",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Digital"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Operations",
+      "scope": "Group",
+      "appointed": "2022",
+      "appointed_note": "",
+      "previous_roles": "Leadership roles at Al Masraf, First Abu Dhabi Bank, National Bank of Abu Dhabi and Emirates NBD; at Al Masraf led a core banking programme and end-to-end digitisation (official bio).",
+      "education": "Honorary doctorate, Glory International Business University",
+      "qualifications": "PMP; Strategy Leadership Certificate, Said Business School (2024)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6) and annual report 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "S.V. Padmanabhan",
+      "name_ar": null,
+      "title": "Chief Information Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Information Technology",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Senior roles at HDFC Bank (India), Citibank, First Data Singapore and Noor Investment Group.",
+      "education": "Bachelor's in Engineering, Mumbai University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6) and annual report 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Henry Bacha",
+      "name_ar": null,
+      "title": "Chief Marketing Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "United Arab Bank P.J.S.C.",
+      "business_unit": "Marketing",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6); media contact on H1 2026 release (S4).",
+      "source_ids": [
+        "S6",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "UAB is a mid-sized, corporate-led Sharjah bank (AED 27.7bn assets at 30 Jun 2026) whose Personal Banking unit is only about 10% of income and is built around loans, cards and deposits. Its affluent offer is Premium Banking: a dedicated licensed relationship manager, lounges, preferential pricing, and claimed access to local, regional and international markets 'through leading investment firms', private equity deals, Lombard lending and succession planning; no thresholds or named providers are published. The 'Wealth Management' web section is treasury-run and lists term deposits, FX and rate hedging, and Islamic Wakala/Mudaraba deposits; no funds, bonds, structured notes or discretionary mandates are shown. In Aug 2025 it added ADX IPO subscription in its mobile app, and the annual report 2025 says Personal Banking will introduce 'virtual assets and equities' and strengthen Premium Banking from 2026.",
+    "segments": [
+      {
+        "name": "Premium Banking (Premium Account)",
+        "tier": "Affluent",
+        "eligibility": "Not published on the product page (S7)",
+        "source_ids": [
+          "S7"
+        ]
+      },
+      {
+        "name": "Personal Banking",
+        "tier": "Mass market",
+        "eligibility": "Salary-transfer customers, UAE nationals and expatriates (loan and card products)",
+        "source_ids": [
+          "S3",
+          "S19"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private banking unit. Premium Banking is the top tier and promises private equity deal access, Lombard lending and succession planning (company claims, no product detail).",
+      "source_ids": [
+        "S7",
+        "S19"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset management subsidiary, own funds or AUM disclosed.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    "brokerage": {
+      "present": "Unclear",
+      "detail": "No own brokerage licence or subsidiary found. Premium page claims market access through unnamed third-party investment firms. ADX IPO subscription in-app since Aug 2025 is primary-market only. Equities are planned for 2026 (annual report).",
+      "source_ids": [
+        "S7",
+        "S9",
+        "S3"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Limited: UAB mobile app supports ADX IPO subscriptions (from 21 Aug 2025) and conventional and Islamic term deposit journeys (2025). Revamped app launched 2025 with 80+ services; Lune AI insights partnership (Jul 2025). Equities and virtual assets planned for 2026.",
+      "source_ids": [
+        "S9",
+        "S3",
+        "S10"
+      ]
+    },
+    "advisory": {
+      "present": "Unclear",
+      "detail": "Premium page says licensed RMs risk-profile clients and build 'personalised, dynamic wealth management solutions'; no advisory product, fee or licence detail found.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary portfolio management found.",
+      "source_ids": [
+        "S7",
+        "S8"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found on website or in annual report.",
+      "source_ids": [
+        "S3",
+        "S19"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No mutual fund shelf shown; the Investment Solutions page lists only deposit products.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    "structured_products": {
+      "present": "Unclear",
+      "detail": "Treasury pages offer FX options, bespoke derivative strategies and structured interest-rate hedges (hedging, not investment notes). No retail structured notes found.",
+      "source_ids": [
+        "S19"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "Premium page claims 'access to exclusive private equity deals'; no named vehicle or provider.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Islamic window: Wakala and Mudaraba deposits (incl. Golden Visa Wakala, Islamic Enhanced Escalator), Islamic profit-rate swaps. Premium page says Shari'ah-compliant wealth solutions are available. Islamic banking assets crossed AED 3.5bn in 2025.",
+      "source_ids": [
+        "S19",
+        "S7",
+        "S3"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "Private markets / alternatives"
+    ],
+    "partners": [
+      {
+        "partner": "Abu Dhabi Securities Exchange (ADX)",
+        "kind": "Exchange / IPO subscription",
+        "what": "IPO subscription for UAB customers inside the UAB mobile app",
+        "date": "2025-08-21",
+        "status": "Live",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "partner": "Lune",
+        "kind": "Fintech (AI transaction enrichment / PFM)",
+        "what": "Transaction insights, personalised recommendations and financial planning features in UAB's mobile app",
+        "date": "2025-07-24",
+        "status": "Announced",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "partner": "Emirates Financial Registry (EFR)",
+        "kind": "Digital identity / onboarding infrastructure",
+        "what": "Partnership cited as supporting digital journeys in Personal Banking",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-07-24",
+        "what": "Partnership with UAE fintech Lune for AI-powered personalised mobile banking",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "date": "2025-08",
+        "what": "AED 1.03bn rights issue completed (fully subscribed), share capital rising to AED 3.09bn",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025-08-21",
+        "what": "ADX partnership: IPO subscription in the UAB mobile app",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Annual report 2025: Personal Banking to introduce 'virtual assets and equities', strengthen Premium Banking and digitise loans, cards and account opening from 2026",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2026-06-25",
+        "what": "New branch at Dalma Mall, Abu Dhabi, part of mall-branch expansion",
+        "source_ids": [
+          "S11"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Annual report 2025 states Personal Banking will introduce virtual assets and equities and strengthen Premium Banking from 2026, with no execution or product partner named yet (S3).",
+        "Current retail 'Wealth Management' shelf is deposits plus treasury hedging; no funds, model portfolios, discretionary or structured notes found (S8, S19).",
+        "Premium Banking already promises market access, private equity deals and Lombard lending through unnamed third parties, so a product shelf by API would fill a stated promise (S7).",
+        "Mobile app was rebuilt in 2025 and already hosts ADX IPO subscription and Lune AI insights, showing willingness to plug in partners (S3, S9, S10)."
+      ],
+      "barriers": [
+        "Retail is small: Personal Banking was 10% of FY2025 operating income (AED 79m) and the bank is corporate-led (S3).",
+        "Strategic decisions are influenced by a 39.91% foreign bank shareholder (The Commercial Bank, Qatar) with 4 board seats (S3).",
+        "Personal Banking leadership changed in 2026 and is not yet confirmed (S6, S14)."
+      ],
+      "incumbent_vendors": [
+        "Lune: AI transaction enrichment in mobile banking (S10)",
+        "ADX eIPO: IPO subscription (S9)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Review report and condensed interim financial statements for the six months ended 30 June 2026",
+      "publisher": "United Arab Bank P.J.S.C.",
+      "url": "https://www.uab.ae/-/media/project/uab/pdf/2026/march/uab-fs--q2-2026-english.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Financial statements for the year ended 31 December 2025",
+      "publisher": "United Arab Bank P.J.S.C.",
+      "url": "https://www.uab.ae/-/media/project/uab/pdf/2026/feb/uab-fs-fy-2025-english.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-02-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "UAB Annual Report 2025 ('50 Years United')",
+      "publisher": "United Arab Bank P.J.S.C.",
+      "url": "https://www.uab.ae/-/media/project/uabasset/uab/content-authors/files/financial-information/annual-reports/uab-annual-report-2025_en_final-adx.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "UAB reports Net profit of AED 201 million for the First Half of 2026",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/en/media-center/news/uab-reports-net-profit-of-aed-201-million-for-the-first-half-of-2026",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Investor Relations: Financial Information",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/en/about-uab/investor-relations/financial-information",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Senior Management",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/en/about-uab/discover-us/senior-management",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Premium Banking: Premium Account",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/en/personal/premium-banking/premium-account",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Wealth Management: Investment Solutions",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/en/personal/wealth-managment/investment-solutions",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "UAB partners with ADX to offer seamless IPO subscription services for customers",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/media-center/news/uab-partners-with-adx-to-offer-seamless-ipo-subscription-services-for-customers",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-08-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "UAB partners with UAE fintech Lune to deliver AI-powered personalised banking experiences",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/media-center/news/uab-partners-with-uae-fintech-lune-to-deliver-ai-powered-personalised-banking-experiences",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-07-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "United Arab Bank Continues Strategic Expansion with New Branch Opening at Dalma Mall",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/en/media-center/news/united-arab-bank-continues-strategic-expansion-with-new-branch-opening-at-dalma-mall",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-06-25",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Minutes of the Annual General Assembly held on 3 March 2026 (English convenience translation)",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/-/media/project/uab/pdf/2026/march/aga-minutes--held-on-03032026-english-signed.pdf",
+      "doc_type": "AGM minutes",
+      "tier": 1,
+      "published": "2026-03-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Our Partners (site footer with official social links)",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/en/about-uab/discover-us/our-partners",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Faizal Kundil: team profile",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/team/faizal-kundil",
+      "doc_type": "Official leadership page (other institution)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "United Arab Bank ranks 10th globally in its peer group in Forbes' World's Top Performing Banks 2026",
+      "publisher": "WAM (Emirates News Agency)",
+      "url": "https://www.wam.ae/en/article/c2ajemc-united-arab-bank-ranks-10th-globally-its-peer",
+      "doc_type": "News (state news agency)",
+      "tier": 5,
+      "published": "2026-09-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "L'imad absorbs ADQ to create 'investment powerhouse'",
+      "publisher": "AGBI",
+      "url": "https://www.agbi.com/finance/2026/01/limad-absorbs-adq-to-create-investment-powerhouse/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Qatar's Commercial Bank falls after stake talks for UAB ends",
+      "publisher": "Gulf News (Reuters)",
+      "url": "https://gulfnews.com/business/sectors/markets/qatar-s-commercial-bank-falls-after-stake-talks-for-uab-ends-1.2234605",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2018-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "UAB website: personal banking navigation and Wealth Management pages (FX Solutions, Rates Solutions, Islamic Solutions)",
+      "publisher": "United Arab Bank",
+      "url": "https://www.uab.ae/en",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Head of Personal Banking",
+      "detail": "Annual report 2025 (S3) names Emre Yalcin; the live senior management page (S6) names Faizal Kundil; Ajman Bank's team page (S14) still shows Faizal Kundil as Ajman Bank's Head of Consumer Banking.",
+      "resolution": "Recorded Faizal Kundil as 'Conflicting sources' and Emre Yalcin as 'Requires verification'. The official UAB page is the more recent source.",
+      "source_ids": [
+        "S3",
+        "S6",
+        "S14"
+      ]
+    },
+    {
+      "field": "Commercial Bank stake",
+      "detail": "The 2007 deal and the 'Strategic alliance' text say 40%; the 31 Dec 2025 shareholder table says 39.91%.",
+      "resolution": "Used 39.91% at 31 Dec 2025 (after the 2025 rights issue).",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead not supported: no evidence was found that UAB's ownership changed or that L'imad Holding or ADQ-related shareholders hold a stake. The annual report 2025 shows The Commercial Bank (Qatar) at 39.91% at 31 Dec 2025, and no 2026 change-of-control disclosure or news was found (UAB IR, English and Arabic news searches, checked 2026-10-12). L'imad's Jan 2026 takeover of ADQ (S16) has no UAB link in any source.",
+    "No shareholder table dated after 31 Dec 2025 was found. The Major Shareholders web page returned 404 and the IR landing page returned a server error. Check the ADX company page for a 2026 holder list.",
+    "Premium Banking eligibility thresholds and the 'leading investment firms' used for market access are not published.",
+    "Which provider will power the planned equities and virtual-asset offering (annual report 2025) is not disclosed.",
+    "H1 2026 earnings presentation and MD&A PDFs are image-only and could not be text-extracted; the figures were taken from the interim statements instead.",
+    "Faizal Kundil appointment date and Emre Yalcin departure not confirmed by any release."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B06",
+  "checked": "2026-10-12"
+}

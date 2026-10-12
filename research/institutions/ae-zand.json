@@ -1,0 +1,970 @@
+{
+  "id": "ae-zand",
+  "name": "Zand Bank",
+  "short_name": "Zand",
+  "legal_name": "Zand Bank PJSC",
+  "name_ar": null,
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.zand.ae/",
+  "linkedin_company": "https://www.linkedin.com/company/joinzand",
+  "category": "Bank",
+  "type": "Digital bank",
+  "model": "Conventional",
+  "founded": "2021 (announced 12 Apr 2021; shareholders acquired a majority of Dubai Bank PJSC, Dec 2021; CBUAE banking licence received 30 Jun 2022, announced 5 Jul 2022)",
+  "regulators": [
+    "CBUAE",
+    "SCA (UAE Capital Market Authority from 2026) — wealth management",
+    "VARA — digital asset custody"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Unlisted PJSC. Shareholding percentages are not published. Zand's Aug 2026 release says it is backed by 'an Abu Dhabi ruling family-owned investment arm', Franklin Templeton, Aditya Birla Group (via Solfrid Investments), Mohamed Alabbar and Yusuff Ali; the 2022 board release names Al Hail Holding LLC and Global Development Group as represented shareholders. Existing shareholders injected a further AED 250m in Sep 2025, and the merger with related entity Eradah Capital LLC (completed 26 Dec 2025) raised paid-up capital to AED 2.35bn.",
+  "shareholders": [
+    {
+      "holder": "Mohamed Alabbar (Chairman; named as a shareholder; stake not disclosed)",
+      "pct": null,
+      "as_of": "2026-08-25",
+      "source_ids": [
+        "S8",
+        "S19"
+      ]
+    },
+    {
+      "holder": "Yusuff Ali M.A. (Chairman, LuLu Group; named as a shareholder; stake not disclosed)",
+      "pct": null,
+      "as_of": "2026-08-25",
+      "source_ids": [
+        "S8",
+        "S19"
+      ]
+    },
+    {
+      "holder": "Franklin Templeton (represented on the board by Gregory Johnson; stake not disclosed)",
+      "pct": null,
+      "as_of": "2026-08-25",
+      "source_ids": [
+        "S8",
+        "S19"
+      ]
+    },
+    {
+      "holder": "Aditya Birla Group via Solfrid Investments Pte. Ltd. (represented by Sushil Agarwal; stake not disclosed)",
+      "pct": null,
+      "as_of": "2026-08-25",
+      "source_ids": [
+        "S8",
+        "S19"
+      ]
+    },
+    {
+      "holder": "Al Hail Holding LLC and Global Development Group (represented by Hamad Aldarwish and Mohammed Almazrouei in 2022); Zand's 2026 boilerplate also cites 'an Abu Dhabi ruling family-owned investment arm' without naming it",
+      "pct": null,
+      "as_of": "2026-08-25",
+      "source_ids": [
+        "S8",
+        "S19"
+      ]
+    }
+  ],
+  "government_link": "Indirect / unclear: Zand describes one backer as 'an Abu Dhabi ruling family-owned investment arm' (Aug 2026) but does not name it or its stake. No federal or emirate government shareholder disclosed. Checked 2026-10-12.",
+  "group_structure": "Zand Bank PJSC with one wholly owned subsidiary, Zand Trust LLC S.O.C. (incorporated 12 May 2025), which issues the AED-backed stablecoin. The Dec 2024 general assembly also approved a Zand Group governance structure including a holding company; whether it has been set up was not found. Paid-up capital AED 2.35bn after the 26 Dec 2025 merger with related entity Eradah Capital LLC. ZandTrust has its own site (zandtrust.com).",
+  "subsidiaries": [
+    {
+      "name": "Zand Trust LLC S.O.C.",
+      "pct": 100,
+      "activity": "Stablecoin issuer (Zand AED / AEDZ), CBUAE-supervised",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S17"
+      ]
+    }
+  ],
+  "footprint": "UAE (Dubai-headquartered, digital-only; no branch network found). Technology capabilities set up in Asia (2024 CEO letter). Checked 2026-10-12.",
+  "customer_segments": "Government and GREs, mid-to-large corporates, SMEs, fintechs, virtual asset service providers, real estate developers (escrow), and professional investors / HNW individuals through Zand Wealth.",
+  "business_lines": "Corporate and transaction banking; treasury and global markets; real estate and commercial escrow; Banking-as-a-Service and payments (Zand Pay, blockchain payment gateway); digital asset custody (VARA-licensed, Dec 2024) and tokenisation (ZandMint); AED-backed stablecoin via Zand Trust (Nov 2025); AI-as-a-service; Zand Wealth (wealth management and personal banking for professional investors: funds, equities, bonds, structured products, alternatives, digital-asset investments, bespoke portfolio management).",
+  "metrics": [
+    {
+      "metric": "customer_deposits",
+      "value": 5,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "End 2025 ('crossed AED 5 billion')",
+      "period_type": "point_in_time",
+      "scope": "Zand Bank PJSC",
+      "definition": "Customer deposits (CEO statement; 1.6x year-on-year growth; 48% CASA)",
+      "status": "Verified",
+      "locator": "CGR 2025, CEO message, p.14",
+      "note": "Rounded lower bound from the CEO letter; audited statements are not published on zand.ae.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 34,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Zand Bank PJSC",
+      "definition": "Net profit (CEO statement; turnaround from a loss of AED 127m in 2023)",
+      "status": "Verified",
+      "locator": "CGR 2025, CEO message, p.14",
+      "note": "Rounded; not stated whether group or bank-only; audited figure not published online.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 200,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Zand Bank PJSC",
+      "definition": "'Income' (CEO statement: grew by more than 50% to AED 200 million); exact income line not defined",
+      "status": "Requires verification",
+      "locator": "CGR 2025, CEO message, p.14",
+      "note": "Rounded; label not defined (could be total operating income or revenue).",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "total_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "No financial statements or Pillar 3 disclosures on zand.ae (full sitemap, governance-report page, banking-policies page; S22, S6); CGR 2024 and 2025 (S5, S4); Fitch rating release (S13). Checked 2026-10-12."
+    },
+    {
+      "metric": "net_loans",
+      "status": "Not publicly disclosed",
+      "where_checked": "As for total_assets. CGR 2025 says the loan book has no non-performing loans but gives no size (S4)."
+    },
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Zand Wealth page (S3), About page (S2), newsroom 2021–2026 (S7), CGR 2025 (S4)."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "About page (S2), CGR 2024/2025 (S5, S4), newsroom (S7)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not publicly disclosed",
+      "where_checked": "CGR 2025 gives only the Emiratisation rate (13.10% in 2025) (S4)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Michael Chan",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Group",
+      "scope": "Bank",
+      "appointed": "2022-11",
+      "appointed_note": "Announced 18 Nov 2022, after co-founder CEO Olivier Crespin left effective 5 Oct 2022 (S10).",
+      "previous_roles": "Regional Chief Operations Officer, Asia-Pacific, First Abu Dhabi Bank (set up franchises in China and Indonesia); earlier Crédit Agricole CIB, incl. COO South-East Asia and Taiwan and CIO Asia-Pacific (global markets). 25+ years in banking, fintech and corporate development (S10).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as CEO on the official About page, checked 2026-10-12 (S2); quoted as CEO in the 25 Aug 2026 release (S19) and signed the CGR 2025 CEO message (S4). No departure news found in Zand's newsroom.",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S10",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Ali Rashed Alabbar",
+      "name_ar": null,
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2021",
+      "appointed_note": "Named Chairman in the 12 Apr 2021 launch announcement (S11); board re-elected for a three-year term from 9 Jun 2025 (S4).",
+      "previous_roles": "Founder and Managing Director, Emaar Properties; Founder and Chairman, Eagle Hills; founder of noon.com; Chairman, Americana Group (S4). Named as a Zand shareholder (S8).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S2); CGR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S8",
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Al Shaiba Saleh Ghannam Almazrouei",
+      "name_ar": null,
+      "title": "Vice Chairman of the Board",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2022-07",
+      "appointed_note": "On the first board announced 1 Jul 2022, representing Al Hail Holding (S8).",
+      "previous_roles": "CEO, Medad Technology; COO, Medad Holding and Al Hail Holding; board member, Transguard Group; Vice Chairman, Index Exchange (S4).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S2); CGR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hamad Jassim Aldarwish Fakhroo",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2022-07",
+      "appointed_note": "Represents Al Hail Holding LLC and Global Development Group (2022 release, S8).",
+      "previous_roles": "Founder and CEO, Al Hail Holding; Co-founder and CEO, Medad Holding; Chairman of Index Exchange, Sama Finance and Samaa Finance; board member, Transguard and CBRE Middle East (S4).",
+      "education": "Bachelor of Commerce (Accounting and Information Systems), United Arab Emirates University (S4)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S2); CGR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Gregory Eugene Johnson",
+      "name_ar": null,
+      "title": "Board member (Executive Chairman, Franklin Resources, Inc.)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2022-07",
+      "appointed_note": "Represents Franklin Templeton (2022 release, S8).",
+      "previous_roles": "Executive Chairman of Franklin Resources (Franklin Templeton) (S4, S8).",
+      "education": null,
+      "qualifications": "CPA (S4)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S2); CGR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sushil Agarwal",
+      "name_ar": null,
+      "title": "Board member (Group CFO, Aditya Birla Group)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2022-07",
+      "appointed_note": "Represents Solfrid Investments Pte. Ltd. (2022 release, S8).",
+      "previous_roles": "Group CFO and Director, Aditya Birla Group (S4).",
+      "education": null,
+      "qualifications": "Chartered Accountant (S4)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S2); CGR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yusuffali Musaliam Veettil Abdul Kader (Yusuff Ali M.A.)",
+      "name_ar": null,
+      "title": "Board member (Chairman, LuLu Group International)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2022-07",
+      "appointed_note": "Named as a shareholder in the 2022 board release (S8).",
+      "previous_roles": "Chairman, LuLu Group International (S4).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page ('Yusuff Ali'), checked 2026-10-12 (S2); CGR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Adnan Abdulfattah Kazim Abdulfattah",
+      "name_ar": null,
+      "title": "Board member (independent per 2022 release)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2022-07",
+      "appointed_note": "",
+      "previous_roles": "Deputy President and Chief Commercial Officer, Emirates; Chairman, Emaar Development PJSC; director, Transguard Group (S4).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S2); CGR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Raja Mohammed Ghanim Saeed Almazrouei",
+      "name_ar": null,
+      "title": "Board member; Chair of the Board Nomination and Compensation Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2022-07",
+      "appointed_note": "Independent director per 2022 release (S8).",
+      "previous_roles": "CEO, Etihad Credit Insurance; former EVP, DIFC FinTech Hive; board roles at National Cement, Al Ansari Financial Services and Al Masraf (S4).",
+      "education": "MBA in Global Leadership and Management, United Arab Emirates University (S4)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S2); CGR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Talha S Alhashimi",
+      "name_ar": null,
+      "title": "Board member (independent per 2022 release)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Zand Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2022-07",
+      "appointed_note": "",
+      "previous_roles": "CEO and co-founder, HWH Hospitality Investments; Managing Director and founder, BluRock Group (S4).",
+      "education": "Executive MBA, University of Chicago Booth School of Business; Bachelor's in Finance, University of Denver (S4)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S2); CGR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Zand is a corporate- and digital-asset-focused digital bank that has added a wealth arm, ZandWealth, described as 'wealth management and personal banking designed for professional investors'. The page lists investment funds, equities, bonds, structured products, alternatives (which 'may include private market strategies, multi-strategy hedge funds'), digital-asset investments and bespoke portfolio management, plus in-app portfolio view and VARA-licensed digital-asset custody. Its enquiry form bands clients by net assets (below AED 2m, AED 2–4m, AED 4–10m, above AED 10m). The 2024 CEO letter set 'launching our wealth and asset management services' as a 2025 goal, and the 2025 org chart includes a Head of Wealth & AM. No launch date, product providers, custodians or client numbers for ZandWealth are published.",
+    "segments": [
+      {
+        "name": "ZandWealth",
+        "tier": "HNW / professional investors",
+        "eligibility": "'Professional investors'; enquiry form asks for net assets excluding main residence in bands: below AED 2m, AED 2–4m, AED 4–10m, above AED 10m",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "ZandWealth offers 'wealth management and personal banking' for professional investors with bespoke portfolio management and an enquiry-led onboarding; no named relationship-manager model or thresholds beyond the form bands.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "asset_management": {
+      "present": "Unclear",
+      "detail": "The 2025 org chart has a 'Head of Wealth & AM' and the 2024 CEO letter targeted launching wealth and asset management services; no Zand-managed funds or AUM found.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "ZandWealth lists access to listed equities ('regional and global growth themes') and bonds; execution venue, broker and markets not named. Wealth management is licensed by SCA / Capital Market Authority.",
+      "source_ids": [
+        "S3",
+        "S2"
+      ]
+    },
+    "digital_investing": {
+      "present": "Unclear",
+      "detail": "The Zand app lets clients 'view and manage your investments' and monitor portfolios in real time, and hold digital assets in custody; self-directed in-app trading is not described.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "'Tailored investment strategies and portfolio solutions designed around your financial goals, risk appetite, and investment preferences'.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "'Bespoke portfolio management' listed under ZandWealth; mandate type not specified.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No model or robo portfolios on the ZandWealth page.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "'A broad selection of professionally managed funds across asset classes, sectors, and regions'; fund platform or managers not named (Franklin Templeton is a shareholder but is not named as a fund provider).",
+      "source_ids": [
+        "S3",
+        "S8"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Listed on ZandWealth: 'tailored investment solutions designed to meet specific market views'; issuers not named.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "'Alternative Investments' category that 'may include private market strategies, multi-strategy hedge funds and other non-traditional asset classes'; no product or manager named. Separately, Zand provides custody/banking for Tokinvest's tokenised real-world assets (Apr 2025).",
+      "source_ids": [
+        "S3",
+        "S20"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "Conventional bank; no Shariah-compliant investment offering found on zand.ae.",
+      "source_ids": [
+        "S3",
+        "S2"
+      ]
+    },
+    "asset_classes": [
+      "Equities (regional and global, per ZandWealth page)",
+      "Mutual funds",
+      "Bonds",
+      "Structured products",
+      "Private markets / alternatives",
+      "Crypto / digital assets"
+    ],
+    "partners": [
+      {
+        "partner": "Taurus SA",
+        "kind": "Digital-asset custody and tokenisation technology",
+        "what": "Taurus-PROTECT custody (on-premise in UAE), Taurus-CAPITAL tokenisation, Taurus-EXPLORER node infrastructure",
+        "date": "2024-07-02",
+        "status": "Live",
+        "source_ids": [
+          "S15",
+          "S14"
+        ]
+      },
+      {
+        "partner": "Infosys Finacle",
+        "kind": "Core banking technology",
+        "what": "Cloud-native modular core banking on Microsoft Azure for corporate banking",
+        "date": "2024-04-03",
+        "status": "Live",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "partner": "Ripple",
+        "kind": "Stablecoin / blockchain",
+        "what": "Exploring AEDZ issuance on XRP Ledger, RLUSD support in Zand custody and AEDZ–RLUSD liquidity (subject to approvals)",
+        "date": "2026-02-10",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "partner": "Circle (USDC)",
+        "kind": "Stablecoin",
+        "what": "Plans to support USDC for payments, settlement, treasury, trading and cross-border transactions",
+        "date": "2026-08-25",
+        "status": "Announced",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "partner": "Tokinvest",
+        "kind": "Tokenised investing platform",
+        "what": "Zand provides regulated custody and banking across the tokenised real-world-asset lifecycle",
+        "date": "2025-04-30",
+        "status": "Announced",
+        "source_ids": [
+          "S20"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-12-20",
+        "what": "Zand's shareholders completed acquisition of a majority of Dubai Bank PJSC as part of the establishment roadmap",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "date": "2022-06-30",
+        "what": "CBUAE licence received; corporate banking launched first",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2022-11-18",
+        "what": "Michael Chan named CEO after co-founder CEO Olivier Crespin left",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "date": "2024-12-13",
+        "what": "Launched VARA-licensed institutional digital-asset custody",
+        "source_ids": [
+          "S14",
+          "S1"
+        ]
+      },
+      {
+        "date": "2024-12-20",
+        "what": "General assembly approved merger with Eradah Capital LLC, a wholly owned subsidiary and a Zand Group holding structure; 2024 CEO letter set the 2025 goal of launching wealth and asset management services",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025-06-18",
+        "what": "Fitch assigned BBB+ long-term IDR, Stable outlook",
+        "source_ids": [
+          "S4",
+          "S13"
+        ]
+      },
+      {
+        "date": "2025-09-30",
+        "what": "Existing shareholders injected AED 250m additional share capital (second tranche)",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025-11-17",
+        "what": "CBUAE approval and launch of AED-backed stablecoin (Zand AED) issued by Zand Trust on public blockchains",
+        "source_ids": [
+          "S17",
+          "S4"
+        ]
+      },
+      {
+        "date": "2025-12-26",
+        "what": "Merger with Eradah Capital LLC completed; paid-up capital AED 2.35bn",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-08-25",
+        "what": "Announced USDC support with Circle",
+        "source_ids": [
+          "S19"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "ZandWealth lists funds, structured products, alternatives/private markets, bonds, equities and digital assets for professional investors, but names no product providers, platforms or managers (S3).",
+        "Wealth and asset management is a stated build-out: 2025 goal in the 2024 CEO letter; Head of Wealth & AM in the 2025 org chart (S5, S4).",
+        "Positions itself as a bridge between traditional and digital finance, with VARA custody and tokenisation already live (S3, S14, S15)."
+      ],
+      "barriers": [
+        "Small balance sheet and young franchise: deposits just over AED 5bn and net profit AED 34m in 2025 (S4).",
+        "Main franchise is corporate, GRE and digital-asset banking; no retail investing app or client numbers published (S2, S4).",
+        "Franklin Templeton is a shareholder with a board seat, which may shape fund-shelf choices (S8).",
+        "No financial statements or Pillar 3 disclosures published online, which limits due diligence (S22)."
+      ],
+      "incumbent_vendors": [
+        "Infosys Finacle — core banking (S16)",
+        "Taurus — digital-asset custody and tokenisation (S15)",
+        "Ripple — stablecoin and custody exploration (S18)",
+        "Circle — USDC support (S19)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Zand homepage (navigation and regulatory footer)",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "About Us (board, CEO, licences)",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/about-us",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "ZandWealth (wealth management product page and enquiry form)",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/products/zand-wealth",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Zand Corporate Governance Report 2025",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/site-assets/files/governance-report-2025.pdf",
+      "doc_type": "Corporate governance report",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Zand Bank P.J.S.C – Corporate Governance Report 2024",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/site-assets/files/governance-report-2024.pdf",
+      "doc_type": "Corporate governance report",
+      "tier": 1,
+      "published": "2025",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Corporate Governance Report page (document list)",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/corporate-governance-report",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Newsroom (47 items, Apr 2021–Aug 2026)",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news",
+      "doc_type": "Official press page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Zand announces Board of Directors",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-announces-board-of-directors",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2022-07-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Zand gets CBUAE licence and onboards its first customers",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-gets-cbuae-licence-and-onboards-its-first-customers",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2022-07-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Zand announces leadership change",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-announces-executive-leadership-change",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2022-11-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Zand - New Digital Bank to Launch in UAE",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-to-launch-from-the-uae",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2021-04-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Shareholders Complete Acquisition of Dubai Bank",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/dubai-bank-acquisition",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2021-12-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Fitch rates Zand at investment grade BBB+ Outlook Stable",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/fitch-rates-zand-at-investment-grade-bbb-outlook-stable",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-06-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Zand Revolutionizes UAE Banking with Institutional-Grade Digital Asset Custody",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-revolutionizes-uae-banking-with-institutional-grade-digital-asset-custody",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-12-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Zand Bank & Taurus Signs Partnership for Digital Assets",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-and-taurus-sign-strategic-partnership",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-07-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Zand Bank Partners with Infosys Finacle",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-bank-partners-with-infosys-finacle",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-04-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Zand Launches UAE's First AED-Backed Stablecoin on Public Blockchain",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-launches-uaes-first-aed-backed-stablecoin-on-public-blockchain",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-11-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Zand and Ripple in strategic partnership to power digital economy with stablecoin and blockchain innovations",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-and-ripple-in-strategic-partnership-to-power-digital-economy-with-stablecoin-and-blockchain-innovations",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-02-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Zand Expands Stablecoin Access and Adoption in Global Markets with USDC",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/zand-expands-stablecoin-access-and-adoption-in-global-markets-with-usdc",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-08-25",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Tokinvest & Zand Bank Partner to Unlock the Future of Tokenised Investing in Dubai",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/tokinvest-and-zand-bank-partner-to-unlock-the-future-of-tokenised-investing-in-dubai",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-04-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Zand's CEO Michael Chan Honored as a Top CEO in Blockchain & Digital Assets",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/en/news/michael-chan-recognized-among-top-20-performing-ceos",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-05-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "zand.ae sitemap",
+      "publisher": "Zand Bank",
+      "url": "https://www.zand.ae/sitemap.xml",
+      "doc_type": "Official website sitemap",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Wealth regulator name",
+      "detail": "About page cites the Securities and Commodities Authority (SCA) for wealth management; the ZandWealth page cites the 'Capital Market Authority'.",
+      "resolution": "Treated as the same federal regulator after its 2026 renaming (as noted in other UAE governance reports); licence number not found.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "field": "Stablecoin name",
+      "detail": "'Zand AED' (Nov 2025 release), 'AEDZ' (Feb 2026 Ripple release) and 'Zand Dirham stablecoin' (Aug 2026).",
+      "resolution": "Same product; names recorded as used.",
+      "source_ids": [
+        "S17",
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "field": "Breakeven timing",
+      "detail": "May 2025 release: breakeven within 22 months of the CEO's appointment with revenue up 2.4x; CGR 2025: 16 consecutive months of profitability by end-2025 and FY2025 net profit AED 34m.",
+      "resolution": "Consistent (monthly breakeven around Sep 2024); recorded the FY2025 figure.",
+      "source_ids": [
+        "S21",
+        "S4"
+      ]
+    }
+  ],
+  "open_items": [
+    "B07 web-search budget was exhausted before Zand research, so only official zand.ae pages were used: no news search for 2025–2026 executive appointments/departures, no LinkedIn checks, and no third-party coverage of ZandWealth.",
+    "Lead not verified: 'Zand Wealth app live for HNW clients around Jun 2026'. The ZandWealth page exists and describes the offer and app, but no launch date or announcement was found in the newsroom (which has no wealth items).",
+    "Zand publishes no financial statements or Pillar 3 disclosures on zand.ae (sitemap checked). Total assets, loans and audited figures need another source (e.g. Fitch rating report, CBUAE).",
+    "Shareholding percentages and the identity of the 'Abu Dhabi ruling family-owned investment arm' are not disclosed; nature of related entity Eradah Capital LLC not found.",
+    "Executive team below CEO is not named in any official source opened (CGR 2025 org chart shows roles only, incl. Head of Wealth & AM, Chief Digital Officer, Head of Data, AI & Innovation, Acting Chief Business Officer).",
+    "SCA/CMA licence number and scope for wealth management not checked on the regulator's register.",
+    "Whether the Zand Group holding company approved in Dec 2024 has been established is unknown."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B07",
+  "checked": "2026-10-12"
+}

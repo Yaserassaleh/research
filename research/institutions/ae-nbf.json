@@ -1,0 +1,1052 @@
+{
+  "id": "ae-nbf",
+  "name": "National Bank of Fujairah",
+  "short_name": "NBF",
+  "legal_name": "National Bank of Fujairah PJSC",
+  "name_ar": "بنك الفجيرة الوطني",
+  "country": "AE",
+  "hq_city": "Fujairah (registered office P.O. Box 2979, Dubai; head office Fujairah)",
+  "website": "https://nbf.ae",
+  "linkedin_company": "https://ae.linkedin.com/company/national-bank-of-fujairah",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1982 (incorporated); CBUAE banking licence 29 Aug 1984; operations from 20 Sep 1984; listed on ADX 23 Oct 2005",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "NBF",
+  "parent_id": null,
+  "ownership_summary": "Listed on ADX. At 30 Jun 2026 the Department of Industry and Economy – Government of Fujairah held 57.87%, Easa Saleh Al Gurg LLC 18.54% and Fujairah Investment Company 5.04%; the Bank is controlled by the Government of Fujairah by majority of voting rights.",
+  "shareholders": [
+    {
+      "holder": "Department of Industry and Economy – Government of Fujairah",
+      "pct": 57.87,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "holder": "Easa Saleh Al Gurg LLC",
+      "pct": 18.54,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "holder": "Fujairah Investment Company",
+      "pct": 5.04,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "government_link": "Yes — Government of Fujairah (Department of Industry and Economy) holds 57.87% and controls the Bank (30 Jun 2026).",
+  "group_structure": "Commercial bank with an Islamic window (NBF Islamic). Two wholly owned support subsidiaries: NBF Financial Services FZC (Fujairah Free Zone, support services) and NBF Markets (Cayman) Limited (vehicle for FX and derivative transactions with counterparties under ISDA). No asset-management or brokerage subsidiary.",
+  "subsidiaries": [
+    {
+      "name": "NBF Financial Services FZC",
+      "pct": 100.0,
+      "activity": "Support services to the Bank (Fujairah Free Trade Zone, est. 2004)",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "NBF Markets (Cayman) Limited",
+      "pct": 100.0,
+      "activity": "FX and derivative transactions with financial institutions/counterparties under ISDA (est. 2017)",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "footprint": "UAE only: 15 branches in Fujairah, Abu Dhabi, Dubai, Sharjah and Ras Al Khaimah (30 Jun 2026); network also includes 74 independent ATMs and CDMs (2025 annual report).",
+  "customer_segments": "Corporate and institutional, business banking (SME to mid-market), treasury clients; retail with tiered propositions NBF Preferred, NBF Priority and NBF Al Samy (HNW, net worth 1m+); Islamic customers via NBF Islamic. Stated focus: 'UAE-wide premium bank for SMEs to mid-market businesses ... and affluent to high-net-worth individual segments'.",
+  "business_lines": "Corporate & institutional banking, business banking, treasury and markets (NBF Markets, NBFX e-FX platforms), trade finance, retail banking (accounts, cards, loans, insurance, investment solutions), NBF Islamic window. Retail is small: H1 2026 retail operating income AED 105.7m of AED 1,381m total.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 71177894,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated interim statement of financial position",
+      "status": "Verified",
+      "locator": "S1 p.3 (PDF p.5)",
+      "note": "Reviewed, unaudited. Press release: AED 71.2bn (rounded). 31 Dec 2025 audited: AED 69,373,888 thousand.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 51707850,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer deposits and Islamic customer deposits' (demand/margin, saving, fixed term and notice; excludes due to banks AED 2,082,101 thousand and repos)",
+      "status": "Verified",
+      "locator": "S1 p.3 and note 12",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 36141128,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and advances and Islamic financing receivables', net of ECL allowance",
+      "status": "Verified",
+      "locator": "S1 p.3 and note 8.1",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 38433756,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Gross loans and advances and Islamic financing receivables (before ECL of AED 2,292,628 thousand)",
+      "status": "Verified",
+      "locator": "S1 note 8.1",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 7855472,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity attributable to equity holders of the Group (no non-controlling interests)",
+      "status": "Verified",
+      "locator": "S1 p.3",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 2662115,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income' (net interest and Islamic income, net fees, FX/derivatives, investment and other income)",
+      "status": "Verified",
+      "locator": "S3 consolidated statement of income (PDF p.14)",
+      "note": "",
+      "source_ids": [
+        "S3",
+        "S16"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 1205165,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year after tax (entirely attributable to equity holders; no NCI)",
+      "status": "Verified",
+      "locator": "S3 PDF p.14",
+      "note": "",
+      "source_ids": [
+        "S3",
+        "S16"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 1381204,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income', six months to 30 Jun 2026",
+      "status": "Verified",
+      "locator": "S1 p.4 (PDF p.6)",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 688899,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period after tax (no NCI)",
+      "status": "Verified",
+      "locator": "S1 p.4 (PDF p.6)",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 48000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025 (annual report)",
+      "period_type": "point_in_time",
+      "scope": "Bank, all segments (not split)",
+      "definition": "'Customers' key figure; not stated whether active or retail only",
+      "status": "Verified",
+      "locator": "S4 p.7 (Key performance metrics)",
+      "note": "Rounded company figure.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 878,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Employees ('878 employees representing 38 nationalities')",
+      "status": "Verified",
+      "locator": "S4 p.14",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 15,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (UAE)",
+      "definition": "Branches",
+      "status": "Verified",
+      "locator": "S1 note 1",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "H1 2026 FS and MD&A (S1, S19), FY2025 FS (S3), Annual Report 2025 (S4), investment pages (S8, S9). No AUM, fiduciary or custody assets figure found."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "S4, S19, Priority/Al Samy pages (S10, S12)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "S4, S8, S9; no digital investing channel found."
+    }
+  ],
+  "people": [
+    {
+      "name": "Sheikh Saleh Bin Mohamed Bin Hamad Al Sharqi",
+      "name_ar": null,
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "National Bank of Fujairah PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Chairman of the Department of Industry & Economy, Fujairah Port Authority, Fujairah Petroleum Company and Fujairah National Group (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page (S7); annual report 2025 (S4). Checked 2026-10-12.",
+      "source_ids": [
+        "S7",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Raja Easa Al Gurg",
+      "name_ar": null,
+      "title": "Deputy Chairperson",
+      "functions": [
+        "Board"
+      ],
+      "entity": "National Bank of Fujairah PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Chairperson and Managing Director of Easa Saleh Al Gurg Group; first Emirati woman on the board of HSBC Bank Middle East; advisory board of Coutts (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page (S7); quoted as Deputy Chairperson in H1 2026 results release (S2). Checked 2026-10-12.",
+      "source_ids": [
+        "S7",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Adnan Anwar",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "National Bank of Fujairah PJSC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2024-10-01",
+      "appointed_note": "Previously Deputy CEO (2020–2024) and CFO (2005–2020) of NBF.",
+      "previous_roles": "2024– CEO NBF; 2020–2024 Deputy CEO NBF; 2005–2020 CFO NBF; 2005 Standard Chartered (Senior Manager, Consumer Business Finance); 2002–2005 Saudi Orix Leasing (Manager Finance & Treasury); 1997–2002 Taseer Hadi Khalid & Co (annual report).",
+      "education": "Executive MBA, London Business School; BCom, University of Karachi",
+      "qualifications": "Institute of Chartered Accountants of Pakistan; ACCA",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Annual report 2025 senior management table (appointed Oct 2024) (S4 p.22–23); official management committees page (S6); signed H1 2026 statements as CEO (S1); quoted as CEO 30 Jul 2026 (S2). Checked 2026-10-12.",
+      "source_ids": [
+        "S4",
+        "S6",
+        "S1",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Brian Martin Mulholland",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "National Bank of Fujairah PJSC",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2022-07-18",
+      "appointed_note": "",
+      "previous_roles": "2017–2022 CFO Redwood Bank; 2014–2016 Finance Director, Coutts & Co / Adam & Company; 2010–2014 RBS (Global Head of Capital Planning, CAO); 2004–2010 Dunfermline Building Society (annual report).",
+      "education": "BA (Hons) Accounting and Management Control, Sheffield Hallam University (1997); Postgraduate Diploma, FT Non-Executive Director Programme",
+      "qualifications": "ACCA",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Annual report 2025 (S4); management committees page (S6); co-signed H1 2026 statements (S1). Checked 2026-10-12.",
+      "source_ids": [
+        "S4",
+        "S6",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Daniel Lima",
+      "name_ar": null,
+      "title": "Chief Risk Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "National Bank of Fujairah PJSC",
+      "business_unit": "Risk",
+      "scope": "Group",
+      "appointed": "2024-08-05",
+      "appointed_note": "",
+      "previous_roles": "HSBC Group: CRO and Chairman of HSBC Saudi Arabia Funds Board; CRO UAE; Deputy Head Global Audit MENA; COO Uruguay (annual report).",
+      "education": "MSc Chemistry (Hons), King's College London",
+      "qualifications": "FCA (ICAEW)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Annual report 2025 (S4); management committees page (S6). Checked 2026-10-12.",
+      "source_ids": [
+        "S4",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sharif Mohd. Rafei",
+      "name_ar": null,
+      "title": "Head of Retail Banking and Senior Executive, Fujairah Region",
+      "functions": [
+        "Retail",
+        "Affluent"
+      ],
+      "entity": "National Bank of Fujairah PJSC",
+      "business_unit": "Retail Banking (incl. Preferred, Priority, Al Samy)",
+      "scope": "Group",
+      "appointed": "2022-11-01",
+      "appointed_note": "",
+      "previous_roles": "At NBF since 1994 (Branch Manager, Regional Manager, Head of Retail and SEO); ADCB Branch Manager; FCI Fujairah (annual report).",
+      "education": "BA, California State University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Management committees page (S6); annual report 2025 (S4); quoted as Head of Retail Banking on Al Samy launch, Jul 2025 (S12). No separate head of wealth or investments is named. Checked 2026-10-12.",
+      "source_ids": [
+        "S6",
+        "S4",
+        "S12"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Al Ameeri",
+      "name_ar": null,
+      "title": "Chief Human Resources Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "National Bank of Fujairah PJSC",
+      "business_unit": "Human Resources",
+      "scope": "Group",
+      "appointed": "2025-07-14",
+      "appointed_note": "Appointment announced 11 Aug 2025.",
+      "previous_roles": "Ruya Bank (SVP HR, 2024–2025); Miral Experiences; Al Futtaim Group; Commercial Bank International; First Gulf Bank (annual report).",
+      "education": "Master's in Strategic HR, University of Wollongong; Master's in Business Psychology, Heriot-Watt University",
+      "qualifications": "Certified Human Resource Manager (ACI)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management committees page (S6); annual report 2025 (S4); quoted on Accenture LearnVantage AI upskilling programme, Jul 2026 (S13). Checked 2026-10-12.",
+      "source_ids": [
+        "S6",
+        "S4",
+        "S17",
+        "S13"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mandeep Vohra",
+      "name_ar": null,
+      "title": "Head of Credit",
+      "functions": [
+        "Other"
+      ],
+      "entity": "National Bank of Fujairah PJSC",
+      "business_unit": "Credit",
+      "scope": "Group",
+      "appointed": "2025-06-30",
+      "appointed_note": "",
+      "previous_roles": "Standard Chartered Bank roles 1996–2015 in Dubai, Singapore and India incl. Head of Risk – SME Banking AME&P (annual report).",
+      "education": "Master of Management Studies (Finance), Jamnalal Bajaj Institute; B.Tech Electronics Engineering, IIT",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management committees page (S6); annual report 2025 (S4). Checked 2026-10-12.",
+      "source_ids": [
+        "S6",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "NBF is mainly a corporate and SME bank (retail was AED 105.7m of AED 1.38bn operating income in H1 2026), but its 2025 annual report names 'affluent to high-net-worth individual segments' as a strategic focus and says a digital wealth management platform will be implemented in 2026 (vendor not named). Retail tiers are NBF Preferred (salary AED 10k or AED 100k–350k balance), NBF Priority (salary 40k, 350k in deposits and/or investments, or mortgage above 2.5m; dedicated RM) and NBF Al Samy for net worth of 1m+ (promoted in a Jul 2025 campaign). Investment Solutions are RM-led: execution services (bonds, equity and fixed-income mutual funds, ETFs), non-discretionary advisory strategies and discretionary managed model portfolios built from third-party managers. No in-app investing, own funds, structured products for individuals or Islamic investment products were found. No AUM is disclosed.",
+    "segments": [
+      {
+        "name": "NBF Preferred",
+        "tier": "Mass affluent",
+        "eligibility": "Minimum salary AED 10,000, or average balance AED 100,000–350,000 in deposits or equivalent, or mortgage up to AED 2.5m",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "name": "NBF Priority",
+        "tier": "Affluent",
+        "eligibility": "Monthly salary 40,000+, or average balance 350,000 in deposits and/or investments, or mortgage above 2.5m (currency not stated on page; AED implied)",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "name": "NBF Al Samy",
+        "tier": "HNW",
+        "eligibility": "Net worth of 1 million or more; Jul–Aug 2025 campaign required minimum average monthly balance of 1 million for three months",
+        "source_ids": [
+          "S12"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private-banking unit. HNW clients are served through NBF Al Samy (net worth 1m+) and Priority relationship managers; strategy targets 'affluent to high-net-worth individual segments' (2025 annual report).",
+      "source_ids": [
+        "S12",
+        "S10",
+        "S4"
+      ]
+    },
+    "asset_management": {
+      "present": "No",
+      "detail": "No asset-management subsidiary (only NBF Financial Services FZC and NBF Markets (Cayman) Ltd). Model portfolios use 'best-in-class asset managers' (third party).",
+      "source_ids": [
+        "S1",
+        "S9"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "RM-led 'Investment Execution Services' for bonds, equity and fixed-income mutual funds, ETFs and other securities. Website footer cites a Capital Markets Authority (CMA) licence no. 20200000222. No online or app brokerage found.",
+      "source_ids": [
+        "S9",
+        "S6"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "NBF Direct app (UAE Pass login, AI-enabled self-service) shows no investing features. The 2025 annual report states a digital wealth management platform will be implemented in 2026.",
+      "source_ids": [
+        "S4",
+        "S15"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Non-discretionary tailored multi-asset strategies proposed by the bank, with the client making final decisions; risk tolerance questionnaire and RM guidance.",
+      "source_ids": [
+        "S9",
+        "S8"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "'Discretionary Managed Model Portfolios' — multi-asset, globally diversified (equities, bonds, cash) through third-party asset managers, matched to risk profiles.",
+      "source_ids": [
+        "S9",
+        "S8"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Discretionary model portfolios by risk profile (RM-delivered, not robo). No digital/robo channel found.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Global equity and fixed-income mutual funds and ETFs offered via execution and advisory services; fund houses and platform provider not named.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    "structured_products": {
+      "present": "Unclear",
+      "detail": "Not listed among retail investment offerings. Treasury provides bespoke cross-asset derivative and market-risk solutions mainly to corporate clients (annual report).",
+      "source_ids": [
+        "S9",
+        "S4"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No private-markets or alternatives offering found.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "NBF Islamic window offers deposits and financing (Islamic financing AED 5.1bn, deposits AED 4.9bn at H1 2026) but no Shariah-compliant investment products were found on investment pages.",
+      "source_ids": [
+        "S19",
+        "S8"
+      ]
+    },
+    "asset_classes": [
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds"
+    ],
+    "partners": [
+      {
+        "partner": "Accenture LearnVantage (with Udacity)",
+        "kind": "Workforce training (AI/digital upskilling)",
+        "what": "Enterprise-wide AI, data, cloud and automation upskilling programme",
+        "date": "2026-07-08",
+        "status": "Live",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "partner": "GBM (Gulf Business Machines)",
+        "kind": "Core banking infrastructure implementation",
+        "what": "Award for Best Core Banking Infrastructure Implementation 'in collaboration with GBM' (MEA Finance 2026)",
+        "date": "2026-06-25",
+        "status": "Live",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "partner": "Finesse Global; Yubi; CyberKnight; Muller & Phipps; StorIT; Almoe Group",
+        "kind": "Fintech / technology ecosystem MoUs",
+        "what": "AI transformation MoU (Finesse), supply-chain finance (Yubi), cyber financing (CyberKnight) and channel-financing partnerships, Oct–Nov 2025",
+        "date": "2025-10",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S4",
+          "S18"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-02-28",
+        "what": "NBF Direct app integrated with UAE Pass (per media-centre listing); app upgraded with AI-powered self-service in 2025",
+        "source_ids": [
+          "S18",
+          "S4"
+        ]
+      },
+      {
+        "date": "2025-07-17",
+        "what": "NBF Al Samy HNW proposition promoted to new-to-bank clients with net worth 1m+",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Annual report 2025: 'The implementation of a digital wealth management platform in 2026 will be a welcome addition'; strategy adds affluent-to-HNW focus",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-06-25",
+        "what": "Three MEA Finance Banking Technology Awards 2026 incl. Best Core Banking Infrastructure Implementation (with GBM) and Best Cloud Implementation",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2026-07-08",
+        "what": "Enterprise AI upskilling programme with Accenture LearnVantage",
+        "source_ids": [
+          "S13"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Plans to implement a digital wealth management platform in 2026; vendor not disclosed (S4 p.12).",
+        "New strategic focus on 'affluent to high-net-worth individual segments' alongside SMEs (S4 p.14); Priority and Al Samy tiers exist but have no digital investing (S10, S12).",
+        "Offers discretionary model portfolios and advisory only through RMs; no in-app investing, private markets or Islamic investment products (S9, S8)."
+      ],
+      "barriers": [
+        "Small retail franchise: retail operating income AED 105.7m in H1 2026 (down 10.3%), about 48,000 customers in total (S19, S4).",
+        "Corporate/SME-led bank; technology spend focused on core banking, cloud and cyber (S14).",
+        "Islamic window has no investment shelf, so any Islamic wealth offering would start from zero (S19, S8)."
+      ],
+      "incumbent_vendors": [
+        "GBM — core banking infrastructure implementation (S14)",
+        "Accenture LearnVantage / Udacity — AI workforce training only (S13)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "National Bank of Fujairah PJSC — Condensed consolidated interim financial information, 30 June 2026",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/wp-content/uploads/2026/07/NBF-Consolidated-Financial-Statements-%E2%80%93-30-June-2026.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "National Bank of Fujairah PJSC (NBF) – H1 2026 Results",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/national-bank-of-fujairah-pjsc-nbf-h1-2026-results/",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "National Bank of Fujairah PJSC — Consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/wp-content/uploads/2026/08/NBF31DEC25-English.pdf",
+      "doc_type": "Audited annual financial statements",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "NBF Annual Report 2025 (incl. Directors' Report and Corporate Governance Report)",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/wp-content/uploads/2026/06/NBF-Annual-Report-2025-English.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Investor Relations — Financial Information",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/investor-relations/financial-information/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Management Committees",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/corporate-governance/management-committees/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Board of Directors",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/corporate-governance/board-of-directors/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Investment Solutions",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/investment-solutions/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Investment Offerings",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/personal/investment-solutions/investment-offerings/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "NBF Priority",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/nbf-priority/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "NBF Preferred",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/personal/personal-accounts-services/nbf-preferred/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "NBF Al Samy — where exclusivity meets reward",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/nbf-al-samy-where-exclusivity-meets-reward/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-07-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "National Bank of Fujairah Collaborates with Accenture LearnVantage to Advance an AI-Ready Workforce",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/national-bank-of-fujairah-collaborates-with-accenture-learnvantage-to-advance-an-ai-ready-workforce/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "National Bank of Fujairah takes home three MEA Finance Banking Technology Awards 2026",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/national-bank-of-fujairah-takes-home-three-mea-finance-banking-technology-awards-2026/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "National Bank of Fujairah wins in five categories at MEA Finance Banking Technology Awards 2025",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/national-bank-of-fujairah-wins-in-five-categories-at-mea-finance-banking-technology-awards-2025/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-05-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "National Bank of Fujairah PJSC (NBF) – 2025 Results",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/national-bank-of-fujairah-pjsc-nbf-2025-results/",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": "2026-01-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "NBF appoints Mohamed Al Ameeri as Chief Human Resources Officer",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/nbf-appoints-mohamed-al-ameeri-as-chief-human-resources-officer-4/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-08-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "NBF website posts listing (WordPress REST feed of media-centre posts, Sep 2024 – Oct 2026)",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/wp-json/wp/v2/posts?per_page=100&page=1&_fields=id,date,link,title",
+      "doc_type": "Official media-centre listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Management Discussion and Analysis — 30 June 2026",
+      "publisher": "National Bank of Fujairah",
+      "url": "https://nbf.ae/wp-content/uploads/2026/07/MDA-30JUN2026-ENG.pdf",
+      "doc_type": "MD&A (exchange disclosure)",
+      "tier": 1,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Chief executive (Adnan Anwar, Chief Executive Officer)",
+      "original_value": "Adnan Anwar — Chief Executive Officer; Verified current official role; evidence date 2026-10-07",
+      "finding": "Confirmed",
+      "new_value": "Adnan Anwar, CEO since 1 Oct 2024 (previously Deputy CEO 2020–2024 and CFO 2005–2020)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4",
+        "S6",
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "Chief executive — LinkedIn",
+      "original_value": "Not verified / not researched",
+      "finding": "Could not verify",
+      "new_value": "linkedin_url null; status 'Not verified' (web-search budget exhausted during this batch)",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Chief executive — source reference",
+      "original_value": "S071 (no source register in original)",
+      "finding": "Updated",
+      "new_value": "Replaced by S4, S6, S1, S2",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "field": "Total assets (30 Jun 2026)",
+      "original_value": "AED 71.2 billion, consolidated group, H1 2026 release",
+      "finding": "Confirmed",
+      "new_value": "AED 71,177,894 thousand (reviewed interim statement of financial position)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "Customer deposits (30 Jun 2026)",
+      "original_value": "AED 51.7 billion, consolidated group; 'deposits include Islamic customer deposits'",
+      "finding": "Confirmed",
+      "new_value": "AED 51,707,850 thousand, labelled 'Customer deposits and Islamic customer deposits'",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "Definition note on total assets row",
+      "original_value": "'H1 2026 release, 30 July; deposits include Islamic customer deposits.' (same note on both rows)",
+      "finding": "Corrected",
+      "new_value": "Total assets note now states source and rounding only; the Islamic-deposit note applies to deposits",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Source URL",
+      "original_value": "https://nbf.ae/national-bank-of-fujairah-pjsc-nbf-h1-2026-results/",
+      "finding": "Confirmed",
+      "new_value": "Opened 2026-10-12 (S2); exact figures taken from the H1 2026 financial statements (S1)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "field": "Banks sheet row",
+      "original_value": "null (NBF missing from the Banks sheet)",
+      "finding": "Updated",
+      "new_value": "Full institution profile created",
+      "materiality": "Material",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "Board size",
+      "detail": "Annual report 2025 says the Board has nine members (S4); the official board page lists eleven (Chairman, Deputy Chairperson and nine members incl. Dr. Abdulla Mohamed Al Khadeem and Mohamed Abdullah Sultan Al Salami) (S7).",
+      "resolution": "Unresolved; possibly a 2026 board change. Only Chair and Deputy Chair recorded as people.",
+      "source_ids": [
+        "S4",
+        "S7"
+      ]
+    },
+    {
+      "field": "Securities regulator name",
+      "detail": "Website footer cites a 'Capital Markets Authority (CMA)' licence 20200000222 (S6); protocol vocabulary uses SCA.",
+      "resolution": "Recorded 'SCA' in regulators and quoted the licence wording in brokerage detail.",
+      "source_ids": [
+        "S6"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead check — 'Accenture reported as integrator': not supported. The only Accenture link found is an AI/digital workforce-training programme with Accenture LearnVantage (Jul 2026). Core-banking infrastructure work was done 'in collaboration with GBM'. The core banking software vendor is not named.",
+    "Vendor for the planned 2026 digital wealth management platform not disclosed; check later releases.",
+    "Chief Operations & Technology Officer left in Aug 2025 (annual report remuneration table); no successor named on official pages. Head of Treasury (since Sep 2017) and Head of Islamic Banking are not named in sources opened.",
+    "LinkedIn profiles for CEO and Head of Retail not checked: the shared web-search budget was exhausted mid-batch.",
+    "NBF Priority currency for thresholds not printed on the page (AED implied). NBF Ertiqa and NBF Ajyal propositions not reviewed.",
+    "Direct HTTP requests to several nbf.ae pages (IR, Priority) returned a bot-protection page; WebFetch worked. Q3 2026 results not yet published at 12 Oct 2026."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B04",
+  "checked": "2026-10-12"
+}

@@ -1,0 +1,1261 @@
+{
+  "id": "sa-sab-invest",
+  "name": "SAB Invest",
+  "short_name": "SAB Invest",
+  "legal_name": "Alawwal Invest Company (SAB Invest), a one-person closed joint stock company",
+  "name_ar": "الأول للاستثمار",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://www.sabinvest.com",
+  "linkedin_company": "https://www.linkedin.com/company/alawwal-invest/",
+  "category": "Bank-owned investment subsidiary",
+  "type": "Asset & wealth manager",
+  "model": "Not applicable",
+  "founded": "2008 (CR 1010242378 dated 9 Jan 2008; CMA licence 07077-37 / resolution 1-39-2007 dated 22 Jul 2007; operations began 8 Apr 2008) as Alawwal Invest, the investment arm of Alawwal Bank. SAB Invest brand introduced 4 Apr 2023; the legal name remains Alawwal Invest Company.",
+  "regulators": [
+    "CMA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": "sa-sab",
+  "ownership_summary": "100% owned by Saudi Awwal Bank (SAB). Paid-up capital SAR 840m (84m shares of SAR 10) at 31 Dec 2025. Through SAB, HSBC Group has an indirect interest (HSBC holds 31% of SAB).",
+  "shareholders": [
+    {
+      "holder": "Saudi Awwal Bank",
+      "pct": 100.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4",
+        "S7"
+      ]
+    }
+  ],
+  "government_link": "None direct. Parent SAB's largest shareholders are HSBC Holdings B.V. (31%) and Olayan Saudi Investment Company (20.55%) (see sa-sab).",
+  "group_structure": "Wholly owned subsidiary of Saudi Awwal Bank (sa-sab). History: Alawwal Invest was Alawwal Bank's investment arm and became SAB's subsidiary after the 2019 SABB-Alawwal merger. In May 2021 it agreed to take over HSBC Saudi Arabia's asset management, retail brokerage and retail margin lending businesses and teams; the transfer completed at the end of 2022. HSBC Saudi Arabia itself was not renamed or absorbed: it remains a separate CMA-licensed investment bank, 51% HSBC Group and 49% SAB (associate). SAB Invest also manages the X-Tech VC fund that SAB consolidates. Double counting: SAB Invest is fully consolidated into SAB and drives SAB's 'Capital markets' segment; never add this record's figures to sa-sab.",
+  "subsidiaries": [],
+  "footprint": "Saudi Arabia. 6 investment centres (3 in the Central region incl. the Riyadh head office, Al Khobar and Al Ahsa in the Eastern region, Jeddah) per the website, checked 12 Oct 2026. Digital access for SAB and non-SAB customers and non-resident foreign investors; international trading via WorldTrader (50+ exchanges).",
+  "customer_segments": "Retail and affluent investors (including SAB Premier and Private Banking clients referred by SAB), HNW individuals and family offices, corporates and institutions (DPMs, outsourced CIO, Employee Thrift and Investment Plan), endowments, and non-resident foreign investors (digital onboarding launched 2025).",
+  "business_lines": "Asset management (conventional and Shariah mutual funds, multi-asset funds, DPMs, ETFs, real estate, private credit and VC funds); Global Investment Solutions (global funds, advisory, outsourced CIO); brokerage (Saudi, GCC and international equities, US options, margin lending, securities lending from 2026, ETF market making); wealth management (RM coverage, Employee Thrift and Investment Plan, Save+ savings plan). FY2025 revenue SAR 564.7m: asset management fees 250.3m, brokerage fees 48.3m, special commission income (mainly margin lending) 136.7m, income from clients' money 107.2m.",
+  "metrics": [
+    {
+      "metric": "aum",
+      "value": 34.18,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SAB Invest",
+      "definition": "'Assets under management': mutual funds' and discretionary portfolios' assets managed for investors; off balance sheet (audited FS note 22). Discretionary/non-discretionary split not stated.",
+      "status": "Verified",
+      "locator": "S4 note 22",
+      "note": "31 Dec 2024: SAR 35.04bn (-2.5%). Board report: SAR 34.2bn; parent AR: SAR 34,176m, of which SAR 3.4bn global products (GIS); 'Total AuM of SAR 30.7 bln' excludes GIS.",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "gis_global_products_aum",
+      "value": 3.4,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Global Investment Solutions",
+      "definition": "'Total assets under management across all global products surpassed SAR 3.4 billion'",
+      "status": "Verified",
+      "locator": "S5 GIS section (PDF p.13)",
+      "note": "Lower bound ('surpassed'). Included in total AUM. Global Credit Fund passed USD 200m AUM.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "assets_under_advisory",
+      "value": 2.9,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Global Investment Solutions advisory / OCIO",
+      "definition": "'Total assets under advisory surpassed SAR 2.9 billion as at December 2025'",
+      "status": "Verified",
+      "locator": "S5 GIS section (PDF p.13)",
+      "note": "Chairman's and CEO's messages round it to SAR 3bn, up from SAR 800m. Not AUM and not custody; not added to AUM.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 2803692,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SAB Invest (standalone)",
+      "definition": "Total assets, audited statement of financial position (PwC, report dated 18 Mar 2026)",
+      "status": "Verified",
+      "locator": "S4 p.4 (PDF p.6)",
+      "note": "Latest available. No 30 Jun 2026 interim statements published on the website (checked 12 Oct 2026). Board report five-year table prints 2,803,714 (see discrepancies).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 1417943,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SAB Invest (standalone)",
+      "definition": "Total shareholder's equity (share capital 840,000; retained earnings 575,293; other reserve 2,650)",
+      "status": "Verified",
+      "locator": "S4 p.4",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 564663,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SAB Invest (standalone)",
+      "definition": "'Total revenue': asset management fees 250,282; brokerage fee income 48,326; special commission income 136,707; income from clients' money 107,179; loss on FVSI investments (3,452); dividends 22,240; other 3,381",
+      "status": "Verified",
+      "locator": "S4 p.5 (PDF p.7)",
+      "note": "FY2024: 566,501 (-0.3%).",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 180171,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SAB Invest (standalone)",
+      "definition": "'Net income for the year' after zakat and income tax (27,500)",
+      "status": "Verified",
+      "locator": "S4 p.5",
+      "note": "FY2024: 203,848 (-11.6%).",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "metric": "asset_management_fees",
+      "value": 250282,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SAB Invest",
+      "definition": "Asset management fees (note 23): management fee from mutual funds 190,180 plus discretionary portfolio management and other fees",
+      "status": "Verified",
+      "locator": "S4 note 23",
+      "note": "FY2024: 233,018.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "brokerage_commission_income",
+      "value": 48326,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SAB Invest",
+      "definition": "'Brokerage fee income' (statement of comprehensive income)",
+      "status": "Verified",
+      "locator": "S4 p.5",
+      "note": "FY2024: 58,722 (-18%).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "margin_finance_receivables",
+      "value": 1649984,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SAB Invest",
+      "definition": "'Margin finance receivables, net'",
+      "status": "Verified",
+      "locator": "S4 p.4",
+      "note": "31 Dec 2024: 1,701,676.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "client_cash_accounts",
+      "value": 3.25,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SAB Invest",
+      "definition": "Clients' cash accounts held with SAB in a fiduciary capacity, off balance sheet (note 21)",
+      "status": "Verified",
+      "locator": "S4 note 21",
+      "note": "31 Dec 2024: SAR 3.93bn.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 7.11,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-04-30",
+      "period_label": "April 2025 (TASI)",
+      "period_type": "duration",
+      "scope": "SAB Invest brokerage, Saudi main market",
+      "definition": "Traded value in Argaam's monthly brokerage ranking: rank 12 of 33, 2.8% market share (Argaam notes its totals count both buy and sell sides)",
+      "status": "Verified",
+      "locator": "Ranking table",
+      "note": "Dated: latest ranking found. No 2026 ranking found; Saudi Exchange pages returned 403.",
+      "source_ids": [
+        "S25"
+      ]
+    },
+    {
+      "metric": "parent_segment_operating_income",
+      "value": 185237,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "SAB 'Capital markets' segment (proxy; not SAB Invest standalone)",
+      "definition": "Total operating income of the parent's Capital markets segment (net fees 109,340); net income before Zakat 43,944",
+      "status": "Verified",
+      "locator": "S7 note 17 p.26",
+      "note": "Only H1 2026 data point available. H1 2025: 204,932 (-10%).",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 6,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Website, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "SAB Invest",
+      "definition": "Investment centres listed on the website",
+      "status": "Verified",
+      "locator": "Investment Centers page",
+      "note": "",
+      "source_ids": [
+        "S15"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Board of Directors' Report 2025 (S5) gives only '+12.6%' active retail and institutional clients in 2025; FS 2025 (S4); website (S3, S8)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "Board report 2025 (S5); App Store listing (S11); parent AR 2025 (S6)"
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "Board report 2025 (S5; gives only 85% Saudisation and 28% female participation); FS 2025 (S4)"
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "FS 2025 (S4) and board report (S5) disclose AUM, assets under advisory and clients' cash, but no custody/administration total despite the custody licence"
+    },
+    {
+      "metric": "total_assets_30_jun_2026",
+      "status": "Not publicly disclosed",
+      "where_checked": "Financial Reports page (S16) lists FY2024 and FY2025 FS and annual reports only; latest Pillar 3 listed is 2021"
+    }
+  ],
+  "people": [
+    {
+      "name": "Khalid Al-Mulhem",
+      "name_ar": null,
+      "title": "Chairman of the Board (Independent)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Chairman at 31 Dec 2025 (S5) and on the official page in Oct 2026",
+      "previous_roles": "Other boards at 31 Dec 2025: Riyadh Cement, Qiddiyah West Company, MBC Media Group, Ugair Development Company (S5)",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); board report 2025 (S5)",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Omar Al-Hoshan",
+      "name_ar": null,
+      "title": "Vice Chairman - Independent Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Other boards at 31 Dec 2025: Abu Nayyan Holding, Saudi Investment Recycling Company, Pan Gulf Marketing, Water Solution Company; Omar Mohammed AlHoshan & Partners (CPAs and consulting) (S5)",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2)",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Almansour",
+      "name_ar": null,
+      "title": "Managing Director and CEO",
+      "functions": [
+        "CEO",
+        "Investments / asset management",
+        "Board"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Executive Management",
+      "scope": "Subsidiary",
+      "appointed": "2021-10",
+      "appointed_note": "CEO of Alawwal Invest effective October 2021 (S22); also a board member",
+      "previous_roles": "Raidah Investment Company (GOSI investment arm), restructuring Public Pension Agency investments; Head of Investment Management Advisory, Jadwa Investment; Head of Portfolio Management, Saudi Aramco; part of the team that set up the KAUST Endowment. Other boards: Masaraty Global, Najran Municipality Company, Budget Saudi (S5).",
+      "education": "Bachelor of Finance, University of North Carolina at Charlotte; MBA, KFUPM",
+      "qualifications": "CFA charterholder",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management and board pages checked 2026-10-12 (S1, S2); board report 2025 (S5); quoted in the Oct 2024 HSBC AM agreement (S19). No departure news found.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5",
+        "S19",
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Alsuwayied",
+      "name_ar": null,
+      "title": "Chief Wealth Management Officer",
+      "functions": [
+        "Wealth"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Wealth Management",
+      "scope": "Subsidiary",
+      "appointed": "2023-07",
+      "appointed_note": "Acting from January 2023; confirmed July 2023 (S5)",
+      "previous_roles": "Joined SABB in 2005 in local equities brokerage; SABB Securities and HSBC Saudi Arabia; head of Wealth Management, Eastern Province from 2016. 18 years in brokerage and wealth management.",
+      "education": "Business Administration degree, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page checked 2026-10-12 (S1); board report 2025 (S5). LinkedIn search returned no matching profile.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Majed Alqahtani",
+      "name_ar": null,
+      "title": "Chief Brokerage Officer",
+      "functions": [
+        "Brokerage"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Brokerage",
+      "scope": "Subsidiary",
+      "appointed": "2025-07",
+      "appointed_note": "Acting from July 2024; confirmed July 2025 (S5). Quoted as Chief Brokerage Officer in the 17 Jun 2026 securities lending release (S17).",
+      "previous_roles": "Head of Retail Brokerage Trading, SAB Invest; Head of Retail Equities, HSBC Saudi Arabia. Over 22 years in retail and institutional brokerage.",
+      "education": null,
+      "qualifications": "CFA Level I",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page checked 2026-10-12 (S1); press release 17 Jun 2026 (S17)",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Feras Alawadh",
+      "name_ar": null,
+      "title": "Chief Global Investment Solutions Officer",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Global Investment Solutions",
+      "scope": "Subsidiary",
+      "appointed": "2023-05",
+      "appointed_note": "Joined SAB Invest in May 2023 (S5)",
+      "previous_roles": "Head of International & Multi-Asset, Asset Management Division, SNB Capital; Senior Portfolio Manager (DPMs, corporate saving schemes, advisory); Sanabil Investments; buy-side research, Riyad Capital",
+      "education": "MBA (Finance), University of Newcastle, Australia",
+      "qualifications": "CAIA charterholder",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page checked 2026-10-12 (S1); quoted in the 12 Aug 2026 Global Select Equity Fund release (S18)",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sultan Alsharqi",
+      "name_ar": null,
+      "title": "Chief Investment Officer (Acting)",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Asset Management",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Not in the 2025 board report; appears on the official page after Osama Alowedi's reported departure (Aug 2026). Date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page checked 2026-10-12 (S1). No biography or announcement found.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Osama Alowedi",
+      "name_ar": null,
+      "title": "Chief Investment Officer (former)",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Asset Management",
+      "scope": "Subsidiary",
+      "appointed": "2022-03",
+      "appointed_note": "CIO from March 2022 (S5). EnterpriseAM reported on 3 Aug 2026, citing people familiar with the matter, that he left to set up a MENA public equity fund under a new firm, EQCM (S24).",
+      "previous_roles": "Co-founder, CEO and CIO, Value Capital Partners; Head of Investment Management, GIB Capital; SNB Capital; Samba Financial Group",
+      "education": "Dual MBA, Columbia Business School and London Business School",
+      "qualifications": "CFA charterholder",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "Not on the official management page checked 2026-10-12, which shows an acting CIO (S1); departure reported by EnterpriseAM (S24). No official announcement found.",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Tajammul",
+      "name_ar": null,
+      "title": "Chief Technology Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Information Technology",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Board report 2025 titles him Head of Information Technology; website now says Chief Technology Officer",
+      "previous_roles": "Joined Alawwal Bank in 1994 and helped establish its investment department; COO of the company 2012-2015; IT head from 2016",
+      "education": "Bachelor of Commerce; postgraduate qualification in Software Technology",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page checked 2026-10-12 (S1); board report 2025 (S5)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jean-Philippe Gariazzo",
+      "name_ar": null,
+      "title": "Chief Strategy and Transformation Officer",
+      "functions": [
+        "Strategy",
+        "Digital"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Strategy & Transformation",
+      "scope": "Subsidiary",
+      "appointed": "2021-02",
+      "appointed_note": "Head of Transformation Management Office from Feb 2021, in charge of the PMO and transformation linked to the HSBC Saudi Arabia acquisition (S5); now Chief Strategy and Transformation Officer (S1)",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Al-Faraj",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Operations",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "International dealer, Riyad Bank; joined Alawwal Bank 2004 (Head of International & GCC Brokerage); Deputy Head of Investment (international funds and fund of funds) and Head of Global Markets and Securities Services, Alawwal Invest",
+      "education": "Bachelor's in Industrial Management, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ayman Hashim Al Hassan",
+      "name_ar": null,
+      "title": "Chief Finance Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Finance",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Board report 2025 titles him Head of Finance",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bandar Al-Gheshayan",
+      "name_ar": null,
+      "title": "Board Member (Non-Executive); Chief Wealth & Personal Banking Officer of SAB",
+      "functions": [
+        "Board",
+        "Wealth"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Parent executive; see sa-sab",
+      "previous_roles": "See sa-sab",
+      "education": "Master's in International Management, University of Liverpool",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2)",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tony Cripps",
+      "name_ar": null,
+      "title": "Board Member (Non-Executive); MD & CEO of SAB",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Parent CEO; see sa-sab",
+      "previous_roles": "See sa-sab",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2)",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "SAB Invest is the trading name of Alawwal Invest Company, SAB's 100%-owned CMA licensee for dealing, managing, arranging, advising and custody. It was not formerly HSBC Saudi Arabia: it absorbed HSBC Saudi Arabia's asset management, retail brokerage and retail margin lending businesses at the end of 2022, while HSBC Saudi Arabia continues as a separate 49%-SAB-owned investment bank. AUM was SAR 34.18bn at end-2025 (SAR 35.04bn in 2024), with SAR 3.4bn in global products and about SAR 3bn of assets under advisory. FY2025 revenue was SAR 564.7m and net profit SAR 180.2m. 2025 was year three of a 17-initiative 5-year strategy (refreshed in Q4 2025 to run to 2030). In 2025 it replaced its asset-management core system, rolled out a CRM, launched the WorldTrader global brokerage platform and soft-launched a Digital Wealth app with 'MAL - Mustasharak Alawwal', model portfolios rebalanced by a robo engine, open to SAB and non-SAB customers and non-residents. 2026 plans include goal-based investing, AI tools for advisers and distribution through fintechs and digital wallets. In 2026 it added securities lending with J.P. Morgan (June) and a USD Shariah Global Select Equity Fund (August).",
+    "segments": [],
+    "private_banking": {
+      "present": "No",
+      "detail": "Private Banking is run by SAB (see sa-sab). SAB Invest's wealth management RMs serve SAB referrals (SAR 4.7bn in 2025 per SAB AR) and executed transactions with HSBC Private Banking in 2025.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "AUM SAR 34.18bn (31 Dec 2025). Range: conventional and Shariah equity, sukuk/fixed income, Murabaha and money market funds; multi-asset funds; DPMs; ETFs (SAB Invest Saudi Quant ETF, May 2025, adapted from an HSBC model; Hang Seng Hong Kong ETF, Oct 2024); real estate development funds (two exited in 2025 for about SAR 1.4bn; three new funds agreed with SAR 4.8bn combined value); private credit (Global Credit Fund >USD 200m; Tactical Credit Opportunities Fund Oct 2025; MENA multi-strategy private credit fund with SAR 350m initial); Shariah venture income fund with STV; Global Select Equity Fund (USD, from 3 Aug 2026). Seven fund awards in 2025 (Lipper, Sanadeeq).",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S18",
+        "S20"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Saudi (Tadawul) and GCC equities via SAB Invest RIA/NetPlus web, mobile apps, phone and branches; international via WorldTrader (50+ exchanges, US options, USD-only funding, no minimum; launched 2025; 'Trader Workstation (TWS)' desktop). Margin lending (receivables SAR 1.65bn). First ETF market maker on the Saudi Exchange. Securities lending with J.P. Morgan as agent from Jun 2026. April 2025 Argaam ranking: 12th, 2.8% share. Brokerage fee income fell 18% in 2025 to SAR 48.3m. 2026 plan: core brokerage system upgrade, securities borrowing and lending, WorldTrader margin, short selling and stock yield enhancement.",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S9",
+        "S13",
+        "S17",
+        "S25"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Apps: 'SAB Invest' (seller Alawwal Invest Company; first iOS release 31 Dec 2025; describes 'mutual fund investment all in one digital channel'), SAB Invest Trade, WorldTrader and WorldTrader Pro; web: SAB Invest Online (account opening and fund subscription without branch visit), SAB Invest Trade, WorldTrader. Board report: new Digital Wealth app with MAL robo/model portfolios, accessible to SAB and non-SAB customers and non-resident foreign investors via open banking; first fully digital non-resident onboarding journey in Saudi (2025).",
+      "source_ids": [
+        "S5",
+        "S8",
+        "S10",
+        "S11"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "CMA advising licence. Global Investment Solutions provides portfolio advisory and Outsourced CIO services for HNW and institutional clients; assets under advisory surpassed SAR 2.9bn at end-2025. 2026 plan: AI and analytics tools for front-line advisers (next best action).",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary Portfolio Management (DPMs) for HNW, affluent, corporate and institutional clients, customised per client; no published minimum. Management fees from DPMs are part of asset management fees (FS note 23). DPM AUM not separately disclosed.",
+      "source_ids": [
+        "S12",
+        "S4"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "'MAL - Mustasharak Alawwal' in the new Digital Wealth app: one-off or systematic investment into model portfolios managed by SAB Invest portfolio managers, automatically rebalanced to the chosen risk profile by a robo engine. Board report says the wealth platform was 'soft-launched' in 2025 with a robo-advisory risk-based journey as the initial release. The public App Store description mentions only mutual fund investment, so client-facing MAL availability is not confirmed on public pages.",
+      "source_ids": [
+        "S5",
+        "S11"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Distributes own funds via app, online, investment centres and SAB. No third-party fund shelf found. 2026 plan: distribute SAB Invest products through third parties such as fintechs and digital wallets; listing flagship funds with HSBC's booking centre to reach foreign investors.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    "structured_products": {
+      "present": "Unclear",
+      "detail": "The About page lists structured products among asset management capabilities (S3), but no structured product is published. 'Save+' is a recurring savings plan with returns described as 'up to 5%', not described as a structured product (S14).",
+      "source_ids": [
+        "S3",
+        "S14"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Real estate development funds (Riyadh office and mixed-use projects), regional and global private credit funds, venture income fund with STV supported by NTDP, X-Tech VC fund, and a partnership with Stride Ventures (Oct 2025, seen in search results only). First MENA private credit strategy for clients raised over SAR 350m in its first round.",
+      "source_ids": [
+        "S5",
+        "S7"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Shariah Committee; Shariah-compliant equity, sukuk and Murabaha, multi-asset and global credit funds; Saudi Quant ETF is Shariah-compliant; Global Select Equity Fund benchmarked to the S&P Global BMI Shariah index. Conventional products also offered.",
+      "source_ids": [
+        "S5",
+        "S18",
+        "S20"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Sukuk",
+      "Bonds",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "HSBC Asset Management",
+        "kind": "Product / manufacturing and distribution collaboration",
+        "what": "Collaboration agreement on expertise sharing, business development (HSBC AM clients accessing Saudi alternatives and EM) and product manufacturing; Saudi Quant ETF adapted from an HSBC model",
+        "date": "2024-10-14",
+        "status": "Live",
+        "source_ids": [
+          "S19",
+          "S20",
+          "S21"
+        ]
+      },
+      {
+        "partner": "Interactive Brokers (inferred)",
+        "kind": "Execution / platform technology",
+        "what": "WorldTrader login is hosted at clientam.com with partnerID=SAB_Invest and the desktop platform is called 'Trader Workstation (TWS)', IBKR's product name. No announcement naming the provider found.",
+        "date": "2025",
+        "status": "Unclear",
+        "source_ids": [
+          "S8",
+          "S9"
+        ]
+      },
+      {
+        "partner": "J.P. Morgan",
+        "kind": "Securities lending agent",
+        "what": "Agent for SAB Invest's securities lending on Saudi equities, to be extended to global assets",
+        "date": "2026-06-17",
+        "status": "Live",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "partner": "HSBC Saudi Arabia",
+        "kind": "Business transfer counterparty",
+        "what": "Transferred its asset management, retail brokerage and retail margin lending businesses and teams to Alawwal Invest (agreement May 2021, completed end-2022)",
+        "date": "2022-12",
+        "status": "Live",
+        "source_ids": [
+          "S23",
+          "S5"
+        ]
+      },
+      {
+        "partner": "STV",
+        "kind": "Product / co-manager",
+        "what": "Shariah-compliant venture income fund launched in collaboration with STV, supported by the National Technology Development Program",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S5"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2022-12",
+        "what": "Completed acquisition of HSBC Saudi Arabia's asset management and retail brokerage businesses; launched 5-year 17-initiative strategy",
+        "source_ids": [
+          "S5",
+          "S23"
+        ]
+      },
+      {
+        "date": "2023-04-04",
+        "what": "New SAB Invest brand and identity introduced (Arabic: الأول للاستثمار)",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Replaced legacy asset-management core system (registry, transfer agency, valuation, reporting); CRM rollout; Employee Thrift and Investment Plan platform; WorldTrader launched; Digital Wealth app with MAL robo/model portfolios soft-launched; digital non-resident onboarding",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025-05-07",
+        "what": "Launched SAB Invest Saudi Quant ETF, described as the first quantitative ETF on the Saudi Exchange",
+        "source_ids": [
+          "S20",
+          "S21"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Q4 2025 strategy refresh: new growth initiatives through 2030, including AI tools and new client segments (foreign investors)",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Plans: goal-based investing module, AI next-best-action tools for advisers, distribution via fintechs and digital wallets, open-banking onboarding for non-residents, brokerage core system upgrade",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2026-06-17",
+        "what": "Launched securities lending with J.P. Morgan as agent",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2026-08-12",
+        "what": "Launched the SAB Invest Global Select Equity Fund (open-ended, Shariah, USD; operations from 3 Aug 2026)",
+        "source_ids": [
+          "S18"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "2026 plan to distribute SAB Invest products through third parties 'such as fintech and digital wallets', enabled by the new back-end (S5)",
+        "2026 plan to add goal-based investing and AI next-best-action tools for front-line advisers (S5)",
+        "Robo/model-portfolio app only soft-launched in 2025; public app description still covers only mutual fund investment (S5, S11)",
+        "Fee pressure: brokerage fee income -18% in 2025 and parent Capital markets segment income -10% in H1 2026 (S4, S7)",
+        "Leadership gap at CIO: acting CIO since the reported Aug 2026 departure of Osama Alowedi (S1, S24)"
+      ],
+      "barriers": [
+        "Built its own Digital Wealth app, MAL robo engine and new asset-management core system in 2025 (S5)",
+        "Close ties to HSBC Group: HSBC Asset Management collaboration and HSBC booking-centre distribution; HSBC is a 31% shareholder of the parent (S19, S5)",
+        "Global brokerage already outsourced to an IBKR-style platform (WorldTrader/TWS), inferred (S9)"
+      ],
+      "incumbent_vendors": [
+        "Interactive Brokers (inferred from clientam.com login and 'Trader Workstation (TWS)'; not announced) (S8, S9)",
+        "J.P. Morgan, securities lending agent, Jun 2026 (S17)",
+        "HSBC Asset Management, product collaboration, Oct 2024 (S19)",
+        "Asset-management core system and CRM vendors not named in the board report (S5)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Management Team",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/about-us/management-team",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/about-us/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "About SAB Invest",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/about-us/about-sab-invest",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Alawwal Invest Company (SAB Invest) financial statements for the year ended 31 December 2025",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/content/fs_2025en(1).pdf",
+      "doc_type": "Audited financial statements (PwC; report dated 18 Mar 2026)",
+      "tier": 1,
+      "published": "2026-03-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "SAB Invest Board of Directors' Report 2025",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/content/annualreport_2025en(1).pdf",
+      "doc_type": "Annual report (board report)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "SAB Annual Report 2025 (Capital Markets and WPB sections)",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/content/dam/sabpws/files/reports-documents/en/category-reports/2025/other-reports/SAB%20Annual%20Report%202025%20English.pdf",
+      "doc_type": "Parent annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "SAB Interim Condensed Consolidated Financial Information, six months ended 30 June 2026",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/content/dam/sabpws/files/reports-documents/en/category-reports/2026/sab-fs-30-june-2026-english.pdf",
+      "doc_type": "Parent reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "SAB Invest homepage (platform logins, app links, brand note, LinkedIn link)",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/sab-invest",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "SAB Invest WorldTrader",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/sab-invest/brokerage/worldtrader",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Download our App",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/app",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "SAB Invest (App Store listing)",
+      "publisher": "Apple App Store (seller: Alawwal Invest Company)",
+      "url": "https://apps.apple.com/us/app/sab-invest/id6748745958",
+      "doc_type": "Official app listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "DPMs",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/sab-invest/asset-management/dpms",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "About Brokerage",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/sab-invest/brokerage/about-brokerage",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Save+",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/sab-invest/wealth-management/save",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Investment Centers",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/investment-centers",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Financial Reports",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/about-us/financial-reports",
+      "doc_type": "Official website (document list)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "SAB Invest Expands Securities Lending Capabilities (J.P. Morgan as agent)",
+      "publisher": "SAB Invest",
+      "url": "https://sabinvest.com/en/announcements/agent-for-saudi-and-global-equity-portfolio",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-06-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "SAB Invest Launches Global Select Equity Fund",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/announcements/sab-invest-gse-fund-press-reales",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-08-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "SAB Invest & HSBC Asset Management Sign Collaboration Agreement",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/announcements/hsbc-amd-collaboration",
+      "doc_type": "Press release (date taken from the announcements list, S21)",
+      "tier": 2,
+      "published": "2024-10-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "SAB Invest Launches Saudi Arabia's First Quantitative ETF",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/announcements/saudiquantetf",
+      "doc_type": "Press release (date taken from the announcements list, S21)",
+      "tier": 2,
+      "published": "2025-05-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Announcements",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/about-us/announcements",
+      "doc_type": "Official website (announcement list)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Ali Al Mansour Appointed as CEO of Alawwal Invest",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/announcements/ali-al-mansour-appointed-as-ceo",
+      "doc_type": "Press release (undated page; effective Oct 2021)",
+      "tier": 2,
+      "published": "2021",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Alawwal Invest enters into an agreement with HSBC Saudi Arabia",
+      "publisher": "Saudi Awwal Bank (SABB)",
+      "url": "https://www.sab.com/en/about-us/newsroom/news-year-2021/alawwal-invest-enters-into-an-agreement-with-hsbc-saudi-arabia",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2021-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Osama Alowedi walks out on SAB Invest's top investment seat",
+      "publisher": "EnterpriseAM",
+      "url": "https://enterpriseam.com/ksa/2026/08/03/osama-alowedi-walks-out-on-sab-invests-top-investment-seat/",
+      "doc_type": "News article (anonymous sources)",
+      "tier": 5,
+      "published": "2026-08-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Here's how top brokerages in Saudi fared in April",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1810555",
+      "doc_type": "News article (monthly brokerage ranking)",
+      "tier": 5,
+      "published": "2025-05-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "History (internal lead)",
+      "detail": "Internal notes said SAB Invest was 'formerly HSBC Saudi Arabia'. SAB's H1 2026 FS lists 'Alawwal Invest Company (SAB Invest)' as a 100% subsidiary and HSBC Saudi Arabia separately as a 49% associate. SAB Invest acquired only HSBC Saudi Arabia's asset management, retail brokerage and retail margin lending businesses (end-2022).",
+      "resolution": "Lead corrected: SAB Invest = renamed Alawwal Invest. HSBC Saudi Arabia still exists.",
+      "source_ids": [
+        "S7",
+        "S23",
+        "S5"
+      ]
+    },
+    {
+      "field": "Chief Investment Officer",
+      "detail": "Board report 2025 lists Osama Alowedi as CIO; the official page (Oct 2026) lists Sultan Alsharqi as CIO (Acting). EnterpriseAM (3 Aug 2026) reported Alowedi's departure citing unnamed sources.",
+      "resolution": "Alowedi recorded as Departed; acting CIO recorded from the official page.",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S24"
+      ]
+    },
+    {
+      "field": "Total assets 31 Dec 2025",
+      "detail": "Audited FS: SAR 2,803,692k. Board report five-year table: SAR 2,803,714k.",
+      "resolution": "Used audited FS. Minor.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "field": "AUM trend 2025",
+      "detail": "FS: SAR 34.18bn vs 35.04bn (-2.5%). Chairman: 'remained stable'. Parent AR: SAR 30.7bn ex-GIS 'declined by 6%'. Board report asset management section calls SAR 30.7bn 'a record'.",
+      "resolution": "Recorded audited FS total. Statements about direction conflict; the SAR 30.7bn ex-GIS figure is not recorded as AUM.",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "field": "Establishment date",
+      "detail": "About page says 'established on 27th Dhu Al-Hijjah 1428, 1st January 2008'; FS and board report give CR date 30 Dhul Hijjah 1428H = 9 Jan 2008.",
+      "resolution": "Used FS date (9 Jan 2008). Minor.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    }
+  ],
+  "open_items": [
+    "No H1 2026 standalone interim statements or Pillar 3 disclosures after 2021 on the SAB Invest website; FY2025 is the latest standalone data. H1 2026 data only via the parent's Capital markets segment.",
+    "Number of clients, app users and brokerage accounts not disclosed.",
+    "WorldTrader provider inferred as Interactive Brokers from the clientam.com login and TWS naming; confirm with SAB Invest. Asset-management core system and CRM vendors not named.",
+    "Whether the MAL robo/model-portfolio journey is fully live to the public (board report says 'soft-launched'; App Store text mentions only mutual funds).",
+    "Background of acting CIO Sultan Alsharqi not found; no official statement on Osama Alowedi's departure.",
+    "Saudi Exchange monthly broker rankings returned 403; latest market share found is Argaam April 2025 (2.8%). Check a 2026 ranking.",
+    "WorldTrader Pro App Store listing (apps.apple.com/us/app/sab-invest-worldtrader-pro/id6670488772) and the Stride Ventures partnership (Oct 2025) seen in search results only.",
+    "CMA authorised-person register entry not checked directly; licence details taken from the company website and audited FS."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B13",
+  "checked": "2026-10-12"
+}

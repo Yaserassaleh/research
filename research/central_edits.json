@@ -1,0 +1,18 @@
+[
+ {
+  "date": "2026-10-12",
+  "institution_id": "kw-kic",
+  "field": "metrics",
+  "change": "Renamed 2 'wealth_client_assets' records labelled 'Fiduciary assets' to metric 'fiduciary_assets'",
+  "reason": "Protocol: fiduciary assets are not relabelled as client assets or AUM",
+  "by": "Central QA"
+ },
+ {
+  "date": "2026-10-12",
+  "institution_id": "ae-adcb; ae-adib; ae-ajman; ae-almasraf; ae-alramz; ae-arqaam; ae-baraka; ae-bos; ae-cbd; ae-cbi; ae-dib; ae-ei; ae-eib; ae-enbd; ae-fab; ae-financehouse; ae-intlsecurities; ae-investbank; ae-mashreq; ae-mbank; ae-nbf; ae-nbq; ae-rakbank; ae-ruya; ae-sarwa; ae-shuaa; ae-stashaway; ae-uab; ae-wio; ae-zand; kw-kic; kw-markaz; om-ubhar; qa-qnb; sa-alinma; sa-alinma-capital; sa-alrajhi; sa-anb; sa-anb-capital; sa-bsf; sa-bsf-capital; sa-riyad; sa-sab; sa-sab-invest; sa-snb; sa-snb-capital",
+  "field": "whole file",
+  "change": "Restored 46 institution files from exports/database.json (build 18:40) with tools/restore_from_db.py",
+  "reason": "The files were not transferred when the project moved to the cloud session (GitHub web upload stopped at 100 files). The 18:40 build carried every field except source 'note' values (e.g. 'Seen in search results only') and disclosure checks for metrics that also have a value; those are lost for these files. A rebuild reproduces the 18:40 database for them exactly.",
+  "by": "Central QA"
+ }
+]

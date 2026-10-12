@@ -1,0 +1,1142 @@
+{
+  "id": "ae-ajman",
+  "name": "Ajman Bank",
+  "short_name": "Ajman Bank",
+  "legal_name": "Ajman Bank PJSC",
+  "name_ar": "مصرف عجمان",
+  "country": "AE",
+  "hq_city": "Ajman",
+  "website": "https://www.ajmanbank.ae",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Islamic commercial bank",
+  "model": "Islamic",
+  "founded": "2008 (incorporated 17 Apr 2008; DFM listing 2008; operations began 22 Dec 2008)",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "DFM",
+  "ticker": "AJMANBANK",
+  "parent_id": null,
+  "ownership_summary": "Listed on DFM. At 31 Dec 2025 the Government of Ajman held 33.10% and H.H. Sheikh Humaid bin Rashid Al Nuaimi (Ruler of Ajman) 15.98%; free float was 50.92%. The FY2025 earnings review describes 58% ownership by the Emirate of Ajman and the ruling family 'directly and indirectly'. No merger, recapitalisation or change of control found for 2024–2026. Capital actions were debt-based: a senior sukuk in 2025 and an inaugural USD 300m AT1 sukuk in Jul 2026.",
+  "shareholders": [
+    {
+      "holder": "Government of Ajman",
+      "pct": 33.1,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S1"
+      ]
+    },
+    {
+      "holder": "H.H. Sheikh Humaid bin Rashid Al Nuaimi",
+      "pct": 15.98,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "holder": "Free float",
+      "pct": 50.92,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "government_link": "Yes — the Government of Ajman holds 33.1% and the interim statements say the Group 'is controlled by Ajman Government' (30 Jun 2026). The Ruler of Ajman holds a further 15.98%, and the Crown Prince of Ajman chairs the board.",
+  "group_structure": "Ajman Bank PJSC (fully Shariah-compliant). Subsidiaries are real-estate vehicles only: Skyrise Properties (100%, real-estate brokerage and property management, set up Jan 2024) and Makaseb 2 Real Estate Investment (86.6%). Wealth management, investment advisory, funds and sukuk trading sit inside the bank: the Wholesale segment covers 'investment solutions, wealth management' and Treasury & Capital Markets (TCM) runs advisory and sukuk. The bank says it holds no licence for discretionary portfolio management.",
+  "subsidiaries": [
+    {
+      "name": "Skyrise Properties (S.P.S - L.L.C)",
+      "pct": 100,
+      "activity": "Real estate brokerage and property management",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "Makaseb 2 Real Estate Investment",
+      "pct": 86.6,
+      "activity": "Real estate management",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "footprint": "UAE: head office in Ajman plus ten branches and two pay offices (30 Jun 2026 statements). The FY2025 earnings review counts 11 operating branches, 2 cash offices and 92 ATMs/CCDMs in Ajman, Dubai, Abu Dhabi, Sharjah and Al Ain. New Dubai corporate office opened Jun 2026 (Emaar Business Park).",
+  "customer_segments": "Consumer banking (personal and Priority Banking; mass-market savings and financing; Ajman government employees). Wealth Management aimed at entrepreneurs, business owners and UHNW founders. Wholesale: corporates, GREs, government and SMEs.",
+  "business_lines": "Wholesale banking (51.4% of assets, Jun 2026; includes investment solutions and wealth management), consumer banking (14.7%; personal, priority, cards, home/auto/personal finance), treasury and capital markets (22.0%; sukuk trading, third-party Islamic funds, FX, advisory). All products are Shariah-compliant.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 33865319,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated interim statement of financial position (reviewed)",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 22874697,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Islamic customers' deposits (current/savings AED 5,565,372k, Wakala AED 15,340,099k, escrow AED 1,797,912k, margin AED 171,314k); excludes due to banks and other financial institutions (AED 4,634,363k)",
+      "status": "Verified",
+      "locator": "FS p.2 and note 10",
+      "note": "The H1 2026 presentation shows 'Islamic Customer Deposits' of AED 27.5bn, which equals customer deposits plus amounts due to banks/FIs. Statement figure used.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 19693015,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Islamic financing and investing assets, net (net of ECL); excludes Islamic financing and investing assets with banks and other FIs (AED 3,614,361k)",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "Presentation figure AED 23.3bn includes the bank/FI placements.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 3415544,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity (incl. AED 5,483k non-controlling interest); before the USD 300m AT1 sukuk issued in Jul 2026",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 32863451,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, consolidated statement of financial position (audited)",
+      "status": "Verified",
+      "locator": "H1 2026 FS comparative column",
+      "note": "Comparative year-end figure",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 898556,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net operating income' (total operating income of AED 1,648,915k less depositors' share of profits of AED 750,359k)",
+      "status": "Verified",
+      "locator": "FS p.9 (PDF p.11)",
+      "note": "",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 500038,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit after tax for the year (no non-controlling interests reported in FY2025, so equal to profit attributable to owners)",
+      "status": "Verified",
+      "locator": "FS p.9 (PDF p.11)",
+      "note": "FY2024: AED 400,650k (+25%)",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 246413,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period attributable to owners of the Bank, six months to 30 Jun 2026",
+      "status": "Verified",
+      "locator": "FS p.3 (PDF p.5)",
+      "note": "H1 2025: AED 245,095k. H1 2026 net operating income AED 437,375k",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 10,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "UAE",
+      "definition": "Branches in addition to the Ajman head office (plus two pay offices)",
+      "status": "Conflicting sources",
+      "locator": "Note 1; FY2025 earnings review p.4",
+      "note": "The FY2025 earnings review counts 11 operating branches (probably including the head-office branch), 2 cash offices and 92 ATMs/CCDMs",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "H1 2026 and FY2025 statements (S1, S2), Q2 2026 and FY2025 presentations (S3, S4), Corporate Governance Report 2025 (S5), wealth pages (S13, S14, S16)"
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "As above"
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Presentations (S3, S4) and Corporate Governance Report 2025 (S5)"
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "Corporate Governance Report 2025 (S5) gives training and recognition counts only; Integrated Annual Report 2025 link on the IR page returned HTTP 404"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "Presentations (S3, S4); app page (S21)"
+    }
+  ],
+  "people": [
+    {
+      "name": "H.H. Sheikh Ammar bin Humaid Al Nuaimi",
+      "name_ar": null,
+      "title": "Chairman of the Board (Crown Prince of Ajman)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date not captured.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board list on the official About Us page checked 2026-10-12 (S6); signed the H1 2026 statements as Chairman (S1).",
+      "source_ids": [
+        "S6",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "H.H. Sheikh Rashid bin Humaid Al Nuaimi",
+      "name_ar": null,
+      "title": "Vice Chairman",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About Us page checked 2026-10-12 (S6).",
+      "source_ids": [
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mustafa Al Khalfawi",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2023-09",
+      "appointed_note": "Appointment date per Corporate Governance Report 2025. Also Chairman of subsidiary Skyrise Properties and Board Member of the Union of Arab Banks.",
+      "previous_roles": "First Abu Dhabi Bank (from 2008): Head of Global Banking UAE; Global Head of Government, Sovereigns & Public Sector; CEO of FAB's ADGM branch; board member of FAB Islamic and Magnati. Earlier: Emirates NBD (regional manager, Deira branch) and Al Futtaim Group (official bio).",
+      "education": "Executive Master's in Big Data and Business Analytics, ESCP Business School; Bachelor's in Marketing and Management, Ajman University of Science and Technology; executive programmes at Yale SOM and Saïd Business School",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official profile and executive list checked 2026-10-12 (S7, S6); signed H1 2026 statements as CEO, 23 Jul 2026 (S1); quoted as CEO in the Aug 2026 AB ONE CORP release (S24).",
+      "source_ids": [
+        "S7",
+        "S6",
+        "S5",
+        "S1",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Walid Tawfiq",
+      "name_ar": null,
+      "title": "Acting Head of Consumer Banking",
+      "functions": [
+        "Retail",
+        "Wealth",
+        "Private banking"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "Consumer Banking",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Appears on the current executive page but not in the Corporate Governance Report 2025, which names Faizal Kundil as Head of Consumer Banking; probably a 2026 appointment (date not stated).",
+      "previous_roles": "More than 28 years in private banking and wealth management in the UAE and MENA; senior roles at LGT Bank, Bank of Singapore, First Abu Dhabi Bank, Emirates NBD and Abu Dhabi Commercial Bank; says he managed client assets over USD 1.8bn (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list and profile checked 2026-10-12 (S6, S8).",
+      "source_ids": [
+        "S8",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faizal Kundil",
+      "name_ar": null,
+      "title": "Head of Consumer Banking (per Corporate Governance Report 2025)",
+      "functions": [
+        "Retail",
+        "Wealth"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "Consumer Banking",
+      "scope": "Bank",
+      "appointed": "2021-01",
+      "appointed_note": "CG Report 2025 says he oversaw retail, business banking and wealth management portfolios.",
+      "previous_roles": "Citibank, Standard Chartered, Dubai Islamic Bank, Emirates Islamic, FAB Group (CG Report 2025).",
+      "education": "Bachelor of Commerce, University of Delhi; Leadership Acceleration Programme, Harvard Business School",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed in CG Report 2025 (S5 p.23) but absent from the current executive page, which shows Walid Tawfiq as Acting Head of Consumer Banking (S6, checked 2026-10-12). Possible departure; not confirmed by news (search unavailable).",
+      "source_ids": [
+        "S5",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Salem Abdulla Hamad Rashid Al Shamsi",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Technology",
+        "Digital"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "Operations",
+      "scope": "Bank",
+      "appointed": "2021-11",
+      "appointed_note": "CG Report 2025 gives Nov 2021 as appointment date; the website profile says 'Appointed 2015' (probably when he joined the bank). Oversees Operations, IT, Continuous Improvement, Administration, Internal Control, Digital Banking, Real Estate & Engineering.",
+      "previous_roles": "Ajman Bank Head of Government and Group Head of Retail Banking; Emirates Islamic Bank; National Bank of Dubai (official bio).",
+      "education": "International Business Management, Eckerd College (Florida)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list and profile checked 2026-10-12 (S6, S9); CG Report 2025 (S5).",
+      "source_ids": [
+        "S9",
+        "S6",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ediz Ozsoy",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "Finance",
+      "scope": "Bank",
+      "appointed": "2024-03",
+      "appointed_note": "",
+      "previous_roles": "CFO for Citibank entities in the UAE (incl. DIFC and ADGM) and Turkey; board of Citi Islamic Investment Bank (Bahrain); Executive Director, Citi Qatar (official bio).",
+      "education": "Degree in Economics, Istanbul University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S6); CG Report 2025 (S5).",
+      "source_ids": [
+        "S6",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Adrian Hodges",
+      "name_ar": null,
+      "title": "Treasurer",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "Treasury & Capital Markets",
+      "scope": "Bank",
+      "appointed": "2024-04",
+      "appointed_note": "Treasury & Capital Markets runs the sukuk trading platform, third-party funds and investment advisory for wealth clients (S14, S16, S18); his own remit over these is not documented.",
+      "previous_roles": "Senior treasury roles at Commercial Bank of Dubai, First Gulf Bank, ADCB and National Bank of Dubai (CG Report 2025).",
+      "education": "BSc Economics, University of Southampton",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S6); CG Report 2025 (S5).",
+      "source_ids": [
+        "S6",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Kashif Raza",
+      "name_ar": null,
+      "title": "Head of Wholesale Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "Wholesale Banking",
+      "scope": "Bank",
+      "appointed": "2024-03",
+      "appointed_note": "The wholesale segment includes 'investment solutions, wealth management' per the segment note (S1).",
+      "previous_roles": "Head of Corporate Finance and Investment Banking, Abu Dhabi Islamic Bank; DIB Capital; Head of Capital Markets and Syndicated Loans, Dubai Islamic Bank; Standard Chartered, United Bank Limited, Grant Thornton, MCB Bank (official bio).",
+      "education": "Bachelor of Commerce; MBA",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S6); quoted in AB ONE CORP release, Aug 2026 (S24).",
+      "source_ids": [
+        "S6",
+        "S5",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Zohaib Ali Zahid",
+      "name_ar": null,
+      "title": "Head of Enterprise Project Management Office & ESG",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Ajman Bank PJSC",
+      "business_unit": "CEO Office / EPMO",
+      "scope": "Bank",
+      "appointed": "2023-05",
+      "appointed_note": "Joined May 2023 as Head of Corporate Governance; profile says he reports to the CEO and oversees transformation management and strategy execution.",
+      "previous_roles": "Director at a large global consulting firm (financial services advisory, governance and regulatory compliance) (official bio).",
+      "education": "MS (UK) and MBA; sustainable investing specialisation, Harvard",
+      "qualifications": "CGS, PMP, CAMS",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S6).",
+      "source_ids": [
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Ajman Bank is a fully Islamic bank with a small, mostly offline wealth business run between Consumer Banking (Priority Banking) and Treasury & Capital Markets. Priority Banking requires an AED 250k average balance, a AED 40k salary, an AED 80k takaful plan or AED 500k invested. Wealth Management targets entrepreneurs and UHNW founders. The shelf: Wakala-based third-party Islamic funds from AED 30,000 (Rasmala, Emirates NBD Asset Management, Mashreq Capital); Franklin Templeton Shariah funds, the Azimut Global Sukuk fund and BlackRock iShares MSCI World/EM Islamic ETFs listed in the 2026 wealth deck; a sukuk trading platform (130+ sukuk, USD 200k minimum, up to 2% upfront fee, 0.25% custody); and secured share financing for DFM/ADX stocks through third-party brokers. A May 2025 distribution agreement with Azimut (DIFC) gives clients global fixed-income products and investment strategies. The bank states it offers advisory and bespoke fixed-income portfolios but 'does not offer Discretionary Portfolio Management (DPM) services' because it lacks the licence. The FY2025 strategy lists 'Focus on building Ajman Wealth by offering value added solutions'. In 2026 a career private banker (ex-LGT, Bank of Singapore) became Acting Head of Consumer Banking. The Ajman Bank One app supports Wakala deposit booking but no investing.",
+    "segments": [
+      {
+        "name": "Priority Banking",
+        "tier": "Affluent",
+        "eligibility": "Average balance AED 250,000, or minimum salary AED 40,000, or minimum Takaful plan AED 80,000, or minimum investment AED 500,000; AED 150 monthly charge if not met",
+        "source_ids": [
+          "S15",
+          "S13"
+        ]
+      },
+      {
+        "name": "Wealth Management",
+        "tier": "HNW / UHNW",
+        "eligibility": "Entrepreneurs, business owners and UHNW founders; threshold not found (Wealth Management Account KFS link returned 404)",
+        "source_ids": [
+          "S13",
+          "S14"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Relationship-led 'Wealth Management' for UHNW entrepreneurs and family businesses, linking corporate and personal structuring (succession, liquidity events, sukuk and income portfolios). No separately branded private bank.",
+      "source_ids": [
+        "S13",
+        "S14"
+      ]
+    },
+    "asset_management": {
+      "present": "No",
+      "detail": "No asset-management entity or own funds. The bank says it lacks the regulatory licence for discretionary portfolio management.",
+      "source_ids": [
+        "S14"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Sukuk Trading: secondary-market buying and selling of 130+ global sukuk (USD 200k minimum, up to 2% upfront fee, 0.25% annual custody). Equities: Secured Share Finance (Wakala-based financing up to 100% of the portfolio) for selected DFM/ADX shares, traded through a network of third-party brokers chosen by the client. No in-house equity brokerage.",
+      "source_ids": [
+        "S18",
+        "S19",
+        "S14"
+      ]
+    },
+    "digital_investing": {
+      "present": "No",
+      "detail": "Ajman Bank One app: onboarding, accounts, cards, financing, PFM, GenAI assistant 'Hamed' (Q4 2025) and STP Wakala deposit booking. Funds and sukuk are sold via treasury sales (phone/email); no in-app securities or funds investing found.",
+      "source_ids": [
+        "S21",
+        "S4",
+        "S16"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "TCM 'Active Advisory' (market insights, trade ideas, monthly Market Insights and Fixed Income Bulletins) and 'Bespoke Investment Services' (tailor-made fixed-income portfolios). Azimut (DIFC) distribution agreement (May 2025) to enhance wealth and investment advisory offerings.",
+      "source_ids": [
+        "S14",
+        "S20"
+      ]
+    },
+    "discretionary": {
+      "present": "No",
+      "detail": "Wealth deck: 'Ajman Bank does not offer Discretionary Portfolio Management (DPM) services, as the bank does not hold the requisite regulatory license'.",
+      "source_ids": [
+        "S14"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No model portfolios or robo-advice found.",
+      "source_ids": [
+        "S14",
+        "S16",
+        "S21"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Shariah-compliant (Wakala-based) third-party funds from AED 30,000, approved by the Internal Shariah Supervision Committee. Current list: Rasmala Investment Bank, Emirates NBD Asset Management, Mashreq Capital; Arqaam Capital and some others closed to new subscriptions. Wealth deck adds Franklin Templeton (Shariah Global Multi-Asset Income, Shariah Global Equity, Shariah Technology), Azimut Global Sukuk funds, and BlackRock iShares MSCI World Islamic and EM Islamic ETFs. Fund platform provider not named.",
+      "source_ids": [
+        "S16",
+        "S17",
+        "S14",
+        "S27",
+        "S28",
+        "S29"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured notes. FX hedging via spot, Wa'd FX forwards, derivatives and commodities listed under treasury offerings.",
+      "source_ids": [
+        "S14"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "Only listed real-estate income funds (Rasmala European Real Estate Income Fund); no private-markets products.",
+      "source_ids": [
+        "S16",
+        "S17"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Whole bank is Shariah-compliant; all funds, sukuk and share finance carry Internal Shariah Supervision Committee fatwas.",
+      "source_ids": [
+        "S16",
+        "S18",
+        "S19"
+      ]
+    },
+    "asset_classes": [
+      "Sukuk",
+      "Mutual funds",
+      "ETFs",
+      "Real estate funds",
+      "Local equities (share financing via third-party brokers)"
+    ],
+    "partners": [
+      {
+        "partner": "Azimut (DIFC) Limited",
+        "kind": "Product distribution / investment advisory",
+        "what": "Distribution agreement giving clients access to global fixed-income products and tailored investment strategies",
+        "date": "2025-05",
+        "status": "Live",
+        "source_ids": [
+          "S20",
+          "S6"
+        ]
+      },
+      {
+        "partner": "Franklin Templeton; BlackRock iShares",
+        "kind": "Third-party funds / ETFs",
+        "what": "Shariah funds and Islamic UCITS ETFs on the wealth shelf (factsheets dated Jan 2026)",
+        "date": "2026-01",
+        "status": "Live",
+        "source_ids": [
+          "S14",
+          "S28",
+          "S29"
+        ]
+      },
+      {
+        "partner": "Rasmala Investment Bank; Emirates NBD Asset Management; Mashreq Capital",
+        "kind": "Third-party funds",
+        "what": "Islamic funds on the funds platform",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S17",
+          "S16"
+        ]
+      },
+      {
+        "partner": "Temenos (T24)",
+        "kind": "Core banking technology",
+        "what": "Core banking upgraded to T24 Release 22 in 2025, four months ahead of schedule",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "partner": "National Bonds Corporation",
+        "kind": "Savings / investment product partner",
+        "what": "MoU to explore Shariah-compliant savings solutions and joint initiatives",
+        "date": "2026-07-27",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S23"
+        ]
+      },
+      {
+        "partner": "Sukoon Takaful",
+        "kind": "Bancatakaful",
+        "what": "MoU to provide Takaful protection and financial-planning solutions",
+        "date": "2026-09-03",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S26"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2023-09",
+        "what": "Mustafa Al Khalfawi appointed CEO",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025-05",
+        "what": "Distribution agreement with Azimut (DIFC) to enhance wealth management and investment advisory",
+        "source_ids": [
+          "S20"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Temenos T24 R22 upgrade; GenAI assistant 'Hamed' in the mobile app; STP Wakala booking in app; first digital branch in Ajman",
+        "source_ids": [
+          "S5",
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-01",
+        "what": "FY2025 record net profit AED 500m (+25%); strategic priorities include 'AI Native Bank', a new digital banking platform with fintech partnerships, and 'Focus on building Ajman Wealth by offering value added solutions'",
+        "source_ids": [
+          "S4",
+          "S2"
+        ]
+      },
+      {
+        "date": "2026-06",
+        "what": "Opened corporate office in Dubai (Emaar Business Park)",
+        "source_ids": [
+          "S25"
+        ]
+      },
+      {
+        "date": "2026-07-08",
+        "what": "Priced inaugural USD 300m AT1 perpetual sukuk at 6.50% (adjusted CAR about 18.3%)",
+        "source_ids": [
+          "S22",
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "date": "2026-07-27",
+        "what": "MoU with National Bonds on Shariah-compliant savings solutions",
+        "source_ids": [
+          "S23"
+        ]
+      },
+      {
+        "date": "2026-08-24",
+        "what": "Launched AB ONE CORP digital banking platform for corporate and SME clients",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "date": "2026-09-03",
+        "what": "MoU with Sukoon Takaful",
+        "source_ids": [
+          "S26"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Stated priority to build 'Ajman Wealth' (FY2025 strategy), with a 2026 Acting Head of Consumer Banking whose career is private banking and wealth (LGT, Bank of Singapore) (S4, S8).",
+        "No DPM licence and no model portfolios: the bank explicitly says it cannot run discretionary mandates, and its shelf is third-party funds, ETFs and sukuk sold by phone/email (S14, S16).",
+        "No in-app investing: Ajman Bank One app offers onboarding, PFM, GenAI and Wakala deposits only. Strategy targets an 'AI Native Bank' with fintech partnerships (S21, S4).",
+        "Growing balance sheet (AED 33.9bn assets, +27% y/y) and new AT1 capital (Jul 2026) fund expansion (S3, S22)."
+      ],
+      "barriers": [
+        "Islamic-only: every product needs Internal Shariah Supervision Committee approval and Shariah-compliant underlyings (S16).",
+        "Existing wealth partners: Azimut (DIFC) distribution (May 2025), Franklin Templeton, BlackRock iShares, Rasmala, ENBD AM, Mashreq Capital (S20, S14, S17).",
+        "Wealth sits partly in Wholesale banking and Treasury; consumer banking leadership is in an acting role (S1, S6)."
+      ],
+      "incumbent_vendors": [
+        "Temenos T24 R22 — core banking (S5)",
+        "Azimut (DIFC) — distribution and advisory partner (S20)",
+        "Franklin Templeton, BlackRock iShares, Rasmala, Emirates NBD AM, Mashreq Capital — fund/ETF shelf (S14, S17)",
+        "Mobile app: Android package id 'com.cbt.ajmandigital' (vendor not named; unconfirmed)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Condensed consolidated interim financial information for the six-month period ended 30 June 2026 (reviewed by Deloitte & Touche (M.E.))",
+      "publisher": "Ajman Bank PJSC",
+      "url": "https://www.ajmanbank.ae/site/files/Ajman%20Bank%20Financials%20-%20Q2%202026.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Consolidated financial statements for the year ended 31 December 2025 (audited by Deloitte & Touche (M.E.))",
+      "publisher": "Ajman Bank PJSC",
+      "url": "https://www.ajmanbank.ae/site/files/Ajman_Bank_FS_31_Dec_2025.pdf",
+      "doc_type": "Audited annual financial statements",
+      "tier": 1,
+      "published": "2026-01-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Q2/H1 2026 Earnings Presentation (July 2026)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/files/18Q2%202026%20Earnings%20Presentation.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Ajman Bank - FY 2025 Earnings Review",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/files/366Ajman%20Bank%20-%20FY%202025%20Earnings%20Review.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Ajman Bank Corporate Governance Report 2025",
+      "publisher": "Ajman Bank PJSC",
+      "url": "https://www.ajmanbank.ae/site/files/CorporateGovernanceReport2025.pdf",
+      "doc_type": "Corporate governance report (annual regulatory filing)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "About Us (Board of Directors, Executive Management, Strategic Partners)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/about-us.html",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Mustafa Al Khalfawi — Chief Executive Officer (profile)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/team/mustafa-al-khalfawi",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Walid Tawfiq — Acting Head of Consumer Banking (profile)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/team/walid-tawfiq",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Salem Al Shamsi — Chief Operating Officer (profile)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/team/mr-salem-abdulla-hamad-rashid-al-shamsi",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Personal Banking (Priority Banking and Wealth Management sections)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/personal.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Wealth Management overview (WM_2026)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/assets/pdf/WM_2026.pdf",
+      "doc_type": "Official product brochure",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Key Facts Statement — Priority Account",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site//files/Priority_Account_Key_Fact_Statement.pdf",
+      "doc_type": "Official product document",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Islamic Investment Funds (Funds Platform)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/islamic-investment-funds.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Islamic investment funds — fund list (current) and other fund list (closed to new subscriptions)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/islamic-investment-funds-1.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Sukuk Trading",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/sukuk-trading.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Secured Share Finance (Equities)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/secured-share-finance.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Azimut (DIFC) Limited – Distribution Agreement",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/azimut-difc-limited-distribution-agreement.html",
+      "doc_type": "Official partnership page",
+      "tier": 2,
+      "published": "2025-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Ajman Bank One (mobile app)",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/ajman-bank-one.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Ajman Bank successfully prices inaugural USD 300 million Additional Tier 1 Perpetual Sukuk",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/newsdetail/ajman-bank-successfully-prices-inaugural-usd-300-million-additional-tier-1-perpetual-sukuk",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Ajman Bank and National Bonds partner to enhance customer financial solutions",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/newsdetail/ajman-bank-and-national-bonds-partner-to-enhance-customer-financial-solutions",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Ajman Bank launches AB ONE CORP, a next-generation corporate digital banking platform for Corporate and SME clients",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/newsdetail/ajman-bank-launches-ab-one-corp-a-next-generation-corporate-digital-banking-platform-for-corporate-and-sme-clients",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-08-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Ajman Bank expands institutional presence with new corporate office in Dubai",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/newsdetail/ajman-bank-expands-institutional-presence-with-new-corporate-office-in-dubai",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Sukoon Takaful partners with Ajman Bank to deliver premium Sharia-compliant solutions",
+      "publisher": "Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/newsdetail/sukoon-takaful-partners-with-ajman-bank-to-deliver-premium-sharia-compliant-solutions",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-09-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "AZ Islamic – MAMG Global Sukuk factsheet (Jan 2026), linked from Wealth Management section",
+      "publisher": "Azimut / Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/assets/pdf/Azimut.pdf",
+      "doc_type": "Fund factsheet",
+      "tier": 2,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "iShares MSCI World Islamic UCITS ETF factsheet (Jan 2026), linked from Wealth Management section",
+      "publisher": "BlackRock / Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/assets/pdf/blackrock_ishares.pdf",
+      "doc_type": "Fund factsheet",
+      "tier": 2,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "Franklin Shariah Global Multi-Asset Income Fund factsheet (Jan 2026), linked from Wealth Management section",
+      "publisher": "Franklin Templeton / Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/assets/pdf/Franklin_temlate.pdf",
+      "doc_type": "Fund factsheet",
+      "tier": 2,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Government ownership",
+      "detail": "Interim FS and CG Report 2025: Government of Ajman 33.1% (plus the Ruler 15.98%). FY2025 earnings review: 58% Emirate of Ajman and ruling family 'directly and indirectly'. Website About Us and the WM 2026 brochure: '25%' government shareholding.",
+      "resolution": "Used the filed figures (33.1% and 15.98% at 31 Dec 2025); the 25% website figure looks outdated; 58% includes indirect holdings.",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S4",
+        "S6",
+        "S14"
+      ]
+    },
+    {
+      "field": "Customer deposits",
+      "detail": "The H1 2026 presentation shows 'Islamic Customer Deposits' AED 27.5bn; the statement of financial position shows Islamic customers' deposits AED 22.87bn plus AED 4.63bn due to banks/FIs.",
+      "resolution": "Statement figure used (AED 22,874,697k).",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "field": "Head of Consumer Banking",
+      "detail": "CG Report 2025 names Faizal Kundil (from Jan 2021); the current website lists Walid Tawfiq as Acting Head of Consumer Banking.",
+      "resolution": "Walid Tawfiq recorded as current; Faizal Kundil 'Requires verification'.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "field": "COO appointment date",
+      "detail": "Website profile 'Appointed 2015' vs CG Report 2025 'November 2021'.",
+      "resolution": "Nov 2021 used (likely date in role; 2015 likely joining date).",
+      "source_ids": [
+        "S9",
+        "S5"
+      ]
+    }
+  ],
+  "open_items": [
+    "WebSearch quota exhausted: no news search for 2025–2026 appointments/departures (e.g. date of Walid Tawfiq's appointment and Faizal Kundil's exit), or merger talks; none indicated in official sources.",
+    "LinkedIn checks not performed (search quota exhausted) for CEO, Acting Head of Consumer Banking and COO.",
+    "Integrated Annual Report 2025 link on the IR page returned HTTP 404; Wealth Management Account KFS link also returned 404, so the wealth tier threshold is unknown.",
+    "No named Head of Wealth Management or Head of Treasury & Capital Markets investment sales found.",
+    "Q3 2026 results not yet published at 2026-10-12.",
+    "Fund platform/custody provider for the funds and sukuk platform not named."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B05",
+  "checked": "2026-10-12"
+}

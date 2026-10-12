@@ -1,0 +1,433 @@
+{
+  "id": "ae-intlsecurities",
+  "name": "International Securities",
+  "short_name": "International Securities",
+  "legal_name": "International Securities L.L.C.",
+  "name_ar": null,
+  "country": "AE",
+  "hq_city": "Abu Dhabi",
+  "website": "https://www.intlsecurities.ae",
+  "linkedin_company": null,
+  "category": "Non-bank",
+  "type": "Brokerage / investment platform",
+  "model": "Not applicable",
+  "founded": "2001 (as First Gulf Financial Services, the brokerage arm of First Gulf Bank, now First Abu Dhabi Bank); acquired by International Holding Company (IHC) in 2019 (company says it became an IHC Group company on 1 Nov 2019)",
+  "regulators": [
+    "SCA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Not listed. Wholly owned by International Financial Assets Holding RSC Ltd, which is 95% owned by International Holding Company PJSC (ADX: IHC); IHC transferred its entire 100% holding to that sub-holding during 2025, so IHC's effective interest fell from 100% to 95% (IHC FY2025 financial statements).",
+  "shareholders": [
+    {
+      "holder": "International Financial Assets Holding RSC Ltd (95% owned by International Holding Company PJSC, ADX: IHC)",
+      "pct": 100,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "government_link": "Indirect: ultimate parent International Holding Company PJSC is an ADX-listed Abu Dhabi conglomerate. IHC's own shareholder base was not assessed in this profile.",
+  "group_structure": "International Securities L.L.C. (UAE share brokerage) sits under International Financial Assets Holding RSC Ltd, IHC's 95%-owned financial-services sub-holding, which also owns, for example, Funder.AI Technologies (75%) and, from 1 May 2025, 60% of Reem Finance PJSC. IHC also owns Beltone Holding (Egypt brokerage and asset management). No separate financial statements of International Securities are published; IHC consolidates it.",
+  "subsidiaries": [],
+  "footprint": "UAE (Abu Dhabi head office). Trades ADX, DFM and Nasdaq Dubai; its 'Tabadul Hub' gives access to Bahrain Bourse (BHB), Muscat Stock Exchange (MSX) and Astana International Exchange (AIX) from one platform. Checked 2026-10-12.",
+  "customer_segments": "Retail and corporate investors in UAE equities and derivatives (individual and corporate online account opening); institutional brokerage and research clients.",
+  "business_lines": "Equity brokerage on ADX, DFM and Nasdaq Dubai; single-stock futures; margin trading; short selling; securities lending and borrowing; ETFs; sukuk and bonds; cross-listed GCC access via Tabadul Hub; online trading (eTrade) and Mobile Trading app; equity research (company coverage, research library). Company claims to be the number one broker in Abu Dhabi and the UAE (ADX plus DFM) and lists awards such as 'Top Broker by Trading Value (ADX)' 2024 and 'Best Equity Broker for Abu Dhabi' 2025.",
+  "metrics": [
+    {
+      "metric": "customers",
+      "value": 42000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Website figure, undated (checked 12 Oct 2026)",
+      "period_type": "point_in_time",
+      "scope": "International Securities L.L.C.",
+      "definition": "Clients ('42,000+'); not stated whether active or registered, retail or total",
+      "status": "Requires verification",
+      "locator": "Homepage statistics strip",
+      "note": "Unaudited company claim; period_end is the check date because the figure is undated.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 57.1,
+      "unit": "billion",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "International Securities L.L.C.",
+      "definition": "Trading value, H1 2026 (company figure; currency not stated, probably AED as ADX/DFM values are in AED)",
+      "status": "Requires verification",
+      "locator": "Homepage statistics strip",
+      "note": "Unaudited company claim; not checked against ADX/DFM broker rankings. Currency left null because the page does not state it.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "client_money_held",
+      "value": 1015178,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Subsidiary: International Securities L.L.C. (as disclosed in IHC group accounts)",
+      "definition": "Clients' deposits held in segregated bank accounts under Capital Market Authority (formerly SCA) rules; not available to the group except to settle client trades",
+      "status": "Verified",
+      "locator": "IHC FY2025 FS, cash and cash equivalents note, PDF p.204",
+      "note": "Customer cash only, not total client assets or AUM.",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "total_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Private LLC; no financial statements on intlsecurities.ae (S1, S2); IHC FY2025 FS consolidates it without a separate balance sheet (S5)."
+    },
+    {
+      "metric": "operating_income",
+      "status": "Not publicly disclosed",
+      "where_checked": "IHC FY2025 FS shows group 'revenue from brokerage services' AED 555,717k, which also includes other brokers such as Beltone (Egypt), so it is not attributable to International Securities (S5)."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not publicly disclosed",
+      "where_checked": "intlsecurities.ae (S1–S4); IHC FY2025 FS (S5)."
+    },
+    {
+      "metric": "aum",
+      "status": "Not found after research",
+      "where_checked": "No asset-management or discretionary service found on intlsecurities.ae (S1, S2)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Ayman Hamed",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO",
+        "Brokerage"
+      ],
+      "entity": "International Securities L.L.C.",
+      "business_unit": "Executive management",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "Joined International Securities in 2015; date he became CEO not stated.",
+      "previous_roles": "Over 28–30 years in financial services, mainly institutional and retail brokerage; has served on boards of various brokerage companies since 2004 (official bio).",
+      "education": "MBA in Finance and Investment (official bio; institution not named)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page and CEO message, checked 2026-10-12 (S3, S4). News search for appointments/departures could not be run (search budget exhausted).",
+      "source_ids": [
+        "S3",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tarek El Shawarby",
+      "name_ar": null,
+      "title": "Head of Research",
+      "functions": [
+        "Other"
+      ],
+      "entity": "International Securities L.L.C.",
+      "business_unit": "Research",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Over 24 years in MENA equity markets; ranked among the top 13 MENA analysts in the Extel survey (retail, healthcare, industrials); worked on IPOs in Egypt and the UK (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammad Afaq Nasir",
+      "name_ar": null,
+      "title": "Deputy Research Manager",
+      "functions": [
+        "Other"
+      ],
+      "entity": "International Securities L.L.C.",
+      "business_unit": "Research",
+      "scope": "Company",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Over 8 years sell-side and buy-side; covers ADNOC-linked UAE companies; led analysis of the ADNOC Gas and ADNOC Logistics & Services IPOs in 2023 (official bio).",
+      "education": null,
+      "qualifications": "CFA charterholder (official bio)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "International Securities is IHC's Abu Dhabi stockbroker (founded 2001 as First Gulf Bank's brokerage arm; IHC since 2019; since 2025 held via the 95%-owned International Financial Assets Holding). It is an execution and research house for UAE equities and derivatives, with margin trading, short selling, securities lending, ETFs, sukuk/bonds and a Tabadul Hub for Bahrain, Muscat and Astana listings. Clients use the eTrade web platform and a Mobile Trading app. The website claims 42,000+ clients and 57.1bn in H1 2026 trading value (currency not stated), and it held AED 1.0bn of client cash at end-2025. No asset management, discretionary portfolios, funds shelf, structured products or international (US/EU) market access were found.",
+    "segments": [],
+    "private_banking": {
+      "present": "No",
+      "detail": "Brokerage only; no private-banking or HNW wealth proposition found.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset-management or portfolio-management service on the website.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "ADX, DFM and Nasdaq Dubai equities and single-stock futures; margin trading; short selling; SLB; ETFs; sukuk and bonds; Tabadul Hub access to BHB, MSX and AIX. Claims number one broker in Abu Dhabi/UAE by ADX+DFM trading.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "eTrade online platform and 'Mobile Trading' app (App Store/Google Play, 'intl-securities'); online KYC for individual and corporate accounts. Platform vendor not named.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Research and advisory services from an in-house research team (company coverage, research library).",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "ETFs tradable on exchange; no mutual-fund shelf found.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Unclear",
+      "detail": "Sukuk are listed among tradable instruments; no Shariah-compliant product range described.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "ETFs",
+      "Bonds",
+      "Sukuk",
+      "Derivatives (single-stock futures)"
+    ],
+    "partners": [
+      {
+        "partner": "International Holding Company (IHC) / International Financial Assets Holding",
+        "kind": "Parent group",
+        "what": "Owner since 2019; CEO says the firm works with IHC to build a financial-services franchise in Abu Dhabi",
+        "date": "2019-11-01",
+        "status": "Live",
+        "source_ids": [
+          "S2",
+          "S4",
+          "S5"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2019-11-01",
+        "what": "Became an IHC Group company; later rebranded to International Securities",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "IHC moved its 100% holding into International Financial Assets Holding RSC Ltd (95% IHC), IHC's financial-services sub-holding",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": null,
+        "what": "Launched 'Tabadul Hub' single-platform access to ADX, BHB, MSX and AIX (date not stated)",
+        "source_ids": [
+          "S1"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Large UAE retail brokerage base (42,000+ clients claimed) with app and web platforms but no managed portfolios, funds, structured products, private markets or US/international equities found (S1, S2).",
+        "Vision statement mentions shaping 'a smarter future with Artificial Intelligence', but no AI tool is described on the site (S2).",
+        "Part of IHC's financial-services sub-holding (with Reem Finance and Funder.AI), which is building a financial-services franchise in Abu Dhabi (S4, S5)."
+      ],
+      "barriers": [
+        "Execution-focused, local-market strategy ('focused on the local market') per the CEO message (S4).",
+        "Decisions likely sit with IHC's financial-services sub-holding; no published board or technology leadership (S3, S5)."
+      ],
+      "incumbent_vendors": []
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "International Securities homepage (incl. statistics strip and awards)",
+      "publisher": "International Securities L.L.C.",
+      "url": "https://www.intlsecurities.ae/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "About Us",
+      "publisher": "International Securities L.L.C.",
+      "url": "https://www.intlsecurities.ae/AboutUs.aspx",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Our Management",
+      "publisher": "International Securities L.L.C.",
+      "url": "https://www.intlsecurities.ae/OurManagement.aspx",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "CEO Message",
+      "publisher": "International Securities L.L.C.",
+      "url": "https://www.intlsecurities.ae/our_CEO.aspx",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "International Holding Company PJSC — Consolidated financial statements, 31 December 2025",
+      "publisher": "International Holding Company PJSC",
+      "url": "https://ihccms.directus.app/assets/fcd9abcd-9389-4b31-97fd-af6b0fb8ce82?download=",
+      "doc_type": "Audited financial statements (parent)",
+      "tier": 1,
+      "published": "2026-02-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "IHC Investor Relations",
+      "publisher": "International Holding Company PJSC",
+      "url": "https://www.ihcuae.com/investor-relations",
+      "doc_type": "Official IR page (parent)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Corporate history",
+      "detail": "About Us says the firm was founded in 2001 as First Gulf Bank's brokerage arm and rebranded in 2019/2020 from 'Integrated Securities' (S2); the CEO message says it began as First Gulf Financial Services (S4); the management page says International Securities is 'formerly SHUAA Securities' (S3).",
+      "resolution": "Unresolved; recorded the FGB origin and 2019 IHC acquisition, which two official pages agree on. Predecessor names need checking against SCA/ADX records.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "field": "Number of awards",
+      "detail": "Homepage counter says 22 awards; the awards list shows 19 entries (S1).",
+      "resolution": "Not used as a metric.",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "open_items": [
+    "SCA licence number and ADX/DFM membership not found on the website; SCA and exchange registers not checked.",
+    "Predecessor name conflict (Integrated Securities vs SHUAA Securities vs First Gulf Financial Services) unresolved.",
+    "Web search budget for this batch was exhausted before this institution, so no news (2025–2026) or LinkedIn checks were possible for the CEO; role verified from official pages only.",
+    "No board of directors published; trading value currency not stated; no financial statements of the LLC are public.",
+    "Arabic legal name not confirmed."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B08",
+  "checked": "2026-10-12"
+}

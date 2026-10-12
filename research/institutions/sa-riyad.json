@@ -1,0 +1,1778 @@
+{
+  "id": "sa-riyad",
+  "name": "Riyad Bank",
+  "short_name": "Riyad Bank",
+  "legal_name": "Riyad Bank (a Saudi Joint Stock Company)",
+  "name_ar": "بنك الرياض",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://www.riyadbank.com",
+  "linkedin_company": "https://www.linkedin.com/company/riyad-bank/",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1957 (Royal Decree and Council of Ministers' Resolution No. 91 dated 23 Nov 1957; CR 1010001054 dated 18 Nov 1957); listed on Tadawul January 1993",
+  "regulators": [
+    "SAMA",
+    "CMA"
+  ],
+  "listed": true,
+  "exchange": "Tadawul (Saudi Exchange)",
+  "ticker": "1010",
+  "parent_id": null,
+  "ownership_summary": "Tadawul-listed bank. The AR 2025 shareholder chart shows the Public Investment Fund 21.8%, GOSI 10.4%, Al Nahla Trading and Contracting Company 8.7%, Assila Investment Company 8.0%, foreign investors 12.4% and others 38.7% (chart date not stated; shown with 31 Dec 2025 share data). Share capital rose from SAR 30bn to SAR 40bn in H1 2026 through bonus shares (S3). Market capitalisation was SAR 79.64bn at 30 Jun 2026 (S6 slide 7) and SAR 81,420m at 31 Dec 2025 (S5).",
+  "shareholders": [
+    {
+      "holder": "Public Investment Fund",
+      "pct": 21.8,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "holder": "General Organization for Social Insurance (GOSI)",
+      "pct": 10.4,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "holder": "Al Nahla Trading and Contracting Company",
+      "pct": 8.7,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "holder": "Assila Investment Company",
+      "pct": 8.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "government_link": "Yes. PIF (21.8%) and GOSI (10.4%) are the two largest shareholders (AR 2025, S5). The AR's related-party table lists PIF as a 'Major Shareholder'.",
+  "group_structure": "Parent bank with seven 100%-owned subsidiaries (S3 note 1; S5 pp.96-97): Riyad Capital (CMA-licensed investment arm; profiled separately as sa-riyad-capital), Jeel Digital Innovation Company (technology and fintech arm), 1957 Ventures Fund (fintech venture fund), Ithra Al-Riyad Real Estate Company, Esnad Al-Riyadh (HR services), Curzon Street Properties Limited (Isle of Man) and Riyad Financial Markets (Cayman; derivatives). International: London branch, Houston agency, Singapore representative office. Double counting: Riyad Capital's assets, income and AUM are consolidated in the bank's figures and its 'Investment banking and brokerage' segment, which the AR says represents Riyad Capital. Do not add sa-riyad-capital metrics to this record.",
+  "subsidiaries": [
+    {
+      "name": "Riyad Capital",
+      "pct": 100.0,
+      "activity": "Dealing, managing, arranging, advising and custody of securities (CMA licence 07070-37); paid-up capital SAR 500m",
+      "linked_id": "sa-riyad-capital",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Jeel Digital Innovation Company",
+      "pct": 100.0,
+      "activity": "Systems and application development, hosting, fintech solutions; runs the Jeel Sandbox; capital SAR 100m",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5",
+        "S17"
+      ]
+    },
+    {
+      "name": "1957 Ventures Fund",
+      "pct": 100.0,
+      "activity": "Invests in and supports fintech ventures; invested amount SAR 197.0m",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Ithra Al-Riyad Real Estate Company",
+      "pct": 100.0,
+      "activity": "Holds and manages real estate assets for financing activities",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Esnad Al-Riyadh",
+      "pct": 100.0,
+      "activity": "Human resources services to the Group",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Curzon Street Properties Limited (Isle of Man)",
+      "pct": 100.0,
+      "activity": "Property holding",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Riyad Financial Markets (Cayman Islands)",
+      "pct": 100.0,
+      "activity": "Derivative transactions with international counterparties",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "footprint": "Saudi Arabia: 332 licensed branches at 30 Jun 2026 (S3 note 1); the AR reports 224 operating branches, over 1,670 ATMs and over 168,800 POS terminals at end-2025 (S5 pp.86-87, 14-15). The 2Q26 presentation shows 1,590 ATMs and 153,360 POS (S6 slide 5). Private Banking centres in Riyadh, Jeddah and Al Khobar (S9). International: London branch, Houston agency, Singapore representative office (S3).",
+  "customer_segments": "Retail: mass, youth (Token), affluent tiers Silver, Golden and Diamond, and Private Banking (HNW); MSME; corporate and multinationals; institutional/treasury clients (S5, S9-S12). Retail customer base 2.69 million at end-2025: affluent +8%, private +14%, mass +7% in 2025 (S5 pp.84-85).",
+  "business_lines": "Four reportable segments (S3 note 14): Retail banking; Corporate banking (incl. MSME); Treasury and investment; Investment banking and brokerage (Riyad Capital: asset management, brokerage, custody, advisory, investment banking). H1 2026 total operating income of SAR 9,349.9m split Corporate 5,700.0m, Retail 2,084.0m, Treasury 1,072.9m, Investment banking and brokerage 493.0m (about 5%). Private and Affluent Banking sit inside Retail Banking. Other: bancassurance distribution, digital Gold Account, fintech (Jeel, 1957 Ventures). The bank offers Islamic (non-conventional) products under an independent Shariah Board.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 533637312,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, interim condensed consolidated statement of financial position (unaudited; authorised for issue 20 Jul 2026)",
+      "status": "Verified",
+      "locator": "S3 p.1 (PDF p.4)",
+      "note": "Matches the original workbook value (533.637312bn).",
+      "source_ids": [
+        "S3",
+        "S7"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 519481291,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, audited consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "S4 p.1 (PDF p.9)",
+      "note": "Extra record (FY2025 year-end). 31 Mar 2026: SAR 537,083m (S7).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 348270590,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer deposits': demand 140,328,401; saving 1,846,374; time 194,069,084; others 12,026,731 (SAR '000). Time deposits include non-conventional (Islamic) deposits of SAR 66,820m. Excludes due to banks and other financial institutions (35,933,430) and debt securities in issue.",
+      "status": "Verified",
+      "locator": "S3 p.1 and note 9 p.19 (PDF p.22)",
+      "note": "Matches the original workbook value (348.27059bn).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 331721047,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer deposits', audited (demand 142,263,106; saving 1,368,453; time 173,788,672; others 14,300,816)",
+      "status": "Verified",
+      "locator": "S4 p.1 and note 13 p.48",
+      "note": "Extra record. 30 Jun 2025: 316,810,862 (S3).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 377628855,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and advances, net' of allowance for impairment/ECL (5,022,886); includes conventional and non-conventional products. Commercial 279,149,741 (corporate and MSME); retail 98,479,114 (personal, mortgage, auto, cards).",
+      "status": "Verified",
+      "locator": "S3 p.1 and note 8 p.14 (PDF p.17)",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 373304812,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and advances, net', audited",
+      "status": "Verified",
+      "locator": "S4 p.1",
+      "note": "Extra record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 382651741,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Total loans and advances' before ECL (performing 379,284,346 + non-performing 3,367,395)",
+      "status": "Verified",
+      "locator": "S3 note 8 p.14 (PDF p.17)",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 80321659,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including Tier 1 Sukuk of 12,823,660; equity attributable to shareholders 67,497,999",
+      "status": "Verified",
+      "locator": "S3 p.1",
+      "note": "31 Dec 2025: 75,481,457 (S4).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 18381116,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income, net', consolidated statement of income (net special commission income 13,071,506; net fees 3,478,525; exchange, trading, dividend and other income)",
+      "status": "Verified",
+      "locator": "S4 p.2 (PDF p.10)",
+      "note": "FY2024: 17,284,531.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 9349913,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income, net', six months",
+      "status": "Verified",
+      "locator": "S3 p.2 (PDF p.5)",
+      "note": "H1 2025: 9,023,772. Extra record.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 10410951,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income' after zakat. No non-controlling interest is presented (all subsidiaries 100%), so this is attributable to shareholders, before Tier 1 Sukuk costs. EPS SAR 3.29.",
+      "status": "Verified",
+      "locator": "S4 p.2",
+      "note": "FY2024: 9,321,894.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 5262567,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income for the period' after zakat, six months",
+      "status": "Verified",
+      "locator": "S3 p.2",
+      "note": "H1 2025: 5,082,627 (+3.5%). Q2 2026 alone: 2,649,028.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 97.5,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group (investment funds managed through Riyad Capital)",
+      "definition": "Note 42 'Investment management services': management of investment funds 'with assets totalling SAR 97.5 billion'; 'The Bank's assets under management include non-interest based funds amounting to SAR 14.0 billion'. Discretionary/non-discretionary split not stated.",
+      "status": "Verified",
+      "locator": "S4 note 42 p.97 (PDF p.105); S5 pp.96-97",
+      "note": "2024: SAR 93.6bn in the bank FS. Riyad Capital's own FS gives SAR 93.8bn for 2024 (see discrepancies). Profiled in sa-riyad-capital.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 101.3,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "2Q 2026",
+      "period_type": "point_in_time",
+      "scope": "Investment banking and brokerage segment (Riyad Capital)",
+      "definition": "'Total AUM' chart on the Investment Banking and Brokerage Segment slide (4Q25 97.5; 1Q26 97.9; 2Q26 101.3)",
+      "status": "Verified",
+      "locator": "S6 slide 41",
+      "note": "Read from an image-based slide; rounded.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 2.69,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Retail Banking",
+      "definition": "Retail Banking 'customer base' rose 6% from 2.53 million to 2.69 million in 2025. Active vs registered not stated. Total bank (incl. corporate/MSME) not disclosed.",
+      "status": "Verified",
+      "locator": "S5 pp.84-85 (PDF p.43)",
+      "note": "",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 7130,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "'The number of the Group's employees stood at 7,130 as at December 31, 2025 (2024: 7,588 employees)'",
+      "status": "Verified",
+      "locator": "S4 note 1 p.6",
+      "note": "2Q26 presentation repeats 7,130 (FY2025) with 30% female.",
+      "source_ids": [
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 332,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank, KSA",
+      "definition": "'Licensed branches' in Saudi Arabia (interim FS note 1)",
+      "status": "Verified",
+      "locator": "S3 note 1 p.6",
+      "note": "AR 2025 reports 224 'operating branches' at end-2025 (S5 pp.86-87); licensed and operating counts differ (see discrepancies).",
+      "source_ids": [
+        "S3",
+        "S6"
+      ]
+    },
+    {
+      "metric": "investment_brokerage_segment_operating_income",
+      "value": 492959,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Investment banking and brokerage segment",
+      "definition": "Total operating income of the 'Investment banking and brokerage' segment (net fees 249,208; NSCI 208,509); income before zakat 295,753",
+      "status": "Verified",
+      "locator": "S3 note 14 p.24 (PDF p.27)",
+      "note": "H1 2025: 506,510 (income before zakat 334,700). FY2025: 1,033,322 (S7).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "brokerage_and_fund_management_fee_income",
+      "value": 625342,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Fee and commission income on 'Share brokerage and fund management' (gross, before fee expenses)",
+      "status": "Verified",
+      "locator": "S4 note 22 p.56 (PDF p.64)",
+      "note": "FY2024: 657,472.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "market_capitalisation",
+      "value": 79.64,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Listed equity",
+      "definition": "'Market Capitalization 30Jun2026' (52-week range SAR 19.14-22.35)",
+      "status": "Verified",
+      "locator": "S6 slide 7",
+      "note": "31 Dec 2025: SAR 81,420m (S5 pp.28-29). Recorded to correct the original's suspect market-cap assertions.",
+      "source_ids": [
+        "S6"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 Retail section (S5 pp.84-87) gives only growth rates for Private Banking (interest-bearing deposits +32%, AUM +5% in 2025); 2Q26 investor presentation (S6); H1 2026 FS (S3)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 digital and Riyad Capital sections (S5 pp.66-69, 96-99); 2Q26 investor presentation (S6); Riyad Capital FS 2025 (see sa-riyad-capital)"
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "Bank FS FY2025 and H1 2026 (S3, S4). Custody assets are disclosed only for Riyad Capital (SAR 1,048bn at end-2025; see sa-riyad-capital)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Abdullah Mohammed Al-Issa",
+      "name_ar": "عبدالله العيسى",
+      "title": "Chairman of the Board; Chairman, Strategic Planning Group; Chairman, Sustainability Committee",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2016-10",
+      "appointed_note": "Board member since 2007; Chairman since October 2016 (S1). Re-selected Chairman for the board term 31 Oct 2025 to 30 Oct 2028; SAMA no-objection received 5 Nov 2025 (S21).",
+      "previous_roles": "Experience in management, investment and banking including Hassana Investment Company (S1). Current: Chairman, Assila Investments (S1).",
+      "education": "BSc Industrial Engineering and Master's in Engineering Management, Southern Methodist University (US)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S1); Nov 2025 re-appointment (S21); no departure news found",
+      "source_ids": [
+        "S1",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mutaz Kusai AlAzzawi",
+      "name_ar": "معتز العزاوي",
+      "title": "Vice-Chairman of the Board; Chairman, Executive Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2016",
+      "appointed_note": "Board member since 2016 (S1); Vice-Chairman for the 2025-2028 term (S21).",
+      "previous_roles": "22+ years in business, commerce and financial-market investment. Current: Chairman, Herfy Food Services and Arabian Cement; CEO and board member, Saudi Industrial Construction & Engineering Project Co., Saudi Trading & Technology Co. and AlWusataa Development Co.; board member, Savola Group, Mobily, Savola Foods, United Sugar, Afia International (S1).",
+      "education": "Bachelor's in Computer Engineering, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S1); Nov 2025 re-appointment (S21)",
+      "source_ids": [
+        "S1",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nadir Sami Al-Koraya",
+      "name_ar": "نادر سامي الكريع",
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Executive Management",
+      "scope": "Group",
+      "appointed": "2024-02-01",
+      "appointed_note": "Appointed CEO effective 1 Feb 2024 after Tareq Al-Sadhan's resignation effective 31 Jan 2024, subject to SAMA no-objection (S22). Official bio: CEO 'since 2024' (S2). Also some 2026 media style him 'President and CEO' (seen in search results only).",
+      "previous_roles": "2014– Riyad Bank: Chief Treasury and Investment Officer; EVP Treasury and Investment; Treasurer. About 20 years at Samba Financial Group (Treasury and Investment), last as Assistant General Manager, Treasury Group (S2, S5). Current: Chairman, Jeel Digital Innovation; Chairman, 1957 Ventures Fund; member, Mastercard Middle East and Africa Advisory Council; member, Saudi French Business Council (S2).",
+      "education": "MBA, California State University (official bio; AR 2025 says 'University of California, USA'); Bachelor's in Civil Engineering",
+      "qualifications": "Leadership Program, Harvard Business School; Board Director Diploma, IMD",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list and bio checked 2026-10-12 (S1, S2); signed the H1 2026 interim FS as CEO, authorised 20 Jul 2026 (S3); no 2025-2026 CEO change found in English or Arabic searches. LinkedIn search found no matching profile.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S5",
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Ali Al-Oraini",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "CFO, Alawwal Bank; Head of Accounting, Asset and Liability Management and Investor Relations, SABB; Head of Capital and Liquidity Management and Head of Capital Planning & Ratings Relations, NCB (S5)",
+      "education": "Master of Management Science, University of Waterloo (Canada); BSc Electrical Engineering, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S1); signed H1 2026 FS as CFO (S3)",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Omar AlSaffaf",
+      "name_ar": null,
+      "title": "Chief Retail Banking Officer (official page: 'Chief of Retail Banking Officer')",
+      "functions": [
+        "Retail",
+        "Affluent",
+        "Private banking"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Retail Banking (includes Private, Affluent and Business Banking segments)",
+      "scope": "Bank",
+      "appointed": "2025-05",
+      "appointed_note": "Official bio: in role since May 2025 (S14). Private and Affluent Banking are reported as Retail Banking 'priority segments' (S5 pp.86-87); no separate head of Private Banking is named.",
+      "previous_roles": "CEO, Dar Al Tamleek; Saudi National Bank/NCB (13+ years): Head of Real Estate (Mortgage) Finance, Head of Lease Finance, Head of Branch Network, Head of Personal Finance (S5, S14)",
+      "education": "Bachelor's in Public Administration, American University of Beirut",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list and bio checked 2026-10-12 (S1, S14). LinkedIn search returned only other employees' posts naming him; no own profile found.",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Majed Hamdan Al-Ghamdi",
+      "name_ar": null,
+      "title": "Chief Wholesale Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Wholesale",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found. Also a board member of Riyad Capital (sa-riyad-capital).",
+      "previous_roles": "CEO, Retail Banking, Saudi National Bank; SEVP Retail Banking Group, SEVP Corporate Banking Group and EVP Enterprise Risk Management, NCB (S5)",
+      "education": "MSc Risk Management, NYU Stern; BSc Industrial Engineering, King Abdulaziz University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S1); AR 2025 (S5)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Abo Al-Naja",
+      "name_ar": null,
+      "title": "Chief Corporate Banking Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Corporate Banking",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Riyad Bank: EVP and Head of Corporate Banking Services; SVP Manager Multinationals; Regional Director Corporate Banking, Central Region. Senior Manager, Corporate and Investment Banking, SAMBA (S5)",
+      "education": "Bachelor of Law, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S1); AR 2025 (S5)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulmohsen Mohammed Al-Twaijri",
+      "name_ar": null,
+      "title": "Chief Treasury & Investment Officer",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Treasury and Investment",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found. Also a board member of Riyad Capital (sa-riyad-capital). Treasury plans to extend coverage to Private and Affluent clients and set up a bond programme in 2026 (S5 pp.94-95).",
+      "previous_roles": "Riyad Bank: EVP Treasury and Investment; Treasurer; Director, Financial Market Department; Senior Financial Market Dealer (S5)",
+      "education": "Bachelor of Finance, Roger Williams University (US)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S1); AR 2025 (S5)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Saad Aljabr",
+      "name_ar": null,
+      "title": "Chief Marketing and Customer Experience Officer",
+      "functions": [
+        "Retail",
+        "Other"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Marketing and Customer Experience",
+      "scope": "Bank",
+      "appointed": "2026",
+      "appointed_note": "Official bio: in role since 2026 (S15). Not in the AR 2025 executive list, which showed Haifa Othman Bin Ahmed as Chief Experience Officer (see discrepancies).",
+      "previous_roles": "Chief Marketing and Customer Experience Officer, Al Rajhi Bank (2023); same role, Emkan Finance (from 2020); Head of Marketing and Communications, Almosafer; earlier Al Tayyar Travel Group (Seera) (S15)",
+      "education": "MA Advertising and Marketing Communications, Webster University; BBA (Marketing), Qassim University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list and bio checked 2026-10-12 (S1, S15)",
+      "source_ids": [
+        "S1",
+        "S15"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hanadi Abdulrahman Al-Sheikh",
+      "name_ar": null,
+      "title": "Chief Transformation Officer",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Transformation",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "General Manager, Strategy, Tadawul (S5)",
+      "education": "Bachelor of Computer Science, George Washington University (US)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S1); AR 2025 (S5)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulrahman Mohammad Al-Huthail",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Operations",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "EVP of Operations; Head of Consumer Finance Operations (S5)",
+      "education": null,
+      "qualifications": "Diploma in Banking, Institute of Public Administration",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S1); AR 2025 (S5)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulaziz Abdullah Al-Askar",
+      "name_ar": null,
+      "title": "Chief Risk Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Risk",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Riyad Bank: EVP Enterprise Risk Management; EVP Corporate Credit; Manager, Credit Review and Approval; Credit Manager (S5)",
+      "education": "Bachelor of Administrative Science, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive list checked 2026-10-12 (S1); AR 2025 (S5)",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mazen Ghassan Pharaon",
+      "name_ar": null,
+      "title": "Chief Digital Officer (as listed in AR 2025)",
+      "functions": [
+        "Digital",
+        "Innovation / partnerships"
+      ],
+      "entity": "Riyad Bank",
+      "business_unit": "Digital",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Departure date not found; no announcement found. Inferred from the sources below.",
+      "previous_roles": "Partner, Deloitte ME; Digital Center Leader, Deloitte; Chief Technology Officer, SAMBA Financial Group; Project Leader for Launch, Alinma Investment Co. (S5)",
+      "education": "Bachelor of Computer Engineering, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Departed",
+      "role_evidence": "Listed as CDO in AR 2025 (S5 pp.152-153). Not on the official executive list checked 2026-10-12 (S1); his former official profile URL /investor-relations/executive-management/mazen-ghassan-pharaon returned HTTP 404 on 2026-10-12, while the CEO's profile resolves. A LinkedIn search result for the same name (slug 'pharaon', Saudi Arabia) shows current experience 'Stealth Platform' (S26). Departure inferred, not announced. No current CDO named on the official page.",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S26"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Abdulrahman Alshwer, PhD, CFA",
+      "name_ar": "عبدالله الشويعر",
+      "title": "CEO, Riyad Capital",
+      "functions": [
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Riyad Capital",
+      "business_unit": "Riyad Capital (100% subsidiary)",
+      "scope": "Subsidiary",
+      "appointed": "2023",
+      "appointed_note": "Appointment announced by Riyad Capital press release dated 11/05/2023 (Argaam). Full profile in sa-riyad-capital.",
+      "previous_roles": "CEO and CIO, Ashmore Investment Saudi Arabia (6+ years); CEO, Higher Education Fund; Chairman and member, CMA Advisory Committee (see sa-riyad-capital)",
+      "education": "PhD Investment & Finance, University of Wisconsin (Lubar); MBA, University of Toledo; Bachelor's (Finance), King Saud University",
+      "qualifications": "CFA",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Riyad Capital executive management page checked 2026-10-12 (S23); see sa-riyad-capital",
+      "source_ids": [
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "George Harrak",
+      "name_ar": null,
+      "title": "CEO, Jeel (Jeel Digital Innovation Company)",
+      "functions": [
+        "Subsidiary CEO",
+        "Innovation / partnerships",
+        "Digital"
+      ],
+      "entity": "Jeel Digital Innovation Company",
+      "business_unit": "Jeel (100% subsidiary)",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Date not found. Jeel's chairman is CEO Nadir Al-Koraya (S2, S17).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Jeel website lists him as CEO, checked 2026-10-12 (S17); quoted as Jeel CEO in the Jan 2026 Ripple announcement (S19, S20). A LinkedIn search result (same name, Jeel) showed an inconsistent 'Head of Marketing' title, so no URL is recorded.",
+      "source_ids": [
+        "S17",
+        "S19",
+        "S20"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Riyad Bank serves wealth clients through Private Banking (three centres in Riyadh, Jeddah and Al Khobar; dedicated full-time RM; positioned as 'Elevate your Wealth Management'), the affluent tiers Diamond, Golden and Silver, and its 100%-owned Riyad Capital (CMA licence 07070-37). Riyad Capital managed SAR 97.5bn at end-2025 and SAR 101.3bn at 30 Jun 2026, and held SAR 1,048bn in custody at end-2025. In 2025 Private Banking AUM grew 5% and interest-bearing deposits 32%; private clients rose 14% and affluent 8%; the Al Khobar PB centre was completed and work on a new Jeddah centre began. The bank app's 'Investments' menu covers time deposits and IPO subscriptions, and a Shariah-compliant digital Gold Account launched in 2025. Equities, funds and international trading run in separate Riyad Capital apps (Riyad Capital, Riyad Global, Riyad Dawli), which need a Riyad Capital investment account. In 2025 Riyad Capital launched Mostashary, an in-house robo-advisory tool in its app. For 2026 the bank plans a new 'Elite' tier within Affluent Banking and a Treasury bond programme extended to Private and Affluent clients. Its 2030 strategy themes are Hyperscale Retail, Wholesale, 'AI to-the-core' and a new core banking system.",
+    "segments": [
+      {
+        "name": "Silver Banking",
+        "tier": "Mass affluent",
+        "eligibility": "Listed as a banking programme (S12); criteria not checked",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "name": "Golden Banking",
+        "tier": "Affluent",
+        "eligibility": "Any one of: open an account with a minimum deposit of SAR 500,000; 3-month average balance SAR 100,000 to under SAR 500,000; monthly salary transfer SAR 20,000 to SAR 40,000 (as published). Priority service, Visa Signature card, dedicated phone line.",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "name": "Diamond Banking",
+        "tier": "Affluent / upper affluent",
+        "eligibility": "Open an account with at least SAR 1,000,000; 3-month average balance SAR 500,000; monthly salary transfer SAR 40,000 or more (as published; the page does not say whether all or any one apply). Dedicated full-time RM, Diamond centres, financial consulting on opening an investment account, 'Tharwat Services' financing for affluent clients.",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "name": "Private Banking",
+        "tier": "Private / HNW",
+        "eligibility": "Not published. Dedicated, full-time RM; private banking centres in Riyadh (Al-Nakheel), Jeddah and Al Khobar; 'exclusive solutions for investments, estate planning, and more'.",
+        "source_ids": [
+          "S9",
+          "S5"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Private Banking within Retail Banking. 2025: interest-bearing deposits +32%, AUM +5%, private clients +14%; launched the World Elite Exclusive card; completed the Al Khobar centre and began a new Jeddah centre; named 2024 Best Private Banking in the Middle East by EMEA Finance (S5 pp.84-87). Web proposition: wealth management with 'exclusive solutions for investments, estate planning', 24/7 RM, currency delivery, safe deposit boxes (S9). Investment products are supplied by Riyad Capital. Head of Private Banking not named publicly.",
+      "source_ids": [
+        "S5",
+        "S9"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Through Riyad Capital (100%): AUM SAR 97.5bn at 31 Dec 2025 (incl. SAR 14.0bn non-interest-based funds) and SAR 101.3bn at 2Q26. Public equity, fixed income, multi-asset, money market and REIT funds; private funds; DPM. See sa-riyad-capital.",
+      "source_ids": [
+        "S4",
+        "S6",
+        "S5"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Through Riyad Capital: Saudi, GCC and international markets via the Riyad Capital, Riyad Global and Riyad Dawli apps and online platforms; margin financing. Brokerage value traded SAR 44.7bn in H1 2026, down 30% YoY from SAR 63.5bn (S6 slide 41).",
+      "source_ids": [
+        "S6",
+        "S24"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Bank app (Riyad Mobile, fully redesigned with 125+ new features in 2025): 'Investments' menu lists 'Book Time Deposit' and 'IPO' (S13). Shariah-compliant Gold Account to buy, sell and hold gold digitally, launched 2025 (S5 pp.92-93). Trading, funds and the Mostashary robo-adviser sit in separate Riyad Capital apps that use Riyad Online credentials and need a Riyad Capital investment account (S24). No in-app funds, model portfolios or international investing found in the bank app itself.",
+      "source_ids": [
+        "S13",
+        "S5",
+        "S24"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Private Banking cites 'enriched advisory capabilities' (S5). Diamond Banking offers a financial consulting service when opening an investment account (S10). Riyad Capital runs investment advisory for individuals and institutions (see sa-riyad-capital).",
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Riyad Capital offers Discretionary Portfolio Management under an Investment Management Agreement (see sa-riyad-capital).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Riyad Capital launched 'Mostashary', an in-house robo-advisory tool in the Riyad Capital app offering automated investment portfolios, goal-based planning and risk profiling; SAR 1.7m invested in its first month (2025). Not in the bank app.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Riyad Capital distributes its own public funds and, per its advisory page, CMA-registered funds 'managed in-house and by third-party providers' (see sa-riyad-capital). No fund-platform vendor named.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Offered by Riyad Capital's advisory service ('tailor made structured products'; see sa-riyad-capital). Not mentioned on the bank's Private Banking page. Treasury plans to extend coverage to Private and Affluent clients in 2026 (S5 pp.94-95).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Riyad Capital private and real-estate funds (Riyad Taqnia Fund; real estate portfolio SAR 10bn; up to SAR 6bn Makkah transit-oriented fund with Saudi Railway Company); lead investor in a USD 250m pre-IPO round in 2025 (S5 pp.96-99). The bank also owns 1957 Ventures Fund (fintech VC).",
+      "source_ids": [
+        "S5",
+        "S3"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Non-conventional (Islamic) products under an independent Shariah Board; Islamic time deposits SAR 66.8bn at 30 Jun 2026 (S3); Shariah-compliant Gold Account (S5); Riyad Capital non-interest-based funds SAR 14.0bn at end-2025 (S4 note 42).",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S5"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Structured products",
+      "Private markets / alternatives",
+      "Gold / precious metals",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Efigence",
+        "kind": "Digital delivery / UX partner",
+        "what": "Moved from design and UX/UI provider to a 'fully integrated delivery partner embedded directly into Jeel's operations' (product management, delivery governance, journey design)",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "partner": "Mambu",
+        "kind": "Core banking technology (sandbox)",
+        "what": "Cloud-native composable banking for the Jeel Sandbox, hosted on Google Cloud Platform; initial fintech pilot cohort expected late 2025",
+        "date": "2025-10-28",
+        "status": "Announced",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "partner": "Ripple",
+        "kind": "Blockchain / digital assets",
+        "what": "MoU with Jeel: proofs-of-concept in the Jeel Sandbox on cross-border payment corridors, digital-asset custody and tokenisation",
+        "date": "2026-01-28",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S19",
+          "S20"
+        ]
+      },
+      {
+        "partner": "Zypl.ai",
+        "kind": "AI",
+        "what": "MoU with Jeel to bring AI capabilities to market",
+        "date": "2025",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "partner": "Fintech Saudi / SAMA",
+        "kind": "Regulatory sandbox collaboration",
+        "what": "Jeel supports fintech licensing and regulatory testing with SAMA and Fintech Saudi via the Jeel Sandbox",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S5",
+          "S18"
+        ]
+      },
+      {
+        "partner": "Mubasher Financial Network Company",
+        "kind": "Brokerage technology",
+        "what": "Related-party contracts: 'Brokerage Services Contract - Mubasher Pro Direct Trading Program' (SAR 828,000, expiry 31 Dec 2025) and 'Mubasher Brokerage Services Systems and integration of existing trading services' (SAR 57,500)",
+        "date": "2025",
+        "status": "Unclear",
+        "source_ids": [
+          "S5"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2024-02-01",
+        "what": "Nadir Al-Koraya became CEO, succeeding Tareq Al-Sadhan",
+        "source_ids": [
+          "S22",
+          "S2"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched a Shariah-compliant digital Gold Account (buy, sell, hold gold in digital channels); redesigned Riyad Mobile app with 125+ features, in-app personal finance management tool, Samsung Pay and Google Pay",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Riyad Capital launched the in-house Mostashary robo-advisory tool (SAR 1.7m invested in first month) and the Wa'i Mali youth financial-literacy series",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Jeel became the bank's main development partner (Riyad Mobile, MSME platform, Home Buying Ecosystem) and won its first external client; Center of Intelligence launched the first enterprise AI strategy and moved GenAI pilots into production",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025-10-28",
+        "what": "Jeel and Mambu partnership for the Jeel fintech sandbox (developed with Fintech Saudi; hosted on Google Cloud)",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "date": "2026-01-28",
+        "what": "Jeel signed an MoU with Ripple for sandbox proofs-of-concept on payments, digital-asset custody and tokenisation",
+        "source_ids": [
+          "S19",
+          "S20"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Stated 2026 plans: new 'Elite' tier within Affluent Banking; Treasury bond programme and coverage of Private and Affluent clients; Agentic AI pilots; embedded finance; Open Finance payment initiation",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2026-08",
+        "what": "2030 strategy: four themes - Hyperscale Retail (digital acquisition, embedding in third-party ecosystems, loyalty), Wholesale, 'AI to-the-core' (advanced analytics, GenAI, Agentic AI), and a robust core technology foundation with a new core banking system",
+        "source_ids": [
+          "S6"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "The bank app's investment menu lists only 'Book Time Deposit' and 'IPO' (S13); equities, funds and international investing sit in separate Riyad Capital apps that need a separate investment account (S24)",
+        "2026 plans: a new 'Elite' tier within Affluent Banking (S5 pp.88-89) and a Treasury bond programme extended to Private and Affluent clients (S5 pp.94-95)",
+        "Wealth segments are growing: in 2025 private clients +14%, affluent +8%, Private Banking AUM +5% and interest-bearing deposits +32% (S5 pp.84-87)",
+        "2030 theme 'AI to-the-core' covers 'advanced analytics, GenAI, Agentic AI across the bank including front, middle and back-office' (S6 slide 11); Agentic AI pilots are planned for 2026 (S5 pp.68-69)",
+        "Jeel runs a sandbox used for partner proofs-of-concept (Mambu, Oct 2025; Ripple MoU on tokenisation and digital-asset custody, Jan 2026) (S18, S19)",
+        "Riyad Capital brokerage value traded fell 30% YoY in H1 2026 (SAR 63.5bn to 44.7bn) and the segment's pre-zakat income fell 12% (S6 slide 41)"
+      ],
+      "barriers": [
+        "Builds in-house: Jeel is the bank's 'most trusted development partner' with Efigence embedded in its delivery (S5 pp.66-67); Riyad Capital developed its Mostashary robo-adviser in-house (S5 pp.98-99)",
+        "Investment licences sit with Riyad Capital (CMA licence 07070-37), so a wealth-product contract would likely be with the subsidiary (S3 note 1; sa-riyad-capital)",
+        "Riyad Capital already offers international stocks, ETFs, options and bonds through its Riyad Global app (see sa-riyad-capital)",
+        "Islamic products need approval by the bank's Shariah Board (S3 note 1)"
+      ],
+      "incumbent_vendors": [
+        "Efigence: digital delivery, product management and UX partner embedded in Jeel (S5)",
+        "Mambu: core banking for the Jeel Sandbox, hosted on Google Cloud Platform (S18)",
+        "Mubasher Financial Network: 'Mubasher Pro Direct Trading Program' brokerage services and brokerage-systems integration contracts (S5)",
+        "Interactive Brokers group (inferred): the Riyad Global app's App Store copyright is 'IB Exchange Corp.' (see sa-riyad-capital)",
+        "Genesys (social-media contact centre) and Verint (quality assurance) in the contact centre (S5)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Board of Directors (incl. committees, Shariah committee and executive management list)",
+      "publisher": "Riyad Bank (Investor Relations)",
+      "url": "https://www.riyadbank.com/investor-relations/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Nadir S Al-Koraya (executive profile)",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/investor-relations/executive-management/nadir-s-al-koraya",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Interim Condensed Consolidated Financial Statements for the period ended 30 June 2026",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/documents/20121/0/Financial+statements++%E2%80%93+English+Q2+2026.pdf/c983bf54-0d92-e43b-d69c-b319b2e07ec7?t=1785334613832+&download=true",
+      "doc_type": "Reviewed interim financial statements (authorised 20 Jul 2026)",
+      "tier": 1,
+      "published": "2026-07-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Annual Consolidated Financial Statements for the years ended 31 December 2025 and 2024",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/documents/20121/0/Annual+Consolidated+Financial+Statements-+En+%281%29.pdf/6863f5a8-b9c9-a304-c29c-1f6774a876f4?t=1770821317961+&download=true",
+      "doc_type": "Audited financial statements (approved by the Board 2 Feb 2026)",
+      "tier": 1,
+      "published": "2026-02-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Riyad Bank Annual Report 2025",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/documents/20121/8029796/Riyad+Bank+AR25+-+English.pdf/ee4fc166-57b1-6594-5a25-f1eaa0a6767a?t=1782385539524+&download=true",
+      "doc_type": "Annual report (page refs are printed page numbers; two printed pages per PDF page)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Investor Presentation 2Q 2026",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/documents/20121/8029796/2Q+2026+Riyad+Bank+Investor+Presentation.pdf/a0ab42c6-64e7-7e85-5899-bb8af479381e?t=1786593326993+&download=true",
+      "doc_type": "Investor presentation (image-based PDF; figures read from rendered slides)",
+      "tier": 2,
+      "published": "2026-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "2Q 2026 Financial Data Supplement (Excel)",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/documents/20121/8029796/Riyad+Bank+2Q+2026+Financial+Data+Supplement.xlsx/9c4a7ef8-4ee2-4801-9460-6107b4bfb147?t=1786593328490+&download=true",
+      "doc_type": "Investor data supplement",
+      "tier": 2,
+      "published": "2026-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Quarterly Earnings Results (document index)",
+      "publisher": "Riyad Bank (Investor Relations)",
+      "url": "https://www.riyadbank.com/investor-relations/quarterly-earnings-results",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Private Banking",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/personal-banking/banking-programs/private-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Diamond Banking",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/personal-banking/banking-programs/diamond-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Golden Banking",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/personal-banking/banking-programs/golden-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Banking Programs",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/personal-banking/banking-programs",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Riyad Bank App",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/personal-banking/digital-banking-channels/riyad-mobile",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Omar AlSaffaf (executive profile)",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/investor-relations/executive-management/omar-alsaffaf",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Abdullah Saad Aljabr (executive profile)",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/investor-relations/executive-management/abdullah-saad-aljabr",
+      "doc_type": "Official biography",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Riyad Bank homepage (links to official LinkedIn, subsidiaries and IR)",
+      "publisher": "Riyad Bank",
+      "url": "https://www.riyadbank.com/en/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Jeel - Empowering Digital Transformation Through Technology Solutions",
+      "publisher": "Jeel (Riyad Bank subsidiary)",
+      "url": "https://www.jeel.net/",
+      "doc_type": "Official subsidiary website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Jeel Teams Up with Mambu to Enable Saudi Arabia's Fintech Sandbox",
+      "publisher": "Crowdfund Insider",
+      "url": "https://www.crowdfundinsider.com/2025/10/255056-jeel-teams-up-with-mambu-to-enable-saudi-arabias-fintech-sandbox/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-10-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Jeel partners with Ripple to integrate blockchain into financial services in Kingdom",
+      "publisher": "Sharikat Mubasher",
+      "url": "https://en.sharikatmubasher.com/news/article/21530965/jeel-partners-with-ripple-to-integrate-blockchain-into-financial-services-in-kingdom?lang=en",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-01-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Jeel and Ripple partner to bring blockchain innovation to financial services in Saudi Arabia",
+      "publisher": "Zawya (press release)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/jeel-and-ripple-partner-to-bring-blockchain-innovation-to-financial-services-in-saudi-arabia-m82mn0m0",
+      "doc_type": "Press release (reprint)",
+      "tier": 5,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "عبد الله العيسى رئيسا لمجلس إدارة بنك الرياض ومعتز العزاوي نائبا",
+      "publisher": "Alyaum",
+      "url": "https://www.alyaum.com/articles/6625855/الاقتصاد/أسواق-الأسهم/عبد-الله-العيسى-رئيسا-لمجلس-إدارة-بنك-الرياض-ومعتز-العزاوي-نائبا",
+      "doc_type": "News (reports Tadawul announcement)",
+      "tier": 5,
+      "published": "2025-11-05",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S22",
+      "title": "استقالة طارق السدحان وتعيين نادر الكريع رئيساً تنفيذياً لبنك الرياض",
+      "publisher": "Aleqtsad.org (Aswaq Al Mal)",
+      "url": "https://www.aleqtsad.org/?p=231910",
+      "doc_type": "News (reproduces the bank's Tadawul announcement; minor outlet, used for the effective date only)",
+      "tier": 5,
+      "published": "2023-12-13",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S23",
+      "title": "Executive Management (Riyad Capital)",
+      "publisher": "Riyad Capital",
+      "url": "https://www.riyadcapital.com/information/who-we-are/executive-management",
+      "doc_type": "Official leadership page (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Riyad Capital Mobile",
+      "publisher": "Riyad Capital",
+      "url": "https://www.riyadcapital.com/en/information/ways-to-invest/mobile",
+      "doc_type": "Official product page (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Al Rajhi Bank's net profits hike 14% in H1-26",
+      "publisher": "Mubasher",
+      "url": "https://english.mubasher.info/news/4644192/Al-Rajhi-Bank-s-net-profits-hike-14-in-H1-26/",
+      "doc_type": "News (used only to explain the original's suspect deposit figures)",
+      "tier": 5,
+      "published": "2026-07-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Mazen Pharaon - Stealth Platform (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pharaon/",
+      "doc_type": "LinkedIn profile",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "Leadership - Board of Directors (Riyad Capital)",
+      "publisher": "Riyad Capital",
+      "url": "https://www.riyadcapital.com/en/information/who-we-are/leadership",
+      "doc_type": "Official leadership page (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Riyad Bank H1 2026 results announcement (anId=96884), as cited in the original workbook",
+      "publisher": "Saudi Exchange",
+      "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details?anCat=1&anId=96884&locale=en",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-07-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "Riyad Capital financial statements for the year ended 31 December 2025",
+      "publisher": "Riyad Capital",
+      "url": "https://www.riyadcapital.com/documents/671358/0/Riyad+Capital++-+Signed+FS+31+Dec+2025+.pdf/d27e9476-5ff4-d2bd-9c5b-7965ded41ae4?t=1774963248227",
+      "doc_type": "Audited financial statements (subsidiary; Deloitte, 12 Mar 2026)",
+      "tier": 1,
+      "published": "2026-03-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Institution",
+      "original_value": "Riyad Bank",
+      "finding": "Confirmed",
+      "new_value": "Riyad Bank (Saudi joint stock company; CR 1010001054; Tadawul 1010)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "field": "Relationship / opportunity (label 'Riyad Bank (Rashi)')",
+      "original_value": "Named as 'Riyad Bank (Rashi)' in Saudi comparison.",
+      "finding": "Corrected",
+      "new_value": "'Rashi' is not part of any Riyad Bank legal or brand name. This record is Riyad Bank only. 'Rashi' is probably a transcription of 'Rajhi'; if the meeting note meant Al Rajhi Bank, that is a separate institution (sa-alrajhi). The internal relationship note itself was not verifiable from public sources.",
+      "materiality": "Material",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "field": "Country",
+      "original_value": "Saudi Arabia",
+      "finding": "Confirmed",
+      "new_value": "SA",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "Institution type",
+      "original_value": "Banking group",
+      "finding": "Updated",
+      "new_value": "Category Bank; type Universal / commercial bank; model Conventional with Islamic window (Shariah Board-supervised non-conventional products)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "Assets (bn) / Assets as of",
+      "original_value": "533.637312 SAR bn, 2026-06-30",
+      "finding": "Confirmed",
+      "new_value": "SAR 533,637,312 thousand at 30 Jun 2026 (reviewed interim FS)",
+      "materiality": "Material",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "Deposits (bn) / Deposits as of / Deposit measure",
+      "original_value": "348.27059 SAR bn, 2026-06-30, Customer deposits",
+      "finding": "Confirmed",
+      "new_value": "Customer deposits SAR 348,270,590 thousand at 30 Jun 2026 (excludes due to banks)",
+      "materiality": "Material",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "Gaps note: deposits '178 vs 170'",
+      "original_value": "Deposits 178 vs 170 ... internally suspicious; possible Riyad/Al Rajhi conflation",
+      "finding": "Removed",
+      "new_value": "Neither figure is a Riyad Bank figure. Riyad Bank customer deposits were SAR 348.3bn (30 Jun 2026), 331.7bn (31 Dec 2025) and 316.8bn (30 Jun 2025), about USD 92.9bn, 88.5bn and 84.5bn at the 3.75 peg. 178 and 170 match none of these in SAR or USD. They are of the order of Al Rajhi Bank's customer deposits expressed in USD (SAR 688.36bn at 30 Jun 2026, about USD 183.6bn), which supports the conflation hypothesis, but no exact match was found. Both numbers removed.",
+      "materiality": "Material",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S25"
+      ]
+    },
+    {
+      "field": "Gaps note: market-cap assertions",
+      "original_value": "Market-cap assertions internally suspicious (values not in extract)",
+      "finding": "Corrected",
+      "new_value": "Riyad Bank market capitalisation SAR 79.64bn at 30 Jun 2026 and SAR 81,420m at 31 Dec 2025; the original's specific values could not be checked because they are not in the extract",
+      "materiality": "Material",
+      "source_ids": [
+        "S6",
+        "S5"
+      ]
+    },
+    {
+      "field": "Chief executive",
+      "original_value": "Nadir S. Al-Koraya",
+      "finding": "Confirmed",
+      "new_value": "Nadir Sami Al-Koraya, CEO since 1 Feb 2024; on the official executive list (12 Oct 2026) and signed the H1 2026 FS; no 2025-2026 CEO change found",
+      "materiality": "Material",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S22"
+      ]
+    },
+    {
+      "field": "Wealth / investment arm",
+      "original_value": "Riyad Capital",
+      "finding": "Confirmed",
+      "new_value": "Riyad Capital, 100% subsidiary, CMA licence 07070-37 (profiled as sa-riyad-capital)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3",
+        "S29"
+      ]
+    },
+    {
+      "field": "Business focus",
+      "original_value": "Retail, corporate, treasury and investment services",
+      "finding": "Confirmed",
+      "new_value": "Four segments: Retail; Corporate; Treasury and investment; Investment banking and brokerage",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "Ownership",
+      "original_value": "Not refreshed",
+      "finding": "Updated",
+      "new_value": "PIF 21.8%, GOSI 10.4%, Al Nahla Trading and Contracting 8.7%, Assila Investment 8.0%, foreign 12.4%, others 38.7% (AR 2025)",
+      "materiality": "Material",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "field": "Research coverage / Last prior research",
+      "original_value": "Named banking size/comparison research; source identity ambiguity; 2026-09-21",
+      "finding": "Updated",
+      "new_value": "Identity resolved to Riyad Bank; full re-research on 2026-10-12",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "Website",
+      "original_value": "https://www.riyadbank.com",
+      "finding": "Confirmed",
+      "new_value": "https://www.riyadbank.com",
+      "materiality": "Minor",
+      "source_ids": [
+        "S16"
+      ]
+    },
+    {
+      "field": "Company LinkedIn",
+      "original_value": "https://www.linkedin.com/company/riyad-bank",
+      "finding": "Confirmed",
+      "new_value": "https://www.linkedin.com/company/riyad-bank/ (linked from the official site footer)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S16"
+      ]
+    },
+    {
+      "field": "Source references / Prior research source",
+      "original_value": "S062; internal meeting-note link (Granola)",
+      "finding": "Removed",
+      "new_value": "Internal note not a public source; replaced by the bank's FS, AR and IR pages (S3-S6). Kept only in internal notes.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "Size metrics source URL",
+      "original_value": "Saudi Exchange announcement anId=96884 ('verified in indexed Saudi Exchange result')",
+      "finding": "Could not verify",
+      "new_value": "Page returned HTTP 403; the same figures were verified in the bank's reviewed H1 2026 FS (approved 20 Jul 2026)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S28",
+        "S3"
+      ]
+    },
+    {
+      "field": "Assets (USD bn) / Deposits (USD bn)",
+      "original_value": "Formulas pointing to a deleted FX sheet (#REF!)",
+      "finding": "Corrected",
+      "new_value": "Values kept in SAR as printed; USD conversion is done centrally",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "AUM / AUA (USD bn), measure, as of",
+      "original_value": "Not found; null; null",
+      "finding": "Corrected",
+      "new_value": "AUM SAR 97.5bn at 31 Dec 2025 (FS note 42) and SAR 101.3bn at 30 Jun 2026 (investor presentation); Riyad Capital assets under custody SAR 1,048bn at 31 Dec 2025",
+      "materiality": "Material",
+      "source_ids": [
+        "S4",
+        "S6",
+        "S29"
+      ]
+    },
+    {
+      "field": "Management: Nadir S. Al-Koraya - LinkedIn status",
+      "original_value": "Not verified / not researched",
+      "finding": "Confirmed",
+      "new_value": "Not verified (no matching profile found in search)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "CEO education",
+      "detail": "Official bio says MBA from California State University (S2). AR 2025 says MBA and BSc Civil Engineering from 'University of California, USA' (S5).",
+      "resolution": "Used the official bio wording and noted the AR variant.",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "field": "CEO board seat at Riyad Capital",
+      "detail": "The CEO's official bio lists him as a Riyad Capital board member (S2). Riyad Capital's current board page lists seven members and does not include him (S27).",
+      "resolution": "Not recorded as a Riyad Capital director; the bio may be out of date.",
+      "source_ids": [
+        "S2",
+        "S27"
+      ]
+    },
+    {
+      "field": "Chief Digital Officer",
+      "detail": "AR 2025 lists Mazen Ghassan Pharaon as CDO. The official executive list (12 Oct 2026) omits him, his former profile page returns 404, and a LinkedIn search result shows him at 'Stealth Platform'.",
+      "resolution": "Recorded as Departed (inferred, no announcement). Current head of digital not identified.",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S26"
+      ]
+    },
+    {
+      "field": "Chief Experience Officer",
+      "detail": "AR 2025 lists Haifa Othman Bin Ahmed as Chief Experience Officer. The official page now lists Abdullah Saad Aljabr as Chief Marketing and Customer Experience Officer, in role since 2026.",
+      "resolution": "Used the official page. Bin Ahmed's current status not established; not recorded as a person.",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S15"
+      ]
+    },
+    {
+      "field": "Branches",
+      "detail": "Interim FS note 1 gives 332 licensed branches (30 Jun 2026); AR 2025 gives 224 operating branches (end-2025).",
+      "resolution": "Different definitions (licensed vs operating). Recorded 332 licensed and noted 224 operating.",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "field": "Riyad Capital AUM comparative, 31 Dec 2024",
+      "detail": "Bank FS note 42 gives SAR 93.6bn for 2024; Riyad Capital's own FS gives SAR 93.8bn. Both give SAR 97.5bn for 2025.",
+      "resolution": "Only 2025 and 2Q26 values recorded; difference of SAR 0.2bn unresolved.",
+      "source_ids": [
+        "S4",
+        "S29"
+      ]
+    }
+  ],
+  "open_items": [
+    "Saudi Exchange announcement pages returned HTTP 403 (incl. the original's source anId=96884); figures were verified from the bank's reviewed/audited statements instead.",
+    "Q3 2026 results not yet on the IR page as of 12 Oct 2026 (latest documents are 2Q 2026, S8). Re-check after late Oct 2026.",
+    "The 2Q26 investor presentation and earnings release are image-based PDFs; presentation figures were read from rendered slides. No Q2 2026 earnings-call transcript found on the IR page.",
+    "Head of Private Banking, head of Affluent Banking and current head of digital are not named in any official source; check LinkedIn/news.",
+    "Silver Banking criteria and Private Banking eligibility not checked/published.",
+    "Lead checked - Jeel: it is a 100%-owned company (Jeel Digital Innovation Company), not just a programme. Verified pilots: Jeel Sandbox (with Fintech Saudi; Mambu core, Google Cloud hosting), Ripple MoU (Jan 2026) for proofs-of-concept on payments, digital-asset custody and tokenisation, Zypl.ai AI MoU. No wealth or investment pilot found.",
+    "Lead checked - digital investing in the Riyad Bank app: only time deposits and IPO subscriptions are listed in the bank app, plus the digital Gold Account; trading, funds and robo-advice are in separate Riyad Capital apps.",
+    "Lead checked - CEO change 2025-2026: none found; Nadir Al-Koraya remains CEO (the original's name is correct).",
+    "Haifa Othman Bin Ahmed (former Chief Experience Officer) current status unknown.",
+    "Mubasher contracts in AR 2025 expired Dec 2025; renewal status unknown."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B12",
+  "checked": "2026-10-12"
+}

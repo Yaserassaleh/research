@@ -1,0 +1,690 @@
+<title>GCC FI Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: left rail of research sections + one work surface; dense tables, profile pages with a sticky section index. */
+:root{
+  --paper:#f5f5f8; --surface:#ffffff; --sunk:#eeedf4; --ink:#1c1b2e; --muted:#5d5b73; --faint:#8a889e;
+  --line:#dfdeea; --line-strong:#c9c7da;
+  --accent:#4a3fc4; --accent-ink:#ffffff; --accent-soft:#ebe9fb;
+  --ok:#17784a; --ok-soft:#e3f3ea; --warn:#9a5b00; --warn-soft:#fbf0dc; --bad:#b3261e; --bad-soft:#fbe7e5; --na:#6e6c84; --na-soft:#eeedf3;
+  --t1:#4a3fc4; --t2:#2f7d8c; --t3:#8a889e;
+  --f-display:"Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --f-ui:"DM Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --r:5px; --shadow:0 1px 2px rgba(28,27,46,.06), 0 6px 24px rgba(28,27,46,.08);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#11111c; --surface:#191928; --sunk:#202032; --ink:#ecebf6; --muted:#a6a4bd; --faint:#7d7b95;
+  --line:#2b2a40; --line-strong:#3a3954; --accent:#a99fff; --accent-ink:#14132a; --accent-soft:#272450;
+  --ok:#5fcf93; --ok-soft:#173226; --warn:#f1b357; --warn-soft:#382a12; --bad:#ff8a80; --bad-soft:#3d1c1b; --na:#a6a4bd; --na-soft:#24243a;
+  --t1:#a99fff; --t2:#6cc3d1; --t3:#7d7b95; --shadow:0 1px 2px rgba(0,0,0,.3), 0 8px 28px rgba(0,0,0,.35); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#11111c; --surface:#191928; --sunk:#202032; --ink:#ecebf6; --muted:#a6a4bd; --faint:#7d7b95;
+  --line:#2b2a40; --line-strong:#3a3954; --accent:#a99fff; --accent-ink:#14132a; --accent-soft:#272450;
+  --ok:#5fcf93; --ok-soft:#173226; --warn:#f1b357; --warn-soft:#382a12; --bad:#ff8a80; --bad-soft:#3d1c1b; --na:#a6a4bd; --na-soft:#24243a;
+  --t1:#a99fff; --t2:#6cc3d1; --t3:#7d7b95; --shadow:0 1px 2px rgba(0,0,0,.3), 0 8px 28px rgba(0,0,0,.35); color-scheme:dark}
+*{box-sizing:border-box}
+html,body{background:var(--paper)}
+body{color:var(--ink);font-family:var(--f-ui);font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+button{font:inherit;color:inherit}
+.num,td.n,.kpi .v{font-variant-numeric:tabular-nums}
+.mono{font-family:var(--f-mono);font-size:12px}
+.app{display:grid;grid-template-columns:232px minmax(0,1fr);min-height:100vh}
+.rail{position:sticky;top:env(safe-area-inset-top,0px);height:100vh;overflow-y:auto;border-right:1px solid var(--line);background:var(--surface);padding:18px 14px;display:flex;flex-direction:column;gap:18px}
+.brand{display:flex;flex-direction:column;gap:2px;padding:0 6px}
+.brand b{font-family:var(--f-display);font-size:19px;font-weight:600;letter-spacing:-.01em}
+.brand span{color:var(--muted);font-size:12px}
+.nav{display:flex;flex-direction:column;gap:2px}
+.nav a{display:flex;justify-content:space-between;align-items:center;padding:7px 10px;border-radius:var(--r);color:var(--ink);font-weight:500}
+.nav a:hover{background:var(--sunk);text-decoration:none}
+.nav a.on{background:var(--accent-soft);color:var(--accent)}
+.nav a small{color:var(--faint);font-weight:400;font-variant-numeric:tabular-nums}
+.rail .foot{margin-top:auto;color:var(--faint);font-size:11.5px;padding:0 6px;line-height:1.45}
+.main{min-width:0;display:flex;flex-direction:column}
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding-block:10px;padding-inline:24px;display:flex;gap:12px;align-items:center}
+.search{position:relative;flex:1;max-width:640px}
+.search #q{width:100%;padding:9px 12px 9px 34px;border:1px solid var(--line-strong);border-radius:var(--r);background:var(--surface);color:var(--ink);font:inherit}
+.search svg{position:absolute;left:11px;top:50%;transform:translateY(-50%);width:15px;height:15px;stroke:var(--faint)}
+.search kbd{position:absolute;right:9px;top:50%;transform:translateY(-50%);font-family:var(--f-mono);font-size:11px;color:var(--faint);border:1px solid var(--line);border-radius:3px;padding:0 5px}
+.results{position:absolute;left:0;right:0;top:calc(100% + 6px);background:var(--surface);border:1px solid var(--line-strong);border-radius:var(--r);box-shadow:var(--shadow);max-height:60vh;overflow-y:auto;z-index:30}
+.results a{display:flex;gap:10px;align-items:baseline;padding:8px 12px;color:var(--ink);border-bottom:1px solid var(--line)}
+.results a:hover,.results a.sel{background:var(--accent-soft);text-decoration:none}
+.results .k{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.06em;width:74px;flex:none}
+.results .s{color:var(--muted);font-size:12.5px}
+.cmpbtn{white-space:nowrap;border:1px solid var(--line-strong);background:var(--surface);border-radius:var(--r);padding:8px 12px;cursor:pointer;font-weight:500}
+.cmpbtn b{color:var(--accent)}
+.menu{display:none}
+.page{padding-block:24px 64px;padding-inline:24px;max-width:1280px;width:100%}
+h1,h2,h3{margin:0;text-wrap:balance}
+h1{font-family:var(--f-display);font-weight:600;font-size:30px;line-height:1.15;letter-spacing:-.01em}
+h2{font-family:var(--f-display);font-weight:600;font-size:21px;line-height:1.25}
+h3{font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
+p{margin:0}
+.lede{color:var(--muted);max-width:72ch;margin-top:6px}
+.stack{display:flex;flex-direction:column;gap:20px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.section{display:flex;flex-direction:column;gap:12px;padding-top:22px;border-top:1px solid var(--line)}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--r)}
+.pad{padding:16px}
+.grid{display:grid;gap:16px}
+.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.muted{color:var(--muted)}.faint{color:var(--faint)}
+.small{font-size:12.5px}
+.chip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line-strong);background:var(--surface);color:var(--ink);border-radius:999px;padding:4px 11px;font-size:12.5px;cursor:pointer;user-select:none}
+.chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.chip .c{font-family:var(--f-mono);font-size:11px;opacity:.75}
+.tag{display:inline-block;font-size:11.5px;padding:1px 7px;border-radius:3px;background:var(--sunk);color:var(--muted);white-space:nowrap}
+.pill{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:600;padding:1px 8px;border-radius:999px;white-space:nowrap}
+.pill:before{content:"";width:6px;height:6px;border-radius:50%;background:currentColor}
+.p-ok{color:var(--ok);background:var(--ok-soft)}.p-warn{color:var(--warn);background:var(--warn-soft)}.p-bad{color:var(--bad);background:var(--bad-soft)}.p-na{color:var(--na);background:var(--na-soft)}
+.tier{font-weight:700;font-size:11.5px;padding:2px 8px;border-radius:3px;color:var(--accent-ink)}
+.tier.t1{background:var(--t1)}.tier.t2{background:var(--t2)}.tier.t3{background:var(--t3)}
+.s{display:inline-block;font-family:var(--f-mono);font-size:10.5px;line-height:1;padding:2px 4px;margin-left:3px;border-radius:3px;background:var(--accent-soft);color:var(--accent);cursor:pointer;vertical-align:2px;border:0}
+.s:hover{background:var(--accent);color:var(--accent-ink)}
+.pop{position:fixed;z-index:50;width:min(380px,calc(100vw - 32px));background:var(--surface);border:1px solid var(--line-strong);border-radius:var(--r);box-shadow:var(--shadow);padding:12px 14px;display:flex;flex-direction:column;gap:6px;font-size:13px}
+.pop .t{font-weight:600}
+.pop dl{display:grid;grid-template-columns:86px 1fr;gap:2px 10px;margin:0;font-size:12.5px}
+.pop dt{color:var(--faint)}.pop dd{margin:0;word-break:break-word}
+.tbl-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th{position:sticky;top:0;background:var(--sunk);text-align:left;font-weight:600;font-size:11.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);padding:8px 10px;border-bottom:1px solid var(--line-strong);white-space:nowrap}
+th.sort{cursor:pointer}th.sort:hover{color:var(--ink)}
+td{padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:0}
+tbody tr:hover td{background:color-mix(in srgb,var(--accent-soft) 45%,transparent)}
+td.n,th.n{text-align:right;white-space:nowrap}
+.iname{font-weight:600;color:var(--ink)}
+.iname:hover{color:var(--accent)}
+.sub{display:block;color:var(--faint);font-size:12px;font-weight:400}
+.ar{font-family:"Geeza Pro","Noto Naskh Arabic","Segoe UI",var(--f-ui);direction:rtl;unicode-bidi:isolate;text-align:left}
+td.def{min-width:300px}
+td.inst{min-width:230px}
+td.typ{min-width:170px}
+#dirtable table td.n{width:1%}
+.filters{display:flex;flex-direction:column;gap:10px;padding:14px 16px}
+.filters .row{gap:8px}
+.flabel{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);width:84px;flex:none}
+select,input[type=text],input[type=search]{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line-strong);border-radius:var(--r);padding:6px 9px}
+.btn{border:1px solid var(--line-strong);background:var(--surface);border-radius:var(--r);padding:6px 11px;cursor:pointer;font-size:13px;font-weight:500}
+.btn:hover{border-color:var(--accent);color:var(--accent)}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.hero{display:flex;flex-direction:column;gap:10px}
+.idline{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;color:var(--muted);font-size:13px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:0;border:1px solid var(--line);border-radius:var(--r);background:var(--surface);overflow:hidden}
+.kpi{padding:12px 14px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:3px;min-width:0}
+.kpi .l{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint)}
+.kpi .v{font-size:20px;font-weight:600;letter-spacing:-.01em}
+.kpi .d{font-size:12px;color:var(--muted)}
+.kpi .v.nd{font-size:14px;color:var(--na);font-weight:500}
+.profile{display:grid;grid-template-columns:minmax(0,1fr) 200px;gap:28px;align-items:start}
+.toc{position:sticky;top:76px;display:flex;flex-direction:column;gap:2px;font-size:13px}
+.toc a{color:var(--muted);padding:4px 10px;border-left:2px solid var(--line)}
+.toc a:hover{color:var(--ink);border-left-color:var(--accent);text-decoration:none}
+dl.facts{display:grid;grid-template-columns:170px minmax(0,1fr);gap:9px 18px;margin:0}
+dl.facts dt{color:var(--faint);font-size:12.5px}
+dl.facts dd{margin:0;min-width:0}
+.people{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:12px}
+.person{display:flex;flex-direction:column;gap:6px;padding:13px 14px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);color:var(--ink)}
+.person:hover{border-color:var(--accent);text-decoration:none}
+.person .nm{font-weight:600}
+.person .tt{color:var(--muted);font-size:13px}
+.capgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:0;border:1px solid var(--line);border-radius:var(--r);background:var(--surface);overflow:hidden}
+.cap{padding:12px 14px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:5px}
+.cap .h{display:flex;justify-content:space-between;gap:8px;align-items:center;font-weight:600}
+.timeline{display:flex;flex-direction:column}
+.ev{display:grid;grid-template-columns:96px minmax(0,1fr);gap:14px;padding:9px 0;border-bottom:1px solid var(--line)}
+.ev:last-child{border-bottom:0}
+.ev .dt{font-family:var(--f-mono);font-size:12px;color:var(--muted)}
+ul.ev-list{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px}
+.bar{height:8px;border-radius:2px;background:var(--sunk);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--accent)}
+.score{display:grid;grid-template-columns:150px minmax(0,1fr) 40px;gap:10px;align-items:center;font-size:13px}
+.slider{display:grid;grid-template-columns:140px minmax(0,1fr) 34px;gap:10px;align-items:center;font-size:13px}
+input[type=range]{accent-color:var(--accent);width:100%}
+.cov td{text-align:center;font-family:var(--f-mono);font-size:11.5px;padding:6px 6px}
+.cov td.l{text-align:left;font-family:var(--f-ui);font-size:13px}
+.c-std{color:var(--ok)}.c-old{color:var(--warn)}.c-nd{color:var(--na)}.c-miss{color:var(--bad)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12px;color:var(--muted)}
+.note{border-left:3px solid var(--line-strong);padding:4px 0 4px 12px;color:var(--muted);font-size:13px}
+.empty{padding:28px;text-align:center;color:var(--muted)}
+.cmpgrid th{position:static;text-transform:none;letter-spacing:0;font-size:13px;color:var(--ink);background:var(--surface);vertical-align:bottom}
+.cmpgrid td.l{color:var(--faint);font-size:12.5px;white-space:nowrap;width:170px}
+.statgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:0;border:1px solid var(--line);border-radius:var(--r);background:var(--surface);overflow:hidden}
+.stat{padding:14px 16px;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.stat b{display:block;font-size:24px;font-weight:600;font-variant-numeric:tabular-nums;letter-spacing:-.01em}
+.stat span{font-size:12px;color:var(--muted)}
+.prose{max-width:78ch;display:flex;flex-direction:column;gap:10px}
+.prose ul,.prose ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:5px}
+.check{display:inline-flex;align-items:center;gap:6px;font-size:13px;cursor:pointer}
+.check input{accent-color:var(--accent)}
+.mob-only{display:none}
+@media (max-width: 1300px){ .hide-l{display:none} }
+@media (max-width: 980px){
+  .profile{grid-template-columns:minmax(0,1fr)}.toc{display:none}
+  .g3{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width: 760px){
+  .app{grid-template-columns:minmax(0,1fr)}
+  .rail{position:fixed;inset:0 auto 0 0;width:260px;z-index:40;transform:translateX(-100%);transition:transform .2s;box-shadow:var(--shadow);padding-top:calc(18px + env(safe-area-inset-top,0px))}
+  .rail.open{transform:none}
+  .menu{display:inline-flex;border:1px solid var(--line-strong);background:var(--surface);border-radius:var(--r);padding:7px 10px;cursor:pointer}
+  .top{padding-inline:16px}.page{padding-inline:16px}
+  .g2,.g3{grid-template-columns:minmax(0,1fr)}
+  dl.facts{grid-template-columns:minmax(0,1fr)}dl.facts dt{margin-top:6px}
+  h1{font-size:24px}
+  .cmpbtn span{display:none}
+  .search kbd{display:none}
+  .score,.slider{grid-template-columns:110px minmax(0,1fr) 34px}
+  .ev{grid-template-columns:minmax(0,1fr);gap:2px}
+  .hide-m{display:none}
+  .mob-only{display:block}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+
+<div class="app">
+  <aside class="rail" id="rail">
+    <div class="brand"><b>GCC FI Intelligence</b><span>ARTA partnerships research</span></div>
+    <nav class="nav" id="nav"></nav>
+    <div class="foot" id="railfoot"></div>
+  </aside>
+  <div class="main">
+    <header class="top">
+      <button class="menu" id="menuBtn" aria-label="Open navigation">☰</button>
+      <div class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Search banks, firms, executives, subsidiaries…" autocomplete="off" aria-label="Search">
+        <kbd>/</kbd>
+        <div class="results" id="results" hidden></div>
+      </div>
+      <button class="cmpbtn" id="cmpBtn"><span>Compare </span><b id="cmpCount">0</b></button>
+    </header>
+    <main class="page" id="page"></main>
+  </div>
+</div>
+<div class="pop" id="pop" hidden></div>
+
+<script id="data" type="application/json">__DATA_JSON__</script>
+<script>
+"use strict";
+const DB = JSON.parse(document.getElementById('data').textContent);
+const M = DB.meta;
+const INST = DB.institutions;
+const BYID = Object.fromEntries(INST.map(i => [i.id, i]));
+const SRC = DB.sources;
+const PEOPLE = INST.flatMap(i => i.people.map(p => Object.assign(p, {inst: i})));
+const PBYID = Object.fromEntries(PEOPLE.map(p => [p.person_id, p]));
+const CC = {AE:"UAE", SA:"Saudi Arabia", QA:"Qatar", KW:"Kuwait", BH:"Bahrain", OM:"Oman"};
+const CAPS = M.cap_fields, CAPL = M.cap_labels;
+const KPI_DEF = [
+  ["total_assets","Total assets"],["customer_deposits","Customer deposits"],["net_loans","Net loans / financing"],
+  ["operating_income","Operating income"],["net_profit","Net profit"],["aum","Assets under management"],
+  ["aua","Assets under administration"],["wealth_client_assets","Wealth client assets"],["customers","Customers"],["investing_users","Investing users"]];
+const MLABEL = Object.fromEntries(KPI_DEF.concat([["gross_loans","Gross loans"],["total_equity","Total equity"],["employees","Employees"],["branches","Branches"]]));
+const store = {get(k,d){try{const v=localStorage.getItem('gccfi.'+k);return v?JSON.parse(v):d}catch(e){return d}}, set(k,v){try{localStorage.setItem('gccfi.'+k,JSON.stringify(v))}catch(e){}}};
+const S = {compare: store.get('compare', []).filter(id => BYID[id]), weights: Object.assign({}, M.weights, store.get('weights', {})),
+  dir: {q:"", c:[], cat:"", model:"", size:"", tier:"", caps:[], sort:"assets", desc:true},
+  ppl: {q:"", f:"", c:"", st:""}, src: {q:"", tier:"", inst:""}, prio: {c:"", cat:""}};
+
+const esc = s => (s===null||s===undefined) ? "" : String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const $ = id => document.getElementById(id);
+const route = h => '#' + h;
+function fmtUSD(bn){ if(bn===null||bn===undefined||isNaN(bn)) return null;
+  if (Math.abs(bn) >= 1) return 'USD ' + bn.toLocaleString('en-US',{minimumFractionDigits:1,maximumFractionDigits:1}) + 'bn';
+  return 'USD ' + (bn*1000).toLocaleString('en-US',{maximumFractionDigits:0}) + 'm'; }
+function fmtNum(n){ if(n===null||n===undefined) return null; if(n>=1e6) return (n/1e6).toLocaleString('en-US',{maximumFractionDigits:2})+'m'; if(n>=1e3) return Math.round(n).toLocaleString('en-US'); return String(n); }
+function fmtLocal(k){ if(!k || k.value===undefined || k.value===null) return ''; const v=k.value_abs; if(!k.currency) return fmtNum(v);
+  const b=v/1e9; return k.currency+' '+(Math.abs(b)>=1? b.toLocaleString('en-US',{maximumFractionDigits:1})+'bn' : (v/1e6).toLocaleString('en-US',{maximumFractionDigits:1})+'m'); }
+function fmtDate(d){ if(!d) return ''; const m=String(d).match(/^(\d{4})-(\d{2})(?:-(\d{2}))?/); if(!m) return esc(d);
+  const mo=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][+m[2]-1]; return (m[3]? (+m[3])+' ':'')+mo+' '+m[1]; }
+function pill(st){ if(!st) return ''; const s=String(st);
+  const cls = /^Verified|^Yes$|^Live$/.test(s)?'p-ok': /Conflict|Departed/.test(s)?'p-bad': /Requires|Unclear|Announced|MoU|Partial|approx/i.test(s)?'p-warn':'p-na';
+  return `<span class="pill ${cls}">${esc(s)}</span>`; }
+function tierTag(t){ const n=(t||'').slice(-1); return `<span class="tier t${n}">${esc(t)}</span>`; }
+function srcs(ids){ if(!ids||!ids.length) return ''; return ids.map(id => SRC[id] ? `<button class="s" data-src="${esc(id)}" aria-label="Source ${esc(id.split(':')[1])}">${esc(id.split(':')[1])}</button>` : '').join(''); }
+function instLink(i, extra){ return `<a class="iname" href="${route('i.'+i.id)}">${esc(i.name)}</a>${extra||''}`; }
+function personLink(p){ return `<a class="iname" href="${route('p.'+p.person_id.replace(':','.'))}">${esc(p.name)}</a>`; }
+function kpiUSD(i,k){ const v=i.kpi[k]; return v && v.usd_bn!=null ? v.usd_bn : null; }
+function kpiCell(i,k){ const v=i.kpi[k]; if(!v) return '<span class="faint">—</span>';
+  if(v.disclosure) return `<span class="faint small">${v.disclosure==='Not publicly disclosed'?'Not disclosed':'Not found'}</span>`;
+  const t = k==='customers'||k==='investing_users' ? fmtNum(v.value_abs) : fmtUSD(v.usd_bn);
+  return (t||'—') + (v.standard_period ? '' : `<span class="sub" title="Not at the standard date: ${esc(v.period_label)}">${esc(shortPeriod(v))}</span>`); }
+function shortPeriod(v){ const l=v.period_label||v.period_end||''; return l.replace(/^(\d{1,2}) (\w{3}) (\d{4})$/,'$2 $3'); }
+function score(i, W){ W=W||S.weights; const c=i.score.components; let tot=0, wsum=0; for(const k in W){ wsum+=W[k]; tot+= W[k]*(c[k]?c[k].score:0)/5; } return wsum? Math.round(tot*100/wsum*10)/10 : 0; }
+function tierOf(s){ return s>=65?'Tier 1': s>=50?'Tier 2':'Tier 3'; }
+
+/* ---------- navigation ---------- */
+const NAV = [["home","Overview"],["institutions","Institutions",INST.length],["people","Executives",PEOPLE.length],["compare","Compare"],["priorities","ARTA priorities"],["coverage","Coverage & quality"],["sources","Source register",Object.keys(SRC).length],["method","Method & handover"]];
+function drawNav(cur){ $('nav').innerHTML = NAV.map(([k,l,n]) => `<a href="${route(k)}" class="${cur===k?'on':''}">${l}${n!==undefined?`<small>${n.toLocaleString('en-US')}</small>`:''}</a>`).join('');
+  $('railfoot').innerHTML = `Data as of ${fmtDate(M.as_of)}. Balance sheets at ${fmtDate(M.standard_balance_sheet_date)}; income ${esc(M.standard_income_period)}. USD at period FX.`; }
+function setCompare(list){ S.compare = list.slice(0,4); store.set('compare', S.compare); $('cmpCount').textContent = S.compare.length; }
+function toggleCompare(id){ const l=S.compare.slice(); const ix=l.indexOf(id); if(ix>=0) l.splice(ix,1); else { if(l.length>=4) l.shift(); l.push(id);} setCompare(l); }
+
+/* ---------- search ---------- */
+const IDX = [];
+INST.forEach(i => { IDX.push({k:'Institution', t:i.name, s:[CC[i.country], i.type, i.short_name, i.legal_name].filter(Boolean).join(' · '), h:'i.'+i.id, txt:[i.name,i.short_name,i.legal_name,i.name_ar,i.ticker,i.id].join(' ')});
+  (i.subsidiaries||[]).forEach(sb => IDX.push({k:'Subsidiary', t:sb.name, s:'of '+i.name+(sb.activity?' · '+sb.activity:''), h:'i.'+(sb.linked_id && BYID[sb.linked_id] ? sb.linked_id : i.id), txt:sb.name+' '+i.name})); });
+PEOPLE.forEach(p => IDX.push({k:'Executive', t:p.name, s:p.title+' · '+p.inst.name, h:'p.'+p.person_id.replace(':','.'), txt:[p.name,p.name_ar,p.title,p.inst.name,p.inst.short_name].join(' ')}));
+const norm = s => (s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[’'`]/g,'');
+IDX.forEach(x => x.n = norm(x.txt));
+let selIx = -1;
+function doSearch(){ const q=norm($('q').value.trim()); const box=$('results'); if(!q){box.hidden=true;return;}
+  const terms=q.split(/\s+/); const hits=IDX.filter(x=>terms.every(t=>x.n.includes(t)))
+    .sort((a,b)=> (a.k===b.k?0:(a.k==='Institution'?-1:b.k==='Institution'?1:0)) || (norm(a.t).startsWith(terms[0])?-1:0)-(norm(b.t).startsWith(terms[0])?-1:0)).slice(0,14);
+  selIx=-1; box.innerHTML = hits.length? hits.map((x,ix)=>`<a href="${route(x.h)}" data-ix="${ix}"><span class="k">${x.k}</span><span><b>${esc(x.t)}</b> <span class="s">${esc(x.s)}</span></span></a>`).join('') : `<div class="empty small">No match for “${esc($('q').value)}”. Try a short name (FAB, KFH) or a surname.</div>`;
+  box.hidden=false; }
+$('q').addEventListener('input', doSearch);
+$('q').addEventListener('keydown', e => { const items=[...$('results').querySelectorAll('a')]; if(!items.length) return;
+  if(e.key==='ArrowDown'){selIx=Math.min(items.length-1,selIx+1);e.preventDefault();} else if(e.key==='ArrowUp'){selIx=Math.max(0,selIx-1);e.preventDefault();}
+  else if(e.key==='Enter'){ (items[selIx]||items[0]).click(); e.preventDefault(); return; } else return;
+  items.forEach((a,ix)=>a.classList.toggle('sel',ix===selIx)); });
+document.addEventListener('keydown', e => { if(e.key==='/' && document.activeElement.tagName!=='INPUT' && document.activeElement.tagName!=='SELECT'){ e.preventDefault(); $('q').focus(); }
+  if(e.key==='Escape'){ $('results').hidden=true; $('pop').hidden=true; $('rail').classList.remove('open'); } });
+$('results').addEventListener('click', () => { $('results').hidden=true; $('q').value=''; });
+$('cmpBtn').addEventListener('click', () => location.hash='compare');
+$('menuBtn').addEventListener('click', () => $('rail').classList.toggle('open'));
+$('nav').addEventListener('click', () => $('rail').classList.remove('open'));
+
+/* ---------- source popover ---------- */
+document.addEventListener('click', e => {
+  const b = e.target.closest('.s'); const pop=$('pop');
+  if(!e.target.closest('.search')) $('results').hidden = true;
+  if(!b){ if(!e.target.closest('.pop')) pop.hidden=true; return; }
+  e.preventDefault(); const s = SRC[b.dataset.src]; if(!s) return;
+  pop.innerHTML = `<div class="t">${esc(s.title||'Untitled source')}</div>
+   <dl><dt>Publisher</dt><dd>${esc(s.publisher||'—')}</dd><dt>Type</dt><dd>${esc(s.doc_type||'—')} · Tier ${esc(s.tier||'?')}</dd>
+   <dt>Published</dt><dd>${s.published?fmtDate(s.published):'Not dated'}</dd><dt>Checked</dt><dd>${fmtDate(s.accessed)||'—'}</dd>
+   <dt>Link check</dt><dd>${s.link_state==='ok'?'Reachable':s.link_state==='blocked'?'Blocks automated checks (opens in a browser)':s.link_state==='broken'?'<span style="color:var(--bad)">Broken (404)</span>':s.link_state?esc(s.link_state):'Not checked'}</dd>
+   <dt>Reference</dt><dd class="mono">${esc(b.dataset.src)}</dd></dl>
+   ${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">Open source ↗</a><div class="faint small" style="word-break:break-all">${esc(s.url)}</div>`:'<div class="faint small">No URL recorded</div>'}`;
+  pop.hidden=false; const r=b.getBoundingClientRect(); const pw=pop.offsetWidth, ph=pop.offsetHeight;
+  let x=Math.min(window.innerWidth-pw-12, Math.max(12, r.left-20)); let y=r.bottom+8; if(y+ph>window.innerHeight-8) y=Math.max(8, r.top-ph-8);
+  pop.style.left=x+'px'; pop.style.top=y+'px'; });
+window.addEventListener('scroll', () => { $('pop').hidden=true; }, {passive:true});
+
+/* ---------- views ---------- */
+function vHome(){
+  const c=M.counts; const by = {}; INST.forEach(i=>{ by[i.country]=by[i.country]||{Bank:0,'Bank-owned investment subsidiary':0,'Non-bank':0,'International bank (GCC operations)':0,people:0}; by[i.country][i.category]++; by[i.country].people+=i.people.length; });
+  const top = INST.slice().sort((a,b)=>score(b)-score(a)).slice(0,10);
+  const largest = INST.filter(i=>i.category==='Bank' && kpiUSD(i,'total_assets')).sort((a,b)=>kpiUSD(b,'total_assets')-kpiUSD(a,'total_assets')).slice(0,10);
+  const maxA = largest.length? kpiUSD(largest[0],'total_assets'):1;
+  const corrN = DB.corrections.filter(x=>/Corrected|Updated|Removed/.test(x.finding||'')).length + (M.structural_corrections||[]).length;
+  const pending = (M.universe && M.universe.batches) ? Object.values(M.universe.batches).flat().filter(id=>!BYID[id]) : [];
+  return `<div class="stack">
+  <div class="hero"><h1>GCC banks and wealth firms, verified for partnership work</h1>
+  <p class="lede">Profiles of ${INST.length} institutions across the six GCC markets: scale, ownership, leadership, wealth and digital capabilities, and the evidence behind each ARTA priority. Every figure carries its reporting date, scope, status and source.</p></div>
+  <div class="statgrid">
+   <div class="stat"><b>${INST.filter(i=>i.category==='Bank').length}</b><span>Banks</span></div>
+   <div class="stat"><b>${INST.filter(i=>i.category==='Bank-owned investment subsidiary').length}</b><span>Bank-owned capital arms</span></div>
+   <div class="stat"><b>${INST.filter(i=>i.category==='Non-bank').length}</b><span>Non-bank wealth & investment firms</span></div>
+   <div class="stat"><b>${PEOPLE.length.toLocaleString('en-US')}</b><span>Executives profiled</span></div>
+   <div class="stat"><b>${c.sources.toLocaleString('en-US')}</b><span>Cited sources</span></div>
+   <div class="stat"><b>${corrN}</b><span>Fixes to the 7 Oct workbook (structural + field)</span></div>
+  </div>
+  ${pending.length?`<p class="note">${pending.length} planned institutions are still being researched and will appear here when complete. See <a href="#coverage">Coverage & quality</a>.</p>`:''}
+  <div class="grid g2">
+   <div class="section"><h3>Highest ARTA fit (default weights)</h3>
+    <div class="tbl-wrap"><table><thead><tr><th>Institution</th><th>Country</th><th class="n">Score</th><th>Tier</th></tr></thead><tbody>
+    ${top.map(i=>`<tr><td>${instLink(i)}<span class="sub">${esc(i.type)}</span></td><td>${CC[i.country]||''}</td><td class="n">${score(i).toFixed(1)}</td><td>${tierTag(tierOf(score(i)))}</td></tr>`).join('')}
+    </tbody></table></div><a href="#priorities" class="small">See all priorities and adjust weights →</a></div>
+   <div class="section"><h3>Largest banks by total assets, ${fmtDate(M.standard_balance_sheet_date)}</h3>
+    <div class="panel pad" style="display:flex;flex-direction:column;gap:9px">
+    ${largest.map(i=>{const v=kpiUSD(i,'total_assets');return `<div class="score" style="grid-template-columns:150px minmax(0,1fr) 92px"><a href="${route('i.'+i.id)}" class="small" style="color:var(--ink)">${esc(i.short_name||i.name)}</a><div class="bar"><i style="width:${(v/maxA*100).toFixed(1)}%"></i></div><span class="num small" style="text-align:right">${fmtUSD(v)}</span></div>`}).join('')}
+    <p class="faint small">Consolidated group figures; subsidiaries (e.g. Emirates Islamic in Emirates NBD) are inside their parents. Banks not reporting at the standard date are excluded here.</p></div></div>
+  </div>
+  <div class="section"><h3>Coverage by market</h3><div class="tbl-wrap"><table><thead><tr><th>Market</th><th class="n">Banks</th><th class="n">Capital arms</th><th class="n">Non-banks</th><th class="n">Intl.</th><th class="n">Executives</th></tr></thead><tbody>
+   ${Object.keys(CC).map(k=>{const r=by[k]||{};return `<tr><td><a href="#institutions" data-country="${k}">${CC[k]}</a></td><td class="n">${r.Bank||0}</td><td class="n">${r['Bank-owned investment subsidiary']||0}</td><td class="n">${r['Non-bank']||0}</td><td class="n">${r['International bank (GCC operations)']||0}</td><td class="n">${r.people||0}</td></tr>`}).join('')}
+  </tbody></table></div></div>
+  <div class="section"><h3>How to read this</h3><div class="prose small muted">
+   <p><span class="s" style="cursor:default">S3</span> markers open the source: title, publisher, document type, tier, publication date and the date we checked it.
+   Status pills show what we could confirm: ${pill('Verified')} ${pill('Requires verification')} ${pill('Conflicting sources')} ${pill('Not publicly disclosed')}.</p>
+   <p>USD figures use the official pegs (AED, SAR, QAR, BHD, OMR) and the Central Bank of Kuwait rate for the reporting date. A small grey date next to a figure means it is not at the standard reporting date and should not be compared directly.</p></div></div>
+  </div>`;
+}
+
+function dirFiltered(){ const f=S.dir; const q=norm(f.q);
+  return INST.filter(i => (!q || norm([i.name,i.short_name,i.legal_name,i.name_ar,i.ticker,i.type].join(' ')).includes(q))
+    && (!f.c.length || f.c.includes(i.country)) && (!f.cat || i.category===f.cat) && (!f.model || i.model===f.model)
+    && (!f.size || i.size_band===f.size) && (!f.tier || tierOf(score(i))===f.tier)
+    && f.caps.every(k => k.startsWith('!') ? ['No','Not found after research'].includes((i.capabilities[k.slice(1)]||{}).present) : (i.capabilities[k]||{}).present==='Yes'));
+}
+function vInstitutions(){
+  const f=S.dir; const cats=[...new Set(INST.map(i=>i.category))]; const models=[...new Set(INST.map(i=>i.model).filter(Boolean))]; const sizes=[...new Set(INST.map(i=>i.size_band))];
+  const capOpts=[["private_banking","Private banking"],["digital_investing","Digital investing"],["brokerage","Brokerage"],["asset_management","Asset management"],["discretionary","Discretionary"],["structured_products","Structured products"],["private_markets","Private markets"],["islamic_wealth","Islamic wealth"],["!model_portfolios_robo","No model portfolios / robo"],["!digital_investing","No digital investing"]];
+  return `<div class="stack"><div class="hero"><h1>Institutions</h1><p class="lede">Filter by market, type, size and capability. Tick up to four rows to compare side by side.</p></div>
+  <div class="panel filters">
+   <div class="row"><span class="flabel">Market</span>${Object.keys(CC).map(k=>`<span class="chip ${f.c.includes(k)?'on':''}" data-fc="${k}" role="button" tabindex="0">${CC[k]} <span class="c">${INST.filter(i=>i.country===k).length}</span></span>`).join('')}</div>
+   <div class="row"><span class="flabel">Narrow</span>
+    <input type="search" id="fq" placeholder="Name or ticker" value="${esc(f.q)}" style="min-width:180px">
+    <select id="fcat" aria-label="Category"><option value="">All categories</option>${cats.map(c=>`<option ${f.cat===c?'selected':''}>${esc(c)}</option>`).join('')}</select>
+    <select id="fmodel" aria-label="Banking model"><option value="">Any banking model</option>${models.map(c=>`<option ${f.model===c?'selected':''}>${esc(c)}</option>`).join('')}</select>
+    <select id="fsize" aria-label="Size"><option value="">Any size</option>${sizes.map(c=>`<option ${f.size===c?'selected':''}>${esc(c)}</option>`).join('')}</select>
+    <select id="ftier" aria-label="ARTA tier"><option value="">Any ARTA tier</option>${['Tier 1','Tier 2','Tier 3'].map(c=>`<option ${f.tier===c?'selected':''}>${c}</option>`).join('')}</select></div>
+   <div class="row"><span class="flabel">Capability</span>${capOpts.map(([k,l])=>`<span class="chip ${f.caps.includes(k)?'on':''}" data-fcap="${k}" role="button" tabindex="0">${l}</span>`).join('')}
+    <button class="btn" id="fclear">Clear filters</button></div>
+  </div>
+  <div id="dirtable"></div></div>`;
+}
+function drawDirTable(){
+  const f=S.dir; let rows=dirFiltered();
+  const key={assets:i=>kpiUSD(i,'total_assets'), deposits:i=>kpiUSD(i,'customer_deposits'), aum:i=>kpiUSD(i,'aum')||kpiUSD(i,'aua')||kpiUSD(i,'wealth_client_assets'), profit:i=>kpiUSD(i,'net_profit'), score:i=>score(i), name:i=>i.name, country:i=>i.country}[f.sort];
+  rows.sort((a,b)=>{ const x=key(a), y=key(b); if(x==null&&y==null) return 0; if(x==null) return 1; if(y==null) return -1; return (x<y?-1:x>y?1:0)*(f.desc?-1:1); });
+  const th=(k,l,n)=>`<th class="sort ${n?'n':''}" data-sort="${k}">${l}${f.sort===k?(f.desc?' ↓':' ↑'):''}</th>`;
+  $('dirtable').innerHTML = `<p class="small muted" style="margin-bottom:8px">${rows.length} of ${INST.length} institutions. Balance-sheet columns at ${fmtDate(M.standard_balance_sheet_date)}, net profit ${esc(M.standard_income_period)}, USD.</p>
+  <div class="tbl-wrap"><table><thead><tr><th></th>${th('name','Institution')}${th('country','Market')}<th class="hide-m hide-l">Type · model</th>${th('assets','Total assets',1)}${th('deposits','Deposits',1)}${th('aum','AUM / AUA',1)}${th('profit','Net profit',1)}${th('score','ARTA fit',1)}</tr></thead><tbody>
+  ${rows.map(i=>`<tr><td><input type="checkbox" aria-label="Compare ${esc(i.name)}" data-cmp="${i.id}" ${S.compare.includes(i.id)?'checked':''}></td>
+   <td class="inst">${instLink(i)}<span class="sub">${esc(i.category)}${i.parent_id&&BYID[i.parent_id]?' · part of '+esc(BYID[i.parent_id].short_name||BYID[i.parent_id].name):''}</span></td>
+   <td>${CC[i.country]||''}</td><td class="hide-m hide-l small typ">${esc(i.type)}<span class="sub">${esc(shortModel(i.model))}</span></td>
+   <td class="n">${kpiCell(i,'total_assets')}</td><td class="n">${kpiCell(i,'customer_deposits')}</td><td class="n">${i.kpi.aum&&!i.kpi.aum.disclosure?kpiCell(i,'aum'):i.kpi.aua&&!i.kpi.aua.disclosure?kpiCell(i,'aua'):i.kpi.wealth_client_assets?kpiCell(i,'wealth_client_assets'):kpiCell(i,'aum')}</td><td class="n">${kpiCell(i,'net_profit')}</td>
+   <td class="n">${score(i).toFixed(0)} ${tierTag(tierOf(score(i)))}</td></tr>`).join('') || `<tr><td colspan="9" class="empty">No institution matches these filters. Clear a filter to widen the list.</td></tr>`}
+  </tbody></table></div>`;
+}
+function bindInstitutions(){
+  const p=$('page'); const f=S.dir; const redraw=()=>drawDirTable();
+  p.querySelectorAll('[data-fc]').forEach(el=>el.onclick=()=>{const k=el.dataset.fc; f.c=f.c.includes(k)?f.c.filter(x=>x!==k):f.c.concat(k); el.classList.toggle('on'); redraw();});
+  p.querySelectorAll('[data-fcap]').forEach(el=>el.onclick=()=>{const k=el.dataset.fcap; f.caps=f.caps.includes(k)?f.caps.filter(x=>x!==k):f.caps.concat(k); el.classList.toggle('on'); redraw();});
+  p.querySelectorAll('.chip').forEach(el=>el.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();el.click();}});
+  $('fq').oninput=e=>{f.q=e.target.value; redraw();};
+  [['fcat','cat'],['fmodel','model'],['fsize','size'],['ftier','tier']].forEach(([id,k])=>$(id).onchange=e=>{f[k]=e.target.value; redraw();});
+  $('fclear').onclick=()=>{Object.assign(f,{q:"",c:[],cat:"",model:"",size:"",tier:"",caps:[]}); render();};
+  $('dirtable').addEventListener('click', e=>{ const t=e.target.closest('[data-sort]'); if(t){ const k=t.dataset.sort; if(f.sort===k) f.desc=!f.desc; else {f.sort=k; f.desc=!['name','country'].includes(k);} redraw(); }});
+  $('dirtable').addEventListener('change', e=>{ const c=e.target.closest('[data-cmp]'); if(c){ toggleCompare(c.dataset.cmp); redraw(); }});
+  drawDirTable();
+}
+
+function metricTable(i){
+  const ms=i.metrics.slice().sort((a,b)=> (KPI_DEF.findIndex(x=>x[0]===a.metric)+99)%99 - (KPI_DEF.findIndex(x=>x[0]===b.metric)+99)%99 || (b.period_end||'').localeCompare(a.period_end||''));
+  return `<div class="tbl-wrap"><table><thead><tr><th>Metric</th><th class="n">Reported</th><th class="n">USD</th><th>Period</th><th class="hide-m">Scope</th><th class="hide-m">Definition</th><th>Status</th></tr></thead><tbody>
+  ${ms.map(m=>`<tr><td><b>${esc(MLABEL[m.metric]||m.metric.replace(/_/g,' '))}</b>${m.standard_period?'':' <span class="tag">non-standard date</span>'}</td>
+   <td class="n">${esc((m.currency||'')+' '+(typeof m.value==='number'?m.value.toLocaleString('en-US'):m.value)+' '+(m.unit&&m.unit!=='unit'?m.unit:''))}</td>
+   <td class="n">${m.usd_bn!=null?fmtUSD(m.usd_bn):(m.currency?'':fmtNum(m.value_abs)||'')}</td>
+   <td class="small">${esc(m.period_label)}</td><td class="hide-m small">${esc(m.scope)}</td>
+   <td class="hide-m small muted def">${esc(m.definition)}${m.locator?` <span class="faint">(${esc(m.locator)})</span>`:''}${m.note?`<span class="sub">${esc(m.note)}</span>`:''}</td>
+   <td>${pill(m.status)}${srcs(m.source_ids)}${autoTag(m.auto_check)}</td></tr>`).join('')}
+  ${Object.entries(i.kpi).filter(([k,v])=>v.disclosure).map(([k,v])=>`<tr><td><b>${esc(MLABEL[k]||k)}</b></td><td class="n" colspan="2">—</td><td colspan="3" class="small muted">Checked: ${esc(v.where_checked)}</td><td>${pill(v.disclosure)}</td></tr>`).join('')}
+  </tbody></table></div><p class="faint small">FX: ${esc(fxNote(i))}</p>`;
+}
+function fxNote(i){ const cur=[...new Set(i.metrics.map(m=>m.currency).filter(Boolean))]; return cur.map(c=> c==='KWD'?'KWD converted at the Central Bank of Kuwait rate for each period (period-end for balance sheet, period average for income).' : M.fx.pegged[c]? `${c} at the official peg of ${M.fx.pegged[c].rate} per USD.` : c+': see method.').join(' ') || 'No currency figures.'; }
+
+function capBlock(i){
+  const c=i.capabilities||{};
+  return `<div class="stack">
+   ${c.wealth_summary?`<p style="max-width:80ch">${esc(c.wealth_summary)}</p>`:''}
+   ${(c.segments||[]).length?`<div class="tbl-wrap"><table><thead><tr><th>Proposition</th><th>Tier</th><th>Eligibility (as published)</th></tr></thead><tbody>${c.segments.map(s=>`<tr><td><b>${esc(s.name)}</b></td><td>${esc(s.tier)}</td><td class="small">${esc(s.eligibility||'Not published')}${srcs(s.source_ids)}</td></tr>`).join('')}</tbody></table></div>`:''}
+   <div class="capgrid">${CAPS.map(k=>{const v=c[k]||{};return `<div class="cap"><div class="h"><span>${esc(CAPL[k])}</span>${pill(v.present||'Unclear')}</div><div class="small muted">${esc(v.detail||'')}${srcs(v.source_ids)}</div></div>`}).join('')}</div>
+   ${(c.asset_classes||[]).length?`<div class="row">${c.asset_classes.map(a=>`<span class="tag">${esc(a)}</span>`).join('')}</div>`:''}
+  </div>`;
+}
+function eventsBlock(i){
+  const c=i.capabilities||{}; const ev=[...(c.partners||[]).map(p=>({date:p.date, html:`<b>${esc(p.partner)}</b> <span class="tag">${esc(p.kind||'Partner')}</span> ${pill(p.status)}<div class="small muted">${esc(p.what||'')}${srcs(p.source_ids)}</div>`})),
+    ...(c.initiatives||[]).map(x=>({date:x.date, html:`<div>${esc(x.what)}${srcs(x.source_ids)}</div>`}))].sort((a,b)=>String(b.date||'').localeCompare(String(a.date||'')));
+  if(!ev.length) return '<p class="muted">No dated partnerships or initiatives found after research.</p>';
+  return `<div class="timeline">${ev.map(e=>`<div class="ev"><div class="dt">${e.date?fmtDate(e.date):'Undated'}</div><div>${e.html}</div></div>`).join('')}</div>`;
+}
+function scoreBlock(i, W){
+  const c=i.score.components; const lab={wealth:"Wealth franchise",scale:"Scale",gap:"Digital-investing gap",momentum:"Wealth & digital momentum",shelf:"Product-shelf fit",access:"Access & relationship"};
+  const ev=(i.capabilities||{}).evidence_for_arta||{};
+  return `<div class="grid g2"><div class="panel pad stack" style="gap:10px"><div class="row" style="justify-content:space-between"><b>Partner-fit score</b><span><b class="num" style="font-size:20px">${score(i).toFixed(1)}</b> ${tierTag(tierOf(score(i)))}</span></div>
+   ${Object.keys(lab).map(k=>`<div class="score"><span class="small">${lab[k]} <span class="faint">(${S.weights[k]}%)</span></span><div class="bar" title="${esc(c[k].why)}"><i style="width:${c[k].score/5*100}%"></i></div><span class="num small">${c[k].score.toFixed(1)}</span></div><div class="faint small" style="margin:-6px 0 2px 160px">${esc(c[k].why)}</div>`).join('')}
+   ${(i.score.flags||[]).length?`<div class="row">${i.score.flags.map(f=>`<span class="pill p-warn">${esc(f)}</span>`).join('')}</div>`:''}
+   <p class="faint small">Screening aid computed from the evidence on this page. Adjust weights under <a href="#priorities">ARTA priorities</a>.</p></div>
+   <div class="stack" style="gap:14px">
+    <div><h3>Evidence of opportunity</h3>${list(ev.opportunities)}</div>
+    <div><h3>Barriers and constraints</h3>${list(ev.barriers)}</div>
+    <div><h3>Incumbent vendors</h3>${list(ev.incumbent_vendors)}</div>
+    ${M.relationship[i.id]?`<div><h3>ARTA relationship (internal)</h3><p class="small">${esc(M.relationship[i.id])}</p></div>`:''}
+   </div></div>`;
+}
+function list(a){ return (a&&a.length)? `<ul class="ev-list small">${a.map(x=>`<li>${esc(typeof x==='string'?x:JSON.stringify(x))}</li>`).join('')}</ul>` : '<p class="faint small">None recorded.</p>'; }
+
+function personCard(p){ return `<a class="person" href="${route('p.'+p.person_id.replace(':','.'))}"><span class="nm">${esc(p.name)}</span><span class="tt">${esc(p.title)}</span>
+  <span class="row" style="gap:6px">${pill(p.role_status)}${p.appointed?`<span class="tag">Since ${esc(fmtDate(p.appointed))}</span>`:''}${p.linkedin_url?'<span class="tag">LinkedIn verified</span>':''}</span></a>`; }
+const FUNC_GROUPS=[["Leadership & board",["Chair","Board","Group CEO","CEO","Deputy CEO"]],["Wealth, private banking & investments",["Private banking","Wealth","Investments / asset management","Brokerage","Affluent"]],["Retail & consumer",["Retail"]],["Digital, technology & partnerships",["Digital","Technology","Innovation / partnerships"]],["Subsidiaries",["Subsidiary CEO"]],["Strategy, finance & other",["Strategy","Finance","Treasury","Corporate / wholesale","Operations","Islamic / Shariah","Other"]]];
+function groupPeople(ps){ const used=new Set(); return FUNC_GROUPS.map(([g,fs])=>{ const m=ps.filter(p=>!used.has(p.person_id) && (p.functions||[]).some(f=>fs.includes(f))); m.forEach(p=>used.add(p.person_id)); return [g,m]; }).concat([["Other",ps.filter(p=>!used.has(p.person_id))]]).filter(([g,m])=>m.length); }
+
+function vInstitution(id){
+  const i=BYID[id]; if(!i) return `<div class="empty">This institution is not in the database yet. <a href="#institutions">Back to institutions</a></div>`;
+  const par=i.parent_id&&BYID[i.parent_id]; const kids=INST.filter(x=>x.parent_id===i.id);
+  const disc=DB.discrepancies.filter(x=>x.institution_id===i.id), open=DB.open_items.filter(x=>x.institution_id===i.id), corr=DB.corrections.filter(x=>x.institution_id===i.id);
+  const isrc=Object.values(SRC).filter(s=>s.institution_id===i.id).sort((a,b)=>(a.tier||9)-(b.tier||9));
+  const kp=[["total_assets"],["customer_deposits"],["net_loans"],["operating_income"],["net_profit"],["aum"],["aua"],["wealth_client_assets"],["customers"],["investing_users"]];
+  const kpis=kp.map(([k])=>{const v=i.kpi[k]; if(!v) return ''; const L=MLABEL[k];
+    if(v.disclosure) return `<div class="kpi"><span class="l">${L}</span><span class="v nd">${v.disclosure==='Not publicly disclosed'?'Not publicly disclosed':'Not found after research'}</span><span class="d small" title="${esc(v.where_checked)}">Checked: ${esc(trunc(v.where_checked,90))}</span></div>`;
+    const big= (k==='customers'||k==='investing_users')? fmtNum(v.value_abs) : fmtUSD(v.usd_bn);
+    return `<div class="kpi"><span class="l">${L}</span><span class="v">${big||'—'}</span><span class="d">${esc(v.period_label)}${v.currency&&v.currency!=='USD'?' · '+esc(fmtLocal(v)):''}${srcs(v.source_ids)}</span>${v.standard_period?'':'<span class="d" style="color:var(--warn)">Not at standard date</span>'}</div>`;}).join('');
+  const toc=[["ov","Profile"],["fin","Financials"],["lead","Leadership"],["cap","Wealth & digital"],["ev","Partners & initiatives"],["arta","ARTA relevance"],["qa","Corrections & open items"],["src","Sources"]];
+  return `<div class="stack">
+   <div class="hero">
+    <div class="idline"><a href="#institutions">Institutions</a> / <span>${CC[i.country]||''}</span></div>
+    <div class="row" style="justify-content:space-between;align-items:flex-start;gap:16px"><div style="min-width:0"><h1>${esc(i.name)}</h1>${i.name_ar?`<div class="ar muted" style="font-size:17px;margin-top:2px">${esc(i.name_ar)}</div>`:''}</div>
+     <div class="row"><label class="check"><input type="checkbox" id="cmpOne" ${S.compare.includes(i.id)?'checked':''}> Compare</label>${tierTag(tierOf(score(i)))}</div></div>
+    <div class="idline"><span class="tag">${esc(i.category)}</span><span>${esc(i.type)}</span><span>${esc(i.model)}</span>
+     ${i.listed?`<span class="mono">${esc(i.exchange||'')}${i.ticker?': '+esc(i.ticker):''}</span>`:'<span>Unlisted</span>'}
+     ${i.hq_city?`<span>${esc(i.hq_city)}</span>`:''}${i.website?`<a href="${esc(i.website)}" target="_blank" rel="noopener noreferrer">${esc(i.website.replace(/^https?:\/\//,'').replace(/\/$/,''))} ↗</a>`:''}
+     ${par?`<span>Part of ${instLink(par)}</span>`:''}${pill(i.research_status==='Complete'?'Verified profile':'Partial profile')}<span class="faint small">Checked ${fmtDate(i.checked)}</span></div>
+   </div>
+   ${kpis?`<div class="kpis">${kpis}</div>`:''}
+   <div class="profile"><div class="stack" style="min-width:0">
+    <div class="section" id="ov"><h2>Profile</h2><dl class="facts">
+     ${fact('Legal name', i.legal_name)}${fact('Founded', i.founded)}${fact('Regulators', (i.regulators||[]).join(', '))}
+     ${fact('Ownership', i.ownership_summary)}
+     ${(i.shareholders||[]).length?`<dt>Major shareholders</dt><dd>${i.shareholders.map(s=>`${esc(s.holder)}${s.pct!=null?` <b class="num">${esc(s.pct)}%</b>`:''} <span class="faint small">${s.as_of?'at '+fmtDate(s.as_of):''}</span>${srcs(s.source_ids)}`).join('<br>')}</dd>`:''}
+     ${fact('Government link', i.government_link)}${fact('Group structure', i.group_structure)}
+     ${(i.subsidiaries||[]).length?`<dt>Significant subsidiaries</dt><dd>${i.subsidiaries.map(s=>`${s.linked_id&&BYID[s.linked_id]?instLink(BYID[s.linked_id]):`<b>${esc(s.name)}</b>`}${s.pct!=null?` <span class="num">${esc(s.pct)}%</span>`:''} <span class="muted small">${esc(s.activity||'')}</span>${srcs(s.source_ids)}`).join('<br>')}</dd>`:''}
+     ${kids.length?`<dt>Profiled separately</dt><dd>${kids.map(k=>instLink(k)).join(', ')}</dd>`:''}
+     ${fact('Footprint', i.footprint)}${fact('Customer segments', i.customer_segments)}${fact('Business lines', i.business_lines)}
+    </dl></div>
+    <div class="section" id="fin"><h2>Financials</h2>${metricTable(i)}</div>
+    <div class="section" id="lead"><h2>Leadership and decision-makers</h2>
+     ${groupPeople(i.people).map(([g,ps])=>`<h3>${g}</h3><div class="people">${ps.map(personCard).join('')}</div>`).join('') || '<p class="muted">No people recorded.</p>'}</div>
+    <div class="section" id="cap"><h2>Wealth, investment and digital capabilities</h2>${capBlock(i)}</div>
+    <div class="section" id="ev"><h2>Partners and initiatives</h2>${eventsBlock(i)}</div>
+    <div class="section" id="arta"><h2>ARTA relevance</h2>${scoreBlock(i)}</div>
+    <div class="section" id="qa"><h2>Corrections, discrepancies and open items</h2>
+     ${corr.length?`<h3>Changes to the 7 Oct 2026 workbook</h3><div class="tbl-wrap"><table><thead><tr><th>Field</th><th>Original</th><th>Finding</th><th>Now</th></tr></thead><tbody>${corr.map(c=>`<tr><td class="small"><b>${esc(c.field)}</b></td><td class="small muted">${esc(c.original_value)}</td><td>${pill(c.finding)}</td><td class="small">${esc(c.new_value)}${srcs(c.source_ids)}</td></tr>`).join('')}</tbody></table></div>`:''}
+     ${disc.length?`<h3>Discrepancies</h3><ul class="ev-list small">${disc.map(d=>`<li><b>${esc(d.field)}:</b> ${esc(d.detail)} <span class="muted">Resolution: ${esc(d.resolution||'Unresolved')}</span>${srcs(d.source_ids)}</li>`).join('')}</ul>`:''}
+     ${open.length?`<h3>Open items</h3><ul class="ev-list small">${open.map(o=>`<li>${esc(o.item)}</li>`).join('')}</ul>`:''}
+     ${!corr.length&&!disc.length&&!open.length?'<p class="muted">None recorded.</p>':''}</div>
+    <div class="section" id="src"><h2>Sources</h2><div class="tbl-wrap"><table><thead><tr><th>Ref</th><th>Source</th><th>Type</th><th class="n">Tier</th><th>Published</th><th>Checked</th></tr></thead><tbody>
+     ${isrc.map(s=>`<tr><td class="mono">${esc(s.local_id)}</td><td>${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title||s.url)}</a>`:esc(s.title)}<span class="sub">${esc(s.publisher||'')}</span></td><td class="small">${esc(s.doc_type)}</td><td class="n">${esc(s.tier)}</td><td class="small">${fmtDate(s.published)||'—'}</td><td class="small">${fmtDate(s.accessed)}</td></tr>`).join('')}
+    </tbody></table></div></div>
+   </div>
+   <nav class="toc" aria-label="On this page">${toc.map(([a,l])=>`<a href="#" data-jump="${a}">${l}</a>`).join('')}</nav></div></div>`;
+}
+function autoTag(a){ const t={found:['✓ figure found in source','Our automated check found this exact figure in the cited document.'],derived:['derived from cited lines','Sum or calculation from figures in the cited statements.'],approximate:['as worded by issuer','Rounded or lower-bound wording in the source (e.g. “over 2 million”).'],not_found:['needs manual check','Automated check could not find this figure in the cited source; see coverage page.'],unreadable:['source not machine-readable','Source blocked automated reading or is image-based.']}[a]; return t?`<span class="sub" title="${esc(t[1])}" style="color:${a==='found'?'var(--ok)':a==='not_found'?'var(--warn)':'var(--faint)'}">${t[0]}</span>`:''; }
+function shortModel(m){ return m==='Conventional with Islamic window/subsidiary'?'Conventional + Islamic window':m==='Not applicable'?'':(m||''); }
+function trunc(s,n){ s=String(s||''); return s.length>n? s.slice(0,n).replace(/\s+\S*$/,'')+'…' : s; }
+function fact(l,v){ return v? `<dt>${esc(l)}</dt><dd>${esc(v)}</dd>` : ''; }
+
+function vPerson(pid){
+  const p=PBYID[pid]; if(!p) return `<div class="empty">Executive not found. <a href="#people">Back to executives</a></div>`;
+  const i=p.inst; const peers=i.people.filter(x=>x!==p && (x.functions||[]).some(f=>(p.functions||[]).includes(f))).slice(0,6);
+  return `<div class="stack"><div class="hero"><div class="idline"><a href="#people">Executives</a> / ${instLink(i)}</div>
+   <h1>${esc(p.name)}</h1>${p.name_ar?`<div class="ar muted" style="font-size:17px">${esc(p.name_ar)}</div>`:''}
+   <p style="font-size:16px">${esc(p.title)}</p>
+   <div class="idline">${pill(p.role_status)}${(p.functions||[]).map(f=>`<span class="tag">${esc(f)}</span>`).join('')}<span class="faint small">Checked ${fmtDate(p.checked)}</span></div></div>
+   <div class="panel pad"><dl class="facts">
+    <dt>Institution</dt><dd>${instLink(i)} <span class="muted small">${CC[i.country]||''}</span></dd>
+    ${fact('Entity', p.entity)}${fact('Business unit', p.business_unit)}${fact('Reporting scope', p.scope)}
+    <dt>Appointed</dt><dd>${p.appointed?esc(fmtDate(p.appointed)):'<span class="faint">Not verified</span>'}${p.appointed_note?` <span class="muted small">${esc(p.appointed_note)}</span>`:''}</dd>
+    <dt>Role evidence</dt><dd>${esc(p.role_evidence||'')}${srcs(p.source_ids)}</dd>
+    <dt>Career</dt><dd>${p.previous_roles?esc(p.previous_roles):'<span class="faint">Not found in official sources</span>'}</dd>
+    <dt>Education</dt><dd>${p.education?esc(p.education):'<span class="faint">Not publicly verified</span>'}</dd>
+    ${fact('Qualifications', p.qualifications)}
+    <dt>LinkedIn</dt><dd>${p.linkedin_url?`<a href="${esc(p.linkedin_url)}" target="_blank" rel="noopener noreferrer">${esc(p.linkedin_url.replace(/^https:\/\//,''))} ↗</a> `:''}${pill(p.linkedin_status||'Not checked')}</dd>
+   </dl></div>
+   ${peers.length?`<div class="section"><h3>Same function at ${esc(i.short_name||i.name)}</h3><div class="people">${peers.map(personCard).join('')}</div></div>`:''}
+   <p class="faint small">Professional information only, from official and verified public sources. Reporting lines are shown only where an official source states them.</p></div>`;
+}
+
+function vPeople(){
+  const f=S.ppl; const funcs=FUNC_GROUPS.map(g=>g[0]);
+  return `<div class="stack"><div class="hero"><h1>Executives</h1><p class="lede">${PEOPLE.length.toLocaleString('en-US')} people across ${INST.length} institutions. Filter to the functions that matter for a partnership conversation.</p></div>
+   <div class="panel filters"><div class="row"><span class="flabel">Filter</span>
+    <input type="search" id="pq" placeholder="Name, title or institution" value="${esc(f.q)}" style="min-width:220px">
+    <select id="pf" aria-label="Function"><option value="">All functions</option>${funcs.map(x=>`<option ${f.f===x?'selected':''}>${esc(x)}</option>`).join('')}</select>
+    <select id="pc" aria-label="Market"><option value="">All markets</option>${Object.keys(CC).map(k=>`<option value="${k}" ${f.c===k?'selected':''}>${CC[k]}</option>`).join('')}</select>
+    <select id="ps" aria-label="Role status"><option value="">Any role status</option>${['Verified current','Requires verification','Conflicting sources','Departed'].map(x=>`<option ${f.st===x?'selected':''}>${x}</option>`).join('')}</select></div></div>
+   <div id="ptable"></div></div>`;
+}
+function drawPeople(){ const f=S.ppl; const q=norm(f.q); const fs=f.f?FUNC_GROUPS.find(g=>g[0]===f.f)[1]:null;
+  const rows=PEOPLE.filter(p=>(!q||norm([p.name,p.title,p.inst.name,p.inst.short_name].join(' ')).includes(q)) && (!fs||(p.functions||[]).some(x=>fs.includes(x))) && (!f.c||p.inst.country===f.c) && (!f.st||p.role_status===f.st))
+    .sort((a,b)=>a.inst.name.localeCompare(b.inst.name)||a.name.localeCompare(b.name));
+  const shown=rows.slice(0,400);
+  $('ptable').innerHTML=`<p class="small muted" style="margin-bottom:8px">${rows.length} people${rows.length>400?' (showing first 400; narrow the filter)':''}.</p><div class="tbl-wrap"><table><thead><tr><th>Name</th><th>Title</th><th>Institution</th><th class="hide-m">Since</th><th>Role status</th><th class="hide-m">LinkedIn</th></tr></thead><tbody>
+  ${shown.map(p=>`<tr><td>${personLink(p)}</td><td class="small">${esc(p.title)}</td><td class="small">${instLink(p.inst)}<span class="sub">${CC[p.inst.country]||''}</span></td><td class="hide-m small">${p.appointed?fmtDate(p.appointed):'—'}</td><td>${pill(p.role_status)}</td><td class="hide-m small">${p.linkedin_url?`<a href="${esc(p.linkedin_url)}" target="_blank" rel="noopener noreferrer">Profile ↗</a>`:`<span class="faint">${esc(p.linkedin_status||'Not checked')}</span>`}</td></tr>`).join('') || '<tr><td colspan="6" class="empty">No one matches. Clear a filter.</td></tr>'}
+  </tbody></table></div>`; }
+function bindPeople(){ const f=S.ppl; $('pq').oninput=e=>{f.q=e.target.value;drawPeople();}; [['pf','f'],['pc','c'],['ps','st']].forEach(([id,k])=>$(id).onchange=e=>{f[k]=e.target.value;drawPeople();}); drawPeople(); }
+
+function vCompare(){
+  const L=S.compare.map(id=>BYID[id]).filter(Boolean);
+  const picker=`<div class="row"><select id="addCmp" aria-label="Add institution"><option value="">Add an institution…</option>${INST.slice().sort((a,b)=>a.name.localeCompare(b.name)).filter(i=>!S.compare.includes(i.id)).map(i=>`<option value="${i.id}">${esc(i.name)} (${CC[i.country]})</option>`).join('')}</select>${L.length?'<button class="btn" id="clrCmp">Clear all</button>':''}</div>`;
+  if(!L.length) return `<div class="stack"><div class="hero"><h1>Compare</h1><p class="lede">Pick up to four institutions here, or tick rows in the Institutions list.</p></div>${picker}
+   <div class="row">${['ae-enbd','ae-fab','sa-alinma','kw-nbk'].filter(x=>BYID[x]).length?`<button class="btn" id="sampleCmp">Load an example: ${['ae-enbd','ae-fab','sa-alinma','kw-nbk'].filter(x=>BYID[x]).map(x=>esc(BYID[x].short_name||BYID[x].name)).join(', ')}</button>`:''}</div></div>`;
+  const row=(l,f)=>`<tr><td class="l">${l}</td>${L.map(i=>`<td>${f(i)}</td>`).join('')}</tr>`;
+  const kv=(k)=>i=>{const v=i.kpi[k]; if(!v) return '<span class="faint">—</span>'; if(v.disclosure) return pill(v.disclosure); const t=(k==='customers')?fmtNum(v.value_abs):fmtUSD(v.usd_bn); return `<b class="num">${t}</b><span class="sub">${esc(v.period_label)}${v.standard_period?'':' · not standard'}</span>`;};
+  const ppl=(fs)=>i=>i.people.filter(p=>(p.functions||[]).some(f=>fs.includes(f))).slice(0,3).map(p=>`${personLink(p)}<span class="sub">${esc(p.title)}</span>`).join('')||'<span class="faint">None recorded</span>';
+  const mixed = new Set(L.map(i=>(i.kpi.total_assets||{}).period_end).filter(Boolean)).size>1;
+  return `<div class="stack"><div class="hero"><h1>Compare</h1><p class="lede">USD figures at each institution’s reporting date. ${mixed?'<b style="color:var(--warn)">Reporting dates differ in this set; compare with care.</b>':'All balance sheets shown are at the same date.'}</p></div>${picker}
+  <div class="tbl-wrap"><table class="cmpgrid"><thead><tr><th></th>${L.map(i=>`<th>${instLink(i)}<span class="sub">${CC[i.country]} · ${esc(i.type)}</span><button class="btn" style="margin-top:6px" data-rm="${i.id}">Remove</button></th>`).join('')}</tr></thead><tbody>
+   ${row('Category',i=>esc(i.category))}${row('Banking model',i=>esc(i.model))}${row('Listing',i=>i.listed?`<span class="mono">${esc(i.exchange)}: ${esc(i.ticker)}</span>`:'Unlisted')}
+   ${row('Ownership',i=>`<span class="small">${esc(i.ownership_summary)}</span>`)}
+   ${KPI_DEF.slice(0,9).map(([k,l])=>row(l,kv(k))).join('')}
+   ${CAPS.map(k=>row(CAPL[k],i=>pill((i.capabilities[k]||{}).present||'Unclear'))).join('')}
+   ${row('Named wealth/tech partners',i=>((i.capabilities.partners||[]).map(p=>esc(p.partner)).join(', '))||'<span class="faint">None found</span>')}
+   ${row('CEO',ppl(['Group CEO','CEO']))}${row('Wealth & private banking',ppl(['Wealth','Private banking','Affluent','Investments / asset management','Brokerage']))}${row('Digital & technology',ppl(['Digital','Technology','Innovation / partnerships']))}
+   ${row('ARTA fit',i=>`<b class="num">${score(i).toFixed(1)}</b> ${tierTag(tierOf(score(i)))}`)}
+  </tbody></table></div></div>`;
+}
+function bindCompare(){ const a=$('addCmp'); if(a) a.onchange=e=>{ if(e.target.value){ toggleCompare(e.target.value); render(); } };
+  const c=$('clrCmp'); if(c) c.onclick=()=>{ setCompare([]); render(); };
+  const s=$('sampleCmp'); if(s) s.onclick=()=>{ setCompare(['ae-enbd','ae-fab','sa-alinma','kw-nbk'].filter(x=>BYID[x])); render(); };
+  $('page').querySelectorAll('[data-rm]').forEach(b=>b.onclick=()=>{ toggleCompare(b.dataset.rm); render(); }); }
+
+function vPriorities(){
+  const lab={wealth:"Wealth franchise",scale:"Scale",gap:"Digital-investing gap",momentum:"Momentum",shelf:"Product-shelf fit",access:"Access & relationship"};
+  return `<div class="stack"><div class="hero"><h1>ARTA partner priorities</h1><p class="lede">A transparent screening score built only from the evidence in each profile. Move the weights to test a different thesis; the ranking updates instantly. Weights are saved in this browser only.</p></div>
+  <div class="grid g2"><div class="panel pad stack" style="gap:10px"><b>Weights</b>
+   ${Object.keys(lab).map(k=>`<div class="slider"><label for="w_${k}" class="small">${lab[k]}</label><input type="range" id="w_${k}" min="0" max="50" step="5" value="${S.weights[k]}"><span class="num small" id="wv_${k}">${S.weights[k]}</span></div>`).join('')}
+   <div class="row"><button class="btn" id="wreset">Reset to default</button><span class="faint small">Scores are normalised to 100 whatever the weights add up to.</span></div></div>
+   <div class="prose small"><b>What each component measures (0–5)</b><ul>
+    <li><b>Wealth franchise</b>: private banking (1.5), an affluent/priority tier (1), asset management (1), brokerage (0.75), advisory or discretionary service (0.75).</li>
+    <li><b>Scale</b>: banks by total assets (≥150bn = 5, 75–150 = 4, 30–75 = 3, 10–30 = 2, 3–10 = 1, under 3bn = 0.5); capital arms and non-banks by AUM, AUA or client assets (≥50bn = 5, 20–50 = 4, 5–20 = 3, 1–5 = 2, under 1bn or undisclosed = 1). USD.</li>
+    <li><b>Digital-investing gap</b>: no online investing found = 5; investing app without model portfolios = 4; already offers model portfolios/robo = 2; one point less if a named wealth-tech vendor is in place.</li>
+    <li><b>Momentum</b>: dated wealth/digital launches and partnerships in 2025–2026 (none = 1, 1–2 = 2, 3–4 = 3, 5–7 = 4, 8+ = 5).</li>
+    <li><b>Product-shelf fit</b>: what ARTA's shelf would add: no private markets (2), no model portfolios (2), no structured products (1); capped at 2 if there is little wealth activity to attach to.</li>
+    <li><b>Access</b>: relationship status from the original workbook (live partner 5 … none 1), plus one if two or more verified wealth/digital decision-makers are named.</li></ul>
+    <p>Tier 1 ≥ 65, Tier 2 ≥ 50. Flags (Islamic shelf, KSA licensing, competing product) are shown but not scored.</p></div></div>
+  <div class="panel filters"><div class="row"><span class="flabel">Show</span>
+   <select id="prc" aria-label="Market"><option value="">All markets</option>${Object.keys(CC).map(k=>`<option value="${k}" ${S.prio.c===k?'selected':''}>${CC[k]}</option>`).join('')}</select>
+   <select id="prcat" aria-label="Category"><option value="">All categories</option>${[...new Set(INST.map(i=>i.category))].map(c=>`<option ${S.prio.cat===c?'selected':''}>${esc(c)}</option>`).join('')}</select></div></div>
+  <div id="prtable"></div></div>`;
+}
+function drawPrio(){ const keys=Object.keys(M.weights);
+  const rows=INST.filter(i=>(!S.prio.c||i.country===S.prio.c)&&(!S.prio.cat||i.category===S.prio.cat)).map(i=>({i,s:score(i)})).sort((a,b)=>b.s-a.s);
+  $('prtable').innerHTML=`<div class="tbl-wrap"><table><thead><tr><th class="n">#</th><th>Institution</th><th class="n">Score</th><th>Tier</th>${keys.map(k=>`<th class="n hide-m">${k}</th>`).join('')}<th class="hide-m">Flags</th></tr></thead><tbody>
+   ${rows.map(({i,s},ix)=>`<tr><td class="n faint">${ix+1}</td><td>${instLink(i)}<span class="sub">${CC[i.country]} · ${esc(i.type)}</span></td><td class="n"><b>${s.toFixed(1)}</b></td><td>${tierTag(tierOf(s))}</td>
+   ${keys.map(k=>`<td class="n hide-m" title="${esc(i.score.components[k].why)}">${i.score.components[k].score.toFixed(1)}</td>`).join('')}<td class="hide-m small">${(i.score.flags||[]).map(esc).join('<br>')}</td></tr>`).join('')}</tbody></table></div>`; }
+function bindPriorities(){ Object.keys(M.weights).forEach(k=>{ $('w_'+k).oninput=e=>{ S.weights[k]=+e.target.value; $('wv_'+k).textContent=e.target.value; store.set('weights',S.weights); drawPrio(); }; });
+  $('wreset').onclick=()=>{ S.weights=Object.assign({},M.weights); store.set('weights',{}); render(); };
+  $('prc').onchange=e=>{S.prio.c=e.target.value;drawPrio();}; $('prcat').onchange=e=>{S.prio.cat=e.target.value;drawPrio();}; drawPrio(); }
+
+function vCoverage(){
+  const cols=[["total_assets","Assets"],["customer_deposits","Deposits"],["net_loans","Loans"],["operating_income","Op. income"],["net_profit","Net profit"],["aum","AUM"],["customers","Customers"]];
+  const cell=(i,k)=>{const v=i.kpi[k]; if(!v) return '<td class="c-miss" title="Not recorded">—</td>'; if(v.disclosure) return `<td class="c-nd" title="${esc(v.disclosure)}: ${esc(v.where_checked)}">ND</td>`; return v.standard_period?'<td class="c-std" title="At standard period">●</td>':`<td class="c-old" title="${esc(v.period_label)}">◐</td>`;};
+  const planned=Object.entries(M.universe.batches).flatMap(([b,ids])=>ids.map(id=>({id,b})));
+  const pending=planned.filter(x=>!BYID[x.id]);
+  const st=(arr,f)=>arr.filter(f).length;
+  return `<div class="stack"><div class="hero"><h1>Coverage and data quality</h1><p class="lede">What is complete, what is outstanding, which fields are not publicly disclosed, and where sources disagree.</p></div>
+  <div class="statgrid">
+   <div class="stat"><b>${INST.length}/${planned.length}</b><span>Institutions researched</span></div>
+   <div class="stat"><b>${st(INST,i=>i.research_status==='Complete')}</b><span>Complete profiles</span></div>
+   <div class="stat"><b>${st(PEOPLE,p=>p.role_status==='Verified current')}</b><span>People verified in role</span></div>
+   <div class="stat"><b>${st(PEOPLE,p=>p.role_status!=='Verified current')}</b><span>People needing a check</span></div>
+   <div class="stat"><b>${(()=>{const ms=INST.flatMap(i=>i.metrics); const f=ms.filter(m=>m.auto_check==='found').length; return ms.length? Math.round(f/ms.length*100)+'%':'—';})()}</b><span>Figures machine-confirmed in their cited source</span></div>
+   <div class="stat"><b>${DB.discrepancies.length}</b><span>Discrepancies logged</span></div>
+   <div class="stat"><b>${DB.open_items.length}</b><span>Open items</span></div></div>
+  <div class="section"><h3>Field availability</h3><div class="legend"><span class="c-std">● at standard period</span><span class="c-old">◐ other period</span><span class="c-nd">ND not publicly disclosed (checked)</span><span class="c-miss">— not recorded</span></div>
+  <div class="tbl-wrap"><table class="cov"><thead><tr><th>Institution</th>${cols.map(c=>`<th>${c[1]}</th>`).join('')}<th>People</th><th>Sources</th><th>Status</th></tr></thead><tbody>
+   ${INST.slice().sort((a,b)=>a.country.localeCompare(b.country)||a.name.localeCompare(b.name)).map(i=>`<tr><td class="l">${instLink(i)}<span class="sub">${CC[i.country]} · ${esc(i.category)}</span></td>${cols.map(c=>cell(i,c[0])).join('')}<td>${i.counts.verified_people}/${i.counts.people}</td><td>${i.counts.sources}</td><td>${pill(i.research_status==='Complete'?'Complete':'Partial')}</td></tr>`).join('')}
+  </tbody></table></div></div>
+  ${pending.length?`<div class="section"><h3>Outstanding research (${pending.length})</h3><p class="small muted">${pending.map(x=>esc(M.universe.names[x.id]||x.id)).join(' · ')}</p></div>`:''}
+  <div class="section"><h3>Corrections to the 7 Oct 2026 workbook</h3>
+   <p class="small muted">Structural fixes to the original file, then a summary of field-by-field reconciliation. Every row is in the workbook's Correction log.</p>
+   <div class="tbl-wrap"><table><thead><tr><th>Area</th><th>Item</th><th>What was wrong</th><th>Finding</th><th>Now</th></tr></thead><tbody>
+   ${(M.structural_corrections||[]).map(c=>`<tr><td class="small">${esc(c.area)}</td><td class="small"><b>${esc(c.item)}</b></td><td class="small muted">${esc(c.original)}</td><td>${pill(c.finding)}</td><td class="small">${esc(c.now)}</td></tr>`).join('')}
+   </tbody></table></div>
+   ${(()=>{const by={}; DB.corrections.forEach(c=>{by[c.finding]=(by[c.finding]||0)+1}); const ks=Object.keys(by); return ks.length?`<div class="row">${ks.map(k=>`<span class="tag">${esc(k)}: ${by[k]}</span>`).join('')}<span class="small muted">field and person checks across ${new Set(DB.corrections.map(c=>c.institution_id)).size} institutions from the original workbook</span></div>`:''})()}
+  </div>
+  <div class="section"><h3>Discrepancies (${DB.discrepancies.length})</h3>${DB.discrepancies.length?`<div class="tbl-wrap"><table><thead><tr><th>Institution</th><th>Field</th><th>Detail</th><th>Resolution</th></tr></thead><tbody>${DB.discrepancies.map(d=>`<tr><td class="small">${BYID[d.institution_id]?instLink(BYID[d.institution_id]):esc(d.institution)}</td><td class="small"><b>${esc(d.field)}</b></td><td class="small">${esc(d.detail)}${srcs(d.source_ids)}</td><td class="small muted">${esc(d.resolution||'Unresolved')}</td></tr>`).join('')}</tbody></table></div>`:'<p class="muted">None.</p>'}</div>
+  <div class="section"><h3>Excluded from the universe, and why</h3><ul class="ev-list small">${(M.universe.excluded_watchlist||[]).map(x=>`<li><b>${esc(x.name)}</b>: ${esc(x.reason)}</li>`).join('')}</ul></div>
+  </div>`;
+}
+
+function vSources(){
+  const f=S.src; return `<div class="stack"><div class="hero"><h1>Source register</h1><p class="lede">Every source cited anywhere in the database, with tier, publication date and the date it was checked. Tier 1 = audited statements and exchange filings; 5 = news used for corroboration.</p></div>
+  <div class="panel filters"><div class="row"><span class="flabel">Filter</span><input type="search" id="sq" placeholder="Title, publisher or URL" value="${esc(f.q)}" style="min-width:240px">
+   <select id="st" aria-label="Tier"><option value="">All tiers</option>${[1,2,3,4,5].map(t=>`<option value="${t}" ${String(f.tier)===String(t)?'selected':''}>Tier ${t}</option>`).join('')}</select>
+   <select id="si" aria-label="Institution"><option value="">All institutions</option>${INST.slice().sort((a,b)=>a.name.localeCompare(b.name)).map(i=>`<option value="${i.id}" ${f.inst===i.id?'selected':''}>${esc(i.name)}</option>`).join('')}</select></div></div><div id="stable"></div></div>`; }
+function drawSources(){ const f=S.src; const q=norm(f.q); const rows=Object.values(SRC).filter(s=>(!q||norm([s.title,s.publisher,s.url].join(' ')).includes(q))&&(!f.tier||String(s.tier)===String(f.tier))&&(!f.inst||s.institution_id===f.inst));
+  const shown=rows.slice(0,500);
+  $('stable').innerHTML=`<p class="small muted" style="margin-bottom:8px">${rows.length} sources${rows.length>500?' (first 500 shown)':''}.</p><div class="tbl-wrap"><table><thead><tr><th>Ref</th><th>Source</th><th class="hide-m">Institution</th><th>Type</th><th class="n">Tier</th><th class="hide-m">Published</th><th class="hide-m">Checked</th></tr></thead><tbody>
+  ${shown.map(s=>`<tr><td class="mono">${esc(s.local_id)}</td><td>${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title||s.url)}</a>`:esc(s.title)}<span class="sub">${esc(s.publisher||'')}</span></td><td class="hide-m small">${BYID[s.institution_id]?instLink(BYID[s.institution_id]):''}</td><td class="small">${esc(s.doc_type)}</td><td class="n">${esc(s.tier)}</td><td class="hide-m small">${fmtDate(s.published)||'—'}</td><td class="hide-m small">${fmtDate(s.accessed)}</td></tr>`).join('')}</tbody></table></div>`; }
+function bindSources(){ const f=S.src; $('sq').oninput=e=>{f.q=e.target.value;drawSources();}; $('st').onchange=e=>{f.tier=e.target.value;drawSources();}; $('si').onchange=e=>{f.inst=e.target.value;drawSources();}; drawSources(); }
+
+function vMethod(){
+  const fx=M.fx; return `<div class="stack"><div class="hero"><h1>Method and handover</h1><p class="lede">How the universe was defined, how facts were verified, how to read the statuses, and how to refresh the data.</p></div>
+  <div class="section"><h2>Who is in, and why</h2><div class="prose"><ul>${M.universe.inclusion_criteria.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div></div>
+  <div class="section"><h2>Verification standard</h2><div class="prose"><ul>
+   <li>Source hierarchy: (1) audited or reviewed financial statements, annual reports, regulatory and exchange filings; (2) official websites, leadership pages, press releases and investor presentations; (3) central banks and regulators; (4) official biographies and verified LinkedIn profiles; (5) reputable financial news for corroboration.</li>
+   <li>Facts are cited at field level. Each metric records value, unit, original currency, period, consolidation scope, exact definition, source, page or section where available, publication date and date checked.</li>
+   <li>AUM is never inferred from total assets, deposits, custody or fiduciary assets. Where it is not disclosed, the profile says “Not publicly disclosed” and where we looked.</li>
+   <li>Executives are checked against the current official leadership page and recent appointment or departure news. LinkedIn URLs are recorded only when linked officially or matched on name, current employer and title; otherwise “Not verified”.</li>
+   <li>Professional information only: no personal contact details, ages or personal characteristics.</li></ul></div></div>
+  <div class="section"><h2>Statuses</h2><div class="tbl-wrap"><table><tbody>
+   <tr><td>${pill('Verified')}</td><td class="small">Confirmed in a tier 1–2 source (or tier 3–4 for people), with date.</td></tr>
+   <tr><td>${pill('Requires verification')}</td><td class="small">Only a weaker or older source found, or the role could not be confirmed on a current official page.</td></tr>
+   <tr><td>${pill('Conflicting sources')}</td><td class="small">Sources disagree; the discrepancy is logged with both references.</td></tr>
+   <tr><td>${pill('Not publicly disclosed')}</td><td class="small">Searched in the named documents; the institution does not publish it.</td></tr>
+   <tr><td>${pill('Not found after research')}</td><td class="small">No reliable public evidence located; this is a research gap, not proof of absence.</td></tr></tbody></table></div></div>
+  <div class="section"><h2>Reporting dates and FX</h2><div class="prose small"><p>Standard comparison: balance sheet at ${fmtDate(M.standard_balance_sheet_date)}; income ${esc(M.standard_income_period)}. Later figures (e.g. Q3 2026) are kept as extra records but are not used in comparisons.</p></div>
+   <div class="tbl-wrap"><table><thead><tr><th>Currency</th><th class="n">Per USD</th><th>Basis</th></tr></thead><tbody>
+   ${Object.entries(fx.pegged).filter(([c])=>c!=='USD').map(([c,v])=>`<tr><td class="mono">${c}</td><td class="n">${v.rate}</td><td class="small">${esc(v.source)}</td></tr>`).join('')}
+   ${Object.entries(fx.KWD.point_rates).map(([d,r])=>`<tr><td class="mono">KWD</td><td class="n">${r}</td><td class="small">CBK rate at ${fmtDate(d)} (balance sheet)</td></tr>`).join('')}
+   ${Object.entries(fx.KWD.average_rates).map(([d,v])=>`<tr><td class="mono">KWD</td><td class="n">${v.rate}</td><td class="small">${esc(v.source)} (income)</td></tr>`).join('')}</tbody></table></div></div>
+  <div class="section"><h2>Refreshing the data</h2><div class="prose small"><ol>
+   <li>Each institution is one file: <span class="mono">research/institutions/&lt;id&gt;.json</span> in the project folder, following <span class="mono">research/RESEARCH_PROTOCOL.md</span>.</li>
+   <li>Edit or add a file (new results, a new appointment), keeping every value tied to a source with dates.</li>
+   <li>Run <span class="mono">python3 tools/build_db.py</span>, then <span class="mono">python3 tools/build_workbook.py</span> and <span class="mono">python3 tools/build_site.py</span>. The QA report flags broken references, vocabulary errors and figures not at the standard date.</li>
+   <li>Republish this site from the generated HTML. The Excel workbook and CSV/SQLite exports are regenerated from the same data, so all three stay in step.</li>
+   <li>Twice a year, roll the standard dates forward (31 Dec for full-year results; 30 Jun for half-year) and re-verify leadership pages.</li></ol></div></div>
+  </div>`;
+}
+
+/* ---------- router ---------- */
+function render(){
+  const h=(location.hash||'#home').slice(1); const [view, a, b]=h.split('.');
+  let html, bind, nav=view;
+  if(view==='i'){ html=vInstitution(a); nav='institutions'; bind=()=>{ const c=$('cmpOne'); if(c) c.onchange=()=>toggleCompare(a); $('page').querySelectorAll('[data-jump]').forEach(x=>x.onclick=e=>{e.preventDefault(); const t=$(x.dataset.jump); if(t) t.scrollIntoView({behavior:'smooth',block:'start'});}); }; }
+  else if(view==='p'){ html=vPerson(a+':'+b); nav='people'; }
+  else if(view==='institutions'){ html=vInstitutions(); bind=bindInstitutions; }
+  else if(view==='people'){ html=vPeople(); bind=bindPeople; }
+  else if(view==='compare'){ html=vCompare(); bind=bindCompare; }
+  else if(view==='priorities'){ html=vPriorities(); bind=bindPriorities; }
+  else if(view==='coverage'){ html=vCoverage(); }
+  else if(view==='sources'){ html=vSources(); bind=bindSources; }
+  else if(view==='method'){ html=vMethod(); }
+  else { html=vHome(); nav='home'; bind=()=>$('page').querySelectorAll('[data-country]').forEach(x=>x.onclick=()=>{S.dir.c=[x.dataset.country];}); }
+  $('page').innerHTML=html; drawNav(nav); if(bind) bind(); $('pop').hidden=true;
+  if(view!=='i' || !window.__keepScroll) window.scrollTo(0,0);
+  document.title = (view==='i'&&BYID[a]? BYID[a].name+' · ' : view==='p'&&PBYID[a+':'+b]? PBYID[a+':'+b].name+' · ' : '') + 'GCC FI Intelligence';
+}
+window.addEventListener('hashchange', render);
+setCompare(S.compare); render();
+</script>

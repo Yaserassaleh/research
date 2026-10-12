@@ -1,0 +1,1836 @@
+{
+  "id": "ae-mashreq",
+  "name": "Mashreq",
+  "short_name": "Mashreq",
+  "legal_name": "Mashreqbank PSC",
+  "name_ar": "المشرق",
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.mashreq.com",
+  "linkedin_company": "https://www.linkedin.com/company/mashreqbank",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1967 (incorporated in the Emirate of Dubai under a decree issued by the Ruler of Dubai)",
+  "regulators": [
+    "CBUAE",
+    "SCA",
+    "DFSA"
+  ],
+  "listed": true,
+  "exchange": "DFM",
+  "ticker": "MASQ",
+  "parent_id": null,
+  "ownership_summary": "DFM-listed and controlled by Al Ghurair family entities. The H1 2026 investor presentation (June 2026) shows Saif Al Ghurair Investment LLC 42.4%, Abdulla Ahmed Al Ghurair Inv. Co. 32.0%, Masar Investments 12.7% and other shareholders 12.8%, and states that the Al Ghurair family has held a majority stake since founding in 1967. The two Al Ghurair-named holders total 74.4%; the presentation does not say whether Masar Investments is a family entity.",
+  "shareholders": [
+    {
+      "holder": "Saif Al Ghurair Investment LLC",
+      "pct": 42.4,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "holder": "Abdulla Ahmed Al Ghurair Inv. Co.",
+      "pct": 32.0,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "holder": "Masar Investments (affiliation not stated in source)",
+      "pct": 12.7,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "holder": "Other shareholders",
+      "pct": 12.8,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "government_link": "No government shareholder shown in the June 2026 shareholding chart (S5). Designated a Domestic Systemically Important Bank (D-SIB) by the CBUAE during 2025 (S4).",
+  "group_structure": "Mashreqbank PSC operates branches in the UAE, Oman, Bahrain, Kuwait, Egypt, Hong Kong, India, Pakistan, Qatar, the UK and the US, plus direct subsidiaries (30 Jun 2026): Sukoon Insurance PJSC (64.76%), Mashreq Securities LLC (100%, brokerage), Mashreq Capital (DIFC) Limited (100%, asset and fund management), Mashreq Al Islami Finance Company PJSC (99.80%), Mashreq Bank Pakistan Limited (100%), Neo Ventures Ltd (100%, corporate venture capital), Mindscape FZ LLC (100%, IT services), Injaz Services FZ LLC (100%), Shorouq Commodities Trading DMCC (100%), Osool (under liquidation) and SPVs (S1). Associate: Emirates Digital Wallet LLC (23.61%, S2). None of the subsidiaries is profiled separately; Mashreq Capital and Mashreq Securities are recorded in this file with scope 'Subsidiary: ...'.",
+  "subsidiaries": [
+    {
+      "name": "Mashreq Capital (DIFC) Limited",
+      "pct": 100.0,
+      "activity": "Asset and fund management (DFSA-regulated; DIFC-domiciled funds and discretionary accounts)",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S22"
+      ]
+    },
+    {
+      "name": "Mashreq Securities LLC",
+      "pct": 100.0,
+      "activity": "Brokerage (DFM, ADX, Nasdaq Dubai access)",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S47"
+      ]
+    },
+    {
+      "name": "Mashreq Al Islami Finance Company (PJSC)",
+      "pct": 99.8,
+      "activity": "Islamic finance company",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "Sukoon Insurance (PJSC)",
+      "pct": 64.76,
+      "activity": "Insurance and reinsurance",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "Mashreq Bank Pakistan Limited",
+      "pct": 100.0,
+      "activity": "Banking (digital retail bank, Mashreq NEO Pakistan)",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S35"
+      ]
+    },
+    {
+      "name": "Neo Ventures Ltd",
+      "pct": 100.0,
+      "activity": "Corporate venture capital",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S31"
+      ]
+    },
+    {
+      "name": "Mindscape FZ LLC",
+      "pct": 100.0,
+      "activity": "IT services",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "footprint": "Branches in the UAE, Oman, Bahrain, Kuwait, Egypt, Hong Kong, India, Pakistan, Qatar, the UK and the US (H1 2026 financial statements, note 1, S1). Digital retail bank launched in Pakistan (Nov 2025, S35). Checked 2026-10-12.",
+  "customer_segments": "Retail (Mashreq NEO, NEO PLUS), affluent (Mashreq Gold), Emirati banking, private banking (HNW, family offices), external asset managers, SME (NEOBiz), corporate, financial institutions and investment banking.",
+  "business_lines": "Wholesale Banking (54% of assets and 39% of operating income in H1 2026), Retail Banking (AED 38bn assets at 30 Jun 2026, 'supported by mortgage, business loans and wealth management'), Treasury & Global Markets, Insurance & Other via Sukoon (S5). Wealth: Mashreq Private Banking (advisory, discretionary mandates, funds, structured products, fixed income, equities, Lombard lending, family-office services), Mashreq Gold, NEO in-app investing, Mashreq Capital (asset management) and Mashreq Securities (brokerage).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 365747852,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated interim statement of financial position (reviewed)",
+      "status": "Verified",
+      "locator": "Statement of financial position, printed p.2 (PDF p.4)",
+      "note": "Press release rounds to AED 365.7bn.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 334633871,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, consolidated statement of financial position (audited comparative)",
+      "status": "Verified",
+      "locator": "S1 printed p.2, comparative column",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 227189895,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits (AED 200,820,965k, note 12) plus Islamic customers' deposits (AED 26,368,930k, note 13). Excludes deposits and balances due to banks and repurchase agreements with banks.",
+      "status": "Verified",
+      "locator": "Statement of financial position, printed p.2",
+      "note": "Sum computed from the two lines; matches AED 227.2bn in the results release.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 204895434,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits (AED 178,891,181k) plus Islamic customers' deposits (AED 26,004,253k); excludes due to banks",
+      "status": "Verified",
+      "locator": "S1 printed p.2, comparative column",
+      "note": "Sum computed; FY2025 release says AED 205bn.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 169087997,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and advances to customers (AED 139,593,874k) plus Islamic financing and investment products (AED 29,494,123k), at amortised cost net of impairment allowances; excludes loans and advances to banks (AED 62,043,182k)",
+      "status": "Verified",
+      "locator": "Statement of financial position, printed p.2",
+      "note": "Sum computed; investor presentation shows AED 169,088m total loans and advances to customers.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 164348679,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and advances to customers (AED 138,070,975k) plus Islamic financing and investment products (AED 26,277,704k), net",
+      "status": "Verified",
+      "locator": "S1 printed p.2, comparative column",
+      "note": "Sum computed.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 44044672,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. Tier 1 capital notes (AED 4,774,900k) and non-controlling interests (AED 1,259,933k)",
+      "status": "Verified",
+      "locator": "Statement of financial position, printed p.2",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 12576414,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income' (net interest and Islamic income, net fees, net investment income and other income, net), consolidated statement of profit or loss",
+      "status": "Verified",
+      "locator": "Consolidated statement of profit or loss, printed p.11",
+      "note": "Release rounds to AED 12.6bn.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 6826222,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income', condensed consolidated interim statement of profit or loss",
+      "status": "Verified",
+      "locator": "Statement of profit or loss, printed p.3 (PDF p.5)",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 6839622,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year attributable to owners of the Parent (total profit for the year AED 6,970,193k; profit before tax AED 8,260,984k)",
+      "status": "Verified",
+      "locator": "Consolidated statement of profit or loss, printed p.11",
+      "note": "Release headline 'net profit after tax AED 7.0bn' is total profit incl. non-controlling interests.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 3955432,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period attributable to owners of the Parent (total profit for the period AED 4,047,569k; profit before tax AED 4,804,642k)",
+      "status": "Verified",
+      "locator": "Statement of profit or loss, printed p.3",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "H1 2026 interim financial statements (S1), FY2025 financial statements (S2, no fiduciary/AUM note found), H1 2026 results release and MD&A (S3, S6), H1 2026 investor presentation (S5), Mashreq Capital website home and About pages (S21, S22) and BITMAC release (S19). Mashreq Capital AUM not stated in any opened source. GSAM's USD 3.1tn assets under supervision (S14) is Goldman's figure, not Mashreq's."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Private banking pages (S23, S32), H1 2026 investor presentation (S5), MD&A (S6)."
+    },
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "H1 2026 and FY2025 results releases (S3, S4), H1 2026 investor presentation (S5), MD&A (S6), NEO page (S30). FY2025 annual report (S44) could not be opened (file over 10 MB)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "NEO Investments and US Stocks & ETFs pages (S16, S17), investor presentation (S5)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "Investor presentation (S5) gives only workforce ratios (36% female, 48% Emirati representation in 2025); FY2025 annual report (S44) not openable."
+    }
+  ],
+  "people": [
+    {
+      "name": "Abdul Aziz Abdulla Al Ghurair",
+      "name_ar": null,
+      "title": "Non-Executive Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2019",
+      "appointed_note": "Investor presentation: Non-Executive Chairman since 2019.",
+      "previous_roles": "CEO of Mashreq for nearly 30 years before becoming Chairman. External: Chairman, UAE Banks Federation; Chairman, Abdulla Al Ghurair Group; Chairman, Hattan group of companies.",
+      "education": "Honors degree in Industrial Engineering, California Polytechnic State University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "H1 2026 investor presentation, June 2026 (S5); quoted as Chairman in H1 2026 results release, 30 Jul 2026 (S3); official board page live 2026-10-12 (S10).",
+      "source_ids": [
+        "S5",
+        "S3",
+        "S10",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmad Ali Al Khallafi",
+      "name_ar": null,
+      "title": "Vice Chairman",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Listed as Vice Chairman in the directors' report as at 31 Dec 2025.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Directors' report in FY2025 financial statements dated 2 Feb 2026 (S2). No 2026 board list opened; other directors at 31 Dec 2025: Rashed Saif Ahmed Al Ghurair, John Gregory Iossifidis, Iyad Mazher Saleh Malas, Saeed Saif Ahmed Al Ghurair, Mariam Saeed Ghobash.",
+      "source_ids": [
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmed Abdelaal",
+      "name_ar": null,
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2019",
+      "appointed_note": "Joined Mashreq in 2017 (Group Head of Corporate & Investment Banking); Group CEO since 2019 per Forbes Middle East (seen in search results only).",
+      "previous_roles": "2019– Group CEO, Mashreq; 2017–2019 Group Head of Corporate & Investment Banking, Mashreq; earlier HSBC Middle East (Regional Head of Corporate Banking, MENAT), ABN AMRO Bank and American Express Bank (conference speaker profile and Forbes ME, both seen in search results only).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://ae.linkedin.com/in/ahmed-abdelaal-38233610",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as Group CEO in H1 2026 results release, 30 Jul 2026 (S3), and in H1 2026 investor presentation (S5). No departure news found. LinkedIn URL carried over from the original workbook (marked verified 2026-10-07); not re-checked in B03 and no contrary evidence.",
+      "source_ids": [
+        "S3",
+        "S5",
+        "S48",
+        "S49"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fernando Morillo",
+      "name_ar": null,
+      "title": "Group Head of Retail Banking",
+      "functions": [
+        "Retail",
+        "Affluent",
+        "Private banking",
+        "Digital"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Retail Banking Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not stated on the official profile; quoted in this role from Apr 2025.",
+      "previous_roles": "Managing Director & Global Head of Retail Products and Segments, Standard Chartered (Singapore); BBVA from 2011 (led retail and commercial products and segments across the group's banks); Bankinter from 2002 (senior retail roles); started at McKinsey & Company. Almost 30 years in financial services.",
+      "education": "General Management Program, Harvard Business School; MBA, Instituto de Empresa (Madrid); BS Aeronautical Engineering, Universidad Politécnica de Madrid",
+      "qualifications": null,
+      "linkedin_url": "https://ae.linkedin.com/in/fernandomorillolopez",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official profile live 2026-10-12: remit covers personal banking, Mashreq Gold, private banking, SME, Islamic, Emirati, Mashreq NEO and NEOBiz (S8). Quoted as Group Head of Retail Banking on 24 Nov 2025 (S35) and 10 Apr 2025 (S14). LinkedIn URL carried over from original workbook; not re-checked; no contrary evidence.",
+      "source_ids": [
+        "S8",
+        "S35",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Vipul Kapur",
+      "name_ar": null,
+      "title": "Managing Director, Head of Private Banking (also responsible for Wealth Products & Platform); styled 'Global Head of Private Banking' in June 2026",
+      "functions": [
+        "Private banking",
+        "Wealth"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Private Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined as Head of Private Banking after 25 years at Citibank; a Sep 2021 Hubbis article (seen in search results only) put him in his fifth year in the role, i.e. about 2016-17.",
+      "previous_roles": "25 years at Citibank (India, Singapore, Dubai, Bahrain, London): built the NRI private wealth business in the UAE and headed the Global NRI business; headed UK Consumer and Citi IPB private client wealth business for EMEA; set up Citi's first third-party mutual fund distribution tie-ups.",
+      "education": "Institute of Chartered Accountants of India (ranked 7th nationally); Institute of Cost and Management Accountants of India (gold medalist), per official profile",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official private-banking leadership profile live 2026-10-12 (S9); quoted as 'Global Head of Private Banking' in the Neovision/Red Lions release of 9 Jun 2026 (S18) and as Head of Private Banking in the GSAM release of 10 Apr 2025 (S14).",
+      "source_ids": [
+        "S9",
+        "S18",
+        "S14",
+        "S43"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mufazzal Kajiji",
+      "name_ar": null,
+      "title": "Head of Mashreq Gold and Executive Vice President (as appointed May 2020)",
+      "functions": [
+        "Affluent"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Mashreq Gold (Retail Banking Group)",
+      "scope": "Group",
+      "appointed": "2020-05",
+      "appointed_note": "Succeeded Ishrat Kiyani; remit included Mashreq Gold investment, mortgage and insurance products and its investment advisors.",
+      "previous_roles": "Head of Retail Banking Group, Noor Bank; 10+ years at First Gulf Bank as EVP and Global Head of Wealth Management and Affluent Banking; earlier Citibank, Standard Chartered, Alliance Capital (Bernstein).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Only source is a May 2020 appointment report (S38). No current official page or 2025-2026 mention found.",
+      "source_ids": [
+        "S38"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Radu Topliceanu",
+      "name_ar": null,
+      "title": "Executive Vice President and Global Head of Mashreq Neo",
+      "functions": [
+        "Digital",
+        "Retail"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Mashreq NEO",
+      "scope": "Group",
+      "appointed": "2023-01",
+      "appointed_note": "Reported as appointed Head of Neo and Personal Banking in Jan 2023 (Romanian press, seen in search results only).",
+      "previous_roles": "Deputy CEO and Head of Retail Banking, BRD Groupe Société Générale (Romania), about three years before Mashreq (seen in search results only).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Title from an undated The National video page (S37); FinTech Futures report returned HTTP 403 (S39). No official page or 2026 mention found.",
+      "source_ids": [
+        "S37",
+        "S39"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Philip Philippides",
+      "name_ar": null,
+      "title": "Chief Executive Officer, Mashreq Capital",
+      "functions": [
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Mashreq Capital (DIFC) Limited",
+      "business_unit": "Asset management",
+      "scope": "Subsidiary: Mashreq Capital (DIFC) Limited",
+      "appointed": "2024-11",
+      "appointed_note": "Appointment announced 18 Nov 2024.",
+      "previous_roles": "28+ years at Morgan Stanley, BlackRock/iShares, MSCI and Amundi (expanded Amundi's ETF and active fund business in the UK); ran his own strategy consultancy.",
+      "education": "Executive MBA, Bayes Business School; MSc Mechanical Engineering, Brunel University; BEng Mechanical Engineering, Queen Mary, University of London",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Appointment release (S20); quoted as CEO in the BITMAC launch release, 3 Dec 2025 (S19). Mashreq Capital website names no CEO (S22). No departure news found; latest official mention Dec 2025.",
+      "source_ids": [
+        "S20",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Amol Shitole",
+      "name_ar": null,
+      "title": "Head of Fixed Income, Mashreq Capital",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Mashreq Capital (DIFC) Limited",
+      "business_unit": "Fixed income",
+      "scope": "Subsidiary: Mashreq Capital (DIFC) Limited",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": "CFA",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Named on Mashreq Capital homepage with media commentary dated Apr-Sep 2026 (S21).",
+      "source_ids": [
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Abdel Razek",
+      "name_ar": null,
+      "title": "Group Head of Technology, Transformation & Information",
+      "functions": [
+        "Technology",
+        "Digital"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Technology, Transformation & Information",
+      "scope": "Group",
+      "appointed": "2023-05",
+      "appointed_note": "Appointment announced 1 May 2023.",
+      "previous_roles": "Standard Chartered from 2015, latterly Chief Technology and Operations Officer, Africa & Middle East; British American Tobacco 2007–2015, latterly Global Head of Technology Services.",
+      "education": "Degree in Electrical Engineering, McGill University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Official appointment release (S33); quoted in this role in Khaleej Times, 25 Jul 2025 (S34). Official management-team profile URL returned 404 and the team page renders no names; original workbook cites a 2026 prospectus (not opened). See open_items for a conflicting aggregator listing.",
+      "source_ids": [
+        "S33",
+        "S34"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Xi Liang",
+      "name_ar": null,
+      "title": "Head of Artificial Intelligence",
+      "functions": [
+        "Technology",
+        "Innovation / partnerships"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Artificial Intelligence",
+      "scope": "Group",
+      "appointed": "2025-07",
+      "appointed_note": "Announced 25 Jul 2025.",
+      "previous_roles": "Judo Bank, Endeavour Group, McKinsey & Company (advisory), IBM (AI research; four patents); 15+ years in banking, retail, healthcare and consulting.",
+      "education": "PhD Engineering and Bachelor of Computer Science, University of Melbourne",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Khaleej Times appointment report, 25 Jul 2025 (S34). No 2026 source found.",
+      "source_ids": [
+        "S34"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faisal Mohammed AlShimmari",
+      "name_ar": null,
+      "title": "Head of ESG & Corporate Strategy",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "ESG & Corporate Strategy",
+      "scope": "Group",
+      "appointed": "2023-08",
+      "appointed_note": "Announced 15 Aug 2023, subject to regulatory approval.",
+      "previous_roles": "Senior Vice President, Head of Risk Strategy and Governance, Mashreq; Ministry of Interior (digital transformation, AI, CISO); Abu Dhabi Police.",
+      "education": "Two master's degrees and four graduate diplomas (subjects not stated)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Official appointment release, Aug 2023 (S36). No 2025-2026 confirmation found.",
+      "source_ids": [
+        "S36"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Norman Tambach",
+      "name_ar": null,
+      "title": "Group Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2023-09",
+      "appointed_note": "Appointment reported Sep 2023 (Gulf News, seen in search results only).",
+      "previous_roles": "ING (from 2013; Group Controller and Head of Finance; CFO and Executive Board member, ING Germany from 2019); KPMG Belgium and Netherlands (seen in search results only).",
+      "education": "MSc Accountancy, Nyenrode Business University",
+      "qualifications": "Certified Public Accountant",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Mashreq India governance page live 2026-10-12 (S13). No departure news found.",
+      "source_ids": [
+        "S13"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Joel D Van Dusen",
+      "name_ar": null,
+      "title": "Group Head of Corporate & Investment Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Corporate & Investment Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Global Head of Large Corporates, CMB, HSBC (member of HSBC Global CMB Executive Committee).",
+      "education": "BA Economics, Cornell University; PPE studies, University of Oxford",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management-team profile live 2026-10-12 (S11).",
+      "source_ids": [
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Salman M. Hadi",
+      "name_ar": null,
+      "title": "Group Head of Treasury and Global Markets",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Mashreqbank PSC",
+      "business_unit": "Treasury & Global Markets",
+      "scope": "Group",
+      "appointed": "2025-01",
+      "appointed_note": "Announced 13 Jan 2025 as Group Head of Treasury and Capital Markets (seen in search results); official profile now says Treasury and Global Markets.",
+      "previous_roles": "Executive Head of Liquidity Management & Investments, ADCB; Head of Global Markets & Treasury KSA, Emirates NBD.",
+      "education": "Master's in International Business, University of Wollongong Dubai",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management-team profile live 2026-10-12 (S12).",
+      "source_ids": [
+        "S12",
+        "S46"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Mashreq runs wealth through the Retail Banking Group (Group Head Fernando Morillo): Mashreq Private Banking (Vipul Kapur, also responsible for Wealth Products & Platform), the Mashreq Gold affluent tier (AED 500k relationship balance) and the NEO retail app. Private banking offers advisory, discretionary mandates (in-house via Mashreq Capital plus Goldman Sachs Asset Management discretionary portfolios since Apr 2025), 150+ funds from 30+ fund houses on an open-architecture platform, structured products, bonds/sukuk, 19,000+ securities in 37 markets (TraderPro app; FinIQ platform for RMs), Lombard lending and an EAM desk. In Jun 2026 it executed a private-markets (pre-IPO) investment through an ADGM fund managed by Neovision on Red Lions Capital's Digital Investment Platform, with Allfunds integration. NEO offers UAE equities via Mashreq Securities, 3,000+ US stocks/ETFs via DriveWealth from USD 1, mutual funds from USD 100 and three ETF portfolios (Conservative/Balanced/Growth) 'curated by leading asset managers, including BlackRock'. Mashreq Capital (DFSA) runs six to seven public funds, incl. the BITMAC fund with 5% Bitcoin (Dec 2025). No AUM is disclosed.",
+    "segments": [
+      {
+        "name": "Mashreq NEO",
+        "tier": "Mass market",
+        "eligibility": "Salary transfer AED 5,000+ or balance AED 3,000+",
+        "source_ids": [
+          "S30"
+        ]
+      },
+      {
+        "name": "Mashreq NEO PLUS",
+        "tier": "Mass affluent",
+        "eligibility": "Salary transfer AED 10,000+ or balance AED 50,000+",
+        "source_ids": [
+          "S30"
+        ]
+      },
+      {
+        "name": "Mashreq Gold",
+        "tier": "Affluent",
+        "eligibility": "Any one of: average balance AED 500,000 across accounts/deposits/investments/insurance; salary AED 80,000/month; mortgage AED 5m+; insurance annual premium AED 500k+ (AED 1,000 quarterly fee if criteria lapse)",
+        "source_ids": [
+          "S29"
+        ]
+      },
+      {
+        "name": "Mashreq Private Banking",
+        "tier": "HNW / UHNW",
+        "eligibility": "Threshold not published",
+        "source_ids": [
+          "S32"
+        ]
+      },
+      {
+        "name": "External Asset Manager (EAM) platform",
+        "tier": "Intermediaries / family offices",
+        "eligibility": "HNW individuals, family offices and institutions; no threshold published",
+        "source_ids": [
+          "S25"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Mashreq Private Banking (Dubai): RM plus investment and insurance specialists, five-step investment process, discretionary mandates, fixed income, equities, funds, structured products, FX and precious-metal trading, bespoke and Lombard lending, family-office services (legacy planning, trusts and wills, tax and estate planning via third parties), EAM coverage team. Won Global Private Banking Innovation Awards 2026 (Best Private Bank - Middle East and UAE).",
+      "source_ids": [
+        "S32",
+        "S23",
+        "S25",
+        "S9",
+        "S6"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Mashreq Capital (DIFC) Limited, 100%-owned, incorporated in DIFC 7 Feb 2006, DFSA-regulated: conventional and Shariah-compliant DIFC-domiciled funds (Conventional Equity Fund 2005, Conventional FI Fund 2006, Sukuk Fund 2009, Islamic fixed income fund, Global Portfolios Conservative/Balanced/Growth, BITMAC multi-asset fund with 5% gold and 5% Bitcoin via ETFs, launched 3 Dec 2025 from USD 100) and discretionary accounts. AUM not disclosed. CEO Philip Philippides since Nov 2024.",
+      "source_ids": [
+        "S1",
+        "S21",
+        "S22",
+        "S19",
+        "S20"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Mashreq Securities LLC (100%): DFM, ADX and Nasdaq Dubai trading in the app, digital NIN creation, IPO access. International: 19,000+ securities across 37 markets via Mashreq TraderPro app; EAM page cites 24/7 equity trading across 32 markets. US stocks/ETFs in NEO via DriveWealth LLC (Mashreq acts as introducing broker).",
+      "source_ids": [
+        "S1",
+        "S47",
+        "S27",
+        "S25",
+        "S17"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Mashreq Mobile App / NEO Investments: UAE equities, international equities, 3,000+ US stocks and ETFs from USD 1 (fractional on market orders; first 10 trades a month free, then 0.20%, min USD 1), mutual funds from USD 100, Gold & Silver Edge Account, and three diversified ETF portfolios from USD 100. Launch dates not stated.",
+      "source_ids": [
+        "S16",
+        "S17",
+        "S28"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Private Banking investment specialists and RMs; Mashreq Gold relationship team; FinIQ platform used by RMs for offline access to international markets.",
+      "source_ids": [
+        "S32",
+        "S27",
+        "S29"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary mandates (packaged, customised and tailored portfolios) managed by Mashreq Capital using asset allocation from an international asset manager; Goldman Sachs Asset Management discretionary portfolios offered to wealth clients from Apr 2025 ('exclusive tie-up' per EAM page).",
+      "source_ids": [
+        "S24",
+        "S14",
+        "S25"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "NEO diversified portfolios (Conservative: global bond ETFs; Balanced; Growth: global equities) from USD 100, 'curated by leading asset managers, including BlackRock'. Mashreq Capital also lists Global Portfolios (Conservative/Balanced/Growth). Not described as a robo-advisor.",
+      "source_ids": [
+        "S16",
+        "S21"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Open-architecture fund platform: 150+ active and passive funds from 30+ global fund houses (none named), plus in-house Mashreq Capital funds; 24x7 digital subscription/redemption from USD 100. Platform provider not named.",
+      "source_ids": [
+        "S26",
+        "S28"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Listed under Private Banking investments; EAM page offers structuring across equities, rates, fixed income and commodities. Terms not published.",
+      "source_ids": [
+        "S23",
+        "S25"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Jun 2026: private-markets (pre-IPO) investment executed for HNW and family-office clients through an ADGM-domiciled fund managed by Neovision Wealth Management on Red Lions Capital's Digital Investment Platform, with Allfunds integration; Kapur described it as strengthening an 'existing private equity offering'. EAM page cites private placement solutions.",
+      "source_ids": [
+        "S18",
+        "S25"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Mashreq Capital Sukuk Fund and Shariah-compliant fixed income fund with Shari'ah Supervisory Board; Shariah-compliant stocks on the international equities platform; sukuk trading via EAM desk; Mashreq Al Islami window.",
+      "source_ids": [
+        "S21",
+        "S22",
+        "S27",
+        "S25"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Structured products",
+      "Private markets / alternatives",
+      "Gold / precious metals"
+    ],
+    "partners": [
+      {
+        "partner": "Goldman Sachs Asset Management",
+        "kind": "Product partner (discretionary portfolios)",
+        "what": "Discretionary portfolios/mandates for Mashreq wealth clients; 'exclusive tie-up' per EAM page",
+        "date": "2025-04-10",
+        "status": "Live",
+        "source_ids": [
+          "S14",
+          "S15",
+          "S25"
+        ]
+      },
+      {
+        "partner": "BlackRock",
+        "kind": "Product partner (model portfolios)",
+        "what": "Named as a curator of NEO's diversified investment solutions",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "partner": "DriveWealth LLC",
+        "kind": "Execution / brokerage API",
+        "what": "Executing broker for US stocks and ETFs in the Mashreq Mobile App; Mashreq is introducing broker",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "partner": "FinIQ",
+        "kind": "Wealth platform technology",
+        "what": "Wealth management platform used by RMs for offline access to international markets",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S27"
+        ]
+      },
+      {
+        "partner": "Neovision Wealth Management Ltd",
+        "kind": "Product partner (private markets fund manager)",
+        "what": "ADGM/FSRA fund manager for the fund structure used in Mashreq's Jun 2026 private-markets transaction",
+        "date": "2026-06-09",
+        "status": "Announced",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "partner": "Red Lions Capital",
+        "kind": "Private markets platform technology",
+        "what": "Digital Investment Platform (DIP) that facilitated the Jun 2026 transaction",
+        "date": "2026-06-09",
+        "status": "Announced",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "partner": "Allfunds",
+        "kind": "Fund operations / investor records",
+        "what": "Integration used in the Jun 2026 transaction for operational efficiency and investor record management",
+        "date": "2026-06-09",
+        "status": "Announced",
+        "source_ids": [
+          "S18"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2024-11-18",
+        "what": "Appointed Philip Philippides (ex-BlackRock/iShares, Amundi) as CEO of Mashreq Capital to grow AUM and new investment solutions",
+        "source_ids": [
+          "S20"
+        ]
+      },
+      {
+        "date": "2025-04-10",
+        "what": "Partnership with Goldman Sachs Asset Management for discretionary portfolios for wealth clients; Kapur called it a milestone in 'institutionalizing our investment platform'",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2025-07-25",
+        "what": "Appointed Xi Liang as Head of Artificial Intelligence",
+        "source_ids": [
+          "S34"
+        ]
+      },
+      {
+        "date": "2025-11-24",
+        "what": "Launched Mashreq NEO, a fully digital Shariah-compliant retail bank, in Pakistan",
+        "source_ids": [
+          "S35"
+        ]
+      },
+      {
+        "date": "2025-12-03",
+        "what": "Mashreq Capital launched BITMAC, a DFSA-regulated multi-asset retail fund (90% global equities/fixed income, 5% gold, 5% Bitcoin via ETFs), minimum USD 100",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "date": "2026-02-02",
+        "what": "FY2025 results: CBUAE designated Mashreq a D-SIB during 2025",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-06-09",
+        "what": "Private-markets (pre-IPO) access for HNW/family-office clients via Neovision-managed ADGM fund on Red Lions Capital's Digital Investment Platform, with Allfunds integration",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "date": "2026-07-30",
+        "what": "H1 2026 investor presentation: RISE strategy includes 'selective private banking services' and NEO expansion; AI-powered advisory tools cited by CEO",
+        "source_ids": [
+          "S5"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Private banking is actively adding third-party product partners: GSAM discretionary portfolios (Apr 2025) and pre-IPO private-markets access via Neovision/Red Lions (Jun 2026); its head also owns Wealth Products & Platform (S9, S14, S18).",
+        "NEO in-app investing has only three basic ETF portfolios plus US stocks/ETFs; no structured products or private markets in the app (S16, S17).",
+        "Retail Banking assets of AED 38bn at 30 Jun 2026 'supported by ... wealth management'; strategy cites AI-powered advisory tools (S5).",
+        "No AUM or wealth client numbers disclosed, so the size of the wealth franchise is not public (S1, S5)."
+      ],
+      "barriers": [
+        "Already uses several named vendors and partners: GSAM, BlackRock, DriveWealth, FinIQ, Red Lions Capital, Neovision and Allfunds (S14, S16, S17, S18, S27).",
+        "In-house asset manager (Mashreq Capital) runs discretionary mandates, model portfolios and funds; in-house brokerage (Mashreq Securities) (S1, S21, S24).",
+        "Strong in-house technology: cloud-native core banking migration, own IT subsidiary (Mindscape) and corporate VC arm (Neo Ventures) (S1, S5)."
+      ],
+      "incumbent_vendors": [
+        "Goldman Sachs Asset Management: discretionary portfolios (S14)",
+        "BlackRock: NEO portfolio curation (S16)",
+        "DriveWealth LLC: US stocks/ETFs execution (S17)",
+        "FinIQ: RM wealth platform (S27)",
+        "Red Lions Capital: Digital Investment Platform for private markets (S18)",
+        "Allfunds: fund operations integration (S18)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Mashreqbank PSC Group: Condensed consolidated interim financial information, six months ended 30 June 2026 (Deloitte review report 30 Jul 2026)",
+      "publisher": "Mashreqbank PSC via Dubai Financial Market",
+      "url": "https://feeds.dfm.ae/documents/2026/Jul/30/be3df509-10b4-4d31-8314-696369c596ce/Mashreqbank%20PSC%20CFS%202026Q2%20English.Pdf.pdf",
+      "doc_type": "Exchange disclosure: reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Mashreqbank PSC Group: Report and consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "Mashreqbank PSC",
+      "url": "https://www.mashreq.com/-/jssmedia/pdfs/aboutus/investors/2025/Mashreqbank-PSC-FY2025-en.ashx",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-02-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Management Discussion & Analysis for the first half 2026 (results release)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/news/2026/july/mashreq-financial-results-h1-2026/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Mashreq financial results FY2025",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/news/2026/january/mashreq-financial-results-fy2025/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-02-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "H1 2026 Investor Presentation (July 2026)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/-/jssmedia/pdfs/aboutus/investors/2026/mashreq-investor-presentation-h1-2026.ashx",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Management Discussion & Analysis H1 2026 (PDF)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/-/jssmedia/pdfs/news/2026/MDA-H1-2026-en.ashx",
+      "doc_type": "Results MD&A",
+      "tier": 2,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Investor Relations: financial information",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/about-us/investors/financial-information",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Fernando Morillo (Private Banking leadership team profile)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/private/our-approach/leadership-team/fernando/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Vipul Kapur (Private Banking leadership team profile)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/private/our-approach/leadership-team/vipul-kapur/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "HE Abdul Aziz Abdulla Al Ghurair (board member profile)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/about-us/our-company/corporate-governance/board-members/abdul-aziz-abdulla-al-ghurair/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Group Head of Corporate & Investment Banking: Joel D Van Dusen",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/about-us/our-company/corporate-governance/management-team/joel-d-van-dusen",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Group Head of Treasury and Global Markets: Salman M. Hadi",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/about-us/our-company/corporate-governance/management-team/salman-m-hadi/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Norman Tambach, Group Chief Financial Officer (Mashreq India governance page)",
+      "publisher": "Mashreq (India)",
+      "url": "https://www.mashreq.bank.in/en/about-us/corporate-governance/board-member-team/norman-tambach/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Mashreq Announces New Partnership with Goldman Sachs Asset Management",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/news/2025/april/mashreq-partnership-goldman-sachs/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-04-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Mashreq partners with Goldman Sachs to boost wealth offerings",
+      "publisher": "Private Banker International",
+      "url": "https://www.privatebankerinternational.com/news/mashreq-goldman-sachs-wealth/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-04-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "NEO Investments",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/neo/investments/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "US Stocks & ETFs platform (NEO)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/neo/investments/investments-us-stocks-etf/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Mashreq Collaborates with Neovision Wealth Management and Red Lions Capital on Private Markets Investment Infrastructure (GlobeNewswire)",
+      "publisher": "The Manila Times (GlobeNewswire release issued by Neovision)",
+      "url": "https://www.manilatimes.net/2026/06/09/tmt-newswire/globenewswire/mashreq-collaborates-with-neovision-wealth-management-and-red-lions-capital-on-private-markets-investment-infrastructure/2361314",
+      "doc_type": "Press release (republished)",
+      "tier": 5,
+      "published": "2026-06-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Mashreq Capital Launches Bitcoin and Multi-Asset Class (BITMAC) Fund",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/news/2025/december/mashreq-capital-launches-bitmac/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-12-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Mashreq appoints Philip Philippides as CEO of Mashreq Capital",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/news/2024/november/mashreq-appoints-mashreq-capital-ceo/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-11-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Mashreq Capital homepage",
+      "publisher": "Mashreq Capital (DIFC) Limited",
+      "url": "https://mashreqcapital.ae/en/home/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "About Mashreq Capital",
+      "publisher": "Mashreq Capital (DIFC) Limited",
+      "url": "https://mashreqcapital.ae/en/home/about/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Private Banking: Investments",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/private/wealth-solution/investments/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Discretionary Mandates (Private Banking)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/private/wealth-solution/investments/discretionary-mandates/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "External Asset Manager (EAM) Solutions",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/uae/private/eam/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Mutual Funds (Private Banking)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/private/wealth-solution/investments/mutual-funds/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "Equities (Private Banking)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/private/wealth-solution/investments/equities/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Digital Wealth Solutions (campaign page)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/campaigns/digital-wealth-solutions/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "Mashreq Gold: privileges and benefits",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/gold/our-approach/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "Mashreq NEO (UAE retail proposition page, incl. footer social links)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/neo/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "Mashreq Group Companies",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/about-us/our-company/mashreq-group-companies/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S32",
+      "title": "Mashreq Private Banking homepage",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/private/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S33",
+      "title": "Mashreq appoints Mohamed Abdel Razek as Group Head of Technology, Transformation & Information",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/news/2023/may/mashreq-appoints-gh-technology-info/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2023-05-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S34",
+      "title": "Mashreq appoints Xi Liang as head of artificial intelligence",
+      "publisher": "Khaleej Times (KT Network)",
+      "url": "https://www.khaleejtimes.com/kt-network/mashreq-appoints-xi-liang-as-head-of-artificial-intelligence?amp=1",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-07-25",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S35",
+      "title": "Mashreq Pakistan launches Mashreq NEO",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/news/2025/november/mashreq-pakistan-launch-neo/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-11-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S36",
+      "title": "Mashreq appoints Faisal Mohammed AlShimmari as Head of ESG & Corporate Strategy",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/news/2023/august/mashreq-appoints-head-esg-corp-strategy/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2023-08-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S37",
+      "title": "Inside Mashreq Bank's strategy to predict customer needs (video)",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/video/conTsYtu/inside-mashreq-banks-strategy-to-predict-customer-needs/",
+      "doc_type": "News video page",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S38",
+      "title": "Mashreq welcomes new executive team member",
+      "publisher": "Gulf Daily News",
+      "url": "https://www.gdnonline.com/Details/823201/Mashreq-welcomes-new-executive-team-member",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2020-05-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S39",
+      "title": "Radu Topliceanu named as new head of digital bank Mashreq Neo",
+      "publisher": "FinTech Futures",
+      "url": "https://fintechfutures.com/?p=15264568",
+      "doc_type": "News",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S40",
+      "title": "Shareholder structure (IR shareholder toolkit)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/about-us/investor-relations/shareholder-toolkit/shareholder-structure/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S43",
+      "title": "Mashreq Bank's Vipul Kapur on Scaling up the Middle East Private Banking Offering",
+      "publisher": "Hubbis",
+      "url": "https://www.hubbis.com/article/mashreq-bank-s-vipul-kapur-on-scaling-up-the-middle-east-private-banking-offering",
+      "doc_type": "News / interview",
+      "tier": 5,
+      "published": "2021-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S44",
+      "title": "Mashreq Annual Report 2025",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/-/jssmedia/pdfs/aboutus/investors/2026/2025-annual-report-en.ashx",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S46",
+      "title": "Mashreq Announces Appointment of Salman M. Hadi as Group Head of Treasury and Capital Markets",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/uae/news/2025/january/mashreq-apoints-tcm-group-head/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-01-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S47",
+      "title": "UAE Equities (NEO Investments)",
+      "publisher": "Mashreq",
+      "url": "https://www.mashreq.com/en/uae/neo/investments/uae-equities/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S48",
+      "title": "Ahmed Abdelaal — Top 100 CEOs 2025",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-100-ceos-2025/ahmed-abdelaal/",
+      "doc_type": "News / ranking list",
+      "tier": 5,
+      "published": "2025",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S49",
+      "title": "Ahmed Abdelaal (speaker profile)",
+      "publisher": "Singapore FinTech Festival",
+      "url": "https://www.fintechfestival.sg/speakers/1135-ahmed-abdelaal",
+      "doc_type": "Conference speaker biography",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Institution type",
+      "original_value": "Listed universal commercial bank",
+      "finding": "Confirmed",
+      "new_value": "Universal / commercial bank; DFM-listed (MASQ)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "field": "Assets (bn) / as of",
+      "original_value": "AED 365.7bn, 30 Jun 2026 (rounded issuer announcement)",
+      "finding": "Confirmed",
+      "new_value": "AED 365,747,852 thousand at 30 Jun 2026 (reviewed interim statements)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "field": "Deposits (bn) / measure",
+      "original_value": "AED 227.2bn customer deposits, 30 Jun 2026",
+      "finding": "Confirmed",
+      "new_value": "AED 227,189,895 thousand = customers' deposits + Islamic customers' deposits",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "field": "Customer loans (size metric)",
+      "original_value": "AED 169.1bn, 30 Jun 2026",
+      "finding": "Confirmed",
+      "new_value": "AED 169,087,997 thousand net loans incl. Islamic financing",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "field": "Chief executive",
+      "original_value": "Ahmed Abdelaal",
+      "finding": "Confirmed",
+      "new_value": "Ahmed Abdelaal, Group CEO (H1 2026 release)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "field": "Wealth / investment arm",
+      "original_value": "Private banking and wealth; discretionary portfolio collaboration with Goldman Sachs Asset Management",
+      "finding": "Updated",
+      "new_value": "Confirmed GSAM partnership (10 Apr 2025). Added Mashreq Capital (DFSA asset manager), Mashreq Securities (brokerage), NEO investing (DriveWealth; BlackRock-curated portfolios) and Jun 2026 private-markets collaboration with Neovision/Red Lions Capital",
+      "materiality": "Material",
+      "source_ids": [
+        "S14",
+        "S1",
+        "S16",
+        "S17",
+        "S18"
+      ]
+    },
+    {
+      "field": "Business focus",
+      "original_value": "Retail, affluent/private, SME, corporate/institutional, Islamic banking, treasury; digital Neo/NEOBiz.",
+      "finding": "Confirmed",
+      "new_value": "As original; insurance via Sukoon (64.76%) also material",
+      "materiality": "Minor",
+      "source_ids": [
+        "S5",
+        "S8",
+        "S1"
+      ]
+    },
+    {
+      "field": "Ownership",
+      "original_value": "Approximately 85.6% owned directly/indirectly by Al Ghurair family at 31 Dec 2025; DFM-listed",
+      "finding": "Updated",
+      "new_value": "June 2026 chart: Saif Al Ghurair Investment LLC 42.4%, Abdulla Ahmed Al Ghurair Inv. Co. 32.0%, Masar Investments 12.7%, others 12.8%. The 85.6% figure was not found in any opened source (FY2025 annual report not openable).",
+      "materiality": "Material",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "field": "Website",
+      "original_value": "https://www.mashreq.com/",
+      "finding": "Confirmed",
+      "new_value": "https://www.mashreq.com",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "Company LinkedIn",
+      "original_value": "https://www.linkedin.com/company/mashreq-uae",
+      "finding": "Corrected",
+      "new_value": "https://www.linkedin.com/company/mashreqbank (linked from the official site footer)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S30"
+      ]
+    },
+    {
+      "field": "AUM / AUA",
+      "original_value": "Not found",
+      "finding": "Confirmed",
+      "new_value": "Not publicly disclosed (bank or Mashreq Capital)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S21"
+      ]
+    },
+    {
+      "field": "Gaps / important distinctions",
+      "original_value": "No primary-source AUM; do not use GSAM assets under supervision as Mashreq AUM; financials not independently verified",
+      "finding": "Updated",
+      "new_value": "AUM still not disclosed; financials now verified to reviewed/audited statements",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "Research coverage / relationship / prior research source (internal fields)",
+      "original_value": "Internal ARTA notes and mailbox links",
+      "finding": "Could not verify",
+      "new_value": "Internal information, not publicly verifiable; not carried into this record",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Person: Ahmed Abdelaal",
+      "original_value": "Group Chief Executive Officer; LinkedIn verified",
+      "finding": "Confirmed",
+      "new_value": "Group CEO; LinkedIn URL kept (no contrary evidence; not re-checked)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "field": "Person: Fernando Morillo",
+      "original_value": "Group Head of Retail Banking; owns private banking, affluent and digital-retail",
+      "finding": "Confirmed",
+      "new_value": "Group Head of Retail Banking; official remit includes Mashreq Gold, private banking, NEO and NEOBiz",
+      "materiality": "Minor",
+      "source_ids": [
+        "S8",
+        "S35"
+      ]
+    },
+    {
+      "field": "Person: Vipul Kapur",
+      "original_value": "Managing Director, Head of Private Banking",
+      "finding": "Confirmed",
+      "new_value": "MD, Head of Private Banking and Wealth Products & Platform; 'Global Head of Private Banking' in Jun 2026 release",
+      "materiality": "Minor",
+      "source_ids": [
+        "S9",
+        "S18"
+      ]
+    },
+    {
+      "field": "Person: Mohamed Abdel Razek",
+      "original_value": "Group Head of Technology, Transformation and Information (2026 prospectus)",
+      "finding": "Could not verify",
+      "new_value": "Title confirmed by May 2023 release and Jul 2025 news; no 2026 official source opened; status Requires verification",
+      "materiality": "Minor",
+      "source_ids": [
+        "S33",
+        "S34"
+      ]
+    },
+    {
+      "field": "Person: Alvaro Cuesta Sanchez",
+      "original_value": "Business contact; title not verified (internal correspondence)",
+      "finding": "Could not verify",
+      "new_value": "No public source found; not added to people",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Person: Mahvish Jaffer",
+      "original_value": "Business contact; title not verified (internal correspondence; email held internally)",
+      "finding": "Could not verify",
+      "new_value": "No public source found; email not copied; not added to people",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Person: Vickram Lal",
+      "original_value": "Business contact; title not verified (internal correspondence)",
+      "finding": "Could not verify",
+      "new_value": "No public source found; not added to people",
+      "materiality": "Minor",
+      "source_ids": []
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "Al Ghurair ownership",
+      "detail": "Original workbook: ~85.6% family-owned at 31 Dec 2025. June 2026 investor presentation: two Al Ghurair-named entities 74.4%, Masar Investments 12.7% (affiliation not stated), others 12.8%.",
+      "resolution": "Recorded holders as published in S5; 85.6% left unconfirmed pending the FY2025 annual report.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "field": "Vipul Kapur title",
+      "detail": "Official profile: Managing Director, Head of Private Banking (S9). Neovision release 9 Jun 2026: Global Head of Private Banking (S18).",
+      "resolution": "Both recorded in title; same person and function.",
+      "source_ids": [
+        "S9",
+        "S18"
+      ]
+    },
+    {
+      "field": "Treasury head title",
+      "detail": "Jan 2025 appointment release: Group Head of Treasury and Capital Markets (S46, search only). Official profile: Group Head of Treasury and Global Markets (S12).",
+      "resolution": "Used the current official profile title.",
+      "source_ids": [
+        "S46",
+        "S12"
+      ]
+    },
+    {
+      "field": "FY2025 CASA ratio",
+      "detail": "FY2025 release summary box says 66% while the body text says 62%.",
+      "resolution": "Not used as a metric; unresolved.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "Mashreq Capital founding date",
+      "detail": "Website: incorporated in DIFC on 7 Feb 2006 (S22); BITMAC release: 'based in DIFC since 2005' (S19); Conventional Equity Fund listed as launched 2005 (S21).",
+      "resolution": "Used the incorporation date from the company's own About page.",
+      "source_ids": [
+        "S19",
+        "S21",
+        "S22"
+      ]
+    }
+  ],
+  "open_items": [
+    "WebSearch budget for the session ran out during this batch, so LinkedIn checks were not done for Kapur, Philippides, Abdel Razek and others, and 2026 departure searches were limited. Re-run LinkedIn and departure checks.",
+    "FY2025 annual report and integrated report (S44) exceed 10 MB and could not be opened. Use them to confirm the 85.6% Al Ghurair figure, the management committee list, customer and employee numbers, and Mashreq Capital's fund count and AUM.",
+    "Official management-team page renders no names (JavaScript) and Abdel Razek's profile URL returned 404. A data aggregator (Yahoo Finance profile, seen in search results only and not cited) lists a different person, Ellis Wang, as Group Head of Technology, Transformation & Information. Confirm against the annual report.",
+    "Lead check: 'Neovision' and 'Red Lions' are Neovision Wealth Management Ltd (ADGM/FSRA fund manager) and Red Lions Capital (research/technology, Digital Investment Platform), per a 9 Jun 2026 GlobeNewswire release issued by Neovision. The release was not found on mashreq.com news. The target company and deal size were not disclosed.",
+    "Lead check: the ~85.6% Al Ghurair ownership was not confirmed (see discrepancies).",
+    "Lead check: BlackRock is named only as a curator of NEO investment solutions. Whether the three NEO portfolios are BlackRock model portfolios is not stated.",
+    "Head of Mashreq Securities not identified. Heads of Mashreq Gold (Kajiji, 2020) and Mashreq NEO (Topliceanu, undated) need current confirmation.",
+    "Mashreq Capital AUM not disclosed; Forbes Middle East Top 50 Asset Managers 2026 (mentioned on the Mashreq Capital site) may give a figure.",
+    "Private banking entry threshold not published.",
+    "Original relationship contacts (Alvaro Cuesta Sanchez, Mahvish Jaffer, Vickram Lal) could not be confirmed from public sources. Their internal emails were not copied."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B03",
+  "checked": "2026-10-12"
+}

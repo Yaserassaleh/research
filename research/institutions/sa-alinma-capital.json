@@ -1,0 +1,1319 @@
+{
+  "id": "sa-alinma-capital",
+  "name": "Alinma Capital",
+  "short_name": "alinma capital",
+  "legal_name": "Alinma Capital Company (a Saudi Closed Joint Stock Company); formerly Alinma Investment Company",
+  "name_ar": "شركة الإنماء المالية",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://alinmacapital.com",
+  "linkedin_company": null,
+  "category": "Bank-owned investment subsidiary",
+  "type": "Asset & wealth manager",
+  "model": "Islamic",
+  "founded": "2009 (ministerial resolution 183 dated 31 May 2009; CR 1010269764 dated 16 Jun 2009; CMA licence 09134-37 dated 19 Apr 2009; operations began 17 Jan 2010). Renamed from Alinma Investment Company to Alinma Capital (CMA notice 12 Feb 2025).",
+  "regulators": [
+    "CMA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": "sa-alinma",
+  "ownership_summary": "Wholly owned by Alinma Bank (50,000,000 shares, 100%; no change during 2025). Authorised capital SAR 1bn; paid-up capital SAR 500m.",
+  "shareholders": [
+    {
+      "holder": "Alinma Bank",
+      "pct": 100.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    }
+  ],
+  "government_link": "Indirect. The parent, Alinma Bank, is 10% owned by the Public Investment Fund (see sa-alinma).",
+  "group_structure": "100% subsidiary of Alinma Bank (sa-alinma). Consolidates Alinma Private Equity Opportunities Fund (72.92%, established 4 Jul 2023). Also sets up special-purpose companies to hold assets of its real estate and private equity funds; these are not consolidated (AR 2025). Double counting: Alinma Capital is fully consolidated into Alinma Bank and drives the bank's 'Investment and brokerage' segment. The segment is close to but not identical to Alinma Capital's standalone accounts (FY2025 segment total operating income SAR 1,128.5m vs Alinma Capital total income SAR 1,091.0m). Never add this record's figures to sa-alinma.",
+  "subsidiaries": [
+    {
+      "name": "Alinma Private Equity Opportunities Fund",
+      "pct": 72.92,
+      "activity": "Closed-ended private equity fund (direct and fund investments, KSA and abroad)",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "footprint": "Saudi Arabia. 6 branches listed on the website (checked 12 Oct 2026): Riyadh HQ (Al Anoud Tower 2), Altakhassusi, Al-Ghadeer and Al Rabwah in Riyadh; Alhada in Al Khobar; Ash Shati in Jeddah. Also distributes through Alinma Bank. International brokerage covers GCC, Egypt, US, Europe and Asia-Pacific markets.",
+  "customer_segments": "Individual investors (retail and HNW, including Alinma Bank affluent and Private Banking clients, who get discounts on Alinma Capital products); families (private family funds); corporates and institutions (investment banking, custody, mandates); endowments and non-profits (endowment funds).",
+  "business_lines": "Asset management: public funds, Sukuk ETF, REIT, endowment funds, private funds. Alternative investments: real estate and private equity funds. Discretionary private portfolios and investment mandates. Wealth management and investment advisory. Brokerage: Saudi and international, with Murabaha margin facilities. Investment banking: ECM, DCM, M&A, underwriting. Custody. FY2025 revenue (SAR '000): asset management fees 543,153; brokerage commission 44,474; investment banking fees 42,339; Murabaha and Wakala services 37,434; custody fees 17,239; other 5,584; margin lending income 85,824. 554,384 of the 776,047 revenue came from related parties (mainly funds it manages).",
+  "metrics": [
+    {
+      "metric": "aum",
+      "value": 129.7,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "2Q 2026 (30 Jun 2026)",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital, as reported by parent Alinma Bank",
+      "definition": "'Assets Under Management' (Alinma Capital section and Investments & Brokerage segment of the parent's 2Q2026 presentation). +39% YoY. Discretionary/non-discretionary split not stated.",
+      "status": "Verified",
+      "locator": "S7 slides 18 and 47",
+      "note": "Parent calls Alinma Capital the '3rd largest asset manager in KSA by AUM as of Q1 2026'. 1Q26: SAR 126.6bn.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 104607,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital Group",
+      "definition": "'Assets under management': mutual funds' assets and investments managed on behalf of customers; off balance sheet (audited FS note 22.1)",
+      "status": "Verified",
+      "locator": "S4 note 22.1 p.31",
+      "note": "2024: SAR 90,103m per this FS (+16%). The parent's FS gives SAR 93,650m for 2024 (see discrepancies). AR 2025 shows SAR 104.6bn, +16%.",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S27"
+      ]
+    },
+    {
+      "metric": "aua",
+      "value": 95,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital custody services",
+      "definition": "Total assets held in custody (الأصول المحفوظة), 'approximately SAR 95bn': equities about SAR 19bn, private equity and multi-asset funds SAR 12.5bn, real estate funds SAR 20bn, sukuk and money market funds about SAR 43.7bn",
+      "status": "Verified",
+      "locator": "S5 pp.10 and 16 (Arabic)",
+      "note": "Approximate figure as printed. Custody covers local securities, local funds and alternative fund/SPV assets (S22).",
+      "source_ids": [
+        "S5",
+        "S22"
+      ]
+    },
+    {
+      "metric": "alternatives_aum",
+      "value": 84,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Alternative investments",
+      "definition": "AUM in alternative investments 'exceeded SAR 84bn' (+more than 14% YoY): real estate funds (residential, commercial, industrial, hospitality, Makkah/Madinah, logistics) and private equity funds; 44 alternative funds",
+      "status": "Verified",
+      "locator": "S5 pp.9 and 14 (Arabic)",
+      "note": "Lower bound ('exceeded'). Included in total AUM.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "public_markets_fixed_income_aum",
+      "value": 20.5,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Capital markets, money market and fixed income funds and products",
+      "definition": "AUM in 'funds and products of capital markets, money markets and fixed income' exceeded SAR 20.5bn (+27.6%)",
+      "status": "Verified",
+      "locator": "S5 p.9 (Arabic)",
+      "note": "Funds alone (20 funds: 9 public, 11 private) exceeded SAR 5.4bn (+53%) (p.14). Private portfolios and mandates were about SAR 15bn (p.15). Included in total AUM.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "discretionary_portfolio_aum",
+      "value": 15,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Private portfolios and investment mandates",
+      "definition": "AUM of private portfolios and investment mandates (إدارة المحافظ الخاصة والوكالات الاستثمارية), about SAR 15bn, +16%",
+      "status": "Verified",
+      "locator": "S5 p.15 (Arabic)",
+      "note": "Approximate figure as printed. Included in total AUM.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "fund_count",
+      "value": 72,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital",
+      "definition": "Number of investment funds under management",
+      "status": "Verified",
+      "locator": "S5 p.9 (Arabic)",
+      "note": "Parent AR: 13 new private funds launched in 2025, adding SAR 7.6bn to AUM (S9 p.127).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 4619693,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital Group consolidated",
+      "definition": "Total assets, audited consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "S4 p.3",
+      "note": "Latest available. Alinma Capital publishes no 30 Jun 2026 interim statements on its website (checked 12 Oct 2026).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 4391742,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital Group consolidated",
+      "definition": "Total equity (share capital 500,000; retained earnings 3,621,909; other reserves 270,694)",
+      "status": "Verified",
+      "locator": "S4 p.3",
+      "note": "Latest available.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 1090964,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Alinma Capital Group consolidated",
+      "definition": "'Total income' = revenue 776,047 + special commission income 146,148 + income from financial assets at FVTPL 168,769",
+      "status": "Verified",
+      "locator": "S4 p.4",
+      "note": "FY2024: 966,389 (+13%). Parent AR shows the same revenue figure.",
+      "source_ids": [
+        "S4",
+        "S9"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 784325,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Alinma Capital Group consolidated",
+      "definition": "'Net profit for the year' after zakat (90,167). No non-controlling interest line is presented; other unitholders of the consolidated fund are shown as a liability.",
+      "status": "Verified",
+      "locator": "S4 p.4",
+      "note": "FY2024: 700,154 (+12%).",
+      "source_ids": [
+        "S4",
+        "S9"
+      ]
+    },
+    {
+      "metric": "asset_management_fees",
+      "value": 543153,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Alinma Capital Group",
+      "definition": "'Asset management fees, net' (revenue disaggregation, note 19.1)",
+      "status": "Verified",
+      "locator": "S4 note 19.1 p.30",
+      "note": "FY2024: 453,057.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "brokerage_commission_income",
+      "value": 44474,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Alinma Capital Group",
+      "definition": "'Brokerage commission income' (note 19.1); margin lending income reported separately (85,824)",
+      "status": "Verified",
+      "locator": "S4 note 19.1 p.30",
+      "note": "FY2024: 64,226. AR says direct brokerage revenue 'exceeded SAR 45m' (S5 p.15).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 61,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Alinma Capital brokerage",
+      "definition": "Total traded value through Alinma Capital brokerage, 'exceeded SAR 61bn'",
+      "status": "Verified",
+      "locator": "S5 p.15 (Arabic)",
+      "note": "H1 2026: SAR 32.4bn (-4% YoY) per parent presentation (S7 slide 47).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "client_cash_accounts",
+      "value": 2342,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital",
+      "definition": "Clients' cash held in segregated omnibus accounts, off balance sheet (note 22.2)",
+      "status": "Verified",
+      "locator": "S4 note 22.2 p.31",
+      "note": "2024: SAR 3,547m.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "parent_segment_operating_income",
+      "value": 609553,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Alinma Bank 'Investment and brokerage' segment (proxy; not Alinma Capital standalone)",
+      "definition": "Total operating income of the parent's Investment and brokerage segment; income before zakat 332,844",
+      "status": "Verified",
+      "locator": "S8 note 12 p.25",
+      "note": "Only H1 2026 data point available. H1 2025: 563,406.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 6,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Website, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "Alinma Capital",
+      "definition": "Branches listed on the 'Our branches' page (Riyadh 4, Al Khobar 1, Jeddah 1)",
+      "status": "Verified",
+      "locator": "Our branches page",
+      "note": "",
+      "source_ids": [
+        "S21"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Alinma Capital AR 2025 (S5, closing statement mentions client growth without a number); FS 2025 (S4); website (S16); parent 2Q26 presentation (S7)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 (S5); app store listing (S17); parent AR and presentation (S9, S7)"
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "AR 2025 (S5); FS 2025 (S4); website (S16)"
+    },
+    {
+      "metric": "total_assets_30_jun_2026",
+      "status": "Not publicly disclosed",
+      "where_checked": "Alinma Capital 'Reports and financial statements' page lists only annual FS and annual reports 2021–2025 (checked 12 Oct 2026)"
+    }
+  ],
+  "people": [
+    {
+      "name": "Anees Ahmed Moumina",
+      "name_ar": "أنيس بن أحمد مؤمنه",
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": "2023-12",
+      "appointed_note": "Chairman 'since December 2023' (S2); parent AR 2025 says 2023–present (S9). Also on Alinma Bank's board (Chairman of the bank's Risk Committee).",
+      "previous_roles": "CEO, Savola Group; CEO, SEDCO Holding Group; General Manager and Senior Credit Officer, Citibank/Samba Financial Group; former board member of Saudi National Bank, Almarai, Savola Foods (Vice Chairman), Panda Retail (Vice Chairman), United Sugar (Vice Chairman), Herfy (Vice Chairman), Knowledge Economic City, Elaf Group",
+      "education": "Master's in Engineering Administration (honors) and Bachelor's in Civil Engineering (honors), George Washington University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); Alinma Capital AR 2025 board list (S5)",
+      "source_ids": [
+        "S2",
+        "S5",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Ali AlKhalifa",
+      "name_ar": "عبدالله بن علي الخليفة",
+      "title": "Vice Chairman of the Board",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Parent AR 2025: board member of alinma capital 2021–present. He is MD & CEO of Alinma Bank (see sa-alinma).",
+      "previous_roles": "CFO, Banque Saudi Fransi; CFO, Al Rajhi Bank; CFO, Arab National Bank; roles at Samba Financial Group",
+      "education": "Master's in Accounting, University of Miami; Bachelor's in Accounting, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5)",
+      "source_ids": [
+        "S2",
+        "S5",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mazin Fawaz Baghdadi",
+      "name_ar": "مازن بن فواز بغدادي",
+      "title": "Chief Executive Officer & Managing Director",
+      "functions": [
+        "CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Executive Management",
+      "scope": "Subsidiary",
+      "appointed": "2020",
+      "appointed_note": "Promoted to CEO and MD of Alinma Investment in 2020 (Arab News, 7 May 2024). Exact date not found in an official source.",
+      "previous_roles": "Joined Alinma Investment in 2016 per the official bio (Arab News says 2017, as Chief Investment Officer). Before that: Chief Investment Officer, HSBC Saudi Arabia (official bio; Arab News says head of investment management); head of Saudi and GCC equities, Saudi Fransi Capital (Arab News); roles at Riyad Bank. Managed investment funds and discretionary portfolios across Saudi/GCC equity and money markets. Board member of Tawzea Company and Go Station Company; former board member of Jabal Omar Development Company. Ranked 5th in Forbes Middle East Top 50 Asset Managers 2026.",
+      "education": "Bachelor's in Finance, KFUPM; INSEAD Transition to General Management Programme; IMD Board Readiness Diploma",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives and board pages checked 2026-10-12 (S1, S2); Alinma Capital AR 2025 (S5); Forbes ME 2026 list (S19); no departure news found",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5",
+        "S18",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Zaki Alawami",
+      "name_ar": null,
+      "title": "Chief Asset Management Officer",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Asset Management",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joined Alinma Capital in 2013; date of current title not found",
+      "previous_roles": "Research and portfolio management at Global Investment House – Saudi Arabia and Saudi Kuwait Finance House. At Alinma Capital: managed discretionary mandates and funds across asset classes and the research team.",
+      "education": "Bachelor's in Finance, KFUPM; executive programmes at Harvard and INSEAD",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/awami/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives page checked 2026-10-12 (S1). LinkedIn search result shows 'Zaki Alawami - alinma capital - الإنماء المالية' with KFUPM education, consistent with the official bio; title not shown in the snippet (S24).",
+      "source_ids": [
+        "S1",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sari Abutaleb",
+      "name_ar": null,
+      "title": "Chief Brokerage Officer",
+      "functions": [
+        "Brokerage"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Brokerage (local and international; institutional and retail)",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Not in the AR 2025 org chart, which had no brokerage chief. Likely appointed late 2025 or 2026; date not found.",
+      "previous_roles": "Senior Vice President and Head of Securities Trading, SNB Capital; earlier leadership roles at Derayah Financial, Alinma Capital, Samba and Riyad Bank",
+      "education": "Bachelor's in Economics, King Saud University; MBA, Shippensburg University (US)",
+      "qualifications": null,
+      "linkedin_url": "https://sa.linkedin.com/in/sari-abutaleb-mba-3b80b5122",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives page checked 2026-10-12 (S1). LinkedIn search result shows 'Sari Abutaleb, MBA - alinma capital - الإنماء المالية' with Chief Brokerage Officer title and Shippensburg MBA (S26).",
+      "source_ids": [
+        "S1",
+        "S26"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sultan Alkusayer",
+      "name_ar": null,
+      "title": "Chief Alternative Investments Officer",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Alternative Investments (real estate and private equity funds)",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joined the Alternative Investments division in 2014",
+      "previous_roles": "Portfolio Manager, Swicorp; Blominvest",
+      "education": "Bachelor's in Finance, Real Estate and Economics, Villanova University (US)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives page checked 2026-10-12 (S1). A same-name LinkedIn profile at 'Alinma Investment' appeared in search, but the snippet's education and activity did not clearly match the official bio, so it was not recorded.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammad Allouzi",
+      "name_ar": null,
+      "title": "Chief Investment Banking Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Investment Banking",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joined Alinma Capital in 2020",
+      "previous_roles": "Managing Director of Investment Banking, Saudi Kuwaiti Finance House and FALCOM Financial Services; earlier positions at SAMA and Jordan's Social Security Investment Fund; board member of several companies in Saudi Arabia and Jordan",
+      "education": "Bachelor's in Economics & Statistics, University of Jordan; Master's in Corporate Finance, University of Salford (UK)",
+      "qualifications": "CFA charterholder",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saud Balghonaim",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Finance (incl. proprietary investment)",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joined Alinma Capital in 2018",
+      "previous_roles": "Executive positions in financial accounting at Ernst & Young, Saudi Hollandi Capital and Ashmore Investment",
+      "education": "Bachelor's in Accounting, King Saud University; Master's in Operation and Project Management, Southern New Hampshire University",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/saud-balghonaim-84b18856/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives page checked 2026-10-12 (S1). LinkedIn search result 'Saud Balghonaim - Alinma Investment - الإنماء للاستثمار' (company's former name) seen incidentally (S25).",
+      "source_ids": [
+        "S1",
+        "S25"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Alhussaini",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Operations and support (investment operations, IT, custody, customer care)",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joined Alinma Capital in 2008",
+      "previous_roles": "Manager, operations departments at Albilad Capital and Samba Financial Group",
+      "education": "Bachelor's in Business Administration, Imam Muhammad bin Saud Islamic University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Thamer Bin Moammar",
+      "name_ar": null,
+      "title": "Chief Governance Officer & Secretary of the Board of Directors",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Governance (Legal & Sharia, Compliance & AML, Risk Management)",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joined Alinma Capital in 2018",
+      "previous_roles": "Executive positions in asset management and investment operations at Arab National Bank and Falcom Financial Services",
+      "education": "Bachelor's in Business Administration, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saeed Alqhtani",
+      "name_ar": null,
+      "title": "Chief Human Capital & Administration Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Human Capital & Administration",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Leading human capital at Alinma Capital since 2008",
+      "previous_roles": "Senior Personnel Manager, Assistant General Manager of Human Capital and Director of Performance and Talent Management at Alinma Bank; HR and Administration Services Manager, Al-Hamrani Group",
+      "education": "MBA, Bahrain University College",
+      "qualifications": "Chartered Fellow, CIPD (FCIPD)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fahad Alhargan",
+      "name_ar": null,
+      "title": "Internal Audit Director",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Internal Audit",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "More than 15 years in internal audit, governance and risk management (employers not stated)",
+      "education": "Bachelor's in Accounting, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fahad Abdullah Moussa",
+      "name_ar": "فهد بن عبدالله موسى",
+      "title": "Independent Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Also member of the Nominations and Remuneration Committee (AR 2025)",
+      "previous_roles": "Executive Vice President of Investment, Saudi Arabian Airlines Group (current per official bio); earlier commercial and investment banking at Saudi National Bank and SAMBA; board member of Catrion, SAL Saudi Logistics Services, Saudi Airlines Cargo and Saudia Aerospace Engineering Industries",
+      "education": "Bachelor's in Finance, KFUPM; MISK 2030 Leaders Program; programmes at Columbia, Stanford and INSEAD",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5)",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jameel Naif Alhamdan",
+      "name_ar": "جميل بن نايف الحمدان",
+      "title": "Non-Independent Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Chief Corporate Banking Officer of Alinma Bank (see sa-alinma)",
+      "previous_roles": "Bank AlBilad (GM Corporate Banking); Banque Saudi Fransi (corporate and business banking)",
+      "education": "Bachelor's in Administrative Sciences (Business Administration), King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5)",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Walid Abdulaziz bin Ghaith",
+      "name_ar": "وليد بن عبدالعزيز بن غيث",
+      "title": "Independent Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Alinma Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Leadership positions at Aljazira Capital, AlBilad Capital and The Investor; former board member of AlBilad Capital; former Chairman of Al Jazira Dawawin Real Estate Fund board",
+      "education": "Bachelor's in Business Management, King Abdulaziz University; advanced certificate in banking and finance, University of California Riverside",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5)",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Alinma Capital (renamed from Alinma Investment in Feb 2025) is Alinma Bank's 100%-owned, Shariah-only CMA licensee for dealing, managing, arranging, advising and custody. AUM was SAR 104.6bn at end-2025 and SAR 129.7bn at 30 Jun 2026; the parent calls it the 3rd-largest asset manager in KSA by AUM. The book is dominated by alternatives: more than SAR 84bn in 44 real estate and private equity funds, against about SAR 15bn in private portfolios/mandates and about SAR 5.4bn in 20 capital-markets, money-market and fixed-income funds (72 funds in total). FY2025 revenue was SAR 776m, of which asset management fees were SAR 543m and brokerage commission SAR 44.5m. 71% of revenue came from related parties. Brokerage covers Tadawul plus GCC, Egypt, US (including fractional shares), European and Asian markets through the Alinma Capital app and web platform and a separate 'Alinma Capital Global' platform. In 2025 it launched a new website and app experience and an in-house investment-allocation tool called 'Nasih'. Its 2030 strategy targets partnerships with global asset managers to co-develop funds, a top-tier wealth advisory team, a new engagement-led brokerage app and an AI-powered wealth companion.",
+    "segments": [],
+    "private_banking": {
+      "present": "No",
+      "detail": "Private banking is run by the parent bank's Private Banking Group (see sa-alinma). Alinma Capital provides wealth management, private portfolios and private family funds to those and other clients.",
+      "source_ids": [
+        "S15",
+        "S23",
+        "S9"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "72 funds at end-2025. Public funds listed on the website: Alinma Nomu Market Equity, Free-Style Saudi Equity, Emerging Markets Equity, Diversified Saudi Riyal, Saudi Equity, IPO, Multi-Assets Balanced (monthly distribution), Saudi Riyal Liquidity, plus Alinma Saudi Government Sukuk ETF. Also private funds, REITs (e.g. Alinma Hospitality REIT), endowment funds (AUM SAR 402m) and private family funds. 13 new private funds in 2025 (+SAR 7.6bn AUM). New private fund with SAR 447mn AUM in 2Q26. Five Sanadeq awards for 2025 fund performance.",
+      "source_ids": [
+        "S14",
+        "S5",
+        "S9",
+        "S7",
+        "S20",
+        "S23"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Local (Saudi Exchange) at 0.155% of traded value. International: Dubai, Abu Dhabi, Nasdaq Dubai, Kuwait, Bahrain, Qatar, Muscat, Egypt, USA (per-share pricing, fractional shares), London and other European markets, Australia, NZ, China, Hong Kong, Japan, Singapore and other Asian markets. The site says it 'cooperates with major prestigious brokerage companies'. Channels: branches, phone brokers, IVR trading, web and app. Murabaha share-trading facilities (margin; board raised the limit to SAR 2bn in 2025); Shariah purification service; technical analysis; live prices. 2026 plans: institutional trading desks and market-making.",
+      "source_ids": [
+        "S10",
+        "S11",
+        "S12",
+        "S5",
+        "S9"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "'Alinma Capital' app (iOS seller: Alinma Investment Company; v3.0.44): buy/sell orders, IPO subscriptions, Sukuk orders, mutual fund subscription and redemption, portfolio analysis. Web platform 'Alinma Capital Platform' (online.alinmacapital.com) for the local market. 'Alinma Capital Global Platform' and app for international markets. New main website and unified app/web experience launched 2025. Alinma Bank customers also reach in-house funds through the bank app's wealth platform (see sa-alinma).",
+      "source_ids": [
+        "S17",
+        "S16",
+        "S5"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "CMA licence covers advising. 'Investment Management Advisory' service is built on an Investment Policy Statement. Wealth Management team promises 'best advisory practice through the optimal allocation of investment assets' across local and global opportunities. 2030 plan: 'Set up a top-tier wealth advisory team'.",
+      "source_ids": [
+        "S3",
+        "S15",
+        "S13",
+        "S7"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Private investment portfolios managed by Alinma Capital's team to the client's objectives and Shariah rules, with a dedicated relationship manager and performance reporting. Private portfolios and investment mandates AUM about SAR 15bn at end-2025 (+16%).",
+      "source_ids": [
+        "S13",
+        "S5"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Unclear",
+      "detail": "No client-facing robo-advisor or model-portfolio product found. In 2025 IT 'developed and launched the \"Nasih\" (ناصح) solution to support investment allocation' based on analysis of client data, risk level and interactive responses. It is unclear whether clients use it directly or advisers use it internally. Parent's 2030 plan includes an 'AI-powered wealth companion'.",
+      "source_ids": [
+        "S5",
+        "S7"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Distributes its own funds through app, web, branches and the parent bank. No third-party fund shelf or fund-platform provider found.",
+      "source_ids": [
+        "S14",
+        "S17"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured products on the Alinma Capital website or app listing. The parent bank lists structured products for alinma Private clients (see sa-alinma).",
+      "source_ids": [
+        "S16"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Core franchise: alternatives AUM above SAR 84bn at end-2025 (44 funds). Real estate (residential, commercial, industrial, hospitality, Makkah/Madinah, logistics), private equity funds (including the consolidated Alinma Private Equity Opportunities Fund, 72.92%), and private real estate and public/traded real estate funds. Forbes ME 2026 cites 2025 private real estate funds in Dammam (USD 5.1bn), Jeddah (USD 4.7bn) and Makkah (USD 2.3bn).",
+      "source_ids": [
+        "S5",
+        "S4",
+        "S19"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "All activities Shariah-compliant under its own Sharia Committee: Sukuk ETF, Murabaha and Sukuk funds, Shariah share-purification service, Murabaha margin facilities, endowment (waqf) funds.",
+      "source_ids": [
+        "S3",
+        "S12",
+        "S14"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Sukuk",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Global Trading Network (GTN)",
+        "kind": "Execution / platform technology",
+        "what": "The official site's 'Global Market' login points to alinmainternational.globaltradingnetwork.com, and its Google Play link for the Alinma Capital app uses package ID com.gtn.alin. This suggests GTN provides the trading platform technology. No announcement found; the relationship is inferred from official links.",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "partner": "T24 (core system; vendor not named in source)",
+        "kind": "Core / back-office system",
+        "what": "AR 2025: improved integration with core systems 'such as T24' via interfaces and data flows",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "partner": "Alinma Bank (parent)",
+        "kind": "Distribution",
+        "what": "Bank refers clients and distributes funds; affluent and private segments get discounts on Alinma Capital products; Alinma Capital earns discretionary portfolio management fees from the bank (related-party note 17.1)",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S4",
+          "S9"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-02-12",
+        "what": "CMA announced the company's name change from Alinma Investment to Alinma Capital, with a new visual identity",
+        "source_ids": [
+          "S6",
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched 13 new private funds (real estate, energy, healthcare, financing, Murabaha, fixed income), adding SAR 7.6bn AUM. Executed 18 IB transactions.",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Digital and IT: new main website, unified app/web UX, trading and margin/IPO/sukuk/fund journey upgrades, 'Nasih' investment-allocation tool, T24 integration, portfolio and wealth management system automation integrated with CRM",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Board approved the company's 2030 strategy and raised the margin financing limit to SAR 2bn",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Outlook (parent AR 2025): scale investment solutions for individual and institutional segments; set up institutional trading desks and market-making; broaden global reach; AI/GenAI-enabled operating model. Plans to add new markets to the global trading platform and improve e-channels for account opening and trading (Alinma Capital AR).",
+        "source_ids": [
+          "S9",
+          "S5"
+        ]
+      },
+      {
+        "date": "2026-07",
+        "what": "Parent's 2Q26 strategy update for Alinma Capital: 9 of 13 initiatives started. Focus areas include partnering with global AMs to co-develop funds, a top-tier wealth advisory team, local and global distribution, a new app with engagement features, and an AI-powered wealth companion. Launched a new private fund with SAR 447mn AUM.",
+        "source_ids": [
+          "S7"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "2030 focus areas include 'Forge partnerships with global AMs to co-develop funds', 'Set up local and global distribution in key markets', 'Launch cutting-edge app with engagement features and modules' and 'Enhance CX with AI-powered wealth companion and personalization' (S7 slide 18)",
+        "Liquid public-market fund range is small next to alternatives: about SAR 5.4bn in 20 capital-markets/money-market/fixed-income funds vs more than SAR 84bn alternatives (S5 pp.9, 14)",
+        "No model portfolios, robo product, third-party funds or structured products found on the website or app listing (S16, S17)",
+        "Brokerage revenue is shrinking: brokerage commission fell from SAR 64.2m (FY2024) to SAR 44.5m (FY2025) (S4 note 19.1), and H1 2026 brokerage trading income fell 20% YoY (S7 slide 47)",
+        "Plans to add markets to its global trading platform and improve digital account opening and trading (S5 p.28)"
+      ],
+      "barriers": [
+        "Shariah-only: products need Sharia Committee approval (S3)",
+        "In-house build culture: developed the 'Nasih' allocation tool internally in 2025 and runs T24, a GTN-hosted global platform and its own apps (S5, S16)",
+        "Captive model: 71% of FY2025 revenue (SAR 554m of SAR 776m) from related parties, mainly its own funds (S4 note 19.1)",
+        "Large proprietary alternatives franchise (SAR 84bn+) limits the need for third-party private-markets products (S5)"
+      ],
+      "incumbent_vendors": [
+        "Global Trading Network (GTN): inferred from the globaltradingnetwork.com-hosted global platform login and com.gtn.alin Android app ID on the official site (S16)",
+        "T24 core system, named in AR 2025 (S5)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Senior Executives",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/executive-team",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/Board-of-Directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "About Alinma Capital Company",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/About-Us",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Alinma Capital Company consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/-/media/Project/Alinma/PDF/Annual-Report-and-Financial-statements-company/Signed-English-Alinma-Capital-Company-Signed-FS-2025.pdf",
+      "doc_type": "Audited financial statements (Alluhaid & Alyahya; report dated 8 Mar 2026)",
+      "tier": 1,
+      "published": "2026-03-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Alinma Capital Annual Report 2025 (التقرير السنوي 2025)",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/-/media/Project/Alinma/PDF/May2026/Annual-Report-2025-1.pdf",
+      "doc_type": "Annual report (Arabic)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S6",
+      "title": "Change the name of Alinma Investment company",
+      "publisher": "Capital Market Authority (CMA)",
+      "url": "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_3736.aspx",
+      "doc_type": "Regulator announcement",
+      "tier": 3,
+      "published": "2025-02-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Alinma Bank Investor Presentation 2Q 2026",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/media/qqrb15ni/alinma-investor-presentation-2q2026.pdf",
+      "doc_type": "Parent investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Alinma Bank Interim Condensed Consolidated Financial Statements, six months ended 30 June 2026",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/media/4smpptoe/alinma-financial-statement-q2-2026-en.pdf",
+      "doc_type": "Parent reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "alinma Annual Report 2025",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/media/2wldyfqb/alinma-2025-annual-report-en1.pdf",
+      "doc_type": "Parent annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "International Trading",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/international-trading",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Local Stock Trading",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/Local-Trading",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Brokerage Products and Services",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/Brokerage-products-and-services",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Investment Portfolio (Private Investment Portfolios)",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/Private-investment-portfolio",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Public Investment Funds",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/Public-Investment-Funds",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Wealth Management",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/wealth-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Alinma Capital homepage (platform and app links)",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "alinma capital - الإنماء المالية (App Store listing)",
+      "publisher": "Apple App Store (seller: Alinma Investment Company)",
+      "url": "https://apps.apple.com/sa/app/alinma-capital-الإنماء-المالية/id1550503215",
+      "doc_type": "Official app listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Who's Who: Mazin Fawaz Baghdadi, CEO and managing director at Alinma Investment",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.com/node/2506421",
+      "doc_type": "News profile",
+      "tier": 5,
+      "published": "2024-05-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Top 50 Asset Managers 2026: Mazin Baghdadi",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-50-asset-managers-2026/mazin-baghdadi/",
+      "doc_type": "Ranking profile",
+      "tier": 5,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Alinma Capital has won 5 awards from the Sanadeq Media Group for the year 2025",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/Latest-News/Sanadeq-Awards-2026-F2025",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Our branches",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/our-branches",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Custody Services",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/custody-services",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Private Family Fund",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/en/Private-Family-Fund",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Zaki Alawami - alinma capital - الإنماء المالية (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/awami/",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Saud Balghonaim - Alinma Investment - الإنماء للاستثمار (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/saud-balghonaim-84b18856/",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Sari Abutaleb, MBA - alinma capital - الإنماء المالية (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://sa.linkedin.com/in/sari-abutaleb-mba-3b80b5122",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "Alinma Bank Consolidated Financial Statements for the year ended 31 December 2025 (note 38)",
+      "publisher": "Alinma Bank",
+      "url": "https://ir.alinma.com/media/503frasr/english-consolidated-financial-statements-december-2025.pdf",
+      "doc_type": "Parent audited financial statements",
+      "tier": 1,
+      "published": "2026-02-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "AUM, 31 Dec 2024 comparative",
+      "detail": "Alinma Capital FS 2025 note 22.1 gives SR 90,103m for 2024, consistent with the AR's +16% growth to SR 104,607m. The parent's FS 2025 note 38 gives SAR 93,650m for 2024.",
+      "resolution": "Recorded only the agreed 2025 figure (104,607m) and the 30 Jun 2026 figure. 2024 comparative unresolved; Alinma Capital's own figure is internally consistent.",
+      "source_ids": [
+        "S4",
+        "S27",
+        "S5"
+      ]
+    },
+    {
+      "field": "CMA licence date",
+      "detail": "About page says licence 09134-37 is 'dated 14/04/2009'. Audited FS says 23 Rabi Thani 1430H, corresponding to 19 April 2009.",
+      "resolution": "Used the audited FS date (19 Apr 2009). Minor.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "field": "CEO career dates",
+      "detail": "Official bio says Mazin Baghdadi joined Alinma Investment in 2016. Arab News (May 2024) says he joined as Chief Investment Officer in 2017 and became CEO and MD in 2020.",
+      "resolution": "Recorded the joining year per the official bio and the 2020 CEO appointment per Arab News, with a note. Minor.",
+      "source_ids": [
+        "S1",
+        "S18"
+      ]
+    },
+    {
+      "field": "Executive structure",
+      "detail": "AR 2025 org chart shows a Chief Business Development Officer and no Chief Brokerage Officer. The website (Oct 2026) lists a Chief Brokerage Officer (Sari Abutaleb) and no Business Development chief.",
+      "resolution": "Used the website as current. The Business Development role holder is unknown.",
+      "source_ids": [
+        "S5",
+        "S1"
+      ]
+    },
+    {
+      "field": "Brokerage revenue",
+      "detail": "AR says direct brokerage revenue 'exceeded SAR 45m'. Audited FS shows brokerage commission income of SAR 44.474m.",
+      "resolution": "Recorded the audited FS figure. The AR figure may include other brokerage-related income.",
+      "source_ids": [
+        "S5",
+        "S4"
+      ]
+    }
+  ],
+  "open_items": [
+    "No interim (H1 2026) standalone financial statements published by Alinma Capital. Balance-sheet and income metrics are FY2025. H1 2026 data comes only from the parent's segment note and presentation.",
+    "Number of clients, brokerage accounts and app users not disclosed.",
+    "GTN relationship inferred from hosting domain and app package ID only. Confirm vendor and scope (international execution vs full trading app).",
+    "Whether 'Nasih' is client-facing (robo/suitability) or an adviser tool: unclear.",
+    "Name of the Chief Business Development Officer (AR 2025 org chart) not found. Appointment date of the Chief Brokerage Officer not found.",
+    "LinkedIn company page appears in search as 'Alinma Investment - الإنماء للاستثمار' (company/alinma-investment-company) but is not linked from the official site, so linkedin_company is left null.",
+    "International brokerage execution partners ('major prestigious brokerage companies') not named.",
+    "Saudi Exchange announcement pages returned HTTP 403; CMA authorised-person register entry not checked directly (licence taken from audited FS)."
+  ],
+  "research_status": "Complete",
+  "researched_by": "P2",
+  "checked": "2026-10-12"
+}

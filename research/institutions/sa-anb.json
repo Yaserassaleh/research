@@ -1,0 +1,1394 @@
+{
+  "id": "sa-anb",
+  "name": "Arab National Bank",
+  "short_name": "anb",
+  "legal_name": "Arab National Bank (a Saudi Joint Stock Company)",
+  "name_ar": "البنك العربي الوطني",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://anb.com.sa",
+  "linkedin_company": "https://www.linkedin.com/company/arab-national-bank/",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1979 (took over the Saudi operations of Arab Bank; listed on Tadawul 1 Dec 1979 per AR 2025)",
+  "regulators": [
+    "SAMA",
+    "CMA"
+  ],
+  "listed": true,
+  "exchange": "Tadawul (Saudi Exchange)",
+  "ticker": "1080",
+  "parent_id": null,
+  "ownership_summary": "Listed Saudi bank with a foreign strategic shareholder. Arab Bank PLC (Jordan) held 800,000,000 shares (40.00%) at both 1 Jan and 31 Dec 2025, unchanged during the year. Other holders above 5%: Rashed Abdul Rahman Al-Rashed and Sons Co. (10.00%) and Al-Jabr Investment Co. (5.65%) (AR 2025 Directors' Report). The FS describe the capital as 60% Saudi and non-strategic foreign shareholders and 40% 'Strategic shareholder - Arab Bank PLC – Jordan'. Arab Bank PLC appoints 3 of the 10 directors; the other 7 are elected by shareholders.",
+  "shareholders": [
+    {
+      "holder": "Arab Bank PLC (Jordan)",
+      "pct": 40.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "Rashed Abdul Rahman Al-Rashed and Sons Co.",
+      "pct": 10.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "Al-Jabr Investment Co.",
+      "pct": 5.65,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "government_link": "No government shareholder above 5% disclosed at 31 Dec 2025 (S3). One director is Chief Operating Officer of Hassana Investment Company (S2); no Hassana holding is disclosed.",
+  "group_structure": "Parent bank with: anb capital (100%; CMA-licensed investment arm for brokerage, asset management, investment banking, real estate and private equity funds; profiled separately as sa-anb-capital); Al Arabi Heavy Equipment Lease Company (87.5%; board approved its sale on 23 Nov 2025, classified held for sale and discontinued at 31 Dec 2025); Al-Manzil Al-Mubarak Real Estate Financing Ltd. (100%; holds title to financed real estate); associate SHL Finance Company (29.4%; equity-accounted). International branch in London (35 Curzon Street, Mayfair). Double counting: anb capital is fully consolidated and reported as the 'Investment and brokerage services' segment (FY2025 total operating income SAR 556.3m, equal to anb capital's own SAR 556.2m). Do not add sa-anb-capital figures to this record.",
+  "subsidiaries": [
+    {
+      "name": "anb capital Company (formerly Arab National Investment Company)",
+      "pct": 100.0,
+      "activity": "Brokerage, asset management, discretionary portfolio management, investment banking, real estate and private equity funds, custody (CMA licence 07072-37)",
+      "linked_id": "sa-anb-capital",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Al Arabi Heavy Equipment Lease Company (AHEL)",
+      "pct": 87.5,
+      "activity": "Shariah-compliant heavy equipment leasing; held for sale from 31 Dec 2025",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Al-Manzil Al-Mubarak Real Estate Financing Ltd.",
+      "pct": 100.0,
+      "activity": "Holds and transfers title to real estate financed by the bank",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "SHL Finance Company (associate)",
+      "pct": 29.4,
+      "activity": "Home, SME and consumer finance (SAMA-licensed; equity-accounted associate)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "footprint": "Saudi Arabia plus one branch in London. At end-2025: 121 domestic branches (Central 44, Western 30, Eastern 27, Southern 20), 54 TeleMoney remittance centres, 14 SME centres, 3 corporate service centres and about 1,028 ATMs (AR 2025, S3). The Eastern Region hosts the bank's first Wealth Management Center (opened 2025).",
+  "customer_segments": "Retail (mass, youth, expatriates, senior executives, women), affluent tiers (anb Silver, Gold, Platinum), anb Elite (launched 2025 for ultra-high-net-worth individuals), Private Banking (HNW, 'anb Private'), MSME, mid-sized corporates, corporate and institutional (Wholesale Bank Group), fintechs (transaction banking).",
+  "business_lines": "Five reporting segments (FY2025 FS note 31): Retail banking (deposit, credit and investment products for individuals; total operating income SAR 3,782m), Corporate banking (SAR 4,259m), Treasury (SAR 1,425m), Investment and brokerage services (anb capital; SAR 556m), Other. Private Banking and the London branch sit inside the bank. Treasury sells structured deposits (AMLP), hedging and international bonds/sukuk, and runs the eTrader FX and precious-metals platform. TeleMoney remittances. Islamic Banking Division: Islamic assets nearly 90% of total assets and Islamic liabilities almost 99% of total liabilities at end-2025.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 295516010,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, 'Balance sheet as in published financial statements' column of Pillar 3 template CC2",
+      "status": "Verified",
+      "locator": "S5 PDF p.7 (CC2)",
+      "note": "Interim FS PDF not opened (IR financial-statements page under maintenance). Argaam reports SAR 295.52bn (+9.6% YoY), consistent.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 281383274,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, audited consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "S4 PDF p.7",
+      "note": "Extra record (FY2025 year-end).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 217751409,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer accounts' in Pillar 3 CC2 (published balance sheet line 'Customers' deposits'); excludes deposits from banks and other financial institutions (14,406,420)",
+      "status": "Verified",
+      "locator": "S5 PDF p.7 (CC2)",
+      "note": "Argaam: SAR 217.75bn (+7.9% YoY).",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 209286780,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customers' deposits', audited statement of financial position; excludes due to banks, SAMA and other financial institutions (11,948,622). Includes SAR 1,890m of margins held against commitments.",
+      "status": "Verified",
+      "locator": "S4 PDF p.7; note 13",
+      "note": "Extra record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 205781526,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and advances to customers' in Pillar 3 CC2 (published balance sheet line 'Loans and advances, net', net of ECL; includes Shariah-based financing)",
+      "status": "Verified",
+      "locator": "S5 PDF p.7 (CC2)",
+      "note": "Argaam: SAR 205.78bn (+10.3% YoY).",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 195299305,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and advances, net', audited statement of financial position (amortised cost, net of ECL; includes Shariah-based products)",
+      "status": "Verified",
+      "locator": "S4 PDF p.7",
+      "note": "Extra record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 52465554,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total shareholders' equity in Pillar 3 CC2, including Tier 1 Sukuk 9,267,500 and non-controlling interest 29,899",
+      "status": "Verified",
+      "locator": "S5 PDF p.7 (CC2)",
+      "note": "Argaam gives shareholders' equity excluding minority interest and sukuk of SAR 44.7bn.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 49513003,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including Tier I Sukuk 7,767,500 and NCI 30,493; equity attributable to shareholders of the Bank 41,715,010",
+      "status": "Verified",
+      "locator": "S4 PDF p.7",
+      "note": "Extra record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 9883129,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', consolidated statement of income (net special commission income 8,097,066 + net fees 878,412 + exchange, trading, dividend and other income)",
+      "status": "Verified",
+      "locator": "S4 PDF p.7",
+      "note": "FY2024 restated: 9,424,995.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 5330.77,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Total operating income, six months, as reported by Argaam from the bank's results",
+      "status": "Verified",
+      "locator": "Argaam results table",
+      "note": "H1 2025: 5,086.08m (+4.8%). Extra record; interim FS not opened.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 5116238,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net income attributable to shareholders of the Bank (after zakat and tax; includes SAR 5,960k from discontinued operations). Total net income 5,116,984.",
+      "status": "Verified",
+      "locator": "S4 PDF p.7",
+      "note": "FY2024: 4,966,022.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 2782.11,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit for six months as reported by Argaam (attribution basis not stated in the article)",
+      "status": "Verified",
+      "locator": "Argaam headline and table",
+      "note": "H1 2025: 2,640.16m (+5.4%). Q2 2026: 1,422.91m.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 2,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "'Over 2 million customers' (business model page, AR 2025); total vs active and retail vs all not stated",
+      "status": "Verified",
+      "locator": "S3 PDF p.21",
+      "note": "Lower bound ('over'). AR also reports retail digital users +16% and customer acquisitions +25% YoY in 2025, without counts.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 4128,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "'Total employees' (Our people by the numbers, AR 2025); 1,011 female",
+      "status": "Verified",
+      "locator": "S3 PDF p.50",
+      "note": "Date assumed year-end 2025.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 121,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank, KSA",
+      "definition": "Domestic branches (plus 1 international branch in London, 54 TeleMoney centres, 14 SME centres)",
+      "status": "Verified",
+      "locator": "S3 PDF p.11 and p.30",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "investment_brokerage_segment_operating_income",
+      "value": 556336,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Investment and brokerage services segment (anb capital)",
+      "definition": "Total operating income of the 'Investment and brokerage services' segment (5.6% of group total operating income)",
+      "status": "Verified",
+      "locator": "S4 note 31, PDF p.36",
+      "note": "Segment total assets 1,170,421.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "share_trading_fund_management_fees",
+      "value": 241168,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Fee and commission income: 'Share trading and fund management' (gross)",
+      "status": "Verified",
+      "locator": "S4 note 21, PDF p.32",
+      "note": "FY2024: 167,640 (+44%).",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Bank-level AUM not given in AR 2025 (S3) or FY2025 FS (S4); the AR says AUM grew 2.2x without a figure. anb capital's AUM (SAR 24.6bn NAV at end-2025) is recorded in sa-anb-capital."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 Private Banking section (S3 PDF p.32) says Private Banking achieved 'higher assets under management' with no figure; FY2025 FS (S4)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 digital and retail sections (S3 PDF pp.30, 40-43); anb capital AR 2025 (S23)"
+    },
+    {
+      "metric": "q3_2026_results",
+      "status": "Not found after research",
+      "where_checked": "Argaam company-report page for 9M 2026 returned the H1 2026 report only (checked 12 Oct 2026); bank news page (latest item 3 Sep 2026)"
+    }
+  ],
+  "people": [
+    {
+      "name": "Salah Rashed Al-Rashed",
+      "name_ar": null,
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Re-appointed Chair for the board term 1 Apr 2026 to 31 Mar 2029; SAMA no-objection received 16 Apr 2026 (S7). First appointment date not found.",
+      "previous_roles": "Executive Manager and Partner, Rashid Abdulrahman Al-Rashid and Sons Co. (current). Previously member of the Consulting Authority of the Supreme Economic Council; board member of the Chamber of Commerce & Industry (Finance Committee member, Investment Committee chair); chairman or board member of several companies.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); appointment announcement 16 Apr 2026 (S7)",
+      "source_ids": [
+        "S2",
+        "S7"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulmohsen Ibrahim AlTouq",
+      "name_ar": null,
+      "title": "Deputy Chairman of the Board (Vice Chair)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2026-04-16",
+      "appointed_note": "Appointed Vice Chair for the 2026–2029 term, effective on SAMA no-objection 16 Apr 2026 (S7); was already Deputy Chairman at the 31 Mar 2026 EGM (S8).",
+      "previous_roles": "Chairman, Al Touq Company; board member, Tourism Development Fund; experience in management, real estate investment, energy, communications and financial services.",
+      "education": "Bachelor's in Business Administration, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); announcement 16 Apr 2026 (S7)",
+      "source_ids": [
+        "S2",
+        "S7",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Obaid Abdullah Alrasheed",
+      "name_ar": null,
+      "title": "Managing Director and Chief Executive Officer",
+      "functions": [
+        "CEO",
+        "Board"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Executive Management",
+      "scope": "Group",
+      "appointed": "2021-02",
+      "appointed_note": "CEO and MD since February 2021 (Arab News, Jan 2022, S22), succeeding Robert Eid. Also Vice Chairperson of anb capital's board (appointed Feb 2021, S23).",
+      "previous_roles": "About 10 years as Deputy CEO of anb before 2021 (S22); career of almost four decades in Saudi banking across retail, private, public sector and SME banking (S1). Board roles: anb capital, SHL Finance, Saudi Chemical, Dr. Sulaiman Al Habib Medical Services Group. Formerly independent director of Malath Cooperative Insurance (S22).",
+      "education": "Bachelor's in Business Administration, San Jose State University, California",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive and board pages checked 2026-10-12 (S1, S2); attended 31 Mar 2026 EGM as MD (S8); no departure news found",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S8",
+        "S22",
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Randa Muhammad Al-Sadiq",
+      "name_ar": null,
+      "title": "Board Member; Chairman of the Strategy Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Current Managing Director and CEO of Arab Bank PLC (Jordan), the 40% strategic shareholder (S2). Whether she is one of the 3 Arab Bank appointees is not stated.",
+      "previous_roles": "General Manager, International Banking Group, National Bank of Kuwait; Managing Director and Executive Director of Treasury; Director of Current Assets Management, NBK London.",
+      "education": "Master's in Banking and Financial Sciences and Bachelor's in Business Administration, American University of Beirut",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); listed at the 31 Mar 2026 EGM (S8)",
+      "source_ids": [
+        "S2",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Naim Rassem Kamel AlHussaini",
+      "name_ar": null,
+      "title": "Board Member; Risk Committee member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Current Deputy CEO for Retail Banking and Wealth Management at Arab Bank PLC (S2).",
+      "previous_roles": "Senior executive roles in banking, financial services, corporate operations and communications (employers not named on the official page).",
+      "education": "Bachelor's in Industry Management, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); listed at the 31 Mar 2026 EGM (S8)",
+      "source_ids": [
+        "S2",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khaled A. Alrashed",
+      "name_ar": null,
+      "title": "Chief Retail Bank Officer",
+      "functions": [
+        "Retail",
+        "Affluent"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Retail Banking Group",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found. Non-executive board member of anb capital since Aug 2025, where he chairs some anb capital fund boards (S23, S19).",
+      "previous_roles": "Over 17 years at anb across SME and corporate banking before leading retail (S1, S3). anb capital AR describes him as 'Chief Personal Bank Officer' with 18+ years in retail and corporate banking at anb; board member of Saudi Financial Support Services, Al Arabi Heavy Equipment and SHL Finance (S23).",
+      "education": "Bachelor's in Business Administration, King Saud University; MBA, INSEEC University (France); EMBA, Al Yamamah University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S3). Title wording differs across sources (see discrepancies).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S19",
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saleh Almahmoud",
+      "name_ar": null,
+      "title": "Chief Private Bank Officer (per AR 2025)",
+      "functions": [
+        "Private banking"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Private Banking",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Listed in the AR 2025 senior executives section; not on the official executive page checked 12 Oct 2026.",
+      "previous_roles": "More than 23 years in banking at Riyad Bank, Samba Financial Group and anb (S3)",
+      "education": "Bachelor's in Business Administration, Arab Open University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "AR 2025 (published early 2026) lists him as Chief Private Bank Officer (S3). The current official executive page (S1, 18 executives) has no private banking head. A search-engine snippet of an older version of that page called him 'Head of Private Banking'. No departure or successor announcement found.",
+      "source_ids": [
+        "S3",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Omar Alageel",
+      "name_ar": null,
+      "title": "Chief Digital Officer",
+      "functions": [
+        "Digital"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Digital Office",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found. No biography on the official page.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1). A third-party company profile seen in search listed an 'Omar Al-Ageel' as Head of Private Banking (older); not confirmed.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Naif E. Al-Harbi",
+      "name_ar": null,
+      "title": "Chief Information Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Information Technology Group",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Quoted as CIO in IBM's 11 Mar 2025 release (S17).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); IBM release Mar 2025 (S17)",
+      "source_ids": [
+        "S1",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Aiedh M. Al-Zahrani",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Operations",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Riyad Bank: Chief Information Officer; Deputy Vice President, Banking Solutions' Support Department. Over 22 years in technology-led solutions.",
+      "education": "Bachelor's in Information Systems, King Saud University",
+      "qualifications": "Six Sigma Black and Green Belt; TOGAF",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S3)",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdelrahman M. Ahmed",
+      "name_ar": null,
+      "title": "Chief Strategy Transformation Officer",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Strategy",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "About 10 years in banking and consulting, including Banque Saudi Fransi and Boston Consulting Group",
+      "education": "Bachelor's in Industrial and Systems Engineering, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S3)",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saad AlDugish",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Over 20 years in financial management at Al Rajhi Bank and anb",
+      "education": "Bachelor's in Accounting, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S3)",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Louai A. Alzaher",
+      "name_ar": null,
+      "title": "Chief Wholesale Bank Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Wholesale Bank Group",
+      "scope": "Bank",
+      "appointed": "2022-07",
+      "appointed_note": "Head of the Wholesale Bank Group since July 2022 (anb capital AR 2025, S23). Left the anb capital board Aug 2025.",
+      "previous_roles": "Joined anb Jan 2000; corporate banking, project and structured finance, debt restructuring, investment banking (S23)",
+      "education": "Bachelor's in Accounting, KFUPM; MBA in Finance, University of Leicester (S23)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmed Alsourani",
+      "name_ar": null,
+      "title": "Chief Treasury Officer",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Treasury",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not in AR 2025, which listed Dr. Zeyad Abanmay as Chief Treasury Officer; likely appointed in 2026 (no announcement found).",
+      "previous_roles": "Over 24 years in treasury and financial markets (employers not named)",
+      "education": "Bachelor's in Surveying Engineering, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Lama Alessa",
+      "name_ar": null,
+      "title": "Chief Marketing and Customer Experience Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Arab National Bank",
+      "business_unit": "Marketing and Customer Experience",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not in the AR 2025 executive list; date not found",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalid S. Alghamdi",
+      "name_ar": null,
+      "title": "Chief Executive Officer and Executive Board Member, anb capital",
+      "functions": [
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "anb capital Company",
+      "business_unit": "anb capital (100% subsidiary)",
+      "scope": "Subsidiary",
+      "appointed": "2021",
+      "appointed_note": "Full profile in sa-anb-capital.",
+      "previous_roles": "CEO, Credit Suisse Saudi Arabia; Managing Director, Mizuho Saudi Arabia; GIB Capital; Merrill Lynch London",
+      "education": "MBA in Finance, University of Colorado Boulder; BA (Hons), University of London",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "anb capital leadership page checked 2026-10-12 (S19); signs anb capital AR 2025 (S23)",
+      "source_ids": [
+        "S19",
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "anb runs wealth through a tiered retail model (anb Silver, Gold and Platinum, with published entry deposits of SAR 100,000, 500,000 and 1,000,000), anb Elite (launched 2025 for ultra-high-net-worth clients) and Private Banking ('anb Private', a dedicated HNW branch plus the London branch for UK property and mortgages). In 2025 it opened what it calls the Kingdom's first Wealth Management Center in the Eastern Region and launched a female HNW programme. Investment products come from the 100%-owned anb capital (AUM SAR 24.6bn NAV at end-2025, 24 real estate funds, about 20 public funds, DPM from SAR 20m), which is small inside the group: the investment and brokerage segment was 5.6% of FY2025 operating income. The revamped anb app is 'integrated with anb capital' for investment products and fund subscriptions, while trading runs in anb capital's own apps. Treasury sells AMLP structured deposits, international bonds/sukuk, structured credit and hedge-fund exposure. The 2026 plan targets stronger affluent propositions, AI-driven personalisation, and at anb capital new investment lines with fintech partners.",
+    "segments": [
+      {
+        "name": "anb Silver",
+        "tier": "Mass affluent",
+        "eligibility": "Open an account and deposit SR 100,000; maintain a 3-month average balance of SR 50,000; salary transfer above SAR 7,600 (SAR 6,000 for retirees) (as published)",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "name": "anb Gold",
+        "tier": "Affluent",
+        "eligibility": "Open an account and deposit SR 500,000; maintain a 3-month average balance of SR 100,000; salary transfer above SR 20,000 (SR 15,000 for pensioners) (as published). Dedicated RM, Wealth Management lounges, 24/7 virtual RM in the anb app.",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "name": "anb Platinum",
+        "tier": "Affluent / upper affluent",
+        "eligibility": "Open an account and deposit SR 1,000,000; maintain a 3-month average balance of SR 500,000; salary transfer above SR 30,000 (SR 25,000 for pensioners) (as published). Dedicated RM, Wealth Management lounges, family programme, Infinite card.",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "name": "anb Elite",
+        "tier": "Private / HNW",
+        "eligibility": "Not published. AR 2025 calls it the 'elite proposition for ultra-high-net-worth (UHNW) individuals'. 24/7 personal RM, wealth management and property investments through anb capital with trading discounts of up to 75%, concierge, London branch services.",
+        "source_ids": [
+          "S10",
+          "S3"
+        ]
+      },
+      {
+        "name": "anb Private (Private Banking)",
+        "tier": "Private / HNW",
+        "eligibility": "Not published. 'A dedicated branch to serve high net worth customers'; London branch for asset and mortgage needs.",
+        "source_ids": [
+          "S9"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Private Banking (anb Private) serves HNW clients through RMs, a dedicated HNW branch and the London branch (35 Curzon Street, reopened Q1 2025; UK mortgages extended to more cities and to other GCC clients). Offer: 'packages of products, services, and investment opportunities', investment planning, access to 'the Saudi and Global Markets', treasury products (swaps, hedging, Murabaha), 'structure customized investments', concierge via partners. 2025: revenue growth, more clients, 'higher assets under management' (no figures), female HNW programme. Strategy: 'start specialized programs targeting under-served HNWI segments and position the Bank as a multi-generational partner'.",
+      "source_ids": [
+        "S3",
+        "S9"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Through anb capital (100%): AUM SAR 24.56bn net asset value and SAR 28.02bn gross asset value at 31 Dec 2025 (2024: 15.6bn / 20.4bn). Shariah and conventional public funds (Saudi equity, IPO, dividends, digital & IT, multi-asset, trade/money-market, sovereign sukuk, US and Asian equity), private fixed income funds, 24 real estate funds, PE/VC funds. Details in sa-anb-capital.",
+      "source_ids": [
+        "S20",
+        "S23"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Through anb capital: Saudi Exchange plus GCC, Egypt and US markets (and other global markets via the Central Trading Unit); 'anb capital - Saudi' app, 'anb capital - Global' platform, IVR and phone brokers; conventional and Shariah margin lending. Brokerage value traded SAR 68bn in 2025; net brokerage income SAR 36m (-22%).",
+      "source_ids": [
+        "S23",
+        "S19"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "The anb mobile app (revamped 2025) is 'integrated with anb capital to have access to an array of investment products' (AR 2025), and anb capital lists 'Easy subscription through anb mobile application' for its funds. Equity trading, IPOs and margin run in anb capital's separate apps (new Saudi trading app 2025; anb capital - Global with US fractional shares). Bank-run eTrader platform for FX and precious-metals trading (web and mobile). Third-party summaries mention a robo-advisory service and digital gold wallet, but these were not found on anb's website or in AR 2025.",
+      "source_ids": [
+        "S3",
+        "S21",
+        "S16",
+        "S19"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "RM-led advice in Private Banking and Elite. 2025-2026 retail strategy: 'Affluent focus: Enhancing wealth advisory services, introducing dedicated affluent services'. anb capital Wealth Management offers research-driven advice and customised portfolios.",
+      "source_ids": [
+        "S3",
+        "S9",
+        "S19"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "anb capital Discretionary Portfolio Management for corporate, institutional and HNW clients with investable assets of SAR 20m and above. DPM fees SAR 26.1m in FY2025.",
+      "source_ids": [
+        "S21",
+        "S20"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Unclear",
+      "detail": "No robo-advisor or model-portfolio product found on anb.com.sa, the anb capital website or in AR 2025. Third-party (Quartr) summaries of anb investor presentations mention a robo-advisory launch; not verified. anb capital public multi-asset funds (conservative, balanced, growth) act as risk-profiled fund options.",
+      "source_ids": [
+        "S3",
+        "S21"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "anb capital's own funds are subscribed through the anb mobile app. No third-party fund shelf or fund-platform provider found.",
+      "source_ids": [
+        "S21",
+        "S3"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Treasury: anb Market Linked Structured Deposit Product (AMLP) linked to rates, FX or commodities with 'partial or full capital guaranteed' (business banking page). International Instruments page: structured products, structured credit, international bonds and sukuk in all major currencies, hedge funds (fund of funds, single managers). Private Banking: 'structure customized investments'. Issuers not named.",
+      "source_ids": [
+        "S15",
+        "S14",
+        "S9"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Via anb capital: 24 active real estate funds (7 launched in 2025), four PE/VC funds including the anb Seed Fund (10 fintech investments) and a 2025 healthcare fund (Baraya Extended Care). Treasury lists hedge-fund exposure. Elite clients get 'property investments' through anb capital.",
+      "source_ids": [
+        "S23",
+        "S14",
+        "S10"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Islamic Banking Division under a Shariah Committee: Islamic assets nearly 90% of total assets at end-2025. Shariah products include Islamic time deposits with advance profit payment and ZAD time deposits ('a zakat-paid Sukuk-based product'), Shariah margin lending and Shariah funds at anb capital.",
+      "source_ids": [
+        "S3",
+        "S19"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Structured products",
+      "Private markets / alternatives",
+      "Gold / precious metals",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "IBM",
+        "kind": "Technology vendor (fraud prevention)",
+        "what": "IBM Safer Payments, an AI-driven real-time fraud prevention platform across digital channels. IBM supplied the software; ejada Systems implemented and integrated it.",
+        "date": "2025-03-11",
+        "status": "Live",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "partner": "ejada Systems",
+        "kind": "Systems integrator",
+        "what": "Implemented IBM Safer Payments and connected it across anb's digital channels",
+        "date": "2025-03-11",
+        "status": "Live",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "partner": "Thunes; Transfast",
+        "kind": "Payments / remittance",
+        "what": "Money transfer operators integrated into the overhauled TeleMoney app (Thunes as white label)",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "anb capital (in-house subsidiary)",
+        "kind": "Product / investment arm",
+        "what": "Supplies funds, brokerage, DPM, real estate and PE products to bank clients; integrated into the anb app",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S3",
+          "S21"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-03-11",
+        "what": "Deployed IBM Safer Payments for cross-channel fraud prevention, implemented by ejada",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Opened the Kingdom's first Wealth Management Center in the Eastern Region for affluent clients; launched the elite proposition for UHNW individuals; launched a unified CRM for all segments including affluent",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Revamped anb mobile app integrated with anb capital investment products; 60-second account opening; retail internet banking rebuilt with in-house hosting",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Private Banking launched a dedicated female HNW programme; London branch reopened refurbished Mayfair offices (Q1 2025)",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched the first bank-led fintech accelerator (anb Innovate) with Fintech Saudi; 16 fintechs selected; anb capital's anb Seed Fund participated",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "2026 goals (AR 2025): strengthen the affluent banking proposition; AI-driven personalisation and refined segmentation for high-value customers; at anb capital, 'Advance digital and client platforms' and 'Expand product innovation by introducing new investment lines and partnering with fintechs'",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2026-03-31",
+        "what": "EGM elected the board for 1 Apr 2026 to 31 Mar 2029; Chair and Vice Chair appointed 16 Apr 2026 after SAMA no-objection",
+        "source_ids": [
+          "S7",
+          "S8"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "AR 2025 2026 goals for anb capital: 'Advance digital and client platforms to enhance accessibility, engagement and overall CX' and 'Expand product innovation by introducing new investment lines and partnering with fintechs' (S3 PDF p.23)",
+        "Retail strategy: 'Affluent focus: Enhancing wealth advisory services, introducing dedicated affluent services'; 2026 retail focus on AI-driven personalisation for high-value customers (S3 PDF pp.23, 31)",
+        "Private Banking plans 'specialized programs targeting under-served HNWI segments' and a multi-generational proposition (S3 PDF p.58)",
+        "Wealth is a small share of group income: investment and brokerage segment SAR 556m of SAR 9,883m operating income in FY2025 (5.6%) (S4 note 31)",
+        "No model portfolios, robo or third-party funds found in the anb app; the app offers anb capital funds only (S3, S21)",
+        "Arab Bank PLC's Deputy CEO for Retail Banking and Wealth Management and its CEO sit on anb's board (S2)"
+      ],
+      "barriers": [
+        "Investment licences sit in anb capital (CMA licence 07072-37), so an investment-product contract would likely be with the subsidiary (S3, S19)",
+        "In-house build tendency: retail internet banking rebuilt on 'a unified back office and in-house hosting' (S3 PDF p.40); anb capital launched its own new trading apps in 2025 (S23)",
+        "Islamic-weighted balance sheet (Islamic liabilities almost 99% of total); products for most clients need Shariah Committee approval (S3 PDF p.33)"
+      ],
+      "incumbent_vendors": [
+        "IBM Safer Payments (fraud), integrated by ejada Systems, live Mar 2025 (S17)",
+        "Thunes and Transfast (TeleMoney remittances) (S3)",
+        "DirectFN: anb capital - Global Android app package ID is com.directfn.mobile.anb_prod (inferred from official link; see sa-anb-capital)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Executive Management",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/executive-management",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "anb Annual Report 2025 (Part 1: Overview, Strategic review, ESG review, Directors' report)",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/documents/55607/0/anb+AR25_English+Front+%2B+Directors%27+report.pdf/c97e316c-3e5d-9c36-4571-f5c63531b0a1?t=1773137329340",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "anb Annual Report 2025 (Part 2: Consolidated Financial Statements for the year ended 31 December 2025)",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/documents/55607/0/anb+AR25_English+Financial+Statements.pdf/d53d7250-ab72-b324-bbd7-c13dac3d95af?t=1773137365784",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Basel III Pillar 3 Disclosures – 30 June 2026 (Semi-Annual)",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/documents/55607/0/Pillar+3+SemiAnnual+-+30Jun2026.pdf/62462976-d10c-f2f9-1d81-78bd642b7371?t=1785226910142",
+      "doc_type": "Regulatory disclosure (Pillar 3; CC2 reproduces the published balance sheet)",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "ANB profit rises 5% to SAR 2.8B in H1 2026, 7% to SAR 1.4B in Q2",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/financial-reports/company-report/45/2026/71",
+      "doc_type": "Financial news (results report)",
+      "tier": 5,
+      "published": "2026-07-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Appointment of the Chair and Vice Chair of the Board of Directors",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/news-details?news-id=6464655&news-tags=personal_news",
+      "doc_type": "Press release / announcement",
+      "tier": 2,
+      "published": "2026-04-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Results of the Extraordinary General Assembly Meeting (First Meeting), 31 March 2026",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/news-details?news-id=6381036&news-tags=personal_news",
+      "doc_type": "Announcement",
+      "tier": 2,
+      "published": "2026-04-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "anb Private",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/programprivate",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "anb Elite",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/anb-elite",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "anb Platinum Program",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/platinum",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "anb Gold Program",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/gold",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "anb Silver Program",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/silver",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "International Instruments Investments",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/international-instruments-investments",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Market Related Products & Services",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/market-related-products-services",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "eTrader",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/etrader",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "anb leverages IBM's AI-powered solution for advanced payments fraud protection",
+      "publisher": "IBM Middle East & Africa Newsroom",
+      "url": "https://mea.newsroom.ibm.com/ibm-anb-collaboration",
+      "doc_type": "Vendor press release",
+      "tier": 2,
+      "published": "2025-03-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Investor Relations (links to LinkedIn, anb capital, annual reports, Basel disclosures)",
+      "publisher": "Arab National Bank",
+      "url": "https://anb.com.sa/web/anb/investor-relations",
+      "doc_type": "Official IR website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "About us; A letter from our CEO; Board of Directors; Executive Management (anb capital)",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/about-us",
+      "doc_type": "Official website (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "anb capital Company Financial Statements for the year ended 31 December 2025",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/documents/182269/0/ANBC+Financial+Statement+English+2025.pdf/3f2e640f-cb4d-b2ca-7814-57449c1784f8?t=1774971139307",
+      "doc_type": "Audited financial statements (subsidiary)",
+      "tier": 1,
+      "published": "2026-03-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Asset management (anb capital)",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/web/anbcapital/asset-management",
+      "doc_type": "Official product page (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Who's Who: Obaid Abdullah Al-Rasheed, CEO & managing director of Arab National Bank",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.com/saudi-arabia/whos-who-obaid-abdullah-al-rasheed-ceo-managing-director-of-arab-national-bank-1999006",
+      "doc_type": "News profile",
+      "tier": 5,
+      "published": "2022-01-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "anb capital Annual Report 2025",
+      "publisher": "anb capital",
+      "url": "https://anbcapital.com.sa/documents/182269/0/anb+capital+-+En+annual+report+final+V16+CMA.pdf/48d4defe-9de8-89ff-a8f2-08dd02558496?t=1774968847531",
+      "doc_type": "Annual report (subsidiary)",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "IBM role (internal lead)",
+      "detail": "Internal notes said IBM is an integrator at anb. IBM's 11 Mar 2025 release shows IBM supplied the IBM Safer Payments fraud software, and ejada Systems implemented and integrated it. No IBM wealth or investment work found.",
+      "resolution": "Recorded IBM as a fraud-prevention software vendor and ejada as integrator. IBM integrator role not supported.",
+      "source_ids": [
+        "S17"
+      ]
+    },
+    {
+      "field": "Chief Private Bank Officer",
+      "detail": "AR 2025 lists Saleh Almahmoud as Chief Private Bank Officer. The official executive page (checked 12 Oct 2026) lists no private banking head.",
+      "resolution": "Recorded with role_status 'Requires verification'. Unresolved.",
+      "source_ids": [
+        "S3",
+        "S1"
+      ]
+    },
+    {
+      "field": "Chief Treasury Officer",
+      "detail": "AR 2025 lists Dr. Zeyad Abanmay; the official executive page lists Ahmed Alsourani.",
+      "resolution": "Used the official page (more recent). No change announcement found.",
+      "source_ids": [
+        "S3",
+        "S1"
+      ]
+    },
+    {
+      "field": "Khaled Alrashed title",
+      "detail": "anb site and AR 2025: 'Chief Retail Bank Officer'. anb capital AR 2025: 'Chief Personal Bank Officer'. anb capital website: 'Chief Executive Officer of the Retail Banking Group'.",
+      "resolution": "Used the parent's official title. Minor.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S23",
+        "S19"
+      ]
+    }
+  ],
+  "open_items": [
+    "anb IR 'financial statements' and 'investor presentations' pages showed 'under maintenance' on 12 Oct 2026, so the H1 2026 interim FS, investor presentation and segment data were not opened. 30 Jun 2026 balance-sheet figures come from the Pillar 3 CC2 table and H1 income from Argaam. Saudi Exchange pages were not used (403 in prior batches; not re-tried).",
+    "Q3 2026 (30 Sep 2026) results not yet published as of 12 Oct 2026. Re-check late Oct 2026.",
+    "Current head of Private Banking unconfirmed (Saleh Almahmoud in AR 2025, absent from the official page).",
+    "Third-party (Quartr) summaries of anb investor presentations say anb launched a robo-advisory service and a digital gold wallet. Not found on anb.com.sa, anb capital's site or AR 2025; verify against the investor presentation once the IR page is back.",
+    "Private Banking and Elite eligibility thresholds and Private Banking AUM are not published.",
+    "LinkedIn profiles for the CEO, Chief Retail Bank Officer and Chief Digital Officer not found via search; one unofficial page for Khaled Alrashed was not used.",
+    "Which anb capital products are available inside the anb app (funds only, or also equities) is not documented in detail."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B14",
+  "checked": "2026-10-12"
+}

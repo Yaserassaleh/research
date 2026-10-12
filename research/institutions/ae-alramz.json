@@ -1,0 +1,908 @@
+{
+  "id": "ae-alramz",
+  "name": "Al Ramz Capital",
+  "short_name": "Al Ramz",
+  "legal_name": "Al Ramz Corporation Investment and Development P.J.S.C.",
+  "name_ar": "الرمز كوربوريشن ش.م.ع",
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.alramz.ae",
+  "linkedin_company": null,
+  "category": "Non-bank",
+  "type": "Brokerage / investment platform",
+  "model": "Not applicable",
+  "founded": "1998 (as a limited-liability equity brokerage house); became a DFM-listed public joint stock company in 2016 through what it calls the UAE's first reverse acquisition of a listed entity",
+  "regulators": [
+    "SCA",
+    "DFSA",
+    "FSRA"
+  ],
+  "listed": true,
+  "exchange": "DFM",
+  "ticker": "ALRAMZ",
+  "parent_id": null,
+  "ownership_summary": "DFM-listed (ALRAMZ); share capital AED 549.9m. The company says the Abu Dhabi Wealth Fund became its largest shareholder in 2009; no current shareholder breakdown was found on the website or in the filings read (checked 12 Oct 2026).",
+  "shareholders": [
+    {
+      "holder": "Abu Dhabi Wealth Fund (became largest shareholder in 2009, per company About page; current stake not disclosed)",
+      "pct": null,
+      "as_of": "2009",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "government_link": "Unclear. The company names the 'Abu Dhabi Wealth Fund' as its largest shareholder since 2009, without saying who owns it or its current stake.",
+  "group_structure": "Al Ramz Corporation Investment and Development PJSC (DFM: ALRAMZ) owns 100% of Al Ramz Capital LLC (brokerage), ARC Investment LLC, ARC Properties LLC, ARC Real Estate LLC, Dubai International Securities One Person Company LLC (brokerage licence, inactive) and ARAM Capital Partners Ltd (ADGM asset manager, FSRA Category 3C). From H1 2026 it also consolidates two seeded funds: Fortitude GCC Equity Fund (98%) and Horizons GCC Sukuk Fund (78%). Reports a single segment (brokerage and money markets) in the UAE.",
+  "subsidiaries": [
+    {
+      "name": "Al Ramz Capital LLC",
+      "pct": 100,
+      "activity": "Brokerage services",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "name": "ARAM Capital Partners Ltd (ADGM)",
+      "pct": 100,
+      "activity": "Asset management; FSRA Category 3C (managing assets, managing a collective investment fund, advising); manages CMA public funds administered via Al Ramz and ADGM funds; DPM/NDPM mandates",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S5",
+        "S9"
+      ]
+    },
+    {
+      "name": "Dubai International Securities One Person Company LLC",
+      "pct": 100,
+      "activity": "Brokerage services (licence inactive per H1 2026 note)",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "name": "ARC Investment LLC; ARC Properties LLC; ARC Real Estate LLC",
+      "pct": 100,
+      "activity": "Investment in enterprises; trade in real estate",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Fortitude GCC Equity Fund (consolidated fund)",
+      "pct": 98,
+      "activity": "Fund (seeded, consolidated from 2026)",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Horizons GCC Sukuk Fund (consolidated fund)",
+      "pct": 78,
+      "activity": "Fund (seeded, consolidated from 2026)",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "footprint": "UAE (registered office Rolex Tower, Dubai; Abu Dhabi subsidiaries; ARAM in ADGM). Regional mandates: market-making in Oman and financial advisor to Bahrain Bourse on a capital-market enhancement initiative (2025). Checked 2026-10-12.",
+  "customer_segments": "Retail, HNW and institutional investors; issuers (market making, liquidity provision, IPO/public offering management, corporate finance); exchanges (advisory). ARAM serves institutional, affluent and retail investors via CMA public funds and qualified investors via ADGM funds; DPMs for 'high-value clients'.",
+  "business_lines": "Brokerage (UAE, regional and US stocks, IPOs, fixed income; margin lending), market making and liquidity provision (e.g. mandates for ADNOC Distribution, Pure Health, Talabat, Invest Bank), corporate finance and public-offering management, research, and asset management via ARAM Capital Partners (public funds incl. Fortitude, Horizons and a money market fund, ADGM funds, DPMs). Digital: proprietary 'Digital Financial Mall' (Al Ramz app and webtrade.alramz.ae) with US options trading (H1 2026), TradingView integration and the THOR AI investment assistant.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 1848.4,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets (results press release)",
+      "status": "Verified",
+      "locator": "p.1 highlights",
+      "note": "Rounded press-release figure; the balance sheet in the reviewed interim (S4) is an image without a text layer.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 1605.2,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets (FY2025 results press release)",
+      "status": "Verified",
+      "locator": "p.1 highlights",
+      "note": "Rounded press-release figure; audited balance sheet (S7) is image-only.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 580476,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity, condensed consolidated statement of changes in equity (reviewed)",
+      "status": "Verified",
+      "locator": "printed p.4",
+      "note": "After AED 38,494k dividend for FY2025 paid 14 May 2026.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 159382,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income' line: net commission income + net finance income + corporate finance/advisory/other income + net investment income, before G&A (press release calls it 'total revenues' AED 159.4m)",
+      "status": "Verified",
+      "locator": "Statement of profit or loss, printed p.8",
+      "note": "",
+      "source_ids": [
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 48257,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year after tax (no non-controlling interests in FY2025)",
+      "status": "Verified",
+      "locator": "printed p.8",
+      "note": "FY2024: AED 15,951k. Audited by Ernst & Young, unmodified opinion (per S4 other-matter paragraph).",
+      "source_ids": [
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 105911,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Total income, net (six months)",
+      "status": "Verified",
+      "locator": "printed p.3",
+      "note": "H1 2025: AED 66,691k.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 35832,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period after tax (statement does not split non-controlling interests)",
+      "status": "Verified",
+      "locator": "printed p.3",
+      "note": "Reviewed by Deloitte, unmodified conclusion.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 1.5,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group asset management (ARAM Capital Partners and Al Ramz funds)",
+      "definition": "Assets under management (company label); discretionary/non-discretionary split not stated",
+      "status": "Verified",
+      "locator": "p.1–2",
+      "note": "Unaudited company figure, rounded. FY2025 release says AUM rose 100% in 2025 but gives no amount.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "investing_users",
+      "value": 22600,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Digital Financial Mall platform",
+      "definition": "Registered users of the Digital Financial Mall ('22.6 thousand'); active/funded not stated",
+      "status": "Verified",
+      "locator": "p.2",
+      "note": "Company figure, rounded.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 3.5,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Digital Financial Mall platform only",
+      "definition": "Values traded through the digital platform",
+      "status": "Verified",
+      "locator": "p.2",
+      "note": "Company figure; excludes offline/institutional brokerage.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "margin_receivables",
+      "value": 684059,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Margin receivables, net",
+      "status": "Verified",
+      "locator": "margin receivables note",
+      "note": "31 Dec 2025: AED 561,397k.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 and H1 2026 releases (S6, S8) give platform registrations and growth rates only; website (S1, S2)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "H1 2026 interim (S4), FY2025 statements (S7), website (S1)."
+    },
+    {
+      "metric": "customer_deposits",
+      "status": "Not publicly disclosed",
+      "where_checked": "Not a deposit taker; holds segregated clients' deposits (AED 466,520k at 30 Jun 2026 deducted from cash, S4)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Mohammed Mortada Al Dandashi",
+      "name_ar": null,
+      "title": "Founder and Group Managing Director; Board member",
+      "functions": [
+        "Group CEO",
+        "Board"
+      ],
+      "entity": "Al Ramz Corporation Investment and Development PJSC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "1998",
+      "appointed_note": "Founder; Group MD (date of title not stated). Also non-executive board member of ARAM Capital Partners.",
+      "previous_roles": "25+ years in asset management, brokerage, transaction services, real estate and banking; former board member of Union Insurance, Byblos Bank, AXA Insurance (investment committee) and Crescent Insurance; chairman of Gardenia Real Estate (official bio).",
+      "education": "BA Economics, Aleppo University (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Key executives and board pages checked 2026-10-12 (S3, S10); quoted as Group MD in the 3 Aug 2026 H1 release (S6).",
+      "source_ids": [
+        "S3",
+        "S10",
+        "S6",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dhafer Sahmi Al Ahbabi",
+      "name_ar": null,
+      "title": "Chairman",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Al Ramz Corporation Investment and Development PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Board member of Amanat Holdings; former board roles at First Gulf Bank, Abu Dhabi Islamic Bank, Invest Bank and Abu Dhabi University Holding (official bio). Also on the ARAM board.",
+      "education": "Bachelor's in Economics, UAE University (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page, checked 2026-10-12 (S10).",
+      "source_ids": [
+        "S10",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saif Al Hajeri",
+      "name_ar": null,
+      "title": "Vice Chairman",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Al Ramz Corporation Investment and Development PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Former chairman of Abu Dhabi Department of Economic Development and Abu Dhabi National Hotels; former CEO of Tawazun Economic Council; former board member of Waha Capital, ADNEC, TAQA and SENAAT (official bio).",
+      "education": "Bachelor's in Business & Economics, Lewis & Clark College (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page, checked 2026-10-12 (S10).",
+      "source_ids": [
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hazem Ben-Gacem",
+      "name_ar": null,
+      "title": "Non-Executive Board Member, Al Ramz; Chairman, ARAM Capital Partners",
+      "functions": [
+        "Board",
+        "Chair"
+      ],
+      "entity": "Al Ramz Corporation Investment and Development PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "30+ years in private equity; founder and CEO of BlueFive Capital (official bio).",
+      "education": "BA Economics (Honors), Harvard University (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Al Ramz board page (S10) and ARAM board list (S9), checked 2026-10-12.",
+      "source_ids": [
+        "S10",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Haisam Odeimeh",
+      "name_ar": null,
+      "title": "Group CEO Financial Services",
+      "functions": [
+        "CEO",
+        "Brokerage"
+      ],
+      "entity": "Al Ramz Corporation Investment and Development PJSC",
+      "business_unit": "Financial services",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Previously Group COO of Al Ramz.",
+      "previous_roles": "Group COO, Al Ramz; Deputy CFO, Al Hilal Bank; Head of Financial Services, KPMG Lower Gulf (official bio).",
+      "education": "Master's in Banking & Finance, Sorbonne University; Bachelor's in Accounting, University of Toledo (official bio)",
+      "qualifications": "CPA (USA)",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official key executives page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Karim Schoeib",
+      "name_ar": null,
+      "title": "Group CEO Investment Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Al Ramz Corporation Investment and Development PJSC",
+      "business_unit": "Investment banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Former CEO of Al Ramz Capital.",
+      "previous_roles": "Former CEO, Al Ramz Capital; Credit Suisse (International Wealth Management); SHUAA Capital (CEO Investment Banking, GM of SHUAA Securities Brokerage, Head of Corporate Finance, Head of Capital Markets); EFG-Hermes investment banking (official bio).",
+      "education": "Master's in Banking & Finance, Sorbonne University; BA Economics and Business, Lafayette College (official bio)",
+      "qualifications": "Certified Wealth Management Advisor (CWMA), Swiss Association for Quality",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official key executives page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yazan Abdeen",
+      "name_ar": null,
+      "title": "CEO of Asset Management (Al Ramz); Chief Executive Officer and Executive Board Member, ARAM Capital Partners",
+      "functions": [
+        "Investments / asset management",
+        "Subsidiary CEO"
+      ],
+      "entity": "ARAM Capital Partners Ltd",
+      "business_unit": "Asset management",
+      "scope": "Subsidiary: ARAM Capital Partners Ltd",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Founded Abu Dhabi Investment Management (ADIM) in 2018 (CEO and portfolio manager); roles at ADIC's asset-management companies; head of capital-markets investment at a sovereign family office; SEDCO Capital (MENA equities, global sukuk, MENA money markets); ING Investment Management (official bio).",
+      "education": "BSc Mathematics and Computer Science, American University of Beirut; MBA, London Business School (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Al Ramz key executives page (S3) and ARAM website team list (S9), checked 2026-10-12.",
+      "source_ids": [
+        "S3",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Moatasem Rajab",
+      "name_ar": null,
+      "title": "Group Head of Wealth Management & Sales",
+      "functions": [
+        "Wealth",
+        "Brokerage"
+      ],
+      "entity": "Al Ramz Corporation Investment and Development PJSC",
+      "business_unit": "Wealth management & sales",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "25+ years at a top-tier UAE bank, mainly brokerage and wealth management; SVP and Head of Sales, FAB Securities (HNWI and institutional clients) (official bio).",
+      "education": "BSc Business Administration, University of Foreign Trade, Budapest (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official key executives page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Anas Salameh",
+      "name_ar": null,
+      "title": "Group Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Al Ramz Corporation Investment and Development PJSC",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Al Hilal Bank (ALM, regulatory reporting, finance operations); KPMG Lower Gulf (official bio).",
+      "education": "Master's in Finance and Business Administration, Amman Arab University; Bachelor's in Accounting, Al Zaytooneh Private University (official bio)",
+      "qualifications": "CPA (USA)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official key executives page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Amer Halawi",
+      "name_ar": null,
+      "title": "Head of Research",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Al Ramz Corporation Investment and Development PJSC",
+      "business_unit": "Research",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "25+ years in European and Middle East listed equities; Goldman Sachs, SHUAA Capital, Bank Audi (official bio).",
+      "education": "Master's in Finance, ESCP Europe; Bachelor of Commerce, McGill University (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official key executives page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Al Ramz is a DFM-listed Dubai broker, market maker and asset manager with total assets of AED 1.85bn and H1 2026 profit of AED 35.8m. Its proprietary 'Digital Financial Mall' (Al Ramz app and webtrade.alramz.ae) offers UAE, regional and US equities, IPOs and, since H1 2026, US options, with TradingView integration, Etihad Guest miles rewards and an AI investment assistant called THOR. It had 22.6k registered platform users and AED 3.5bn traded through the platform in H1 2026. Asset management sits in ARAM Capital Partners (ADGM, FSRA Category 3C), which runs UAE public funds (Fortitude, Horizons, a money market fund) and ADGM funds, and offers discretionary and advisory mandates. AUM was AED 1.5bn at 30 Jun 2026. A Group Head of Wealth Management & Sales (ex-FAB Securities) leads HNW coverage. The company says it is building AI into operations, with a new CRM platform and enterprise data architecture (Aug 2026).",
+    "segments": [],
+    "private_banking": {
+      "present": "No",
+      "detail": "Not a bank. HNW coverage through a Group Head of Wealth Management & Sales and ARAM DPMs for 'high-value clients'.",
+      "source_ids": [
+        "S3",
+        "S9"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "ARAM Capital Partners Ltd (100%; ADGM, FSRA Category 3C; also manages CMA-regulated UAE public funds administered via Al Ramz). Funds: Fortitude, Horizons (GCC sukuk/equity), money market fund (Sky One Fund), plus ADGM funds across regional equities, fixed income and real estate. AUM AED 1.5bn (Jun 2026). Public equity portfolios returned 13.4% net in 2025 (company claim).",
+      "source_ids": [
+        "S9",
+        "S2",
+        "S6",
+        "S8"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Al Ramz Capital LLC: UAE equities and fixed income, regional and US stocks, US options (H1 2026), IPO subscriptions, margin lending (margin receivables AED 684m at Jun 2026), market making and liquidity provision.",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S6"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Digital Financial Mall: Al Ramz app (iOS listing 'Al Ramz Capital', Google Play) and web trading (webtrade.alramz.ae); UAE, regional and US stocks and IPOs, US options, TradingView integration, THOR AI investment assistant, fund investing, Etihad Guest miles. 22.6k registered users and AED 3.5bn traded in H1 2026; 'Most Innovative Trading Platform', Finance Middle East Awards 2025.",
+      "source_ids": [
+        "S1",
+        "S6",
+        "S8"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "ARAM non-discretionary portfolio mandates (investment advisory); research team; corporate finance advisory.",
+      "source_ids": [
+        "S9",
+        "S3"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "ARAM Discretionary Portfolio Mandates (bespoke) and pooled DPM programmes.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Unclear",
+      "detail": "Pooled DPM programmes apply pre-set strategies to groups of accounts; no in-app robo or model-portfolio product found.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "funds_platform": {
+      "present": "Unclear",
+      "detail": "In-house funds offered via the platform; no third-party funds shelf found.",
+      "source_ids": [
+        "S1",
+        "S9"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found on alramz.ae or aramcapital.ae.",
+      "source_ids": [
+        "S1",
+        "S9"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "ARAM's ADGM funds include real estate strategies; no private equity/credit product named.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Horizons GCC Sukuk Fund (78% consolidated, 2026); release names a 'Fortitude Sukuk Fund'.",
+      "source_ids": [
+        "S4",
+        "S6"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "Options (US-listed)",
+      "Bonds",
+      "Sukuk",
+      "Mutual funds",
+      "Real estate funds",
+      "Money market funds"
+    ],
+    "partners": [
+      {
+        "partner": "TradingView",
+        "kind": "Charting / trading interface",
+        "what": "TradingView platform integration on the Al Ramz trading platform",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "partner": "Etihad Guest",
+        "kind": "Loyalty partner",
+        "what": "Etihad Guest miles for investing (up to 250,000 miles)",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "partner": "Bahrain Bourse",
+        "kind": "Exchange advisory client",
+        "what": "Financial advisor on a capital-market enhancement initiative",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S8"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025",
+        "what": "Digital Financial Mall: online revenues +388%, client portfolios +43%, platform registrations +61%; named 'Most Innovative Trading Platform' (Finance Middle East Awards 2025)",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2026-06-30",
+        "what": "H1 2026: launched US options trading on the Digital Financial Mall and two funds (Horizon GCC Equity Fund, Fortitude Sukuk Fund per release); THOR AI-powered investment assistant cited as a recent delivery",
+        "source_ids": [
+          "S6",
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "what": "Stated plan to embed AI across processes, supported by a new CRM platform and enterprise data architecture",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "date": "2026-06-16",
+        "what": "Appointed liquidity provider for ADNOC Distribution (mandate renewed Aug 2026)",
+        "source_ids": [
+          "S11"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Fast-growing proprietary digital platform (registrations +61% in 2025; 22.6k users, AED 3.5bn traded H1 2026) that has added US equities and options but no model portfolios, structured products or private-markets access (S1, S6, S8).",
+        "Explicit AI agenda: THOR AI investment assistant, new CRM and enterprise data architecture to 'embed artificial intelligence across our processes' (S6).",
+        "ARAM offers DPM/NDPM mandates and AED 1.5bn AUM; in-app fund range is in-house only (S6, S9)."
+      ],
+      "barriers": [
+        "Builds digital capability in-house ('proprietary Digital Financial Mall'); platform vendor not disclosed (S6).",
+        "Mid-sized balance sheet (total assets AED 1.85bn; H1 2026 revenue AED 105.9m) (S4, S6)."
+      ],
+      "incumbent_vendors": [
+        "TradingView — charting integration (S1)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Al Ramz homepage",
+      "publisher": "Al Ramz Corporation",
+      "url": "https://www.alramz.ae/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "About Us",
+      "publisher": "Al Ramz Corporation",
+      "url": "https://www.alramz.ae/who-we-are/about-us",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Key Executives",
+      "publisher": "Al Ramz Corporation",
+      "url": "https://www.alramz.ae/who-we-are/key-executives",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Review report and condensed consolidated financial information for the six-month period ended 30 June 2026 (Deloitte review, unmodified)",
+      "publisher": "Al Ramz Corporation Investment and Development PJSC",
+      "url": "https://www.alramz.ae/sites/default/files/2026-08/ENFS%20Al%20Ramz%20Corporation%20Investment%20And%20Developmen.pdf",
+      "doc_type": "Interim financial statements (exchange disclosure)",
+      "tier": 1,
+      "published": "2026-08-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Consolidated financial statements note 5 – subsidiaries (FY2025)",
+      "publisher": "Al Ramz Corporation Investment and Development PJSC",
+      "url": "https://www.alramz.ae/sites/default/files/2026-04/Al%20Ramz%20Corporation%209TH.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-03-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Al Ramz delivers record first-half 2026 results (press release)",
+      "publisher": "Al Ramz Corporation",
+      "url": "https://www.alramz.ae/sites/default/files/2026-08/ENGLISH%20press%20release%20-%20Q2-26.pdf",
+      "doc_type": "Results press release (exchange disclosure)",
+      "tier": 2,
+      "published": "2026-08-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Consolidated financial statements for the year ended 31 December 2025 (Ernst & Young audit)",
+      "publisher": "Al Ramz Corporation Investment and Development PJSC",
+      "url": "https://www.alramz.ae/sites/default/files/2026-04/Al%20Ramz%20Corporation%209TH.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-03-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Al Ramz Board Recommends Seven Fils Dividend per Share Following a Record Year of Performance (FY2025 results release)",
+      "publisher": "Al Ramz Corporation",
+      "url": "https://www.alramz.ae/sites/default/files/2026-04/ENGLISH%20Press%20Releas%209TH%20MAR.pdf",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": "2026-03-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "ARAM Capital Partners homepage (licence, funds, mandates, board and team)",
+      "publisher": "ARAM Capital Partners Ltd",
+      "url": "https://www.aramcapital.ae/",
+      "doc_type": "Official website (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Board of Directors",
+      "publisher": "Al Ramz Corporation",
+      "url": "https://www.alramz.ae/who-we-are/board-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "News listing (liquidity provider mandates incl. ADNOC Distribution, Jun–Aug 2026)",
+      "publisher": "Al Ramz Corporation",
+      "url": "https://www.alramz.ae/news",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Fund names",
+      "detail": "H1 2026 interim consolidates 'Fortitude GCC Equity Fund' and 'Horizons GCC Sukuk Fund' (S4), while the H1 release says it launched 'Horizon GCC Equity Fund' and 'Fortitude Sukuk Fund' (S6); the homepage lists 'Fortitude Fund' and 'Horizons GCC Sukuks Fund' (S1).",
+      "resolution": "Used the reviewed financial statements' names for subsidiaries; the release naming looks transposed.",
+      "source_ids": [
+        "S4",
+        "S6",
+        "S1"
+      ]
+    },
+    {
+      "field": "Regulators",
+      "detail": "Financial statements say the company is regulated by the UAE Capital Market Authority and the DFSA (S4, S7); the FY2025 release says SCA (S8); ARAM is FSRA-regulated (S9). No DIFC entity appears in the subsidiaries list.",
+      "resolution": "Recorded SCA (now named Capital Market Authority), DFSA (per financial statements) and FSRA (ARAM). DFSA entity not identified.",
+      "source_ids": [
+        "S4",
+        "S7",
+        "S8",
+        "S9"
+      ]
+    },
+    {
+      "field": "Total assets source",
+      "detail": "Balance sheets in S4 and S7 are images; totals taken from press releases (rounded).",
+      "resolution": "Recorded with 'rounded' note.",
+      "source_ids": [
+        "S6",
+        "S8"
+      ]
+    }
+  ],
+  "open_items": [
+    "Current shareholder register (holders >5%) not found; DFM company page not checked. 'Abu Dhabi Wealth Fund' ownership and stake need confirming.",
+    "DFSA-regulated entity named in the financial statements not identified; DFSA register not checked (403 in earlier batches). ARAM FSRA reference number not checked on the FSRA register.",
+    "Web search budget exhausted before this institution: no 2025–2026 appointment/departure news or LinkedIn checks could be run; roles verified from official pages only.",
+    "THOR AI assistant launch date and vendor not found; Digital Financial Mall technology vendor not disclosed.",
+    "Exact (unrounded) total assets require OCR of the image balance sheets."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B08",
+  "checked": "2026-10-12"
+}

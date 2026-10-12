@@ -1,0 +1,897 @@
+{
+  "id": "ae-shuaa",
+  "name": "SHUAA Capital",
+  "short_name": "SHUAA",
+  "legal_name": "SHUAA Capital P.S.C.",
+  "name_ar": null,
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.shuaa.com",
+  "linkedin_company": null,
+  "category": "Non-bank",
+  "type": "Investment bank / alternatives manager",
+  "model": "Not applicable",
+  "founded": "1979 (as Arabian General Investment Corporation, by Emiri Decree No. 6 of 25 Apr 1979); merged with Abu Dhabi Financial Group (ADFG) in 2019 via a reverse takeover in which ADFG was the accounting acquirer",
+  "regulators": [
+    "SCA",
+    "FSRA",
+    "CBUAE"
+  ],
+  "listed": true,
+  "exchange": "DFM",
+  "ticker": "SHUAA",
+  "parent_id": null,
+  "ownership_summary": "DFM-listed. At 31 Dec 2025, holders above 5% were YAS Global FZE (18.894%) and SICO B.S.C. (7.317%), out of 3,659.0m shares and 10,004 shareholders; 69.26% of shares were held by UAE investors. Share capital rose from AED 2,535.7m to AED 3,659.0m in Q1 2025 when mandatory convertible bonds (MCBs) were converted at AED 0.32 per share.",
+  "shareholders": [
+    {
+      "holder": "YAS Global FZE",
+      "pct": 18.894,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "holder": "SICO B.S.C.",
+      "pct": 7.317,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S6"
+      ]
+    }
+  ],
+  "government_link": "Indirect board links only: the Chairman is Director General of the Abu Dhabi Investment Office and the Vice Chair is an ADQ executive (official board page, checked 2026-10-12). Neither ADQ nor the Abu Dhabi government appears among holders above 5% at 31 Dec 2025. Who owns YAS Global FZE was not established.",
+  "group_structure": "SHUAA Capital PSC (DFM) is the legal parent; ADFG is the accounting acquirer from the 2019 reverse takeover. Material subsidiaries at 31 Dec 2025 include ADCM Ltd (Cayman, investment management), Northacre Limited (UK real-estate development management, 83.9%) and Northacre Capital, Integrated Capital PJSC (UAE, 96%), Amwal International Investment Company KSCP (Kuwait, 87.2%), SHUAA Capital Saudi Arabia CJSC (100%), Qannas Investments (80.8%) and Spadille (85%). Gulf Finance Corporation (UAE/KSA) and ADCORP are under liquidation. Material associate: Eshraq Investments PJSC (21.37%), the subject of the auditor's qualification. SHUAA GMC operates under the ADGM framework (per management page). Operating segments: Asset Management, Investment Banking, Corporate.",
+  "subsidiaries": [
+    {
+      "name": "ADCM Ltd (Cayman Islands)",
+      "pct": 100,
+      "activity": "Investment management",
+      "linked_id": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "name": "Northacre Limited (UK)",
+      "pct": 83.9,
+      "activity": "Real-estate development management",
+      "linked_id": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "name": "Integrated Capital PJSC (UAE)",
+      "pct": 96,
+      "activity": "Financial services",
+      "linked_id": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "name": "Amwal International Investment Company KSCP (Kuwait)",
+      "pct": 87.2,
+      "activity": "Financial services",
+      "linked_id": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "name": "SHUAA Capital Saudi Arabia CJSC",
+      "pct": 100,
+      "activity": "Financial services (Saudi Arabia)",
+      "linked_id": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "name": "SHUAA GMC (ADGM)",
+      "pct": null,
+      "activity": "Regulated entity under the ADGM framework led by a Senior Executive Officer; activities not specified",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Eshraq Investments PJSC (associate)",
+      "pct": 21.37,
+      "activity": "Investment holding; carried at AED 364m at 30 Jun 2026; basis of qualified audit opinion/review conclusion",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    }
+  ],
+  "footprint": "Head office Dubai (The H Hotel Office Tower); entities in the UAE (incl. ADGM), Saudi Arabia, Kuwait, Jordan, the UK and offshore. The company says its workforce spans 20+ countries. Checked 2026-10-12.",
+  "customer_segments": "Institutional clients and high-net-worth individuals (stated mission); regional corporates and asset owners for debt strategies; issuers for investment banking. No retail digital offer found.",
+  "business_lines": "Asset Management: public markets (Middle East equity and fixed-income funds), private markets (growth capital, direct investments), real estate (development management via Northacre, fund management), debt/private credit (Shariah-compliant funds and discretionary mandates). Investment Banking: corporate finance advisory, underwriting, securities services, OTC fixed income sales and trading, credit sales and agency securities lending, and an equity trading business launched in 2026. Corporate: principal investments and legacy assets being wound down.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 1117996,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total segment assets (Asset Management + Investment Banking + Corporate), segment note of the reviewed interim",
+      "status": "Verified",
+      "locator": "Note 5, printed p.10",
+      "note": "The statement of financial position page has no text layer; segment total used. Review conclusion qualified (Eshraq Investments).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 1118683,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, balance sheet summary in FY2025 earnings presentation",
+      "status": "Verified",
+      "locator": "p.9 (Balance Sheet Summary)",
+      "note": "31 Dec 2024 restated: AED 1,197,254k.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 556001,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. negative non-controlling interests (AED -24,401k); attributable to owners AED 580,402k",
+      "status": "Verified",
+      "locator": "Statement of changes in equity, printed p.6",
+      "note": "Accumulated losses AED 946.2m.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 81951,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Total revenues: management and performance fees (60,045), advisory fees (17,248), trading and custody (4,607), other (51); excludes other income, MCB gains and share of associates",
+      "status": "Verified",
+      "locator": "p.8 Quarterly P&L",
+      "note": "The presentation summary shows 'core' revenue of AED 78.8m on a management basis.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 156481,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit attributable to shareholders (owners of the parent)",
+      "status": "Verified",
+      "locator": "p.8",
+      "note": "Driven by a one-off AED 214.8m gain on mandatory convertible bonds; core net loss AED 18.5m (company measure). FY2024: loss AED 273.6m (restated). FY2025 audit opinion qualified (Eshraq).",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 39400,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Total revenues, six months",
+      "status": "Verified",
+      "locator": "printed p.3",
+      "note": "H1 2025: AED 48,972k.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": -529,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit/(loss) attributable to owners of the parent, six months",
+      "status": "Verified",
+      "locator": "printed p.3",
+      "note": "Q2 2026 alone: profit AED 9,129k; H1 2025: AED 214,419k (MCB gain).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 4895,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "'Assets under Management' tile in FY2025 earnings presentation (slide header: 'All figures in AED M'); discretionary split not stated",
+      "status": "Requires verification",
+      "locator": "p.1 Executive Summary",
+      "note": "FY2024: 4,896. Currency depends on the slide-wide 'AED M' label; SHUAA has in the past quoted AUM in USD, so confirm the currency. Differs from the AED 5.9bn of fiduciary clients' funds in FS note 25.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "fiduciary_client_assets",
+      "value": 5.9,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Subsidiary licensed by CBUAE as a financial services company (not named)",
+      "definition": "'Clients' funds under management' managed in a fiduciary capacity, off balance sheet, without recourse to the group",
+      "status": "Verified",
+      "locator": "FS note 25, annual report PDF p.110",
+      "note": "31 Dec 2024: AED 7.8bn. Fiduciary assets are not treated as AUM here (protocol).",
+      "source_ids": [
+        "S6"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 annual report (S6), FY2025 presentation (S7), Q2 2026 release (S8)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "No retail digital investing platform found on shuaa.com (S1, S4)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Nabil Al Rantisi",
+      "name_ar": null,
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not found (search budget exhausted).",
+      "previous_roles": "Senior roles at Rasmala Investment Bank, Daman Investments and Menacorp; founded/scaled Pickl, BonBird and Hakkini; board member of Al Eqbal Investment Company (official bio).",
+      "education": "General Management Program, Harvard Business School (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official 'Our People' page checked 2026-10-12 (S3); quoted as Group CEO in the 14 Aug 2026 Q2 results release (S8) and the 10 May 2026 Key Capital release (S9).",
+      "source_ids": [
+        "S3",
+        "S8",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Badr Al-Olama",
+      "name_ar": null,
+      "title": "Chairman",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Director General, Abu Dhabi Investment Office; chairs 7X and Maqta Gateway; former Mubadala executive, CEO of Strata and Hub71 (official bio).",
+      "education": "UAE University; Harvard Law School (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board listing on 'Our People' page (S3) and 2025 annual report governance section (S6).",
+      "source_ids": [
+        "S3",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hamda Eid AlMheiri",
+      "name_ar": null,
+      "title": "Vice Chair",
+      "functions": [
+        "Board"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Executive Director, Government and Sovereign Relations / Sovereign and Institutional Partnerships, ADQ; board member of Etihad Airways, Presight AI and Arcera (official bio).",
+      "education": "Master's in Global Affairs and Diplomatic Leadership, Anwar Gargash Diplomatic Academy (official bio)",
+      "qualifications": "Corporate Director Certificate, Harvard Business School",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board listing (S3); 2025 annual report (S6).",
+      "source_ids": [
+        "S3",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Darwish Alketbi",
+      "name_ar": null,
+      "title": "Director; Chair of Investment Committee and Risk & Governance Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "CIO, Saif Bin Darwish; independent director at GFH Financial Group, Waha Capital and Union Properties (official bio).",
+      "education": "BSc Finance, Zayed University (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board listing (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ziad Mansour",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Operations and IT",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined SHUAA 2007; Head of Operations 2012; Head of Operations and IT 2017; COO date not stated.",
+      "previous_roles": "Back Office Section Head, BLOMINVEST Bank (3 years) (official bio).",
+      "education": "MBA, KEDGE Business School (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official 'Our People' page (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Aarthi Chandrasekaran",
+      "name_ar": null,
+      "title": "Head of Public Markets",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Asset Management – Public Markets",
+      "scope": "Group",
+      "appointed": "2016-08",
+      "appointed_note": "Joined Aug 2016 and has led investment strategy since.",
+      "previous_roles": "Over a decade at NBK and Deutsche Bank; multi-asset portfolios (official bio).",
+      "education": "MBA and Master's in Economics (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official 'Our People' page (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalid Zuroub",
+      "name_ar": null,
+      "title": "Senior Executive Officer, SHUAA GMC",
+      "functions": [
+        "Subsidiary CEO",
+        "Wealth"
+      ],
+      "entity": "SHUAA GMC",
+      "business_unit": "ADGM entity",
+      "scope": "Subsidiary: SHUAA GMC",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "20+ years in GCC asset and wealth management; senior roles at SHUAA Capital, Arqaam Capital, Daman Investments, Noor Bank and Dubai Islamic Bank (official bio).",
+      "education": "Master's in International Business, University of Wollongong in Dubai (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official 'Our People' page (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Vivek Tiwari",
+      "name_ar": null,
+      "title": "Head of Product and Structuring",
+      "functions": [
+        "Wealth",
+        "Investments / asset management"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Product and structuring",
+      "scope": "Group",
+      "appointed": "2026",
+      "appointed_note": "Joined in 2026.",
+      "previous_roles": "Senior product roles at Rasmala, Daman Investments and Noor Bank; Standard Chartered (5+ years); Citibank (4+ years); fund boards in Cayman and Luxembourg (official bio).",
+      "education": "MBA, ENPC School of International Management (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official 'Our People' page (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mazen Farah",
+      "name_ar": null,
+      "title": "Head of Global Markets",
+      "functions": [
+        "Brokerage",
+        "Treasury"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Global Markets",
+      "scope": "Group",
+      "appointed": "2024-05",
+      "appointed_note": "Joined May 2024.",
+      "previous_roles": "HSBC, ADCB and international firms (official bio).",
+      "education": "Bachelor's in Mechanical Engineering; Master's in Finance, Imperial College London (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official 'Our People' page (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Alomairi",
+      "name_ar": null,
+      "title": "Head of Equity Trading",
+      "functions": [
+        "Brokerage"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Equity trading",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Equity trading business launched in 2026 (Q2 release).",
+      "previous_roles": "25+ years in equity markets (official bio).",
+      "education": "MBA, University of Wolverhampton (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official 'Our People' page (S3).",
+      "source_ids": [
+        "S3",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Umar Mirza",
+      "name_ar": null,
+      "title": "Director, Private Markets",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Private Markets",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "15+ years in private equity (clean energy, technology, infrastructure) (official bio).",
+      "education": "Bachelor's in Computer Engineering, National University of Singapore (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official 'Our People' page (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Kareem Murad",
+      "name_ar": null,
+      "title": "Head of Investment Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "SHUAA Capital P.S.C.",
+      "business_unit": "Investment Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Ithmar Capital; founding member of Amanat Holdings; founded Sanadak Consultancy (2019); CFO of Blue Ocean Health and Emirates Specialty Hospital (official bio).",
+      "education": "American University of Beirut; Master's in International Finance and Capital Markets, University of Brighton (official bio)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official 'Our People' page (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "SHUAA is a DFM-listed Dubai asset manager and investment bank serving institutions and HNW clients, now much smaller after a 2024–2025 balance-sheet restructuring. In Q1 2025 it converted mandatory convertible bonds into 1.12bn new shares at AED 0.32 and settled other noteholders at 20% of principal. A bank term loan (AED 221m) is still being restructured under waivers extended to 31 Aug 2026. Revenue (AED 82m in FY2025) is mainly management fees from public-markets funds, private markets, real estate (Northacre) and Shariah-compliant private-debt funds and discretionary mandates. Investment banking added OTC fixed-income trading, credit sales, agency securities lending and a new equity trading business in 2026. A Head of Product and Structuring joined in 2026. The FY2025 deck shows AUM of 4,895m (labelled AED m; currency to confirm). No retail app, robo or digital investing platform was found; clients use a portal (shuaaconnect.com).",
+    "segments": [],
+    "private_banking": {
+      "present": "No",
+      "detail": "Not a bank; mission statement targets institutional clients and HNW individuals; no private-banking unit described.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Public markets (Middle East equity/fixed income funds), private markets, real estate (development and fund management, Northacre UK), debt (Shariah-compliant private-debt funds and discretionary mandates). AUM 4,895m per FY2025 deck (currency to confirm); fiduciary clients' funds AED 5.9bn at a CBUAE-licensed subsidiary.",
+      "source_ids": [
+        "S4",
+        "S7",
+        "S6"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Institutional: OTC fixed income/currencies/commodities sales and trading, securities services, agency securities lending, and an equity trading business launched in 2026 (Head of Equity Trading). Trading and custody revenue AED 8.5m in H1 2026. No retail brokerage app found.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5",
+        "S8"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "Only a client portal (shuaaconnect.com/investrack) linked from the website; no retail investing app.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Corporate finance advisory (advisory fees AED 17.2m FY2025); SCA licence covers financial consulting and analysis; non-discretionary advice not described.",
+      "source_ids": [
+        "S5",
+        "S7"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary mandates in the debt strategy; investment portfolios managed in Asset Management segment.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "Own funds only; no third-party fund distribution shelf found.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Investment Banking segment description includes structured products; a Head of Product and Structuring joined in 2026.",
+      "source_ids": [
+        "S5",
+        "S3"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Private markets (growth capital, bolt-on acquisitions), real estate funds and private debt; May 2026 advisory partnership with Key Capital (Key Fund I LP, USD 50m target, ADGM, VC secondaries).",
+      "source_ids": [
+        "S4",
+        "S9"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Private-debt strategies delivered through Shariah-compliant funds and discretionary mandates.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    "asset_classes": [
+      "GCC equities",
+      "Bonds",
+      "Private markets / alternatives",
+      "Real estate funds",
+      "Structured products"
+    ],
+    "partners": [
+      {
+        "partner": "Key Capital Ltd",
+        "kind": "Product partner (VC secondaries manager)",
+        "what": "SHUAA provides capital formation, strategic relationships and capital markets execution for Key Fund I LP (USD 50m target, ADGM LP)",
+        "date": "2026-05-10",
+        "status": "Announced",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "partner": "Gate Capital Financial Services LLC",
+        "kind": "Advisory / transaction MoU",
+        "what": "MoU targeting consolidation of Saudi Arabia's fuel retail sector",
+        "date": "2026",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S8"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-03-28",
+        "what": "Completed balance-sheet restructuring: AED 274.4m MCBs converted at AED 0.32/share (857.5m shares), AED 85m new MCBs (265.6m shares), remaining noteholders settled at 20% of principal; equity rose from AED 41m to AED 554m by end-2025",
+        "source_ids": [
+          "S5",
+          "S7"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Launched equity trading business; hired Head of Product and Structuring",
+        "source_ids": [
+          "S8",
+          "S3"
+        ]
+      },
+      {
+        "date": "2026-05-10",
+        "what": "Strategic partnership with Key Capital on MENA venture capital secondaries",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2026-08-14",
+        "what": "Q2 2026 results: return to quarterly profit (AED 9.1m); still negotiating restructuring/refinancing of its bank facility (waiver to 31 Aug 2026)",
+        "source_ids": [
+          "S8",
+          "S5"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Rebuilding its revenue base after restructuring and adding product and structuring capability (new Head of Product and Structuring, 2026) to an institutional/HNW franchise with no digital client platform beyond a portal (S2, S3, S7).",
+        "Has private-markets, real-estate and Shariah private-debt product that could be packaged for wealth distribution (S4, S9)."
+      ],
+      "barriers": [
+        "Financial fragility: going-concern note with AED 307m borrowings due within 12 months, bank waiver to 31 Aug 2026, accumulated losses AED 946m; qualified review conclusion over Eshraq (S5).",
+        "Small, cost-constrained operation (cost-to-income 99% in FY2025; revenue AED 82m) (S7)."
+      ],
+      "incumbent_vendors": []
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "SHUAA Capital homepage",
+      "publisher": "SHUAA Capital",
+      "url": "https://www.shuaa.com/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Who We Are",
+      "publisher": "SHUAA Capital",
+      "url": "https://www.shuaa.com/who-we-are",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Our People (Board of Directors and Executive Management)",
+      "publisher": "SHUAA Capital",
+      "url": "https://www.shuaa.com/who-we-are/our-people/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Asset Management",
+      "publisher": "SHUAA Capital",
+      "url": "https://www.shuaa.com/asset-management/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Condensed consolidated interim financial information, six months ended 30 June 2026 (Crowe Mak review; qualified conclusion; going-concern emphasis)",
+      "publisher": "SHUAA Capital P.S.C.",
+      "url": "https://www.shuaa.com/wp-content/uploads/2026/08/SHUAA-FS-Q2-E-13-08-2026.pdf",
+      "doc_type": "Interim financial statements",
+      "tier": 1,
+      "published": "2026-08-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Annual Report 2025 (incl. corporate governance report and audited FY2025 financial statements)",
+      "publisher": "SHUAA Capital P.S.C.",
+      "url": "https://www.shuaa.com/wp-content/uploads/2026/04/Annual-Report-2025-En.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Earnings Presentation FY 2025",
+      "publisher": "SHUAA Capital",
+      "url": "https://www.shuaa.com/wp-content/uploads/2026/04/SHUAA_Earnings-Presentation_FY-2025.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-03-25",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "SHUAA Capital Reports Q2 2026 Net Profit of AED 9.1 Million and Revenue Growth of 15% QoQ",
+      "publisher": "SHUAA Capital",
+      "url": "https://www.shuaa.com/shuaa-capital-reports-q2-2026-net-profit-of-aed-9-1-million-and-revenue-growth-of-15-qoq",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-08-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "SHUAA Capital and Key Capital Announce Strategic Partnership to Lead MENA's Emerging Venture Capital Secondaries Market",
+      "publisher": "SHUAA Capital",
+      "url": "https://www.shuaa.com/shuaa-capital-and-key-capital-announce-strategic-partnership-to-lead-menas-emerging-venture-capital-secondaries-market",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-05-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "SHUAA Investor Relations (financial statements and presentations index)",
+      "publisher": "SHUAA Capital",
+      "url": "https://www.shuaa.com/investor-relations/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "AUM",
+      "detail": "FY2025 deck shows 'Assets under Management' 4,895 under an 'All figures in AED M' header (S7); FS note 25 shows AED 5.9bn of clients' funds managed in a fiduciary capacity by a CBUAE-licensed subsidiary (S6).",
+      "resolution": "AUM recorded as 'Requires verification'; fiduciary figure recorded separately, not as AUM.",
+      "source_ids": [
+        "S7",
+        "S6"
+      ]
+    },
+    {
+      "field": "Regulator name",
+      "detail": "Interim FS says licensed by the Securities and Commodities Authority (S5); annual report and deck say Capital Market Authority, registration 703036 (S6, S7).",
+      "resolution": "Same regulator after renaming; recorded as SCA.",
+      "source_ids": [
+        "S5",
+        "S6",
+        "S7"
+      ]
+    },
+    {
+      "field": "Revenue measure",
+      "detail": "FY2025 revenue is AED 81.95m in the deck appendix (IFRS line items) and AED 78.8m 'core' in the summary (S7).",
+      "resolution": "Used AED 81,951k.",
+      "source_ids": [
+        "S7"
+      ]
+    }
+  ],
+  "open_items": [
+    "Recent restructuring: bank term-loan refinancing was expected before end Q3 2026; outcome after 31 Aug 2026 waiver expiry not checked (no post-Aug disclosure read; DFM disclosures page not opened).",
+    "Ultimate owner of YAS Global FZE (18.9%) not established; SICO B.S.C. (7.3%) stake noted only. No name change found since the 2020 logo change.",
+    "Group CEO Nabil Al Rantisi's appointment date and predecessor not verified; web search budget exhausted, so no 2025–2026 appointment/departure news or LinkedIn checks were possible.",
+    "SHUAA GMC FSRA register entry and the CBUAE-licensed subsidiary holding AED 5.9bn fiduciary assets not identified on regulator registers.",
+    "FY2025 English financial statements PDF exceeded the fetch size limit; FY2025 figures taken from the annual report and earnings presentation.",
+    "AUM currency (AED vs USD) to be confirmed with SHUAA IR."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B08",
+  "checked": "2026-10-12"
+}

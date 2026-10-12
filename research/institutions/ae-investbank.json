@@ -1,0 +1,702 @@
+{
+  "id": "ae-investbank",
+  "name": "Invest Bank",
+  "short_name": "INB",
+  "legal_name": "Invest Bank P.S.C.",
+  "name_ar": "بنك الاستثمار",
+  "country": "AE",
+  "hq_city": "Sharjah",
+  "website": "https://www.inb.ae",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1975 (Emiri Decree of the Ruler of Sharjah No. 153/02/1975; formerly Invest Bank for Trade and Finance)",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "INVESTB",
+  "parent_id": null,
+  "ownership_summary": "Government-controlled after two rescues. The Government of Sharjah took 50.07% in 2019 (1,592,857,143 new shares at AED 0.7, approved by the AGM on 10 Apr 2019) and then recapitalised the bank under a plan approved by the EGM on 27 Apr 2023. That plan comprised an AED 2.6bn rights issue, which took share capital to AED 3.2bn in about 263bn shares of AED 0.0121684 nominal, plus a Government of Sharjah guarantee over legacy assets (originally AED 3.0bn, reduced to AED 1.26bn in H1 2026). Capital Intelligence (Oct 2026) says the Government of Sharjah owns 88% directly and indirectly; Argaam (Oct 2025) gives about 70% Government of Sharjah and 18% Sharjah Social Security Fund. An EGM on 15 Oct 2026 votes on a 1-for-82.18 share consolidation back to AED 1 nominal, with capital unchanged at AED 3.2bn.",
+  "shareholders": [
+    {
+      "holder": "Government of Sharjah (direct)",
+      "pct": 70,
+      "as_of": "2025-10-10",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "holder": "Sharjah Social Security Fund",
+      "pct": 18,
+      "as_of": "2025-10-10",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "holder": "Government of Sharjah, direct and indirect combined (per Capital Intelligence)",
+      "pct": 88,
+      "as_of": "2026-10-07",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "government_link": "Yes — the Government of Sharjah owns 88% directly and indirectly (Capital Intelligence, 7 Oct 2026). It is the 'ultimate controlling party' and gives a special guarantee covering legacy-asset losses (AED 1.26bn remaining in H1 2026).",
+  "group_structure": "Single listed bank. No subsidiaries identified from accessible sources. An Islamic banking window was approved by the CBUAE in Oct 2025 under the brand 'Invest Bank – Islamic'. Legacy problem assets from the pre-2019 private-ownership era are covered by provisions and the Government of Sharjah guarantee.",
+  "subsidiaries": [],
+  "footprint": "UAE; head office Sharjah. Branch count not verified (bank website blocked).",
+  "customer_segments": "Large corporates, conglomerates, government and GREs, banks and high-net-worth individuals (drivers of 2025 loan growth per Capital Intelligence). Retail and SME banking built from a negligible base over about 18 months to Q2 2026, with retail lending so far fully secured.",
+  "business_lines": "Corporate banking, retail banking (DigiBank mobile app launched 2025), SME banking, treasury and investments, Islamic window ('Invest Bank – Islamic', licensed Oct 2025). Detailed segment data not accessed.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 16.13,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Total assets (Argaam summary of interim results)",
+      "status": "Requires verification",
+      "locator": "Results table",
+      "note": "Rounded secondary figure; primary interim statements not accessible (ADX and inb.ae returned HTTP 403). 30 Jun 2025: AED 12.30bn.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 13.28,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Customer deposits (Argaam summary)",
+      "status": "Verified",
+      "locator": "Results table",
+      "note": "Rounded. Consistent with Capital Intelligence's +17.2% H1 2026 deposit growth from AED 11.33bn at end-2025. CASA ratio 32%.",
+      "source_ids": [
+        "S8",
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 8.78,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Loans (Argaam label 'القروض'; whether net of ECL is not stated)",
+      "status": "Requires verification",
+      "locator": "Results table",
+      "note": "Rounded secondary figure. Capital Intelligence gives a loan-to-deposit ratio of 66% at H1 2026, consistent with this.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 14.17,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Total assets (Argaam summary of FY2025 results)",
+      "status": "Requires verification",
+      "locator": "Results table",
+      "note": "Rounded. FY2024: AED 11.07bn. Customer deposits AED 11.33bn and loans AED 7.19bn at 31 Dec 2025.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 307.69,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Total operating income (Argaam 'دخل العمليات')",
+      "status": "Requires verification",
+      "locator": "Results table",
+      "note": "Includes an AED 127m gain on sale of repossessed properties (none in FY2024). FY2024: AED 211.39m.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 161.49,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Net profit for the year (Argaam 'صافي الدخل'; attributable vs total not stated, but no non-controlling interests are known)",
+      "status": "Verified",
+      "locator": "Results table; disclosure p.6",
+      "note": "The bank's Mar 2026 disclosure gives 'about AED 0.2bn' net profit for 2025, its first profit in eight years. FY2024: loss of AED 189.3m. Helped by AED 90.8m net impairment reversals.",
+      "source_ids": [
+        "S7",
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 75.31,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Net profit, six months to 30 Jun 2026 (Argaam)",
+      "status": "Requires verification",
+      "locator": "Results table",
+      "note": "H1 2025: AED 48.92m. H1 2026 operating income AED 258.80m; net interest income AED 164.06m.",
+      "source_ids": [
+        "S8"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not found after research",
+      "where_checked": "Accumulated-losses disclosure Mar 2026 (S1), Capital Intelligence announcement Oct 2026 (S3), Argaam results pages (S7, S8). Bank website and ADX blocked (HTTP 403)."
+    },
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "As above"
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "As above"
+    },
+    {
+      "metric": "branches",
+      "status": "Not found after research",
+      "where_checked": "As above; bank website not accessible"
+    },
+    {
+      "metric": "total_equity",
+      "status": "Not found after research",
+      "where_checked": "Argaam results pages (S7, S8) show no equity line; full statements behind Argaam login (not used) or on blocked ADX/bank sites"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sultan bin Ahmed Al Qasimi",
+      "name_ar": "سلطان بن أحمد القاسمي",
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Invest Bank P.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed as Chairman on Argaam's company organisational-structure data page, checked 2026-10-12 (S10). Official board page not accessible (inb.ae returned 403). English spelling transliterated from Arabic.",
+      "source_ids": [
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Idris Mohammed Al Rafi",
+      "name_ar": "إدريس محمد الرفيع",
+      "title": "Chief Executive Officer and Vice Chairman of the Board",
+      "functions": [
+        "CEO",
+        "Board"
+      ],
+      "entity": "Invest Bank P.S.C.",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2024-09",
+      "appointed_note": "Board member since 2022; then Vice Chairman; CEO from Sep 2024 (bank disclosure).",
+      "previous_roles": "Per the bank, he built a new team of experienced bankers, simplified operations and focused on business; the turnaround delivered the first net profit in eight years in 2025 (S1).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Bank's ADX accumulated-losses disclosure, Mar 2026 (S1); Argaam organisational-structure page checked 2026-10-12 lists him as CEO and Vice Chairman (S10). English spelling transliterated from Arabic. No departure news could be searched.",
+      "source_ids": [
+        "S1",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Samer Hamed",
+      "name_ar": "سامر حامد",
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Invest Bank P.S.C.",
+      "business_unit": "Finance",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Argaam organisational-structure data page only (S10). Name transliterated from Arabic.",
+      "source_ids": [
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Safdar Mandviwala",
+      "name_ar": "سافدار ماندفيوالا",
+      "title": "Chief Strategy and Business Officer",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Invest Bank P.S.C.",
+      "business_unit": "Strategy and Business",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Title per Argaam: Chief Strategy and Business Officer; business lines reporting to him not documented.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Argaam organisational-structure data page only (S10). English spelling transliterated from Arabic.",
+      "source_ids": [
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Abdulrahman Mohammed Al Olaiq",
+      "name_ar": "محمد عبدالرحمن محمد العليق",
+      "title": "Chief Support and Assets Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "Invest Bank P.S.C.",
+      "business_unit": "Support and Assets",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Argaam organisational-structure data page only (S10). Name transliterated from Arabic.",
+      "source_ids": [
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Halima Hamid Al Owais",
+      "name_ar": "حليمة حميد العويس",
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Invest Bank P.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Other board members listed by Argaam: Fares Hamid Al Mazrouei, Omar Sayed Omar, Abdullah Ibrahim Al Muhairi, Mohammed Obaid Al Shamsi (transliterated).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Argaam organisational-structure data page only (S10).",
+      "source_ids": [
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "No evidence of a wealth, private-banking or investment offer was found, but the bank's own website (inb.ae) and ADX disclosures were blocked (HTTP 403), so the product range could not be checked directly. Invest Bank is a Sharjah government-controlled turnaround: recapitalised in 2023 (AED 2.6bn rights issue plus a legacy-asset guarantee), new management since Sep 2024, and back in profit in 2025. Per Capital Intelligence (Oct 2026), retail and SME businesses 'did not exist in any meaningful form 18 months ago' and now contribute materially to operating income; 2025 loan growth included high-net-worth individuals; the bank is investing heavily in technology, staffing and franchise development. In 2025 it launched the DigiBank mobile app, joined the Aani instant-payment platform and won CBUAE approval for an Islamic window ('Invest Bank – Islamic'). A three-year strategy ('Midaf') was launched in Q4 2025, focused on digital transformation.",
+    "segments": [
+      {
+        "name": "Retail and SME (built since about 2025)",
+        "tier": "Mass / affluent (not specified)",
+        "eligibility": "Not found (website not accessible)",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Unclear",
+      "detail": "No private banking unit found in accessible sources; Capital Intelligence notes lending to high-net-worth individuals in 2025. Website not accessible.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset-management entity found.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "brokerage": {
+      "present": "Not found after research",
+      "detail": "None found in accessible sources.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "digital_investing": {
+      "present": "Unclear",
+      "detail": "DigiBank mobile banking app launched in 2025 (with Aani instant payments); no evidence on investment features (website and app store pages not checked).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "advisory": {
+      "present": "Unclear",
+      "detail": "Not found; website not accessible.",
+      "source_ids": []
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "funds_platform": {
+      "present": "Unclear",
+      "detail": "Not found; website not accessible.",
+      "source_ids": []
+    },
+    "structured_products": {
+      "present": "Unclear",
+      "detail": "Not found; website not accessible.",
+      "source_ids": []
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Unclear",
+      "detail": "CBUAE approved an Islamic banking window ('Invest Bank – Islamic') in Oct 2025, offering Shariah-compliant financial solutions; no Islamic investment products identified.",
+      "source_ids": [
+        "S6",
+        "S1"
+      ]
+    },
+    "asset_classes": [],
+    "partners": [
+      {
+        "partner": "Aani (CBUAE instant payments platform)",
+        "kind": "Payments infrastructure",
+        "what": "Bank registered on Aani instant payment platform in 2025",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S1"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2019-04-10",
+        "what": "Government of Sharjah became 50.07% shareholder (1,592,857,143 new shares at AED 0.7 per share, AED 1.1bn); capital rose to AED 3.2bn at the time",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2023-04-27",
+        "what": "EGM approved recapitalisation plan: AED 2.6bn rights issue (capital AED 3.2bn, ~263bn shares at AED 0.0121684) and Government of Sharjah guarantee over legacy assets; CAR rose from 2.77% (end-2022) to 38.6% (end-2023)",
+        "source_ids": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "date": "2024",
+        "what": "Received AED 0.5bn under the Sharjah guarantee; implemented a cloud-based core banking solution",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2024-09",
+        "what": "Vice Chairman Idris Al Rafi took over as CEO and rebuilt the management team",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched DigiBank mobile banking app and registered on Aani instant payments; first net profit in eight years (about AED 0.2bn); accumulated losses down to AED 1.5bn (48.57% of capital)",
+        "source_ids": [
+          "S1",
+          "S7"
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "what": "CBUAE approved Islamic banking window, to operate as 'Invest Bank – Islamic'",
+        "source_ids": [
+          "S6",
+          "S1"
+        ]
+      },
+      {
+        "date": "2025-10",
+        "what": "Launched three-year strategy 'Midaf' focused on core-business growth and digital transformation (Q4 2025)",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "what": "General assembly amended the Articles of Association (published Sep 2026)",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "date": "2026-10-07",
+        "what": "Capital Intelligence raised LT FCR to BBB+ (from BBB-), citing franchise development by new management and retail/SME growth",
+        "source_ids": [
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-10-15",
+        "what": "EGM to vote on 1-for-82.18 share consolidation restoring AED 1 nominal value (capital unchanged at AED 3.2bn)",
+        "source_ids": [
+          "S5"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Retail and SME franchise being built from scratch since about 2025, with new DigiBank app and heavy investment in technology and franchise (S3, S1).",
+        "Loan growth includes high-net-worth individuals; new Islamic window licensed Oct 2025 (S3, S6).",
+        "Three-year 'Midaf' strategy (Q4 2025) puts digital transformation first; cloud-based core banking implemented in 2024 (S1)."
+      ],
+      "barriers": [
+        "Still a turnaround: accumulated losses AED 1.5bn (48.57% of capital) at end-2025; NPLs 28% of gross loans (fully provided) in Jun 2026; high cost-to-income ratio and declining capital ratios (S1, S3).",
+        "Small balance sheet (about AED 16bn assets) with heavy customer and real-estate concentration (S8, S3).",
+        "No evidence of any wealth or investment proposition (website not accessible to confirm)."
+      ],
+      "incumbent_vendors": []
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "إفصاح بشأن الخسائر المتراكمة وفقاً للمتطلبات التنظيمية (Disclosure on accumulated losses per regulatory requirements)",
+      "publisher": "Invest Bank P.S.C. (ADX disclosure, hosted by Argaam)",
+      "url": "https://argaamplus.s3.amazonaws.com/06afee59-9c47-469f-99c7-f3cc0b1c7202.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-03-23",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S2",
+      "title": "بنك الإستثمار يعلن عن الخسائر المتراكمة وفقاً للمتطلبات التنظيمية",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/ar/article/articledetail/id/1889672",
+      "doc_type": "News (disclosure notice)",
+      "tier": 5,
+      "published": "2026-03-23",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S3",
+      "title": "Invest Bank's Ratings Raised (Capital Intelligence credit rating announcement, Ref AE01225CRA00-02), attached to the bank's disclosure",
+      "publisher": "Capital Intelligence Ratings / Invest Bank P.S.C. (hosted by Argaam)",
+      "url": "https://data.argaam.com/files/download/a2a0d610-5379-411d-bac6-d7b379633a20.pdf",
+      "doc_type": "Exchange disclosure with rating-agency announcement",
+      "tier": 1,
+      "published": "2026-10-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "كابيتال إنتليجنس ترفع التصنيف الائتماني طويل الأجل لبنك الاستثمار إلى (+BBB) مع نظرة مستقبلية مستقرة",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/ar/article/articledetail/id/1942573",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-10-09",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S5",
+      "title": "Invest Bank EGM on 15 October to vote on share consolidation (Argaam article)",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/ar/article/articledetail/id/1938499",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-09-23",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S6",
+      "title": "Invest Bank obtains CBUAE approval for an Islamic banking window (Argaam article)",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/ar/article/articledetail/id/1848933",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-10-10",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S7",
+      "title": "النتائج المالية: بنك الاستثمار يحقق أرباحاً قدرها 161.5 مليون درهم بنهاية عام 2025",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/ae-ar/financial-reports/company-report/5406/2025/1",
+      "doc_type": "Financial results summary",
+      "tier": 5,
+      "published": "2026-02-24",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S8",
+      "title": "النتائج المالية: أرباح بنك الاستثمار 75.3 مليون درهم (+54%) بنهاية النصف الأول 2026",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/ae-ar/financial-reports/company-report/5406/2026/71",
+      "doc_type": "Financial results summary",
+      "tier": 5,
+      "published": "2026-08-06",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S9",
+      "title": "Invest Bank (INVESTB) company overview",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/ae-ar/companies/adx/invest-bank/overview",
+      "doc_type": "Market data / company page",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S10",
+      "title": "Invest Bank — organisational structure (board and executives)",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/ae-ar/companies/adx/invest-bank/organizational-structure",
+      "doc_type": "Market data / company page",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S11",
+      "title": "Articles of Association of Invest Bank PSC (as amended by the General Assembly of 25 March 2026)",
+      "publisher": "Invest Bank P.S.C. (ADX disclosure, hosted by Argaam)",
+      "url": "https://argaamplus.s3.amazonaws.com/6c3b5c42-4ea0-4015-8ae5-66ecc7cdc0b3.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-09-25",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Government of Sharjah ownership",
+      "detail": "Argaam (Oct 2025): Government of Sharjah ~70% plus Sharjah Social Security Fund ~18%. Capital Intelligence (Oct 2026): GoS 'directly and indirectly owns 88%'.",
+      "resolution": "Consistent if the Social Security Fund counts as indirect government ownership; both recorded.",
+      "source_ids": [
+        "S6",
+        "S3"
+      ]
+    },
+    {
+      "field": "Share count",
+      "detail": "Argaam FY2025 page gives an average share count of 263,180.98 thousand and EPS 0.06, inconsistent with the ~263.18 billion shares in the consolidation notice and the bank's disclosure.",
+      "resolution": "Used the bank's disclosure: ~263bn shares at AED 0.0121684 nominal (AED 3.2bn capital).",
+      "source_ids": [
+        "S7",
+        "S5",
+        "S1"
+      ]
+    }
+  ],
+  "open_items": [
+    "Bank website (inb.ae and investbank.ae) and ADX disclosure server returned HTTP 403 (bot protection), so the reviewed H1 2026 and audited FY2025 statements, leadership pages and product pages could not be read. Balance-sheet and income figures are Argaam summaries (rounded); replace with exact figures from the statements.",
+    "WebSearch quota exhausted: no news search on appointments/departures, retail/wealth heads, DigiBank features or merger talks. Historical Sharjah merger talks (BOS/Invest Bank/UAB, 2018–2019) are not re-verified here.",
+    "All executives except the CEO come from Argaam's data page only; verify names, English spellings and roles on the official site.",
+    "Check results of the 15 Oct 2026 EGM (share consolidation) and Q3 2026 results.",
+    "Islamic window launch status and product range not verified.",
+    "No wealth/investment products found, but this cannot be confirmed without the bank's website."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B05",
+  "checked": "2026-10-12"
+}

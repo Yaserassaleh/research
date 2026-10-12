@@ -1,0 +1,800 @@
+{
+  "id": "ae-ruya",
+  "name": "Ruya Community Islamic Bank",
+  "short_name": "ruya",
+  "legal_name": "Ruya Community Islamic Bank LLC",
+  "name_ar": "مصرف رويا المحلي الإسلامي ذ.م.م",
+  "country": "AE",
+  "hq_city": "Ajman",
+  "website": "https://ruyabank.ae",
+  "linkedin_company": "https://www.linkedin.com/company/101424860",
+  "category": "Bank",
+  "type": "Digital bank",
+  "model": "Islamic",
+  "founded": "Launch announced 29 Feb 2024 as a digital-native Islamic community bank licensed by the CBUAE as a 'specialised bank'; head office and first community centre in Marsa, Ajman. Incorporation date and CBUAE licence date/number not found.",
+  "regulators": [
+    "CBUAE"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Private LLC. In an interview of 4 Apr 2024 the CEO said the bank has a capital base of 'over Dh300 million' and that its promoters are UAE-based 'holding companies'; no shareholder is named in any source found, and no percentages are published (checked 12 Oct 2026). Chairman and Vice Chairman were named at the Feb 2024 launch.",
+  "shareholders": [
+    {
+      "holder": "Undisclosed UAE-based 'holding companies' (described as the promoters by the CEO; no names or percentages published)",
+      "pct": null,
+      "as_of": "2024-04-04",
+      "source_ids": [
+        "S9"
+      ]
+    }
+  ],
+  "government_link": "Not found after research. No government or sovereign shareholder is disclosed. Ajman government bodies (Department of Economic Development, Free Zones Authority, Thara Centre) appear only as commercial/MoU partners in search results, not as owners (S21, S22). Checked 2026-10-12.",
+  "group_structure": "Single licensed entity (Ruya Community Islamic Bank LLC per the website footer). No parent, subsidiary or affiliated investment company found. The CBUAE's Arabic list of Islamic banks reportedly shows it as a local (domestic) Islamic bank, alongside Ajman Bank, Al Hilal Bank, DIB and Emirates Islamic (seen in search results only; the page returned 403) (S17). No subsidiaries or affiliates found.",
+  "subsidiaries": [],
+  "footprint": "UAE only. Head office and 'Ruya Community Center' at Building No. 4, Marsa Ajman Mall, Ajman (S2); digital-first with an app on the Apple App Store and Google Play (S1). A community centre in Abu Dhabi was reported as planned (search summary only, not verified). Checked 2026-10-12.",
+  "customer_segments": "Retail individuals including families and a Kids savings account, young adults new to banking, and small and family businesses; the CEO said in Apr 2024 it was not mainly targeting SMEs as many digital-only banks do (S9). No affluent, priority or private-banking tier found.",
+  "business_lines": "Personal banking: current account (UAE PASS onboarding, no minimums, free debit card and cheque book), savings account with profit-sharing, Kids savings account, Standard and Max debit cards, Shariah-compliant personal finance, Wakala Investment Deposit and Mudaraba Term Deposit, remittances to eight countries and bill payments (S3). Business banking: current account (AED 79 monthly subscription), Wakala deposit, WPS payroll and payment solutions (S4). Mastercard cashback credit card launched Apr 2026 (S14). In-app virtual-asset trading including Bitcoin launched Apr 2025 with Fuze (S11). Banking-as-a-Service infrastructure for fintech partners was described by the CEO in Dec 2025 (S13).",
+  "metrics": [
+    {
+      "metric": "capital_base",
+      "value": 300,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2024-04-04",
+      "period_label": "Stated 4 Apr 2024 ('over Dh300 million')",
+      "period_type": "point_in_time",
+      "scope": "Ruya Community Islamic Bank LLC",
+      "definition": "Capital base as stated by the CEO in a newspaper interview; lower bound ('over'); not paid-up capital from audited statements",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "CEO statement, not an audited figure. CEO also said the bank is 'well-capitalized for what a license as a specialized bank in the UAE requires'.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 125000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025 (year-end date not stated; source page undated)",
+      "period_type": "point_in_time",
+      "scope": "ruya (all segments)",
+      "definition": "Customers 'tripled to over 125,000' in 2025 per a CEO nominee profile; not stated whether registered or active, retail or all",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Lower bound ('over'); self-described profile on a rankings site, not an official ruya release. Not found on ruyabank.ae.",
+      "source_ids": [
+        "S15"
+      ]
+    },
+    {
+      "metric": "app_downloads",
+      "value": 500000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025 (year-end date not stated; source page undated)",
+      "period_type": "point_in_time",
+      "scope": "ruya mobile app",
+      "definition": "App downloads 'crossed 500,000' per the same CEO profile",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Lower bound; same caveats as customers.",
+      "source_ids": [
+        "S15"
+      ]
+    },
+    {
+      "metric": "customer_deposits_growth_yoy",
+      "value": 250,
+      "unit": "percent",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025 (growth over 2024)",
+      "period_type": "duration",
+      "scope": "ruya",
+      "definition": "'250% customer deposit growth' in 2025 per the CEO profile; absolute deposit balance not given",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Growth rate only; no base figure. Self-described profile.",
+      "source_ids": [
+        "S15"
+      ]
+    },
+    {
+      "metric": "revenue_growth_yoy",
+      "value": 68,
+      "unit": "percent",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025 (growth over 2024)",
+      "period_type": "duration",
+      "scope": "ruya",
+      "definition": "'68% revenue growth' in 2025 per the CEO profile; revenue figure not given",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Growth rate only; no base figure. Self-described profile.",
+      "source_ids": [
+        "S15"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "total_assets",
+      "status": "Not found after research",
+      "where_checked": "ruyabank.ae homepage, Who We Are, personal and business banking, FAQs (S1-S5): no investor, financial-statement or Pillar 3 page is linked; news searches (2024-2026) returned no results release; CBUAE pages returned 403 (S17). Checked 2026-10-12."
+    },
+    {
+      "metric": "customer_deposits",
+      "status": "Not found after research",
+      "where_checked": "As above. Only a growth rate (250% in 2025) appears, in a CEO profile (S15)."
+    },
+    {
+      "metric": "net_loans",
+      "status": "Not found after research",
+      "where_checked": "As above (S1-S5, S13, S15)."
+    },
+    {
+      "metric": "operating_income",
+      "status": "Not found after research",
+      "where_checked": "As above. Only a revenue growth rate (68% in 2025) in S15."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not found after research",
+      "where_checked": "As above. No profit or loss figure or profitability statement found."
+    },
+    {
+      "metric": "aum",
+      "status": "Not found after research",
+      "where_checked": "No AUM or client-assets figure on ruyabank.ae (S1-S5) or in the Dec 2025 CEO feature (S13) or the Apr 2026 card release (S14)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "No count of investment-deposit or virtual-asset users in the Apr 2025 launch coverage (S11), S13 or S15."
+    }
+  ],
+  "people": [
+    {
+      "name": "Christoph Koster",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Ruya Community Islamic Bank LLC",
+      "business_unit": "Group",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found. Quoted as CEO by Gulf News on 4 Apr 2024, before the app was fully operational (S9). A CEO profile says he 'founded and scaled' the bank (S15).",
+      "previous_roles": "Chief Operating Officer of a G42 joint venture (AI development), building the business unit from incubation, and led group asset management and a proprietary investment programme; member of the executive management team, Abu Dhabi Investment Office; Emirates NBD, leading strategy and customer-experience teams across Private Banking, Asset Management and Retail Banking; began at Roland Berger (restructuring and turnaround) and then corporate development and M&A at a renewable energy conglomerate. No dates given in the sources (S15, S16).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as CEO of ruya Bank on 16 Apr 2026 (S14) and 4 Dec 2025 (S13); CEO of ruya in a MEED event bio (S16, undated). ruya has no official leadership page. One LinkedIn search returned no matching profile. No departure news found. Checked 2026-10-12; most recent dated evidence is 16 Apr 2026.",
+      "source_ids": [
+        "S9",
+        "S13",
+        "S14",
+        "S15",
+        "S16"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Naser Mohamed Almur Al Zaabi",
+      "name_ar": null,
+      "title": "Chairman",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Ruya Community Islamic Bank LLC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Named as Chairman at the Feb 2024 launch announcement; appointment date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named as Chairman in launch coverage of 29 Feb to 1 Mar 2024 (S6, S7, S8). No official board page and no 2025-2026 source naming the board; not re-confirmed.",
+      "source_ids": [
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Marwan Obaid Al Muheiri",
+      "name_ar": null,
+      "title": "Vice Chairman",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Ruya Community Islamic Bank LLC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Named as Vice Chairman at the Feb 2024 launch announcement; appointment date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named as Vice Chairman in launch coverage of 29 Feb to 1 Mar 2024 (S6, S7, S8). No 2025-2026 source; not re-confirmed.",
+      "source_ids": [
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "ruya is a small, digital-first Islamic community bank in Ajman aimed at mass-market retail and small businesses, with no affluent or private-banking tier found. Its published investment products on ruyabank.ae are a Wakala Investment Deposit and a Mudaraba Term Deposit (personal) and a Wakala deposit (business). On 24 Apr 2025 it launched in-app buying and selling of virtual assets including Bitcoin with Fuze, which it describes as a world first for an Islamic bank (company claim). In Dec 2025 the CEO described a 'Retail Islamic Wealth platform' giving access to Shariah-screened portfolios across stocks, ETFs, gold, sukuk and digital assets, and said Islamic banks 'must partner the ecosystem, not compete with it'; the stock, ETF, gold and sukuk offering is not described on the bank's product pages, so its live status is unverified. A Mastercard cashback credit card launched in Apr 2026. No AUM, client-asset or financial figures are published.",
+    "segments": [
+      {
+        "name": "ruya personal accounts (Current, Savings, Kids Savings)",
+        "tier": "Mass market / retail",
+        "eligibility": "No minimum balance or salary requirement; current account needs an active UAE PASS (as published)",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "name": "ruya business banking",
+        "tier": "SME",
+        "eligibility": "No minimum balance; monthly subscription of AED 79; online application (as published)",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private-banking, priority or affluent proposition found on ruyabank.ae (S1-S5) or in 2024-2026 coverage (S9, S13, S14).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S13"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No fund manager, own-branded funds or asset-management entity found.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S13"
+      ]
+    },
+    "brokerage": {
+      "present": "Unclear",
+      "detail": "The CEO said in Dec 2025 that the bank offers access to Shariah-screened stocks and ETFs through a Retail Islamic Wealth platform (S13), and an IFN Investor interview of 8 May 2025 reportedly describes a planned Shariah-compliant stock and ETF channel across UAE, Southeast Asian and US markets (paywalled; seen in search results only) (S18). No brokerage entity, execution partner or live stock/ETF page was found on ruyabank.ae (S3).",
+      "source_ids": [
+        "S13",
+        "S18",
+        "S3"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "In-app buying and selling of virtual assets including Bitcoin, launched 24 Apr 2025 with Fuze (S11); the site FAQ still carries 'Who can invest in Bitcoin with ruya?' (S5). Online Wakala and Mudaraba deposits are opened digitally (S3). Whether stocks, ETFs, gold or sukuk can be bought in the app was not verified.",
+      "source_ids": [
+        "S11",
+        "S5",
+        "S3"
+      ]
+    },
+    "advisory": {
+      "present": "Not found after research",
+      "detail": "No advisory service found. The CEO said in Dec 2025 that 'every algorithmic decision is auditable' and that AI is a tool, not a substitute for Shariah governance (S13).",
+      "source_ids": [
+        "S13",
+        "S3"
+      ]
+    },
+    "discretionary": {
+      "present": "Unclear",
+      "detail": "The Dec 2025 CEO feature refers to Shariah-screened 'portfolios' but does not say whether they are discretionary or self-directed (S13). No portfolio-management licence or entity found.",
+      "source_ids": [
+        "S13"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Unclear",
+      "detail": "Same single mention of Shariah-screened portfolios in Dec 2025 (S13); no product page, provider or launch date found.",
+      "source_ids": [
+        "S13"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No mutual-fund shelf found on ruyabank.ae.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "The IFN Investor interview of 8 May 2025 reportedly lists private assets and fractionalised sukuk, with partners, in the product pipeline (paywalled; seen in search results only). No product found live.",
+      "source_ids": [
+        "S18"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Whole bank is Islamic. Wakala Investment Deposit and Mudaraba Term Deposit (personal), Wakala deposit (business). Virtual-asset trading was reportedly approved by the bank's Internal Shariah Supervisory Committee (search summary only; members not named). Shariah board not published on ruyabank.ae.",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S19"
+      ]
+    },
+    "asset_classes": [
+      "Crypto / digital assets"
+    ],
+    "partners": [
+      {
+        "partner": "Fuze",
+        "kind": "Virtual-asset execution / infrastructure provider",
+        "what": "Powers in-app buying and selling of virtual assets including Bitcoin; described as 'a regulated digital assets infrastructure provider'",
+        "date": "2025-04-24",
+        "status": "Live",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "partner": "Tungsten (ADGM custodian) and Fireblocks",
+        "kind": "Custody technology behind the Fuze set-up",
+        "what": "Search-result summaries say cold custody (80%) is with Tungsten in ADGM and hot wallets (20%) use Fireblocks technology, per the CEO; the exact article was not opened",
+        "date": "2025-04",
+        "status": "Unclear",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "partner": "Mastercard",
+        "kind": "Card scheme / product partner",
+        "what": "ruya Mastercard Cashback Credit Card (flat 2% cashback, Shari'ah-compliant); a Zawya release on a Mastercard collaboration with ruya was seen in search results only",
+        "date": "2026-04-16",
+        "status": "Live",
+        "source_ids": [
+          "S14",
+          "S20"
+        ]
+      },
+      {
+        "partner": "LuLu Exchange",
+        "kind": "Cash-deposit network",
+        "what": "Customers deposit cash into ruya accounts at 140 LuLu Exchange customer engagement centres across the UAE, free of charge",
+        "date": "2024-08-06",
+        "status": "Live",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "partner": "Sacred Groves",
+        "kind": "Sustainability programme partner",
+        "what": "Nature Protect programme: balances protect forest area (AED 1,000 in a current account protects 1 sq ft of primary forest for 10 years)",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "partner": "Ajman Department of Economic Development; Free Zones Authority of Ajman; Thara Centre for Entrepreneurship",
+        "kind": "Government / business-ecosystem partners",
+        "what": "Cooperation agreement with Ajman DED (Sep 2024), a banking-services tie-up with the Free Zones Authority of Ajman, and an MoU with the Thara Centre including a ruya office (Jul 2024), all from search-result snippets",
+        "date": "2024-09",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S21",
+          "S22"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2024-02-29",
+        "what": "Announced launch as a digital-native Islamic community bank licensed by the CBUAE as a specialised bank, with head office and first community centre in Marsa, Ajman; Chairman and Vice Chairman named",
+        "source_ids": [
+          "S6",
+          "S7",
+          "S8"
+        ]
+      },
+      {
+        "date": "2024-04-04",
+        "what": "CEO Christoph Koster said the bank was 'all set to go operational', with a capital base of over Dh300 million and UAE holding-company promoters",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2024-08-06",
+        "what": "LuLu Exchange cash-deposit partnership announced (account opening via UAE PASS in under five minutes)",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "date": "2025-04-24",
+        "what": "Launched in-app virtual-asset trading including Bitcoin with Fuze; company says first Islamic bank globally to do so (company claim, not independently verified)",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "date": "2025-12-04",
+        "what": "CEO described a Retail Islamic Wealth platform (Shariah-screened portfolios across stocks, ETFs, gold, sukuk and digital assets), a digital SME financing platform and BaaS infrastructure for fintech partners",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "date": "2026-04-16",
+        "what": "Launched the ruya Mastercard Cashback Credit Card (flat 2% cashback, tracked in the app)",
+        "source_ids": [
+          "S14"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "CEO stated in Dec 2025 that ruya is building a Retail Islamic Wealth platform across stocks, ETFs, gold, sukuk and digital assets, while the website's published investment products are deposits plus virtual assets only (S13, S3).",
+        "CEO said 'Islamic banks must partner the ecosystem, not compete with it' and described BaaS infrastructure for fintech partners (S13).",
+        "CEO's background includes Private Banking and Asset Management strategy at Emirates NBD and an investment programme at a G42 joint venture (S15, S16).",
+        "Only investment product with a named partner is crypto via Fuze (S11); no named partner for Shariah-compliant stocks, ETFs, sukuk or private assets (S13, S18)."
+      ],
+      "barriers": [
+        "Mass-market base with no affluent or private-banking tier; customer count (over 125,000) is a self-described figure (S3, S15).",
+        "No published financial statements or AUM found, so scale and profitability cannot be assessed (S1-S5).",
+        "Requires fully Shariah-compliant products and an internal Shariah governance process; CEO states AI is 'not a substitute for Shariah governance' (S13).",
+        "Investment launches beyond crypto are unverified and ownership is undisclosed (S9, S13)."
+      ],
+      "incumbent_vendors": [
+        "Fuze - virtual-asset trading (S11)",
+        "Mastercard - credit and debit card scheme (S14)",
+        "Tungsten and Fireblocks - custody behind the Fuze service, per search summaries only (S19)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "ruya Bank homepage (navigation, footer, app links)",
+      "publisher": "Ruya Community Islamic Bank LLC",
+      "url": "https://www.ruyabank.ae/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Who We Are",
+      "publisher": "Ruya Community Islamic Bank LLC",
+      "url": "https://ruyabank.ae/pages/who-we-are",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Personal Banking",
+      "publisher": "Ruya Community Islamic Bank LLC",
+      "url": "https://ruyabank.ae/personal-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Business Banking",
+      "publisher": "Ruya Community Islamic Bank LLC",
+      "url": "https://ruyabank.ae/business-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "FAQs (question headings only; answers not rendered)",
+      "publisher": "Ruya Community Islamic Bank LLC",
+      "url": "https://ruyabank.ae/faqs",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "UAE's new Islamic digital bank 'ruya' set for launch, headquarters in Ajman",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/uaes-new-islamic-digital-bank-ruya-set-for-launch-headquarters-in-ajman-1.101353542",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2024-02-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "New Islamic bank to launch in UAE",
+      "publisher": "Khaleej Times",
+      "url": "https://www.khaleejtimes.com/business/new-islamic-bank-to-launch-in-uae",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2024-02-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Digital-native Islamic community bank ruya launches in the UAE",
+      "publisher": "Finance Middle East",
+      "url": "https://www.financemiddleeast.com/islamic-finance/digital-native-islamic-community-bank-ruya-launches-in-the-uae/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2024-03-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "UAE's newest Islamic bank - ruya - wants to be 'digital-first': CEO",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/uaes-newest-islamic-bank---ruya---wants-to-be-digital-first-ceo-1.1712225120113",
+      "doc_type": "News interview",
+      "tier": 5,
+      "published": "2024-04-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Ruya partners with LuLu Exchange",
+      "publisher": "Khaleej Times",
+      "url": "https://www.khaleejtimes.com/business/ruya-partners-with-lulu-exchange?amp=1",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2024-08-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "ruya becomes first Islamic bank to launch in-app virtual asset trading",
+      "publisher": "Finance Middle East",
+      "url": "https://www.financemiddleeast.com/islamic-finance/ruya-becomes-first-islamic-bank-to-launch-in-app-virtual-asset-trading/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-04-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Islamic finance: Ruya's role in shaping a sustainable future",
+      "publisher": "Khaleej Times (supplement)",
+      "url": "https://www.khaleejtimes.com/supplements/islamic-finance-ruyas-role-in-shaping-a-sustainable-future",
+      "doc_type": "News supplement",
+      "tier": 5,
+      "published": "2025-04-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "ruya bank's digital-first Islamic model aims to redefine finance with ethics and inclusion",
+      "publisher": "Khaleej Times (supplement)",
+      "url": "https://www.khaleejtimes.com/supplements/ruya-banks-digital-first-islamic-model-aims-to-redefine-finance-with-ethics-and-inclusion?amp=1",
+      "doc_type": "News supplement (CEO interview)",
+      "tier": 5,
+      "published": "2025-12-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "ruya Bank launches Shariah-compliant cashback credit card in UAE",
+      "publisher": "Gulf Business",
+      "url": "https://gulfbusiness.com/en/2026/finance/ruya-bank-launches-shariah-compliant-cashback-credit-card-in-uae/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-04-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Christoph Koster (Top 20 CEOs nominee profile)",
+      "publisher": "Unlock BC (The Unlock Company DMCC)",
+      "url": "https://www.unlock-bc.com/en/rankings/top-20-ceos/nominee/christoph-koster",
+      "doc_type": "Rankings-site profile (self-described)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Christoph Koster (speaker bio)",
+      "publisher": "MEED Events",
+      "url": "https://events.meed.com/?p=5816",
+      "doc_type": "Event speaker bio",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Islamic banking (Arabic list of Islamic banks incl. ruya)",
+      "publisher": "Central Bank of the UAE",
+      "url": "https://www.centralbank.ae/ar/our-operations/islamic-finance/islamic-banking/",
+      "doc_type": "Regulator web page",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S18",
+      "title": "Digital bank ruya expanding product suite",
+      "publisher": "IFN Investor",
+      "url": "https://ifninvestor.com/digital-bank-ruya-expanding-product-suite/",
+      "doc_type": "News interview (paywalled)",
+      "tier": 5,
+      "published": "2025-05-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Ruya Becomes world's first Islamic bank to offer Bitcoin and virtual asset investments",
+      "publisher": "Qorus",
+      "url": "https://qorusglobal.com/content/29842-ruya-becomes-worlds-first-islamic-bank-to-offer-bitcoin-and-virtual-asset-investments",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Mastercard collaborates with ruya to bring innovative digital products to UAE's Islamic banking landscape",
+      "publisher": "Zawya (press release)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/mastercard-collaborates-with-ruya-to-bring-innovative-digital-products-to-uaes-islamic-banking-landscape-u6lbt1nu",
+      "doc_type": "Press release",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Ajman DED, Ruya Bank sign agreement to attract national, foreign investments",
+      "publisher": "WAM",
+      "url": "https://www.wam.ae/en/article/b547upg-ajman-ded-ruya-bank-sign-agreement-attract",
+      "doc_type": "News agency",
+      "tier": 5,
+      "published": "2024-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Thara Centre for Entrepreneurship, Ruya Bank to provide innovative banking services",
+      "publisher": "WAM",
+      "url": "https://www.wam.ae/en/article/14181ph-thara-centre-for-entrepreneurship-ruya-bank",
+      "doc_type": "News agency",
+      "tier": 5,
+      "published": "2024-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Hybrid digital challenger Ruya Bank readies for debut in UAE",
+      "publisher": "FinTech Futures",
+      "url": "https://www.fintechfutures.com/bankingtech/hybrid-digital-challenger-ruya-bank-readies-for-debut-in-uae",
+      "doc_type": "News",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "ruya Bank (LinkedIn company page, link taken from the official website footer)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/company/101424860",
+      "doc_type": "LinkedIn company page (official link)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Wealth proposition vs website",
+      "detail": "The Dec 2025 CEO feature (S13) says ruya offers a Retail Islamic Wealth platform with Shariah-screened portfolios across stocks, ETFs, gold, sukuk and digital assets. The personal banking page (S3, checked 12 Oct 2026) lists only Wakala and Mudaraba deposits and no virtual assets, stocks, ETFs, gold or sukuk; the FAQ lists a Bitcoin question (S5).",
+      "resolution": "Recorded only crypto as a verified live investment channel (S11, S5); stock, ETF, gold and sukuk offering left as Unclear.",
+      "source_ids": [
+        "S13",
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "field": "Legal name",
+      "detail": "Website footer: 'Ruya Community Islamic Bank LLC' (S1). Khaleej Times supplement of Apr 2025 renders it 'Ruya Islamic Community Bank LLC' (S12). CBUAE Arabic list reportedly reads 'Ruya Local Islamic Bank LLC' in Arabic (S17).",
+      "resolution": "Used the website footer name as the legal name.",
+      "source_ids": [
+        "S1",
+        "S12",
+        "S17"
+      ]
+    },
+    {
+      "field": "Launch status",
+      "detail": "A FinTech Futures pre-launch article (undated, search result) said ruya's account services were on a waiting list, while Gulf News on 4 Apr 2024 said the bank was 'all set to go operational', the LuLu Exchange cash-deposit service was announced 6 Aug 2024 and the website footer and app-store links are live in 2026.",
+      "resolution": "Treated as operating since 2024; the waiting-list statement is pre-launch and superseded.",
+      "source_ids": [
+        "S23",
+        "S9",
+        "S10",
+        "S1"
+      ]
+    }
+  ],
+  "open_items": [
+    "No financial statements, Pillar 3 or results release found. ruya is CBUAE-licensed, so statements should exist; check the CBUAE and ruya pages directly. The CBUAE site returned 403 (S17) and ruyabank.ae has no investor page.",
+    "CBUAE licence number, licence date and exact licence category not found (the CBUAE register and licensed-banks pages returned 403). Only press wording 'specialised bank' (S7, S9) and the CBUAE Arabic list via search summary (S17) were seen.",
+    "Shareholders not disclosed; only 'UAE-based holding companies' (S9). Capital 'over Dh300 million' is a CEO statement (Apr 2024).",
+    "Leadership below the CEO not found: no named CFO, COO, CTO, heads of retail, wealth, investments or digital; no official leadership page; no 2025-2026 appointment news found in two searches. Chairman and Vice Chairman are as at Feb 2024 only.",
+    "LinkedIn: one search for the CEO returned no matching profile; linkedin_url left null. Company page is linked from the official site (S24) but was not opened.",
+    "Customers (125,000+), downloads (500,000+) and 2025 growth rates come from a self-described CEO profile (S15). A search summary of a 2025 interview also mentioned about 60,000 customers in the first year; that article was not found or opened.",
+    "Whether the stock/ETF/gold/sukuk channel announced by the CEO is live is unverified (S13, S18). Regulatory basis for the virtual-asset service (CBUAE, VARA via Fuze) not established; the Arabian Business, Qorus and Salaam Gateway launch articles and a Zawya Mastercard release were not opened (blocked or seen in search results only).",
+    "A community centre in Abu Dhabi (to open in H2 2026) and an IFRS 9 expected-credit-loss engagement with consultancy 4most (Feb 2026) appeared only in search-tool summaries without a URL; not recorded as facts.",
+    "No leads were supplied in the task prompt beyond the institution name; none to correct."
+  ],
+  "research_status": "Partial",
+  "researched_by": "R2",
+  "checked": "2026-10-12"
+}

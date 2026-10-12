@@ -1,0 +1,1909 @@
+{
+  "id": "sa-snb-capital",
+  "name": "SNB Capital",
+  "short_name": "SNB Capital",
+  "legal_name": "SNB Capital Company (a Saudi Closed Joint Stock Company; website footer says 'Saudi Joint Stock Company'); formerly NCB Capital Company",
+  "name_ar": "شركة الأهلي المالية",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://snbcapital.com",
+  "linkedin_company": "https://www.linkedin.com/company/capitalsnb/",
+  "category": "Bank-owned investment subsidiary",
+  "type": "Asset & wealth manager",
+  "model": "Not applicable",
+  "founded": "Per audited FS note 1: formed under CMA Resolution 2-83-2005 (28 Jun 2005 as printed) and registered under CR 1010231474 dated 17 Apr 2007; AR 2025: licensed activities began 25 Jun 2007; CMA licence 37-06046. Operating firm since the 2021 NCB-Samba merger (NCB Capital merged with Samba Capital).",
+  "regulators": [
+    "CMA",
+    "DFSA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": "sa-snb",
+  "ownership_summary": "100% owned by Saudi National Bank (150,000,000 shares of SAR 10; unchanged from 2024). Paid-up capital SAR 1,500,000,000 (FS note 14; website footer). Also has SAR 1bn Tier 1 Sukuk (issued 2023) in equity.",
+  "shareholders": [
+    {
+      "holder": "The Saudi National Bank",
+      "pct": 100.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4",
+        "S9"
+      ]
+    }
+  ],
+  "government_link": "Indirect. The parent, Saudi National Bank, is 37.2% owned by the Public Investment Fund (see sa-snb).",
+  "group_structure": "100% subsidiary of Saudi National Bank (sa-snb). SNB reports SNB Capital as its 'Capital Market' segment (wealth, asset management, investment banking, brokerage). Double counting: SNB Capital's balance sheet, income and AUM are inside SNB group figures; never add this record to sa-snb. The segment figures differ from SNB Capital's standalone statements (FY2025 segment operating income SAR 2,422m vs standalone SAR 4,122m) because of inter-segment and treasury items. Business divisions (website): Asset Management, Wealth Management, Securities, Investment Banking, SNB Capital (DIFC), Principal Investments and Funding.",
+  "subsidiaries": [
+    {
+      "name": "SNB Capital Dubai Inc. (Cayman)",
+      "pct": 100.0,
+      "activity": "Source, structure and invest in private equity and real estate development in emerging markets; linked to SNB Capital (DIFC) Limited (DFSA-regulated private funds manager, incorporated to facilitate the takeover of the business, FS note 1)",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S19"
+      ]
+    },
+    {
+      "name": "SNB Capital Real Estate Investment Company",
+      "pct": 100.0,
+      "activity": "Holds and registers real estate assets for real estate funds managed by SNB Capital",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Samba Investment Real Estate Company",
+      "pct": 100.0,
+      "activity": "Real estate investment",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Samba US Logistics Fund L.P. (Cayman)",
+      "pct": 100.0,
+      "activity": "Principal investments (US logistics)",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "SNBC Funding and SNBC Global Markets (Cayman)",
+      "pct": 100.0,
+      "activity": "Funding and markets vehicles (unrestricted activities)",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "The Vision Investment Holding Limited (UAE)",
+      "pct": 99.8,
+      "activity": "Holding company",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Oryx Regional Private Equity Fund",
+      "pct": 50.0,
+      "activity": "MENA private equity fund (in liquidation)",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "footprint": "Head office: SNB Regional Building, King Saud Road, Riyadh. Nationwide presence in Saudi Arabia; VIP trading lounges 'across the Kingdom'; branch count not published. International: SNB Capital (DIFC) Limited, Dubai (DFSA), plus Cayman and UAE vehicles. International brokerage covers about 30 markets (checked 12 Oct 2026).",
+  "customer_segments": "Individual investors (retail via AlAhli Tadawul and the SNB Capital app; SNB account holders via Idikhari; individual and institutional wealth clients via Wealth Managers' Coverage); public- and private-sector employers (Idikhari, employee share plans, corporate savings); government and endowments (Namaa Endowment Fund, waqf funds); corporates and governments (investment banking, DCM/ECM); foreign institutions (market access, custody).",
+  "business_lines": "Asset management (public funds, DPM, private funds, REITs, alternatives); Wealth management (investment advisory, Wealth Managers' Coverage, Idikhari and corporate savings); Securities (local and international brokerage, margin financing, securities lending, custody and securities services, employee share plans, market access); Investment banking (ECM, DCM, M&A, debt and corporate finance advisory); Principal investments and funding (largest exposure fixed income; Moody's A2 standalone, AA+ Tassnief); SNB Capital (DIFC) private funds. FY2025 fees (SAR '000): asset management 982,308; securities 272,764; investment banking 139,387; total fees 1,394,459 of total operating income 4,122,069 (the rest is investment and margin income).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 32958184,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital Company consolidated",
+      "definition": "Total assets, audited consolidated statement of financial position (financial investments SAR 26.6bn, margin lending 3.8bn, securities lending 0.5bn)",
+      "status": "Verified",
+      "locator": "S4 PDF p.5 (printed p.3)",
+      "note": "Latest standalone statements available: SNB Capital publishes annual statements only (no interim). FY2024: 22,620,735. Borrowings (SAR 18.8bn) fund the investment book, so this is a balance-sheet figure, not client assets.",
+      "source_ids": [
+        "S4",
+        "S32"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 36184528,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Parent SNB 'Capital Market' segment (proxy; not SNB Capital standalone)",
+      "definition": "Total assets of the Capital Market segment in SNB's condensed interim consolidated statements (segment note 18)",
+      "status": "Verified",
+      "locator": "S8 PDF p.40 (note 18)",
+      "note": "Proxy only. Segment total at 31 Dec 2025 was 33,633,580 vs 32,958,184 in SNB Capital's own audited statements, so segment and standalone differ by about 2%.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 12758484,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital Company consolidated",
+      "definition": "Total equity incl. Tier 1 Sukuk SAR 1,000,000k, retained earnings 10,474,844k, share capital 1,500,000k and non-controlling interest 764k",
+      "status": "Verified",
+      "locator": "S4 PDF p.5 (printed p.3)",
+      "note": "Statutory reserve of 535,248k at end-2024 shows nil at end-2025 (not investigated).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 4122069,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SNB Capital Company consolidated",
+      "definition": "'Total operating income' = fees from services net 1,394,459 + investment income and other 2,727,610 (incl. FVOCI income 1,836,704, margin lending 240,919, dividends 291,388); before finance cost of 832,150",
+      "status": "Verified",
+      "locator": "S4 PDF p.6 (printed p.4)",
+      "note": "FY2024: 3,395,991 (+21%). Much larger than the parent's 'Capital Markets' segment figure (SAR 2,422m for FY2025) because the standalone figure includes treasury and investment income (see discrepancies).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 2517869,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SNB Capital Company consolidated",
+      "definition": "'Net income for the year' after zakat of 180,000; wholly attributable to equity holders of the parent (non-controlling interest nil)",
+      "status": "Verified",
+      "locator": "S4 PDF p.6 (printed p.4)",
+      "note": "FY2024: 2,023,536 (+24%). Net income before zakat: 2,697,869 (S4); the SNB Capital annual report cites 'SAR 2.69bn before zakat, exceeding the target' (S5 p.9).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_income_before_zakat",
+      "value": 2697869,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SNB Capital Company consolidated",
+      "definition": "'Net income for the year before Zakat'",
+      "status": "Verified",
+      "locator": "S4 PDF p.6 (printed p.4)",
+      "note": "FY2024: 2,135,129.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "asset_management_fees",
+      "value": 982308,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SNB Capital Company consolidated",
+      "definition": "'Fees from services, net - Asset management' (note 23)",
+      "status": "Verified",
+      "locator": "S4 PDF p.6 (printed p.4)",
+      "note": "FY2024: 916,746 (+7%). SNB's annual report quotes 982m vs 891m for the segment.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "securities_fees",
+      "value": 272764,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SNB Capital Company consolidated",
+      "definition": "'Fees from services, net - Securities' (brokerage, custody, securities services)",
+      "status": "Verified",
+      "locator": "S4 PDF p.6 (printed p.4)",
+      "note": "FY2024: 457,777 (-40%). Tadawul traded value fell about 30% in 2025 (S6).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "investment_banking_fees",
+      "value": 139387,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SNB Capital Company consolidated",
+      "definition": "'Fees from services, net - Investment banking'",
+      "status": "Verified",
+      "locator": "S4 PDF p.6 (printed p.4)",
+      "note": "FY2024: 145,833.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "management_fees_from_managed_funds",
+      "value": 588674,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SNB Capital Company consolidated",
+      "definition": "Management fee earned on funds managed by the Group (related-party note 21b); plus performance and transaction fees of 159,009k",
+      "status": "Verified",
+      "locator": "S4 PDF p.39 (note 21b)",
+      "note": "FY2024: 615,654 (and performance fees 85,521). Investment in own managed funds: SAR 2,033,684k at end-2025 (646,316k at end-2024).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 262976815,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital, asset management division",
+      "definition": "'Assets under management - Asset management division' (fiduciary assets note 29); off balance sheet; discretionary/non-discretionary split not stated",
+      "status": "Verified",
+      "locator": "S4 PDF p.42 (note 29, printed p.40); S5 p.9 (SAR 263bn)",
+      "note": "2024: 238,573,670 (+10%). SNB Capital's annual report calls this 'the largest in the market' with 23%+ share and says it is the largest Shariah-compliant asset manager in the world. SNB's 2Q26 deck gives 22% share at 1Q 2026.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 279,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-03-31",
+      "period_label": "1Q 2026",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital (as reported by parent SNB)",
+      "definition": "'Asset Management (AUMs)': SNB SAR 279bn of a KSA total of SAR 1,286bn (22%, rank #1); slide footnote dates AUM to 1Q 2026",
+      "status": "Verified",
+      "locator": "S7 slide 6",
+      "note": "Rounded. The latest AUM figure available; no 30 Jun 2026 figure found.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "securities_division_aum",
+      "value": 2012174,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital, securities division",
+      "definition": "'Assets under management - Securities division' (note 29); separate from the asset management division figure",
+      "status": "Verified",
+      "locator": "S4 PDF p.42 (note 29)",
+      "note": "2024: 2,141,819. Not added to the asset management AUM figure above.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "client_cash_accounts",
+      "value": 29283224,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital brokerage",
+      "definition": "'Cash balances held under brokerage accounts' (fiduciary, off balance sheet; note 29)",
+      "status": "Verified",
+      "locator": "S4 PDF p.42 (note 29)",
+      "note": "2024: 24,051,356. Total fiduciary assets 294,272,213 (SNB's bank-level FS label this total 'assets under management'; it is not AUM).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "aua",
+      "value": 155,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital securities services (custody)",
+      "definition": "'Assets under custody' (الأصول تحت الحفظ), SAR 155bn in the 2025 key-figures page of SNB Capital's annual report",
+      "status": "Verified",
+      "locator": "S5 p.9 (key figures)",
+      "note": "SNB's annual report says AUC reached SAR 156bn (+27%) and 'assets under administration' expanded tenfold to SAR 10bn (S6 p.21). 155 vs 156 not reconciled; date inferred as year-end 2025.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 175,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "SNB Capital brokerage (Saudi Exchange value traded)",
+      "definition": "SNB brokerage value traded SAR 175bn of a KSA market total of SAR 1,241bn (14% share, rank #1) on SNB's market-position slide",
+      "status": "Verified",
+      "locator": "S7 slide 6 (quarterly bars on slide 45: 1Q26 about 81bn, 2Q26 about 95bn, rounded)",
+      "note": "Rounded. Fees from securities H1 2026: SAR 106m vs 155m a year earlier (-32%).",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "metric": "brokerage_market_share",
+      "value": 15,
+      "unit": "percent",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SNB Capital brokerage (Saudi Exchange)",
+      "definition": "'More than 15% market share' of Tadawul traded value (SAR 1.22 trillion in 2025); SNB Capital's annual report also gives 15%+ for brokerage",
+      "status": "Verified",
+      "locator": "S6 PDF p.21 (printed p.39); S5 p.9",
+      "note": "Lower bound ('more than'). Also: over 25% of retail IPO subscriptions; 9% share in securities lending and borrowing (S5).",
+      "source_ids": [
+        "S6",
+        "S5"
+      ]
+    },
+    {
+      "metric": "international_brokerage_trading_value",
+      "value": 8,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "SNB Capital international brokerage",
+      "definition": "'Nearly USD 8 billion in yearly traded value', +44% year on year",
+      "status": "Verified",
+      "locator": "S6 PDF p.21 (printed p.39)",
+      "note": "Approximate ('nearly').",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "parent_segment_operating_income",
+      "value": 997011,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Parent SNB 'Capital Market' segment (proxy; not SNB Capital standalone)",
+      "definition": "Total operating income of the Capital Market segment (wealth, asset management, investment banking, brokerage); income before zakat 656,061",
+      "status": "Verified",
+      "locator": "S8 PDF p.39 (note 18); S7 slide 45",
+      "note": "H1 2025: 1,171,452 (-15%). Fees from asset management H1 2026: 417m vs 437m (-5%). Only H1 2026 income data point available.",
+      "source_ids": [
+        "S8",
+        "S7"
+      ]
+    },
+    {
+      "metric": "parent_segment_operating_income",
+      "value": 2422,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Parent SNB 'Capital Markets' segment (proxy; not SNB Capital standalone)",
+      "definition": "Total operating income of the Capital Markets segment; net income before zakat and tax 1,731m; segment total assets 33,634m",
+      "status": "Verified",
+      "locator": "S6 PDF p.21 (printed p.38-39)",
+      "note": "FY2024: 2,282m. The standalone FS shows SAR 4,122m (see discrepancies).",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "market_access_client_accounts",
+      "value": 150000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Website, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital Market Access Services",
+      "definition": "'Opened accounts for over 150,000 clients through third-party financial institutions and brokers' (foreign institutions accessing the Saudi Exchange)",
+      "status": "Verified",
+      "locator": "Market Access Services page",
+      "note": "Lower bound ('over'). Not total SNB Capital client count, which is not disclosed.",
+      "source_ids": [
+        "S18"
+      ]
+    },
+    {
+      "metric": "idikhari_aum",
+      "value": 24,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital Idikhari employee savings programme",
+      "definition": "Assets under management in the Idikhari savings programme (public and private sector), about SAR 24bn, with about 90,000 participating employees at end-2025",
+      "status": "Verified",
+      "locator": "S5 p.18 (printed p.32-33)",
+      "note": "Approximate ('حوالي'). Included in total AUM.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "difc_private_funds_aum",
+      "value": 7.5,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-10-12",
+      "period_label": "Website, undated (checked 12 Oct 2026)",
+      "period_type": "point_in_time",
+      "scope": "SNB Capital (DIFC) Limited",
+      "definition": "'Over SAR 7.5 billion (about USD 2 billion)' AUM of SNB Capital (DIFC) private funds",
+      "status": "Requires verification",
+      "locator": "SNB Capital (DIFC) page",
+      "note": "Lower bound; the page carries no as-of date (copyright 2025). Included in total AUM presumably (not stated).",
+      "source_ids": [
+        "S19"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "SNB Capital AR 2025 (S5), FS 2025 (S4), website pages (S9-S18), SNB AR 2025 and 2Q26 deck (S6, S7). Only 'over 150,000 accounts opened through third-party institutions' (market access) is published."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "App Store listing (S31: 2,116 ratings is not a user count), AR 2025 (S5), SNB AR (S6)"
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "FS 2025 (S4), AR 2025 text layer and key-figures page (S5), website (S9, S34)"
+    },
+    {
+      "metric": "total_assets_30_jun_2026",
+      "status": "Not publicly disclosed",
+      "where_checked": "SNB Capital 'Reports and publications' lists annual reports and financial statements 2022-2025 only (S32); segment total in parent interim FS recorded as a proxy (S8)"
+    },
+    {
+      "metric": "aum_30_jun_2026",
+      "status": "Not found after research",
+      "where_checked": "SNB 2Q26 presentation gives AUM only as of 1Q 2026 (S7 slide 6); SNB interim FS has no AUM note (S8); SNB Capital website carries no AUM figure (S9, S10, S35)"
+    },
+    {
+      "metric": "brokerage_trading_value_fy2025",
+      "status": "Not found after research",
+      "where_checked": "Only 'more than 15% share' of SAR 1.22 trillion Tadawul value is published (S6, S5); an absolute SAR figure is not stated"
+    }
+  ],
+  "people": [
+    {
+      "name": "Abdullah Fahd Al-Abdul Jabbar",
+      "name_ar": "عبدالله بن فهد العبد الجبار",
+      "title": "Chairman of the Board (non-executive)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Appointment date not found. Listed as Chairman on the official board page and in AR 2025.",
+      "previous_roles": "CEO of Sanabil Investments (current per official bio); founder of Marco strategy advisory; head of Strategy and Business Development, Bank Albilad; eight years at the Capital Market Authority from 2004 incl. Head of Listing (seconded to the US SEC) and head of international relations. Boards incl. Savvy Games Group, Richard Attias & Associates, Caffeine Inc., Performance 54 Group.",
+      "education": "Bachelor's in Economics and Political Science, California State University, Hayward (1998); Chase Manhattan Bank credit training programme, New York (2000)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and board bio page checked 2026-10-12 (S1, S3); SNB Capital AR 2025 board page (S5 p.8).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saud Abdulaziz Bajbair",
+      "name_ar": "سعود بن عبدالعزيز باجبير",
+      "title": "Vice Chairman of the Board (non-executive)",
+      "functions": [
+        "Board",
+        "Retail"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Appointment date not found. Also Group Head of Retail Business at Saudi National Bank (see sa-snb).",
+      "previous_roles": "Group Head of Retail Business, SNB; earlier Head of Retail Network Group and Head of Retail Strategy and Analytics at SNB; at NCB: Head of Branch Banking, Consumer Finance, Real Estate & Personal Finance, Quality and Customer Care. Boards: Saudi Credit Bureau (SIMAH), Arabian Shield Cooperative Insurance.",
+      "education": "Bachelor's in Industrial Engineering, King Fahd University of Petroleum and Minerals",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and board bio page checked 2026-10-12 (S1, S3); AR 2025 (S5 p.8).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Rashed Ibrahim Sharif",
+      "name_ar": "راشد بن إبراهيم شريف",
+      "title": "Chief Executive Officer and Board member",
+      "functions": [
+        "CEO",
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Executive Management; Board",
+      "scope": "Subsidiary",
+      "appointed": "2021-02",
+      "appointed_note": "Appointed CEO and board member in February 2021 (official bio). Also a non-executive board member of Saudi National Bank (see sa-snb). The name appears as 'Rashid I. Sharif' in the CEO message.",
+      "previous_roles": "Head of Listing Department, Capital Market Authority (2006-2013); Head of Investment Banking and later CEO at another Saudi capital-market institution; Head of Local Holding Investments, Public Investment Fund (2017 to end-2020); before SNB Capital, Vice-Chairman of NCB's board and member of its Executive Committee. Former boards: Saudi Electricity Company, STC, SABIC.",
+      "education": "Bachelor's in Finance, KFUPM; MBA, Prince Sultan University; IMD 'High Performance Leaders' and 'High Performance Boards' programmes",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page, CEO bio page and board page checked 2026-10-12 (S1, S2, S3); signs the AR 2025 CEO message (S5); quoted as CEO in a Feb 2026 Investcorp release (S26). Searches found no departure news. LinkedIn search (CEO name + SNB Capital) returned no matching profile.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S5",
+        "S26"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammad Al-Shaikh",
+      "name_ar": "محمد آل الشيخ",
+      "title": "Independent Member of the Board",
+      "functions": [
+        "Board"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Appointment date not found.",
+      "previous_roles": "Senior Advisor to the Managing Director and Group CEO, Saudi National Bank (since April 2021); at Samba Financial Group, last Deputy CEO and Chief of Staff; former board member of Samba Capital & Investment Management Co. and SIMAH; member, Riyadh Economic Forum.",
+      "education": "Bachelor's in Finance, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and board bio page checked 2026-10-12 (S1, S3); AR 2025 (S5 p.8).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sabty Sulaiman Al-Sabty",
+      "name_ar": "سبتي بن سليمان السبتي",
+      "title": "Independent Member of the Board",
+      "functions": [
+        "Board"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Appointment date not found.",
+      "previous_roles": "Former Head of Listed Companies and Investment Products Department, Capital Market Authority; former CEO of Riyad Capital; current boards incl. Tadawul, Zakat Tax and Customs Authority, Jada Fund of Funds Company, Saudi Venture Capital Company.",
+      "education": "Bachelor's in Accounting, King Saud University; MBA, Colorado Technical University",
+      "qualifications": "CPA (SOCPA and AICPA)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and board bio page checked 2026-10-12 (S1, S3); AR 2025 (S5 p.8).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Al-Saggaf",
+      "name_ar": "محمد السقاف",
+      "title": "Head of Client Relations and Distribution (until March 2026: Head of Wealth Management Division)",
+      "functions": [
+        "Wealth",
+        "Other"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Client Relations and Distribution (formerly Wealth Management)",
+      "scope": "Subsidiary",
+      "appointed": "2026-03",
+      "appointed_note": "Appointed Head of Client Relations and Distribution in March 2026; led the Wealth Management Division from early 2021 until then (official bio). AR 2025 org page lists him as head of wealth (رئيس إدارة الثروات).",
+      "previous_roles": "Joined NCB in 1994 (investment department, then investment and retail banking roles); moved to SNB Capital at the firm's inception; headed several segments before leading Wealth Management from early 2021. Over 25 years in investment and banking.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13) shows the earlier title. LinkedIn search (title + SNB Capital) returned no matching profile.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Naif Al-Saif",
+      "name_ar": "نايف السيف",
+      "title": "Chief Investment Officer",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Investments (formerly Principal Investments and Funding)",
+      "scope": "Subsidiary",
+      "appointed": "2026-03",
+      "appointed_note": "Appointed CIO in March 2026 (official bio); previously Head of Principal Investment and Funding from July 2021. AR 2025 lists him as head of private investments and funding.",
+      "previous_roles": "Head of Principal Investment and Funding, SNB Capital (from July 2021); acting CEO of Samba Capital; Treasurer, Samba Financial Group; Head of Fixed Income and Money Market Desk and Chief Dealer, Samba London Treasury.",
+      "education": "MBA (Finance), Prince Sultan University (2015); Bachelor's in Finance and Economic Science, KFUPM (2003)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13). LinkedIn search returned no matching profile.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jalal Faruki",
+      "name_ar": "جلال فاروقي",
+      "title": "Head of Securities",
+      "functions": [
+        "Brokerage"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Securities (brokerage, custody and securities services)",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Appointment date to current title not found. Held Head of Trading and Sales Trading from 2020 and Head of Custody and Securities Services before. AR 2025 lists Loai Bafaqeeh as head of securities, so the change occurred in 2026.",
+      "previous_roles": "Head of Custody and Securities Services and Head of Trading and Sales Trading at SNB Capital (since 2020); earlier Head of Institutional Brokerage, Head of Treasury, Sales Trader and Portfolio Manager at institutions in the USA, UAE and Saudi Arabia.",
+      "education": "Bachelor's in Business Administration, Virginia Tech (2002)",
+      "qualifications": "Active CME licence (Saudi Arabia); formerly SEC Series 7 and 63 (USA) and CISI licences (UAE)",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2). LinkedIn search returned no matching profile.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Loai Bafaqeeh",
+      "name_ar": "لؤي بافقيه",
+      "title": "Chief Digital Officer",
+      "functions": [
+        "Digital",
+        "Technology"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Digital (formerly Securities and IT)",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Date of the Chief Digital Officer title not found. AR 2025 (published 2026) lists him as head of securities and acting head of IT (رئيس إدارة الأوراق المالية و رئيس تقنية المعلومات المكلف); the website now shows Jalal Faruki as Head of Securities.",
+      "previous_roles": "Head of Securities at SNB Capital, where he 'introduced a new platform and product suite'; CEO of the Quality of Life Program (Saudi Vision 2030); led Microsoft Arabia; Head of Marketing at SNB Capital; started at Procter & Gamble.",
+      "education": "Bachelor of Mechanical Engineering, King Abdulaziz University; MBA, Arab Academy for Science and Technology",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13) shows the earlier title. LinkedIn search returned no matching profile.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Al Ali",
+      "name_ar": "محمد العلي",
+      "title": "Head of Real Estate Investments",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Real Estate Investments (alternatives platform)",
+      "scope": "Subsidiary",
+      "appointed": "2026-03",
+      "appointed_note": "Appointed to the current role in March 2026 (official bio).",
+      "previous_roles": "Head of Product Development and Local Alternatives at SNB Capital, building and scaling the alternatives platform (real estate, private equity, sukuk products); senior regulatory roles at the Capital Market Authority (enforcement and investment funds oversight); began at Samba Financial Group in credit and corporate banking. Over 20 years' experience.",
+      "education": "MBA in Finance and International Business, University of San Francisco",
+      "qualifications": "CFA charterholder",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2).",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalid Al-Bairakan",
+      "name_ar": "خالد البريكان",
+      "title": "Head of Asset Management (per AR 2025; not on the current website)",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Asset Management",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Name transliterated from Arabic (a search snippet spelled it 'Khaled Al Braikan'). Listed in the AR 2025 executive pictures as head of the assets division (رئيس إدارة الأصول). Not on the official leadership page checked 12 Oct 2026, which now lists no Head of Asset Management.",
+      "previous_roles": "Not stated in the sources opened.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "AR 2025 executive page (S5 p.13) lists him; the official leadership page (S1) checked 2026-10-12 does not. A web-search snippet suggested an older website version listed him as Head of Asset Management; not confirmed. Possible March 2026 reorganisation (three executives changed title that month, S2). No departure or appointment news found.",
+      "source_ids": [
+        "S5",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Zaid Ghoul",
+      "name_ar": "زيد الغول",
+      "title": "Head of Investment Banking",
+      "functions": [
+        "Other"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Investment Banking",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Led the investment banking practice after the NCB Capital / Samba Capital merger (2021). Appointment date not stated in the bio.",
+      "previous_roles": "Head of Corporate Finance and Investment Banking, Samba Capital; own consulting practice; CFO of a Dubai real estate company; CIO of a private investment conglomerate; Arthur Andersen, EY Middle East, PwC (Equity Partner).",
+      "education": "BSc in Accounting, Economics and Statistics, University of Jordan (1991)",
+      "qualifications": "CPA (USA, 1993); CFA charterholder (2003)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Alnahdi",
+      "name_ar": "عبدالله النهدي",
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Finance",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Joined SNB Capital in 2014; date of CFO appointment not stated.",
+      "previous_roles": "Head of Financial Accounting and earlier planning, reporting and analytics at SNB Capital; SABIC, Siemens, Saudi Aramco.",
+      "education": "Bachelor's in Management Information Systems, KFUPM; MBA, Stetson University (USA)",
+      "qualifications": "CMA and SOCPA certificates",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faisal Al-Ansi",
+      "name_ar": "فيصل الأنسي",
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Shared operations",
+      "scope": "Subsidiary",
+      "appointed": "2021-12",
+      "appointed_note": "Appointed COO in December 2021 (official bio).",
+      "previous_roles": "COO of Samba Capital, Al Rajhi Capital and Al Bilad Capital; Al Awal Capital operations (2004-2008); Samba Asset Management operations.",
+      "education": "Bachelor's in Business Administration, Central State University, Florida (2003); Bachelor's in Business Administration, King Faisal University (2015)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Alghursan",
+      "name_ar": "عبدالله آل غرسان",
+      "title": "Chief Legal & Governance Officer and Acting Chief of Staff",
+      "functions": [
+        "Other"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Legal, Governance",
+      "scope": "Subsidiary",
+      "appointed": "2023-11",
+      "appointed_note": "Appointed Chief Legal and Governance Officer in November 2023 (official bio); 'Acting Chief of Staff' per the website, Oct 2026.",
+      "previous_roles": "Chief of Legal, Governance and Compliance and Board Secretary, Riyad Capital; earlier Samba Capital; Capital Market Authority (seconded to the US SEC; founded its Investor Protection Department).",
+      "education": "Master's in Law, Arab East Colleges (KSA); MSc in Finance, Southern New Hampshire University; Bachelor's in Accounting, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulrahman Almashal",
+      "name_ar": "عبدالرحمن المشعل",
+      "title": "Chief of Staff (per Jan 2026 press release; AR 2025 lists 'Chief Administrator')",
+      "functions": [
+        "Other"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Office of the CEO",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Quoted as 'Chief of Staff, SNB Capital' in the Orion partnership release (listed 14 Jan 2026). AR 2025 lists him as كبير الإداريين. The website now shows Abdullah Alghursan as 'Acting Chief of Staff' and does not list Almashal.",
+      "previous_roles": "Not stated in the sources opened.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Orion release (S27), AR 2025 page 13 (S5); absent from the official leadership page checked 2026-10-12 (S1). No news on a move found.",
+      "source_ids": [
+        "S27",
+        "S5",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Lloyd Kawara",
+      "name_ar": "لويد كوارا",
+      "title": "Chief Risk Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Risk Management",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Hired as Vice President, Market Risk in February 2015; date of CRO title not stated.",
+      "previous_roles": "African Development Bank (Principal Treasury Risk Officer); CRO, Bank Alkhair (Bahrain); Bahrain Middle East Bank; Riyad Bank.",
+      "education": null,
+      "qualifications": "CFA charterholder; FRM (GARP); CAIA; ACMA (CIMA, UK)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Al Marzouki",
+      "name_ar": "علي المرزوقي",
+      "title": "Chief Compliance Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Compliance",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Compliance specialist across asset management, wealth, private banking, investment banking and brokerage (10+ years).",
+      "education": "MBA and BA in Industrial and Systems Engineering, King Abdulaziz University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dana Al Husseini",
+      "name_ar": "دانا الحسيني",
+      "title": "Chief Human Capital Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Human Capital",
+      "scope": "Subsidiary",
+      "appointed": "2024-01",
+      "appointed_note": "Appointed January 2024 (official bio); 12 years at SNB Capital.",
+      "previous_roles": "HR and talent management; 17 years, 12 at SNB Capital.",
+      "education": "BA in French Literature, King Abdulaziz University; MSc in Organizational Dynamics, University of Pennsylvania",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ehab Reda",
+      "name_ar": "إيهاب رضا",
+      "title": "Chief Audit Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "SNB Capital Company",
+      "business_unit": "Internal Audit",
+      "scope": "Subsidiary",
+      "appointed": "2024-05",
+      "appointed_note": "Appointed May 2024 (official bio).",
+      "previous_roles": "Head of Treasury and Global Markets Audit, SNB; Samba Financial Group; HSBC; Standard Chartered. 26+ years.",
+      "education": "MBA in Marketing, University of Leicester; Bachelor of Accounting, King Abdulaziz University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "SNB Capital is the 100% capital-markets subsidiary of Saudi National Bank, CMA-licensed (37-06046) for dealing, underwriting, managing, arranging, advising and custody, with a DFSA-regulated sister entity in DIFC. It reports AUM of SAR 263.0bn at end-2025 (asset management division; 'largest in the market') and SAR 279bn at 1Q 2026 (22% share, #1). FY2025 net profit was SAR 2,518m on total operating income of SAR 4,122m; asset management fees were SAR 982m and securities fees SAR 273m (down 40%). The fund shelf is its own, mostly Shariah-compliant: 21 equity funds (incl. four MSCI Islamic index funds), about 12 liquidity and fixed-income funds, 11 multi-asset and waqf funds, REITs, real estate and DIFC private funds. Retail execution runs through AlAhli Tadawul and the SNB Capital app (Saudi plus about 30 international markets via Interactive Brokers and a second 'GTN' schedule), and the Idikhari plan gives SNB account holders goal-based, automated fund savings from SAR 100. The group says a robo-advisory platform is being added to Wealth Management, and its 2025-27 strategy includes 'establish partnerships to expand and deepen client offerings'. Wealth leadership changed in March 2026: Mohammed Al-Saggaf moved from Head of Wealth Management to Head of Client Relations and Distribution, and the website now lists no Head of Wealth Management or Head of Asset Management.",
+    "segments": [],
+    "private_banking": {
+      "present": "No",
+      "detail": "Private banking sits in the parent bank (SNB Private Banking; see sa-snb). SNB Capital offers 'Wealth Managers' Coverage' for individual and institutional clients: a dedicated team of professional wealth managers, bespoke strategies, financial planning and access to alternatives (private equity, real estate, hedge funds). No eligibility threshold is published.",
+      "source_ids": [
+        "S17",
+        "S14"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "SAR 263.0bn AUM at end-2025; 22% KSA share and #1 at 1Q 2026 (SAR 279bn). Website categories: liquidity and fixed income, public equity, multi-asset, alternative, private funds and REITs. 2025: 18 new products per SNB's annual report (20 new funds per SNB Capital's own report), including 13 private real estate funds, a waqf fund and three international credit funds. Per its own report: Moody's MQ1 (highest) investment-quality rating and a 2025 'best multi-asset manager' award from Forbes Middle East. Namaa Endowment Fund (Ministry of Environment, Water and Agriculture) appointed SNB Capital as manager in Feb 2026.",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S10",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S28"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Saudi Exchange: #1 broker, 14% of H1 2026 value traded (SAR 175bn); more than 15% in 2025; over 25% of retail IPO subscriptions. Channels: AlAhli Tadawul online, mobile app and IVR, VIP trading lounges across the Kingdom, free live prices, Mubasher Net and Mubasher Pro. International: '30 markets' per the website (US, UK, UAE, Kuwait, Egypt, Oman, Bahrain and several European and Asian markets in the price list), with Interactive Brokers named as execution partner (IBKR Pro, IBKR Lite, US options) and a separate 'GTN' schedule for Asia-Pacific, US and GCC/Arab markets; nearly USD 8bn traded in 2025 (+44%). Margin financing (+about 40% in 2025), securities lending, employee share plans, custody (AUC SAR 155bn) and a market-access service for foreign institutions (over 150,000 end-client accounts opened).",
+      "source_ids": [
+        "S6",
+        "S7",
+        "S11",
+        "S12",
+        "S13",
+        "S18",
+        "S5"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "'SNB Capital' app (iOS, seller The Saudi National Bank; v2.20.19, updated 11 Sep 2026; first released 24 Dec 2020; 2,116 ratings, average 2.81): trading, dashboard, order placing, cash transfers to and from portfolios. AlAhli Tadawul online platform and mobile app for Saudi and international markets; Idikhari goal-based savings is enrolled inside the SNB Capital app. Fund subscriptions in-app were not confirmed by the listing. Chief Digital Officer role exists (Loai Bafaqeeh).",
+      "source_ids": [
+        "S31",
+        "S11",
+        "S12",
+        "S15",
+        "S1",
+        "S35"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "CMA licence includes advising; Wealth Management is a standalone division. Investment Advisory page: personalised portfolio management, financial planning and wealth structuring, market insights; Wealth Managers' Coverage team. No named advisory platform, thresholds or adviser profiles published. A LinkedIn search snippet suggested a 'Head of Investment Advisory and Solutions' role from May 2026; not verified, not recorded as a person.",
+      "source_ids": [
+        "S9",
+        "S16",
+        "S17",
+        "S34"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary Portfolio Management (DPM) listed under Asset Management ('expert-led strategies aligned with investors' goals and risk profiles across all asset classes'); assets held in a fiduciary capacity for the parent bank were SAR 1.76bn at end-2025 (note 21). No DPM minimum published.",
+      "source_ids": [
+        "S10",
+        "S4"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Idikhari (individual savings plan) in the SNB Capital app: goal-based plans (vehicle, education, wedding, property, travel, savings, retirement) that assess goal, savings and risk appetite, recommend one Shariah-compliant fund per plan (SNB Capital SAR Multi-Asset Conservative, Moderate or Growth funds, or Al Sunbullah SAR) and automate standing-order contributions from SAR 100. This is single-fund recommendation, not multi-asset model portfolios. SNB's AR 2025 says a robo-advisory platform 'is being added to the portfolio of Wealth Management services'; no launch found. Feb 2024 MoU with fintech Mala'a (digital financial planning, automated investing).",
+      "source_ids": [
+        "S15",
+        "S6",
+        "S29",
+        "S30"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "SNB Capital distributes its own funds (app, AlAhli Tadawul, SNB branches). No third-party fund shelf or fund-platform provider found. Feb 2026 Investcorp partnership covers asset management, investment banking and wealth management for alternatives (private equity, real assets, credit), scope of distribution not specified.",
+      "source_ids": [
+        "S10",
+        "S26",
+        "S20"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured products on the SNB Capital website pages opened. SNB Capital won a 'Best in Saudi Arabia' award for Islamic Structured Finance in July 2026 (corporate finance, per media list). The parent bank lists structured products for private-banking clients (see sa-snb).",
+      "source_ids": [
+        "S25",
+        "S10",
+        "S14"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Alternatives are a core line: real estate funds (e.g. SEDCO Residential Development Fund, SNB Capital Real Estate Fund, AlAhli REIT Fund (1)), private equity and venture, 13 private real estate funds launched in 2025. SNB Capital (DIFC) Limited (DFSA-regulated, over SAR 7.5bn AUM, undated) manages 14 named funds: aviation (I, II), credit (I, II, IV), real estate credit (I, II), asset-backed income, GP stakes, Pan-European real estate, oil and gas, strategic equity, private equity solutions, software opportunities. Parent group also holds SNB Capital Dubai Inc. (private equity and real estate in emerging markets). Wealth Managers' Coverage offers access to private equity, real estate and hedge funds. Investcorp partnership (Feb 2026) for private equity, real assets, credit; Orion partnership (Jan 2026) for mining.",
+      "source_ids": [
+        "S5",
+        "S23",
+        "S19",
+        "S17",
+        "S26",
+        "S27",
+        "S4"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "SNB Capital's AR says its products and services are Shariah-compliant and that it is the largest Shariah-compliant asset manager in the world; all public funds on the website state Shariah compliance or track MSCI Islamic M-Series indices (equity, sukuk, murabaha/money market, waqf funds, Sadaqqat charity fund). Whole-firm Shariah-only status is not stated in the audited statements, which include Tier 1 Sukuk, bank borrowings and margin lending, so 'model' is left as Not applicable.",
+      "source_ids": [
+        "S5",
+        "S20",
+        "S21",
+        "S22"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Interactive Brokers (IBKR)",
+        "kind": "Execution / platform technology",
+        "what": "Global Trading page lists IBKR Pro, IBKR Lite and US Options IBKR commission schedules; IBKR is named as execution partner (products on the page: equities, options and ETFs; US bonds are also priced). Pricing is also listed for France, Portugal, Germany, Belgium, Switzerland, Singapore and Poland without naming the broker per market",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "partner": "GTN (acronym not expanded on the site)",
+        "kind": "Execution / platform technology",
+        "what": "A second commission schedule ('For all commission related to GTN') covers Australia, China, Hong Kong, Indonesia, Japan, Malaysia, Philippines, Singapore, Thailand and US plus GCC/Arab markets (Egypt, Muscat, Kuwait, Bahrain, UAE, Nasdaq Dubai). The provider's identity is not stated on the page; relationship type inferred from the commission-sheet label only",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S12",
+          "S13"
+        ]
+      },
+      {
+        "partner": "Saudi National Bank (parent)",
+        "kind": "Distribution",
+        "what": "Idikhari requires an SNB current account (standing orders); SNB Capital earns management and performance fees on funds and manages SNB assets (note 21); parent forms Group collaboration lever in strategy",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S15",
+          "S4",
+          "S6"
+        ]
+      },
+      {
+        "partner": "Investcorp Saudi Arabia Financial Investments Company",
+        "kind": "Product partner (alternatives)",
+        "what": "Strategic partnership across asset management, investment banking and wealth management for private equity, real assets and credit in Saudi Arabia and internationally; priority sectors technology, logistics, healthcare, infrastructure; products and distribution not specified",
+        "date": "2026-02-08",
+        "status": "Announced",
+        "source_ids": [
+          "S26",
+          "S25",
+          "S36"
+        ]
+      },
+      {
+        "partner": "Orion Resource Partners LP",
+        "kind": "Product partner (investment)",
+        "what": "Partnership to identify and support mining and midstream projects in the Kingdom; no financial commitments disclosed",
+        "date": "2026-01-14",
+        "status": "Announced",
+        "source_ids": [
+          "S27",
+          "S25"
+        ]
+      },
+      {
+        "partner": "Mala'a Technologies",
+        "kind": "Wealth-tech / fintech",
+        "what": "MoU for SNB Capital clients to access Mala'a's digital financial planning and wealth management (robo-advisory) services and for Mala'a clients to access SNB Capital funds; announced at SNB Capital's Investment Tycoons Forum",
+        "date": "2024-02-15",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S29",
+          "S30"
+        ]
+      },
+      {
+        "partner": "BNY Mellon (BNY)",
+        "kind": "Custody / data platform",
+        "what": "Headline dated 20 Dec 2021: BNY Mellon and SNB Capital to offer a new data platform in Saudi Arabia (article not opened); current status unknown",
+        "date": "2021-12-20",
+        "status": "Unclear",
+        "source_ids": [
+          "S36"
+        ]
+      },
+      {
+        "partner": "Wamid / Saudi Tadawul Group",
+        "kind": "Hosting / connectivity",
+        "what": "Market Access Services: co-located infrastructure in a data centre hosted by Wamid and the Saudi Tadawul Group, plus leased lines to major data hubs",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "partner": "Fidessa (trading system vendor, NCB Capital era)",
+        "kind": "Execution / platform technology",
+        "what": "Undated trade-news item (seen in search results only) says NCB Capital implemented Fidessa's sell-side trading platform for Tadawul retail and institutional equities; current use unknown",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S37"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2023",
+        "what": "SNB Capital Batteries Fund (Shariah-compliant, ESG-themed, invests in SK On) and 2024 Ahalina and Financial Awareness programmes listed on the strategic initiatives page; 15 Jun 2023 board placed all management committees under the CEO. Awards page lists 2024 Saudi Capital Market Awards (Investment Bank of the Year, Most Active Derivatives Broker) and 2024 Euromoney Islamic Finance awards; no 2025-26 awards listed there",
+        "source_ids": [
+          "S24",
+          "S33"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Asset management launched 18 new products (SNB annual report) / 20 new funds (SNB Capital annual report), incl. 13 private real estate funds, a waqf fund and three international credit funds; diversified into alternatives, money markets and fixed income and multi-asset funds",
+        "source_ids": [
+          "S6",
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Investment banking closed its 100th transaction since the 2021 merger (total value above SAR 750bn); more than 25 deals in 2025 incl. the SAR 7.13bn ACWA Power rights issue; over 50% share in ECM and 70% in DCM",
+        "source_ids": [
+          "S6",
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "SNB's annual report: Asset Management is a core contributor to a robo-advisory platform being added to Wealth Management services; asset management business areas encouraged to deploy AI",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Idikhari employee savings programme reached about SAR 24bn AUM and about 90,000 participants; 2025-27 strategy levers: market-leading position, digital client experience, SNB Group collaboration, partnerships to expand client offerings",
+        "source_ids": [
+          "S5",
+          "S6"
+        ]
+      },
+      {
+        "date": "2026-01-14",
+        "what": "Strategic partnership with Orion Resource Partners to support the Kingdom's mining and midstream projects",
+        "source_ids": [
+          "S27",
+          "S25"
+        ]
+      },
+      {
+        "date": "2026-02-08",
+        "what": "Strategic partnership with Investcorp Saudi Arabia for alternatives (private equity, real assets, credit) across asset management, investment banking and wealth management",
+        "source_ids": [
+          "S26",
+          "S25",
+          "S36"
+        ]
+      },
+      {
+        "date": "2026-02-18",
+        "what": "Appointed fund manager of the Namaa Endowment Fund launched by the Ministry of Environment, Water and Agriculture (Shariah-compliant public offering)",
+        "source_ids": [
+          "S28",
+          "S25"
+        ]
+      },
+      {
+        "date": "2026-03",
+        "what": "Leadership reshuffle: Mohammed Al-Saggaf became Head of Client Relations and Distribution (from Head of Wealth Management); Naif Al-Saif became Chief Investment Officer; Mohammed Al Ali became Head of Real Estate Investments",
+        "source_ids": [
+          "S2",
+          "S1"
+        ]
+      },
+      {
+        "date": "2026-05-03",
+        "what": "Financial close of a USD 456m ECA financing announced",
+        "source_ids": [
+          "S25"
+        ]
+      },
+      {
+        "date": "2026-07-19",
+        "what": "Named 'Best in Saudi Arabia' for ECM, Research and Islamic Structured Finance",
+        "source_ids": [
+          "S25"
+        ]
+      },
+      {
+        "date": "2026-08-05",
+        "what": "SNB 2Q 2026 deck: SNB Capital #1 in AUM and brokerage share, #3 in investment banking (2025 revenue basis); 2027 targets are #1 in all three. Capital Markets segment income before zakat fell 22% in H1 2026 on softer market volumes",
+        "source_ids": [
+          "S7"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "what": "Hosted 'Growth Connect' event bringing Saudi-listed companies and investors together",
+        "source_ids": [
+          "S25"
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "what": "SNB Capital app v2.20.19 released (stability and performance enhancements)",
+        "source_ids": [
+          "S31"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "SNB's AR 2025 says a robo-advisory platform 'is being added to the portfolio of Wealth Management services'; no launch announced as of 12 Oct 2026 (S6)",
+        "Existing goal-based product (Idikhari) recommends one fund per plan from four funds, so it has no multi-asset model portfolios (S15)",
+        "Fees from securities fell 40% in FY2025 and 32% in H1 2026 while asset management fees held (SAR 982m, S4; H1 2026 SAR 417m vs 437m, S7), so recurring-fee wealth solutions are a stated priority ('SNB Capital fee focus' in the parent strategy)",
+        "Strategy lever 'establish partnerships to expand and deepen client offerings' (S6); recent partners are alternatives managers (Investcorp, Feb 2026) and a fintech MoU (Mala'a, Feb 2024)",
+        "Wealth leadership in transition: Head of Wealth Management became Head of Client Relations and Distribution in March 2026 and no Head of Wealth or Asset Management is listed on the website (S1, S2)",
+        "iOS app rating 2.81 on 2,116 ratings (S31) against a stated goal of enhancing client experience with digital platforms (S6)"
+      ],
+      "barriers": [
+        "Scale and in-house manufacturing: SAR 263bn AUM, #1 in KSA, with its own funds across equity, fixed income, multi-asset and alternatives, and 96% of AUM in the top two performance quartiles per the parent AR (S4, S6)",
+        "Group captive distribution through SNB and an existing global execution stack (Interactive Brokers, GTN) (S12, S13)",
+        "Shariah-compliant product expectations: nearly all funds are Shariah-compliant (S5, S20, S21)",
+        "Existing partnerships with alternatives managers (Investcorp, Orion) reduce need for third-party private-markets shelf (S26, S27)"
+      ],
+      "incumbent_vendors": [
+        "Interactive Brokers: named execution partner for global markets (S12)",
+        "'GTN': commission schedule label for Asian/GCC execution; vendor identity not stated (S13)",
+        "Wamid / Saudi Tadawul Group: co-location hosting for market access (S18)",
+        "Mala'a Technologies: MoU for digital financial planning (Feb 2024, S29)",
+        "BNY Mellon: data platform headline from Dec 2021, current status unknown (S36)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Leadership (Board of Directors and Executive Team)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/leadership",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Executive team member bio pages (14 pages, e.g. CEO bio)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/e/execuitive-team-member-lp/29345/589861",
+      "doc_type": "Official biographies",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Board of Directors bio pages (director-1 to director-5)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/w/director-2",
+      "doc_type": "Official biographies",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "SNB Capital Company consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/documents/529288/0/SNBC+Signed+FS+-+31+Dec+25+%281%29.pdf/9e794cf6-f9e6-ce23-b95f-82dc87cfdc86?t=1774881938856",
+      "doc_type": "Audited financial statements (Deloitte & Touche; report dated 12 Mar 2026)",
+      "tier": 1,
+      "published": "2026-03-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "SNB Capital Annual Report 2025 (التقرير السنوي 2025)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/documents/529288/0/%D8%A7%D9%84%D8%AA%D9%82%D8%B1%D9%8A%D8%B1+%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A+2025.pdf/7b3e75f0-f2a2-6037-5670-000ace82b7a3?t=1774881938856",
+      "doc_type": "Annual report (Arabic; text layer garbled, read from page renders)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S6",
+      "title": "Saudi National Bank Annual Report 2025 (Capital Markets section)",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/-/jssmedia/project/snb/snb-web/about-us/02-9-previous-annual-reports/annual-reports-pdfs-en/snb-annual-report-2025-en.pdf?view=1",
+      "doc_type": "Parent annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "SNB 2Q 2026 Investor Presentation",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/-/media/Project/SNB/SNB-Web/About-us/02-1-Investor-Relations/financial-information/Investor-Presentations/Documents/English/SNB-2Q-2026-Investor-Presentation.pdf?view=1",
+      "doc_type": "Parent investor presentation",
+      "tier": 2,
+      "published": "2026-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "SNB unaudited condensed interim consolidated financial information, six months to 30 June 2026",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/-/media/project/snb/snb-web/about-us/02-1-Investor-Relations/Financial-Information/Financial-Statements/English/SNB-2Q-2026-Financials-English.pdf?view=1",
+      "doc_type": "Parent reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "About SNB Capital (licence and capital in footer)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/about",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Asset Management",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/asset-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Local Trading",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/local-trading",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Global Trading",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/global-trading",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "For all commission related to GTN (commission schedule, Arabic/English)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/documents/529288/1320525/For+all+commission+related+to+GTN.pdf/7162545d-1d46-fce3-9b81-c9edf2787ced?t=1756375608527",
+      "doc_type": "Official commission schedule (PDF linked from S12)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S14",
+      "title": "Wealth Management",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/wealth-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Idikhari Individual's Savings Plan",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/idikhari-individual-s-savings-plan",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Investment Advisory",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/investment-advisory",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Wealth Managers' Coverage",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/private-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Market Access Services",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/market-access-services",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "SNB Capital (DIFC)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/international-alternatives",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Public Equity Funds",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/equity-fund",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Liquidity Solutions and Fixed Income Funds",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/liquidity-solutions-and-fixed-income-funds",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Multi Asset Funds",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/multi-assets",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Alternative Investment Funds",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/alternative-investments-funds",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Strategic Initiatives",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/strategic-initiatives",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Media Center (press releases list)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/media",
+      "doc_type": "Official press-release listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "SNB Capital and Investcorp announce strategic partnership",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/w/prl-investcorp",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-02-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "SNB Capital and Orion announce strategic partnership in mining",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/w/prl-orion",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-01-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Namaa Endowment Fund launched; SNB Capital appointed fund manager",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/w/prl-the-namaa-endowment-fund",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-02-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "SNB Capital signs MoU with Mala'a Technologies",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/w/prl-for-snb-capital-megatrends",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "SNB Capital enters into partnership with Malaa Technologies",
+      "publisher": "GCC Business News",
+      "url": "https://www.gccbusinessnews.com/?p=93306",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2024-02-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "SNB Capital app listing (Apple App Store, via Apple's iTunes lookup API for id1545107874, Saudi storefront)",
+      "publisher": "Apple App Store (seller: The Saudi National Bank)",
+      "url": "https://apps.apple.com/sa/app/snb-capital/id1545107874",
+      "doc_type": "Official app listing (metadata read through https://itunes.apple.com/lookup?id=1545107874&country=sa)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S32",
+      "title": "Reports and publications",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/reports-and-publications",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S33",
+      "title": "Awards",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/awards",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S34",
+      "title": "Organizational structure",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/organizational-chart",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S35",
+      "title": "SNB Capital homepage",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S36",
+      "title": "GCC Business News tag page: SNB Capital (headline list incl. BNY Mellon data platform, 20 Dec 2021)",
+      "publisher": "GCC Business News",
+      "url": "https://www.gccbusinessnews.com/tag/snb-capital/",
+      "doc_type": "News listing",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S37",
+      "title": "Saudi investment firm installs Fidessa trading system (NCB Capital)",
+      "publisher": "The TRADE",
+      "url": "https://www.thetradenews.com/?p=48772",
+      "doc_type": "Trade news (undated)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Operating income, net income, total assets: standalone vs parent segment",
+      "detail": "SNB Capital's audited FS show FY2025 total operating income SAR 4,122,069k, net income before zakat SAR 2,697,869k and total assets SAR 32,958,184k. SNB's annual report shows the Capital Markets segment at operating income SAR 2,422m, net income before zakat SAR 1,731m and total assets SAR 33,634m. SNB Capital's own annual report quotes net income before zakat of SAR 2.69bn (standalone).",
+      "resolution": "Used the standalone audited FS as the primary figures; recorded the parent segment figures as separate 'parent_segment_*' proxies. The gap (investment and treasury income, inter-segment items) was not reconciled in the sources.",
+      "source_ids": [
+        "S4",
+        "S6",
+        "S5"
+      ]
+    },
+    {
+      "field": "New products launched in 2025",
+      "detail": "SNB annual report says Asset Management launched 18 new products; SNB Capital's annual report says it launched more than twenty products and its key-figures page says 20 new funds.",
+      "resolution": "Both recorded in the initiatives line. Unresolved; likely differing scope (funds vs products).",
+      "source_ids": [
+        "S6",
+        "S5"
+      ]
+    },
+    {
+      "field": "Assets under custody, end-2025",
+      "detail": "SNB Capital's key-figures page shows SAR 155bn assets under custody; SNB's annual report says AUC reached SAR 156bn.",
+      "resolution": "Used SNB Capital's own figure (155bn) and noted the other. Minor.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "field": "AUM market share",
+      "detail": "SNB Capital's annual report gives 23%+ market share of AUM (end-2025); SNB's 2Q26 deck gives 22% at 1Q 2026 (SAR 279bn of SAR 1,286bn).",
+      "resolution": "Different dates; both noted. Minor.",
+      "source_ids": [
+        "S5",
+        "S7"
+      ]
+    },
+    {
+      "field": "Executive roles (AR 2025 vs website)",
+      "detail": "AR 2025 lists Mohammed Al-Saggaf as head of wealth, Naif Al-Saif as head of private investments and funding, Loai Bafaqeeh as head of securities and acting IT head, Khalid Al-Bairakan as head of asset management and Abdulrahman Almashal as 'Chief Administrator'. The website (12 Oct 2026) shows March 2026 appointments (Al-Saggaf, Al-Saif, Al Ali), Jalal Faruki as Head of Securities, Bafaqeeh as Chief Digital Officer, Alghursan as Acting Chief of Staff, and no head of asset management or wealth management.",
+      "resolution": "Used the website for the current roster. Al-Bairakan and Almashal recorded as 'Requires verification'.",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "Idikhari scope",
+      "detail": "The wealth management page describes Idikhari as a corporate savings initiative for employees; the Idikhari page describes an individual goal-based savings plan; the AR counts about 90,000 employees in the programme.",
+      "resolution": "Treated as one programme with corporate and individual channels. Minor.",
+      "source_ids": [
+        "S14",
+        "S15",
+        "S5"
+      ]
+    }
+  ],
+  "open_items": [
+    "No 30 Jun 2026 standalone statements or AUM: SNB Capital publishes annual statements only. Balance sheet and income are FY2025; H1 2026 data comes from the parent's segment note and presentation (proxies) and AUM is 1Q 2026.",
+    "Head of Asset Management and Head of Wealth Management not identified: the AR 2025 lists Khalid Al-Bairakan (asset management) and Mohammed Al-Saggaf (wealth) but the website no longer lists either role. Check for a March 2026 reorganisation announcement (Saudi Exchange issuer announcements returned no result in search; not fetched, 403 risk).",
+    "LinkedIn checks for CEO, wealth, securities, digital and investments heads returned no matching profiles; all marked 'Not verified'. Unrelated LinkedIn results in the same searches (a 'Head of Investment Advisory and Solutions' appointed May 2026; two other profiles describing wealth and multi-asset leadership roles) were not matched to an official source and are not recorded.",
+    "'GTN' vendor identity not stated on the site (only a commission schedule label); the Android package ID 'it.elfisystems.gbs.ncbc.phone' and iOS bundle ID 'com.alahlitadawul.gbs.mobile' suggest a third-party brokerage app vendor but no source confirms it. An undated trade-news item (seen in search results only) reports NCB Capital implementing Fidessa; current stack unconfirmed.",
+    "The robo-advisory platform mentioned in SNB's AR 2025 had no launch announcement found; scope (client-facing vs adviser tool) unknown.",
+    "Total client numbers, app users and employee headcount not disclosed. SNB Capital (DIFC) AUM (over SAR 7.5bn) is undated; DFSA licence number and register entry not checked.",
+    "CMA authorised-persons register entry not checked directly (licence 37-06046 taken from the firm's own site and FS); Saudi Exchange pages not used.",
+    "SNB Capital's Arabic annual report has a garbled text layer; figures were read from page renders (PDF p.5, 6, 8, 18). Pages on organisational structure, awards and product listings were summarised by the fetch tool, so exact fund counts are 'as listed on the website' and may omit funds shown only in PDFs. One fetched page (organizational chart) returned a note that its text contained a hidden formatting-instruction section; it was ignored.",
+    "Parent file sa-snb says 'Mala'a MoU' and 'BNY Mellon' relate to SNB Capital: confirmed here as a Feb 2024 MoU (status unknown now) and a Dec 2021 headline respectively; the parent's 'IBKR, GTN' leads are confirmed only as commission-schedule labels."
+  ],
+  "research_status": "Complete",
+  "researched_by": "R3",
+  "checked": "2026-10-12"
+}

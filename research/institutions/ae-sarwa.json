@@ -1,0 +1,1046 @@
+{
+  "id": "ae-sarwa",
+  "name": "Sarwa",
+  "short_name": "Sarwa",
+  "legal_name": "Sarwa Digital Wealth (Capital) Limited",
+  "name_ar": "ثروة",
+  "country": "AE",
+  "hq_city": "Abu Dhabi",
+  "website": "https://www.sarwa.co",
+  "linkedin_company": "https://www.linkedin.com/company/sarwa/",
+  "category": "Non-bank",
+  "type": "Digital wealth platform",
+  "model": "Conventional",
+  "founded": "2017 (founded in Dubai by Mark Chahwan, Jad Sayegh and Nadine Mezher; first clients onboarded in 2018 under a DFSA Innovation Testing Licence)",
+  "regulators": [
+    "FSRA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Privately held, venture-backed. Disclosed rounds: USD 1.3m pre-Series A (2018; Shorooq, MEVP, 500 Startups and others), USD 8.4m Series A (Jan 2020, led by KIPCO with DIFC, Abu Dhabi Investment Office, Vision Ventures, Hambro Perks) and USD 15m Series B (Aug 2021, led by Mubadala; total raised about USD 25m at that date). No later priced round found as of 12 Oct 2026. Shareholding percentages are not disclosed. The 2023 regulatory cases refer to an unnamed 'parent entity' whose shares were offered to clients.",
+  "shareholders": [
+    {
+      "holder": "Mubadala Investment Company (led USD 15m Series B, Aug 2021; representative joined board; stake not disclosed)",
+      "pct": null,
+      "as_of": "2021-08-09",
+      "source_ids": [
+        "S18"
+      ]
+    },
+    {
+      "holder": "Kuwait Projects Company (KIPCO) (led USD 8.4m Series A, Jan 2020; participated in Series B; stake not disclosed)",
+      "pct": null,
+      "as_of": "2021-08-09",
+      "source_ids": [
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "holder": "500 Global (500 Startups) (pre-Series A and Series B investor; representative joined board 2021; stake not disclosed)",
+      "pct": null,
+      "as_of": "2021-08-09",
+      "source_ids": [
+        "S18"
+      ]
+    },
+    {
+      "holder": "Other listed backers (stakes not disclosed): Shorooq Partners, MEVP, DIFC FinTech Fund, Abu Dhabi Investment Office, ADQ, Hambro Perks, HALA Ventures, Vision Ventures, Phoenician VC, Saned Partners",
+      "pct": null,
+      "as_of": "2026-10-12",
+      "source_ids": [
+        "S2",
+        "S18",
+        "S19"
+      ]
+    }
+  ],
+  "government_link": "Indirect minority backing only (stakes undisclosed): Mubadala (Abu Dhabi sovereign investor) led the 2021 Series B; DIFC FinTech Fund and Abu Dhabi Investment Office invested in 2020; ADQ is listed as a backer on the company's About page (checked 2026-10-12).",
+  "group_structure": "Operates through Sarwa Digital Wealth (Capital) Limited, an ADGM private company limited by shares, FSRA firm reference 190037, authorised 20 Feb 2020 (Managing Assets; Advising on Investments or Credit; Arranging Deals in Investments). A DIFC entity, Sarwa Digital Wealth Limited (DFSA ref F004501), is shown on the DFSA register as a withdrawn authorised firm from 14 Jun 2024, per a DFSA register search snippet (page not opened, 403). The ultimate holding company is not named in any source opened. Saudi CMA granted 'Sarwa' a FinTech Experimental Permit for robo-advisory on 5 Jan 2021; current status unknown.",
+  "subsidiaries": [
+    {
+      "name": "Sarwa Digital Wealth (Capital) Limited (ADGM) — operating, FSRA-regulated entity",
+      "pct": null,
+      "activity": "Digital investing, managed portfolios, brokerage arrangement, cash management (FSRA Category 3C)",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "name": "Sarwa Digital Wealth Limited (DIFC) — DFSA authorisation withdrawn 14 Jun 2024",
+      "pct": null,
+      "activity": "Former DFSA-authorised entity (Innovation Testing Licence 2017–2018, then full licence)",
+      "linked_id": null,
+      "source_ids": [
+        "S22",
+        "S24"
+      ]
+    }
+  ],
+  "footprint": "UAE only for live services (registered office Al Khatem Tower, ADGM, Abu Dhabi; company says it also has a Dubai location). Saudi CMA experimental permit granted Jan 2021, but no Saudi launch evidenced. Checked 2026-10-12.",
+  "customer_segments": "UAE retail and mass-affluent self-directed and passive investors (minimum USD 500); affluent and HNW tiers by balance: Platinum (>USD 100k), Private Wealth (>USD 500k), Legacy (>USD 5m).",
+  "business_lines": "Sarwa Invest (automated managed ETF portfolios: Conventional, Socially Responsible, Crypto, Halal); Sarwa Trade (self-directed US stocks/ETFs, fractional shares; options L2 since Oct 2024); Sarwa Crypto (crypto trading under Sarwa Trade); Sarwa Save (cash management via money market funds, incl. a Halal option in the Emirates Islamic Money Market Fund); Sarwa Private Wealth (launched early 2025 for >USD 500k, dedicated advisors, financial planning, tax optimisation); Black Swan Protection Program (tail-risk hedge with Universa Investments, 2025).",
+  "metrics": [
+    {
+      "metric": "wealth_client_assets",
+      "value": 1,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2026-05-04",
+      "period_label": "May 2026 (announced 4 May 2026)",
+      "period_type": "point_in_time",
+      "scope": "All Sarwa products (Invest, Trade, Crypto, Save)",
+      "definition": "Client assets, company definition: fair value of all client holdings including equities, options, cryptocurrencies and cash across Sarwa Invest, Sarwa Trade, Sarwa Crypto and Sarwa Save",
+      "status": "Verified",
+      "locator": "",
+      "note": "Unaudited company claim ('crossed USD 1bn'). Includes self-directed and cash holdings, so it is not discretionary AUM. Some outlets call it 'AUM' (Forbes ME, FF News).",
+      "source_ids": [
+        "S14",
+        "S15",
+        "S17"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 880,
+      "unit": "million",
+      "currency": "USD",
+      "period_end": "2025-12-31",
+      "period_label": "End 2025",
+      "period_type": "point_in_time",
+      "scope": "Sarwa platform",
+      "definition": "Labelled 'assets under management' by the company blog; scope not defined",
+      "status": "Requires verification",
+      "locator": "Company history section",
+      "note": "Unaudited company claim. The company appears to use 'AUM' and 'client assets' for the same broad measure (see client_assets definition), so this is probably total client assets, not discretionary AUM.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 300000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "By December 2025",
+      "period_type": "point_in_time",
+      "scope": "Sarwa platform",
+      "definition": "Registered users ('surpassed 300,000 registered users'); funded/active clients not disclosed",
+      "status": "Requires verification",
+      "locator": "Sarwa entry, Fintech 50 2026",
+      "note": "Company-supplied figure reported by Forbes Middle East; not found on Sarwa's own pages. Earlier: 10,000 registered users (Jan 2020, S19); 40,000+ (Aug 2021, S18).",
+      "source_ids": [
+        "S17"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 3,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025 (company: 'in a single year')",
+      "period_type": "duration",
+      "scope": "Sarwa platform",
+      "definition": "Trading volume (company claim)",
+      "status": "Conflicting sources",
+      "locator": "",
+      "note": "Company blog says USD 3bn trading volume in a single year (2025). Forbes ME says 'nearly USD 3bn' by Dec 2025 without saying whether that is cumulative. Alpaca said in Oct 2024 that Sarwa had passed USD 3bn total (cumulative) volume through Alpaca. Treat as indicative.",
+      "source_ids": [
+        "S4",
+        "S17",
+        "S21"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "total_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Private company. No financial statements on sarwa.co (About, blog, product pages), ADGM FSRA register entry (S3) or press coverage 2024–2026; checked 2026-10-12."
+    },
+    {
+      "metric": "operating_income",
+      "status": "Not publicly disclosed",
+      "where_checked": "sarwa.co blog (S4) gives only qualitative claims (first quarterly profit announced May 2024 with 33% net margin; full-year profitability 2025); no revenue figure published. Press 2026 (S14–S17)."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not publicly disclosed",
+      "where_checked": "As above. Profitability claims are qualitative and unaudited (S4, S15)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "Funded/active client count not found on sarwa.co, in the May 2026 USD 1bn releases (S14–S16) or in Forbes ME (S17). Only registered users are disclosed."
+    },
+    {
+      "metric": "employees",
+      "status": "Not publicly disclosed",
+      "where_checked": "sarwa.co About page (S2); only third-party estimates exist, which are not cited."
+    }
+  ],
+  "people": [
+    {
+      "name": "Mark Chahwan",
+      "name_ar": null,
+      "title": "Co-founder and Group Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Sarwa",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2017",
+      "appointed_note": "Co-founder and CEO since founding; titled 'Group CEO' in May 2026 releases.",
+      "previous_roles": "Before Sarwa: banking, wealth management and strategy roles (Entrepreneur ME, Jul 2026, S25). LinkedIn search snippet (profile not opened) lists strategy consultant at Accenture (Montreal), plus Caisse de dépôt et placement du Québec and BLOMINVEST Bank. Was a DFSA-registered director/senior executive officer of the withdrawn DIFC entity (DFSA register snippet, S24).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/markchahwan/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as Group CEO and Co-founder in the DIFC/Dubai Media Office release of 4 May 2026 (S14) and FF News, 10 May 2026 (S15). LinkedIn search result headline 'Co-Founder & Group CEO at Sarwa' (S27). No departure news found; checked 2026-10-12.",
+      "source_ids": [
+        "S14",
+        "S15",
+        "S25",
+        "S27",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jad Sayegh",
+      "name_ar": null,
+      "title": "Co-founder and Chief Technology Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Sarwa",
+      "business_unit": "Technology",
+      "scope": "Group",
+      "appointed": "2017",
+      "appointed_note": "Co-founder; CTO title in releases from 2024 to 2026.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/jadsayegh/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as Co-founder and CTO in the 4 May 2026 DIFC release (S14) and Entrepreneur ME (S16). Alpaca options release, Oct 2024 (S21). No departure news found; checked 2026-10-12.",
+      "source_ids": [
+        "S14",
+        "S16",
+        "S21",
+        "S28"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nadine Mezher",
+      "name_ar": null,
+      "title": "Co-founder; Executive Board Director (per LinkedIn); formerly Chief Marketing Officer",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Sarwa",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2017",
+      "appointed_note": "Co-founder. LinkedIn search snippet shows she has also been co-founder and CEO of NAWA since Jul 2025.",
+      "previous_roles": "Co-founder and CMO of Sarwa (2017 to an undated change; CMO in 2021 lists).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/nadine-mezher/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Conflicting sources",
+      "role_evidence": "FF News (10 May 2026, S15) calls her 'previous CMO'. LinkedIn search snippet (S29) shows 'Co-Founder & Executive Board Director at Sarwa' and co-founder/CEO of NAWA from Jul 2025. Entrepreneur ME (29 Jul 2026, S25) still lists her as CMO, which looks stale. No official Sarwa leadership page exists.",
+      "source_ids": [
+        "S15",
+        "S25",
+        "S29"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Robin Harb",
+      "name_ar": null,
+      "title": "Chief Product Officer",
+      "functions": [
+        "Digital"
+      ],
+      "entity": "Sarwa",
+      "business_unit": "Product",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": "Consultant, McKinsey & Company (2+ years), per one-fs newsletter co-written with Sarwa's CEO (S26).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/robin-harb-46256a8b/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Requires verification",
+      "role_evidence": "Called 'Chief Product Officer at Sarwa' in one-fs newsletter, 29 Jun 2025 (S26), and in the LinkedIn search headline (S30). Not named on any official Sarwa page and no 2026 source found.",
+      "source_ids": [
+        "S26",
+        "S30"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Osama Al Ghoussein",
+      "name_ar": null,
+      "title": "Board member (KIPCO representative; Senior Vice President, Banking at KIPCO in Jan 2020)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Sarwa",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Described as a Sarwa board member at the Jan 2020 Series A.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Only source is The National, 26 Jan 2020 (S19). Sarwa publishes no board list. The 2021 Series B added Mubadala and 500 Startups representatives (unnamed, S18).",
+      "source_ids": [
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Sarwa is an ADGM-regulated (FSRA Category 3C) direct-to-consumer investing app. It says it passed USD 1bn of client assets in May 2026 and 300,000 registered users by Dec 2025 (unaudited company claims). Sarwa Invest offers automated ETF portfolios (Conventional, SRI, Crypto with 5% Bitcoin, Halal) built from Vanguard/BlackRock ETFs, with fees falling from 0.85% to 0.4% by balance tier. Sarwa Trade gives US stocks/ETFs, fractional shares and US options (Level 2, since Oct 2024) through Alpaca's Broker API. Sarwa Save invests cash in money market funds, including a Halal option in the Emirates Islamic Money Market Fund. Sarwa Private Wealth (early 2025, >USD 500k) adds dedicated advisors, financial planning and 'public & private asset classes'. A Black Swan Protection Program with Universa Investments (2025) is available from the Platinum tier. All products are US-market or global ETF based: no UAE/GCC equities, bonds or structured products were found.",
+    "segments": [
+      {
+        "name": "Standard",
+        "tier": "Mass market",
+        "eligibility": "Balances under USD 100,000; 0.85% annual fee (USD 7/month minimum); minimum USD 500 (Conventional/Halal) or USD 2,500 (SRI/Crypto)",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "name": "Platinum",
+        "tier": "Affluent",
+        "eligibility": "Balances over USD 100,000; 0.7% fee; includes Black Swan Protection access",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "name": "Private Wealth",
+        "tier": "HNW",
+        "eligibility": "Balances over USD 500,000; 0.5% fee; dedicated advisor (launched early 2025)",
+        "source_ids": [
+          "S6",
+          "S7",
+          "S17"
+        ]
+      },
+      {
+        "name": "Legacy",
+        "tier": "HNW / UHNW",
+        "eligibility": "Balances over USD 5,000,000; 0.4% fee; dedicated advisor",
+        "source_ids": [
+          "S6",
+          "S7"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Not a bank ('Sarwa is not a bank'). Sarwa Private Wealth, launched early 2025 for clients with >USD 500k, gives a dedicated wealth advisor (one advisor named on the product page), financial planning, tax optimisation, a professional network (wills, real estate, home financing, legal, tax) and portfolios built by the in-house investment team.",
+      "source_ids": [
+        "S7",
+        "S17",
+        "S1"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "FSRA permission 'Managing Assets' (effective 20 Feb 2020). In-house investment team runs automated model portfolios (Sarwa Invest) and Private Wealth mandates. No own-branded funds found. The company labels end-2025 assets as USD 880m 'AUM' and May 2026 client assets as USD 1bn (broad measures, see metrics).",
+      "source_ids": [
+        "S3",
+        "S6",
+        "S7",
+        "S4"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Sarwa Trade (launched 2022): 10,000+ US stocks and ETFs on the product page (llms.txt says 5,000+), fractional shares, market/limit orders, USD 1 or 0.25% commission, USD 500 minimum, free AED local transfers. US options (Level 1–2, USD 4 per contract) since Oct 2024. Execution and clearing by Alpaca Securities through the Broker API (fully disclosed); safety page says Trade assets are held with BMO Harris. FSRA permission 'Arranging Deals in Investments'. US markets only.",
+      "source_ids": [
+        "S9",
+        "S10",
+        "S11",
+        "S21",
+        "S5",
+        "S3",
+        "S12"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Sarwa mobile app and web app (English/Arabic): Invest, Trade, Crypto, Save and Private Wealth in one account, funded from UAE AED accounts at zero cost. Onboarding is fully digital.",
+      "source_ids": [
+        "S1",
+        "S12",
+        "S9"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "FSRA permission 'Advising on Investments or Credit' (effective 16 Aug 2020). Human advice through dedicated Private Wealth/Legacy advisors; automated advice through Sarwa Invest.",
+      "source_ids": [
+        "S3",
+        "S7"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Sarwa Invest is automated discretionary portfolio management (risk-based ETF portfolios, smart rebalancing, dividend reinvestment). Private Wealth portfolios are managed by the in-house team. Saudi CMA ExPermit (Jan 2021) covered automated discretionary management.",
+      "source_ids": [
+        "S6",
+        "S7",
+        "S20"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Robo-advisor since 2018. Four portfolio families: Conventional (Vanguard and BlackRock ETFs), Socially Responsible (screened ETFs), Crypto (conventional or SRI plus 5% Bitcoin) and Halal (sukuk, gold ETCs, Shariah-compliant ETFs). Risk slider runs 0–7.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No third-party mutual fund shelf. Sarwa Save puts cash into money market funds (Save+: unnamed MMF, est. 3.8%; Halal: Emirates Islamic Money Market Fund, est. 4.2%, before a 0.5% fee).",
+      "source_ids": [
+        "S8",
+        "S11"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found on product, pricing or Private Wealth pages. The Black Swan Protection Program is an options-based tail hedge run with Universa (2% of protected amount for about 12 months; USD 50k minimum, per help-centre search snippet), not a structured note.",
+      "source_ids": [
+        "S7",
+        "S9",
+        "S11"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "The Private Wealth page and llms.txt say clients can invest across 'public & private asset classes' / 'public and private market access', but no private-markets product, manager or vehicle is named.",
+      "source_ids": [
+        "S7",
+        "S12"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Halal robo portfolios (sukuk, gold ETCs, Shariah-compliant ETFs) and a Halal Save option (Emirates Islamic Money Market Fund). Sarwa states it does NOT hold an FSRA Islamic Window endorsement.",
+      "source_ids": [
+        "S6",
+        "S8",
+        "S1"
+      ]
+    },
+    "asset_classes": [
+      "US/international equities",
+      "ETFs",
+      "Options (US-listed)",
+      "Sukuk",
+      "Gold / precious metals",
+      "Crypto / digital assets",
+      "Money market funds"
+    ],
+    "partners": [
+      {
+        "partner": "Alpaca (Alpaca Securities / Broker API)",
+        "kind": "Execution / clearing / brokerage API",
+        "what": "US equities and crypto since 2021; Level 1–2 options launched Oct 2024 (fully disclosed relationship)",
+        "date": "2024-10-09",
+        "status": "Live",
+        "source_ids": [
+          "S21",
+          "S5"
+        ]
+      },
+      {
+        "partner": "Saxo Bank",
+        "kind": "Custody / platform technology",
+        "what": "Named as custodian bank for Sarwa Invest and Save (safety page) and 'our selected partner' (2026 blog). The 2020 partnership to power 'Sarwa X' was seen in search results only.",
+        "date": "2020-11",
+        "status": "Live",
+        "source_ids": [
+          "S5",
+          "S4"
+        ]
+      },
+      {
+        "partner": "BMO Harris (BMO Financial Group)",
+        "kind": "Custody",
+        "what": "Safety page says Sarwa Trade assets are held with BMO Harris; the page dates from 2020 and may be out of date",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "partner": "Alpaca Crypto / Fireblocks",
+        "kind": "Crypto execution and custody",
+        "what": "Sarwa Crypto runs through Alpaca Crypto, which holds custody with Fireblocks",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "partner": "Universa Investments",
+        "kind": "Product partner (tail-risk hedging)",
+        "what": "Designs and runs the Black Swan Protection Program (Nassim Taleb named as adviser)",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S4",
+          "S7"
+        ]
+      },
+      {
+        "partner": "Emirates Islamic (Emirates Islamic Money Market Fund)",
+        "kind": "Underlying fund",
+        "what": "Underlying asset of Halal Sarwa Save",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S8"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-01-05",
+        "what": "Saudi CMA granted Sarwa a FinTech Experimental Permit to test robo-advisory and automated discretionary management in KSA (current status unknown)",
+        "source_ids": [
+          "S20"
+        ]
+      },
+      {
+        "date": "2021-08-09",
+        "what": "USD 15m Series B led by Mubadala; plans included Sarwa Trade and Sarwa Crypto",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "date": "2024-05-21",
+        "what": "DFSA (USD 191,100) and FSRA (USD 122,500 plus a required governance review) penalties over a 2023 offer of securities linked to parent-entity shares to clients without an approved prospectus (about 144 investors, about USD 2.1m, all reversed)",
+        "source_ids": [
+          "S3",
+          "S22",
+          "S23"
+        ]
+      },
+      {
+        "date": "2024-06-14",
+        "what": "DIFC entity Sarwa Digital Wealth Limited shown as withdrawn on the DFSA register (search snippet)",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "date": "2024-10-09",
+        "what": "Launched US options trading (Level 1–2) via Alpaca; claims first fintech in the Middle East to do so",
+        "source_ids": [
+          "S21",
+          "S10"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched Sarwa Private Wealth (early 2025, >USD 500k) and the Black Swan Protection Program with Universa Investments",
+        "source_ids": [
+          "S17",
+          "S4",
+          "S7"
+        ]
+      },
+      {
+        "date": "2025-11-18",
+        "what": "Time-limited uncapped 3% match on transfers of USD 20k+ from other brokers into Sarwa Trade (18 Nov–2 Dec 2025)",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "date": "2026-05-04",
+        "what": "Announced it had crossed USD 1bn in client assets, 'first homegrown UAE fintech' to do so",
+        "source_ids": [
+          "S14",
+          "S15",
+          "S16"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Product shelf is US stocks/ETFs/options, global ETF robo portfolios, crypto and MMF cash. No structured products, bonds (other than inside ETF/sukuk portfolios) or named private-markets products found (S6, S7, S9, S11).",
+        "Moving upmarket: Private Wealth (>USD 500k) and Legacy (>USD 5m) tiers with dedicated advisors launched early 2025, claiming 'public & private asset classes' with no named private-markets vehicle (S6, S7, S17).",
+        "Scale claims: USD 1bn client assets (May 2026) and 300,000 registered users (Dec 2025); company says it was profitable for full-year 2025 (S4, S14, S17).",
+        "Halal demand served only through Halal ETF portfolios and an Emirates Islamic MMF; no FSRA Islamic Window endorsement (S1, S6, S8)."
+      ],
+      "barriers": [
+        "Direct-to-consumer platform built in-house under a co-founder CTO; competes for UAE retail investors rather than distributing through banks (S14, S26).",
+        "Execution, custody and crypto infrastructure already in place: Alpaca Broker API, Saxo Bank, BMO Harris, Fireblocks (S5, S21).",
+        "Regulatory history: 2024 DFSA and FSRA penalties; FSRA required an independent governance review; DIFC licence withdrawn Jun 2024 (S3, S22, S24).",
+        "Small, founder-led management with no published leadership or board page (S2)."
+      ],
+      "incumbent_vendors": [
+        "Alpaca — Broker API for US equities, options and crypto (S21, S5)",
+        "Saxo Bank — custodian for Invest/Save; 2020 platform partnership (S5, S4)",
+        "Fireblocks — crypto custody via Alpaca Crypto (S5)",
+        "Universa Investments — Black Swan Protection Program (S7)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Sarwa | Invest, Trade and Save (homepage, incl. regulatory footer)",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "About Sarwa",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/en/about",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "FSRA Public Register: Sarwa Digital Wealth (Capital) Limited (FSP 190037)",
+      "publisher": "ADGM Financial Services Regulatory Authority",
+      "url": "https://www.adgm.com/public-registers/fsra/fsf/sarwa-digital-wealth-capital-limited",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "What Is Sarwa? A Complete Guide to the UAE's All-in-One Investment Platform",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/blog/what-is-sarwa-and-how-does-it-work",
+      "doc_type": "Official blog (company claims)",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Is Sarwa safe? (custody and regulation explainer)",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/blog/is-sarwa-safe/",
+      "doc_type": "Official blog",
+      "tier": 2,
+      "published": "2020-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Sarwa Invest product page",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/en/product/invest",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Sarwa Private Wealth product page",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/en/product/invest/private-wealth",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Sarwa Save product page",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/en/product/save",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Sarwa Trade product page",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/en/product/trade",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Sarwa Options trading page",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/en/product/trade/options",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Sarwa pricing",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/en/pricing",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Sarwa llms.txt (machine-readable company summary)",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/llms.txt",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Three Percent Match offer",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/en/three-percent-match",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": "2025-11-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Founded in DIFC, UAE's Sarwa Hits USD 1 Billion in Assets Amid Retail Trading Surge (DIFC Authority release)",
+      "publisher": "Dubai Media Office",
+      "url": "https://mediaoffice.ae/en/news/2026/may/04-05/founded-in-difc-uaes-sarwa-hits-usd-1-billion-in-assets-amid-retail-trading-surge",
+      "doc_type": "Press release (DIFC Authority; quotes Sarwa executives)",
+      "tier": 2,
+      "published": "2026-05-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Sarwa Reaches $1B in Client Assets, a First for a Homegrown UAE Fintech",
+      "publisher": "FF News",
+      "url": "https://ffnews.com/newsarticle/tradetech/sarwa-reaches-1b-in-client-assets-a-first-for-a-homegrown-uae-fintech/",
+      "doc_type": "News (republished company release)",
+      "tier": 5,
+      "published": "2026-05-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "UAE-Based Sarwa Becomes First Homegrown Fintech To Reach US$1 Billion in Assets",
+      "publisher": "Entrepreneur Middle East",
+      "url": "https://mena.entrepreneur.com/business-news/uae-based-sarwa-becomes-first-homegrown-fintech-to-reach-us1-billion-in-assets",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-05-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Sarwa — The Middle East's Fintech 50 2026 (No. 19)",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/the-middle-easts-fintech-50-2026/sarwa/",
+      "doc_type": "News / ranking list",
+      "tier": 5,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Sarwa closes $15 million Series B round led by Mubadala",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2021/08/sarwa-closes-15-million-series-b-round-led-mubadala",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-08-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Robo-advisory Sarwa sets eye on Abu Dhabi as it raises $8.4m in new financing",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/money/rob-advisory-sarwa-sets-eye-on-abu-dhabi-as-it-raises-8-4m-in-new-financing-1.967656",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2020-01-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "CMA grants Sarwa a Financial Technology Experimental Permit (CMA_N_2840)",
+      "publisher": "Capital Market Authority (Saudi Arabia)",
+      "url": "https://cma.gov.sa/en/MediaCenter/NEWS/pages/CMA_N_2840.aspx",
+      "doc_type": "Regulator announcement",
+      "tier": 3,
+      "published": "2021-01-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Sarwa first fintech to launch Options Trading in the Middle East",
+      "publisher": "Alpaca",
+      "url": "https://alpaca.markets/blog/sarwa-first-fintech-to-launch-options-trading-in-the-middle-east/",
+      "doc_type": "Partner press release / blog",
+      "tier": 2,
+      "published": "2024-10-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "DFSA fines Sarwa Digital Wealth Limited for making a public offer of shares without an approved prospectus",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/news/dfsa-fines-sarwa-digital-wealth-limited-making-public-offer-shares-without-approved-prospectus",
+      "doc_type": "Regulator enforcement notice",
+      "tier": 3,
+      "published": "2024-05-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "ADGM's financial regulator fines Sarwa Digital Wealth (Capital) Limited",
+      "publisher": "ADGM",
+      "url": "https://adgm.com/media/announcements/adgms-financial-regulator-fines-sarwa-digital-wealth-capital-limited",
+      "doc_type": "Regulator enforcement announcement",
+      "tier": 3,
+      "published": "2024-05-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "DFSA Public Register — individual: Mr Mark Chahwan (shows Sarwa Digital Wealth Limited, F004501, Authorised Firms (Withdrawn), 14-Jun-2024)",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://dfsa.ae/public-register/individuals/mr-mark-chahwan",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "The Finance Frontier 2026: Mark Chahwan, Nadine Mezher, and Jad Sayegh, Co-Founders, Sarwa",
+      "publisher": "Entrepreneur Middle East",
+      "url": "https://mena.entrepreneur.com/finance/the-finance-frontier-2026-mark-chahwan-nadine-mezher-and-jad-sayegh-co-founders-sarwa",
+      "doc_type": "News / profile",
+      "tier": 5,
+      "published": "2026-07-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "How Sarwa Built One of the UAE's Smoothest Fintech Products (interview with CPO Robin Harb)",
+      "publisher": "one-fs newsletter (co-written by Mark Chahwan)",
+      "url": "https://www.one-fs.com/p/how-sarwa-built-one-of-the-uaes-smoothest",
+      "doc_type": "Newsletter / interview",
+      "tier": 5,
+      "published": "2025-06-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "Mark Chahwan — Co-Founder & Group CEO at Sarwa (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/markchahwan/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Jad Sayegh — Sarwa (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jadsayegh/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "Nadine Mezher — Co-Founder at NAWA and Sarwa (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nadine-mezher/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "Robin Harb — Chief Product Officer at Sarwa (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robin-harb-46256a8b/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "ثروة | استثمار وتداول وادخار (Arabic homepage)",
+      "publisher": "Sarwa",
+      "url": "https://www.sarwa.co/ar",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Regulators / DFSA status",
+      "detail": "llms.txt (S12) still says Sarwa Digital Wealth Limited is DFSA-regulated, but the DFSA register (search snippet, S24) lists that firm as withdrawn from 14 Jun 2024. All current website footers name only FSRA (S1).",
+      "resolution": "Recorded FSRA as the only current regulator; DFSA status flagged for direct register check (register pages returned 403).",
+      "source_ids": [
+        "S12",
+        "S24",
+        "S1"
+      ]
+    },
+    {
+      "field": "FSRA endorsements",
+      "detail": "Sarwa says it holds Retail Client and Holding & Controlling Client Investments and Money endorsements (S1, S5), but the FSRA register page as retrieved showed 'Endorsements: none listed' (S3).",
+      "resolution": "Unresolved; probably a rendering limit of the register page. Licence category 3C and the three regulated activities are taken from the register.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "field": "AUM vs client assets",
+      "detail": "Blog labels USD 880m 'AUM' at end 2025 (S4). The May 2026 releases define the USD 1bn as client assets incl. self-directed holdings and cash (S15), while Forbes ME calls it 'client assets under management (AUM)' (S17).",
+      "resolution": "Recorded USD 1bn as client_assets (Verified as a company claim) and USD 880m as aum with 'Requires verification'.",
+      "source_ids": [
+        "S4",
+        "S15",
+        "S17"
+      ]
+    },
+    {
+      "field": "Trading volume",
+      "detail": "USD 3bn 'in a single year' 2025 (S4) vs 'nearly USD 3bn' by Dec 2025, unclear if cumulative (S17) vs USD 3bn+ cumulative through Alpaca by Oct 2024 (S21).",
+      "resolution": "Recorded as Conflicting sources.",
+      "source_ids": [
+        "S4",
+        "S17",
+        "S21"
+      ]
+    },
+    {
+      "field": "Profitability timing",
+      "detail": "Blog: first quarterly profit announced May 2024; full-year profitability reported at end 2025 (S4). FF News: raised USD 25m 'before reaching profitability in 2024' (S15).",
+      "resolution": "No audited figures; recorded only qualitatively in disclosure_checks.",
+      "source_ids": [
+        "S4",
+        "S15"
+      ]
+    },
+    {
+      "field": "Sarwa Trade universe and pricing",
+      "detail": "Trade page: 10,000+ US stocks & ETFs, USD 1 or 0.25% commission (S9, S11). llms.txt: 5,000+ and 'zero-commission' (S12).",
+      "resolution": "Used the product and pricing pages.",
+      "source_ids": [
+        "S9",
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "field": "Nadine Mezher title",
+      "detail": "CMO (Entrepreneur ME, Jul 2026) vs 'previous CMO' (FF News, May 2026) vs 'Executive Board Director' (LinkedIn snippet).",
+      "resolution": "role_status 'Conflicting sources'.",
+      "source_ids": [
+        "S25",
+        "S15",
+        "S29"
+      ]
+    }
+  ],
+  "open_items": [
+    "DFSA public register and DFSA/ADGM enforcement pages returned HTTP 403. Confirm the withdrawal of Sarwa Digital Wealth Limited (F004501, 14 Jun 2024) directly on the DFSA register.",
+    "No SCA (UAE onshore) licence found in English or Arabic searches. Sarwa serves UAE residents from ADGM only.",
+    "Regulatory basis for Sarwa Crypto is not established: the FSRA register lists no virtual-asset activity. Crypto is provided via Alpaca Crypto per the safety page.",
+    "Saudi CMA FinTech ExPermit (Jan 2021): current status (graduated, lapsed or active) not found.",
+    "No official leadership or board page. Other leaders named in LinkedIn snippets (e.g. Elizabeth Donaghy, Amen Ghebre) were not verified, and a 'Head of Investments' name surfaced only in a search summary and could not be confirmed.",
+    "Holding-company name and shareholder percentages not disclosed. The 2024 regulatory notices refer to a 'parent entity'; the ADGM final notice PDF could not be parsed.",
+    "Saxo Bank / BMO Harris custody statements come from a safety page first published Nov 2020 (© 2020–2026). Confirm the current custody set-up.",
+    "Mark Chahwan education/career details are only in a LinkedIn search snippet (profile not opened). Education left null."
+  ],
+  "research_status": "Complete",
+  "researched_by": "P3",
+  "checked": "2026-10-12"
+}

@@ -1,0 +1,1500 @@
+{
+  "id": "ae-cbd",
+  "name": "Commercial Bank of Dubai",
+  "short_name": "CBD",
+  "legal_name": "Commercial Bank of Dubai PSC",
+  "name_ar": "بنك دبي التجاري",
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.cbd.ae",
+  "linkedin_company": "https://www.linkedin.com/company/commercial-bank-of-dubai",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1969 (incorporated in Dubai on 4 July 1969 by Emiri Decree; became a national public shareholding company in 1982)",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "DFM",
+  "ticker": "CBD",
+  "parent_id": null,
+  "ownership_summary": "DFM-listed. At 31 Dec 2025 the Investment Corporation of Dubai (ICD) held 20% on behalf of the Government of Dubai; four other holders above 5% held 40.35%: Al Futtaim Private Co. LLC 17.46%, Orient Insurance PJSC 8.84%, Abdul Wahed Al Rostamani (AWR) Group 7.68% and Ghobash Trading & Investment Co. 6.37%; UAE nationals held 99.81% (AT1 prospectus 13 Jul 2026, S5; annual report 2025, S6; shareholder list updated Mar 2026, S10). Foreign ownership allowed up to 40% since Jun 2020.",
+  "shareholders": [
+    {
+      "holder": "Investment Corporation of Dubai (on behalf of the Government of Dubai)",
+      "pct": 20.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S6",
+        "S10",
+        "S9"
+      ]
+    },
+    {
+      "holder": "Al Futtaim Private Co. LLC",
+      "pct": 17.46,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S6",
+        "S10"
+      ]
+    },
+    {
+      "holder": "Orient Insurance PJSC",
+      "pct": 8.84,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S6",
+        "S10"
+      ]
+    },
+    {
+      "holder": "Abdul Wahed Al Rostamani (AWR) Group",
+      "pct": 7.68,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S6",
+        "S10"
+      ]
+    },
+    {
+      "holder": "Ghobash Trading & Investment Co.",
+      "pct": 6.37,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S6",
+        "S10"
+      ]
+    }
+  ],
+  "government_link": "Yes — 20% held by the Investment Corporation of Dubai on behalf of the Government of Dubai (as of 31 Dec 2025, S5). The prospectus states neither the Government nor ICD has a legal obligation to fund CBD. The Chairman and one other director were elected as ICD representatives (S6).",
+  "group_structure": "Commercial Bank of Dubai PSC plus wholly owned subsidiaries: CBD Financial Services LLC (local shares and bonds brokerage), Attijari Properties LLC (property management), CBD Digital Lab Limited (technology and R&D for the parent; listed in the Jul 2026 prospectus), SPVs CBD (Cayman) Ltd, CBD (Cayman II) Ltd and VS 1897 (Cayman) Ltd with three BVI subsidiaries holding assets acquired in settlement of debt; associate National General Insurance Co. PJSC (17.8%). Islamic products are offered through the 'CBD Al Islami' window (since 18 Sep 2008), not a separate bank (S1, S5, S9). No separately profiled subsidiaries, so no double counting.",
+  "subsidiaries": [
+    {
+      "name": "CBD Financial Services LLC",
+      "pct": 100.0,
+      "activity": "Brokerage for local shares and bonds (DFM and ADX)",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S16",
+        "S9"
+      ]
+    },
+    {
+      "name": "Attijari Properties LLC",
+      "pct": 100.0,
+      "activity": "Self-owned property management; buying and selling real estate",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "CBD Digital Lab Limited",
+      "pct": 100.0,
+      "activity": "Technology and research development for the parent",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "CBD (Cayman) Limited / CBD (Cayman II) Limited",
+      "pct": 100.0,
+      "activity": "SPVs for debt issuance and derivatives",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "name": "National General Insurance Co. PJSC",
+      "pct": 17.8,
+      "activity": "Associate: life and general insurance",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    }
+  ],
+  "footprint": "UAE only: 9 branches (6 in Dubai and 1 each in Abu Dhabi, Sharjah and Ras Al Khaimah), one sales office and 96 ATMs/CDMs, as at the 13 Jul 2026 prospectus (S5). Checked 2026-10-12.",
+  "customer_segments": "Institutional banking (large corporates, government, financial institutions), corporate banking (mid-sized and emerging corporates), personal banking (Essential, Elite, Private Banking tiers, plus business coverage and emerging corporate SME segments) and Islamic (CBD Al Islami) (S5, S14, S15).",
+  "business_lines": "Four reported segments: Institutional Banking, Corporate Banking, Personal Banking and Trading & Other. Personal Banking produced AED 2,450m (41.4%) of FY2025 operating income and AED 1,249m (43%) of H1 2026 operating income (S2, S1, S5). Wealth: Elite and Private Banking with relationship managers and an Elite Management Centre / Private Banking Centre in Dubai; CBD Invest digital investing (US stocks/ETFs via Saxo Bank, launched Jul 2026); local brokerage through CBD Financial Services LLC; bancassurance; gold and silver accounts. Wholesale: trade finance, cash management, treasury, investment banking (syndications, DCM) (S5, S11, S16).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 154504921,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets (segment note 22 total, reviewed interim statements); equals total liabilities AED 137,536,617k plus total equity AED 16,968,304k",
+      "status": "Verified",
+      "locator": "S1 note 22, printed p.33 (PDF p.35); S3 p.6 (PDF p.7) shows AED 154,505m",
+      "note": "The statement of financial position page in S1 is an image and could not be text-extracted; the figure is taken from the segment note and matches the MD&A.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 160308001,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, audited",
+      "status": "Verified",
+      "locator": "S2 PDF p.95 (liquidity table) and p.100; S1 note 22 comparative",
+      "note": "",
+      "source_ids": [
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 107703802,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total customer deposits and Islamic customer deposits (customer deposits AED 90,795,499k + Islamic customer deposits AED 16,908,303k); excludes due to banks (AED 9,078,432k)",
+      "status": "Verified",
+      "locator": "S1 note 12, printed p.26 (PDF p.28)",
+      "note": "MD&A rounds to AED 107.7bn; CASA 51% of deposits.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 111353040,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total customer deposits and Islamic customer deposits (audited comparative)",
+      "status": "Verified",
+      "locator": "S1 note 12 comparative column",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S6"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 104194162,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Net loans and advances and Islamic financing at amortised cost, net of ECL (AED 4,033,503k)",
+      "status": "Verified",
+      "locator": "S1 note 10, printed p.23 (PDF p.25)",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 101048972,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Net loans and advances and Islamic financing (audited comparative)",
+      "status": "Verified",
+      "locator": "S1 note 10 comparative column",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 108227665,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Gross loans and advances (AED 93,596,798k) and gross Islamic financing (AED 14,630,867k)",
+      "status": "Verified",
+      "locator": "S1 note 10, printed p.23",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 16968304,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity; Tier 1 capital notes of AED 2,203,800k were repaid in H1 2026 so none are included",
+      "status": "Verified",
+      "locator": "Statement of changes in equity, printed p.5 (PDF p.7)",
+      "note": "A USD 600m AT1 was issued on 15 Jul 2026, after the period end (S3, S4).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 5919300,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income' (net interest and Islamic financing income, net fees and commission, other operating income)",
+      "status": "Verified",
+      "locator": "S2 consolidated statement of profit or loss, PDF p.10",
+      "note": "",
+      "source_ids": [
+        "S2",
+        "S6"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 2900090,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', condensed consolidated interim statement of profit or loss",
+      "status": "Verified",
+      "locator": "S1 printed p.3 (PDF p.5)",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 3500102,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net profit for the year' (all subsidiaries wholly owned, so equal to profit attributable to equity holders; before deducting Tier 1 note interest of AED 132,228k used for EPS)",
+      "status": "Verified",
+      "locator": "S2 PDF p.10; EPS note PDF p.69",
+      "note": "Profit before tax AED 3,844,149k.",
+      "source_ids": [
+        "S2",
+        "S6"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 1715612,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net profit for the period' (profit before tax AED 1,885,319k less income tax AED 169,707k)",
+      "status": "Verified",
+      "locator": "S1 printed p.3 (PDF p.5)",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "personal_banking_operating_income",
+      "value": 2450406,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Segment: Personal Banking",
+      "definition": "Total operating income of the Personal Banking segment (segment note); 41.4% of group operating income",
+      "status": "Verified",
+      "locator": "S2 segment note, PDF p.74; S5 PDF p.78",
+      "note": "Segment covers retail, Elite, Private Banking and small business clients.",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "metric": "personal_banking_operating_income",
+      "value": 1248513,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Segment: Personal Banking",
+      "definition": "Total operating income of the Personal Banking segment; segment assets AED 28,566,476k at 30 Jun 2026",
+      "status": "Verified",
+      "locator": "S1 note 22, printed p.33-34 (PDF p.35-36)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "fiduciary_assets",
+      "value": 11846.1,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Assets held under fiduciary capacity on behalf of clients' (note 30). Not AUM and not labelled wealth client assets.",
+      "status": "Verified",
+      "locator": "S2 note 30, PDF p.70",
+      "note": "AED 10,478.4m at 31 Dec 2024.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 416098,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025 (annual report)",
+      "period_type": "point_in_time",
+      "scope": "Retail customers",
+      "definition": "'Total number of retail customers' (registered, not stated as active)",
+      "status": "Verified",
+      "locator": "Annual report 2025, 'CBD at a glance', PDF p.18",
+      "note": "The page does not state the exact date; taken as year-end 2025. 96% of retail customers registered digitally and 96% transacting digitally.",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 400000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "point_in_time",
+      "scope": "Active retail customers",
+      "definition": "'Active Customers 400k+ — serving an active retail customer base in the UAE'",
+      "status": "Verified",
+      "locator": "Investor presentation H1 2026, p.01 (PDF p.2)",
+      "note": "Lower bound, rounded ('400k+').",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 1149,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Employees (39% UAE nationals)",
+      "status": "Verified",
+      "locator": "S5 PDF p.70 and p.80",
+      "note": "1,187 at 31 Dec 2024.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 9,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-07-13",
+      "period_label": "Prospectus date, 13 Jul 2026",
+      "period_type": "point_in_time",
+      "scope": "UAE",
+      "definition": "Branches (plus one sales office and 96 ATMs/CDMs)",
+      "status": "Verified",
+      "locator": "S5 PDF p.80; S6 PDF p.18",
+      "note": "",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "H1 2026 interim statements (S1), FY2025 financial statements (S2; only note 30 fiduciary assets, recorded separately), H1 2026 MD&A (S3), H1 2026 investor presentation (S4), AT1 prospectus (S5), annual report 2025 (S6), CBD Invest, Elite and Private Banking pages (S11, S14, S15)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "S1-S6, Elite and Private Banking pages (S14, S15). No Elite/Private client balances or client counts published."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "CBD Invest page and KFS (S11, S12), launch coverage (S18, S19), investor presentation (S4), CBD Financial Services page (S16)."
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "S1, S2 (custody not separately disclosed; fiduciary assets only), S5."
+    }
+  ],
+  "people": [
+    {
+      "name": "H.E. Ahmad Abdulkarim Julfar",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2024-03-06",
+      "appointed_note": "Board member since Mar 2018; elected Chairman on 6 Mar 2024 as a representative of the Investment Corporation of Dubai; current term ends Mar 2027 (S6).",
+      "previous_roles": "2016–2024 Director General, Community Development Authority (Dubai); 2016–2018 board member, National Bank of Ras Al Khaimah; 1986–2016 Etisalat, Group CEO from 2011. Chairman of the Knowledge Fund; Vice Chairman of du and Union Cooperative Society (S5).",
+      "education": "Bachelor of Science in Civil Engineering and Computer Science (Gonzaga University per S6); graduate of the Mohammed bin Rashid Leadership Program",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as Chairman on the official corporate governance page, checked 2026-10-12 (S8), in the AT1 prospectus of 13 Jul 2026 (S5) and the H1 2026 investor presentation (S4). Other directors: H.E. Ahmad Abdulla Binbyat (Vice Chairman), Buti Saeed Al Ghandi, Khalid Abdul Wahed Al Rostamani, Saod Mohamed Obaidalla, Sheikh Maktoum Bin Hasher Al Maktoum, Dr. Abdulla Mohamed Al Karam, Moza Omar Al Futtaim, Abdul Wahed Al Fahim, Ali Fardan Al Fardan, Hadi Taher Badri.",
+      "source_ids": [
+        "S8",
+        "S5",
+        "S4",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "H.E. Ahmad Abdulla Binbyat",
+      "name_ar": null,
+      "title": "Vice Chairman",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2024-03",
+      "appointed_note": "Joined the Board in March 2024 (S5).",
+      "previous_roles": "Founding Chairman and CEO, Zaina Investments LLC (family office); Vice Chairman, Dubai Chamber of Digital Economy; formerly Founding Chairman of du, Vice Chairman of Dubai Holding and Director General of the Dubai Creative Clusters Authority (S5).",
+      "education": "Bachelor's degree in Science and Technology Management, Boston University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official corporate governance page, checked 2026-10-12 (S8); prospectus 13 Jul 2026 (S5).",
+      "source_ids": [
+        "S8",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saod Mohamed Obaidalla",
+      "name_ar": null,
+      "title": "Director (Board member)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2024-03",
+      "appointed_note": "Joined the Board in March 2024 (S5).",
+      "previous_roles": "Emirates NBD: Head of Private Banking 2016–2023; Head of UAE & GCC Private Banking 2014–2016; Head of Royal Accounts, Private Banking 2010–2014; earlier credit, branch and commercial roles from 1993. Former board member of Emirates NBD Securities, National General Insurance and Oman Insurance; Director, Dubai World Trade Centre (S5, S6).",
+      "education": "Higher Diploma of Banking and Information Systems, Higher College of Technology, Dubai",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official corporate governance page, checked 2026-10-12 (S8); prospectus (S5). Included as the board member with a private-banking background.",
+      "source_ids": [
+        "S8",
+        "S5",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Bernd van Linder",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2017-01",
+      "appointed_note": "Joined CBD as CEO in January 2017 (S5, S7).",
+      "previous_roles": "2017– CEO, CBD; Alawwal Bank (formerly Saudi Hollandi Bank), Saudi Arabia, for over 10 years: Treasurer/General Manager Treasury, then CEO for over 7 years (from 2009 per S7); earlier ABN AMRO, incl. Head of Quantitative Analytics. Independent board member, Damen Shipyards; independent member of the Investment Committee of Wataniya Insurance (S5, S6, S7).",
+      "education": "PhD in Artificial Intelligence, Utrecht University; MBA in Financial Management, University of Bradford; MSc in Computer Science, Nijmegen University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official Management Executive Committee page, checked 2026-10-12 (S7); quoted as CEO in the H1 2026 MD&A, 22 Jul 2026 (S3) and the CBD Invest launch release (S18). No departure news found. One LinkedIn search returned no matching profile.",
+      "source_ids": [
+        "S7",
+        "S3",
+        "S5",
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Darren Clarke",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2018-04",
+      "appointed_note": "Joined CBD in April 2018 (S5, S7).",
+      "previous_roles": "CFO, National Australia Bank International (Singapore); 13 years at NAB incl. CFO Global Markets & Treasury; earlier J.P. Morgan Chase in the UK, Luxembourg and Hong Kong (S5).",
+      "education": "Bachelor's degree in Accounting, University of Wollongong",
+      "qualifications": "Chartered Accountant (Institute of Chartered Accountants in Australia)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official ExCo page, checked 2026-10-12 (S7); presenter of the H1 2026 investor presentation (S4).",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dhiraj Kunwar",
+      "name_ar": null,
+      "title": "General Manager – Retail & Business Banking",
+      "functions": [
+        "Retail",
+        "Affluent"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Retail & Business Banking (Personal Banking Group)",
+      "scope": "Group",
+      "appointed": "2025-09",
+      "appointed_note": "Joined CBD in September 2025 (S5). The H1 2026 investor presentation calls the role 'General Manager Personal Banking Group' (S4).",
+      "previous_roles": "Managing Director, RAKBANK, overseeing SME, commercial banking, retail branches and real estate finance; co-chaired the UAE Banks Federation SME Committee; over 25 years in retail, SME, commercial banking and real estate finance (S5, S6).",
+      "education": "MBA in Finance and Marketing, IBS Hyderabad; Executive Programme in General Management, MIT Sloan",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official ExCo page, checked 2026-10-12 (S7). Spelled 'Dhiraj Kunwari' in the annual report 2025 and the prospectus (S5, S6); see discrepancies. The Personal Banking Group covers Elite and Private Banking (S5). One LinkedIn search returned no matching profile.",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jamal Al Matari",
+      "name_ar": null,
+      "title": "General Manager – Business Development",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Business Development",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date of move into the role not stated. Joined CBD in 2009; most recent prior role Head of Private Banking (S5, S7).",
+      "previous_roles": "2009– CBD, several senior roles incl. Head of Private Banking (named as head of private banking at a 2021 award, seen in search results only); over 30 years in UAE banking across business development, private banking, wealth management and client relationship management (S5, S7).",
+      "education": "Leadership and strategy programmes at Harvard Business School",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official ExCo page, checked 2026-10-12 (S7); prospectus 13 Jul 2026 (S5). Most recent publicly named Head of Private Banking at CBD; his successor in that role is not named in any source opened.",
+      "source_ids": [
+        "S7",
+        "S5",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Piotr Bednarek",
+      "name_ar": null,
+      "title": "General Manager – Treasury, Asset & Liability Management",
+      "functions": [
+        "Treasury",
+        "Investments / asset management"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Treasury",
+      "scope": "Group",
+      "appointed": "2024-09",
+      "appointed_note": "Joined CBD in September 2024 (S5). The H1 2026 investor presentation lists him as 'General Manager, Head of Treasury, Asset Management & Global Markets' (S4).",
+      "previous_roles": "Nearly 20 years at ING, last as Managing Director, Group Treasurer for Singapore, Hong Kong and Japan; 25 years in financial markets and treasury across Asia and Europe (S5).",
+      "education": "MSc International Economics, Warsaw University; Executive MBA, University of Minnesota; Advanced Management Programme, MIT Sloan",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official ExCo page, checked 2026-10-12 (S7); S4, S5. Title differs between sources (see discrepancies).",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Barbara Riccardi",
+      "name_ar": null,
+      "title": "General Manager – Co-Head of Wholesale Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Wholesale Banking Group",
+      "scope": "Group",
+      "appointed": "2025-10",
+      "appointed_note": "Joined CBD as Co-Head of the Wholesale Banking Group in October 2025 (S5).",
+      "previous_roles": "Natixis (Dubai and New York), most recently Regional Head for Middle East CIB; earlier Shell Capital, EBRD (London and Baku) and Schlumberger (from 1997). Oversees transaction banking and products, investment banking, financial institutions, structured finance and international banking (S5).",
+      "education": "Master's in Chemical Engineering, La Sapienza University, Rome",
+      "qualifications": "Certified Board Member (GCC BDI)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official ExCo page, checked 2026-10-12 (S7); S4; S5.",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fahad Al Muhairi",
+      "name_ar": null,
+      "title": "General Manager – Co-Head of Wholesale Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Wholesale Banking Group (Institutional Banking)",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined CBD in December 2014; date of appointment as Co-Head not stated (S5).",
+      "previous_roles": "Chief Risk Officer, Dubai Islamic Bank; General Manager, Amlak Finance; senior manager corporate banking and main branch manager, Standard Chartered; Bank Examiner, Central Bank of the UAE (S5).",
+      "education": "Master's in Business Administration and Finance, Canadian University of Dubai",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official ExCo page, checked 2026-10-12 (S7); S4; S5.",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Aisha Al Mazrouei",
+      "name_ar": null,
+      "title": "Chief Customer Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Customer experience",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Not stated. The annual report 2025 named Othman Bin Hendi as Chief Customer Officer (S6); she holds the title in the Jul 2026 prospectus and on the current ExCo page (S5, S7).",
+      "previous_roles": "With CBD since 2017 in Treasury and Human Resources; previously Head of HR and Emiratisation (S5).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official ExCo page, checked 2026-10-12 (S7); S4; S5 (spelled 'Almazrouei').",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mikkel Andersen",
+      "name_ar": null,
+      "title": "Chief Risk Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Risk",
+      "scope": "Group",
+      "appointed": "2026-04",
+      "appointed_note": "Joined CBD in April 2026 (S5); the FY2025 annual report and the Mar 2026 list show Marko Zilly as Acting CRO (S6, S10).",
+      "previous_roles": "Group Head of Enterprise Risk Management, Recovery and Resolution, Nordea Bank Abp; more than a decade at Butterfield Group in market, liquidity, interest-rate and operational risk roles (S5).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official ExCo page, checked 2026-10-12 (S7); S4; S5.",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Alan Grieve",
+      "name_ar": null,
+      "title": "Chief Credit Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Credit",
+      "scope": "Group",
+      "appointed": "2017",
+      "appointed_note": "Joined CBD in 2017 (S5).",
+      "previous_roles": "29 years at HSBC, incl. five years as Chief Risk Officer China (Shanghai); earlier COO, Head of Special Assets and Head of Wholesale Credit Risk, Asia-Pacific (S5).",
+      "education": "Bachelor of Laws (Hons), Aberdeen University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official ExCo page, checked 2026-10-12 (S7); S4; S5.",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Imran",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Technology",
+        "Digital"
+      ],
+      "entity": "Commercial Bank of Dubai PSC",
+      "business_unit": "Operations, technology and transformation",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not stated.",
+      "previous_roles": "Partner, Financial Services Advisory, PwC Middle East; earlier senior roles at ABN AMRO, HSBC and the Royal Bank of Scotland. At CBD responsible for digital capabilities, technological innovation, operational efficiency and strategic transformation (S6).",
+      "education": "Bachelor's degree in Computer Science; MBA, Hult International Business School",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed as COO and ExCo member in the annual report 2025 (S6) and the shareholder/executive list updated Mar 2026 (S10). Not listed in the Jul 2026 prospectus executive management (S5), the H1 2026 investor presentation ExCo slide (S4) or the official ExCo page checked 2026-10-12 (S7). One news search found no departure or new-role announcement; aggregator profiles still show him as COO (not cited).",
+      "source_ids": [
+        "S6",
+        "S10",
+        "S7",
+        "S4",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "CBD runs wealth inside its Personal Banking Group (GM Retail & Business Banking: Dhiraj Kunwar, ex-RAKBANK, since Sep 2025) through two tiers: Elite (NRV AED 400k) and Private Banking (NRV AED 3.5m), served from Elite Management Centres and a Private Banking Centre in Dubai. On about 29–30 Jul 2026 it launched CBD Invest in the CBD Mobile App. CBD Invest offers execution-only trading in 7,000+ US-listed stocks and ETFs, with Saxo Bank as executing broker and possible custodian. It also has a 'Wealth 360' net-worth view that includes external assets, goal-based 'Spaces' and portfolio analytics. Fees are 0.25% per trade (min USD 3), and the bank says more asset classes are planned. Local DFM/ADX brokerage runs through the subsidiary CBD Financial Services LLC (est. 2005). The bank publishes no AUM; its FY2025 statements show only AED 11.8bn of fiduciary assets. The AT1 prospectus says the Board approved an operational plan to make CBD a leading financial services provider for HNWIs and affluent customers. No discretionary, structured-product, private-markets or Shariah investment offering was found.",
+    "segments": [
+      {
+        "name": "Essential Banking",
+        "tier": "Mass market",
+        "eligibility": "Minimum average balance AED 5,000 (prospectus)",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "name": "CBD Elite Banking",
+        "tier": "Affluent",
+        "eligibility": "Net Relationship Value (investments + deposits + quarterly average CASA balance) of AED 400,000+, or monthly salary AED 50,000+ with NRV AED 200,000+; otherwise AED 175 + VAT monthly relationship fee",
+        "source_ids": [
+          "S14",
+          "S5"
+        ]
+      },
+      {
+        "name": "CBD Private Banking",
+        "tier": "HNW",
+        "eligibility": "NRV AED 3,500,000+, or monthly salary AED 150,000+ with NRV AED 1,000,000+ (website); otherwise AED 350 + VAT monthly fee. The prospectus gives a different alternative (see discrepancies).",
+        "source_ids": [
+          "S15",
+          "S5"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "CBD Private Banking: a dedicated Private Relationship Manager, Private Banking lounges and 'comprehensive wealth management' covering preservation, growth and intergenerational legacy. Eligibility is NRV of AED 3.5m. Private Banking and Elite clients get CBD Invest plus RM and 'specialist investment expertise' support. The H1 2026 deck lists 2026 Digital Banker Global Private Banking Innovation awards (Best Private Bank Digital Innovation in Dubai; Most Innovative Business Model – Middle East). The current head of Private Banking is not named.",
+      "source_ids": [
+        "S15",
+        "S18",
+        "S4",
+        "S5"
+      ]
+    },
+    "asset_management": {
+      "present": "Unclear",
+      "detail": "No asset-management subsidiary or CBD-branded fund range was found. The prospectus says Corporate Banking provides 'Syndication, Asset Management and Investment Advisory services'. The H1 2026 deck gives the treasury head's title as 'Head of Treasury, Asset Management & Global Markets'. CBD Invest is offered under CBD's 'Securities Portfolio Management' licence.",
+      "source_ids": [
+        "S5",
+        "S4",
+        "S11"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "CBD Financial Services LLC (100%, est. 2005) provides brokerage for local shares and bonds on DFM and ADX through an online platform and mobile app, with margin trading. Its FAQ states there is no international market access. US-listed stocks and ETFs are offered separately through CBD Invest: CBD transmits orders and Saxo Bank acts as executing broker. CBD says it does not act as broker or dealer for these trades.",
+      "source_ids": [
+        "S1",
+        "S16",
+        "S12",
+        "S13"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "CBD Invest launched in the CBD Mobile App around 29–30 Jul 2026 and is not available on internet banking. It offers 7,000+ US-listed stocks and ETFs through market, limit, stop and recurring buy orders, with no fractional shares. Other features: 'Wealth 360' net worth including manually added external assets and liabilities, goal 'Spaces', analytics benchmarked to the S&P 500 and NASDAQ, and a daily portfolio score. It is for UAE residents aged 21+ (not US nationals) with a CBD current or savings account, after CMA investor classification and appropriateness checks. Fees are 0.25% of trade value (min USD 3), with 0% commission promoted for new customers. It is execution-only with no advice. The legacy CBD Investr app page now redirects to CBD Invest.",
+      "source_ids": [
+        "S11",
+        "S12",
+        "S13",
+        "S18",
+        "S19"
+      ]
+    },
+    "advisory": {
+      "present": "Unclear",
+      "detail": "The launch release says Elite and Private Banking clients get dedicated relationship managers and 'specialist investment expertise' for portfolio construction and long-term planning. No advisory mandate or fee schedule was published. CBD Invest explicitly provides no advice.",
+      "source_ids": [
+        "S18",
+        "S12"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary portfolio management offering found. The CBD Invest KFS states CBD does not provide discretionary portfolio management under that service.",
+      "source_ids": [
+        "S12",
+        "S15"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No current model portfolios. A 2021 'CBD Investr' robo-advisory app is mentioned by WAM (seen in search results only). The CBD Investr web page now redirects to CBD Invest, which is self-directed.",
+      "source_ids": [
+        "S11",
+        "S20"
+      ]
+    },
+    "funds_platform": {
+      "present": "Unclear",
+      "detail": "The website menu has a 'Mutual Funds' page, but it rendered blank on 2026-10-12, so the fund shelf and platform provider are unknown. CBD Invest offers ETFs only.",
+      "source_ids": [
+        "S11"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "Not mentioned on the Private, Elite or CBD Invest pages, in the prospectus or in the annual report.",
+      "source_ids": [
+        "S5",
+        "S14",
+        "S15"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No private-markets or alternatives access found.",
+      "source_ids": [
+        "S5",
+        "S11"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "CBD Al Islami, an Islamic window since 2008, offers Mudaraba savings, Wakala investment deposits and Ijara/Murabaha financing. No Shariah-compliant investment funds or portfolios were found.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "US/international equities",
+      "ETFs",
+      "Bonds",
+      "Gold / precious metals"
+    ],
+    "partners": [
+      {
+        "partner": "Saxo Bank",
+        "kind": "Execution / custody (international markets)",
+        "what": "Named in the CBD Invest KFS and T&Cs as executing broker for international trades; 'may also provide custody and settlement services'",
+        "date": "2026-07",
+        "status": "Live",
+        "source_ids": [
+          "S12",
+          "S13",
+          "S19"
+        ]
+      },
+      {
+        "partner": "Udacity (an Accenture company)",
+        "kind": "Employee training (data and AI)",
+        "what": "'Partnered with Udacity by Accenture to empower employees with skills in data and AI'; over 1,000 employees upskilled",
+        "date": "2026",
+        "status": "Live",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2026-09-08",
+        "what": "Press room lists MEED's 'MENA Best Digital Bank' (MENA Banking Excellence Awards 2026 – Retail, Digital & SME) and MEA Finance Banking Technology Awards 2026 recognitions.",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2026-07-30",
+        "what": "Launched CBD Invest (digital wealth inside the CBD Mobile App) for affluent, Elite and Private Banking customers: US stocks/ETFs, Wealth 360 aggregation, goal-based investing and analytics; more asset classes planned. Trade press dated 29–30 Jul 2026.",
+        "source_ids": [
+          "S18",
+          "S19",
+          "S11"
+        ]
+      },
+      {
+        "date": "2026-07-15",
+        "what": "Issued a USD 600m AT1 perpetual non-call-6 capital security.",
+        "source_ids": [
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Launched 'UP by CBD', a mobile bank for micro and small businesses.",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-07-13",
+        "what": "Prospectus states the Board approved a separate operational plan aimed at making CBD a leading UAE financial services provider for HNWIs and affluent customers, with 'selective and measured growth' in Personal Banking.",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Activated Open Finance at scale (first UAE bank, per CBD), completed ISO 20022 migration, launched Jaywan cards and moved to a dual-site Tier III private cloud.",
+        "source_ids": [
+          "S6",
+          "S5"
+        ]
+      },
+      {
+        "date": "2025-09",
+        "what": "Hired Dhiraj Kunwar from RAKBANK to lead Retail & Business Banking.",
+        "source_ids": [
+          "S5"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "CBD Invest is new (Jul 2026) and covers only US stocks and ETFs, execution-only. The bank says 'additional asset classes and enhanced capabilities will be introduced over time' (S18, S12).",
+        "No model portfolios, discretionary mandates, structured products, private markets or Shariah investment products were found for Elite or Private clients (S5, S11, S15).",
+        "The Board-approved plan targets leadership with HNWIs and affluent customers. Personal Banking contributed 41.4% of FY2025 operating income (S5).",
+        "Elite and Private tiers are defined by NRV that includes investment value (S14, S15). Fiduciary assets were AED 11.8bn at 31 Dec 2025 (S2).",
+        "The CEO holds a PhD in Artificial Intelligence, and the bank publicises AI upskilling of 1,000+ staff and 2026 private-banking digital innovation awards (S5, S4)."
+      ],
+      "barriers": [
+        "Saxo Bank is already the executing broker and possible custodian behind CBD Invest (S12, S13).",
+        "The builder of the CBD Invest app is not disclosed. CBD has an in-house technology subsidiary (CBD Digital Lab Limited) and a 'Default Digital' programme (S5).",
+        "The strategy prioritises wholesale banking. Personal Banking growth is described as 'selective and measured' (S5).",
+        "Leadership churn in 2025–2026: new heads of retail (Sep 2025), wholesale (Oct 2025), risk (Apr 2026) and customer, and the COO's status is unclear (S5, S6, S7)."
+      ],
+      "incumbent_vendors": [
+        "Saxo Bank: execution, custody and settlement for CBD Invest US stocks/ETFs (S12, S13)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Commercial Bank of Dubai PSC: Group condensed consolidated interim financial statements, six months ended 30 June 2026 (Deloitte review report dated 22 Jul 2026)",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/docs/default-source/revamp-doc/cbd_financial_statements_30_june_2026_en.pdf?sfvrsn=c926126b_1",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Commercial Bank of Dubai PSC: Group consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/docs/default-source/document/portal/cbd-financial-statements-31-december-2025---english.pdf?sfvrsn=235b056b_2",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Management Discussion and Analysis Report, First Half 2026 (22 July 2026)",
+      "publisher": "Commercial Bank of Dubai via Dubai Financial Market",
+      "url": "https://feeds.dfm.ae/documents/2026/Jul/22/6cb61077-2b1f-43e2-ba9c-e2172d659880/Management%20Discussion%20And%20Analysis%20Q2%202026.Pdf.pdf",
+      "doc_type": "Exchange disclosure: results MD&A",
+      "tier": 1,
+      "published": "2026-07-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "CBD Investor Presentation for the 6 months ended 30th June 2026",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/docs/default-source/revamp-doc/cbd_investor_presentation_h1_2026.pdf?sfvrsn=ce26126b_1",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Commercial Bank of Dubai PSC: USD Additional Tier 1 Capital Securities Prospectus dated 13 July 2026",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/docs/default-source/revamp-doc/investor/project_keith_final_prospectus_dated_13_july_2026.pdf?sfvrsn=70d6126b_2",
+      "doc_type": "Offering prospectus (description of CBD, management, shareholders)",
+      "tier": 1,
+      "published": "2026-07-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "CBD Annual Report 2025",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/docs/default-source/revamp-doc/annualreports/cbd-annual-report-2025-english.pdf?sfvrsn=25fe036b_1",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "CBD Management Executive Committee",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/aboutus/about-cbd/cbd-management-team",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "CBD Corporate Governance (Board of Directors)",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/aboutus/corporate-governance",
+      "doc_type": "Official board page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "CBD Investor Relations (ownership structure, history, document library)",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/aboutus/investor-relations",
+      "doc_type": "Official investor relations page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Commercial Bank of Dubai PSC: Shareholders, UBOs, Subsidiaries, Non-Executive Directors and Executive Management (updated March 2026)",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/docs/default-source/revamp-doc/wbg/cbd-shareholders-ubo-directors-executive-management-subsidiaries-list-updated-march-2026.pdf",
+      "doc_type": "Official disclosure list",
+      "tier": 2,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "CBD Invest",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/personal/investments-transfers/investments/cbd-invest",
+      "doc_type": "Official product page (incl. FAQs)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Key Facts Statement – CBD Invest",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/docs/default-source/document/portal/cbd-invest_kfs.pdf?sfvrsn=adbf156b_1",
+      "doc_type": "Official product disclosure (KFS)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "CBD Invest – Terms and Conditions",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/docs/default-source/document/portal/cbd-invest---terms-and-conditions.pdf",
+      "doc_type": "Official product terms",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "CBD Elite Banking",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/personal/elite-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "CBD Private Banking",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/personal/private-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "CBD Financial Services",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/personal/investments-transfers/investments/financial-services",
+      "doc_type": "Official subsidiary page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "CBD Press Room",
+      "publisher": "Commercial Bank of Dubai",
+      "url": "https://www.cbd.ae/aboutus/media-centre/press-room?category:All",
+      "doc_type": "Official press room",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Commercial Bank of Dubai launches CBD Invest, strengthening how customers understand and manage their finances whilst embedding financial planning into everyday banking",
+      "publisher": "Zawya (company press release)",
+      "url": "https://www.zawya.com/en/press-release/commercial-bank-of-dubai-launches-cbd-invest-strengthening-how-customers-understand-and-manage-their-finances-whilst-embedding-financial-planning-into-everyday-banking-416601",
+      "doc_type": "Press release (syndicated)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "CBD launches CBD Invest digital wealth platform (UAE)",
+      "publisher": "Fintech News Middle East",
+      "url": "https://fintechnews.ae/32666/wealthtech/cbd-invest-digital-wealth-uae/",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Commercial Bank of Dubai launches a Robo-Advisory Investment App - CBD Investr",
+      "publisher": "Emirates News Agency (WAM)",
+      "url": "https://www.wam.ae/en/details/1395302929698",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Institution record (Banks sheet)",
+      "original_value": "No Banks-sheet row (CBD appeared only in Management and Size metrics)",
+      "finding": "Updated",
+      "new_value": "Full institution record created",
+      "materiality": "Material",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "field": "Total assets / as of",
+      "original_value": "AED 154.505bn, 30 Jun 2026 (MD&A p6, AED million converted)",
+      "finding": "Confirmed",
+      "new_value": "AED 154,504,921 thousand at 30 Jun 2026 (reviewed interim statements, segment note)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "field": "Customer deposits / as of",
+      "original_value": "AED 107.704bn, 30 Jun 2026",
+      "finding": "Confirmed",
+      "new_value": "AED 107,703,802 thousand = customer deposits + Islamic customer deposits",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "field": "Person: Dr. Bernd van Linder",
+      "original_value": "Chief Executive Officer; verified current 2026-10-07; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Chief Executive Officer since Jan 2017; LinkedIn still not verified",
+      "materiality": "Minor",
+      "source_ids": [
+        "S7",
+        "S3"
+      ]
+    },
+    {
+      "field": "Person: Dhiraj Kunwar",
+      "original_value": "General Manager, Retail & Business Banking (function Retail)",
+      "finding": "Confirmed",
+      "new_value": "Same title on official page; joined Sep 2025 from RAKBANK; spelled 'Kunwari' in S5/S6 and titled 'GM Personal Banking Group' in S4",
+      "materiality": "Minor",
+      "source_ids": [
+        "S7",
+        "S5",
+        "S4"
+      ]
+    },
+    {
+      "field": "Person: Barbara Riccardi",
+      "original_value": "General Manager, Co-Head of Wholesale Banking",
+      "finding": "Confirmed",
+      "new_value": "Same; joined Oct 2025 from Natixis",
+      "materiality": "Minor",
+      "source_ids": [
+        "S7",
+        "S5"
+      ]
+    },
+    {
+      "field": "Person: Fahad Al Muhairi",
+      "original_value": "General Manager, Co-Head of Wholesale Banking",
+      "finding": "Confirmed",
+      "new_value": "Same; covers Institutional Banking (S5)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S7",
+        "S5"
+      ]
+    },
+    {
+      "field": "Person: Jamal Al Matari",
+      "original_value": "General Manager, Business Development (function 'Business development')",
+      "finding": "Confirmed",
+      "new_value": "Same title; formerly Head of Private Banking. Function mapped to 'Other' (controlled vocabulary)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S7",
+        "S5"
+      ]
+    },
+    {
+      "field": "People coverage",
+      "original_value": "5 executives",
+      "finding": "Updated",
+      "new_value": "Added Chairman, Vice Chairman, a private-banking-background director, CFO, Treasury GM, CCO, CRO, CCO (credit) and COO (status unclear): 14 people",
+      "materiality": "Material",
+      "source_ids": [
+        "S7",
+        "S8",
+        "S5"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "Dhiraj Kunwar name and title",
+      "detail": "Official ExCo page and S4: 'Dhiraj Kunwar'; annual report 2025 and prospectus: 'Dhiraj Kunwari'. Title is 'GM – Retail & Business Banking' (S7, S5, S6) vs 'GM Personal Banking Group' (S4) vs 'Head of Retail and Business Banking Group' (S10).",
+      "resolution": "Used the official page spelling and title.",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S5",
+        "S6",
+        "S10"
+      ]
+    },
+    {
+      "field": "Piotr Bednarek title",
+      "detail": "Official page and S6: 'GM Treasury, Asset & Liability Management'; S4: 'GM, Head of Treasury, Asset Management & Global Markets'; S10: 'Head of Treasury'.",
+      "resolution": "Used the official page title; noted S4 wording.",
+      "source_ids": [
+        "S7",
+        "S4",
+        "S6",
+        "S10"
+      ]
+    },
+    {
+      "field": "Private Banking eligibility",
+      "detail": "Website: NRV AED 3.5m, or monthly salary AED 150k with NRV AED 1m (S15). Prospectus: NRV AED 3.5m and/or monthly salary transfer AED 250k and a mortgage of AED 15m (S5).",
+      "resolution": "Website criteria recorded as current published criteria; prospectus wording noted.",
+      "source_ids": [
+        "S15",
+        "S5"
+      ]
+    },
+    {
+      "field": "Executive committee composition 2026",
+      "detail": "Annual report 2025 (S6) and Mar 2026 list (S10) include Ali Imran (COO), Sultan Al Mahmood (CHRO), Othman Bin Hendi (Chief Customer Officer), Abdul Rahim Al Nimer (GM Corporate Banking) and Marko Zilly (Acting CRO). The Jul 2026 prospectus/deck and the official page (Oct 2026) list none of them; Aisha Al Mazrouei is CCO and Mikkel Andersen CRO.",
+      "resolution": "Current page used. Ali Imran recorded as 'Requires verification'; the others are omitted from people.",
+      "source_ids": [
+        "S6",
+        "S10",
+        "S5",
+        "S4",
+        "S7"
+      ]
+    },
+    {
+      "field": "Retail customers",
+      "detail": "Annual report 2025: 416,098 total retail customers. H1 2026 deck: '400k+' active customers.",
+      "resolution": "Both recorded with their definitions; not directly comparable.",
+      "source_ids": [
+        "S6",
+        "S4"
+      ]
+    },
+    {
+      "field": "CBD Invest pricing",
+      "detail": "KFS: 0.25% of trade value, min USD 3 (S12). Product page: '0% commission as a new CBD Invest customer' (S11).",
+      "resolution": "Treated the 0% as an introductory offer; standard fee from KFS.",
+      "source_ids": [
+        "S12",
+        "S11"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead check (Saxo): confirmed. The CBD Invest KFS and T&Cs name Saxo Bank as executing broker that 'may also provide custody and settlement'. No Saxo or CBD press release about the partnership was found, and the scope is US-listed stocks and ETFs only.",
+    "Lead check (Accenture as integrator): not supported. The only Accenture link found is a staff training partnership with 'Udacity by Accenture' (S4). No source names the CBD Invest app builder or integrator.",
+    "Lead check (launch ~30 Jul 2026): consistent. Trade press is dated 29–30 Jul 2026. CBD's own press release could not be located because older press-room items did not load, and the Zawya copy is undated.",
+    "Ali Imran (COO, digital/technology) is absent from the Jul 2026 prospectus, deck and current ExCo page. Confirm whether he left and who now leads technology and digital.",
+    "The current Head of Private Banking, Head of Elite/Wealth and head of CBD Financial Services are not named in any source opened.",
+    "The Mutual Funds page rendered blank, so the fund shelf and provider are unknown. CBD Investr's 2021 technology partner is attributed to InvestSuite in search snippets only (not opened; not recorded as a partner).",
+    "LinkedIn: two searches returned no profile matches for CBD executives, so no personal LinkedIn URLs were recorded.",
+    "cbd.ae returns HTTP 403 to WebFetch/curl for HTML pages. Pages were read in a browser; PDFs downloaded normally.",
+    "The SCA appears on CBD Invest pages as the 'UAE Capital Market Authority (CMA)'. CBD Financial Services' licence details were not checked on the regulator register."
+  ],
+  "research_status": "Complete",
+  "researched_by": "R1",
+  "checked": "2026-10-12"
+}

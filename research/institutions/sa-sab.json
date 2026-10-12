@@ -1,0 +1,1332 @@
+{
+  "id": "sa-sab",
+  "name": "Saudi Awwal Bank",
+  "short_name": "SAB",
+  "legal_name": "Saudi Awwal Bank (a Saudi Joint Stock Company); formerly The Saudi British Bank (SABB), renamed effective 11 June 2023",
+  "name_ar": "البنك السعودي الأول",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://www.sab.com",
+  "linkedin_company": "https://www.linkedin.com/company/alawwalsab",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1978 (Royal Decree M/4 dated 21 Jan 1978; took over The British Bank of the Middle East's Saudi operations on 1 Jul 1978). Merged with Alawwal Bank in June 2019; renamed from The Saudi British Bank to Saudi Awwal Bank effective 11 Jun 2023.",
+  "regulators": [
+    "SAMA",
+    "CMA"
+  ],
+  "listed": true,
+  "exchange": "Tadawul (Saudi Exchange)",
+  "ticker": "1060",
+  "parent_id": null,
+  "ownership_summary": "Listed on Tadawul. HSBC Holdings B.V. holds 636,986,300 shares (31%) and Olayan Saudi Investment Company Ltd holds 422,208,905 shares (20.55%) at 31 Dec 2025 (AR 2025). The AR's market page shows the Olayan family at 20.6% and total foreign ownership at 46.8%. HSBC appoints three of the eleven directors under the bylaws. A technical services agreement with HSBC Holdings plc was renewed for 10 years from 30 Sep 2017.",
+  "shareholders": [
+    {
+      "holder": "HSBC Holdings B.V.",
+      "pct": 31.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "holder": "Olayan Saudi Investment Company Ltd",
+      "pct": 20.55,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "government_link": "No controlling government shareholder disclosed. The two shareholders above 5% are HSBC Holdings B.V. (31%) and Olayan Saudi Investment Company (20.55%) at 31 Dec 2025 (S4).",
+  "group_structure": "Parent bank with 100%-owned subsidiaries: Alawwal Invest Company, trading as SAB Invest (CMA-licensed brokerage, asset management, advisory, custody; profiled separately as sa-sab-invest), Arabian Real Estate Company (ARECO), Alawwal Real Estate Company (AREC), SAB Markets Limited (Cayman; derivatives and repo) and the X-Tech fund (private equity fund managed by SAB Invest). SAB also holds 49% of HSBC Saudi Arabia, an associate and separate CMA-licensed investment bank (HSBC Group holds the other 51%), which is not consolidated (S3 note 1). The bank reports a 'Capital markets' segment that brings together SAB Invest's brokerage, margin lending and asset management (S4). Double counting: SAB Invest's assets, revenue and AUM are consolidated into SAB's figures and its Capital markets segment. Do not add sa-sab-invest metrics to this record.",
+  "subsidiaries": [
+    {
+      "name": "Alawwal Invest Company (SAB Invest)",
+      "pct": 100.0,
+      "activity": "CMA-licensed dealing, managing, arranging, advising and custody of securities",
+      "linked_id": "sa-sab-invest",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "HSBC Saudi Arabia (associate)",
+      "pct": 49.0,
+      "activity": "CMA-licensed investment bank (coverage, M&A, ECM/DCM, securities services); HSBC Group owns 51%. Equity-accounted, not consolidated",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "name": "SAB Markets Limited (Cayman Islands)",
+      "pct": 100.0,
+      "activity": "Derivatives trading and repo",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Arabian Real Estate Company Limited (ARECO)",
+      "pct": 100.0,
+      "activity": "Real estate activities",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Alawwal Real Estate Company (AREC)",
+      "pct": 100.0,
+      "activity": "Real estate activities",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "X-Tech fund",
+      "pct": 100.0,
+      "activity": "Private equity fund (est. 21 Apr 2024) managed by SAB Invest",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "footprint": "Saudi Arabia only. 101 branches at 30 Jun 2026 (100 at 31 Dec 2025) (S3 note 1). 999 ATMs at end-2025 (S4). Private Banking centres in Riyadh, Jeddah and Al Khobar (S10).",
+  "customer_segments": "Retail mass market; affluent propositions Advance, Premier and Top Tier (AR 2025); Private Banking (HNW/UHNW); international customers (47% of the client base) and affluent customers (17%) per AR 2025; SME; corporate and institutional (over 35k clients). More than 1.7 million retail customers at end-2025 (S4).",
+  "business_lines": "Segments (S3 note 17): Wealth and Personal Banking (WPB; retail, affluent, Private Banking, cards, mortgages), Corporate and Institutional Banking, Treasury, Capital markets (SAB Invest brokerage, margin lending and asset management) and Others (associate). H1 2026 total operating income SAR 7,275.0m: WPB 2,043.6m, CIB 3,999.4m, Treasury 1,061.4m, Capital markets 185.2m (S3). The bank offers Shariah-compliant products under an independent Shariah Committee. The 49%-owned HSBC Saudi Arabia covers investment banking.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 474473940,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed by PwC and EY)",
+      "status": "Verified",
+      "locator": "S3 p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 454454484,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, audited comparative in the H1 2026 interim statement of financial position",
+      "status": "Verified",
+      "locator": "S3 p.2",
+      "note": "Extra record. AR 2025 five-year summary shows SAR 454,454m.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 342157087,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits: demand 142,377,702; time 194,944,294; savings 2,988,478; margin and others 1,846,613 (SAR '000). Excludes due to banks (22,292,784) and debt securities/term loans.",
+      "status": "Verified",
+      "locator": "S3 p.2 and note 10 p.22",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 323273854,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits, audited comparative (excludes due to banks)",
+      "status": "Verified",
+      "locator": "S3 note 10 p.22",
+      "note": "Extra record.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 320207243,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and advances, net': gross 327,569,100 less ECL provision 7,361,857. Includes conventional and Shariah-compliant financing. Split: corporate and institutional 232,955,373 gross; MSME 13,441,228; home loans 44,735,838; personal 24,352,983; other retail 8,409,960; credit cards 3,673,718.",
+      "status": "Verified",
+      "locator": "S3 p.2 and note 6 p.14",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 298626505,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and advances, net', audited comparative",
+      "status": "Verified",
+      "locator": "S3 p.2",
+      "note": "Extra record.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 327569100,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total loans and advances, gross (before ECL)",
+      "status": "Verified",
+      "locator": "S3 note 6 p.14",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 80877880,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including Additional Tier 1 Sukuk of 12,386,500; equity attributable to equity holders of the Bank 68,491,380",
+      "status": "Verified",
+      "locator": "S3 p.2",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 14724,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income (revenue)', income statement highlights in AR 2025",
+      "status": "Verified",
+      "locator": "S4 Financial review (five-year summary)",
+      "note": "FY2024: 14,018. Figure in SAR million as printed in the AR; primary statements in the FY2025 FS PDF are image pages and were not text-extractable. H1 2026 FS restated some 2025 comparatives (note 23).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 7275017,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', six months",
+      "status": "Verified",
+      "locator": "S3 p.3",
+      "note": "H1 2025 (restated): 7,341,070 (-1%). Extra record.",
+      "source_ids": [
+        "S3",
+        "S6"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 8452,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income after Zakat and income tax'. No non-controlling interests are presented, so this is attributable to equity holders before AT1 Sukuk costs.",
+      "status": "Verified",
+      "locator": "S4 Financial review",
+      "note": "FY2024: 8,070 (+5%). SAR million as printed.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 4417236,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income for the period after Zakat and income tax', six months",
+      "status": "Verified",
+      "locator": "S3 p.3",
+      "note": "H1 2025 (restated): 4,261,887 (+4%).",
+      "source_ids": [
+        "S3",
+        "S6"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 34176,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Capital markets segment (SAB Invest)",
+      "definition": "'Assets under management (AuM)' in the Capital markets financial highlights. The text gives 'Total AuM of SAR 30.7 bln (which excludes SAR 3.4 bln managed by Global Investment Solutions)', down 6%.",
+      "status": "Verified",
+      "locator": "S4 Operating review, Capital Markets",
+      "note": "2024: 35,044. Same figure as SAB Invest FS note 22 (SAR 34.18bn). See sa-sab-invest; do not add.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 1.7,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Retail (WPB)",
+      "definition": "'more than 1.7 mln Retail customers' (plus over 35k corporate and institutional clients). Active vs total not stated.",
+      "status": "Verified",
+      "locator": "S4 Bank profile; WPB operating review",
+      "note": "AR also says digital users are 93% of the active customer base.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 4105,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "'4,105 Full-time employees'; 93.9% Saudi nationals",
+      "status": "Verified",
+      "locator": "S4 Operational highlights",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 101,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank, KSA",
+      "definition": "Branch network in KSA (interim FS note 1)",
+      "status": "Verified",
+      "locator": "S3 note 1 p.7",
+      "note": "31 Dec 2025: 100.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "wpb_segment_operating_income",
+      "value": 2043568,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Wealth and Personal Banking segment",
+      "definition": "Total operating income of the WPB segment (incl. inter-segment 582,294); net income before Zakat 969,752",
+      "status": "Verified",
+      "locator": "S3 note 17 p.26",
+      "note": "H1 2025: 2,322,526. FY2025 WPB revenue SAR 4,410m (S4).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "capital_markets_segment_operating_income",
+      "value": 185237,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Capital markets segment (SAB Invest)",
+      "definition": "Total operating income of the Capital markets segment (net fees 109,340); net income before Zakat 43,944",
+      "status": "Verified",
+      "locator": "S3 note 17 p.26",
+      "note": "H1 2025: 204,932 (-10%). FY2025 segment revenue SAR 457m (S4).",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 WPB section (S4) gives only 'Private Banking assets have more than doubled since the merger' and deposits 'over 1.5 times'; H1 2026 FS (S3); 2Q26 results presentation (S7); Private Banking awards release Apr 2026 (S14)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 (S4); 1Q26 and 4Q25 call transcripts (S8, S9); SAB Invest board report 2025 (see sa-sab-invest) reports only +12.6% active clients"
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "H1 2026 FS (S3) and AR 2025 (S4). SAB Invest reports assets under advisory of about SAR 2.9-3bn (see sa-sab-invest); no bank-level custody figure found."
+    }
+  ],
+  "people": [
+    {
+      "name": "Lubna Suliman Olayan",
+      "name_ar": null,
+      "title": "Board Chair - Non-Executive Director",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Chair at 31 Dec 2025 (AR) and on the official board page in Oct 2026. Start date of chairmanship not found in the sources opened. Board term 1 Jan 2026 onward elected at the 8 Dec 2025 OGM (S4).",
+      "previous_roles": "Vice-Chair and director of Alawwal Bank (2004-2019); director of Schlumberger (2011-2021), Ma'aden (2017-2020), WPP (2005-2012). Current: Board Chair, Olayan Saudi Holding Company; Vice Chair and Chair of the Executive Committee, Olayan Financing Company; international advisory boards of Akbank, Bank of America, Hakluyt, HKEX and TotalEnergies; board of KAUST Investment Management Company.",
+      "education": "MBA, Indiana University; BSc, Cornell University; Honorary PhD in Law, Trinity College Dublin",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); quoted as Chair in the 21 Jul 2026 H1 results release (S6)",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Suliman Abdulrahman Algwaiz",
+      "name_ar": null,
+      "title": "Board Vice Chair - Non-Executive Director",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Listed as Independent Director in AR 2025 (31 Dec 2025); official page in Oct 2026 shows Board Vice Chair - Non-Executive Director, so the change likely came with the board term starting 1 Jan 2026 (see discrepancies).",
+      "previous_roles": "Governor of GOSI; Board Chair of MasterCard International (as stated), Hassana Investment Company, Mobily and Banque Saudi Fransi; Deputy CEO, Riyad Bank; Head of Trading, Samba. Current: Board Chair, BlackRock Saudi Arabia; director of SIIG and SALIC.",
+      "education": "Bachelor's in Business Management, University of Portland (US)",
+      "qualifications": "Citibank professional qualifications in banking operations, corporate finance and credit",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2)",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tony Cripps",
+      "name_ar": null,
+      "title": "Managing Director & Chief Executive Officer; Executive Director",
+      "functions": [
+        "CEO",
+        "Board"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Executive Management",
+      "scope": "Group",
+      "appointed": "2021-05-23",
+      "appointed_note": "Board announced the appointment on 17 Feb 2021, effective 23 May 2021 (Argaam, S16). Also board member of HSBC Saudi Arabia and SAB Invest.",
+      "previous_roles": "Group General Manager and CEO, HSBC Singapore (about four years to 2021); CEO, HSBC Australia; CEO, HSBC Philippines (Argaam). Over 40 years in international banking, mostly at HSBC Group.",
+      "education": null,
+      "qualifications": "AFMA Australia (Financial Markets); SFE Australia (Accredited Futures Trader licence)",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive and board pages checked 2026-10-12 (S1, S2); signed the H1 2026 FS as CEO & MD on 27 Jul 2026 (S3); led the 1Q26 call on 5 May 2026 (S9). No departure news found; 4Q25 call says the next strategy is being planned in 2026 (S8).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S9",
+        "S16"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bandar Al-Gheshayan",
+      "name_ar": null,
+      "title": "Chief Wealth & Personal Banking Officer",
+      "functions": [
+        "Retail",
+        "Affluent",
+        "Private banking",
+        "Wealth",
+        "Digital"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Wealth and Personal Banking",
+      "scope": "Bank",
+      "appointed": "2022-05-09",
+      "appointed_note": "Official page: in role 'since 9 May, 2022'. SABB release (July 2022) named him Chief Retail Banking and Wealth Management Officer covering branch network, Private Banking, digital banking and payments (S17). SAB Invest board report says July 2022. Board member of SAB Invest and SIMAH.",
+      "previous_roles": "Joined SABB 2012. COO, Retail Banking and Wealth Management (from 2018); Regional Head of Retail Banking and Wealth Management (Jul 2016-Jun 2018) (S17). About 25 years' experience, 20 in retail banking (AR 2025).",
+      "education": "Master's in International Management, University of Liverpool; executive programmes at London Business School, IMD, INSEAD and Cambridge",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); quoted in the 14 Apr 2026 Private Banking awards release (S14). A LinkedIn search result describing him appeared under a URL for a different name, so it was not recorded.",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S14",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saeed Assiri",
+      "name_ar": null,
+      "title": "Chief Innovation Officer",
+      "functions": [
+        "Innovation / partnerships",
+        "Digital"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Innovation",
+      "scope": "Bank",
+      "appointed": "2022-05",
+      "appointed_note": "Official bio: appointed Chief Innovation Officer in May 2022. The page's internal slug names him 'chief digital officer', but the displayed title is Chief Innovation Officer.",
+      "previous_roles": "Joined SAB in 2021 as Head of the Digital Strategy and Innovation Department; over 13 years in Saudi banking",
+      "education": "Master's in Engineering and Technology Management, Portland State University (US)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Musaifer AlOsaimi",
+      "name_ar": null,
+      "title": "Chief Information Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Information Technology",
+      "scope": "Bank",
+      "appointed": "2020",
+      "appointed_note": "CIO 'since 2020' (official bio)",
+      "previous_roles": "Joined SAB in 2005: Head of Payment Channels; Head of Software and Solutions Development; Head of IT Development. 1994-2005 Banking Technology department, SAMA.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4)",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faris Alshareef",
+      "name_ar": null,
+      "title": "Chief Strategy Officer",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Strategy",
+      "scope": "Group",
+      "appointed": "2021-03",
+      "appointed_note": "Official bio: appointed March 2021",
+      "previous_roles": "Deputy CFO and Head of Investor Relations, SAB; earlier Ernst & Young, General Electric and Bahri",
+      "education": "MBA, London Business School; Bachelor's in Accounting, KFUPM",
+      "qualifications": "Passed CPA exams; GE CAS leadership programme",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Lama Ghazzaoui",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2021",
+      "appointed_note": "Official bio says 'appointed ... in April March 2021' (typo on page). Also Audit Committee member of SAB Invest.",
+      "previous_roles": "CFO, NCB/SNB for 8 years",
+      "education": "BSc Accounting, Lebanese American University",
+      "qualifications": "CPA (Colorado, US)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); signed H1 2026 FS (S3); spoke on 1Q26 call (S9)",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Al Shaikh",
+      "name_ar": null,
+      "title": "Chief Treasury and Investment Officer",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Treasury",
+      "scope": "Bank",
+      "appointed": "2019",
+      "appointed_note": "Official bio: since 2019",
+      "previous_roles": "Treasurer, Alawwal Bank (from 2012); Samba Financial Group from 1994 incl. Assistant General Manager Treasury and Treasurer of Samba London",
+      "education": "BSc Finance, King Saud University; executive programmes at INSEAD and Oxford",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yasser Al-Barrak",
+      "name_ar": null,
+      "title": "Chief Corporate and Institutional Banking Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Corporate and Institutional Banking",
+      "scope": "Bank",
+      "appointed": "2022-07-01",
+      "appointed_note": "Official bio: since 1 Jul 2022. Board member of SAB Invest and HSBC Saudi Arabia.",
+      "previous_roles": "Joined SAB 2012: General Manager Global Corporate and Institutional Banking (from May 2019); Co-Head of Global Banking (2017-2019); Head of Public Sector (2013-2017)",
+      "education": "Bachelor's in Information Systems, KFUPM",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ghada Al Jarbou",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Operations",
+      "scope": "Bank",
+      "appointed": "2020-10",
+      "appointed_note": "Official bio: since October 2020",
+      "previous_roles": "Joined SAB 1998: Senior IT Program Manager, Head of Service Delivery, Head of Retail Digital Banking, COO Retail Banking, General Manager Global Liquidity and Cash Management. Board director of GOSI and Saudi Ground Services (AR 2025).",
+      "education": "MBA, University of Bath; Bachelor's in Computer Science, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1)",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Stuart Thomson Gulliver",
+      "name_ar": null,
+      "title": "Independent Director",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Group Chief Executive and Executive Director, HSBC Holdings plc; Chair, The Hongkong and Shanghai Banking Corporation. Current boards include Saudi Aramco and Jardine Matheson.",
+      "education": "Master of Law, Oxford University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2)",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Surendranath Ravi Rosha",
+      "name_ar": null,
+      "title": "Non-Executive Director",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2025-05-19",
+      "appointed_note": "AR 2025: appointed Non-Executive Director commencing 19 May 2025",
+      "previous_roles": "Co-Chief Executive, HSBC Holdings plc (Asia and Middle East) (current); CEO HSBC India; senior Global Banking and Markets roles at HSBC",
+      "education": "MBA, Indian Institute of Management",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S4)",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Samir Assaf",
+      "name_ar": null,
+      "title": "Non-Executive Director",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Saudi Awwal Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "HSBC Group for over 26 years incl. Board Chair HSBC Middle East Ltd and director of HSBC Asset Management Limited. Current: Board Chair, HSBC Middle East Holdings BV; Senior Advisor, HSBC Holdings plc; MENA Chair, General Atlantic.",
+      "education": "Bachelor of Finance, Sciences Po Paris; Master's in Economics, USJ Lebanon; Master's in Economics and International Finance, Sorbonne",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2)",
+      "source_ids": [
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Almansour",
+      "name_ar": null,
+      "title": "Managing Director and CEO, SAB Invest",
+      "functions": [
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Alawwal Invest Company (SAB Invest)",
+      "business_unit": "SAB Invest (100% subsidiary)",
+      "scope": "Subsidiary",
+      "appointed": "2021-10",
+      "appointed_note": "CEO of Alawwal Invest from October 2021 (SAB Invest announcement). Full profile in sa-sab-invest.",
+      "previous_roles": "Head of Portfolio Management, Saudi Aramco; Head of Investment Management Advisory, Jadwa Investment; Raidah Investment Company (GOSI)",
+      "education": "Bachelor of Finance, UNC Charlotte; MBA, KFUPM",
+      "qualifications": "CFA charterholder",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "SAB Invest management page checked 2026-10-12 (see sa-sab-invest)",
+      "source_ids": [
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "SAB runs wealth through its Wealth and Personal Banking (WPB) unit, led by Chief Wealth & Personal Banking Officer Bandar Al-Gheshayan, with investment products supplied by its 100% subsidiary SAB Invest (legal name Alawwal Invest Company). Affluent propositions are Advance, Premier and Top Tier. SAB Premier mirrors HSBC Premier: entry is a SAR 40,000 monthly salary, a SAR 500,000 3-month average balance (or SAR 750,000 combined with SAB Invest), SAR 1m initial balance, SAR 3m home finance, or an existing HSBC Premier relationship. Private Banking has centres in Riyadh, Jeddah and Al Khobar and won Euromoney's Best Private Bank in Saudi Arabia for a fourth year in 2026. Referrals from SAB to SAB Invest reached SAR 4.7bn in 2025, three times the previous three years combined, and Euromoney says almost 80% of private bank clients invest via SAB Invest. The SAB mobile app itself shows no investing; investing runs in SAB Invest's apps, including a new Digital Wealth app with the 'MAL' robo/model-portfolio service (soft-launched 2025) and the WorldTrader global brokerage platform. The bank's 2021-2026 strategy ends in 2026 and management said on 9 Feb 2026 that the next 4-5 year plan is being prepared this year.",
+    "segments": [
+      {
+        "name": "SAB Advance",
+        "tier": "Mass affluent",
+        "eligibility": "One of: monthly income SAR 20,000+; initial deposit SAR 350,000; 3-month average SAR 100,000 with SAB; or monthly income SAR 15,000 with home finance SAR 1,000,000, personal finance SAR 250,000, or combined SAR 1,200,000 (as published)",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "name": "SAB Premier",
+        "tier": "Affluent",
+        "eligibility": "One of: monthly salary SAR 40,000+; 3-month average balance SAR 500,000 with SAB or combined relationship SAR 750,000 with SAB and SAB Invest; new home finance SAR 3,000,000; initial opening balance SAR 1,000,000; or an existing eligible HSBC Premier relationship in another HSBC market (as published). Dedicated Premier Relationship Manager; HSBC Premier global recognition.",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "name": "Top Tier",
+        "tier": "Upper affluent / HNW",
+        "eligibility": "Named in AR 2025 as an affluent proposition; criteria not published on the pages checked",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "name": "SAB Private Banking",
+        "tier": "Private / HNW",
+        "eligibility": "Not published. Dedicated Relationship Manager; Private Banking centres in Riyadh, Jeddah and Al Khobar",
+        "source_ids": [
+          "S10"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Private Banking within WPB: dedicated RMs, centres in Riyadh, Jeddah and Al Khobar, lending solutions, portfolios built through SAB Invest's public and private products, and free SAB-HSBC Global View/Global Transfer (S10). AR 2025: Private Banking assets more than doubled since the 2019 merger and deposits rose over 1.5 times; referrals from SAB to SAB Invest totalled SAR 4.7bn in 2025 (S4). Euromoney (Mar 2026): deposits +14% in 9M 2025 and almost 80% of private bank clients invest via Alawwal Invest (S18). Euromoney Best Private Banking in Saudi Arabia for the fourth consecutive year, plus Global Finance Best Private Banking (14 Apr 2026, S14). SAB Invest also reports transactions executed with HSBC Private Banking in 2025 (see sa-sab-invest).",
+      "source_ids": [
+        "S4",
+        "S10",
+        "S14",
+        "S18"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Through SAB Invest (100%): AUM SAR 34,176m at end-2025 (SAR 35,044m end-2024), of which SAR 3.4bn in Global Investment Solutions. Conventional and Shariah mutual funds, multi-asset funds, DPMs, real estate, private credit and VC funds, and ETFs (Saudi Quant ETF built with HSBC Asset Management; Hang Seng Hong Kong ETF). See sa-sab-invest.",
+      "source_ids": [
+        "S4",
+        "S19"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Through SAB Invest: Saudi, GCC and international equities; margin lending; WorldTrader international platform (50+ exchanges, US options) launched 2025. Capital markets segment operating income SAR 185.2m in H1 2026 (-10% YoY). HSBC Saudi Arabia (49% associate) handles institutional equities and investment banking.",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S19"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Investing sits in SAB Invest's channels, not the SAB banking app: SAB Invest app (fund investing; first iOS release 31 Dec 2025), SAB Invest Trade, WorldTrader and WorldTrader Pro, SAB Invest Online. SAB's mobile app is used to open the USD account that funds WorldTrader. AR 2025 reports digital users at 93% of active customers and asset digital sales at 31% of total sales, but no in-app investing in the SAB app was found.",
+      "source_ids": [
+        "S4",
+        "S19"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Premier RMs give 'specialist advice' on financial planning and investments (S11). SAB Invest Global Investment Solutions provides advisory and Outsourced CIO services; assets under advisory surpassed SAR 2.9bn at end-2025 (S4).",
+      "source_ids": [
+        "S4",
+        "S11"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "SAB Invest discretionary portfolio management (DPMs) for HNW, affluent, corporate and institutional clients (see sa-sab-invest).",
+      "source_ids": [
+        "S19"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Via SAB Invest: 'MAL - Mustasharak Alawwal' in the new Digital Wealth app offers one-off or systematic investment into model portfolios managed by SAB Invest and rebalanced by a robo engine; soft-launched in 2025 per the SAB Invest board report (see sa-sab-invest). Not offered inside the SAB bank app.",
+      "source_ids": [
+        "S19"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Wealth management page lists SAB Invest mutual funds (equities and money markets, domestic and overseas) as the bank's investment shelf (S13). No third-party fund platform found at the bank. SAB Invest is listing its own funds with HSBC's booking centre for foreign investors (see sa-sab-invest).",
+      "source_ids": [
+        "S13"
+      ]
+    },
+    "structured_products": {
+      "present": "Unclear",
+      "detail": "No retail structured products on the bank's wealth pages. Treasury commercialised equity derivatives on local and international stocks for clients in 2025 (S4). SAB Invest lists structured products among asset management capabilities and offers 'Save+', a structured savings product (see sa-sab-invest).",
+      "source_ids": [
+        "S4",
+        "S13"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Through SAB Invest: real estate development funds, the first MENA private credit strategy for clients, global private credit funds, a Shariah venture income fund with STV, and the X-Tech VC fund consolidated by the bank (S3, S4).",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Shariah-compliant products under an independent Shariah Committee (S3 note 1); Islamic Mudaraba savings and commodity investment accounts on the wealth page (S13); Shariah funds and Shariah-compliant global credit fund at SAB Invest.",
+      "source_ids": [
+        "S3",
+        "S13"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Sukuk",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "HSBC Group",
+        "kind": "Strategic shareholder / technical services / distribution",
+        "what": "31% shareholder; technical services agreement with HSBC Holdings plc renewed for 10 years from 30 Sep 2017; HSBC Premier recognition; Global View & Global Transfer across 18 corridors (SAR 5.3bn transfers for 8,500 customers since launch); collaboration on digital assets and AI; WPB priority to implement HSBC's customer lifecycle management (CLCM)",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S4",
+          "S11"
+        ]
+      },
+      {
+        "partner": "SAB Invest (in-house subsidiary)",
+        "kind": "Product / investment arm",
+        "what": "Supplies funds, DPMs, brokerage, robo/model portfolios and private markets to bank clients; SAR 4.7bn referrals in 2025",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "partner": "HSBC Saudi Arabia (49% associate)",
+        "kind": "Investment banking / institutional securities",
+        "what": "Coverage, M&A, ECM, DCM, securities services and GM equities; transferred its asset management, retail brokerage and retail margin lending to Alawwal Invest (agreement announced May 2021, completed end-2022)",
+        "date": "2022-12",
+        "status": "Live",
+        "source_ids": [
+          "S4",
+          "S15"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-05",
+        "what": "Alawwal Invest (now SAB Invest) agreed to acquire HSBC Saudi Arabia's asset management, retail brokerage and retail margin lending businesses; completed at the end of 2022",
+        "source_ids": [
+          "S15",
+          "S4"
+        ]
+      },
+      {
+        "date": "2023-06-11",
+        "what": "Bank renamed from The Saudi British Bank to Saudi Awwal Bank",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "New SAB mobile experience (family banking, international services, digital cards); Family Banking proposition launched H2 2025; Google Pay; Pay with ICSAB+ loyalty points",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Private Banking: SAR 4.7bn referrals to SAB Invest; SAB Invest launched WorldTrader, Saudi Quant ETF (with HSBC Asset Management), MENA private credit strategy and soft-launched a Digital Wealth app with robo-advisory",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-02-09",
+        "what": "4Q25 call: 2026 is the last year of the 2021 strategy (extended one year); work on the next 4-5 year strategy has started and will be developed during 2026",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2026-04-14",
+        "what": "Euromoney Best Private Banking in Saudi Arabia (fourth year) and Global Finance Best Private Banking; bank says it is expanding its private banking products and investment services",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2026-06-17",
+        "what": "SAB Invest launched securities lending with J.P. Morgan as agent (see sa-sab-invest)",
+        "source_ids": [
+          "S19"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Next strategy cycle in preparation: 2026 is the final year of the 2021 plan and management is building the next 4-5 year plan during 2026 (S8, 9 Feb 2026)",
+        "No investing inside the SAB banking app; wealth products sit in separate SAB Invest apps (S4, S19), while 93% of active customers are digital users (S4)",
+        "Private Banking is growing fast (assets more than doubled since 2019; SAR 4.7bn referrals to SAB Invest in 2025) and the bank says it is expanding private banking products and investment services (S4, S14)",
+        "Fee pressure: H1 2026 net fee income fell to SAR 531m from SAR 707m and the Capital markets segment income fell 10% YoY; CFO cited SAB Invest's exposure to a weaker Tadawul (S3, S9)"
+      ],
+      "barriers": [
+        "HSBC is a 31% shareholder with a technical services agreement and HSBC Premier alignment, so HSBC Group platforms and HSBC Asset Management are natural incumbents (S4)",
+        "Investment licences and the robo/model-portfolio app sit in SAB Invest, which built its own Digital Wealth app with in-house 'MAL' robo engine in 2025 (see sa-sab-invest)",
+        "Investment banking and institutional securities sit in HSBC Saudi Arabia, a 49% associate controlled by HSBC (S3)"
+      ],
+      "incumbent_vendors": [
+        "HSBC Group: technical services agreement; Global View/Global Transfer; CLCM framework (S4)",
+        "HSBC Asset Management: collaboration agreement with SAB Invest (Oct 2024) and Saudi Quant ETF model (see sa-sab-invest)",
+        "Interactive Brokers (inferred): SAB Invest WorldTrader logs in via clientam.com and offers 'Trader Workstation (TWS)'; no announcement found (see sa-sab-invest)",
+        "J.P. Morgan: securities lending agent for SAB Invest from Jun 2026 (see sa-sab-invest)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Executive Top Management",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/en/about-us/about-us/executive-top-management/",
+      "doc_type": "Official leadership page (content read from the site's own content API: https://www.sab.com/api/assets/sabpws/content-fragments/en/members-listing/about-us/about-us/executive-committee/executive-top-management.json)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/en/about-us/about-us/board-of-directors/",
+      "doc_type": "Official leadership page (content read from https://www.sab.com/api/assets/sabpws/content-fragments/en/members-listing/about-us/about-us/executive-committee/board-of-directors.json)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Interim Condensed Consolidated Financial Information for the six-month period ended 30 June 2026",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/content/dam/sabpws/files/reports-documents/en/category-reports/2026/sab-fs-30-june-2026-english.pdf",
+      "doc_type": "Reviewed interim financial statements (PwC, EY; review report 27 Jul 2026)",
+      "tier": 1,
+      "published": "2026-07-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "SAB Annual Report 2025",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/content/dam/sabpws/files/reports-documents/en/category-reports/2025/other-reports/SAB%20Annual%20Report%202025%20English.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Financial & Regulatory Reports (document list)",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/en/about-us/investor-relations/financial-regulatory-reports/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Saudi Awwal Bank Delivers SAR 4.4 Billion Net Profit for 1H26, Reflecting Resilient Performance",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://sab.com/en/about-us/newsroom/news-year-2026/saudi-awwal-bank-delivers-sar-4-4-billion-net-profit-for-1h26-reflecting-resilient-performance/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "2Q26 SAB Results presentation",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/content/dam/sabpws/files/reports-documents/common/years/2026/sab-results-presentation-2q26.pdf",
+      "doc_type": "Investor presentation (mostly image slides; key-messages slide read)",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "SAB 4Q25 Results Transcript (9 Feb 2026)",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/content/dam/sabpws/files/reports-documents/common/years/2025/sab-4q25-results-transcript.pdf",
+      "doc_type": "Earnings call transcript",
+      "tier": 2,
+      "published": "2026-02-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "SAB 1Q26 Results Transcript (5 May 2026)",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/content/dam/sabpws/files/reports-documents/common/years/2026/SAB-1Q26-transcript.pdf",
+      "doc_type": "Earnings call transcript",
+      "tier": 2,
+      "published": "2026-05-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "SAB Private Banking",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/en/private/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "SAB Premier",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/en/personal/segments/sab-premier/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "SAB Advance",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/en/personal/segments/sab-advance/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Wealth Management Solutions",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/en/personal/wealth-management/wealth-management-solutions/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Saudi Awwal Bank Reinforces Private Banking Leadership with Two Global Awards",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://sab.com/en/about-us/newsroom/news-year-2026/saudi-awwal-bank-reinforces-private-banking-leadership-with-two-global-awards/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-04-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Alawwal Invest enters into an agreement with HSBC Saudi Arabia",
+      "publisher": "Saudi Awwal Bank (SABB)",
+      "url": "https://www.sab.com/en/about-us/newsroom/news-year-2021/alawwal-invest-enters-into-an-agreement-with-hsbc-saudi-arabia",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2021-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "SABB appoints Tony Cripps as CEO, David Dew retires",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1444372",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2021-02-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "(SABB) Appoints Bandar Al-Gheshayan as Chief Retail Banking and Wealth Management Officer",
+      "publisher": "Saudi Awwal Bank (SABB)",
+      "url": "https://www.sab.com/en/about-us/newsroom/news-year-2022/Bandar-AGheshayan-as-Chief-Retail-Banking-and-Wealth-Management-Officer",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2022-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Private banking awards national winners 2026: Saudi Arabia",
+      "publisher": "Euromoney",
+      "url": "https://www.euromoney.com/article/4re9762rwww0c4wo8csoookgs/private-banking-awards-national-winners-2026-saudi-arabia/",
+      "doc_type": "Awards write-up (partly paywalled; opening paragraphs read)",
+      "tier": 5,
+      "published": "2026-03-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "SAB Invest website (home, management team, app and announcements)",
+      "publisher": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/sab-invest",
+      "doc_type": "Official subsidiary website (detail in sa-sab-invest)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "SAB Arabic homepage (Arabic legal name)",
+      "publisher": "Saudi Awwal Bank",
+      "url": "https://www.sab.com/ar/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Board Vice Chair",
+      "detail": "AR 2025 (board at 31 Dec 2025) lists Saad Al-Fadly as Board Vice Chair and Sulaiman Al-Gwaiz as Independent Director. The official board page (checked 12 Oct 2026) lists Suliman Algwaiz as Board Vice Chair - Non-Executive Director and Saad Alfadly as Non-Executive Director.",
+      "resolution": "Used the official page as current; the change most likely came with the new board term from 1 Jan 2026 (OGM 8 Dec 2025). No announcement opened.",
+      "source_ids": [
+        "S4",
+        "S2"
+      ]
+    },
+    {
+      "field": "Chief Human Resources Officer",
+      "detail": "AR 2025 lists Rania AlSharyoufi as CHRO at 31 Dec 2025; the official page now lists Noaf AlShanbary as Acting CHRO.",
+      "resolution": "Not a target role; noted only. Change date not found.",
+      "source_ids": [
+        "S4",
+        "S1"
+      ]
+    },
+    {
+      "field": "Chief Wealth & Personal Banking Officer start date",
+      "detail": "Official page says 'since 9 May, 2022'; the SABB release is dated July 2022 with the title Chief Retail Banking and Wealth Management Officer; SAB Invest board report says July 2022.",
+      "resolution": "Recorded the official page date with a note. Minor.",
+      "source_ids": [
+        "S1",
+        "S17"
+      ]
+    },
+    {
+      "field": "Capital markets AUM change",
+      "detail": "Bank AR says Capital Markets AuM of SAR 30.7bn (excluding SAR 3.4bn GIS) 'declined by 6%'; the table shows SAR 34,176m vs 35,044m (-2.5%); SAB Invest's chairman says AUM 'remained stable' at SAR 34.2bn.",
+      "resolution": "Recorded the total SAR 34,176m, which matches SAB Invest FS note 22. The -6% appears to refer to the ex-GIS figure.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "open_items": [
+    "Saudi Exchange PDFs (e.g. saudiexchange.sa/Resources/fsPdf/...) returned HTTP 403. All figures come from sab.com documents.",
+    "Q3 2026 results not yet published on sab.com as of 12 Oct 2026 (Financial & Regulatory Reports list ends at 2Q26). Re-check late Oct 2026.",
+    "FY2025 audited FS primary statements are image pages; FY2025 operating income and net profit taken from AR 2025 in SAR million. Exact thousands not extracted.",
+    "Head of Private Banking not named in any official source; Private Banking sits under the Chief Wealth & Personal Banking Officer.",
+    "Top Tier eligibility criteria not found on public pages.",
+    "2Q26 results presentation and earnings release are image-based; only the key-messages slide was read. 2Q26 call transcript not yet posted on sab.com.",
+    "Lead checked: 'Premier inherited from HSBC' is consistent with the published SAB Premier criteria (existing HSBC Premier relationships qualify; HSBC Premier global recognition), but no source describes the proposition's history.",
+    "LinkedIn profiles for the CEO, Chief Wealth & Personal Banking Officer and Chief Innovation Officer not verified."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B13",
+  "checked": "2026-10-12"
+}

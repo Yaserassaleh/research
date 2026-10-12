@@ -1,0 +1,940 @@
+{
+  "id": "ae-stashaway",
+  "name": "StashAway (MENA)",
+  "short_name": "StashAway MENA",
+  "legal_name": "StashAway Management (DIFC) Limited (DIFC registration no. CL 3982)",
+  "name_ar": null,
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.stashaway.ae",
+  "linkedin_company": null,
+  "category": "Non-bank",
+  "type": "Digital wealth platform",
+  "model": "Not applicable",
+  "founded": "DIFC entity licensed by the DFSA on 28 Oct 2020 and launched in late 2020; the StashAway group was founded in Singapore (operating since 2017).",
+  "regulators": [
+    "DFSA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "DIFC subsidiary of the privately held, venture-backed StashAway group headquartered in Singapore (the group's MAS-licensed entity is Asia Wealth Platform Pte Ltd). The DIFC entity's immediate shareholder is not named in sources opened. Group investors shown on the website include Square Peg, Sequoia (now Peak XV), Hamilton Lane, Fidelity International (Eight Roads) and Asia Capital and Advisors; the group says USD 86.5m has been invested in it, including USD 12.5m raised in Jan 2025 from existing institutional investors and a new family office. Stakes are not disclosed.",
+  "shareholders": [
+    {
+      "holder": "StashAway group, Singapore (parent; exact holding entity of the DIFC company not named)",
+      "pct": null,
+      "as_of": "2026-10-12",
+      "source_ids": [
+        "S2",
+        "S6"
+      ]
+    },
+    {
+      "holder": "Group-level investors (stakes not disclosed): Square Peg, Sequoia/Peak XV, Hamilton Lane, Fidelity International/Eight Roads, Asia Capital and Advisors; NTUC Income/Singapore Labour Foundation represented on the board",
+      "pct": null,
+      "as_of": "2026-10-12",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "government_link": "None found for the MENA entity. At group level a board seat is held by a director from NTUC Income & Singapore Labour Foundation (Singapore labour-movement linked); no Gulf government shareholder found (checked 2026-10-12).",
+  "group_structure": "StashAway group (Singapore HQ) operates in Singapore, Malaysia, Hong Kong, Thailand and the UAE. The Singapore entity Asia Wealth Platform Pte Ltd holds an MAS Capital Markets Services licence for retail fund management (CMS100604, per help-centre search snippet). The MENA business is StashAway Management (DIFC) Limited, DFSA firm F006312, licensed 28 Oct 2020 with Retail Client and client-assets endorsements for Advising on Financial Products, Arranging Custody, Arranging Deals in Investments and Managing Assets. Group leadership (CEO, CIO, CTO, compliance) is shared across markets; the UAE has a Country Manager.",
+  "subsidiaries": [],
+  "footprint": "UAE (DIFC office: Office 611, Level 6, Liberty House, Dubai), serving UAE and wider MENA clients from the DIFC. Group markets: Singapore, Malaysia, Hong Kong, Thailand, UAE. MENA business active as of Oct 2026: new DFSA-registered SEO effective 10 Aug 2026, UAE product launches in Sep and Dec 2025, live website. Checked 2026-10-12.",
+  "customer_segments": "UAE retail and mass-affluent investors (no minimum for managed portfolios); HNW via StashAway Reserve (USD 100k+ for a dedicated wealth advisor, launched in UAE Sep 2024); Professional Clients for private markets (from USD 20k). Company says the affluent segment drove over 75% of its UAE growth in the year to Dec 2025.",
+  "business_lines": "Automated managed ETF portfolios (General Investing, Responsible/ESG, Thematic, Flexible), Shariah Global Portfolio (Sep 2025), cash management (StashAway Simple in AED/USD; USD Cash Yield), StashAway Reserve HNW advisory (Sep 2024), private markets for Professional Clients (private credit, private equity and private infrastructure portfolios with Hamilton Lane), Unicorn Top 20 (listed in site navigation).",
+  "metrics": [
+    {
+      "metric": "aum",
+      "value": 1,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2021-01",
+      "period_label": "Jan 2021 (announced 25 Jan 2021)",
+      "period_type": "point_in_time",
+      "scope": "StashAway group (all markets), not MENA",
+      "definition": "Assets under management, as labelled by the company ('more than USD 1 billion')",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Historic group figure seen in search results only (Hubbis, IBS Intelligence, Zawya). Hubbis (Aug 2026) says StashAway does not now disclose AUM. No MENA split.",
+      "source_ids": [
+        "S20"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 13.1,
+      "unit": "million",
+      "currency": "USD",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "StashAway group (all markets), not MENA",
+      "definition": "Revenue (up 25% year on year), per 2025 financial filings as reported by Hubbis",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Rounded; filing not opened.",
+      "source_ids": [
+        "S16"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 11.5,
+      "unit": "million",
+      "currency": "SGD",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "StashAway group (all markets), not MENA",
+      "definition": "Group net revenue (up 42% year on year), company-disclosed to Tech in Asia",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Rounded; about USD 9m per article. Unaudited.",
+      "source_ids": [
+        "S16"
+      ]
+    },
+    {
+      "metric": "profit_before_tax",
+      "value": -11.7,
+      "unit": "million",
+      "currency": "USD",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "StashAway group (all markets), not MENA",
+      "definition": "Pre-tax loss (widened 39%), per 2025 financial filings as reported by Hubbis",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Singapore business profitable after tax in 2025; group loss-making.",
+      "source_ids": [
+        "S16"
+      ]
+    },
+    {
+      "metric": "venture_funding_raised",
+      "value": 86.5,
+      "unit": "million",
+      "currency": "USD",
+      "period_end": "2026-10-12",
+      "period_label": "Cumulative, as shown on website (undated)",
+      "period_type": "point_in_time",
+      "scope": "StashAway group",
+      "definition": "'USD 86.5 million invested in our team' (company claim)",
+      "status": "Verified",
+      "locator": "About page",
+      "note": "Includes USD 12.5m raised Jan 2025 (S16).",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "No MENA or group client count on stashaway.ae or in 2024–2026 releases; Hubbis Aug 2026 confirms the company does not disclose client numbers (S16)."
+    },
+    {
+      "metric": "total_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "No DIFC entity financial statements published; DFSA register pages returned HTTP 403."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not publicly disclosed",
+      "where_checked": "Only group pre-tax loss reported (S16); nothing for the DIFC entity."
+    },
+    {
+      "metric": "employees",
+      "status": "Not publicly disclosed",
+      "where_checked": "MENA headcount not found; group cut about 20 roles (about 10%) in Jul 2026, mainly in Kuala Lumpur (S16)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Raaed Sheibani",
+      "name_ar": null,
+      "title": "UAE Country Manager; DFSA Senior Executive Officer and Senior Manager, StashAway Management (DIFC) Limited",
+      "functions": [
+        "Subsidiary CEO",
+        "Wealth"
+      ],
+      "entity": "StashAway Management (DIFC) Limited",
+      "business_unit": "MENA",
+      "scope": "UAE / MENA",
+      "appointed": "2025",
+      "appointed_note": "Quoted as UAE Country Manager from Sep 2025 (a Country Manager UAE role was advertised in Jan 2025). DFSA register: Senior Manager and Senior Executive Officer effective 10 Aug 2026 (ref I024099, search snippet).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "UAE Country Manager in Fintech News ME (9 Sep 2025, S14) and MENA Startup Digest (Dec 2025, S15); DFSA register snippet shows SEO from 10 Aug 2026 with no withdrawal (S8). Not on the group leadership page. No departure news found; checked 2026-10-12.",
+      "source_ids": [
+        "S14",
+        "S15",
+        "S8",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Michele Ferrario",
+      "name_ar": null,
+      "title": "Co-founder and Group Chief Executive Officer; Licensed Director of the DIFC entity",
+      "functions": [
+        "Group CEO",
+        "Board"
+      ],
+      "entity": "StashAway group",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Co-founder (group live since 2017; founding date not stated). DFSA Licensed Director of StashAway Management (DIFC) Limited effective 28 Oct 2020 (search snippet).",
+      "previous_roles": "CEO of Zalora Group; Managing Director at Rocket Internet; consultant at McKinsey & Co.; private equity investor (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as Co-founder, CEO on stashaway.ae leadership page (S2, S3); quoted as CEO by Hubbis, 7 Aug 2026 (S16); DFSA register snippet (S9). Checked 2026-10-12.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S16",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nandini Joshi",
+      "name_ar": null,
+      "title": "Deputy CEO (group); Licensed Director of the DIFC entity",
+      "functions": [
+        "Deputy CEO",
+        "Board"
+      ],
+      "entity": "StashAway group",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "DFSA Licensed Director of StashAway Management (DIFC) Limited effective 18 Oct 2022 (search snippet).",
+      "previous_roles": "VP at Sephora SEA; about 20 years in customer-centric growth strategy (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "stashaway.ae leadership page (S2, S3); DFSA register snippet (S10). Checked 2026-10-12.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Stephanie Leung",
+      "name_ar": null,
+      "title": "Chief Investment Officer (group)",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "StashAway group",
+      "business_unit": "Investments",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "VP at Goldman Sachs managing multi-billion-dollar portfolios; former CIO of family offices; 20+ years in multi-asset, global macro and quantitative strategies (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "stashaway.ae leadership page, checked 2026-10-12 (S2, S3).",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nino Ulsamer",
+      "name_ar": null,
+      "title": "Co-founder and Chief Technology Officer (group)",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "StashAway group",
+      "business_unit": "Technology",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Co-founder (group live since 2017; founding date not stated). Listed on the DIFC entity's DFSA register page as an authorised individual from 23 Sep 2024 (function not shown in snippet).",
+      "previous_roles": "Co-founder and CTO of Divvit; founder of Personio; co-founder and MD of Westwing Russia (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "stashaway.ae leadership page (S2, S3); DFSA firm register snippet (S7). Checked 2026-10-12.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S7"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Alex Cringle",
+      "name_ar": null,
+      "title": "Chief Product Officer (group)",
+      "functions": [
+        "Digital"
+      ],
+      "entity": "StashAway group",
+      "business_unit": "Product",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Led product development at Funding Societies and Nutmeg; nearly 15 years in fintech (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "stashaway.ae leadership page, checked 2026-10-12 (S2, S3).",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Uthra Parameswaran",
+      "name_ar": null,
+      "title": "Chief Compliance & Risk Officer (group)",
+      "functions": [
+        "Other"
+      ],
+      "entity": "StashAway group",
+      "business_unit": "Compliance and risk",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "20+ years in financial services incl. digital wealth and blockchain fintechs (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "stashaway.ae leadership page, checked 2026-10-12 (S2, S3).",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Salma Sobhy Abdelwahed Abdelbaky",
+      "name_ar": null,
+      "title": "Compliance Officer, MLRO and Senior Manager, StashAway Management (DIFC) Limited (DFSA register)",
+      "functions": [
+        "Other"
+      ],
+      "entity": "StashAway Management (DIFC) Limited",
+      "business_unit": "Compliance",
+      "scope": "DFSA-regulated entity",
+      "appointed": "2023-02-24",
+      "appointed_note": "DFSA ref I017598; no withdrawal shown (search snippet).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "DFSA register seen in search snippet only (page 403) (S12).",
+      "source_ids": [
+        "S12"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mouneera Bibi Fatimah Auckburally Toorabally Awasil",
+      "name_ar": null,
+      "title": "Finance Officer and Senior Manager, StashAway Management (DIFC) Limited (DFSA register)",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "StashAway Management (DIFC) Limited",
+      "business_unit": "Finance",
+      "scope": "DFSA-regulated entity",
+      "appointed": "2024-10-24",
+      "appointed_note": "Succeeded Mohammad Abdel Sham (Finance Officer 5 Jul–11 Oct 2024) per register snippets.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "DFSA register seen in search snippet only (page 403) (S13).",
+      "source_ids": [
+        "S13"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Joseph El Am",
+      "name_ar": null,
+      "title": "Former General Manager and Senior Executive Officer, StashAway MENA",
+      "functions": [
+        "Subsidiary CEO"
+      ],
+      "entity": "StashAway Management (DIFC) Limited",
+      "business_unit": "MENA",
+      "scope": "UAE / MENA",
+      "appointed": "2022-06",
+      "appointed_note": "Joined as Deputy GM; GM from Jun 2022 (Hubbis, Jan 2023). DFSA authorised individual I016973 from 27 Aug 2022, withdrawn 9 Aug 2024 (firm register snippet).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "Withdrawn from the DFSA register on 9 Aug 2024 (S7); Raaed Sheibani named UAE Country Manager from 2025 (S14).",
+      "source_ids": [
+        "S7",
+        "S18",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ramzi Khleif",
+      "name_ar": null,
+      "title": "Former General Manager, StashAway MENA (launch head)",
+      "functions": [
+        "Subsidiary CEO"
+      ],
+      "entity": "StashAway Management (DIFC) Limited",
+      "business_unit": "MENA",
+      "scope": "UAE / MENA",
+      "appointed": "2020",
+      "appointed_note": "Led the 2020 DIFC launch; DFSA Licensed Director and SEO, withdrawn 19 Jul 2022 (search snippet).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "DFSA register snippet shows withdrawal 19 Jul 2022 (S11); GM MENA in 2020–2021 coverage (S17, S19).",
+      "source_ids": [
+        "S11",
+        "S17",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "StashAway MENA is the DIFC arm of Singapore's StashAway, licensed by the DFSA since Oct 2020 for managing assets, advising, arranging deals and arranging custody with a retail endorsement, and still active in 2026 (new SEO registered Aug 2026). It runs automated ETF portfolios (General Investing, ESG, Thematic, Flexible) from a 0.2% p.a. fee with no minimum, plus a Shariah Global Portfolio launched Sep 2025 (four risk levels; Shariah ETFs, sukuk, gold; 0.2–0.8% fee). Cash products are StashAway Simple (AED/USD) and USD Cash Yield. StashAway Reserve (UAE launch Sep 2024) gives clients with USD 100k+ a dedicated wealth advisor. Professional Clients can invest from USD 20k in private credit, private equity and private infrastructure portfolios managed with Hamilton Lane (PE and infrastructure added Dec 2025). Assets sit with Saxo as custodian and Emirates NBD as trustee bank; UAE AUM and client numbers are not disclosed.",
+    "segments": [
+      {
+        "name": "General Investing (retail)",
+        "tier": "Mass market",
+        "eligibility": "No minimum; management fee from 0.2% p.a. (0.8% below USD 25k in 2021 schedule)",
+        "source_ids": [
+          "S1",
+          "S17"
+        ]
+      },
+      {
+        "name": "StashAway Reserve",
+        "tier": "HNW",
+        "eligibility": "USD 100,000+ in any StashAway MENA portfolio for a dedicated Wealth Advisor (launched in UAE 25 Sep 2024)",
+        "source_ids": [
+          "S5",
+          "S1"
+        ]
+      },
+      {
+        "name": "Private Markets (Professional Clients)",
+        "tier": "Professional / HNW",
+        "eligibility": "DFSA Professional Client opt-in (e.g. net assets USD 1m+ excl. primary residence); from USD 20,000",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "No",
+      "detail": "Not a bank. Closest offer is StashAway Reserve (dedicated wealth advisor, financial planning, portfolio reviews for USD 100k+), positioned against private banks.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "DFSA permission 'Managing Assets' (licensed 28 Oct 2020). Portfolios built in-house by the group investment team (CIO Stephanie Leung) using the ERAA regime-based allocation; ETF-only for public portfolios. MENA AUM not disclosed.",
+      "source_ids": [
+        "S7",
+        "S2",
+        "S17"
+      ]
+    },
+    "brokerage": {
+      "present": "No",
+      "detail": "No self-directed trading found on stashaway.ae; DFSA permission covers arranging deals for managed portfolios. Group 'ETF platform' (since 2025, per Hubbis) not evidenced for the UAE.",
+      "source_ids": [
+        "S1",
+        "S16"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "StashAway app and web platform for UAE residents; recurring investments via Lean integration (2025).",
+      "source_ids": [
+        "S1",
+        "S14"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "DFSA permission 'Advising on Financial Products'. Human advice through Reserve Wealth Advisors (USD 100k+); automated goal-based advice in the app.",
+      "source_ids": [
+        "S7",
+        "S5"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Managed portfolios are professionally managed and dynamically re-optimised by StashAway's investment team.",
+      "source_ids": [
+        "S14",
+        "S1"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Robo portfolios across General Investing, Responsible (ESG), Thematic, Flexible and Shariah Global (four risk levels), using ETFs from issuers such as BlackRock/iShares, JPMorgan, Vanguard and Invesco.",
+      "source_ids": [
+        "S1",
+        "S14"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No open third-party mutual fund shelf; third-party ETFs and private-market funds are used inside StashAway portfolios.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found on stashaway.ae.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "For Professional Clients from USD 20k: private credit (Hamilton Lane, UAE since Sep 2024), and semi-liquid Private Equity and Private Infrastructure portfolios managed by Hamilton Lane (Dec 2025; fee as low as 0.5%; no multi-year lock-up). 'Unicorn Top 20' pre-IPO product listed in navigation; group also launched a hedge fund for accredited investors (since 2025), UAE availability unclear.",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S15",
+        "S1",
+        "S16"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Shariah Global Portfolio launched in the UAE Sep 2025: four risk levels, Shariah-compliant ETFs (global equities, sukuk, gold), 0.2–0.8% fee, no minimum. Compliance relies on issuer certification; StashAway does not certify it. No DFSA Islamic Window endorsement found.",
+      "source_ids": [
+        "S14",
+        "S1"
+      ]
+    },
+    "asset_classes": [
+      "US/international equities",
+      "ETFs",
+      "Bonds",
+      "Sukuk",
+      "Gold / precious metals",
+      "Money market funds",
+      "Private markets / alternatives"
+    ],
+    "partners": [
+      {
+        "partner": "Hamilton Lane",
+        "kind": "Product partner (private markets manager) and group investor",
+        "what": "Private credit for MENA Reserve clients (Sep 2024); manages Private Equity and Private Infrastructure portfolios (Dec 2025)",
+        "date": "2025-12",
+        "status": "Live",
+        "source_ids": [
+          "S5",
+          "S15",
+          "S2"
+        ]
+      },
+      {
+        "partner": "Saxo",
+        "kind": "Custody",
+        "what": "Custodian bank named on stashaway.ae",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "partner": "Emirates NBD",
+        "kind": "Trustee / banking",
+        "what": "Trustee bank named on stashaway.ae",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "partner": "Lean Technologies",
+        "kind": "Payments (open banking)",
+        "what": "Integration for recurring investments",
+        "date": "2025-09-09",
+        "status": "Live",
+        "source_ids": [
+          "S14"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2020-10-28",
+        "what": "DFSA licence for StashAway Management (DIFC) Limited (managing assets with retail endorsement); company called itself the first digital wealth manager with such a licence",
+        "source_ids": [
+          "S7",
+          "S19"
+        ]
+      },
+      {
+        "date": "2024-09-25",
+        "what": "Launched StashAway Reserve HNW offering and Hamilton Lane private credit for MENA clients",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025-09-09",
+        "what": "Launched Shariah Global Portfolio in the UAE",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2025-12",
+        "what": "Added Private Equity and Private Infrastructure portfolios (Hamilton Lane) for UAE HNW clients; affluent segment >75% of UAE growth over the prior year",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "what": "Raaed Sheibani registered with the DFSA as Senior Executive Officer of the DIFC entity",
+        "source_ids": [
+          "S8"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "MENA business still investing in 2026: new SEO registered Aug 2026; UAE launches in Sep 2025 (Shariah) and Dec 2025 (private equity and infrastructure) (S8, S14, S15).",
+        "Moving upmarket: Reserve for USD 100k+ and Professional-Client private markets from USD 20k; affluent clients drove >75% of UAE growth (S4, S5, S15).",
+        "Group is loss-making (FY2025 pre-tax loss USD 11.7m) and cut about 10% of staff in Jul 2026, mainly product and engineering (S16)."
+      ],
+      "barriers": [
+        "Direct-to-consumer competitor with its own group-built platform and investment team, run from Singapore (S2, S16).",
+        "Private markets shelf already supplied by Hamilton Lane, which is also a group investor (S2, S5, S15).",
+        "No self-directed brokerage; model relies on in-house ETF portfolios (S1)."
+      ],
+      "incumbent_vendors": [
+        "Hamilton Lane — private credit, PE and infrastructure portfolios (S5, S15)",
+        "Saxo — custodian (S1)",
+        "Emirates NBD — trustee bank (S1)",
+        "Lean Technologies — recurring payments (S14)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "StashAway UAE homepage (incl. regulatory footer, products, partners)",
+      "publisher": "StashAway",
+      "url": "https://www.stashaway.ae/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "About StashAway (leadership, board, investors)",
+      "publisher": "StashAway",
+      "url": "https://www.stashaway.ae/about",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Empowering everyone to build long-term wealth (leadership bios)",
+      "publisher": "StashAway",
+      "url": "https://www.stashaway.ae/about-us",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "StashAway Private Markets",
+      "publisher": "StashAway",
+      "url": "https://www.stashaway.ae/private-markets",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "StashAway Launches High-Net-Worth Offering in MENA with Unbiased Wealth Advisory and Access to Private Markets",
+      "publisher": "StashAway",
+      "url": "https://www.stashaway.ae/r/stashaway-launches-reserve-UAE",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-09-25",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "What is StashAway Management (DIFC) Limited?",
+      "publisher": "StashAway",
+      "url": "https://stashaway.ae/help-center/900004391803-what-is-stashaway-management-difc-limited",
+      "doc_type": "Official help centre",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "DFSA Public Register — StashAway Management (DIFC) Limited (F006312), licensed 28-Oct-2020",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://dfsa.ae/public-register/firms/stashaway-management-difc-limited",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "DFSA Public Register — Mr Raaed Abubaker Ahmed Sheibani (I024099): Senior Manager, SEO, effective 10-Aug-2026",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/mr-raaed-abubaker-ahmed-sheibani",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "DFSA Public Register — Mr Michele Ferrario: Licensed Director, effective 28-Oct-2020",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/mr-michele-ferrario",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "DFSA Public Register — Ms Nandini Joshi: Licensed Director, effective 18-Oct-2022",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://dfsa.ae/public-register/individuals/ms-nandini-joshi",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "DFSA Public Register — Mr Ramzi Khleif: Licensed Director, SEO (withdrawn 19-Jul-2022)",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/mr-ramzi-khleif",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "DFSA Public Register — Ms Salma Sobhy Abdelwahed Abdelbaky (I017598): Compliance Officer, MLRO, effective 24-Feb-2023",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/ms-salma-sobhy-abdelwahed-abdelbaky",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "DFSA Public Register — Ms Mouneera Bibi Fatimah Auckburally Toorabally Awasil: Finance Officer, Senior Manager, effective 24-Oct-2024",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/ms-mouneera-bibi-fatimah-auckburally-toorabally-awasil",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "StashAway Launches Shariah-compliant Global Portfolios in UAE",
+      "publisher": "Fintech News Middle East",
+      "url": "https://fintechnews.ae/?p=27589",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-09-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "UAE's StashAway Expands Private Market Access for High Net Worth Individuals",
+      "publisher": "MENA Startup Digest",
+      "url": "https://menastartupdigest.com/?p=24089",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-12-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "StashAway Says First-Half Revenue Rose 42 Percent as Singapore Business Turns Profitable",
+      "publisher": "Hubbis",
+      "url": "https://hubbis.com/news/stashaway-says-first-half-revenue-rose-42-percent-as-singapore-business-turns-profitable",
+      "doc_type": "News (citing Tech in Asia interview and 2025 filings)",
+      "tier": 5,
+      "published": "2026-08-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "StashAway's General Manager on the Unique Manifesto Materialising in MENA (Ramzi Khleif)",
+      "publisher": "Hubbis",
+      "url": "https://hubbis.com/article/stashaway-s-general-manager-on-the-unique-manifesto-materialising-in-mena",
+      "doc_type": "News / interview",
+      "tier": 5,
+      "published": "2021-05-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Stashaway's UAE Head on Building a Future-Focused Robo Platform in the Middle East (Joseph El Am)",
+      "publisher": "Hubbis",
+      "url": "https://hubbis.com/article/stashaway-s-uae-head-on-building-a-future-focused-robo-platform-in-the-middle-east",
+      "doc_type": "News / interview",
+      "tier": 5,
+      "published": "2023-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Digital wealth firm launches in the UAE",
+      "publisher": "International Adviser",
+      "url": "https://international-adviser.com/digital-wealth-firm-launches-in-the-uae",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2020",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "StashAway announces Assets under Management of USD 1 billion",
+      "publisher": "Hubbis / IBS Intelligence (company release, datelined Dubai)",
+      "url": "https://hubbis.com/news/stashaway-announces-assets-under-management-of-usd1-billion",
+      "doc_type": "News (republished company release)",
+      "tier": 5,
+      "published": "2021-01-25",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Country Manager, UAE — StashAway job posting",
+      "publisher": "Eight Roads portfolio jobs board",
+      "url": "https://jobs.eightroads.com/companies/stashaway/jobs/45205827-country-manager-uae",
+      "doc_type": "Job posting",
+      "tier": 2,
+      "published": "2025-01-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Registered office",
+      "detail": "DFSA register snippet gives Emirates Financial Towers, DIFC; current website and help centre give Office 611, Level 6, Liberty House, DIFC.",
+      "resolution": "Used the current company address; register snippet may be stale.",
+      "source_ids": [
+        "S7",
+        "S1",
+        "S6"
+      ]
+    },
+    {
+      "field": "UAE senior executive gap",
+      "detail": "Joseph El Am withdrawn as an authorised individual 9 Aug 2024; Raaed Sheibani quoted as UAE Country Manager from Sep 2025 but registered as SEO only from 10 Aug 2026. Who held the DFSA SEO function in between was not found.",
+      "resolution": "Unresolved; recorded both with dates.",
+      "source_ids": [
+        "S7",
+        "S8",
+        "S14"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead confirmed: MENA business still active in Oct 2026 (DFSA authorised firm; SEO registered 10 Aug 2026; live UAE site and 2025 product launches). DFSA register pages returned HTTP 403, so licence details are from search snippets and company footers.",
+    "No MENA AUM, client numbers or DIFC-entity financials published. Group AUM last disclosed as USD 1bn+ in Jan 2021.",
+    "Immediate parent of StashAway Management (DIFC) Limited not named in sources opened.",
+    "Raaed Sheibani prior career and LinkedIn not found. Group CEO Michele Ferrario's education (Bocconi BA, Columbia MBA) appears only in a search summary; left null.",
+    "Unicorn Top 20 and the group hedge fund / ETF platform: UAE availability and eligibility not confirmed.",
+    "No DFSA enforcement found against the firm (search 2026-10-12)."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B09",
+  "checked": "2026-10-12"
+}

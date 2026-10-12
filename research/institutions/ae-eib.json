@@ -1,0 +1,996 @@
+{
+  "id": "ae-eib",
+  "name": "Emirates Investment Bank",
+  "short_name": "EIBank",
+  "legal_name": "Emirates Investment Bank P.J.S.C.",
+  "name_ar": "بنك الإمارات للاستثمار",
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://eibank.com",
+  "linkedin_company": "https://www.linkedin.com/company/emirates-investment-bank-pjsc",
+  "category": "Bank",
+  "type": "Private / investment bank",
+  "model": "Conventional",
+  "founded": "1976 (incorporated 17 Feb 1976 in Dubai by decree of the Ruler of Dubai; founded by three UAE business families; private banking strategy since 2008)",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "DFM",
+  "ticker": "EIBank",
+  "parent_id": null,
+  "ownership_summary": "Subsidiary of Al Futtaim Private Company LLC, which holds 92.39% (30 Jun 2026 and 31 Dec 2025). The 7.61% free float is held by individuals, and the shares have been listed on DFM since 2005 with very limited trading in 2025. One director holds an indirect 15% interest through Al Futtaim Private Co. LLC (governance report 2025).",
+  "shareholders": [
+    {
+      "holder": "Al Futtaim Private Company LLC",
+      "pct": 92.39,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "holder": "Individuals (local), free float",
+      "pct": 7.61,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "government_link": "No. Privately controlled by the Al Futtaim family group (Al Futtaim Private Company LLC, 92.39%) (S1, S3).",
+  "group_structure": "Standalone bank with a CBUAE restricted banking licence (since 2023) and SCA licences for promotion, financial consultation and financial analysis, and investment and portfolio management (S3). Its small associate stake (AED 72 thousand) was sold to a related party in H1 2026 (S1). Part of the Al Futtaim group, which supplies some services (IT data centre lease and outsourcing, office lease) (S3).",
+  "subsidiaries": [],
+  "footprint": "UAE only: head office in Festival Tower, Dubai Festival City (S14). Clients include HNW individuals from the region and abroad. The 2026 plan includes 'exploration of a flagship presence in the UAE' (S2).",
+  "customer_segments": "High-net-worth and internationally mobile individuals and families (private banking); Independent Asset Managers (IAMs) through a dedicated team (S6, S9).",
+  "business_lines": "Private banking and wealth management: active advisory and discretionary portfolio management (global multi-asset), open-architecture mutual funds platform, global trading and execution, custody, Lombard and real-estate-secured lending, wealth and estate planning (trusts and foundations via external experts), daily banking and deposits, IAM services. Treasury runs a mainly investment-grade bond portfolio (S2, S6, S7, S8, S9).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 4550094,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Total assets, interim condensed statement of financial position (reviewed by EY)",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4, scanned page)",
+      "note": "31 Dec 2025: AED 4,877,615 thousand (S2).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 2978449,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Customers' deposits (time deposits AED 1,690,339 thousand; call accounts AED 1,288,110 thousand); no due-to-banks line",
+      "status": "Verified",
+      "locator": "p.2; note 7 (PDF p.16)",
+      "note": "31 Dec 2025: AED 3,309,957 thousand.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 995649,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Loans and advances, net of impairment allowance; includes Lombard lending (secured by liquid, listed securities per the FY2025 risk note)",
+      "status": "Verified",
+      "locator": "p.2; note 5 (PDF p.14)",
+      "note": "",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 1002243,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Gross loans and advances",
+      "status": "Verified",
+      "locator": "note 5 (PDF p.14)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 1476785,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Total equity",
+      "status": "Verified",
+      "locator": "p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 170499,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Operating income (net interest and investment income, fees and commission, FX gain)",
+      "status": "Verified",
+      "locator": "Statement of profit or loss, p.10 (PDF p.12)",
+      "note": "FY2024: AED 210,458 thousand. H1 2026: AED 95,664 thousand (S1).",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 83645,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Profit for the year after tax",
+      "status": "Verified",
+      "locator": "PDF p.12",
+      "note": "FY2024: AED 108,713 thousand.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 11142,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Profit for the period after tax",
+      "status": "Verified",
+      "locator": "p.3 (PDF p.5)",
+      "note": "H1 2025: AED 49,278 thousand. G&A doubled to AED 81,179 thousand (H1 2025: 40,788), with consultancy and other costs flagged as including transformation spend.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "wealth_client_assets",
+      "value": 10991,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "'Total client assets' (directors' report); equals customer deposits (AED 3,310m) plus fiduciary/custody assets (AED 7,681m)",
+      "status": "Verified",
+      "locator": "Report of the Board of Directors, p.1",
+      "note": "2024: AED 10,215m. Not labelled AUM. The 30 Jun 2026 equivalent (deposits + fiduciary) would be about AED 10.26bn, but the bank did not publish a total.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "aua",
+      "value": 7283931,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Balance of fiduciary assets: client assets held in custody in a fiduciary capacity (off balance sheet)",
+      "status": "Verified",
+      "locator": "note 18 (PDF p.27)",
+      "note": "31 Dec 2025: AED 7,681,173 thousand (S2 note 31).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "technology_programme_capital_commitments",
+      "value": 44950,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Outstanding contractual commitments relating to the system transformation (core banking system vendor and system integrators, infrastructure, consultants); expected to be settled within 12 months",
+      "status": "Verified",
+      "locator": "note 14, Capital commitments (PDF p.21)",
+      "note": "31 Dec 2025: AED 76,565 thousand (S2). The accounts do not name the vendor; this is NOT a vendor contract value.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "intangible_assets_purchased",
+      "value": 42662,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Purchase of intangible assets (cash flow statement)",
+      "status": "Verified",
+      "locator": "Statement of cash flows (PDF p.7)",
+      "note": "FY2025 additions to 'intangible under development' were AED 35,295 thousand (digital banking systems; S2 note 14). Intangible assets rose from AED 35,440 thousand to AED 77,959 thousand in H1 2026.",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 financial statements and directors' report (S2), Integrated Report 2025 MD&A (S3), H1 2026 statements (S1), asset management web page (S7). Only 'total client assets' and fiduciary assets are published; discretionary AUM is not split out."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "S2, S3, website (S4)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "Integrated Report 2025 text search (S3); sustainability pages not reviewed in full."
+    }
+  ],
+  "people": [
+    {
+      "name": "Omar Abdulla Al Futtaim",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors (non-executive)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Board tenure about 20 years (governance report 2025).",
+      "previous_roles": "Vice-Chairman of Al Futtaim Group; Vice Chairman of Orient Insurance PJSC; member of the Board of Dubai Chamber (governance report 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Signed the H1 2026 statements as Chairman (S1); board page (S5).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Christophe de Backer",
+      "name_ar": null,
+      "title": "Independent Non-Executive Director",
+      "functions": [
+        "Board",
+        "Private banking"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2025-06-19",
+      "appointed_note": "Elected at the general meeting of 19 Jun 2025, subject to CBUAE no-objection.",
+      "previous_roles": "Former Group CEO of Edmond de Rothschild; former Global Head of Wholesale Business, HSBC Global Asset Management; Non-Executive Chairman of Transactions & Compagnie (governance report 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "GM resolution 19 Jun 2025 (S10); governance report 2025 (S3). He is not in the website board list, which looks out of date.",
+      "source_ids": [
+        "S10",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Georges Makhoul",
+      "name_ar": null,
+      "title": "Independent Non-Executive Director; Chairman, Board Risk Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2025-04-16",
+      "appointed_note": "",
+      "previous_roles": "Founder of AEP; former CEO of Constellation Holdings; former President of Morgan Stanley in MENA (governance report 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Governance report 2025 (S3); website director list (S5).",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Michel Longhini",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO",
+        "Private banking"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2025",
+      "appointed_note": "Exact date not found. He followed Kishore Venkat (interim CEO from 17 Jun 2025) and signed the FY2025 statements on 10 Feb 2026.",
+      "previous_roles": "Group Head of Private Banking, First Abu Dhabi Bank; CEO of Group Private Banking, Edmond de Rothschild; CEO Private Banking, Union Bancaire Privée; BNP Paribas (Global Head of Investment Services, CEO Private Banking Asia, CEO International Wealth Management) (official bio).",
+      "education": "MSc in Management, emlyon business school",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive committee page checked 2026-10-12 (S4); signed the FY2025 (S2) and H1 2026 (S1, 7 Aug 2026) statements; MD&A signed 10 Feb 2026 (S3).",
+      "source_ids": [
+        "S4",
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Kishore Venkat",
+      "name_ar": null,
+      "title": "Chief Financial Officer (Interim CEO from 17 Jun 2025)",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2014",
+      "appointed_note": "Joined 2014. CBUAE confirmed him as interim CEO from 17 Jun 2025; now listed as CFO.",
+      "previous_roles": "Tamweel/Dubai Islamic Bank (6 years, financial accounting and reporting); Ernst & Young Dubai (5 years).",
+      "education": "MBA Finance, Middlesex University; BCom, University of Bombay",
+      "qualifications": "Chartered Accountant (India)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive committee page (S4); interim CEO disclosure 18 Jun 2025 (S11).",
+      "source_ids": [
+        "S4",
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Anthony Jaganathan",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Operations",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Quoted as EIB COO in Avaloq's release of 23 Oct 2025 (S12); not on EIB's executive committee page (S4).",
+      "source_ids": [
+        "S12"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Vinod Yadav",
+      "name_ar": null,
+      "title": "Head of Technology",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Technology",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Quoted as EIB Head of Technology in Avaloq's release of 23 Oct 2025 (S12); not on the executive committee page (S4).",
+      "source_ids": [
+        "S12"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Asad Khan",
+      "name_ar": null,
+      "title": "Head of Asset Management",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Asset Management",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Al Rajhi Capital, Riyadh (CIO / Head of Fixed Income and Multi Assets); board member, Bahrain Investment Professionals Society 2007-2009.",
+      "education": "MBA and BBA (Hons) Finance, IBA Karachi",
+      "qualifications": "CFA (2002)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive committee page checked 2026-10-12 (S4).",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Osama Al Rahma",
+      "name_ar": null,
+      "title": "Head of Business Development",
+      "functions": [
+        "Private banking"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Business Development",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Al Fardan Exchange / Al Fardan Group from 1993, CEO from 2011 and Director.",
+      "education": "Degree in Electronics Engineering; Postgraduate Diploma in Management Studies, University of Hull",
+      "qualifications": "Harvard Fintech Certificate",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive committee page (S4).",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dhananjay Uplekar",
+      "name_ar": null,
+      "title": "Head of Treasury",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Treasury",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Al Futtaim Group Treasury (financial risk, about 11 years); ICICI Bank DIFC; MF Global Commodities India.",
+      "education": "Master's in Management Studies and BCom, Mumbai University",
+      "qualifications": "FRM (GARP)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive committee page (S4).",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Laurent Valet",
+      "name_ar": null,
+      "title": "Chief Compliance Officer and MLRO",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Compliance",
+      "scope": "Group",
+      "appointed": "2024-10-03",
+      "appointed_note": "",
+      "previous_roles": "29 years at BNP Paribas, incl. Global WM Compliance COO, Wealth Management (MEA) COO and Head of Compliance Wealth Management (MEA).",
+      "education": "PhD Computer Science, University of Leeds; MSc Computer Science, INSA de Lyon",
+      "qualifications": "CAMS; Compliance Experts Certificate, Ecole Supérieure de Banque",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive committee page (S4); governance report 2025 (S3).",
+      "source_ids": [
+        "S4",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saeed Al Tayer",
+      "name_ar": null,
+      "title": "Head of Corporate Affairs & HR (investor contact)",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Corporate Affairs",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "With the bank for 25 years (official bio).",
+      "previous_roles": null,
+      "education": "Bachelor in Technical Management, Wentworth Institute of Technology; Diploma in Business Administration, New Bury College",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive committee page and Our Bank page (S4).",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Gaurav Shah",
+      "name_ar": null,
+      "title": "Former Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Emirates Investment Bank P.J.S.C.",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2020-02",
+      "appointed_note": "Named CEO on 10 Feb 2020 (media centre, S15). Signed the 2024 integrated report CEO statement (S13).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "Interim CEO appointed 17 Jun 2025 (S11) and Michel Longhini CEO by Feb 2026 (S2). The departure date was not separately announced in the sources opened.",
+      "source_ids": [
+        "S11",
+        "S13",
+        "S15",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "EIBank is a small, Al Futtaim-controlled, DFM-listed private bank in Dubai (AED 4.55bn balance sheet at 30 Jun 2026) serving HNW clients and Independent Asset Managers. Total client assets were AED 10.99bn at end 2025 (deposits AED 3.31bn plus custody/fiduciary assets AED 7.68bn). It offers active advisory and discretionary multi-asset portfolios managed in-house, an open-architecture mutual funds platform, global trading and execution, custody, Lombard lending and wealth/estate planning. In 2025 it began a multi-year transformation to become a 'digital private banking institution'. In Oct 2025 it chose Avaloq's platform (core wealth platform, RM Workplace, web and mobile banking, Community APIs). New leadership with private-banking backgrounds arrived (CEO Michel Longhini, ex-FAB Group Head of Private Banking; director Christophe de Backer, ex-Edmond de Rothschild). A refreshed brand and renewed private banking proposition are planned for 2026.",
+    "segments": [
+      {
+        "name": "Private banking clients",
+        "tier": "HNW / UHNW",
+        "eligibility": "Not published",
+        "source_ids": [
+          "S6",
+          "S2"
+        ]
+      },
+      {
+        "name": "Independent Asset Managers (IAM)",
+        "tier": "Intermediary (B2B2C)",
+        "eligibility": "Not published; dedicated multi-lingual RM team",
+        "source_ids": [
+          "S9"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Core business: relationship-led private banking for HNW clients. Strategy (2025-26) is a 'digital-first, customer-centric private banking experience', with a renewed proposition and brand in 2026.",
+      "source_ids": [
+        "S2",
+        "S6"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "In-house Asset Management team (Head: Asad Khan) runs active advisory and discretionary global multi-asset strategies and model portfolios; an Investment Committee sets the house view. SCA licence for investment and portfolio management. AUM not disclosed.",
+      "source_ids": [
+        "S7",
+        "S5",
+        "S3"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Trading and execution platform with global market access; also offered to IAMs. Custody of client assets (AED 7.28bn fiduciary assets at 30 Jun 2026).",
+      "source_ids": [
+        "S6",
+        "S9",
+        "S1"
+      ]
+    },
+    "digital_investing": {
+      "present": "Unclear",
+      "detail": "Online banking portal exists (online.eibank.com); a new web and mobile banking solution is being implemented on Avaloq (announced Oct 2025). No in-app investing features documented yet.",
+      "source_ids": [
+        "S12",
+        "S4"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Active Advisory service with tailored proposals and periodic rebalancing ideas; SCA licence for financial consultation and analysis.",
+      "source_ids": [
+        "S7",
+        "S3"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary Portfolio Management under agreed mandates or specified model portfolios across fixed income, equities, real estate, commodities, alternatives and cash.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Model portfolios managed by the Asset Management team and overseen by the Investment Committee; no robo-advice.",
+      "source_ids": [
+        "S7",
+        "S5"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Open-architecture mutual funds platform (conventional and alternative strategies) from curated global managers; platform provider not named. Also available to IAMs.",
+      "source_ids": [
+        "S7",
+        "S9"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "Not mentioned on the solutions or asset management pages.",
+      "source_ids": [
+        "S6",
+        "S7"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "Discretionary strategies include 'alternatives' and the funds platform covers 'alternative strategies'; the bank holds managed funds and private equities on its own book. No named private-markets client product.",
+      "source_ids": [
+        "S7",
+        "S2"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "No Shariah-compliant offering found.",
+      "source_ids": [
+        "S6",
+        "S7"
+      ]
+    },
+    "asset_classes": [
+      "US/international equities",
+      "Bonds",
+      "Mutual funds",
+      "Private markets / alternatives"
+    ],
+    "partners": [
+      {
+        "partner": "Avaloq",
+        "kind": "Core wealth / private banking platform",
+        "what": "Avaloq core wealth platform, RM Workplace, Web and Mobile Banking and Community APIs to consolidate front, middle and back office; implementation under way (system under development capitalised in the accounts)",
+        "date": "2025-10-23",
+        "status": "Announced",
+        "source_ids": [
+          "S12",
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "partner": "Al Futtaim Private Co LLC (parent)",
+        "kind": "Group services",
+        "what": "Data centre lease and IT outsourcing (related-party transactions)",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-06-17",
+        "what": "CFO Kishore Venkat appointed interim CEO (CBUAE-confirmed) while a permanent CEO was recruited",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "what": "Christophe de Backer (ex-Group CEO Edmond de Rothschild) elected independent director",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "date": "2025-10-23",
+        "what": "Avaloq selected for core wealth platform, RM Workplace, web/mobile banking and APIs",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Multi-year transformation launched to reposition as a digital private bank: new technology architecture, AI-enabled RM tools, expanded product platform; 2026 plans for a refreshed brand, renewed private banking proposition and a possible UAE flagship",
+        "source_ids": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "date": "2026-06-30",
+        "what": "Transformation ongoing: AED 42.7m of intangible assets purchased in H1 2026, outstanding system-transformation commitments of AED 45.0m, G&A up 99% year on year",
+        "source_ids": [
+          "S1"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Explicit strategy to become a digital-first private bank, with an expanded product platform 'to provide access to best-in-class global solutions' and AI-enabled RM tools (directors' report FY2025, S2).",
+        "Avaloq deployment includes Community APIs for connecting third-party services, a natural integration route for an external product shelf (S12).",
+        "New CEO and board members with international private-banking backgrounds; 2026 relaunch of brand and proposition (S2, S4, S3).",
+        "Serves Independent Asset Managers with platform access, an additional distribution channel (S9)."
+      ],
+      "barriers": [
+        "Core and digital stack recently committed to Avaloq (front, middle, back office and web/mobile), so a white-label platform overlap is unlikely; fit is more likely as products or AI agents via APIs (S12, S1).",
+        "Small balance sheet with sharply lower profit during the transformation (H1 2026 net profit AED 11.1m vs 49.3m) may limit new spend (S1).",
+        "Asset management, model portfolios and an open-architecture funds platform are already in-house (S7)."
+      ],
+      "incumbent_vendors": [
+        "Avaloq: core wealth platform, RM Workplace, web/mobile banking, Community APIs (announced 23 Oct 2025, S12)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Interim condensed financial information for the six month period ended 30 June 2026",
+      "publisher": "Emirates Investment Bank P.J.S.C.",
+      "url": "https://eibank.com/assets/pdf/En-EIB-FS-Q2-2026-V4-Set.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-08-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Report and financial statements for the year ended 31 December 2025 (incl. Report of the Board of Directors)",
+      "publisher": "Emirates Investment Bank P.J.S.C.",
+      "url": "https://eibank.com/assets/pdf/En-EIBank-PJSC-FS-31-Dec-2025-Signed-Set.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-02-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Integrated Report 2025 (incl. MD&A and Governance Report 2025)",
+      "publisher": "Emirates Investment Bank P.J.S.C.",
+      "url": "https://eibank.com/assets/pdf/Intergrated-Report-2025-English.pdf",
+      "doc_type": "Annual / integrated report",
+      "tier": 1,
+      "published": "2026-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Executive Committee and Our Bank pages",
+      "publisher": "Emirates Investment Bank",
+      "url": "https://eibank.com/executive-committee",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Board of Directors / Chairman Message pages",
+      "publisher": "Emirates Investment Bank",
+      "url": "https://eibank.com/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Our Solutions",
+      "publisher": "Emirates Investment Bank",
+      "url": "https://eibank.com/our-solutions",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Asset Management (Active Advisory, Discretionary Portfolios, Mutual Funds)",
+      "publisher": "Emirates Investment Bank",
+      "url": "https://eibank.com/asset-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Investor Relations (document list)",
+      "publisher": "Emirates Investment Bank",
+      "url": "https://eibank.com/investor-relations",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Independent Asset Managers",
+      "publisher": "Emirates Investment Bank",
+      "url": "https://eibank.com/independent-asset-managers",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Resolutions of the General Meeting of 19 June 2025 (letter to DFM and SCA)",
+      "publisher": "Emirates Investment Bank P.J.S.C.",
+      "url": "https://eibank.com/assets/pdf/Letter-to-DFM-and-SCA-re-Resolution-of-GM-of-19-June-2025.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2025-06-19",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Appointment of Interim CEO of Emirates Investment Bank PJSC (letter to DFM)",
+      "publisher": "Emirates Investment Bank P.J.S.C.",
+      "url": "https://eibank.com/assets/pdf/Letter-to-DFM-and-SCA-re-appointment-of-Interim-CEO.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2025-06-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Emirates Investment Bank enters partnership with Avaloq",
+      "publisher": "Avaloq",
+      "url": "https://www.avaloq.com/insights/news/emirates-investment-bank-partners-with-avaloq",
+      "doc_type": "Vendor press release",
+      "tier": 2,
+      "published": "2025-10-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Integrated Report 2024 (CEO statement by Gaurav Shah)",
+      "publisher": "Emirates Investment Bank P.J.S.C.",
+      "url": "https://eibank.com/assets/pdf/Integrated-Report-2024-English-27March2025.pdf",
+      "doc_type": "Annual / integrated report",
+      "tier": 1,
+      "published": "2025-03-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Resolutions of the AGM held on 31 March 2026 (letter to DFM)",
+      "publisher": "Emirates Investment Bank P.J.S.C.",
+      "url": "https://eibank.com/assets/pdf/Resolutions-of-the-AGM-held-on-31-3-2026.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-03-31",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Media Centre (press release list)",
+      "publisher": "Emirates Investment Bank",
+      "url": "https://eibank.com/media-centre",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Board list",
+      "detail": "The website director list (S5) shows seven directors and omits Christophe de Backer, who was elected 19 Jun 2025 (S10) and appears in the governance report 2025 (S3, eight members).",
+      "resolution": "Treated the governance report as current; the website looks out of date. The chairman-message page also still teases a CEO message from former CEO Khaled Sifri.",
+      "source_ids": [
+        "S5",
+        "S10",
+        "S3"
+      ]
+    },
+    {
+      "field": "COO and Head of Technology",
+      "detail": "Avaloq's Oct 2025 release quotes Anthony Jaganathan (COO) and Vinod Yadav (Head of Technology), but neither appears on EIB's executive committee page (S4).",
+      "resolution": "Recorded both as 'Requires verification'.",
+      "source_ids": [
+        "S12",
+        "S4"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead 'Tareq Alemam' not verified: the name does not appear on the executive committee or board pages, in the Integrated Report 2025, the H1 2026 statements, the AGM/GM disclosures or the Avaloq release. A news/LinkedIn check was not possible (session web-search budget exhausted).",
+    "Avaloq lead verified from Avaloq's own release (23 Oct 2025). EIB's accounts do not name the vendor. Programme figures are recorded only as the accounts state them (capital commitments AED 45.0m at 30 Jun 2026; intangible purchases AED 42.7m in H1 2026; FY2025 intangible under development AED 35.3m). None of these is a vendor contract value.",
+    "Michel Longhini's exact start date not found (between 17 Jun 2025 and 10 Feb 2026); no CEO appointment disclosure is listed on the IR page.",
+    "Discretionary AUM and client numbers are not disclosed.",
+    "Governance report executive pay and organisation chart were provided in a 'sealed envelope', not published."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B06",
+  "checked": "2026-10-12"
+}

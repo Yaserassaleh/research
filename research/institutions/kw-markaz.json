@@ -1,0 +1,1393 @@
+{
+  "id": "kw-markaz",
+  "name": "Markaz (Kuwait Financial Centre)",
+  "short_name": "Markaz",
+  "legal_name": "Kuwait Financial Centre K.P.S.C.",
+  "name_ar": "المركز المالي الكويتي «المركز»",
+  "country": "KW",
+  "hq_city": "Kuwait City",
+  "website": "https://www.markaz.com",
+  "linkedin_company": "https://www.linkedin.com/company/kuwait-financial-centre",
+  "category": "Non-bank",
+  "type": "Asset & wealth manager",
+  "model": "Conventional",
+  "founded": "1974 (listed on Boursa Kuwait in 1997)",
+  "regulators": [
+    "CMA Kuwait",
+    "CBK"
+  ],
+  "listed": true,
+  "exchange": "Boursa Kuwait",
+  "ticker": "MARKAZ",
+  "parent_id": null,
+  "ownership_summary": "Listed on the Boursa Kuwait Main Market (security code 213). The company's Q1 2026 investor presentation (18 May 2026) names two major shareholders: Kuwait Pillars for Financial Investment (27.72%, direct) and Al Mubader Co (5.13%, direct). Issued share capital is KWD 50.48m; shares outstanding were 466,658,228 per the May 2026 deck. Seven board members (3 independent per the May 2026 deck).",
+  "shareholders": [
+    {
+      "holder": "Kuwait Pillars for Financial Investment",
+      "pct": 27.72,
+      "as_of": "2026-05-18",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "holder": "Al Mubader Co",
+      "pct": 5.13,
+      "as_of": "2026-05-18",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "government_link": "No government shareholding disclosed in company materials (checked 2026-10-12). Commercial link only: Markaz manages part of the Kuwait Investment Authority's National Real Estate Portfolio (described as the Real Estate Income Generating Portfolio, value up to KD 200m, in the Q1 2026 deck).",
+  "group_structure": "Kuwait Financial Centre K.P.S.C. is the listed parent and runs asset management, wealth management, investment banking and real estate itself. Subsidiaries named in the 2026 profile: Mar-Gulf Management, Inc. (Los Angeles; coordinates US real estate since 1998) and Marmore MENA Intelligence (India; majority-owned research and consulting arm, est. 2010). Consolidated accounts include non-controlling interests (KD 7.9m at 31 Dec 2025). Markaz-managed funds include MIDAF, Mumtaz, Forsa Financial Fund, Markaz Arabian Fund, Markaz Islamic Fund, GCC Momentum Fund, Markaz Fixed Income Fund and Markaz Real Estate Fund (MREF). Board (2026 profile): Diraar Y. Alghanim (Chairman), Faisal AbdulAziz Al-Jallal (Vice Chairman), Adel M. Alghannam, Omran Habib Hayat, Ayman Abdulatif Alshaya, Mohammed Saad AlSaad, Fahad Yaqoub Al-Jouan.",
+  "subsidiaries": [
+    {
+      "name": "Mar-Gulf Management, Inc.",
+      "pct": null,
+      "activity": "US real estate investment coordination and management (Los Angeles)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Marmore MENA Intelligence",
+      "pct": null,
+      "activity": "MENA research and consulting (majority-owned; offices in India)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S1"
+      ]
+    }
+  ],
+  "footprint": "Headquartered in Kuwait. 150+ employees with offices across the Middle East, the US and India (Q1 2026 deck). Company states a presence in 13 countries and investments in 15+ countries (2026 profile). Equity, fixed income, advisory and real estate activity across the GCC, Egypt, Lebanon, Germany, Poland, UK, India and USA.",
+  "customer_segments": "Institutional (government and private), corporates, family offices and high-net-worth clients (H1 2026 release: focus on 'institutional and high net worth client relationships'), plus retail investors through mutual funds and the iMarkaz Invest self-directed trading platform.",
+  "business_lines": "Asset management (GCC equity funds and discretionary portfolios, GCC fixed income fund and programmes, Islamic fund); real estate investment (MENA income-generating real estate incl. MREF and the KIA mandate; US/Europe development and industrial programmes); wealth management and business development (incl. Global Investment Advisory: bespoke investment policy and third-party manager selection); investment banking (ECM/DCM, M&A, restructuring, valuations); market making, margin lending and securities lending & borrowing; custody; digital trading via iMarkaz Invest (Kuwait, KSA, UAE, US); research via Marmore.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 192.15,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, consolidated statement of financial position (as reproduced by a market-data page)",
+      "status": "Requires verification",
+      "locator": "Balance-sheet table, column 30 Jun 2026",
+      "note": "The primary H1 2026 interim statements could not be opened (markaz.com behind a bot check; Boursa Kuwait documents return 403). The same data page's 31 Mar 2026 (187.57) and 31 Dec 2025 (194.86) values match Markaz's own decks exactly.",
+      "source_ids": [
+        "S10"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 187566,
+      "unit": "thousand",
+      "currency": "KWD",
+      "period_end": "2026-03-31",
+      "period_label": "31 Mar 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, balance sheet key metrics (investor presentation)",
+      "status": "Verified",
+      "locator": "Q1 2026 deck p.12",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 194859,
+      "unit": "thousand",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, balance sheet key metrics (investor presentation)",
+      "status": "Verified",
+      "locator": "Q4 2025 deck p.14",
+      "note": "",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 117.05,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. non-controlling interests (as reproduced by a market-data page)",
+      "status": "Requires verification",
+      "locator": "Balance-sheet table, column 30 Jun 2026",
+      "note": "Secondary source; see total_assets note.",
+      "source_ids": [
+        "S10"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 122009,
+      "unit": "thousand",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. non-controlling interests (equity attributable to owners of the parent: KD 114,069k)",
+      "status": "Verified",
+      "locator": "Q4 2025 deck p.14",
+      "note": "",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 28592,
+      "unit": "thousand",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total revenue' (Markaz label): management fees & commission, interest and dividend income, fair-value gains, share of results of associates, rental income and other income; before operating expenses and finance costs",
+      "status": "Verified",
+      "locator": "Q4 2025 deck p.3, p.13",
+      "note": "Up 41% from KD 20,309k in 2024.",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 10820,
+      "unit": "thousand",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit attributable to the owners of the parent company",
+      "status": "Verified",
+      "locator": "Q4 2025 deck p.13",
+      "note": "EPS 22 fils. Total net profit for the period KD 10,616k. 2025 dividend 8 fils per share, approved by the AGM in Apr 2026.",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 8.02,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total revenue' (Markaz label), as above",
+      "status": "Verified",
+      "locator": "H1 2026 results release",
+      "note": "Down from KD 14.45m in H1 2025. Q1 2026: KD (2.67)m; Q2 2026: KD 10.68m.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 0.03,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit (release wording 'net profit of KD 0.03 million (EPS: 0.07 fils)'; the EPS implies attributable to shareholders)",
+      "status": "Verified",
+      "locator": "H1 2026 results release; Q1 2026 deck p.3",
+      "note": "Q1 2026 net loss attributable to owners of the parent KD (6,758)k, put down to geopolitical valuation losses; Q2 2026 net profit KD 6.79m. H1 2025 comparative: KD 6.41m.",
+      "source_ids": [
+        "S4",
+        "S1"
+      ]
+    },
+    {
+      "metric": "fee_and_commission_income",
+      "value": 10425,
+      "unit": "thousand",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Management fees and commission (asset management KD 9.33m + investment banking KD 1.10m)",
+      "status": "Verified",
+      "locator": "Q4 2025 deck p.3, p.13",
+      "note": "Up 6.3% from KD 9,811k in 2024.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 1.57,
+      "unit": "billion",
+      "currency": "KWD",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group (all managed assets)",
+      "definition": "Assets under management (issuer label); covers funds, portfolios and real estate; discretionary/non-discretionary split not disclosed",
+      "status": "Verified",
+      "locator": "H1 2026 results release and boilerplate",
+      "note": "Release: 'KD 1.57 billion as of 30 June 2026, compared to KD 1.56 billion' a year earlier. Boilerplate: 'over KD 1.57 billion (USD 5.11 billion)'.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 1453,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2026-03-31",
+      "period_label": "31 Mar 2026",
+      "period_type": "point_in_time",
+      "scope": "Group (all managed assets)",
+      "definition": "Total AUM (issuer label)",
+      "status": "Verified",
+      "locator": "Q1 2026 deck p.3, p.7, p.12; profile p.2",
+      "note": "Down 4.4% from Dec 2025; profile states USD 4.74bn.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 1520,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group (all managed assets)",
+      "definition": "Total AUM (issuer label)",
+      "status": "Verified",
+      "locator": "Q4 2025 deck p.3, p.9, p.14",
+      "note": "Up 7.9% from KD 1,409m at Dec 2024.",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "metric": "aum_gcc_equities",
+      "value": 840,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2026-03-31",
+      "period_label": "31 Mar 2026",
+      "period_type": "point_in_time",
+      "scope": "Segment: GCC equities (funds and portfolios)",
+      "definition": "GCC Equities AUM (issuer label)",
+      "status": "Verified",
+      "locator": "Q1 2026 deck p.7",
+      "note": "Asset management (GCC equity funds, fixed income, others) total KD 1,051m. Group total excludes certain proprietary assets.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "aum_fixed_income",
+      "value": 125,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2026-03-31",
+      "period_label": "31 Mar 2026",
+      "period_type": "point_in_time",
+      "scope": "Segment: GCC fixed income",
+      "definition": "Fixed Income AUM (issuer label)",
+      "status": "Verified",
+      "locator": "Q1 2026 deck p.7",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "aum_real_estate_mena",
+      "value": 300,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2026-03-31",
+      "period_label": "31 Mar 2026",
+      "period_type": "point_in_time",
+      "scope": "Segment: MENA real estate",
+      "definition": "MENA Real Estate AUM (issuer label)",
+      "status": "Verified",
+      "locator": "Q1 2026 deck p.7",
+      "note": "Includes MREF (KD 79m, 16 properties) and the KIA portfolio mandate.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "aum_real_estate_international",
+      "value": 102,
+      "unit": "million",
+      "currency": "KWD",
+      "period_end": "2026-03-31",
+      "period_label": "31 Mar 2026",
+      "period_type": "point_in_time",
+      "scope": "Segment: international real estate",
+      "definition": "International Real Estate AUM (issuer label)",
+      "status": "Verified",
+      "locator": "Q1 2026 deck p.7",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 150,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-05-18",
+      "period_label": "150+ (Q1 2026 deck, 18 May 2026)",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Headcount ('a team of 150+ employees')",
+      "status": "Verified",
+      "locator": "Q1 2026 deck p.4; profile p.5",
+      "note": "2026 profile says '160+ employees'.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Q4 2025 and Q1 2026 investor presentations (S2, S1), 2026 company profile (S3), H1 2026 results release (S4)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "iMarkaz Invest launch coverage, Mar 2026 (S7, S8); H1 2026 release (S4); Q1 2026 deck (S1)."
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "Markaz has a Head of Custody (S3), but no assets-under-custody/administration figure in S1–S4."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "No separate wealth-management client-asset figure in S1–S4; only group AUM and segment AUM."
+    },
+    {
+      "metric": "customer_deposits",
+      "status": "Not publicly disclosed",
+      "where_checked": "Not applicable: non-bank investment company, no customer deposits on the balance sheet (S2 p.14)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Diraar Yusuf Alghanim",
+      "name_ar": null,
+      "title": "Chairman",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page of the 2026 company profile (S3); quoted as Chairman in the FY2025 results release, 11 Feb 2026 (S2, S5). No change news found; checked 2026-10-12.",
+      "source_ids": [
+        "S3",
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faisal AbdulAziz Al-Jallal",
+      "name_ar": null,
+      "title": "Vice Chairman",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page of the 2026 company profile (S3); checked 2026-10-12.",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali H. Khalil",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2020",
+      "appointed_note": "Forbes ME: assumed current position in 2020.",
+      "previous_roles": "2010–2020 Chief Operating Officer, Markaz (oversaw asset management and investment banking); joined the Markaz group in 1989 as President of Mar-Gulf Management (Los Angeles), expanding real estate investments from the US to MENA/GCC and Europe. Also a member of the UNITAR Board of Trustees.",
+      "education": "MBA, INSEAD; M.Sc. and B.Sc. in Industrial Engineering, Texas A&M University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Executive management page of the 2026 profile (S3); FY2025 release, Feb 2026 (S2); Forbes ME Top 50 Asset Managers 2026, No. 24 (S11). The May 2026 appointments did not change his role (S6). LinkedIn search returned only a profile titled 'Ali Khalil - Executive - Markaz', which could not be matched to the CEO.",
+      "source_ids": [
+        "S3",
+        "S2",
+        "S11",
+        "S12",
+        "S6",
+        "S20"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullatif W. Al-Nusif",
+      "name_ar": null,
+      "title": "Deputy Chief Executive Officer",
+      "functions": [
+        "Deputy CEO",
+        "Wealth"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2026-05-07",
+      "appointed_note": "Board approval date. He was Managing Director, Wealth Management and Business Development in the FY2025 release (Feb 2026).",
+      "previous_roles": "Managing Director, Wealth Management and Business Development, Markaz (to May 2026).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Appointment approved by the board on 7 May 2026 (TradeArabia, 10 May 2026, S6; Markaz news page seen in search, S13). Listed as Deputy CEO in the 2026 profile (S3). The only same-name LinkedIn profile found shows a different current organisation, so it was not used.",
+      "source_ids": [
+        "S6",
+        "S3",
+        "S2",
+        "S13",
+        "S20"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Deena Y. Al-Refai",
+      "name_ar": null,
+      "title": "Executive Vice President, Head of Wealth Management and Business Development",
+      "functions": [
+        "Wealth"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Wealth Management and Business Development",
+      "scope": "Group",
+      "appointed": "2026-05-07",
+      "appointed_note": "Appointed head of the department by the board on 7 May 2026. Also the investor-relations contact ('EVP – Investor Relations, Wealth Management and Business Development' in the Q4 2025 and Q1 2026 decks).",
+      "previous_roles": "EVP – Investor Relations, Wealth Management and Business Development, Markaz (per Jan 2026 deck).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Board appointment, 7 May 2026 (S6); senior management page of the 2026 profile (S3); IR contact in the May 2026 deck (S1). No LinkedIn profile found in search.",
+      "source_ids": [
+        "S6",
+        "S3",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Kashish Tandon",
+      "name_ar": null,
+      "title": "Executive Vice President, Global Investment Advisory",
+      "functions": [
+        "Wealth",
+        "Investments / asset management"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Global Investment Advisory",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page of the 2026 profile (S3). LinkedIn search found a 'Kashish Tandon, CFA, CIPM – Kuwait Financial Centre – Markaz' profile, but an older post about a move to another firm made the match ambiguous, so no URL is recorded.",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ghazi A. Al-Osaimi",
+      "name_ar": null,
+      "title": "Executive Vice President, Head of MENA Equities",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "MENA Equities",
+      "scope": "Group",
+      "appointed": "2026-05-07",
+      "appointed_note": "Appointed Head of the MENA Equities Department by the board on 7 May 2026, succeeding Amani Al-Omani.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Board appointment, 7 May 2026 (S6); executive management page of the 2026 profile (S3). No LinkedIn profile found in search.",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Amani Al-Omani",
+      "name_ar": null,
+      "title": "Former Managing Director, MENA Equities Department",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "MENA Equities",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Retired after more than 24 years at Markaz. The board accepted her resignation on 7 May 2026.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "TradeArabia, 10 May 2026 (S6); Markaz news page seen in search (S13).",
+      "source_ids": [
+        "S6",
+        "S13"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Alex W. Salamoun",
+      "name_ar": null,
+      "title": "Managing Director, Head of Strategy & Transformation and Head of Custody",
+      "functions": [
+        "Strategy",
+        "Operations"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Strategy & Transformation; Custody",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Earlier title per LinkedIn snippet: Executive Vice President, Strategic Planning and Post Acquisition (Markaz).",
+      "education": null,
+      "qualifications": "CFA, CAIA (shown in LinkedIn profile name)",
+      "linkedin_url": "https://www.linkedin.com/in/alex-salamoun/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Executive management page of the 2026 profile (S3). LinkedIn search result shows the same name with current employer Kuwait Financial Centre – Markaz and a strategy title (S21).",
+      "source_ids": [
+        "S3",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Salman Olayan",
+      "name_ar": null,
+      "title": "Senior Vice President, Strategic Planning, Digitization & Analytics",
+      "functions": [
+        "Digital",
+        "Strategy"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Strategic Planning, Digitization & Analytics",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": "CFA, CMA (shown in LinkedIn profile name)",
+      "linkedin_url": "https://www.linkedin.com/in/salman-alayan-cfa-cma/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted in the iMarkaz Invest launch, 28–29 Mar 2026 (S7, S8) and the Objectway selection, Jan 2025 (S9). LinkedIn search result shows the same name with current employer Kuwait Financial Centre – Markaz and a digital-leadership credential (S17). SVP level, so not on the profile's management pages.",
+      "source_ids": [
+        "S7",
+        "S8",
+        "S9",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Maryam Al Rifae",
+      "name_ar": null,
+      "title": "Senior Vice President, Wealth Management and Business Development",
+      "functions": [
+        "Wealth"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Wealth Management and Business Development",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Quoted with this title in the iMarkaz Invest launch, 28–29 Mar 2026 (S7, S8). A LinkedIn search snippet links a 'Maryam A. Al-Rifae' to National Investments Company; date and identity are unclear. Not on the 2026 profile pages, which list EVP level and above.",
+      "source_ids": [
+        "S7",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Raja F. Abrar",
+      "name_ar": null,
+      "title": "Executive Vice President and Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive management page of the 2026 profile (S3); checked 2026-10-12.",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmad Al-Falah",
+      "name_ar": null,
+      "title": "Managing Director, Investment Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "Investment Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Executive management page of the 2026 profile (S3); checked 2026-10-12.",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Milad A. Elia",
+      "name_ar": null,
+      "title": "Executive Vice President, MENA Real Estate",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Kuwait Financial Centre K.P.S.C.",
+      "business_unit": "MENA Real Estate",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page of the 2026 profile (S3). No matching LinkedIn profile found.",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "M. R. Raghu",
+      "name_ar": null,
+      "title": "Chief Executive Officer, Marmore MENA Intelligence",
+      "functions": [
+        "Subsidiary CEO"
+      ],
+      "entity": "Marmore MENA Intelligence",
+      "business_unit": "Research",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": "CFA, FRM, FCMA (shown in LinkedIn profile name)",
+      "linkedin_url": "https://www.linkedin.com/in/mrraghu/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Subsidiaries page of the 2026 profile (S3). LinkedIn search result shows the same name with current employer Marmore MENA Intelligence (S22).",
+      "source_ids": [
+        "S3",
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sami Shabshab",
+      "name_ar": null,
+      "title": "Managing Director, Mar-Gulf Management, Inc.",
+      "functions": [
+        "Subsidiary CEO"
+      ],
+      "entity": "Mar-Gulf Management, Inc.",
+      "business_unit": "US real estate",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Subsidiaries page of the 2026 profile (S3); checked 2026-10-12.",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Markaz is a Kuwaiti listed asset manager and investment bank with KD 1.57bn of AUM at 30 Jun 2026. AUM is concentrated in GCC equities (KD 840m at Mar 2026), GCC fixed income (KD 125m) and MENA/international real estate (KD 402m). The product shelf is mostly its own funds and discretionary portfolios: MIDAF, Mumtaz, Forsa (options market maker), Markaz Arabian, Markaz Islamic Fund, GCC Momentum Fund, Markaz Fixed Income Fund and MREF, plus Opportunistic, Dividend and Plain Vanilla portfolios. A Global Investment Advisory team builds bespoke investment policies and selects third-party managers after due diligence. Private credit (2024) and a Private Real Assets strategy for qualified investors (2025) were launched. In March 2026 it launched iMarkaz Invest for self-directed trading in Kuwait, KSA, UAE and US markets, adding 24-hour US access in mid-2026. In Jan 2025 it selected Objectway's client-facing wealth solution.",
+    "segments": [
+      {
+        "name": "Wealth Management (institutional, family office and HNW relationships)",
+        "tier": "HNW",
+        "eligibility": "No published thresholds",
+        "source_ids": [
+          "S4",
+          "S3"
+        ]
+      },
+      {
+        "name": "Qualified investors (Private Real Assets strategy)",
+        "tier": "HNW",
+        "eligibility": "'Qualified investors' (threshold not published)",
+        "source_ids": [
+          "S2"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Not a bank. Wealth Management department (head: Deena Al-Refai, from May 2026) serves HNW, family office and institutional clients with discretionary portfolios, advisory and access to private and international products. Company materials cite 'Best Private Bank in Kuwait' (Global Finance) and 'Best Domestic Private Bank' (2023) awards.",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S1",
+        "S6"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Core business. AUM KD 1.57bn (30 Jun 2026). Own funds: MIDAF, Mumtaz, Forsa Financial Fund, Markaz Arabian Fund, Markaz Islamic Fund, GCC Momentum Fund (2023), Markaz Fixed Income Fund, MREF (KD 79m, 16 properties). Discretionary portfolios. Manages part of KIA's National Real Estate Portfolio. FY2025 asset-management fees KD 9.33m.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "iMarkaz Invest (launched 28 Mar 2026): self-directed trading in Kuwait, Saudi, UAE and US markets via web portal and mobile app, with optional advisory from Wealth Management. 24-hour trading in eligible US equities/ETFs added mid-2026. Also market maker and margin lending services (2020–21) and securities lending & borrowing (2023). Executing broker/technology vendor and the exact CMA licence category were not found.",
+      "source_ids": [
+        "S7",
+        "S8",
+        "S4",
+        "S3",
+        "S14"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "iMarkaz app (launched 2020–21; digital onboarding) and iMarkaz Invest trading platform (Mar 2026) with real-time dashboards, digital account opening and real-time market data. Company cites Euromoney 'Best for Digital Solutions in Kuwait' (2024).",
+      "source_ids": [
+        "S3",
+        "S7",
+        "S8",
+        "S4"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Wealth management advisory and a Global Investment Advisory unit (EVP Kashish Tandon) providing bespoke investment policy planning, asset allocation and third-party manager selection. Investment banking advisory (M&A, restructuring, valuations) for corporates and family offices.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Managed private portfolios: Opportunistic, Dividend-yield and Plain Vanilla equity portfolios; risk-driven fixed income portfolios. AUM includes 'Private Portfolios'.",
+      "source_ids": [
+        "S3",
+        "S1"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo-advisor or digital model-portfolio service found. iMarkaz Invest is self-directed trading. The historical Atlas ETFs Portfolio (2000s) is not evidenced as current.",
+      "source_ids": [
+        "S3",
+        "S7",
+        "S8"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "International advisory gives access to 'leading 3rd party asset managers' selected through due diligence, with 'strategic relationships with leading international asset managers and GPs'. Historical example: Markaz Hamilton Lane Technology Fund of Funds (2000–05). No named fund-platform provider.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured notes found in the profile, decks or 2026 releases. Investment banking has arranged convertible bonds (2023) and the Forsa Financial Fund is an options market maker, but these are not client structured products.",
+      "source_ids": [
+        "S3",
+        "S1",
+        "S4"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Private Credit (launched 2024); Private Real Assets strategy for qualified investors (2025); US/Europe real estate development programmes (e.g. USD 7m commitment to a Phoenix industrial project, Q1 2026); International Private Equity Funds programme (historical). H1 2026 release says it is pursuing private credit, private infrastructure and development financing and broadening private markets, alternatives and advisory.",
+      "source_ids": [
+        "S3",
+        "S2",
+        "S1",
+        "S4"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Markaz Islamic Fund (MIF). FY2025 CEO statement refers to 'specialist Sharia-compliant products'. Markaz is a conventional firm with no Islamic window.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Objectway",
+        "kind": "Wealth technology (client-facing front-end solution)",
+        "what": "Selected to automate client-facing processes and support relationship managers/advisors; Objectway's first Kuwait client. EY Wealth & Asset Management consulting ran the selection.",
+        "date": "2025-01-09",
+        "status": "Announced",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "partner": "Kuwait Investment Authority",
+        "kind": "Client mandate",
+        "what": "Markaz manages part of the National Real Estate (Income Generating) Portfolio, value up to KD 200m",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "partner": "Gulf Bank",
+        "kind": "Distribution",
+        "what": "Long-term partnership to distribute Markaz investment products to Gulf Bank customers (seen in search results only)",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "partner": "Hamilton Lane",
+        "kind": "Product partner",
+        "what": "Markaz Hamilton Lane Technology Fund of Funds (launched 2000–2005)",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2024",
+        "what": "Launched Private Credit offering (50th anniversary year)",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched Private Real Assets strategy for qualified investors",
+        "source_ids": [
+          "S3",
+          "S2"
+        ]
+      },
+      {
+        "date": "2025-01-09",
+        "what": "Selected Objectway client-facing wealth platform (EY-run selection)",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Raised KWD 35m first tranche of a KWD 50m senior unsecured bond programme",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2026-03-28",
+        "what": "Launched iMarkaz Invest digital trading platform (Kuwait, KSA, UAE, US markets) with optional advisory",
+        "source_ids": [
+          "S7",
+          "S8"
+        ]
+      },
+      {
+        "date": "2026-05-07",
+        "what": "Board approved leadership changes: Abdullatif Al-Nusif Deputy CEO; Deena Al-Refai Head of Wealth Management & Business Development; Ghazi Al-Osaimi Head of MENA Equities; Amani Al-Omani retired",
+        "source_ids": [
+          "S6",
+          "S13"
+        ]
+      },
+      {
+        "date": "2026-06",
+        "what": "Added 24-hour access to eligible US equities and ETFs on iMarkaz Invest (dated 18 Jun 2026 by Albawaba, 5 Jul 2026 on the Markaz news listing; both seen in search only)",
+        "source_ids": [
+          "S14",
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-06-30",
+        "what": "H1 2026 release: pursuing private credit, private infrastructure and development financing; broadening private markets, alternatives and advisory; focus on institutional and HNW relationships",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "States it is broadening private markets, alternatives and advisory for institutional and HNW clients (H1 2026 release, S4).",
+        "Digital channel is new and self-directed only: iMarkaz Invest (Mar 2026) has no robo or model-portfolio service found (S7, S8, S3).",
+        "No structured products found on the shelf; shelf is mostly own GCC funds and portfolios plus selected third-party managers (S1, S3).",
+        "New wealth leadership since May 2026 (Deputy CEO Al-Nusif, ex-MD Wealth; Head of WM Deena Al-Refai) (S6, S3).",
+        "Earnings volatility from principal investments (Q1 2026 loss KD 6.76m; H1 2026 profit KD 0.03m) while fee income is stable (FY2025 fees KD 10.4m), which favours fee-generating products (S1, S2, S4)."
+      ],
+      "barriers": [
+        "Already selected Objectway for the client-facing wealth front end (Jan 2025) after a selection run by EY Wealth & Asset Management consulting (S9).",
+        "In-house Strategy & Transformation and Digitization & Analytics functions built and launched iMarkaz Invest (S3, S7).",
+        "Mostly proprietary product shelf; asset manager whose own funds compete with third-party shelf products (S1, S3).",
+        "Kuwait CMA licensing scope for any new product or distribution could not be verified (register unavailable, S18)."
+      ],
+      "incumbent_vendors": [
+        "Objectway — client-facing wealth front-end solution, announced 9 Jan 2025 (S9)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Markaz Earnings Presentation Q1 2026",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://www.markaz.com/getmedia/609527ce-e592-42f8-bdb4-964b8802dcff/Markaz-Earnings-Presentation-Q1-2026.pdf?ext=.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-05-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Markaz Earnings Presentation Q4 2025 (incl. FY2025 results release dated 11 Feb 2026)",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://www.markaz.com/getmedia/850ed89c-52bc-4064-9582-9c8239ffaff0/Markaz-Earnings-Presentation-Q4-2025-Eng_V3.pdf?ext=.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-01-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Markaz Profile 2026",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://www.markaz.com/getmedia/8c0530c8-1f36-495f-aa69-9d6c2982e6bd/Markaz-Profile-Eng-2026.pdf?ext=.pdf",
+      "doc_type": "Company profile (incl. board, executive and senior management pages)",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Markaz records total revenue of KD 8.02mln for H1-2026",
+      "publisher": "Kuwait Financial Centre 'Markaz' (via Zawya)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/markaz-records-total-revenue-of-kd-8.02mln-for-h1-2026-429115",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Markaz records 41pc jump in 2025 net profit",
+      "publisher": "TradeArabia",
+      "url": "https://www.tradearabia.com/News/389175/Markaz-records-41pc-jump-in-2025-net-profit/BANK",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-02-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Markaz announces new leadership appointments",
+      "publisher": "TradeArabia",
+      "url": "https://tradearabia.com/News/462291/Markaz-announces-new-leadership-appointments",
+      "doc_type": "News (company release)",
+      "tier": 5,
+      "published": "2026-05-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Kuwait Financial Centre launches GenNext e-trading platform",
+      "publisher": "TradeArabia",
+      "url": "https://tradearabia.com/News/390621/Kuwait-Financial-Centre-launches-GenNext-e-trading-platform/BANK",
+      "doc_type": "News (company release)",
+      "tier": 5,
+      "published": "2026-03-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Kuwait Financial Centre unveils 'iMarkaz Invest' e-trading platform",
+      "publisher": "GCC Business News",
+      "url": "https://www.gccbusinessnews.com/kuwait-financial-centre-imarkaz-invest/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-03-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Objectway expands into the MENA region by signing with Kuwait Financial Centre 'Markaz'",
+      "publisher": "Objectway (Business Wire, via Silicon UK)",
+      "url": "https://www.silicon.co.uk/press-release/objectway-expands-into-the-mena-region-by-signing-with-kuwait-financial-centre-markaz",
+      "doc_type": "Vendor press release",
+      "tier": 2,
+      "published": "2025-01-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "المركز — stock page, quarterly balance-sheet data (Kuwait Financial Centre)",
+      "publisher": "Aletihad (Abu Dhabi)",
+      "url": "https://www.aletihad.ae/stock/4476096/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2",
+      "doc_type": "Market-data page (secondary)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S11",
+      "title": "Ali Khalil — The Middle East's Top 50 Asset Managers 2026 (No. 24)",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-50-asset-managers-2026/ali-khalil/",
+      "doc_type": "News / ranking list",
+      "tier": 5,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Mr. Ali H. Khalil — UNITAR Board of Trustees biography",
+      "publisher": "UNITAR",
+      "url": "https://unitar.org/about/unitar/governance/board-trustees/mr-ali-h-khalil",
+      "doc_type": "Official biography",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Markaz announces leadership appointments across key business areas",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://www.markaz.com/en/media-center/our-news/markaz-announces-leadership-appointments-across-key-business-areas/",
+      "doc_type": "Company press release",
+      "tier": 2,
+      "published": "2026-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Markaz enhances iMarkaz Invest with 24-hour access to U.S. markets",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://www.markaz.com/en/media-center/our-news/markaz-enhances-imarkaz-invest-with-24-hour-access-to-u-s-markets/",
+      "doc_type": "Company press release",
+      "tier": 2,
+      "published": "2026-07-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Markaz Earnings Presentation Q1 2026 (Arabic)",
+      "publisher": "المركز المالي الكويتي",
+      "url": "https://www.markaz.com/getmedia/0d5b0257-b1c9-4155-a091-8466c7530c17/Markaz-Earnings-Presentation-Q1-2026-Arabic.pdf?ext=.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-05-18",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S16",
+      "title": "Kuwait Financial Centre - Markaz (LinkedIn company page)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/company/kuwait-financial-centre",
+      "doc_type": "LinkedIn company page (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Salman Olayan, CFA, CMA — Kuwait Financial Centre - Markaz (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/salman-alayan-cfa-cma/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "List of Licensed Companies — Capital Markets Authority Kuwait",
+      "publisher": "Capital Markets Authority (Kuwait)",
+      "url": "https://www.cma.gov.kw/en/web/cma/licensed-companies",
+      "doc_type": "Regulator register page",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Markaz and Gulf Bank Extend Their Long-Term Partnership to Fulfill Customers' Investment Needs",
+      "publisher": "Albawaba (press release)",
+      "url": "https://www.albawaba.com/business/pr/markaz-and-gulf-bank-extend-their-long-term-partnership-fulfill-customers-investment",
+      "doc_type": "Press release",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Markaz — Leadership",
+      "publisher": "Kuwait Financial Centre 'Markaz'",
+      "url": "https://www.markaz.com/en/who-we-are/leadership/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Alex Salamoun, CFA, CAIA — Kuwait Financial Centre - Markaz (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alex-salamoun/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "M.R. Raghu, CFA, FRM, FCMA — Marmore MENA Intelligence (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mrraghu/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "total_assets 30 Jun 2026",
+      "detail": "Only available from a secondary market-data page (S10). The primary interim financial statements and H1 2026 deck could not be retrieved.",
+      "resolution": "Recorded with status 'Requires verification'. The data page's Dec 2025 and Mar 2026 figures tie exactly to company decks.",
+      "source_ids": [
+        "S10",
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "KIA National Real Estate Portfolio mandate size",
+      "detail": "2026 profile timeline (2010–14 entry): 'value up to KD 250 million'. Q1 2026 deck: 'Real Estate Income Generating Portfolio with a value up to KD 200 million'.",
+      "resolution": "Used the more recent deck (KD 200m); the profile figure is probably the original mandate size.",
+      "source_ids": [
+        "S3",
+        "S1"
+      ]
+    },
+    {
+      "field": "24-hour US access launch date",
+      "detail": "Albawaba copy dated 18 Jun 2026 vs Markaz news listing 05/07/2026 (both search-only).",
+      "resolution": "Recorded as 2026-06 (mid-2026). Capability confirmed by the H1 2026 release (S4).",
+      "source_ids": [
+        "S14"
+      ]
+    },
+    {
+      "field": "Shares outstanding / independent directors",
+      "detail": "Q4 2025 deck: 488,729,346 shares, 2 independent directors. Q1 2026 deck: 466,658,228 shares, 3 independent directors.",
+      "resolution": "Used the later deck. Difference probably reflects treasury shares and board changes; not investigated.",
+      "source_ids": [
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "field": "Headcount",
+      "detail": "Decks: '150+ employees'; 2026 profile: '160+ employees'.",
+      "resolution": "Recorded 150 (deck) with the profile figure noted.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "field": "Abdullatif Al-Nusif title",
+      "detail": "'Managing Director, Wealth Management and Business Development' (Feb 2026, S2) vs 'Deputy CEO' (from 7 May 2026, S6/S3).",
+      "resolution": "This is a promotion, not a conflict; current title Deputy CEO.",
+      "source_ids": [
+        "S2",
+        "S6",
+        "S3"
+      ]
+    }
+  ],
+  "open_items": [
+    "markaz.com HTML pages (news, IR, leadership) sit behind a Cloudflare bot-check, which was not bypassed. PDFs under /getmedia/ were readable. The H1 2026 deck and interim statements URLs were not found in search; get them to verify 30 Jun 2026 total assets/equity.",
+    "Boursa Kuwait disclosure documents (docs.boursakuwait.com.kw) and Kamco research PDFs returned 403.",
+    "CMA Kuwait licensed-companies register was unavailable ('temporarily unavailable'), so Markaz's exact licensed activities (incl. broker/custodian categories behind iMarkaz Invest and custody) are unverified. The company states it is regulated by CMA and CBK (S1 disclaimer).",
+    "iMarkaz Invest execution broker and technology vendor not disclosed. The Objectway go-live status (announced Jan 2025) is not confirmed.",
+    "Aggregator pages (not cited) list Markaz Fund for Excellent Yields (Mumtaz) with about 13% of Markaz shares. Check the Boursa Kuwait major-shareholder disclosures.",
+    "Q3 2026 (30 Sep 2026) results not yet published as of 12 Oct 2026.",
+    "LinkedIn not verified for the CEO, Deputy CEO, Head of Wealth, Head of MENA Equities, EVP Global Investment Advisory and EVP MENA Real Estate. A LinkedIn snippet names Bassam Al-Othman as MD MENA Real Estate, but he is not in the 2026 profile; probably outdated.",
+    "Maryam Al Rifae (SVP Wealth Management, Mar 2026) needs current-role confirmation."
+  ],
+  "research_status": "Partial",
+  "researched_by": "P3",
+  "checked": "2026-10-12"
+}

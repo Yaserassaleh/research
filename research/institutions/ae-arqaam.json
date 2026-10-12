@@ -1,0 +1,1134 @@
+{
+  "id": "ae-arqaam",
+  "name": "Arqaam Capital",
+  "short_name": "Arqaam",
+  "legal_name": "Arqaam Capital Limited (DIFC operating entity); group parent is Arqaam Capital Limited (Cayman Islands)",
+  "name_ar": null,
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.arqaamcapital.com",
+  "linkedin_company": null,
+  "category": "Non-bank",
+  "type": "Investment bank / alternatives manager",
+  "model": "Not applicable",
+  "founded": "2007 (established in the Cayman Islands and the DIFC, per the firm's overview page; Bloomberg/Gulf News 2019 says Riad Meliti set it up in 2007)",
+  "regulators": [
+    "DFSA (Arqaam Capital Limited, DIFC: Category 2 licence per the firm; register reference F000407 seen in search results)",
+    "UAE Capital Market Authority (Arqaam Securities LLC)",
+    "Saudi CMA (Arqaam Capital Financial Company)",
+    "Egyptian FRA / EFRA (three Egyptian entities)",
+    "CIMA (Cayman Islands registered person, affiliates only)"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Privately held, not listed, with about 65 shareholders (firm's Shareholder Information page, undated). The employee share plan Arqaam Capital SIPCO Limited is the largest holder and no other holder has 10% or more; about 70% is held by a few key investors and over 60% is GCC owned or controlled. Named 5%+ holders: SIPCO, Wafra International Investment Co (PIFSS Kuwait), Emirates NBD, Al Dhow Holding (Al Sayer Group) and Commercial Bank International. Newer investors, stakes undisclosed: Ethmar International Holding of Abu Dhabi (May 2025) and Bader Nasser Al-Kharafi / BNK Group with National Investments Company (NIC) of Kuwait (7 Jul 2026). Checked 12 Oct 2026; no wind-down or sale of the firm found.",
+  "shareholders": [
+    {
+      "holder": "Arqaam Capital SIPCO Limited (employee share incentive plan; largest shareholder; Arqaam managers and employees)",
+      "pct": null,
+      "as_of": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "holder": "Wafra International Investment Co (investment arm of PIFSS Kuwait; 5%+ holder)",
+      "pct": null,
+      "as_of": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "holder": "Emirates NBD Bank PJSC (DFM-listed; 5%+ holder)",
+      "pct": null,
+      "as_of": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "holder": "Al Dhow Holding Company KSC (investment arm of Al Sayer Group; 5%+ holder)",
+      "pct": null,
+      "as_of": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "holder": "Commercial Bank International PSC (ADX-listed; 5%+ holder)",
+      "pct": null,
+      "as_of": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "holder": "Ethmar International Holding (Abu Dhabi); undisclosed investment announced May 2025; press also lists Qatar Insurance Company among existing regional shareholders",
+      "pct": null,
+      "as_of": "2025-05-13",
+      "source_ids": [
+        "S21"
+      ]
+    },
+    {
+      "holder": "Bader Nasser Al-Kharafi / BNK Holding and National Investments Company (NIC, Kuwait); strategic investment announced 7 Jul 2026, size and stakes not disclosed",
+      "pct": null,
+      "as_of": "2026-07-07",
+      "source_ids": [
+        "S16"
+      ]
+    }
+  ],
+  "government_link": "Indirect and minority only: Wafra (PIFSS Kuwait, a government social-security institution), Emirates NBD (largely Dubai Government owned) and CBI (largely Qatar and Ras Al Khaimah government linked) are named 5%+ holders per the firm's page (S4). No controlling state shareholder. Checked 2026-10-12.",
+  "group_structure": "Arqaam Capital Limited (Cayman) is the pure holding parent. Arqaam Global Markets Limited (Cayman) holds the regulated financial-services business (DIFC, UAE, KSA, Egypt entities, plus Arqaam Capital Research Offshore s.a.l. in Lebanon); Arqaam Capital Principal Finance Limited (Cayman) holds the Arqaam Investment Partners alternatives business; Arqaam Group Central Support Services Limited (DIFC) provides shared services. Arqaam Wealth and Arqaam Digital are listed as 'new initiatives' with no named legal entity. Ownership percentages in subsidiaries are not disclosed. Financial statements are private (auditor Deloitte & Touche (M.E.), year-end 31 Dec).",
+  "subsidiaries": [
+    {
+      "name": "Arqaam Capital Limited (DIFC)",
+      "pct": null,
+      "activity": "DFSA Category 2: dealing as principal and agent, arranging, advising, managing assets, managing a collective investment fund, custody; Islamic Window endorsement",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Arqaam Securities LLC (UAE)",
+      "pct": null,
+      "activity": "UAE CMA brokerage, IPO and market-making licences",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Arqaam Capital Financial Company (KSA)",
+      "pct": null,
+      "activity": "Saudi CMA advising and arranging licences; CMA managing-investments licence (resolution 13 May 2025)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S23"
+      ]
+    },
+    {
+      "name": "Arqaam Securities Brokerage S.A.E. (Egypt)",
+      "pct": null,
+      "activity": "Equities brokerage, margin trading and selling, intraday, GDR trading licences (EFRA)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Arqaam Capital for Promoting, Underwriting and Financial Advisory of Financial Securities S.A.E. (Egypt)",
+      "pct": null,
+      "activity": "Promoting and underwriting securities; corporate finance advisory",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Arqaam Capital Egypt Holding for Financial Investments S.A.E.",
+      "pct": null,
+      "activity": "Custody/bookkeeping and holding company licences (EFRA)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Arqaam Capital Research Offshore s.a.l. (Lebanon)",
+      "pct": null,
+      "activity": "Assists with drafting research",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "Arqaam Capital Principal Finance Limited (Cayman) and project vehicles",
+      "pct": null,
+      "activity": "Arqaam Investment Partners: hotel project in Hvar (Croatia), gold mining in Mongolia/Kazakhstan, Agripower (Australia), Wego (Singapore), Quiqup (UK)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "footprint": "Headquarters at Level 27, Unit 2701, Index Tower, DIFC, Dubai. The overview page says five offices in four countries (UAE, KSA, Egypt, Lebanon) while its location list shows Cayman, DIFC, UAE, KSA, Egypt and Lebanon. A physical office in Kuwait is planned (Jul 2026 release). Homepage counters show 5 regional offices and about 200 staff (S1, S2, S16). Checked 2026-10-12.",
+  "customer_segments": "Institutional investors (sales and trading, research, corporate access), corporates and governments (investment banking), and high-net-worth individuals and family offices (Arqaam Wealth and the equities business). No retail or mass-affluent proposition found.",
+  "business_lines": "Four business lines on the website: Arqaam Markets (sales and trading, brokerage, market making, derivatives, credit trading, research, investment banking, asset management, wealth), Arqaam Principal (Arqaam Investment Partners alternatives), Arqaam Wealth and Arqaam Digital (new initiatives; Digital has no public description). Asset management runs Fixed Income (FIAM) and Equities (EQAM) strategies with three open-ended funds and discretionary mandates. Research covers over 230 stocks with 26 analysts. Investment banking covers M&A, ECM and DCM. (Sources: S9-S14.)",
+  "metrics": [
+    {
+      "metric": "aum",
+      "value": 1.7,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-05-13",
+      "period_label": "As stated in the firm's statement of 13 May 2025",
+      "period_type": "point_in_time",
+      "scope": "Wealth and asset management business (advisory, fixed income, equities and alternative strategies)",
+      "definition": "Assets under management as reported by Enterprise AM from Arqaam's statement; discretionary versus non-discretionary split not given",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Secondary press report of a company figure; not found on Arqaam's own pages. The firm's Jul 2026 Forbes post says AUM has grown but gives no figure (S17).",
+      "source_ids": [
+        "S21"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 43.7,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-12-31",
+      "period_label": "2025 ('Trading Volume / 2025')",
+      "period_type": "duration",
+      "scope": "Arqaam Group (all trading)",
+      "definition": "Homepage counter 'Trading Volume / 2025', value 43.7 with label 'B / $' (read as USD billion); counter value read from page markup because the figure is script-rendered",
+      "status": "Verified",
+      "locator": "Homepage statistics strip",
+      "note": "Unaudited company claim. Enterprise AM reported over USD 35bn of MENA securities executed in 2024 for more than 1,100 institutional clients (S21).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 200,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Homepage counter, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "Arqaam Group",
+      "definition": "Homepage counter 'Staff Employed' (animates from 190 to 200); rounded company figure",
+      "status": "Verified",
+      "locator": "Homepage statistics strip",
+      "note": "Read from page markup; not an audited headcount.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "research_coverage_stocks",
+      "value": 230,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "Arqaam research (MENA equities)",
+      "definition": "Listed stocks under research coverage; 'over 230 stocks' on the Research page, homepage counter 'Research Stocks' ends at 230",
+      "status": "Verified",
+      "locator": "",
+      "note": "Research team of 26 analysts (S13).",
+      "source_ids": [
+        "S13",
+        "S1"
+      ]
+    },
+    {
+      "metric": "fund_count",
+      "value": 3,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Funds named on the Asset Management page, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "Arqaam Asset Management",
+      "definition": "Open-ended mutual funds named: Arqaam MENA Bond Income Fund, Arqaam Islamic Income Fund, Arqaam Capital Value Fund",
+      "status": "Verified",
+      "locator": "",
+      "note": "Fund domiciles, sizes and managers are not stated on the page. Other (older) funds appear in search results only.",
+      "source_ids": [
+        "S11"
+      ]
+    },
+    {
+      "metric": "institutional_clients",
+      "value": 1100,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2024-12-31",
+      "period_label": "2024 (more than 1.1 thousand institutional clients served)",
+      "period_type": "duration",
+      "scope": "Securities execution clients",
+      "definition": "Institutional clients for which more than USD 35bn of MENA securities were executed in 2024; lower bound",
+      "status": "Requires verification",
+      "locator": "",
+      "note": "Reported by Enterprise AM from Arqaam's statement.",
+      "source_ids": [
+        "S21"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "total_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Financial Information page states 'Arqaam Group financial statements are private and not publicly available' (S6); statements are shared on request with shareholders, clients and counterparties. Checked 2026-10-12."
+    },
+    {
+      "metric": "operating_income",
+      "status": "Not publicly disclosed",
+      "where_checked": "As above (S6); Investor Relations pages (S4, S5, S3) hold no results."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not publicly disclosed",
+      "where_checked": "As above (S6). No profit figure in the May 2025 Ethmar coverage (S21), the Jul 2026 BNK release (S16) or the news list (S15)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not found after research",
+      "where_checked": "Wealth Management page (S12) gives no client-asset figure; AUM of USD 1.7bn covers wealth and asset management together (S21)."
+    },
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "No total client count on the website (S1, S2, S9-S12). Only 'more than 1.1k institutional clients' in 2024 (S21)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "No digital or retail investing channel found, so no user count (S1, S12; the Arqaam Digital page returned 404)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Riad Meliti",
+      "name_ar": null,
+      "title": "Founder and Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Arqaam Capital",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2007",
+      "appointed_note": "Bloomberg/Gulf News (May 2019) says he set up the firm in 2007 (S24).",
+      "previous_roles": "Former Barclays Capital banker who set up Arqaam in 2007 to focus on emerging-market investment banking (Gulf News/Bloomberg, 2019, S24).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as 'founder and Chief Executive Officer, Arqaam Capital' in the firm's release of 7 Jul 2026 (S16); a WAM article of Jun 2026 on the 13th MENA Investor Conference names him CEO (seen in search results only, S27). A DFSA register individual page for him appeared in search results (page returned 403). One LinkedIn search found no profile. No departure news found. Checked 2026-10-12.",
+      "source_ids": [
+        "S16",
+        "S24",
+        "S25",
+        "S27"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jaap Meijer",
+      "name_ar": null,
+      "title": "Head of Research",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Arqaam Capital",
+      "business_unit": "Research",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": null,
+      "education": "MBA (institution not stated on the Research page)",
+      "qualifications": "CFA",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Named 'Head of Research: Jaap MEIJER, MBA, CFA' on the official Research page, checked 2026-10-12 (S13). The page is undated.",
+      "source_ids": [
+        "S13"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdul Kadir Hussain",
+      "name_ar": null,
+      "title": "Head of Fixed Income Asset Management (title from search-result sources; no title on Arqaam's own page)",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Arqaam Capital",
+      "business_unit": "Asset Management (Fixed Income, FIAM)",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": "CFA",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed first among eight FIAM team members, with CFA, in the firm's 25 Jun 2026 Sukuk Fund of the Year post, which gives no titles (S18). The head-of-FIAM title comes from a Gulf News fund-launch article and a contributor profile seen in search results only (S29); neither is dated. A LinkedIn profile titled with his name appeared in search results but its snippet did not show Arqaam as employer, so no URL is recorded.",
+      "source_ids": [
+        "S18",
+        "S29"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Karim Baghdady",
+      "name_ar": null,
+      "title": "Managing Director (institutional investment banking, emerging and frontier markets)",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Arqaam Capital",
+      "business_unit": "Investment banking",
+      "scope": "Group",
+      "appointed": "2026-03",
+      "appointed_note": "Joined in Mar 2026 per a search-result summary of an HR Today article (page returned 403).",
+      "previous_roles": "Managing Director at EFG Holding; earlier CEO of EFG Hermes USA; nearly three decades in capital markets and institutional sales (search-result summary only).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Single secondary source seen in search results only (S26); not on Arqaam's news list (S15). Checked 2026-10-12.",
+      "source_ids": [
+        "S26"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Paolo Casamassima",
+      "name_ar": null,
+      "title": "Executive Director, Investor Relations and Stakeholder Engagement",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Arqaam Capital",
+      "business_unit": "Investor Relations",
+      "scope": "Group",
+      "appointed": "2025-10",
+      "appointed_note": "Appointment reported 1 Oct 2025 (S22).",
+      "previous_roles": "CEO of the Middle East Investor Relations Association (Meira), where corporate membership doubled; earlier Orient Capital and Greensea Capital Investment Bank (S22).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Enterprise AM, 1 Oct 2025 (S22). No 2026 source found.",
+      "source_ids": [
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Dr. Nazih Hammad",
+      "name_ar": null,
+      "title": "Chairman, Shariah Supervisory Board (Arqaam Islamic Income Fund)",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Arqaam Capital (fund Shariah board)",
+      "business_unit": "Asset Management",
+      "scope": "Fund governance (external board)",
+      "appointed": null,
+      "appointed_note": "Date not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named on the Asset Management page (undated), checked 2026-10-12 (S11).",
+      "source_ids": [
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Dr. Amin Fateh",
+      "name_ar": null,
+      "title": "Member, Shariah Supervisory Board (Arqaam Islamic Income Fund)",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Arqaam Capital (fund Shariah board)",
+      "business_unit": "Asset Management",
+      "scope": "Fund governance (external board)",
+      "appointed": null,
+      "appointed_note": "Date not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named on the Asset Management page (undated), checked 2026-10-12 (S11).",
+      "source_ids": [
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Dr. Muhammad Amin Qattan",
+      "name_ar": null,
+      "title": "Member, Shariah Supervisory Board (Arqaam Islamic Income Fund)",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Arqaam Capital (fund Shariah board)",
+      "business_unit": "Asset Management",
+      "scope": "Fund governance (external board)",
+      "appointed": null,
+      "appointed_note": "Date not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named on the Asset Management page (undated), checked 2026-10-12 (S11).",
+      "source_ids": [
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Arqaam is an independent, DIFC-headquartered investment bank, broker and asset manager (est. 2007) whose clients are mainly institutions, with a smaller wealth offer. Arqaam Wealth is described as independent global wealth management for high-net-worth and family-office clients, on discretionary and non-discretionary bases, with portfolio construction, advisory, outsourced CIO, custodian-risk diversification and consolidated reporting; no minimum, platform or head is published. Asset management runs three open-ended funds (MENA Bond Income, Islamic Income, Capital Value) and discretionary mandates; the firm reported USD 1.7bn of AUM across wealth and asset management in May 2025 (press report of a company figure). The DFSA Category 2 licence covers dealing, advising, managing assets and collective funds, with an Islamic Window, and the markets arm offers brokerage (GCC and Egypt, access to 40 exchanges), market making, derivatives and structured products. Arqaam Digital is named as a new initiative but has no public description. Fresh capital came from Ethmar (May 2025) and BNK Group with NIC (Jul 2026).",
+    "segments": [
+      {
+        "name": "Arqaam Wealth",
+        "tier": "HNW / family office",
+        "eligibility": "High-net-worth and family-office clients; no minimum published",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "name": "Arqaam Markets and Asset Management (institutional)",
+        "tier": "Institutional / professional",
+        "eligibility": "Global institutions, high-net-worth individuals and family offices (equities business); funds and mandates for investors",
+        "source_ids": [
+          "S9",
+          "S10",
+          "S11"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Not a bank. Arqaam Wealth gives HNW and family-office clients discretionary and non-discretionary management, investment advisory, outsourced CIO, custodian-risk diversification and consolidated reporting, working with clients' own banks and custodians. No named head, minimum or client-asset figure published.",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Fixed Income (FIAM: global bonds and sukuk, conventional and Shariah universe) and Equities (EQAM: listed MENA equities) teams run three open-ended funds (Arqaam MENA Bond Income Fund, Arqaam Islamic Income Fund, Arqaam Capital Value Fund) plus discretionary mandates. USD 1.7bn AUM across wealth and asset management (May 2025, press report). Sukuk Fund of the Year at the Global Banking & Markets Awards (Jun 2026) and Lipper recognition for the Islamic Income Fund (Jun 2026). Fund domiciles and sizes not stated.",
+      "source_ids": [
+        "S11",
+        "S18",
+        "S15",
+        "S21"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Arqaam Securities LLC (UAE CMA brokerage, IPO and market-making licences) and Arqaam Securities Brokerage S.A.E. (Egypt: equities brokerage, margin trading, intraday, GDR). Offers direct market access and a unified algo suite through in-house ArqNeT, access to 40 exchanges globally, and market making on DFM, ADX and Tadawul. Homepage shows USD 43.7bn trading volume in 2025 (company counter). Institutional focus with HNW and family-office clients served by the equities business.",
+      "source_ids": [
+        "S3",
+        "S10",
+        "S1"
+      ]
+    },
+    "digital_investing": {
+      "present": "Unclear",
+      "detail": "Arqaam Digital is listed as a business line and as a 'new initiative' with no named entity, product or launch date; its page returned 404. The only digital channel found is institutional (ArqNeT electronic execution). No retail app found.",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S10"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Investment advisory is a stated wealth service, and the DFSA licence covers advising on financial products and on credit; Saudi CMA advising licence for Arqaam Capital Financial Company.",
+      "source_ids": [
+        "S12",
+        "S3"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Wealth management 'on a discretionary and non-discretionary basis' and discretionary mandates in both fixed-income and equity strategies; DFSA 'managing assets' permission; Saudi CMA managing-investments licence (resolution 13 May 2025).",
+      "source_ids": [
+        "S12",
+        "S11",
+        "S3",
+        "S23"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Unclear",
+      "detail": "The Research page cites a 'MENA Equity Core' model portfolio (27.9% a year since May 2012, past performance) that can be shared with clients via Bloomberg. It is a research product, not a client robo or model-portfolio service.",
+      "source_ids": [
+        "S13"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "Only Arqaam's own three mutual funds were found. The wealth page lists funds among products within 'the full range of Arqaam products and services' but names no third-party fund shelf or platform provider.",
+      "source_ids": [
+        "S11",
+        "S12"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Derivatives desk covers options, futures, swaps and structured products, OTC and exchange-traded; the DFSA licence scope lists structured products. Distribution to wealth clients not described.",
+      "source_ids": [
+        "S10",
+        "S3"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Arqaam Principal / Arqaam Investment Partners holds alternative investments: a luxury hotel and residences project in Hvar (Croatia), gold mining in Mongolia expanding into Kazakhstan, Agripower (Australia), Wego (Singapore) and Quiqup (UK). The wealth page lists 'alternatives' in the product range; whether these are offered to wealth clients is not stated.",
+      "source_ids": [
+        "S5",
+        "S12"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "DFSA Islamic Window endorsement; Arqaam Islamic Income Fund (open-ended, Shariah Supervisory Board of Sheikh Dr. Nazih Hammad, Sheikh Dr. Amin Fateh and Sheikh Dr. Muhammad Amin Qattan); sukuk strategies; Sukuk Fund of the Year award (Jun 2026).",
+      "source_ids": [
+        "S3",
+        "S11",
+        "S18"
+      ]
+    },
+    "asset_classes": [
+      "GCC equities",
+      "Bonds",
+      "Sukuk",
+      "Mutual funds",
+      "Structured products",
+      "Private markets / alternatives"
+    ],
+    "partners": [
+      {
+        "partner": "Bahrain Bourse",
+        "kind": "Exchange / research mandate",
+        "what": "Appointed to expand institutional equity research coverage: quarterly coverage of seven listed companies and a flagship Bahrain country report",
+        "date": "2026-05-18",
+        "status": "Live",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "partner": "Bloomberg",
+        "kind": "Distribution channel",
+        "what": "MENA Equity Core model portfolio shareable with clients via Bloomberg",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "partner": "Ethmar International Holding",
+        "kind": "Strategic investor",
+        "what": "Undisclosed investment to fuel growth across MENA (equity and debt capital markets, brokerage, investor relations, IB, asset management, principal finance)",
+        "date": "2025-05-13",
+        "status": "Live",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "partner": "BNK Group (Bader Nasser Al-Kharafi) and National Investments Company (NIC)",
+        "kind": "Strategic investors",
+        "what": "Strategic investment to accelerate Kuwait expansion, including a planned physical office; size not disclosed",
+        "date": "2026-07-07",
+        "status": "Announced",
+        "source_ids": [
+          "S16"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-05-13",
+        "what": "Ethmar International Holding made an undisclosed investment in Arqaam; firm cited USD 1.7bn wealth and asset management AUM and over USD 12bn of ECM and M&A advised since 2021",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "date": "2025-10-02",
+        "what": "Saudi CMA licensed Arqaam Capital Financial Co. for managing investments (resolution dated 13 May 2025); Argaam report date shown as 02/10/2025, read as 2 Oct 2025 because the resolution is dated May 2025",
+        "source_ids": [
+          "S23"
+        ]
+      },
+      {
+        "date": "2025-10-01",
+        "what": "Appointed Paolo Casamassima as Executive Director, Investor Relations and Stakeholder Engagement",
+        "source_ids": [
+          "S22"
+        ]
+      },
+      {
+        "date": "2026-03",
+        "what": "Karim Baghdady reported as joining as Managing Director to build institutional investment banking in emerging and frontier markets (search-result summary only)",
+        "source_ids": [
+          "S26"
+        ]
+      },
+      {
+        "date": "2026-05-18",
+        "what": "Appointed by Bahrain Bourse to expand institutional equity research coverage",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "date": "2026-06-04",
+        "what": "Held its 13th MENA Annual Investor Conference (a WAM article of Jun 2026 says it was to be inaugurated by Sheikh Nahyan bin Mubarak; seen in search results only)",
+        "source_ids": [
+          "S28",
+          "S27"
+        ]
+      },
+      {
+        "date": "2026-06-18",
+        "what": "Advised Welspun World on the sale of a 4.6% stake (about SAR 284m) in Tadawul-listed East Pipes Integrated Company",
+        "source_ids": [
+          "S20"
+        ]
+      },
+      {
+        "date": "2026-06-25",
+        "what": "Fixed Income Asset Management team won Sukuk Fund of the Year at the Global Banking & Markets Awards (third GBM award in four years)",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "date": "2026-07-07",
+        "what": "Announced strategic investment by Bader Nasser Al-Kharafi / BNK Holding and National Investments Company (NIC) to accelerate Kuwait expansion",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "date": "2026-07-10",
+        "what": "Named among Forbes' Top 50 Asset Managers in MENA, citing 'sustained momentum in our AUM growth' without a figure",
+        "source_ids": [
+          "S17"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Runs an in-house discretionary and advisory wealth service for HNW and family offices that lists funds and alternatives, with no published platform, head or minimum (S12).",
+        "Arqaam Digital is named as a 'new initiative' alongside Arqaam Wealth with no public description; its page returned 404 (S1, S5).",
+        "Shelf is own products plus alternatives: three own mutual funds (one Islamic) and Arqaam Investment Partners projects; no third-party fund shelf found (S11, S5).",
+        "New capital: Ethmar (May 2025) and BNK Group with NIC (Jul 2026) to expand core businesses and Kuwait (S21, S16).",
+        "Saudi CMA managing-investments licence (resolution 13 May 2025) adds discretionary capability in KSA (S23)."
+      ],
+      "barriers": [
+        "Institution-led investment bank; wealth is described as a new initiative and USD 1.7bn AUM (May 2025) covers wealth and asset management together (S5, S21).",
+        "Builds and runs its own execution technology (ArqNeT) and its own funds (S10, S11).",
+        "Financial statements are private; no financial figures to size the business (S6).",
+        "No named head of wealth or chair; leadership beyond the CEO and Head of Research is thinly documented (S13, S16)."
+      ],
+      "incumbent_vendors": [
+        "ArqNeT - in-house electronic execution and algo suite (S10)",
+        "Bloomberg - distribution of the MENA Equity Core model portfolio (S13)",
+        "Clients' own banks and custodians - custody for wealth clients; none named (S12)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Arqaam Capital homepage (business lines, news, statistics strip, fraud warning)",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Overview",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/overview/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Regulatory Status",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/regulatory-status/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Shareholder Information",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/shareholder-information/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Corporate Structure",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/corporate-structure/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Financial Information",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/financial-information/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Corporate Governance",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/corporate-governance/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Governance (landing page: board section, advisory board 'Coming soon', policies)",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/governance/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Arqaam Markets",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/arqaam-markets/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Sales & Trading and Brokerage",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/sales-trading/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Asset Management",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/asset-management/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Wealth Management",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/wealth-management/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Research",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/research/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Investment Banking",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/investment-banking/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "News (first page of 10)",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/category/news/",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": "2026-09-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Arqaam Capital announces strategic investment by Bader Nasser Al-Kharafi and his BNK Group to accelerate Kuwait expansion",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2026/07/07/arqaam-capital-announces-strategic-investment-by-bader-nasser-al-kharafi-and-his-bnk-group-to-accelerate-kuwait-expansion/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Arqaam Capital has been named among Forbes' Top 50 Asset Managers in MENA",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2026/07/10/arqaam-capital-has-been-named-among-forbes-top-50-asset-managers-in-mena/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Arqaam Capital wins Sukuk Fund of the Year at the Global Banking & Markets Awards",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2026/06/25/arqaam-capital-wins-sukuk-fund-of-the-year-at-the-global-banking-markets-awards/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-06-25",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Arqaam Capital has been appointed by Bahrain Bourse to expand institutional equity research coverage of the Kingdom's capital market",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2026/05/18/arqaam-capital-has-been-appointed-by-bahrain-bourse-to-expand-institutional-equity-research-coverage-of-the-kingdoms-capital-market/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-05-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Arqaam Capital advised Welspun World on the sale of a 4.6% stake in East Pipes Integrated Company",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2026/06/18/arqaam-capital-is-pleased-to-have-advised-welspun-world-on-the-successful-execution-of-the-sale-of-a-4-6-stake-in-east-pipes-integrated-company/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-06-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Ethmar buys into Arqaam Capital",
+      "publisher": "Enterprise AM",
+      "url": "https://enterpriseam.com/uae/2025/05/13/ethmar-buys-into-arqaam-capital/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-05-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Arqaam Capital appoints a new investor relations executive",
+      "publisher": "Enterprise AM",
+      "url": "https://enterpriseam.com/uae/2025/10/01/arqaam-capital-appoints-a-new-investor-relations-executive/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-10-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "CMA licenses Arqaam Capital Financial to conduct managing investments activity in securities business",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1847256",
+      "doc_type": "News (regulator announcement)",
+      "tier": 5,
+      "published": "2025-10-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "UAE investment banks Arqaam and TNI weigh merger",
+      "publisher": "Gulf News (Bloomberg)",
+      "url": "https://gulfnews.com/business/banking/uae-investment-banks-arqaam-and-tni-weigh-merger-1.63774879",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2019-05-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "DFSA Public Register - individual: Mr Riad Meliti (register entries list Arqaam Capital Limited, ref F000407, Authorised Firms)",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://dfsa.ae/public-register/individuals/mr-riad-meliti",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Karim Baghdady joins Arqaam Capital as Managing Director",
+      "publisher": "HR Today",
+      "url": "https://hrtoday.in/karim-baghdady-joins-arqaam-capital-as-managing-director/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "Nahyan bin Mubarak to inaugurate Arqaam Capital's 13th Annual MENA Investor Conference",
+      "publisher": "WAM",
+      "url": "https://www.wam.ae/en/article/c0i8kye-nahyan-bin-mubarak-inaugurate-arqaam-capital%E2%80%99s",
+      "doc_type": "News agency",
+      "tier": 5,
+      "published": "2026-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "13th MENA Annual Investor Conference (post)",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2026/06/04/we-delivered-when-the-region-needed-the-most-from-the-region-for-the-region-arqaam-capital/",
+      "doc_type": "News post (teaser)",
+      "tier": 2,
+      "published": "2026-06-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "Arqaam Capital launches two fixed-income funds",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/markets/arqaam-capital-launches-two-fixed-income-funds-1.2095615",
+      "doc_type": "News",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Shareholders",
+      "detail": "The firm's Shareholder Information page (S4, undated) lists SIPCO, Wafra, Emirates NBD, Al Dhow and CBI and does not mention Ethmar (May 2025), BNK/NIC (Jul 2026) or Qatar Insurance Company, which Enterprise AM lists as an existing shareholder (S21).",
+      "resolution": "Recorded all as shareholders with the source for each; percentages are not disclosed and the official page appears out of date.",
+      "source_ids": [
+        "S4",
+        "S21",
+        "S16"
+      ]
+    },
+    {
+      "field": "Number of offices",
+      "detail": "The overview page says 'five offices in four countries' but lists six entries (Cayman, DIFC, UAE, KSA, Egypt, Lebanon); the homepage counter shows 5 regional offices.",
+      "resolution": "Treated as five operating offices plus the Cayman holding entity.",
+      "source_ids": [
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "field": "Company status (lead from task notes: wind-down or acquisition)",
+      "detail": "No wind-down, sale or merger of Arqaam found. The firm is operating and issuing releases to 29 Sep 2026, and took new investment in May 2025 and Jul 2026. A Bloomberg report of May 2019 on merger talks with The National Investor is the only merger item and no completed deal was found.",
+      "resolution": "Recorded as an active private investment bank; the lead is not supported.",
+      "source_ids": [
+        "S15",
+        "S16",
+        "S21",
+        "S24"
+      ]
+    }
+  ],
+  "open_items": [
+    "DFSA public register pages returned 403, so the licence category and permitted activities for Arqaam Capital Limited (F000407 per search results) were taken from the firm's own Regulatory Status page (S3). Check the DFSA register, the UAE CMA and Saudi CMA registers directly.",
+    "No licence numbers or dates are published on the firm's site. The UAE CMA and Egyptian FRA permits are company statements only.",
+    "Financial statements are private (S6): total assets, income and profit are not available. AUM of USD 1.7bn (May 2025) is a press-reported company figure; the Jul 2026 Forbes post says AUM has grown but gives no number.",
+    "Board and management: the /board-of-directors/ page returned 404 and the Advisory Board is 'Coming soon'; no chairman or directors named. No head of Arqaam Wealth or of equities asset management found; Abdul Kadir Hussain's head-of-FIAM title rests on undated search-result sources; Karim Baghdady (HR Today, 403) and Paolo Casamassima (Enterprise AM) rest on single sources.",
+    "LinkedIn: one search for Riad Meliti found no profile; LinkedIn checks for the head of research and asset-management leads were not run (search quota); all linkedin_url left null.",
+    "Arqaam Digital: page returned 404; scope unknown. Check whether it includes any wealth or investing app.",
+    "Homepage statistics (staff 200, trading volume USD 43.7bn in 2025, 230 research stocks) were read from script-rendered counter markup; confirm visually in a browser. 'B / $' was read as USD billion.",
+    "The Saudi CMA managing-investments licence is from an Argaam report whose date is ambiguous (02/10/2025); the CMA announcement itself (CMA_N_3886, seen in search results) was not opened.",
+    "Fund domiciles, sizes and fund managers for the three mutual funds are not stated; older Arqaam funds (value fund, macro hedge fund) appear in search results only and their current status is unknown.",
+    "The task notes suggested a possible acquisition or wind-down; none was found (see discrepancies).",
+    "Governance pages (S7, S8) name no directors or executives; the firm's investment banking page (S14) lists services but no transactions or people."
+  ],
+  "research_status": "Partial",
+  "researched_by": "R2",
+  "checked": "2026-10-12"
+}

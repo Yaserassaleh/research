@@ -1,0 +1,999 @@
+{
+  "id": "ae-cbi",
+  "name": "Commercial Bank International",
+  "short_name": "CBI",
+  "legal_name": "Commercial Bank International P.J.S.C.",
+  "name_ar": null,
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.cbiuae.com",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1991 (Emiri Decree No. 5/91 of the Ruler of Ras Al Khaimah, 28 Apr 1991; registered office Ras Al Khaimah, head office Dubai)",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "CBI",
+  "parent_id": null,
+  "ownership_summary": "Listed on ADX. Qatar National Bank (QNB) is the largest shareholder with 40% and has four non-independent board seats, including the Vice Chairman. The Bin Owaida family and business hold 22.40% and Mohd Omar Bin Haidar Investment 8.87% (all at 31 Dec 2025). The annual report says the majority of shareholders are UAE citizens and include the Government of Ras Al Khaimah (stake not disclosed). Share capital was unchanged at AED 1,737m from 31 Dec 2024 to 30 Jun 2026, although a rights issue of up to AED 889.1m was approved in Jul 2023. No merger or change of control found for 2024–2026 (official sources checked 2026-10-12).",
+  "shareholders": [
+    {
+      "holder": "Qatar National Bank (QNB)",
+      "pct": 40.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "Bin Owaida family and business",
+      "pct": 22.4,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "Mohd Omar Bin Haidar Investment",
+      "pct": 8.87,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "holder": "Government of Ras Al Khaimah (named among shareholders; stake below 5%, not disclosed)",
+      "pct": null,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "government_link": "Limited. The annual report says shareholders include the Government of Ras Al Khaimah (below the 5% disclosure threshold) and the bank was set up by Emiri Decree of the Ruler of Ras Al Khaimah. The largest shareholder is Qatar National Bank (40%).",
+  "group_structure": "Commercial Bank International P.J.S.C. is the bank. It has Cayman SPVs for funding and Tier 1 capital, legacy real-estate subsidiaries from loan resolutions (some partly owned), and CBIx, an innovation and corporate venture-capital arm launched Oct 2025. CBIx Investment Limited and CBIx Tech Labs Limited (DIFC, 100%) first appear as subsidiaries at 30 Jun 2026. An Islamic window still books Islamic financing, but after a CBUAE fine over Islamic-window governance the bank resolved in 2025 to close it in an orderly way, with Higher Shariah Authority no-objection. No wealth, brokerage or asset-management subsidiary found.",
+  "subsidiaries": [
+    {
+      "name": "CBIx Investment Limited (DIFC)",
+      "pct": 100,
+      "activity": "Investments (corporate venture capital); new in 2026",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "CBIx Tech Labs Limited (DIFC)",
+      "pct": 100,
+      "activity": "Technology (innovation lab); new in 2026",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "CBI Financial Services Limited; CBI Tier 1 Private Ltd (Cayman Islands)",
+      "pct": 100,
+      "activity": "Special-purpose funding vehicles",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "Takamul Real Estate L.L.C. (100%); Al Khaleejiah Property Investments LLC (53%); Al Caribi Development Limited (100%); Callaloo CAY Development Limited (80%, under liquidation); Arzaq Holdings (Private J.S.C.) (48%)",
+      "pct": null,
+      "activity": "Real estate",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "Tekle Holographics MENA Holding Ltd.",
+      "pct": 25,
+      "activity": "Technology (holographics); associate",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "footprint": "UAE only: six branches at 30 Jun 2026. The annual report lists locations in Abu Dhabi (Al Bateen Street), Al Ain (electronic banking unit), Dubai (Al Rigga Street, Dubai Mall, Jumeirah Street), Ras Al Khaimah (Julphar Towers) and Sharjah (Al Majaz).",
+  "customer_segments": "Wholesale Banking Group: mid-market and emerging corporates (150+ new clients in 2025). Innovation Banking: fintech, AI, virtual-asset, tokenisation and gaming firms, plus banking-as-a-service and cards-as-a-service partners. Retail Banking Group: repositioned from mass market to priority and affluent customers (CBI First), with some ultra-high-net-worth clients mentioned.",
+  "business_lines": "Wholesale banking (FY2025 net operating income AED 453m), retail banking (AED 41m), treasury, real estate (legacy portfolio being sold down), innovation banking / BaaS / cards-as-a-service, and CBIx (innovation lab and corporate venture capital, launched Oct 2025). Reported segments: wholesale banking, retail banking, treasury, real estate, other.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 22977762,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated statement of financial position (reviewed)",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "Release rounds to AED 23bn",
+      "source_ids": [
+        "S1",
+        "S11"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 16380856,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customer accounts and other deposits; excludes deposits and balances due to banks (AED 2,137,810k)",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 14202897,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans, advances and Islamic financing (net), including Islamic financing",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 3455418,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity, including AED 459,125k Tier 1 instruments and AED 165,925k non-controlling interests",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 21945098,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, consolidated statement of financial position (audited)",
+      "status": "Verified",
+      "locator": "FS PDF p.10",
+      "note": "Comparative year-end figure",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 791337,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net operating income' (net interest and Islamic financing income + net fees + other operating income + share of associates; before G&A and impairment)",
+      "status": "Verified",
+      "locator": "FS PDF p.11",
+      "note": "Includes AED 242.6m 'other operating income, net' (partly real-estate related)",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 248632,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year after tax attributable to owners of the Bank (total profit AED 294,786k incl. AED 46,154k non-controlling interests)",
+      "status": "Verified",
+      "locator": "FS PDF p.11",
+      "note": "The bank headlines pre-tax profit (AED 311.1m, +40%)",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 142457,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period attributable to owners of the Bank, six months to 30 Jun 2026 (total AED 141,495k; pre-tax AED 156,310k)",
+      "status": "Verified",
+      "locator": "FS p.3 (PDF p.5)",
+      "note": "Helped by AED 69.4m net impairment reversal from resolving legacy issues",
+      "source_ids": [
+        "S1",
+        "S11"
+      ]
+    },
+    {
+      "metric": "retail_segment_operating_income",
+      "value": 41,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Retail Banking Group",
+      "definition": "Retail Banking Group net operating income (RBG deposits AED 3.3bn, net loans AED 1.1bn at end-2025)",
+      "status": "Verified",
+      "locator": "AR 2025 PDF p.15",
+      "note": "Rounded, from the business review",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 528,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Permanent employees",
+      "status": "Conflicting sources",
+      "locator": "AR 2025 PDF p.37 (528); 'CBI at a glance' PDF p.46 (533)",
+      "note": "Corporate governance section says 528 permanent employees; 'at a glance' page says 533 employees (possibly includes non-permanent staff)",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 6,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "UAE",
+      "definition": "Branches in the UAE",
+      "status": "Verified",
+      "locator": "Note 1",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not found after research",
+      "where_checked": "No wealth/asset-management business found. H1 2026 FS (S1), FY2025 FS (S2), Annual Report 2025 (S3), personal banking and CBI First pages (S7, S8)"
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Annual Report 2025 (S3) gives only new-customer counts (372 new retail and 150+ new wholesale customers in 2025)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "No investment product on the website or mobile app (S8, S9)"
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not found after research",
+      "where_checked": "Annual Report 2025 retail section (S3 p.15); CBI First page (S7)"
+    }
+  ],
+  "people": [
+    {
+      "name": "Saif Ali Al Shehhi",
+      "name_ar": null,
+      "title": "Chairman of the Board (Independent, Non-Executive)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2020-11-02",
+      "appointed_note": "Board member from 26 Jul 2020; Chairperson from 2 Nov 2020; re-appointed 28 Feb 2023. Board term ended Feb 2026 and a new 3-year board was to be elected at the 2 Mar 2026 AGM; he signed the H1 2026 statements as Chairman on 30 Jul 2026.",
+      "previous_roles": "Former board roles at Abu Dhabi Investment Company, ADIB International (Washington DC), Etihad Credit Insurance, Mastercard, National Takaful Company and Visa International; executive roles at Aafaq Islamic Finance and National Bank of Abu Dhabi; Head of Foreign and Local Banks at the CBUAE (AR 2025).",
+      "education": "BA Management and Technology, Central New England College (USA)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page checked 2026-10-12 (S5); signed H1 2026 statements as Chairman, 30 Jul 2026 (S1).",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S3",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Rashid Al Mohannadi",
+      "name_ar": null,
+      "title": "Vice Chairman (Non-Independent, Non-Executive; QNB representative)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2020-03-30",
+      "appointed_note": "Re-appointed 28 Feb 2023; board re-elected 2 Mar 2026.",
+      "previous_roles": "Executive General Manager and Chief Operating Officer, Qatar National Bank; Chairman QNB Alahli (Egypt); board member QNB Capital (AR 2025).",
+      "education": "BSc Computer Science, Qatar University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page checked 2026-10-12 (S5).",
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Sultan Rakkad Al Amri",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2020",
+      "appointed_note": "Acting CEO 2019, confirmed CEO 2020 (AR 2025); the website says CEO since 2019. Also Chairman of subsidiary CBIx.",
+      "previous_roles": "Joined CBI in 2000 as Senior Corporate Officer; then Emirates NBD (Corporate Banking Manager), Barclays (Senior RM), Noor Islamic Bank (Head of Business Development); returned to CBI in 2010 as Chief Wholesale Banking Officer (AR 2025).",
+      "education": "MBA, University of Jordan; Bachelor's in Marketing, Ajman University; executive education, IESE Business School",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team page checked 2026-10-12 (S6); signed H1 2026 statements as CEO, 30 Jul 2026 (S1); quoted in H1 2026 release (S11).",
+      "source_ids": [
+        "S6",
+        "S1",
+        "S3",
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hassanain Ali",
+      "name_ar": null,
+      "title": "Executive Vice President, Retail Banking Group",
+      "functions": [
+        "Retail",
+        "Affluent"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Retail Banking Group",
+      "scope": "Bank",
+      "appointed": "2019-12-01",
+      "appointed_note": "Previously CBI's Head of Corporate Banking.",
+      "previous_roles": "Emirates NBD; First Gulf Bank (VP, Large Corporates); Standard Chartered. Chairman of Arzaq PSC; board member Al Sagr Insurance PJSC (AR 2025).",
+      "education": "Higher Diploma in Banking and Finance and BA Applied Science, Higher Colleges of Technology (UAE)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team page checked 2026-10-12 (S6); AR 2025 executive list as of 31 Dec 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Giovanni Everduin",
+      "name_ar": null,
+      "title": "Chief Strategy and Innovation Officer",
+      "functions": [
+        "Strategy",
+        "Innovation / partnerships"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Strategy and Innovation",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not stated. The team page also calls him Head of Strategy and Transformation.",
+      "previous_roles": "Chief People Officer, Tanfeeth (Emirates NBD subsidiary); Accenture London (global change and transformation programmes). Board director of CBIx, Zypl and Tekle Holographics MENA (AR 2025).",
+      "education": "Bachelor's in Psychology, University of Groningen; Harvard Business School alumnus",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team page checked 2026-10-12 (S6); AR 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Evren Altiok",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Operations",
+      "scope": "Bank",
+      "appointed": "2020-01-21",
+      "appointed_note": "Oversees Operations, IT, Procurement, Credit Administration, Real Estate, Administrative Services, Marketing and Corporate Communications.",
+      "previous_roles": "Senior roles at HSBC and Merrill Lynch (AR 2025).",
+      "education": "MSc International Relations, London School of Economics",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team page checked 2026-10-12 (S6); AR 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Rajesh Arora",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Finance",
+      "scope": "Bank",
+      "appointed": "2024-03-04",
+      "appointed_note": "",
+      "previous_roles": "Head of Finance and CFO, Al Hilal Bank; Standard Chartered (Regional CFO Northern Gulf and Levant; CFO SCB UAE; Global Head of Finance Transformation) (AR 2025).",
+      "education": "Master's in Finance, Symbiosis Institute",
+      "qualifications": "Certified Cost and Management Accountant",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team page checked 2026-10-12 (S6); AR 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Kumar Mahapatra",
+      "name_ar": null,
+      "title": "Executive Vice President, Wholesale Banking Group",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Wholesale Banking Group",
+      "scope": "Bank",
+      "appointed": "2020-03-23",
+      "appointed_note": "",
+      "previous_roles": "Calyon (Credit Agricole), Emirates NBD, HDFC, ICICI; Vice Chairman of Arzaq PSC (AR 2025).",
+      "education": "BA Economics, Delhi University; MBA Finance",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Team page checked 2026-10-12 (S6); AR 2025 (S3).",
+      "source_ids": [
+        "S6",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Rowan Luke",
+      "name_ar": null,
+      "title": "Senior Vice President, Treasury and Investments",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Treasury",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named only in the AR 2025 organisation chart (S3 p.27); not on the website team page (S6).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bulent Erdemir",
+      "name_ar": null,
+      "title": "Senior Vice President, Technology",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Commercial Bank International P.J.S.C.",
+      "business_unit": "Technology (under COO)",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named only in the AR 2025 organisation chart (S3 p.27); not on the website team page (S6).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "CBI has no visible wealth or investment offer. The personal-banking menu covers accounts, cards, loans, overdraft, savings, insurance and remittance, and the mobile app has no investment features. Its premium offer is CBI First priority banking (accounts, mortgage, loans, CBI First Mastercard, insurance, relationship managers); eligibility thresholds were not on the page fetched. The refreshed strategy (AR 2025) has a pillar 'Build Generational Wealth for Affluent Customers', aiming to grow retail revenue 'by offering a focused Wealth Management proposition powered by select strategic partnerships and a superior CX'. The retail business is small: FY2025 Retail Banking Group net operating income was AED 41m out of AED 791m, with 372 new retail customers in 2025. The bank has an innovation and tokenisation profile: it launched CBIx (Oct 2025), says it advised QNB Wealth and Asset Management and QNB Singapore on a tokenised money market fund (QCD), and is a founding partner in the ASCEND real-world-asset accelerator with Plume.",
+    "segments": [
+      {
+        "name": "CBI First (Priority Banking)",
+        "tier": "Affluent",
+        "eligibility": "Not stated on the page fetched (eligibility sub-page not read)",
+        "source_ids": [
+          "S7",
+          "S3"
+        ]
+      },
+      {
+        "name": "Invitation-only Rewards World / Rewards Platinum Mastercard holders; UHNW and priority clients invited to events",
+        "tier": "Affluent / HNW",
+        "eligibility": "Invitation only",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private banking unit. The annual report mentions events for ultra-high-net-worth and priority clients only.",
+      "source_ids": [
+        "S3",
+        "S8"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset-management entity or funds. CBIx Investment Limited is a corporate venture-capital vehicle investing the bank's own capital.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "brokerage": {
+      "present": "Not found after research",
+      "detail": "No brokerage offer on the website or in the annual report.",
+      "source_ids": [
+        "S8",
+        "S3"
+      ]
+    },
+    "digital_investing": {
+      "present": "No",
+      "detail": "The CBI mobile app covers accounts, cards, loans, mortgages, transfers and selected account opening; no investing features.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "advisory": {
+      "present": "Not found after research",
+      "detail": "Only relationship management for CBI First; no investment advisory described.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S3",
+        "S8"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S3",
+        "S8"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No third-party funds shelf on personal banking pages.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found for retail clients.",
+      "source_ids": [
+        "S8",
+        "S3"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No client private-markets products. CBIx invests the bank's own capital in ventures (e.g. Boomitra).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "No",
+      "detail": "The Islamic window is being closed after a CBUAE fine on Islamic-window governance (AR 2025); no Shariah wealth products found.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "asset_classes": [],
+    "partners": [
+      {
+        "partner": "Creatio",
+        "kind": "AI / workflow and CRM technology",
+        "what": "Bank's first enterprise-wide AI implementation for operational efficiency and workflow automation",
+        "date": "2025",
+        "status": "Announced",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Zafin",
+        "kind": "AI transaction analytics",
+        "what": "AI-driven transaction analytics for data-led customer engagement",
+        "date": "2025",
+        "status": "Announced",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Greengage",
+        "kind": "Banking-as-a-service",
+        "what": "Regulated banking infrastructure for fintech and digital businesses",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Mercury Payment Services, VOLT, Now Money, Instapay, Glyd, Telda",
+        "kind": "Cards-as-a-service / embedded finance",
+        "what": "Prepaid and programme-based cards, payroll and expense solutions",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "QNB Wealth and Asset Management / QNB Singapore",
+        "kind": "Tokenisation advisory (group shareholder)",
+        "what": "CBI says it advised and supported them in setting up a tokenised money market fund (QCD)",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Plume (ASCEND accelerator)",
+        "kind": "Real-world-asset tokenisation",
+        "what": "Founding partner in ASCEND RWA accelerator",
+        "date": "2025",
+        "status": "Announced",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2023-07-12",
+        "what": "General assembly approved a rights issue of up to AED 889.1m (decided 4 Oct 2023); share capital still AED 1,737m at 30 Jun 2026",
+        "source_ids": [
+          "S3",
+          "S1"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Strategy refresh: banking-as-a-service; 'Build Generational Wealth for Affluent Customers' through a wealth proposition with select partners; corporate services; emerging corporates; strengthen the core",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "New core banking system rolled out (core banking transformation programme overseen by the Board)",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Decided an orderly closure of the Islamic window after a CBUAE fine on Islamic-window governance requirements",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025-10",
+        "what": "Launched CBIx, innovation lab and corporate venture-capital platform; CBIx Investment Ltd and CBIx Tech Labs Ltd (DIFC) consolidated from 2026",
+        "source_ids": [
+          "S3",
+          "S12",
+          "S1"
+        ]
+      },
+      {
+        "date": "2026-03-02",
+        "what": "AGM: board election for a 3-year term; no dividend for FY2025 (board recommendation to reinvest)",
+        "source_ids": [
+          "S10",
+          "S3"
+        ]
+      },
+      {
+        "date": "2026-07-30",
+        "what": "H1 2026 pre-tax profit AED 156m (+68%), helped by legacy-issue recoveries; total assets AED 23bn",
+        "source_ids": [
+          "S11",
+          "S1"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Strategy pillar 'Build Generational Wealth for Affluent Customers' plans a wealth proposition 'powered by select strategic partnerships', but no investment products exist on the website or app today (S3 p.12, S8, S9).",
+        "Retail repositioned to priority/affluent (CBI First) with an invitation-only premium card base, and some UHNW clients mentioned (S3 p.15, S7).",
+        "Partnership-led, innovation-heavy culture: CBIx (Oct 2025), new core banking, Creatio and Zafin AI deals, tokenisation work with QNB WAM and Plume (S3)."
+      ],
+      "barriers": [
+        "Very small retail franchise: Retail Banking Group FY2025 net operating income AED 41m of AED 791m; 372 new retail customers in 2025 (S3).",
+        "Focus on legacy-asset resolution and real-estate disposals; no FY2025 dividend (S3, S10, S11).",
+        "Largest shareholder QNB (40%, four board seats) has its own wealth and asset-management arm, which CBI has already worked with (S3).",
+        "Islamic window closing after a CBUAE fine, so Shariah-compliant wealth is unlikely (S3)."
+      ],
+      "incumbent_vendors": [
+        "Creatio — AI/workflow platform (S3)",
+        "Zafin — AI transaction analytics (S3)",
+        "Mobile app: the Android package id 'com.silverlake.cbimobileretail' suggests Silverlake, but the page does not name a vendor (S9) — unconfirmed"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Review report and condensed consolidated interim financial information for the six months period ended 30 June 2026",
+      "publisher": "Commercial Bank International P.J.S.C. (reviewed by Grant Thornton UAE)",
+      "url": "https://www.cbiuae.com/media/0bidqvs3/financial-results-june-2026.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "Commercial Bank International P.J.S.C. (audited by Grant Thornton UAE)",
+      "url": "https://www.cbiuae.com/media/3yvlsasn/en-cbi-fs-dec-2025-final-26-jan-2026.pdf",
+      "doc_type": "Audited annual financial statements",
+      "tier": 1,
+      "published": "2026-01-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "CBI Annual Report 2025 (incl. corporate governance report)",
+      "publisher": "Commercial Bank International",
+      "url": "https://www.cbiuae.com/media/fklj5pgi/cbi-annual-report-2025_final.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Investor Relations — Financial Information",
+      "publisher": "Commercial Bank International",
+      "url": "https://www.cbiuae.com/en/about-cbi/investor-relations/financial-information/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Board of Directors",
+      "publisher": "Commercial Bank International",
+      "url": "https://www.cbiuae.com/en/about-cbi/overview/board-of-directors/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Meet The Team",
+      "publisher": "Commercial Bank International",
+      "url": "https://www.cbiuae.com/en/about-cbi/overview/meet-the-team/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "CBI First (Priority Banking)",
+      "publisher": "Commercial Bank International",
+      "url": "https://www.cbiuae.com/en/cbi-first/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Personal Banking (product menu)",
+      "publisher": "Commercial Bank International",
+      "url": "https://www.cbiuae.com/en/personal/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Mobile Banking App",
+      "publisher": "Commercial Bank International",
+      "url": "https://www.cbiuae.com/en/personal/ways-to-bank/mobile-banking-app/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Invitation to Attend the Annual General Assembly Meeting of Commercial Bank International PJSC (2 March 2026)",
+      "publisher": "Commercial Bank International",
+      "url": "https://www.cbiuae.com/media/peknvpnj/al-khaleej-times-newspaper-english-h26x-w2932.pdf",
+      "doc_type": "AGM notice (exchange/shareholder disclosure)",
+      "tier": 1,
+      "published": "2026-02-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "CBI grows pre-tax profit by 68% to AED 156 million in H1 2026",
+      "publisher": "Commercial Bank International via Zawya press-release channel",
+      "url": "https://www.zawya.com/en/press-release/companies-news/cbi-grows-pre-tax-profit-by-68-to-aed-156-million-in-h1-2026-416344",
+      "doc_type": "Company press release (republished)",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "News and Media (incl. 'CBI Launches CBIx to Power Banking Innovation and Corporate Venture Capital')",
+      "publisher": "Commercial Bank International",
+      "url": "https://www.cbiuae.com/en/about-cbi/news-and-media/",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Employees",
+      "detail": "AR 2025 corporate governance section: 528 permanent employees at 31 Dec 2025; 'CBI at a glance': 533 employees.",
+      "resolution": "528 recorded (permanent staff); both noted.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "CEO appointment date",
+      "detail": "AR 2025 says Acting CEO 2019 and confirmed CEO 2020; the website team page says CEO since 2019.",
+      "resolution": "Recorded 2020 (confirmation) with note.",
+      "source_ids": [
+        "S3",
+        "S6"
+      ]
+    },
+    {
+      "field": "HQ",
+      "detail": "Registered office is in Ras Al Khaimah (FS note 1) while press releases say headquartered in Dubai.",
+      "resolution": "hq_city = Dubai (operating head office); registered office noted in 'founded'.",
+      "source_ids": [
+        "S1",
+        "S11"
+      ]
+    }
+  ],
+  "open_items": [
+    "WebSearch quota ran out during this institution, so no news search for 2025–2026 appointments, departures, QNB stake changes or merger talks. Leadership was verified only against official pages (board/team pages, H1 2026 statements signed 30 Jul 2026). Re-run a news check, including whether QNB is reviewing its 40% stake.",
+    "LinkedIn checks not performed (search quota exhausted) for CEO, retail and strategy/innovation heads.",
+    "Rights issue of up to AED 889.1m (approved Jul 2023): share capital unchanged at AED 1,737m through 30 Jun 2026; completion or cancellation not established.",
+    "2 Mar 2026 AGM results (board composition and resolutions) not read; the website board list matches the pre-AGM board.",
+    "CBI First eligibility thresholds not read (sub-page not fetched).",
+    "No wealth head named; the RBG org chart shows 'Sales and Distribution' SVP and a products VP role vacant (AR 2025 p.27).",
+    "Arabic legal name not captured from an official source.",
+    "Q3 2026 results not yet published on the IR page at 2026-10-12."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B05",
+  "checked": "2026-10-12"
+}

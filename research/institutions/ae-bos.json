@@ -1,0 +1,1093 @@
+{
+  "id": "ae-bos",
+  "name": "Bank of Sharjah",
+  "short_name": "BOS",
+  "legal_name": "Bank of Sharjah P.J.S.C.",
+  "name_ar": "بنك الشارقة",
+  "country": "AE",
+  "hq_city": "Sharjah",
+  "website": "https://www.bankofsharjah.com",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional",
+  "founded": "1973 (incorporated by Amiri Decree of the Ruler of Sharjah, 22 Dec 1973; CBUAE banking licence 26 Jan 1974; listed on ADX 2004)",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "BOS",
+  "parent_id": null,
+  "ownership_summary": "Listed on ADX; the Government of Sharjah, through Sharjah Asset Management, is the largest shareholder with 39.25% at 31 Dec 2025, after an AED 800m capital increase approved on 4 May 2023 lifted its stake from 17.16% to about 40% and share capital to AED 3bn. United Alsaqer Group (linked to Deputy Chairman Sheikh Saif bin Mohammed bin Butti Al Hamed) holds 9.31%. No ownership change, merger or recapitalisation found for 2024–2026 (checked 2026-10-12).",
+  "shareholders": [
+    {
+      "holder": "Sharjah Asset Management (Government of Sharjah investment arm)",
+      "pct": 39.25,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "holder": "United Alsaqer Group",
+      "pct": 9.31,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    }
+  ],
+  "government_link": "Yes — Government of Sharjah via Sharjah Asset Management (39.25% at 31 Dec 2025). The Ruler of Sharjah is Honorary Chairman, the Chairman chairs the Sharjah Finance Department, and the CEO of Sharjah Asset Management sits on the board (board page checked 2026-10-12).",
+  "group_structure": "Bank of Sharjah P.J.S.C. is the operating bank. Its Lebanese subsidiary, Emirates Lebanon Bank S.A.L. (100%), has been deconsolidated and held for sale since 1 Apr 2023 at AED 844.8m. The sale was still pending at 30 Jun 2026, with several potential buyers under confidentiality agreements, and the auditor added an emphasis of matter. The other subsidiaries are investment, real-estate and Cayman funding vehicles. No wealth, brokerage or asset-management subsidiary was found; private banking and wealth sit inside the bank.",
+  "subsidiaries": [
+    {
+      "name": "Emirates Lebanon Bank S.A.L. (Lebanon) — held for sale since 1 Apr 2023",
+      "pct": 100,
+      "activity": "Financial institution (deconsolidated, IFRS 5 held for sale)",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "El Capital FZC",
+      "pct": 100,
+      "activity": "Investment in a financial institution",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "BOS Capital FZC",
+      "pct": 100,
+      "activity": "Investment",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "Real-estate vehicles: BOS Real Estate FZC, Borealis Gulf FZC, Muwaileh Capital FZC (90%), GTW Holding Ltd and GDLR Holding Ltd (ADGM), BOS Real Estate Egypt",
+      "pct": null,
+      "activity": "Real-estate development, holding and disposal (100% unless stated)",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "BOS Funding Limited, BOS Repos Limited, BOS Derivatives Limited (Cayman Islands)",
+      "pct": 100,
+      "activity": "Financing vehicles",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "Polyco General Trading L.L.C.",
+      "pct": 100,
+      "activity": "General trading",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "footprint": "UAE: six branches in Sharjah, Dubai, Abu Dhabi and Al Ain at 30 Jun 2026. PBWM is based in Dubai Media City. Lebanon (Emirates Lebanon Bank) is held for sale.",
+  "customer_segments": "Mainly wholesale: large and mid-sized corporates, government and semi-government entities (GREs) and financial institutions. A small high-net-worth private banking base (PBWM). A retail banking department was still being set up in 2025–2026, first aimed at owners and employees of the bank's corporate clients, with a premium/wealth focus.",
+  "business_lines": "Commercial/wholesale banking (largest line), transaction banking (cash management, trade finance), project finance, investment banking (DCM/ECM, M&A finance), treasury, Private Banking & Wealth Management (PBWM, set up 2012; HNW clients; equities, fixed income, mutual funds, structured investments, precious metals), and a retail banking business being built from inception since Aug 2025. Two reported segments: Commercial; Investment and treasury.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 53210427,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated interim statement of financial position (reviewed)",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "Includes Emirates Lebanon Bank held for sale at AED 844.8m",
+      "source_ids": [
+        "S1",
+        "S11"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 33453559,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits; excludes deposits and balances due to banks (AED 4,847,107k) and repo borrowings (AED 3,402,744k)",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 36504018,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and advances, net (net of expected credit losses)",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 4786520,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity, including non-controlling interests of AED 757k",
+      "status": "Verified",
+      "locator": "FS p.2 (PDF p.4)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 48371413,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, consolidated statement of financial position (audited)",
+      "status": "Verified",
+      "locator": "FS p.8 (PDF p.10)",
+      "note": "Comparative year-end figure",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 1146549,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income' (before net impairment loss). 'Net operating income' after impairment was AED 1,096,904k",
+      "status": "Verified",
+      "locator": "FS p.9 (PDF p.11)",
+      "note": "Includes AED 210.6m net income on properties; the bank said non-interest income was partly driven by one-off transactions",
+      "source_ids": [
+        "S2",
+        "S12"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 729404,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit attributable to equity holders of the Bank (total net profit for the year AED 728,782k)",
+      "status": "Verified",
+      "locator": "FS p.9 (PDF p.11)",
+      "note": "Up from AED 384,474k in FY2024",
+      "source_ids": [
+        "S2",
+        "S12"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 362073,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit attributable to equity holders of the Bank, six months to 30 Jun 2026 (total net profit AED 361,912k)",
+      "status": "Verified",
+      "locator": "FS p.3 (PDF p.5)",
+      "note": "H1 2025: AED 268,978k. Q2 2026 alone: AED 210,877k (+39% y/y, the release headline)",
+      "source_ids": [
+        "S1",
+        "S11"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 332,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025 average",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Average workforce used for the emissions-intensity calculation",
+      "status": "Verified",
+      "locator": "Integrated Report 2025, PDF p.31",
+      "note": "Average, not year-end headcount",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 6,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "UAE",
+      "definition": "Branches in the UAE (Sharjah, Dubai, Abu Dhabi, Al Ain)",
+      "status": "Verified",
+      "locator": "Note 1 (PDF p.9)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "H1 2026 interim FS (S1), FY2025 FS (S2; note 4.18 describes fiduciary activities, which are not AUM), Integrated Report 2025 (S3), PBWM web pages (S8–S10)"
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Integrated Report 2025 PBWM section (S3 p.9) and PBWM web pages (S8–S10)"
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Integrated Report 2025 (S3), FY2025 and H1 2026 results releases (S11, S12)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "No digital investing channel found; PBWM pages (S8–S10), Integrated Report 2025 (S3)"
+    },
+    {
+      "metric": "operating_income (Q3 2026)",
+      "status": "Not found after research",
+      "where_checked": "IR financial statements page lists nothing after 30 Jun 2026 (S4), checked 2026-10-12"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sheikh Mohammed bin Saud Al Qasimi",
+      "name_ar": "الشيخ محمد بن سعود القاسمي",
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2019-07-25",
+      "appointed_note": "Chairman since 25 Jul 2019; board member since 2004; Vice Chairman 2008–2019.",
+      "previous_roles": "Chairman of the Finance Department, Government of Sharjah (official board bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page checked 2026-10-12 (S6); chaired the 53rd AGM on 30 Apr 2026 (S19); quoted as Chairman in the H1 2026 release (S11).",
+      "source_ids": [
+        "S6",
+        "S11",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Saif bin Mohammed bin Butti Al Hamed",
+      "name_ar": null,
+      "title": "Deputy Chairman (called Vice Chairman in the FY2025 directors' report)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "1999",
+      "appointed_note": "Board member since 1999.",
+      "previous_roles": "Businessman with several board seats; family owns United Al Saqer Group, a major shareholder (official board bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page checked 2026-10-12 (S6); listed as director in FY2025 directors' report (S2).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Waleed Ibrahim Al Sayegh",
+      "name_ar": null,
+      "title": "Independent Non-Executive Director",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2022-08",
+      "appointed_note": "Appointed Aug 2022.",
+      "previous_roles": "Director General, Finance Department, Government of Sharjah, and CEO of Sharjah Asset Management (the largest shareholder), per official bio.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page checked 2026-10-12 (S6); FY2025 directors' report (S2).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Khadiri",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2023-05-17",
+      "appointed_note": "Effective 17 May 2023.",
+      "previous_roles": "Over six years as General Manager, Kuwait International Bank; earlier senior roles at Salomon Smith Barney, Citibank, Barclays and HSBC (Integrated Report 2025 bio). Board of Trustees, American University of Sharjah; Board of Advisors, Sheraa.",
+      "education": "MBA in Finance and Information Technology, Boston College (Fulbright Scholar); MSc Finance, Northeastern University; bachelor's in Business Administration and Accounting, ISCAE Casablanca",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Management page checked 2026-10-12 (S7); quoted as CEO in the H1 2026 release (S11); attended the 30 Apr 2026 AGM as CEO (S19). No departure news.",
+      "source_ids": [
+        "S7",
+        "S3",
+        "S11",
+        "S13",
+        "S14",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Paul Cox",
+      "name_ar": null,
+      "title": "Chief Retail Banking Officer",
+      "functions": [
+        "Retail",
+        "Private banking",
+        "Wealth"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Retail and Private Banking",
+      "scope": "Bank",
+      "appointed": "2025-08",
+      "appointed_note": "Appointment announced 5–8 Aug 2025. Integrated Report 2025 says he is building the bank's 'Retail and Private Banking franchise from inception'.",
+      "previous_roles": "Executive Director Consumer Banking and Products (UAE) and Regional Head of Retail Banking and Wealth Management (MENAT); launched a new private banking franchise and a digital trading platform in 2022 (Integrated Report bio, which does not name the employers). Press coverage names HSBC and First Abu Dhabi Bank as previous employers.",
+      "education": "Postgraduate qualification in Finance and Business Management, Durham University (press coverage)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Management page checked 2026-10-12 (S7); Integrated Report 2025 (S3 p.11); appointment coverage Aug 2025 (S17, S20).",
+      "source_ids": [
+        "S7",
+        "S3",
+        "S17",
+        "S20"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nasser Salem Al Ali",
+      "name_ar": null,
+      "title": "Chief Wholesale Banking Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Wholesale Banking",
+      "scope": "Bank",
+      "appointed": "2025-08",
+      "appointed_note": "Announced Aug 2025.",
+      "previous_roles": "Senior Managing Director and Head of Commercial Banking UAE, First Abu Dhabi Bank; over two decades at HSBC, including Deputy Regional Head of Corporate Client Coverage MENAT and Regional Head of Islamic Corporate Banking MENAT (Integrated Report 2025).",
+      "education": "Master's in Big Data and Business Analytics (ESCP); Master's in International Business Law (Paris Sorbonne-Assas); BAS Business Administration (Higher Colleges of Technology)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management page checked 2026-10-12 (S7); Integrated Report 2025 (S3); Enterprise AM, 13 Aug 2025 (S16).",
+      "source_ids": [
+        "S7",
+        "S3",
+        "S16"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sridhar Karlapudi",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Operations",
+      "scope": "Bank",
+      "appointed": "2024-12",
+      "appointed_note": "Appointment reported 24 Dec 2024.",
+      "previous_roles": "COO, Ahli United Bank UK (led its move to Sharia-compliant banking and technology modernisation); earlier Citibank, Barclays, Mashreq, Abu Dhabi Islamic Bank (Integrated Report 2025).",
+      "education": "Bachelor of Commerce, University of Madras",
+      "qualifications": "Chartered Accountant",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management page checked 2026-10-12 (S7); quoted as COO on the bank's 'digital transformation journey' in the Emirates Face Recognition partnership, 8 Oct 2026 (S18).",
+      "source_ids": [
+        "S7",
+        "S3",
+        "S15",
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Walid Abboud",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Finance",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not given; was also Acting COO in 2024.",
+      "previous_roles": "External audit at Deloitte and PwC; Senior Internal Auditor, Byblos Bank Group (Integrated Report 2025).",
+      "education": "BSc Accounting & Finance, Lebanese University; Oxford Strategic Management Executive Program",
+      "qualifications": "CPA (USA and Lebanon), CIA, CFSA, CGAP, GARP ICBRR",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management page checked 2026-10-12 (S7); Integrated Report 2025 (S3).",
+      "source_ids": [
+        "S7",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hoseyn Khosravani",
+      "name_ar": null,
+      "title": "Head of Strategy & Business Management",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Strategy",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not given.",
+      "previous_roles": "Over 16 years in strategy, corporate and investment banking, capital management and transformation roles, including at HSBC and Royal Bank of Canada; supports digital transformation and innovation with the CEO and ExCo (Integrated Report 2025).",
+      "education": "BA (Hons) Business & Management, Leeds Metropolitan University; Postgraduate Certificate in Management Consulting, George Brown College",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed in the Integrated Report 2025 executive management section (S3 p.11) but not on the website management page checked 2026-10-12 (S7).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Wahida Assaad",
+      "name_ar": null,
+      "title": "Head of Information Technology & Information Security",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Information Technology",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management page checked 2026-10-12 (S7). No other source found.",
+      "source_ids": [
+        "S7"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sri Krishna Polepeddi",
+      "name_ar": null,
+      "title": "Acting Chief Treasury Officer",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Bank of Sharjah P.J.S.C.",
+      "business_unit": "Treasury",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Acting role.",
+      "previous_roles": "Treasurer and senior global-markets roles at Emirates Investment Bank, Al Rajhi Bank, Scotiabank, Global Trust Bank and GFH (Integrated Report 2025).",
+      "education": "PGDBA, Delhi Productivity Council; BCom, University of Delhi",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed in the Integrated Report 2025 (S3 p.11) but not on the website management page checked 2026-10-12 (S7).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Bank of Sharjah calls itself 'predominantly a wholesale bank'. Wealth is a small Private Banking & Wealth Management (PBWM) division, set up in 2012 under a collaboration with Commerzbank International S.A. and based in Dubai Media City. It serves high-net-worth individuals with equities, fixed income, mutual funds, structured investments and precious metals across global and regional markets, plus model portfolios, bespoke strategies and onshore/offshore custody through unnamed partners. The website says the bank is an SCA-licensed portfolio manager that manages portfolios 'based on the choices and instructions of its customers'. The Integrated Report 2025 cites a 2017 strategic partnership with Julius Baer Group, with no detail on its current status. Since Aug 2025, Chief Retail Banking Officer Paul Cox has been building a Retail and Private Banking franchise 'from inception', with a premium offer and an 'increasing emphasis on wealth management and advisory services'. No digital investing channel was found; eBOS is a transactional online and mobile banking app.",
+    "segments": [
+      {
+        "name": "Private Banking & Wealth Management (PBWM)",
+        "tier": "HNW",
+        "eligibility": "High-net-worth individual (and corporate) clients; no threshold published",
+        "source_ids": [
+          "S3",
+          "S8",
+          "S10"
+        ]
+      },
+      {
+        "name": "Retail Banking (being established)",
+        "tier": "Premium / affluent",
+        "eligibility": "Initially owners, employees and stakeholders of corporate clients; differentiated premium offer planned; no threshold published",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "PBWM division (set up 2012, Dubai Media City) for HNW clients; dedicated team, profiling and asset-allocation models, regular portfolio reporting, account opening with 'trusted offshore partners'. No head of PBWM named on the website.",
+      "source_ids": [
+        "S3",
+        "S8",
+        "S10"
+      ]
+    },
+    "asset_management": {
+      "present": "Unclear",
+      "detail": "The website disclaimer describes the bank as an SCA-licensed 'portfolios manager' that manages portfolios 'based on the choices and instructions of its customers'. No asset-management entity, own fund range or AUM found.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "PBWM gives 'Equity Trading, Bonds and Mutual Funds across key global and regional markets' (market access). No brokerage subsidiary, online trading platform or named execution partner found.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "eBOS online and mobile banking is transactional. Oct 2026: Emirates Face Recognition facial authentication live for fund transfers, with an upgraded mobile app and web journey planned (instant account opening, automated KYC). No in-app investing found.",
+      "source_ids": [
+        "S18",
+        "S3"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "PBWM 'advisory services supported by international and local specialists'; the bank says it can advise on local and international investments.",
+      "source_ids": [
+        "S8",
+        "S10"
+      ]
+    },
+    "discretionary": {
+      "present": "Unclear",
+      "detail": "SCA portfolio-management licence, but the disclaimer describes instruction-based portfolio management; no discretionary mandate product described.",
+      "source_ids": [
+        "S8",
+        "S10"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "PBWM products page lists 'Model Portfolios & Bespoke Strategies' (adviser-led). No robo or digital model portfolios.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Mutual funds across global and regional markets via PBWM; fund platform provider and partners not named.",
+      "source_ids": [
+        "S9",
+        "S3"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "PBWM offers 'structured investments'; structured deposits offered on the liabilities side.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No private-markets or alternatives products on PBWM pages or in the Integrated Report 2025.",
+      "source_ids": [
+        "S3",
+        "S9"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "Conventional bank; no Shariah-compliant wealth products found.",
+      "source_ids": [
+        "S3",
+        "S9"
+      ]
+    },
+    "asset_classes": [
+      "Equities (global and regional markets)",
+      "Bonds",
+      "Mutual funds",
+      "Structured products",
+      "Gold / precious metals"
+    ],
+    "partners": [
+      {
+        "partner": "Commerzbank International S.A.",
+        "kind": "Private banking collaboration",
+        "what": "Collaboration agreement to set up the PBWM division (2012)",
+        "date": "2012",
+        "status": "Unclear",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Julius Baer Group",
+        "kind": "Private banking / wealth partnership",
+        "what": "'Strategic partnership' in 2017 cited in the Integrated Report 2025 history section; no detail or current status found",
+        "date": "2017",
+        "status": "Unclear",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Emirates Face Recognition (EFR)",
+        "kind": "Digital identity / biometrics",
+        "what": "Facial authentication for fund transfers (live); to support upgraded mobile app and instant account opening",
+        "date": "2026-10-08",
+        "status": "Live",
+        "source_ids": [
+          "S18"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2023-04-01",
+        "what": "Delinked and deconsolidated Emirates Lebanon Bank (held for sale) with CBUAE support; sale still pending at 30 Jun 2026",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2023-05-04",
+        "what": "AGM approved AED 800m capital increase (800m new shares at par) to AED 3bn; Sharjah Asset Management stake from 17.16% to about 40%",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "date": "2023-05-17",
+        "what": "Mohamed Khadiri appointed CEO to lead a strategic transformation",
+        "source_ids": [
+          "S13",
+          "S3"
+        ]
+      },
+      {
+        "date": "2024",
+        "what": "Board-approved growth strategy; senior team strengthened with external hires (COO Dec 2024; Chief Retail Banking Officer and Chief Wholesale Banking Officer Aug 2025)",
+        "source_ids": [
+          "S3",
+          "S15",
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "date": "2025-08",
+        "what": "Hired Paul Cox to build a Retail and Private Banking franchise from inception, with a premium proposition and growing emphasis on wealth management and advisory",
+        "source_ids": [
+          "S3",
+          "S17"
+        ]
+      },
+      {
+        "date": "2026-03",
+        "what": "FY2025 record net profit AED 729m (+89%); CEO's 2026 priorities: faster growth in lending and capital markets, customer experience, scalable platform",
+        "source_ids": [
+          "S12",
+          "S2"
+        ]
+      },
+      {
+        "date": "2026-10-08",
+        "what": "Partnership with Emirates Face Recognition; facial authentication live for fund transfers; mobile app and web upgrade planned",
+        "source_ids": [
+          "S18"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Building a Retail and Private Banking franchise 'from inception' under a Chief Retail Banking Officer hired Aug 2025, whose bio includes launching a private banking franchise and a digital trading platform in 2022; strategy stresses a premium offer with 'increasing emphasis on wealth management and advisory services' (S3, S17).",
+        "No digital investing channel: eBOS is transactional, and a mobile app upgrade with instant onboarding is planned (S18).",
+        "PBWM shelf (equities, bonds, funds, structured investments, metals, model portfolios) runs through unnamed offshore partners and custodians, with no private-markets products found (S3, S9, S10).",
+        "Strong recent earnings (FY2025 net profit AED 729m, H1 2026 AED 362m) and a capital ratio of 18.7% at 30 Jun 2026 give room to invest (S2, S1, S11)."
+      ],
+      "barriers": [
+        "'Predominantly a wholesale bank': commercial banking is the largest line, and the CEO's 2026 priorities are lending and capital markets (S3, S12).",
+        "Small organisation: average workforce of 332 in 2025 and six branches (S3, S1).",
+        "Lebanese subsidiary held for sale since Apr 2023, with an auditor emphasis of matter, absorbs management attention (S1).",
+        "Wealth partners named only historically (Commerzbank 2012, Julius Baer 2017); current wealth vendors unknown (S3)."
+      ],
+      "incumbent_vendors": [
+        "Julius Baer Group — 2017 strategic partnership (current status unclear) (S3)",
+        "Commerzbank International S.A. — 2012 PBWM collaboration (current status unclear) (S3)",
+        "Emirates Face Recognition — biometric authentication (not wealth) (S18)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Review report and condensed consolidated interim financial information for the six-month period ended 30 June 2026",
+      "publisher": "Bank of Sharjah P.J.S.C. (reviewed by Grant Thornton UAE)",
+      "url": "https://www.bankofsharjah.com/uploads/investor-relations/financial-statements/FS_English_Q2_2026.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Reports and consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "Bank of Sharjah P.J.S.C. (audited by Grant Thornton UAE)",
+      "url": "https://www.bankofsharjah.com/uploads/doc/FS_English_Dec_2025.pdf",
+      "doc_type": "Audited annual financial statements",
+      "tier": 1,
+      "published": "2026-03-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "BOS Integrated Report 2025",
+      "publisher": "Bank of Sharjah",
+      "url": "https://www.bankofsharjah.com/uploads/integrated_report/BOS-Integrated-Report-2025-EN.pdf",
+      "doc_type": "Annual / integrated report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Investor Relations — Financial Statements",
+      "publisher": "Bank of Sharjah",
+      "url": "https://www.bankofsharjah.com/en/investor-relations/articles-reports/financial-statements",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Major Shareholders (as at 26 May 2025)",
+      "publisher": "Bank of Sharjah",
+      "url": "https://www.bankofsharjah.com/en/investor-relations/shareholders/major-shareholders",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": "2025-05-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Board of Directors",
+      "publisher": "Bank of Sharjah",
+      "url": "https://www.bankofsharjah.com/en/about-us/our-bank/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Management Team",
+      "publisher": "Bank of Sharjah",
+      "url": "https://www.bankofsharjah.com/en/about-us/our-bank/management-team",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Private Banking & Wealth Management — Overview",
+      "publisher": "Bank of Sharjah",
+      "url": "https://www.bankofsharjah.com/en/private-banking-wealth-management/overview",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Private Banking & Wealth Management — Products",
+      "publisher": "Bank of Sharjah",
+      "url": "https://www.bankofsharjah.com/en/private-banking-wealth-management/products",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Private Banking & Wealth Management — Solutions",
+      "publisher": "Bank of Sharjah",
+      "url": "https://www.bankofsharjah.com/en/private-banking-wealth-management/solutions",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Bank of Sharjah Q2 2026 net profit jumps 39% (H1 2026 results release)",
+      "publisher": "Bank of Sharjah via Zawya press-release channel",
+      "url": "https://www.zawya.com/en/press-release/companies-news/bank-of-sharjah-q2-2026-net-profit-jumps-39-394980",
+      "doc_type": "Company press release (republished)",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Bank of Sharjah delivers record FY2025 results with 89% surge in net profit",
+      "publisher": "Bank of Sharjah via Zawya press-release channel",
+      "url": "https://www.zawya.com/en/press-release/companies-news/bank-of-sharjah-delivers-record-fy2025-results-with-89-surge-in-net-profit-ppoqukrq",
+      "doc_type": "Company press release (republished)",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Bank of Sharjah appoints Mohamed Khadiri as CEO",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/bank-of-sharjah-appoints-mohamed-khadiri-as-ceo-1.95820364",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-05-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "The Finance Frontier 2026: Mohamed Khadiri, CEO, Bank of Sharjah",
+      "publisher": "Entrepreneur Middle East",
+      "url": "https://mena.entrepreneur.com/finance/the-finance-frontier-2026-mohamed-khadiri-ceo-bank-of-sharjah",
+      "doc_type": "News / profile",
+      "tier": 5,
+      "published": "2026-07-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Bank of Sharjah names Sridhar Karlapudi as its new COO",
+      "publisher": "Enterprise AM (UAE)",
+      "url": "https://enterpriseam.com/uae/2024/12/24/bank-of-sharjah-names-sridhar-karlapudi-as-its-new-coo-intel-taps-taha-khalifa-as-general-manager-for-the-middle-east-and-africa/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2024-12-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Bank of Sharjah taps new wholesale banking lead",
+      "publisher": "Enterprise AM (UAE)",
+      "url": "https://enterpriseam.com/uae/2025/08/13/bank-of-sharjah-taps-new-wholesale-banking-lead/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-08-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Bank of Sharjah Onboards Paul Cox as Chief Retail Banking Officer",
+      "publisher": "International Business Magazine (intlbm.com)",
+      "url": "https://intlbm.com/2025/08/08/bank-of-sharjah-onboards-paul-cox-as-chief-retail-banking-officer/",
+      "doc_type": "News (based on company release)",
+      "tier": 5,
+      "published": "2025-08-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Bank of Sharjah partners with EFR",
+      "publisher": "GCC Business News",
+      "url": "https://www.gccbusinessnews.com/bank-of-sharjah-partners-with-efr/",
+      "doc_type": "News (company announcement)",
+      "tier": 5,
+      "published": "2026-10-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "عمومية بنك الشارقة تقر توزيعات نقدية بـ6.5% عن 2025",
+      "publisher": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-04-30/اقتصاد/أسواق-الإمارات/عمومية-بنك-الشارقة-تقر-توزيعات-نقدية-ب-65-عن-2025",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-04-30",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S20",
+      "title": "Bank of Sharjah appoints Paul Cox as Chief Retail Banking Officer",
+      "publisher": "Bank of Sharjah via Zawya press-release channel",
+      "url": "https://www.zawya.com/en/press-release/people-in-the-news/bank-of-sharjah-appoints-paul-cox-as-chief-retail-banking-officer-bir7wgt2",
+      "doc_type": "Company press release (republished)",
+      "tier": 2,
+      "published": "2025-08-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Bank of Sharjah boosts capital by Dh800 million",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/bank-of-sharjah-boosts-capital-by-dh800-million-1.95556905",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-05-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Deputy Chairman title",
+      "detail": "The board page calls Sheikh Saif bin Mohammed bin Butti Al Hamed 'Deputy Chairman'; the FY2025 directors' report calls him 'Vice Chairman'.",
+      "resolution": "Same role; both labels recorded.",
+      "source_ids": [
+        "S6",
+        "S2"
+      ]
+    },
+    {
+      "field": "Executive team",
+      "detail": "The Integrated Report 2025 lists a Head of Strategy & Business Management (Hoseyn Khosravani) and an Acting Chief Treasury Officer (Sri Krishna Polepeddi) who are not on the website management page checked 2026-10-12.",
+      "resolution": "Both recorded with role_status 'Requires verification'.",
+      "source_ids": [
+        "S3",
+        "S7"
+      ]
+    },
+    {
+      "field": "Profit growth headline",
+      "detail": "The H1 2026 release headline says '+39%' while H1 net profit rose 35%.",
+      "resolution": "Resolved: +39% is Q2 2026 alone (AED 210.9m vs 152.6m attributable); H1 is +35%.",
+      "source_ids": [
+        "S11",
+        "S1"
+      ]
+    }
+  ],
+  "open_items": [
+    "No 2024–2026 merger, recapitalisation or ownership change found. The last capital increase was in May 2023. Merger talks with Invest Bank (2018) and a reported three-way Sharjah plan with Invest Bank and UAB (about 2019) were seen in search results only and went nowhere.",
+    "Emirates Lebanon Bank sale: no buyer, price or timetable disclosed at 30 Jun 2026. Check Q3 2026 results, which were not yet on the IR page at 2026-10-12.",
+    "No head of PBWM / private banking named. Paul Cox's remit covers retail and private banking per the Integrated Report.",
+    "Current status of the Julius Baer (2017) and Commerzbank (2012) partnerships is unknown.",
+    "LinkedIn profiles for Mohamed Khadiri and Paul Cox were not found in search results (status 'Not verified').",
+    "The Paul Cox Zawya press release returned HTTP 400; details taken from intlbm.com and the Integrated Report.",
+    "Major shareholders web page is dated 26 May 2025; Integrated Report 2025 confirms 39.25% / 9.31% at 31 Dec 2025."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B05",
+  "checked": "2026-10-12"
+}

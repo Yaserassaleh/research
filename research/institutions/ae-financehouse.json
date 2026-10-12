@@ -1,0 +1,1217 @@
+{
+  "id": "ae-financehouse",
+  "name": "Finance House",
+  "short_name": "FH",
+  "legal_name": "Finance House P.J.S.C.",
+  "name_ar": "دار التمويل ش.م.ع",
+  "country": "AE",
+  "hq_city": "Abu Dhabi",
+  "website": "https://www.financehouse.ae",
+  "linkedin_company": "https://www.linkedin.com/company/448684/",
+  "category": "Non-bank",
+  "type": "Diversified finance company",
+  "model": "Not applicable",
+  "founded": "2004 (incorporated 13 Mar 2004; operations began 18 Jul 2004) as one of the UAE's first independent finance companies",
+  "regulators": [
+    "CBUAE",
+    "SCA",
+    "FSRA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "FH",
+  "parent_id": null,
+  "ownership_summary": "ADX-listed public joint stock company (share capital AED 302.8m). The company's undated IR page lists five key shareholders: Gulf National Center for Development 13.18%, founder Mohammed Abdulla Jumaa Alqubaisi 11.19%, Emirates Hotel Company 9.69%, GNCD International 9.09% and Mohammed Bin Ahmed Bin Saeed Alqassimi 6.84% (checked 12 Oct 2026; date of the table not shown).",
+  "shareholders": [
+    {
+      "holder": "Gulf National Center for Development (undated company IR table)",
+      "pct": 13.1842,
+      "as_of": null,
+      "source_ids": [
+        "S20"
+      ]
+    },
+    {
+      "holder": "Mohammed Abdulla Jumaa Alqubaisi (founder; Vice Chairman) (undated company IR table)",
+      "pct": 11.1897,
+      "as_of": null,
+      "source_ids": [
+        "S20"
+      ]
+    },
+    {
+      "holder": "Emirates Hotel Company L.L.C (undated company IR table)",
+      "pct": 9.6927,
+      "as_of": null,
+      "source_ids": [
+        "S20"
+      ]
+    },
+    {
+      "holder": "GNCD International Inc (undated company IR table)",
+      "pct": 9.0892,
+      "as_of": null,
+      "source_ids": [
+        "S20"
+      ]
+    },
+    {
+      "holder": "Mohammed Bin Ahmed Bin Saeed Alqassimi (undated company IR table)",
+      "pct": 6.8416,
+      "as_of": null,
+      "source_ids": [
+        "S20"
+      ]
+    }
+  ],
+  "government_link": "None evidenced. No government entity appears among the key shareholders on the company's IR page (checked 2026-10-12).",
+  "group_structure": "Finance House P.J.S.C. (ADX: FH) consolidates: Finance House L.L.C. (100%, financing services; goodwill sits here), Insurance House P.J.S.C. (45.61%, non-life insurance, consolidated as a subsidiary), Finance House Securities Co L.L.C. (70%, brokerage, SCA licence 604025), FH Capital P.J.S. (100%, investment and asset management; operates the investnation app), Dhabi Ltd (100%, ADGM; FSRA Prudential Category 1, FSP 200020, accepting deposits and providing credit; launched 11 Jun 2026) and FH Holdings L.L.C. (100%, holding company), all at 30 Jun 2026. Associates: Empay LLC (30%, digital payments) and Mainland Management L.L.C. (33.33%). Dhabi Ltd was listed as a separate institution in the original workbook; it is folded into this profile. Group figures below are consolidated and must not be attributed to Dhabi Ltd or Finance House L.L.C. alone.",
+  "subsidiaries": [
+    {
+      "name": "Finance House L.L.C.",
+      "pct": 100,
+      "activity": "Financing services (operating finance company)",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "name": "Insurance House P.J.S.C.",
+      "pct": 45.61,
+      "activity": "Non-life insurance (consolidated subsidiary)",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Finance House Securities Co L.L.C. (FHS)",
+      "pct": 70,
+      "activity": "Brokerage on UAE markets; online and mobile trading; SCA licence 604025",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "name": "FH Capital P.J.S.",
+      "pct": 100,
+      "activity": "Investment and asset management; SCA licences 603043 / 20200000145 (portfolio management; financial consultation, issuance manager, listing advisor); operator of the investnation app",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S12",
+        "S13",
+        "S15"
+      ]
+    },
+    {
+      "name": "Dhabi Ltd (ADGM)",
+      "pct": 100,
+      "activity": "FSRA Prudential Category 1 firm (FSP 200020): Accepting Deposits and Providing Credit; current, savings and fixed-deposit accounts for individuals and businesses; commenced operations 11 Jun 2026",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "name": "FH Holdings L.L.C.",
+      "pct": 100,
+      "activity": "Holding company",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Empay LLC (associate)",
+      "pct": 30,
+      "activity": "Digital payment ecosystem; carrying amount AED 34.45m; basis of the auditor's qualified conclusion",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    }
+  ],
+  "footprint": "UAE (head office Abu Dhabi; FHS has offices in Abu Dhabi and Dubai). Dhabi Ltd operates from ADGM since Jun 2026 and targets cross-border clients. Branch count not stated on the website (checked 2026-10-12).",
+  "customer_segments": "UAE retail borrowers (credit cards, gold loans, home finance, Sulfah), SMEs and corporates (commercial and corporate finance, trade finance, WPS payroll), depositors (deposits are almost all corporate per the H1 2026 sector split), retail investors via investnation and FHS, insurance clients via Insurance House, and globally mobile individuals and businesses via Dhabi Ltd.",
+  "business_lines": "Five reported segments: commercial and retail financing; investment (proprietary portfolio and treasury); Islamic financing and investing (small, AED 4.3m assets); brokerage (FHS); insurance (Insurance House). Retail products: Rabeh, Sanad, Forsa, Platinum, investnation and CartNet credit cards, Gold Loan, Sulfah, Home Finance, Flexi/Fixed/MYFD deposits. Securities services: share registrar, dividend distribution, AGM management and IPO administration. FH Capital: ECM/DCM advisory and client portfolio management, plus the investnation app. Dhabi Ltd: ADGM deposit and credit banking from Jun 2026.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 3595442,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated (Finance House P.J.S.C. and subsidiaries)",
+      "definition": "Total assets, condensed consolidated interim statement of financial position (reviewed, unaudited)",
+      "status": "Verified",
+      "locator": "Statement of financial position, printed p.2 (PDF p.4)",
+      "note": "Down from AED 4,099,901k at 31 Dec 2025, mainly lower due-from-bank balances.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 4099901,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, consolidated statement of financial position (audited)",
+      "status": "Verified",
+      "locator": "printed p.7",
+      "note": "",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 2274713,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits and margin accounts (includes AED 231,216k margin accounts; excludes due to banks and other financial institutions AED 57,271k)",
+      "status": "Verified",
+      "locator": "printed p.2; note 11",
+      "note": "Note 11 sector split: corporate AED 2,252,661k, government AED 22,052k.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 2227221,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and advances, net of ECL allowance; excludes Islamic financing and investing assets (AED 4,254k)",
+      "status": "Verified",
+      "locator": "printed p.2; note 10.1",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 2740969,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and advances, gross (conventional only)",
+      "status": "Verified",
+      "locator": "note 10.1",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 651833,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. non-controlling interests (AED 45,743k); attributable to owners of the parent AED 606,090k",
+      "status": "Verified",
+      "locator": "printed p.3",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 157196,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net operating income as printed: net interest, fee, insurance, investment and other income AFTER ECL allowances (AED 33.4m), before staff and G&A costs",
+      "status": "Verified",
+      "locator": "Statement of profit or loss, printed p.9",
+      "note": "Because it is struck after impairment charges, it is not comparable with banks' total operating income.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 12199,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit attributable to equity holders of the parent",
+      "status": "Verified",
+      "locator": "Statement of other comprehensive income, printed p.10",
+      "note": "Profit after tax for the year AED 17,747k; total comprehensive income AED 21,338k. Auditor (Grant Thornton) issued a qualified opinion over the Empay LLC associate.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 119024,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net operating income (after ECL allowances), six months",
+      "status": "Verified",
+      "locator": "printed p.4",
+      "note": "H1 2025: AED 75,801k.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 20148,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit attributable to equity holders of the parent, six months",
+      "status": "Verified",
+      "locator": "printed p.4",
+      "note": "Profit after tax AED 24,634k; H1 2025 attributable AED 8,925k. Review conclusion qualified (Empay LLC).",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "FH Capital website (S12, S13), investnation website (S15), FY2025 financial statements (S5), H1 2026 interim (S4), FY2025 Board report (S6); no AUM for FH Capital or investnation found."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Website (S1, S3), FY2025 Board report (S6), H1 2026 interim (S4). The Integrated Report FY2025 (exceeded fetch size limit) was not read."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "investnation website (S15), investnation card release (S17), FHS website (S18, S19)."
+    },
+    {
+      "metric": "branches",
+      "status": "Not found after research",
+      "where_checked": "Homepage and About page (S1, S3) only link to an office locator; no count stated."
+    }
+  ],
+  "people": [
+    {
+      "name": "T. K. Raman",
+      "name_ar": "تي كيه رامان",
+      "title": "Chief Executive Officer, Finance House P.J.S.C.; Vice Chairman and Managing Director, FH Capital P.J.S.",
+      "functions": [
+        "CEO",
+        "Subsidiary CEO"
+      ],
+      "entity": "Finance House P.J.S.C.",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date of appointment as CEO not found. Joined Finance House in 2006 (as COO per a 2021 Insurance House nominee brief); promoted to Group CFO Oct 2010; Group CFO in Nov 2013.",
+      "previous_roles": "Finance House: Chief Operating Officer (joined 2006, per S22); Group Chief Financial Officer (from Oct 2010, S23). Earlier: senior roles at MasterCard International, UNB, National Bank of Abu Dhabi, Baker Production Services, Ernst & Young and PricewaterhouseCoopers (S22).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as CEO on the official management page (S2, checked 2026-10-12); signed the H1 2026 interim statements as CEO on 6 Aug 2026 (S4) and the 12 Jun 2026 Dhabi disclosure (S7). FH Capital board page lists him as Vice Chairman and MD (S14). No departure news found.",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S7",
+        "S14",
+        "S22",
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmad Obaid Humaid Ali Almazrooei",
+      "name_ar": null,
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Finance House P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Board page, checked 2026-10-12 (S2). Note: the Jul 2025 investnation release calls Mohamed A. Alqubaisi 'Founder & Chairman, Finance House Group' (S17), see discrepancies.",
+      "source_ids": [
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Abdulla Jumaa Alqubaisi",
+      "name_ar": null,
+      "title": "Vice Chairman and Founder, Finance House P.J.S.C.; Chairman, Dhabi Ltd; Board Director, FH Capital",
+      "functions": [
+        "Board",
+        "Chair"
+      ],
+      "entity": "Finance House P.J.S.C.",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2004",
+      "appointed_note": "Founder of Finance House (2004).",
+      "previous_roles": "National Bank of Abu Dhabi (about 10 years; headed domestic, international and capital markets operations at different times); Deputy CEO, Abu Dhabi Islamic Bank (5 years); then founded Finance House. Earlier/other roles listed in 2021: Abu Dhabi Investment Company (head of projects and direct investment), Chairman of Insurance House (S22).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Vice Chairman on official Board page (S2); signed H1 2026 statements as Vice Chairman (S4); named Chairman of Dhabi and Founder of Finance House Group in the 11 Jun 2026 launch release (S7, S8); Board Director on FH Capital page (S14).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S7",
+        "S8",
+        "S14",
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulmajeed Ismail Ali Abdulrahim Al Fahim",
+      "name_ar": null,
+      "title": "Board Member, Finance House P.J.S.C.; Chairman, FH Capital P.J.S.",
+      "functions": [
+        "Board",
+        "Chair"
+      ],
+      "entity": "FH Capital P.J.S.",
+      "business_unit": "Investment and asset management subsidiary",
+      "scope": "Subsidiary: FH Capital P.J.S.",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Finance House Board page (S2) and FH Capital Board page ('Abdul Majeed Al Fahim, Chairman', S14), both checked 2026-10-12.",
+      "source_ids": [
+        "S2",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Anand Sankara Narayanan",
+      "name_ar": null,
+      "title": "Chief Marketing Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Finance House P.J.S.C.",
+      "business_unit": "Marketing",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Named as media contact and CMO in the Dhabi launch press release filed with ADX on 12 Jun 2026 (S7).",
+      "source_ids": [
+        "S7"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hrant Balozian",
+      "name_ar": null,
+      "title": "Head of Investments, FH Capital P.J.S. (per original workbook; not confirmed)",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "FH Capital P.J.S.",
+      "business_unit": "Investments",
+      "scope": "Subsidiary: FH Capital P.J.S.",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://ae.linkedin.com/in/hrant-balozian-01363732",
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Original workbook cited a 'live official website'. The FH Capital Board and Senior Management page (S14) names only three directors and no senior managers; the Finance House management page (S2) and investments page (S21) name no head of investments; three web searches returned no match. LinkedIn URL carried over from the original and not re-checked (no contrary evidence).",
+      "source_ids": [
+        "S2",
+        "S14",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Finance House is an Abu Dhabi finance company, not a bank, with consumer and commercial lending, an insurance subsidiary and a small investment arm. Retail investing runs through FH Capital P.J.S. (SCA portfolio-management licence), which operates the investnation app: three discretionary plans (Saver, Flex, Growth) invested mainly in money-market placements and bank deposits, with some bonds, commercial paper and sukuk; projected returns up to 5–7% a year, UAE PASS onboarding, SIPs, a junior account and a bullion account (gold/silver from AED 250). In Jul 2025 it launched the investnation credit card, giving a credit limit of up to 90% of an earmarked investment of at least AED 3,000. Finance House Securities (70%) offers ADX/DFM brokerage with online and mobile trading. No AUM, user numbers, private-banking or structured-product offer is disclosed. Dhabi Ltd, launched in ADGM on 11 Jun 2026, offers deposits and accounts for cross-border clients; no wealth products were announced.",
+    "segments": [],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private-banking or HNW proposition found on financehouse.ae, fhcapital.ae or investnation.com. Dhabi Ltd markets a 'premium' cross-border banking experience but announced only accounts and deposits.",
+      "source_ids": [
+        "S1",
+        "S7",
+        "S13",
+        "S15"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "FH Capital P.J.S. (100%; SCA licences 603043 / 20200000145; share capital AED 55m): client portfolio management plus ECM/DCM/advisory investment banking. No named funds and no AUM disclosed. The parent also runs a proprietary portfolio (listed equities, pre-IPO, private equity, fixed income, funds).",
+      "source_ids": [
+        "S12",
+        "S13",
+        "S21",
+        "S4"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Finance House Securities Co L.L.C. (70%; SCA licence 604025): brokerage on UAE markets (website shows ADX and DFM data), online trading portal and FHS Mobile Trading app (iOS/Android). Trading platform vendor not named; no international markets or margin trading mentioned. Brokerage segment assets AED 401.9m at 30 Jun 2026.",
+      "source_ids": [
+        "S18",
+        "S19",
+        "S4"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "investnation app (FH Capital P.J.S., SCA-regulated): discretionary Saver/Flex/Growth plans, bullion account, SIPs, junior investment account, UAE PASS onboarding, a 'Vault Card' issued by Finance House L.L.C., and the investnation Mastercard credit card (launched 16 Jul 2025). Launch date of the app not found. FHS Mobile Trading app for UAE equities.",
+      "source_ids": [
+        "S15",
+        "S16",
+        "S17",
+        "S18"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "FH Capital holds SCA Fifth Category permissions (financial consultation, issuance manager, listing advisor) and offers corporate advisory. No retail investment-advice service described.",
+      "source_ids": [
+        "S12",
+        "S13"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "investnation plans are described as Discretionary Portfolio Management Account plans run by FH Capital (Saver: money-market placements; Flex: adds bonds and commercial paper; Growth: adds bonds, commercial paper and sukuk).",
+      "source_ids": [
+        "S15"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Three pre-set investnation plans chosen by goal/return appetite; money-market and fixed-income based, not equity model portfolios.",
+      "source_ids": [
+        "S15"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No third-party mutual fund shelf found on investnation, FH Capital or FHS websites.",
+      "source_ids": [
+        "S12",
+        "S15",
+        "S18"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found on group websites.",
+      "source_ids": [
+        "S1",
+        "S12",
+        "S15"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "The parent invests in pre-IPO and private equity for its own book (investments page); no client private-markets product found.",
+      "source_ids": [
+        "S21"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Unclear",
+      "detail": "investnation Growth plan includes some sukuk; the group's Islamic financing segment is small (AED 4.3m assets at 30 Jun 2026). No Shariah-compliant investment plan found.",
+      "source_ids": [
+        "S15",
+        "S4"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "Bonds",
+      "Sukuk",
+      "Money market / deposits",
+      "Gold / precious metals"
+    ],
+    "partners": [
+      {
+        "partner": "UAE PASS",
+        "kind": "Digital identity / onboarding",
+        "what": "Registration to investnation via UAE PASS",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "partner": "Mastercard",
+        "kind": "Card scheme",
+        "what": "investnation credit card is a Finance House Mastercard Platinum card",
+        "date": "2025-07-16",
+        "status": "Live",
+        "source_ids": [
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "partner": "Empay LLC (30% associate)",
+        "kind": "Digital payments",
+        "what": "Equity-accounted associate in digital payments; no investing link evidenced",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S4",
+          "S5"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-07-16",
+        "what": "Launched investnation credit card: credit limit up to 90% of an earmarked investnation investment (minimum AED 3,000) while funds keep earning up to 7% a year",
+        "source_ids": [
+          "S17",
+          "S16"
+        ]
+      },
+      {
+        "date": "2026-06-11",
+        "what": "Dhabi Ltd (100% subsidiary, FSRA FSP 200020, Prudential Category 1) launched in ADGM as a digital-first cross-border bank offering current, savings and fixed-deposit accounts to individuals and businesses",
+        "source_ids": [
+          "S7",
+          "S8",
+          "S9"
+        ]
+      },
+      {
+        "date": "2026-02-11",
+        "what": "FY2025 Board report: focus on capital ratios, liquidity, asset quality, cloud technology and 'digitally enabled Products & Services'; no dividend, to preserve cash for 'upcoming strategic initiatives'",
+        "source_ids": [
+          "S6"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "investnation offers only money-market, fixed-income/sukuk and bullion plans; no equity model portfolios, global ETFs, funds shelf, structured products or private markets (S15).",
+        "Dhabi Ltd (launched Jun 2026) targets globally mobile clients with deposit and account products only; no investment proposition announced (S7, S8, S10).",
+        "Board says cash is being preserved for 'upcoming strategic initiatives' and stresses digitally enabled products (FY2025 Board report, S6).",
+        "Same CEO (T.K. Raman) runs the parent and is Vice Chairman/MD of FH Capital, so a decision-maker spans lending, the investing app and the asset manager (S2, S14)."
+      ],
+      "barriers": [
+        "Small group: total assets AED 3.6bn and FY2025 attributable profit AED 12.2m; FY2025 audit opinion and H1 2026 review conclusion are qualified over the Empay LLC associate (S4, S5).",
+        "Investing proposition is yield-focused (projected 5–7%), funded largely by deposits and cards; equity/brokerage is limited to ADX/DFM via FHS (S15, S18).",
+        "No disclosed AUM, user numbers or named technology vendors for investnation or FHS (S12, S15, S18)."
+      ],
+      "incumbent_vendors": []
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Finance House homepage",
+      "publisher": "Finance House",
+      "url": "https://www.financehouse.ae/en/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors & Executive Management",
+      "publisher": "Finance House",
+      "url": "https://www.financehouse.ae/en/about-us/management/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "About Us",
+      "publisher": "Finance House",
+      "url": "https://www.financehouse.ae/en/about-us/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Condensed consolidated interim financial information for the six-month period ended 30 June 2026 (reviewed, Grant Thornton; qualified conclusion)",
+      "publisher": "Finance House P.J.S.C.",
+      "url": "https://www.financehouse.ae/wp-content/uploads/2026/08/5245305.cleaned.pdf",
+      "doc_type": "Interim financial statements (exchange disclosure)",
+      "tier": 1,
+      "published": "2026-08-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Consolidated financial statements for the year ended 31 December 2025 (audited, Grant Thornton; qualified opinion)",
+      "publisher": "Finance House P.J.S.C.",
+      "url": "https://www.financehouse.ae/wp-content/uploads/2026/02/4693754.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-02-19",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Chairman's (Board of Directors) Report for the year ended 31 December 2025",
+      "publisher": "Finance House P.J.S.C.",
+      "url": "https://www.financehouse.ae/wp-content/uploads/2026/02/4698053.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-02-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Announcement – Update: Dhabi Ltd commenced operations in ADGM (with press release 'A New Era for Global Banking: Dhabi Launches at ADGM')",
+      "publisher": "Finance House P.J.S.C.",
+      "url": "https://www.financehouse.ae/wp-content/uploads/2026/08/4992153.cleaned.pdf",
+      "doc_type": "Exchange disclosure / press release",
+      "tier": 1,
+      "published": "2026-06-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "A new era for global banking: Dhabi launches at ADGM",
+      "publisher": "ADGM (third-party communication)",
+      "url": "https://www.adgm.com/media/announcements/a-new-era-for-global-banking-dhabi-launches-at-adgm",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-06-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Dhabi launches in ADGM as new global banking platform",
+      "publisher": "Gulf Business",
+      "url": "https://gulfbusiness.com/en/2026/finance/dhabi-launches-in-adgm-as-new-global-banking-platform/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-06-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "ADGM services gain attention following cross-border digital bank launch",
+      "publisher": "Pinsent Masons (Out-Law)",
+      "url": "https://www.pinsentmasons.com/out-law/news/adgm-services-gain-attention-following-cross-border-digital-bank-launch",
+      "doc_type": "News / legal commentary",
+      "tier": 5,
+      "published": "2026-07-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Finance House PJSC posts 179% surge in H1 2026 profit, net operating income jumps 57%",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/corporate-news/finance-house-pjsc-posts-179-surge-in-h1-2026-profit-net-operating-income-jumps-57-1.500633591",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-08-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "FH Capital homepage",
+      "publisher": "FH Capital P.J.S.",
+      "url": "https://www.fhcapital.ae/",
+      "doc_type": "Official website (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "FH Capital – About",
+      "publisher": "FH Capital P.J.S.",
+      "url": "https://www.fhcapital.ae/about/",
+      "doc_type": "Official website (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "FH Capital – Board of Directors and Senior Management",
+      "publisher": "FH Capital P.J.S.",
+      "url": "https://www.fhcapital.ae/management/",
+      "doc_type": "Official leadership page (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "investnation homepage",
+      "publisher": "FH Capital P.J.S. (investnation)",
+      "url": "https://www.investnation.com/",
+      "doc_type": "Official product website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "investnation Credit Card",
+      "publisher": "Finance House",
+      "url": "https://www.financehouse.ae/en/personal-finance/credit-cards/investnation-credit-card/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Finance House unveils investnation Credit Card",
+      "publisher": "GCC Business News",
+      "url": "https://www.gccbusinessnews.com/finance-house-investnation-credit-card/",
+      "doc_type": "News (republished company release)",
+      "tier": 5,
+      "published": "2025-07-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Finance House Securities homepage",
+      "publisher": "Finance House Securities L.L.C.",
+      "url": "https://www.fhs.ae/",
+      "doc_type": "Official website (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Finance House Securities – About Us",
+      "publisher": "Finance House Securities L.L.C.",
+      "url": "https://www.fhs.ae/en/about-us/",
+      "doc_type": "Official website (subsidiary)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Ownership Statistic (top 5 key shareholders)",
+      "publisher": "Finance House",
+      "url": "https://www.financehouse.ae/en/about-us/investor-relation/ownership-statistic/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Investments",
+      "publisher": "Finance House",
+      "url": "https://www.financehouse.ae/en/investments/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "List of Nominees for the Board of Directors of Insurance House PSC (incl. M. Alqubaisi and T.K. Raman bios)",
+      "publisher": "Insurance House PSC",
+      "url": "https://www.insurancehouse.ae/wp-content/uploads/2021/04/BOD-Nomination-Brief-Website-11-April.pdf",
+      "doc_type": "Official governance document (group subsidiary)",
+      "tier": 2,
+      "published": "2021-04-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Finance House Further Enhances its Well-Built Management Team",
+      "publisher": "Finance House",
+      "url": "https://www.financehouse.ae/?p=2473",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2010-10-19",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Disclosure calendar (results, Board reports, Integrated Report FY2025, Dhabi updates)",
+      "publisher": "Finance House",
+      "url": "https://www.financehouse.ae/en/category/three-blocks-section-en/page/2/",
+      "doc_type": "Official IR disclosure index",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Institution type",
+      "original_value": "Non-bank listed diversified finance group; operating finance company",
+      "finding": "Confirmed",
+      "new_value": "Non-bank / Diversified finance company (ADX: FH)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "field": "Total assets",
+      "original_value": "AED 3,595,442 thousand at 2026-06-30 (consolidated)",
+      "finding": "Confirmed",
+      "new_value": "AED 3,595,442 thousand at 30 Jun 2026; also AED 4,099,901 thousand at 31 Dec 2025",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "field": "Customer deposits",
+      "original_value": "AED 2,274,713 thousand at 2026-06-30; 'Customer deposits and margin accounts'",
+      "finding": "Confirmed",
+      "new_value": "Same; includes AED 231,216k margin accounts; nearly all corporate",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "Loans and advances",
+      "original_value": "AED 2,227,221 thousand at 2026-06-30",
+      "finding": "Confirmed",
+      "new_value": "Net of ECL; gross AED 2,740,969 thousand",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "AUM / AUA",
+      "original_value": "Not found",
+      "finding": "Confirmed",
+      "new_value": "Not publicly disclosed (FH Capital, investnation)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S12",
+        "S15"
+      ]
+    },
+    {
+      "field": "Chief executive",
+      "original_value": "T. K. Raman",
+      "finding": "Confirmed",
+      "new_value": "T. K. Raman, CEO (signed H1 2026 statements 6 Aug 2026)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "field": "Wealth / investment arm",
+      "original_value": "FH Capital PJS; investnation digital investing",
+      "finding": "Confirmed",
+      "new_value": "FH Capital P.J.S. (100%) operates investnation; brokerage via Finance House Securities (70%)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4",
+        "S15"
+      ]
+    },
+    {
+      "field": "Business focus",
+      "original_value": "Consumer/commercial finance, deposits, treasury, proprietary investing; investment/asset management through FH Capital; brokerage and insurance through subsidiaries.",
+      "finding": "Updated",
+      "new_value": "Same, plus Dhabi Ltd ADGM deposit-taking and credit bank launched 11 Jun 2026; Insurance House is 45.61% owned (consolidated)",
+      "materiality": "Material",
+      "source_ids": [
+        "S4",
+        "S7"
+      ]
+    },
+    {
+      "field": "Ownership",
+      "original_value": "ADX-listed PJSC, ticker FH. Group owns Finance House LLC 100%, FH Capital PJS 100% and Dhabi Ltd 100% at 30 June 2026.",
+      "finding": "Confirmed",
+      "new_value": "Confirmed in note 3.3 of the H1 2026 interim; key shareholders added from IR page (undated)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4",
+        "S20"
+      ]
+    },
+    {
+      "field": "Website",
+      "original_value": "https://www.financehouse.ae/",
+      "finding": "Confirmed",
+      "new_value": "https://www.financehouse.ae",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Company LinkedIn",
+      "original_value": "https://www.linkedin.com/company/finance-house-llc/",
+      "finding": "Corrected",
+      "new_value": "https://www.linkedin.com/company/448684/ (the link in the official website footer); the original slug was not seen on any official page",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Gaps / distinctions: qualified review conclusion on Empay",
+      "original_value": "Accounts are interim reviewed with qualified conclusion on Empay evidence.",
+      "finding": "Confirmed",
+      "new_value": "H1 2026 review conclusion qualified (Empay LLC, AED 34.45m carrying amount); FY2025 audit opinion also qualified on the same matter",
+      "materiality": "Material",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "field": "Gaps / distinctions: Dhabi Limited",
+      "original_value": "Separate legal institution from TK Raman's Dhabi Limited proposal; Dhabi listed as a separate institution",
+      "finding": "Corrected",
+      "new_value": "Dhabi Ltd is a 100% subsidiary of Finance House P.J.S.C. (FSRA FSP 200020, Prudential Category 1; accepting deposits and providing credit), launched in ADGM 11 Jun 2026. Folded into this profile.",
+      "materiality": "Material",
+      "source_ids": [
+        "S4",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "field": "Gaps / distinctions: Arvind",
+      "original_value": "Do not assign Arvind (Iyer, ADCB) to Finance House",
+      "finding": "Confirmed",
+      "new_value": "No Arvind on Finance House or FH Capital leadership pages",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S14"
+      ]
+    },
+    {
+      "field": "Relationship / opportunity",
+      "original_value": "Declined historical pipeline in Sept7 notes; May12 meeting titled Arta–Finance House involved TK Raman for Dhabi Limited.",
+      "finding": "Could not verify",
+      "new_value": "Internal CRM/meeting note; not verifiable from public sources (retain internally)",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Person: Mohammed Alqubaisi (Dhabi Ltd)",
+      "original_value": "Chairman, Dhabi Ltd",
+      "finding": "Confirmed",
+      "new_value": "Mohamed A. Alqubaisi, Chairman of Dhabi and Founder of Finance House Group (11 Jun 2026)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "field": "Person: TK Raman (Dhabi Ltd)",
+      "original_value": "Vice Chairman, Dhabi Ltd",
+      "finding": "Could not verify",
+      "new_value": "Dhabi launch releases name only the Chairman; no Dhabi website or FSRA register entry could be opened. Raman is verified as FH CEO and FH Capital Vice Chairman/MD.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S7",
+        "S8",
+        "S14"
+      ]
+    },
+    {
+      "field": "Person: Ahmad Obaid Humaid Ali Almazrooei",
+      "original_value": "Chairman, Finance House PJSC",
+      "finding": "Confirmed",
+      "new_value": "Chairman",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Person: Hrant Balozian",
+      "original_value": "Head of Investments, FH Capital PJS; LinkedIn verified",
+      "finding": "Could not verify",
+      "new_value": "Not named on FH Capital or Finance House pages; no search match; kept with role_status 'Requires verification'",
+      "materiality": "Material",
+      "source_ids": [
+        "S14",
+        "S21"
+      ]
+    },
+    {
+      "field": "Person: Mohammed Abdulla Jumaa Alqubaisi",
+      "original_value": "Vice Chairman; Founder, Finance House PJSC",
+      "finding": "Confirmed",
+      "new_value": "Vice Chairman and Founder; also Chairman of Dhabi Ltd and FH Capital board director",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S7",
+        "S14"
+      ]
+    },
+    {
+      "field": "Person: T. K. Raman",
+      "original_value": "Chief Executive Officer, Finance House PJSC; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "CEO; LinkedIn still not verified",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "Chairman title",
+      "detail": "The official Board page lists Ahmad Obaid Humaid Ali Almazrooei as Chairman and Mohammed Abdulla Jumaa Alqubaisi as Vice Chairman (S2), but the Jul 2025 investnation release quotes Alqubaisi as 'Founder & Chairman, Finance House Group' (S17).",
+      "resolution": "Used the official Board page and the Jun 2026 statements (signed by Alqubaisi as Vice Chairman, S4). 'Chairman' in group releases appears to be a group/founder title.",
+      "source_ids": [
+        "S2",
+        "S17"
+      ]
+    },
+    {
+      "field": "Regulator of FH Capital",
+      "detail": "FH Capital About page says it is regulated by the 'Capital Market Authority' while its footer and investnation say SCA/ESCA (S13, S15).",
+      "resolution": "Recorded SCA (UAE Securities and Commodities Authority); not confirmed on the SCA register.",
+      "source_ids": [
+        "S13",
+        "S15"
+      ]
+    },
+    {
+      "field": "H1 segment table",
+      "detail": "The H1 2026 segment note labels the current-period block '30 June 2025' and shows operating income AED 125,024k, while the income statement shows net operating income AED 119,024k (S4).",
+      "resolution": "Used the primary income statement figure.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "open_items": [
+    "FSRA public register entry for Dhabi Ltd (FSP 200020) could not be located (URL guesses returned 404); permissions taken from the company's ADX disclosure. Dhabi website not found.",
+    "SCA licences of FH Capital (603043 / 20200000145) and FHS (604025) are from company websites; SCA register not checked.",
+    "CBUAE licence of Finance House (finance company) is stated only on FH Capital's About page; not checked on the CBUAE register.",
+    "Integrated Report FY2025 and Corporate Governance Report FY2025 exceeded the fetch size limit; they may hold dated shareholder lists, executive team, customer and employee numbers.",
+    "Lead check: Hrant Balozian (Head of Investments, FH Capital) could not be confirmed on any official page.",
+    "investnation launch date, user numbers and assets not found; FHS General Manager name appears only in an image filename on fhs.ae (not recorded).",
+    "Shareholder percentages come from an undated IR table."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B08",
+  "checked": "2026-10-12"
+}

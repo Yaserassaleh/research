@@ -1,0 +1,1144 @@
+{
+  "id": "ae-mbank",
+  "name": "Mbank (Al Maryah Community Bank)",
+  "short_name": "Mbank",
+  "legal_name": "Al Maryah Community Bank L.L.C.",
+  "name_ar": "بنك المارية المحلي",
+  "country": "AE",
+  "hq_city": "Abu Dhabi",
+  "website": "https://www.mbank.ae",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Digital bank",
+  "model": "Conventional",
+  "founded": "Incorporated as an LLC in Abu Dhabi on 6 Jun 2021 (FY2025 financial statements); CBUAE licence for 'the first all-digital bank' reported on 13 Apr 2021; first board of 11 named 14 Jun 2021. Licence number not found.",
+  "regulators": [
+    "CBUAE"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Private LLC; the share register is not published. Share capital was AED 700m fully paid at 31 Dec 2025 (AED 600m at 31 Dec 2024 and AED 500m at 1 Jan 2024), the latest AED 100m increase approved by the CBUAE. The FY2025 statements, the website, the 2021 licence and board coverage and the April 2026 board announcement name no shareholders (checked 12 Oct 2026). Chairman and board are named; whether any director represents a shareholder is not stated.",
+  "shareholders": [
+    {
+      "holder": "Not disclosed. No shareholder names or percentages appear in the FY2023-FY2025 audited statements, the website or press coverage found.",
+      "pct": null,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S6",
+        "S3"
+      ]
+    }
+  ],
+  "government_link": "Not found after research. No government or sovereign shareholder is disclosed. Abu Dhabi government bodies (Judicial Department, Department of Community Development, Abu Dhabi Housing Authority loan top-ups) appear as customers or partners, not as stated owners. The separate ADQ-backed digital bank mentioned in a 2021 Gulf News article is a different entity. Checked 2026-10-12.",
+  "group_structure": "Group of the bank and one consolidated subsidiary: AED Stablecoin LLC - S.P.C (100%, Abu Dhabi, payment-token issuance; issuer of the AE Coin dirham stablecoin per Gulf News Feb 2026 naming the owner as Al Maryah Community Bank). Emirates Coin Investment LLC (EmCoin, 25%) was consolidated at 31 Dec 2024 and, from 1 Jan 2025, is an equity-accounted associate (carrying amount AED 10,526k; share of loss AED 1,558k); its licensed activities include portfolio and fund management and virtual-asset services. Neither is profiled separately. FY2024 statements were audited by PwC; FY2025 by EY (Abu Dhabi).",
+  "subsidiaries": [
+    {
+      "name": "AED Stablecoin LLC - S.P.C",
+      "pct": 100,
+      "activity": "Payment tokens issuance (AE Coin, AED-pegged stablecoin; CBUAE in-principle approval Oct 2024)",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S5",
+        "S21",
+        "S22"
+      ]
+    },
+    {
+      "name": "Emirates Coin Investment L.L.C. (associate, equity method from 1 Jan 2025)",
+      "pct": 25,
+      "activity": "Licensed for portfolio management, investment fund management, virtual-asset services, arranging and advisory; crypto-settlement partner for AEC Wallet top-ups",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S22"
+      ]
+    }
+  ],
+  "footprint": "UAE only. Head office at 454 Shakhbout Bin Sultan Street, Abu Dhabi (registered address). The Branches & ATMs page lists 21 entries (branches, ATMs and mini-branch kiosks) in Abu Dhabi, Dubai (Business Bay, Al Wasl, Mall of the Emirates ATM) and Sharjah; no total branch count is stated. A branch at Hili Mall, Al Ain opened in Nov 2025. Cash and cheque deposits through FAB's network of 396 ATMs and CDMs (Jul 2024). Checked 2026-10-12. (Sources: S13, S19, S20.)",
+  "customer_segments": "Individuals (current, savings, joint, fixed-deposit and minors accounts), small businesses and corporates; Abu Dhabi Housing Authority beneficiaries (top-up loans). At 31 Dec 2025 corporate accounts were AED 4.91bn (68%) and retail accounts AED 2.34bn (32%) of customer deposits. No affluent, priority or private-banking tier found.",
+  "business_lines": "Retail and corporate banking (S4 note 1). Loans at 31 Dec 2025 (gross AED 1,679.5m): corporate loans 677.7m, personal loans 465.5m, corporate overdrafts 320.4m, retail overdrafts 211.4m, credit cards 4.5m; overdrafts for share trading were AED 395.2m (corporate 191.6m, retail 203.5m). Deposits: current 2,475.1m, savings 681.3m, term 4,060.5m, cash margin 37.8m. Products on the website: Jaywan debit card, Aani instant payments, Ziyada overdraft, personal loans, insurance through Policy Bazaar, in-app IPO subscription on ADX and DFM, AEC Wallet for the AE Coin stablecoin. The largest assets are CBUAE balances (AED 2.64bn) and CBUAE monetary bills (AED 3.27bn).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 8153392,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, audited consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "Printed p.8 (PDF p.11, scanned page read visually); Board report p.1",
+      "note": "Latest available: no 30 Jun 2026 balance sheet is published (IR page lists FY2025, FY2024, H1 2024 and FY2023 only). 31 Dec 2024: AED 4,665,980k.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 7254668,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Deposits from customers (current 2,475,060; savings 681,251; term 4,060,540; cash margin 37,817; corporate 4,911,665 and retail 2,343,003); excludes due to banks (none shown)",
+      "status": "Verified",
+      "locator": "Printed p.8 and note 17, p.36",
+      "note": "31 Dec 2024: AED 3,935,215k. All deposits are in the UAE.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 1669837,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and advances to customers, net of expected credit loss allowance (AED 9,664k) and interest in suspense",
+      "status": "Verified",
+      "locator": "Printed p.8 and note 9, pp.29-30",
+      "note": "31 Dec 2024: AED 820,957k. Conventional (interest-bearing) loans, not Islamic financing.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 1679501,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Gross loans and advances to customers before expected credit loss allowance",
+      "status": "Verified",
+      "locator": "Note 9, p.29",
+      "note": "Corporate gross AED 998,103k (stage 3: 24,130k); retail gross AED 681,398k (stage 3: 3,362k) per credit-risk tables.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 599019,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity (all attributable to owners; non-controlling interest nil after deconsolidation of EmCoin)",
+      "status": "Verified",
+      "locator": "Printed p.8 and p.10",
+      "note": "Share capital AED 700,000k; accumulated losses AED 118,935k. 31 Dec 2024: AED 547,973k.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "share_capital",
+      "value": 700000,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Al Maryah Community Bank L.L.C.",
+      "definition": "Issued and fully paid share capital (700,000,000 shares of AED 1)",
+      "status": "Verified",
+      "locator": "Note 20, p.37",
+      "note": "Increased from AED 600,000k in 2025 with CBUAE approval.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 237847,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Operating income (net interest income AED 179,447k, net fees and commission income AED 46,427k, dividend income AED 4,970k, other income AED 12,098k, less FVTPL loss AED 3,537k and share of associate loss AED 1,558k)",
+      "status": "Verified",
+      "locator": "Printed p.9",
+      "note": "FY2024: AED 193,612k. Operating expenses were AED 245,201k, above operating income.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": -11599,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net loss for the year after tax (total; all attributable to owners of the Bank, no non-controlling interest in 2025)",
+      "status": "Verified",
+      "locator": "Printed p.9; Board report p.1",
+      "note": "Loss before tax AED 12,217k, tax credit AED 618k. FY2024: net profit AED 9,689k in total (AED 10,938k attributable to owners). Note 21 text says AED 11,601k; the statement and Board report say 11,599k (see discrepancies).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "acf_ratio",
+      "value": 21.17,
+      "unit": "percent",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Aggregate Capital Funds (AED 581,718k) as a percentage of total assets excluding overnight deposits and M-bills at the CBUAE and cash collaterals (AED 2,748,404k); CBUAE specialised-bank minimum is 12.5% (17% in the first three years)",
+      "status": "Verified",
+      "locator": "Capital adequacy note, PDF pp.62-63 (printed pp.59-60)",
+      "note": "31 Dec 2024: 39.65%.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "share_trading_overdrafts",
+      "value": 395184,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Overdrafts for share trading: corporate AED 191,636k plus retail AED 203,548k (sum is our addition)",
+      "status": "Verified",
+      "locator": "Note 9, p.30",
+      "note": "31 Dec 2024: corporate 175,457k and retail 106,968k (total 282,425k).",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "No customer count in FY2025 statements (S4), the website (S1, S2), the Nov 2025 Al Ain release (S19), the Feb 2026 AEC release (S22) or two news searches."
+    },
+    {
+      "metric": "aum",
+      "status": "Not found after research",
+      "where_checked": "FY2025 statements (S4) show no assets under management or administration; no asset-management business found on the website (S1, S2)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not found after research",
+      "where_checked": "No wealth or private-banking balances in S4, S1 or S2."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "No count of IPO subscribers or AEC Wallet users in S9, S12, S19 or S22."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "No headcount in the FY2025 statements (S4) or the About page (S2). The Apr 2026 board release gives only an Emiratisation target of 40% (S18)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Mohammed Wassim Khayata",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Group",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found. Described as Founder and CEO on a rankings-site profile (S23); signed the FY2025 statements as CEO on 30 Jul 2026 (S4).",
+      "previous_roles": "Per an undated rankings-site profile (S23): 29 years in senior positions at National Bank of Abu Dhabi, First Gulf Bank, Abu Dhabi Islamic Bank, Finance House and CAPM Investment; helped start the Abu Dhabi Securities Exchange; 25+ years in equity and IPO markets; 18 months in Berlin on blockchain-based financial services; says he launched the first UAE credit card in 1994. Dates not given.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Signed the audited FY2025 statements as Chief Executive Officer (30 Jul 2026, S4); quoted as CEO on 16 Feb 2026 (S22), 28 Nov 2025 (S19) and 16 Jul 2024 (S20); no leadership page on the website; one LinkedIn search returned no profile; no departure news found. Checked 2026-10-12.",
+      "source_ids": [
+        "S4",
+        "S19",
+        "S20",
+        "S22",
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tariq Ahmed Al Masoud",
+      "name_ar": null,
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2021-06",
+      "appointed_note": "Quoted as Chairman on 13 Apr 2021 (S15); named chairman of the first board of 11 on 14 Jun 2021 (S17). Name also rendered Tariq Ahmed Almasaood on the FY2025 statements and Tarek Ahmed Al Masoud in Gulf News.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as Chairman in the board announcement of 22 Apr 2026 (S18) and signed the FY2025 statements as Chairman of the Board on 30 Jul 2026 (S4). No official board page. Checked 2026-10-12.",
+      "source_ids": [
+        "S4",
+        "S15",
+        "S16",
+        "S17",
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ghannam Butti Khalaf Al Mazrouei",
+      "name_ar": null,
+      "title": "Vice Chairman of the Board",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2026-04",
+      "appointed_note": "Named Vice Chairman in the newly formed board announced 22 Apr 2026; the 2021 Vice Chairman was Omar Abdulla Al Zaabi (S17).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board announcement of 22 Apr 2026 (Khaleej Times network release, S18). Single press source; no official board page. Checked 2026-10-12.",
+      "source_ids": [
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Meera Sultan Mohamed Al Suwaidi",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "A Meera Sultan Al Suwaidi was on the first board of 14 Jun 2021 (S17); reappointed to the board announced 22 Apr 2026 (S18).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Named in the board announcement of 22 Apr 2026 (S18). Checked 2026-10-12.",
+      "source_ids": [
+        "S17",
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Obaid Helal Mohammed Al Kaabi",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "An Obaid Hilal Al Kaabi was on the first board of 14 Jun 2021 (S17); named again on 22 Apr 2026 (S18).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Named in the board announcement of 22 Apr 2026 (S18). Checked 2026-10-12.",
+      "source_ids": [
+        "S17",
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Juma Saeed Al Shamsi",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2026-04",
+      "appointed_note": "Named in the newly formed board announced 22 Apr 2026; not on the 2021 board list.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board announcement of 22 Apr 2026 (S18).",
+      "source_ids": [
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Hamad Al Mehairi",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2026-04",
+      "appointed_note": "Named in the newly formed board announced 22 Apr 2026; not on the 2021 board list.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board announcement of 22 Apr 2026 (S18).",
+      "source_ids": [
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Humaid Matar Al Mazrouei",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2026-04",
+      "appointed_note": "Named in the newly formed board announced 22 Apr 2026; not on the 2021 board list.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board announcement of 22 Apr 2026 (S18).",
+      "source_ids": [
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ramez Rafeek",
+      "name_ar": null,
+      "title": "General Manager, AED Stablecoin LLC and Lead of the AE Coin ecosystem",
+      "functions": [
+        "Subsidiary CEO",
+        "Innovation / partnerships"
+      ],
+      "entity": "AED Stablecoin LLC - S.P.C (100% subsidiary)",
+      "business_unit": "AE Coin / AEC Wallet",
+      "scope": "Subsidiary: AED Stablecoin LLC",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as General Manager and lead of the AE Coin ecosystem on 16 Feb 2026 (S22) and as General Manager of AED Stablecoin on 14 Oct 2024 (S21).",
+      "source_ids": [
+        "S21",
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Anas Husain",
+      "name_ar": null,
+      "title": "Head of Retail & Financial Services",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Retail & Financial Services",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Quoted with this title in a Network International release (page returned 403; seen in search results only, release date not confirmed) (S24). No 2026 source.",
+      "source_ids": [
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Humaid Al Attar",
+      "name_ar": null,
+      "title": "Executive Vice President, Wholesale Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Al Maryah Community Bank L.L.C.",
+      "business_unit": "Wholesale Banking",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named with this title in the same Network International release (seen in search results only, S24). No 2026 source.",
+      "source_ids": [
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Mbank is a conventional digital specialised bank serving individuals, small businesses and corporates, with no wealth, private-banking, asset-management or brokerage business found. Investment-related features are limited: in-app IPO subscription on ADX and DFM, an IPO Upgrade programme with DFM giving up to 5x subscription leverage, overdrafts for share trading (AED 395m at 31 Dec 2025), fixed deposits and insurance through Policy Bazaar. Its strategic push is the AE Coin dirham stablecoin through a 100% subsidiary (AED Stablecoin LLC) and the AEC Wallet, with a 25% associate (Emirates Coin Investment) licensed for fund management and virtual-asset services. FY2025 was the first net loss (AED 11.6m) after AED 9.7m profit in 2024, while deposits grew from AED 3.9bn to AED 7.3bn. In April 2026 the new board said it would accelerate investment in fintech and digital products and expand branches.",
+    "segments": [
+      {
+        "name": "Mbank personal accounts (Current/Saving, Joint, Fixed Deposit, Minors)",
+        "tier": "Mass market / retail",
+        "eligibility": "No wealth tier or balance threshold published on the pages checked; account opening via UAE Pass",
+        "source_ids": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "name": "Mbank business accounts (accounts, cards, payroll)",
+        "tier": "SME / corporate",
+        "eligibility": "Corporate accounts were 68% of customer deposits at 31 Dec 2025",
+        "source_ids": [
+          "S1",
+          "S4"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private-banking, priority or affluent proposition found on mbank.ae (S1, S2) or in 2024-2026 coverage (S19, S22).",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "asset_management": {
+      "present": "Unclear",
+      "detail": "No Mbank fund manager or funds found. The 25% associate Emirates Coin Investment LLC is licensed for portfolio management and investment fund management, but no fund, AUM or product was found (S4 note 13).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    "brokerage": {
+      "present": "Not found after research",
+      "detail": "No trading broker or securities licence found. The bank offers IPO subscription (ADX and DFM, via the Mbank app and a customer NIN) and an IPO Upgrade programme with DFM; shares trading is financed through overdrafts (AED 395m) but execution runs through the exchanges' own channels (DFM app, iVestor).",
+      "source_ids": [
+        "S9",
+        "S12",
+        "S4"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Mbank UAE app (account opening via UAE Pass): subscribe to ADX and DFM IPOs and pay from the account; IPO Upgrade (5x leverage, via DFM and iVestor, undated page); AEC Wallet (separate app) for AE Coin, a payment token. No in-app secondary-market trading, funds or ETFs found.",
+      "source_ids": [
+        "S9",
+        "S12",
+        "S10"
+      ]
+    },
+    "advisory": {
+      "present": "Not found after research",
+      "detail": "No investment advisory service found. The Nov 2025 Al Ain branch release lists 'advisory services' only in the context of account opening, loans and digital banking.",
+      "source_ids": [
+        "S19"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary or managed-portfolio service found.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No mutual-fund or ETF shelf found on mbank.ae.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "Conventional bank (interest income and expense in the statements). No Shariah-compliant investment products found.",
+      "source_ids": [
+        "S4",
+        "S1"
+      ]
+    },
+    "asset_classes": [
+      "Local equities"
+    ],
+    "partners": [
+      {
+        "partner": "Dubai Financial Market (DFM) and iVestor",
+        "kind": "Exchange / IPO platform",
+        "what": "IPO Upgrade programme giving up to 5x subscription leverage on selected IPOs, run through the DFM app, iVestor app and DFM website; page undated and references CBUAE IPO rules of early Nov 2024",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S12",
+          "S9",
+          "S8"
+        ]
+      },
+      {
+        "partner": "Abu Dhabi Securities Exchange (ADX)",
+        "kind": "Exchange",
+        "what": "IPO subscription for ADX-listed offerings through the Mbank app",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "partner": "First Abu Dhabi Bank (FAB)",
+        "kind": "Cash and cheque deposit network",
+        "what": "Mbank customers deposit cash and cheques at FAB's 396 ATMs and CDMs via FABePay with a reference code",
+        "date": "2024-07-16",
+        "status": "Live",
+        "source_ids": [
+          "S20"
+        ]
+      },
+      {
+        "partner": "Network International",
+        "kind": "Payment and technology partner",
+        "what": "Release title: selected as payment and technology partner for Al Maryah Community Bank; page returned 403 and was not read",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "partner": "Emirates Coin Investment LLC (25% associate)",
+        "kind": "Crypto-settlement partner",
+        "what": "Settles digital assets into dirhams for AE Coin top-ups in the AEC Wallet, approved by the CBUAE; the article also names 'Emirates Currency Investment Company', unclear if the same entity",
+        "date": "2026-02-16",
+        "status": "Live",
+        "source_ids": [
+          "S22",
+          "S4"
+        ]
+      },
+      {
+        "partner": "AE Coin acceptance partners (Abu Dhabi Judicial Department, ADNOC Distribution, Tawasul Transport, Blockchain Center Abu Dhabi, Select Market, East & West International Group and others)",
+        "kind": "Payments acceptance",
+        "what": "Merchants and government entities accepting AE Coin; items listed on the Mbank Updates page and AEC Wallet page, dates not shown",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S7",
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "partner": "Policy Bazaar",
+        "kind": "Insurance distribution",
+        "what": "Insurance listed under Mbank services on the homepage",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S1"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-04-13",
+        "what": "CBUAE licence for what Gulf News called the first all-digital bank in the UAE, announced by the Chairman",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2021-07",
+        "what": "Reported final CBUAE approval and availability of banking products and services to the community (month from a search-result summary of an IBS Intelligence article)",
+        "source_ids": [
+          "S25"
+        ]
+      },
+      {
+        "date": "2021-06-06",
+        "what": "Bank incorporated and registered as an LLC in Abu Dhabi (FY2025 statements)",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2021-06-14",
+        "what": "First board of directors (11 members) appointed under Chairman Tariq Ahmed Al Masoud",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2024-07-16",
+        "what": "Partnership with FAB for cash and cheque deposits at 396 ATMs and CDMs",
+        "source_ids": [
+          "S20"
+        ]
+      },
+      {
+        "date": "2024-10-14",
+        "what": "AED Stablecoin LLC announced in-principle CBUAE approval to issue AE Coin under the Payment Token Services Regulation (Circular 2/2024); General Manager Ramez Rafeek quoted",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "date": "2025-11-28",
+        "what": "Opened a new branch at Hili Mall, Al Ain",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "date": "2026-02-16",
+        "what": "AEC Wallet received CBUAE approval to top up AE Coin through cryptocurrency settlement",
+        "source_ids": [
+          "S22"
+        ]
+      },
+      {
+        "date": "2026-04-22",
+        "what": "Announced a newly formed board with Ghannam Al Mazrouei as Vice Chairman; stated plans to accelerate fintech investment, expand the branch network and raise Emiratisation to 40%",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "date": "2026-07-30",
+        "what": "Board approved FY2025 statements: first net loss (AED 11.6m); deposits AED 7.25bn; share capital increased to AED 700m",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "No wealth, funds, advisory or private-banking offering found; investment features are IPO subscription and an IPO Upgrade with DFM (S9, S12).",
+        "Customers already borrow to trade shares: overdrafts for share trading were AED 395.2m at 31 Dec 2025, up from AED 282.4m a year earlier (S4 note 9).",
+        "Deposits grew from AED 3.94bn to AED 7.25bn in 2025, with AED 2.34bn from retail accounts (S4 note 17).",
+        "April 2026 board stated priorities: investment in fintech, advanced digital products and branch expansion (S18).",
+        "The 25% associate Emirates Coin Investment holds licences covering fund management and virtual-asset services, which could be a route to investment products (S4 note 13)."
+      ],
+      "barriers": [
+        "FY2025 net loss of AED 11.6m with operating expenses (AED 245.2m) above operating income (AED 237.8m); accumulated losses AED 118.9m (S4).",
+        "Management focus and capital are tied to the AE Coin stablecoin ecosystem (100% subsidiary, 25% associate) (S4, S22).",
+        "Most assets are CBUAE balances and M-bills (AED 5.9bn of AED 8.2bn, our calculation) and the loan book is small (AED 1.67bn net) (S4).",
+        "Mass-market and SME base with no affluent tier; board reconstituted in April 2026 (S1, S18).",
+        "Ownership undisclosed, so decision-makers behind the bank are unclear (S4)."
+      ],
+      "incumbent_vendors": [
+        "DFM / iVestor - IPO subscription platform (S12)",
+        "First Abu Dhabi Bank - cash and cheque deposit network (S20)",
+        "Network International - payment and technology partner, per release title only (S24)",
+        "Policy Bazaar - insurance distribution (S1)",
+        "Emirates Coin Investment - crypto settlement for AEC Wallet (S22)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Mbank UAE homepage (products, navigation, footer licence statement)",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "About Mbank",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/about/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Investor Relations (document list)",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/investor-relations/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Report of the Board of Directors and Consolidated Financial Statements, 31 December 2025 (audited by EY)",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/wp-content/uploads/2026/08/Consolidated-Financial-Statements-31-December-2025.pdf",
+      "doc_type": "Audited financial statements (EY, unmodified opinion; approved 30 Jul 2026)",
+      "tier": 1,
+      "published": "2026-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Consolidated Financial Statements for the Year Ended 31 December 2024 (audited by PwC)",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/wp-content/uploads/2025/09/Consolidated-Financial-Statements-for-the-Year-Ended-31-December-2024-1.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2025-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Financial Statements for the year ended 31 December 2023 (signed, with auditor's report)",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/wp-content/uploads/2024/08/Signed-FS-including-signed-auditors-report-Al-Maryah-Community-Bank-2023.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2024",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Updates (news list, first page)",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/updates/",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Updates (second listing page: Jaywan cards, DFM IPO Upgrade, Mbank Wallet, FAB deposits)",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/updates/page/2/",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "IPO subscription (ADX and DFM)",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/ipo/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "AEC Wallet (AE Coin wallet)",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/aec-wallet/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Supported by Mbank: AE Coin and USDU collaborate on a regulated AED-USD stablecoin conversion framework",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/update/mbank-ae-coin-and-usdu/",
+      "doc_type": "Official news item",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Mbank Partners with DFM to Launch IPO Upgrade Program",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/update/mbank-partners-with-dfm-to-launch-ipo-upgrade-program/",
+      "doc_type": "Official news item",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Branches and ATMs",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/branches-and-atms/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Mbank Arabic homepage",
+      "publisher": "Al Maryah Community Bank L.L.C.",
+      "url": "https://www.mbank.ae/ar/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S15",
+      "title": "'Al Maryah Community Bank' becomes UAE's first licensed digital-only bank",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/al-maryah-community-bank-becomes-uaes-first-licensed-digital-only-bank-1.1618283662101",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-04-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Al Maryah Community Bank announces founding members",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/al-maryah-community-bank-announces-founding-members-1.1618734942295",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-04-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Abu Dhabi digital bank Al Maryah Community appoints its first Board of Directors",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/corporate-news/abu-dhabi-digital-bank-ai-maryah-community-appoints-its-first-board-of-directors-1.1623673295666",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-06-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Mbank announces new board of directors to strengthen governance and accelerate digital banking growth",
+      "publisher": "Khaleej Times (KT Network release)",
+      "url": "https://www.khaleejtimes.com/kt-network/mbank-announces-new-board-of-directors-to-strengthen-governance-and-accelerate-digital-banking-growth?amp=1",
+      "doc_type": "Company press release via news network",
+      "tier": 5,
+      "published": "2026-04-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Mbank expands in the UAE with a new branch in Al Ain",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/corporate-news/mbank-expands-in-the-uae-with-a-new-branch-in-al-ain-1.500362873",
+      "doc_type": "News (company release)",
+      "tier": 5,
+      "published": "2025-11-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Al Maryah Community Bank partners with First Abu Dhabi Bank to offer cash and cheque deposits",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/corporate-news/al-maryah-community-bank-partners-with-first-abu-dhabi-bank-to-offer-cash-and-cheque-deposits-1.1721128563619",
+      "doc_type": "News (company release)",
+      "tier": 5,
+      "published": "2024-07-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "AED Stablecoin secures UAE Central Bank approval to launch AE Coin",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/corporate-news/aed-stablecoin-secures-uae-central-bank-approval-to-launch-ae-coin-1.1728906640252",
+      "doc_type": "News (company release)",
+      "tier": 5,
+      "published": "2024-10-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "AEC Wallet enables users to top-up AE Coin directly with crypto",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/corporate-news/aec-wallet-enables-users-to-top-up-ae-coin-directly-with-crypto-1.500444850",
+      "doc_type": "News (company release)",
+      "tier": 5,
+      "published": "2026-02-16",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Mohammed W. Khayata (Top 20 CEOs nominee profile)",
+      "publisher": "Unlock BC (The Unlock Company DMCC)",
+      "url": "https://www.unlock-bc.com/en/rankings/top-20-ceos/nominee/mohammed-w-khayata",
+      "doc_type": "Rankings-site profile (self-described)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Network International selected as payment and technology partner for UAE's first licensed digital-only bank Al Maryah Community Bank",
+      "publisher": "Network International",
+      "url": "https://network.ae/news/network-international-selected-as-payment-and-technology-partner-for-uaes-first-licensed-digital-only-bank-al-maryah-community-bank",
+      "doc_type": "Partner press release",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Al Maryah Community Bank receives its final approval from CBUAE",
+      "publisher": "IBS Intelligence",
+      "url": "https://ibsintelligence.com/ibsi-news/al-maryah-community-bank-receives-its-final-approval-from-cbuae",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "FY2025 net loss",
+      "detail": "The statement of profit or loss, Board report and equity statement show a net loss of AED 11,599k; note 21 (Legal reserve) says AED 11,601k.",
+      "resolution": "Used AED 11,599k (primary statements); the AED 2k difference is immaterial.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "Legal basis references",
+      "detail": "The scanned Board report cites Federal Decree-Law No. 14 of 2018 and No. 26 of 2020, while note 1 cites the specialised-banks regulations under Federal Decree-Law No. 6 of 2025.",
+      "resolution": "Not material to metrics; no licence number found either way. Recorded for reviewers.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "Board composition",
+      "detail": "Vice Chairman Omar Abdulla Al Zaabi and several 2021 directors (e.g. Ahmed Jaber Al Suwaidi, Khaled Thani Al Romaithi) do not appear on the board announced 22 Apr 2026; no source explains the departures.",
+      "resolution": "Used the Apr 2026 list for current roles; the 2021 list kept only as appointment history.",
+      "source_ids": [
+        "S17",
+        "S18"
+      ]
+    }
+  ],
+  "open_items": [
+    "Shareholders are not disclosed anywhere found (FY2023-FY2025 statements, website, press). The CBUAE licence register was not queried for Mbank; centralbank.ae returned 403 in the sibling ruya check (R2).",
+    "No H1 2026 or Q3 2026 financials: the IR page lists only FY2025 (approved 30 Jul 2026), FY2024, H1 2024 and FY2023 statements and Pillar 3 for 30 Jun 2024 and 31 Dec 2023. Latest period is 31 Dec 2025.",
+    "Customers, employees, AUM and wealth client assets are not disclosed.",
+    "Leaders below the CEO: Anas Husain (Head of Retail & Financial Services) and Humaid Al Attar (EVP Wholesale Banking) come from a Network International release that returned 403 (S24). No CFO, CRO, COO, CTO or head of digital found; a COO name on an aggregator was not used. Board advisor Adeeb Ahamed (appointed 2021, per a Gulf News search result) not checked for 2026.",
+    "CEO LinkedIn: one search returned no profile; linkedin_url null. Company LinkedIn page is linked on the website but its URL was not captured, so linkedin_company is null.",
+    "AE Coin: only in-principle CBUAE approval (Oct 2024) was confirmed; whether a final payment-token licence was issued is not verified. The ownership link between AED Stablecoin LLC and the bank rests on the FY2025 subsidiary note and a Feb 2026 Gulf News release. The 'Emirates Currency Investment Company' named in that release may differ from Emirates Coin Investment LLC.",
+    "Network International partnership (date, scope), Al Fardan Exchange cash-deposit partnership (Zawya search result) and the Mbank Wallet and Jaywan card releases were not read in full. Arabic name 'بنك المارية المحلي' is from the page-reading tool's summary of the Arabic homepage and should be checked visually (S14).",
+    "FY2025 financial-statement pages 1-8 were scanned images; figures were read visually from rendered pages (total assets, deposits, net loans, equity and net loss cross-check with the notes).",
+    "No leads were supplied in the task prompt beyond the institution name; none to correct."
+  ],
+  "research_status": "Partial",
+  "researched_by": "R2",
+  "checked": "2026-10-12"
+}

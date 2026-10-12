@@ -1,0 +1,1778 @@
+{
+  "id": "qa-qnb",
+  "name": "QNB Group",
+  "short_name": "QNB",
+  "legal_name": "Qatar National Bank (Q.P.S.C.)",
+  "name_ar": "بنك قطر الوطني",
+  "country": "QA",
+  "hq_city": "Doha",
+  "website": "https://www.qnb.com",
+  "linkedin_company": "https://www.linkedin.com/company/qatar-national-bank-group",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1964 (incorporated in Qatar on 6 June 1964 under Amiri Decree No. 7 as the country's first Qatari-owned commercial bank)",
+  "regulators": [
+    "QCB",
+    "QFMA (QSE-listed issuer)",
+    "FINMA - QNB (Suisse) SA",
+    "Host-country regulators in 28 international markets"
+  ],
+  "listed": true,
+  "exchange": "QSE",
+  "ticker": "QNBK",
+  "parent_id": null,
+  "ownership_summary": "QSE-listed. Qatar Investment Authority (QIA) holds 50% of the ordinary shares; the remaining 50% is available to the public (FY2025 consolidated financial statements, note 22; official profile page, checked 12 Oct 2026). The FY2025 statements describe the Group as engaged in conventional and Islamic banking.",
+  "shareholders": [
+    {
+      "holder": "Qatar Investment Authority",
+      "pct": 50.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S9"
+      ]
+    }
+  ],
+  "government_link": "Yes - Qatar Investment Authority, Qatar's sovereign wealth fund, owns 50% of ordinary shares (FY2025 financial statements note 22; profile page checked 2026-10-12).",
+  "group_structure": "Qatar National Bank (Q.P.S.C.) is the QSE-listed parent of QNB Group. Wealth-relevant subsidiaries: QNB (Suisse) SA (100%, Geneva private bank, FINMA-regulated, the Group's offshore private-banking hub), QNB Financial Services WLL (QNBFS, 100%, brokerage), QNB Capital LLC (100%, investment banking). Asset management is run as a division (Group Asset and Wealth Management), not a separate legal entity found in the subsidiary list. Largest foreign banking subsidiaries: QNB Bank A.S. (Türkiye, 99.88%), Enpara Bank A.S. (Türkiye digital bank, 99.88%), Qatar National Bank (S.A.E.) (Egypt, 95.0%), PT Bank QNB Indonesia (91.57%), QNB Tunisia, QNB Syria (50.8%), Mansour Bank (Iraq, 54.2%). Associates include Commercial Bank International (UAE, 40%; profiled separately as ae-cbi - equity-accounted, so do not add CBI balances to QNB totals), Housing Bank for Trade and Finance (Jordan, 38.6%), Ecobank Transnational (Togo, 20.1%) and Al Jazeera Finance (Qatar, 20%). The Group is establishing separate digital-bank entities (ezbank) in Saudi Arabia and Egypt. All figures in this file are Group consolidated unless stated.",
+  "subsidiaries": [
+    {
+      "name": "QNB (Suisse) SA",
+      "pct": 100,
+      "activity": "Private banking (Switzerland, FINMA-regulated)",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S18",
+        "S10"
+      ]
+    },
+    {
+      "name": "QNB Financial Services WLL (QNBFS)",
+      "pct": 100,
+      "activity": "Brokerage, research, market making (Qatar)",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S20"
+      ]
+    },
+    {
+      "name": "QNB Capital LLC",
+      "pct": 100,
+      "activity": "Investment banking (Qatar)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "QNB International Holdings Limited",
+      "pct": 100,
+      "activity": "Holding company (Luxembourg)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "QNB Bank A.S. (QNB Türkiye, formerly QNB Finansbank)",
+      "pct": 99.88,
+      "activity": "Banking (Türkiye)",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    {
+      "name": "Enpara Bank A.S.",
+      "pct": 99.88,
+      "activity": "Digital bank (Türkiye)",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S8"
+      ]
+    },
+    {
+      "name": "Qatar National Bank (S.A.E.) (QNB Egypt, formerly QNB Al Ahli)",
+      "pct": 95.0,
+      "activity": "Banking (Egypt)",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    {
+      "name": "PT Bank QNB Indonesia Tbk",
+      "pct": 91.57,
+      "activity": "Banking (Indonesia)",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    {
+      "name": "Qatar National Bank Tunisia",
+      "pct": 99.998,
+      "activity": "Banking (Tunisia)",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    {
+      "name": "Qatar National Bank Syria S.A.E.",
+      "pct": 50.8,
+      "activity": "Banking (Syria)",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    {
+      "name": "Mansour Bank for Investment PJSC",
+      "pct": 54.2,
+      "activity": "Banking (Iraq)",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    {
+      "name": "QNB Property France",
+      "pct": 100,
+      "activity": "Property (France)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "QNB Finance Ltd.",
+      "pct": 100,
+      "activity": "Funding vehicle (Cayman Islands)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "QNB (Derivatives) Limited",
+      "pct": 100,
+      "activity": "Derivatives vehicle (Cayman Islands)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "Digital-Q-FS Limited",
+      "pct": 100,
+      "activity": "Not described in source (United Kingdom, 2022)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "Commercial Bank International P.S.C. (associate)",
+      "pct": 40.0,
+      "activity": "Banking (UAE) - associate, equity-accounted",
+      "linked_id": "ae-cbi",
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    {
+      "name": "Housing Bank for Trade and Finance (associate)",
+      "pct": 38.6,
+      "activity": "Banking (Jordan) - associate",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    {
+      "name": "Ecobank Transnational Incorporated (associate)",
+      "pct": 20.1,
+      "activity": "Banking (Togo / pan-African) - associate",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    },
+    {
+      "name": "Al Jazeera Finance Company (associate)",
+      "pct": 20.0,
+      "activity": "Financing (Qatar) - associate",
+      "linked_id": null,
+      "source_ids": [
+        "S5",
+        "S10"
+      ]
+    }
+  ],
+  "footprint": "Presence in more than 28 countries across three continents (profile page and H1 2026 release); 'nearly one thousand branches' and more than 5,390 ATMs including subsidiaries and associates, 31.5 thousand employees and 36 million customers (Annual Report 2025). International network page (checked 12 Oct 2026): Qatar, KSA, Kuwait, Oman, UAE (CBI associate), Egypt, Tunisia, Sudan, South Sudan, Togo (Ecobank), Iraq (Mansour Bank), Jordan (HBTF), Lebanon, Syria, Yemen, Türkiye, Switzerland, France, UK, India, Indonesia, Singapore, Hong Kong, plus representative offices in China and Vietnam. International Business contributed 53% of the business mix shown in the Annual Report 2025 'at a glance' page.",
+  "customer_segments": "Retail (mass), affluent/premium (QNB First and QNB First Plus), private banking HNW/UHNW (QNB Private in Qatar; offshore via QNB (Suisse) SA; private banking in France and UK), SME/commercial, large corporate and institutional, financial institutions, sovereign/government; brokerage clients of QNBFS (retail, HNW, domestic and foreign institutions).",
+  "business_lines": "Four reporting segments: Corporate Banking, Consumer Banking, Asset and Wealth Management, and International Banking (financial statements note 2). Annual Report 2025 business lines: Wholesale and Commercial Banking; Retail Banking (incl. QNB First / First Plus premium banking, cards, payments/acquiring, QNB Mobile); Asset and Wealth Management (private banking, in-house funds and discretionary mandates, open-architecture third-party funds, structured products, brokerage and custody via QNBFS, Swiss private bank QNB Suisse); International Business. Investment banking via QNB Capital. In H1 2026 the Asset and Wealth Management segment generated QR 687.4m revenue and held QR 50.5bn customer deposits and QR 44.7bn loans.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 1438160869,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total Assets, interim consolidated statement of financial position (reviewed, EY)",
+      "status": "Verified",
+      "locator": "PDF p.3 (scanned page, read visually)",
+      "note": "Release rounds to QAR 1,438bn (S6).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 1463808040,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-09-30",
+      "period_label": "30 Sep 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total Assets, interim consolidated statement of financial position (reviewed, EY, 8 Oct 2026)",
+      "status": "Verified",
+      "locator": "PDF p.3 (scanned page, read visually)",
+      "note": "Extra Q3 2026 record. Release rounds to QAR 1,464bn (S7).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 1391346423,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total Assets, consolidated statement of financial position (audited)",
+      "status": "Verified",
+      "locator": "S4 PDF p.3 comparative column",
+      "note": "",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 972878118,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customer Deposits, interim consolidated statement of financial position; excludes Due to Banks (QR 144.6bn), debt securities and other borrowings",
+      "status": "Verified",
+      "locator": "PDF p.3",
+      "note": "Release rounds to QAR 973bn (S6).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 979436046,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-09-30",
+      "period_label": "30 Sep 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customer Deposits, interim consolidated statement of financial position; excludes Due to Banks",
+      "status": "Verified",
+      "locator": "PDF p.3",
+      "note": "Extra Q3 2026 record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 955412337,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customer Deposits, consolidated statement of financial position (audited); excludes Due to Banks",
+      "status": "Verified",
+      "locator": "S4 PDF p.3 comparative column",
+      "note": "",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 1041987875,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and Advances to Customers (net of ECL, note 3), interim consolidated statement of financial position; includes Islamic financing",
+      "status": "Verified",
+      "locator": "PDF p.3",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 1061026819,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-09-30",
+      "period_label": "30 Sep 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and Advances to Customers (net), interim consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "PDF p.3",
+      "note": "Extra Q3 2026 record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 130455185,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total Equity incl. QR 20bn AT1 instruments and non-controlling interests",
+      "status": "Verified",
+      "locator": "PDF p.3",
+      "note": "Equity attributable to shareholders of the Bank: QR 108,761,075 thousand.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 133772037,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-09-30",
+      "period_label": "30 Sep 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total Equity incl. AT1 instruments and non-controlling interests",
+      "status": "Verified",
+      "locator": "PDF p.3",
+      "note": "Extra Q3 2026 record.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 44112500,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating Income' line, consolidated income statement (net interest + net fees + FX + investment income + other); excludes share of results of associates (QR 653.2m)",
+      "status": "Verified",
+      "locator": "PDF p.8",
+      "note": "",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 23687383,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating Income' line, interim consolidated income statement; excludes share of associates (QR 388.8m)",
+      "status": "Verified",
+      "locator": "PDF p.4",
+      "note": "The release's 'Operating Income QAR24.1bn' equals total segment revenue including associates (QR 24,076,232 thousand, note 2); see discrepancies.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 35433169,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-09-30",
+      "period_label": "9M 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating Income' line, interim consolidated income statement; excludes share of associates (QR 587.6m)",
+      "status": "Verified",
+      "locator": "PDF p.4",
+      "note": "Extra Q3 2026 record. Release 'QAR36bn' includes associates (segment revenue QR 36,020,763 thousand).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 17000100,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year attributable to equity holders of the Bank (after hyperinflation monetary loss and income tax)",
+      "status": "Verified",
+      "locator": "PDF p.8",
+      "note": "Total profit for the year QR 17,353,776 thousand incl. NCI.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 8670488,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period attributable to equity holders of the Bank",
+      "status": "Verified",
+      "locator": "S3 PDF p.4",
+      "note": "Release: QAR 8.7bn, +3% YoY; QAR 11.1bn before hyperinflation impact.",
+      "source_ids": [
+        "S3",
+        "S6"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 13317417,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-09-30",
+      "period_label": "9M 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period attributable to equity holders of the Bank",
+      "status": "Verified",
+      "locator": "S4 PDF p.4",
+      "note": "Extra Q3 2026 record. Release: QAR 13.3bn, +4% YoY; QAR 16.4bn before hyperinflation impact.",
+      "source_ids": [
+        "S4",
+        "S7"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 29,
+      "unit": "billion",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Division: Group Asset and Wealth Management - asset management business",
+      "definition": "'Assets under management' of QNB's asset management business (in-house funds and portfolios), stated as up 12% to QR 29bn; discretionary/non-discretionary split not given",
+      "status": "Verified",
+      "locator": "PDF p.68 (printed p.66)",
+      "note": "Rounded narrative figure. Private Banking AUM is described only as up ~50% in 2025, with no value.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 36,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Group incl. subsidiaries and associates",
+      "definition": "'Serving more than 36 million customers across our network' (total customers incl. subsidiaries and associates; not split active/registered or retail/other)",
+      "status": "Verified",
+      "locator": "PDF p.16 and p.48",
+      "note": "Rounded; includes associates (e.g. Ecobank, HBTF, CBI).",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 31.5,
+      "unit": "thousand",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "'31.5 thousand employees' (stakeholder summary)",
+      "status": "Verified",
+      "locator": "PDF p.48",
+      "note": "Profile page (S9) says 'more than 31,000 staff'.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "awm_segment_customer_deposits",
+      "value": 50455043,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Segment: Asset and Wealth Management (Qatar operations)",
+      "definition": "Reportable segment customer deposits, Asset and Wealth Management segment (note 2). Balance-sheet deposits, not client AUM.",
+      "status": "Verified",
+      "locator": "PDF p.10",
+      "note": "30 Sep 2026: QR 48,711,290 thousand (S4 PDF p.10).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "awm_segment_loans",
+      "value": 44651758,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Segment: Asset and Wealth Management (Qatar operations)",
+      "definition": "Reportable segment loans and advances, Asset and Wealth Management segment (note 2)",
+      "status": "Verified",
+      "locator": "PDF p.10",
+      "note": "30 Sep 2026: QR 45,284,839 thousand (S4).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "awm_segment_revenue",
+      "value": 687373,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Segment: Asset and Wealth Management (Qatar operations)",
+      "definition": "Total segment revenue, Asset and Wealth Management segment (note 2); net fees QR 192.6m of which",
+      "status": "Verified",
+      "locator": "PDF p.10",
+      "note": "9M 2026: QR 1,074,222 thousand (S4). Annual Report 2025 chart: AWM revenue QR 1.4bn in 2025 (S8 p.68).",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "H1 and 9M 2026 interim statements (S3, S4), FY2025 statements (S5), Annual Report 2025 AWM section (S8), results releases (S6, S7). No custody/AUA figure for QNBFS or the Group."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Annual Report 2025 private banking section (S8 p.70) gives only growth rates (Private Banking AUM up ~50%, loans and deposits up ~7%, client base up 3%, ~30% market share); QNB Private and QNB Suisse pages (S15, S16, S18)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "Annual Report 2025 brokerage section (S8 p.70-71: 46% QSE market share, ~10% retail-investor share, no client count); QNBFS website (S19, S20)."
+    },
+    {
+      "metric": "branches",
+      "status": "Not publicly disclosed",
+      "where_checked": "Only approximate counts found: 'nearly one thousand branches' (S8 p.16) and 'approximately 900 locations' (S9). No exact Group branch count in S3-S8."
+    }
+  ],
+  "people": [
+    {
+      "name": "Ali bin Ahmed Al-Kuwari",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair",
+        "Board"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not stated on sources checked.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as Chairman on official Board of Directors page, checked 2026-10-12 (S2); signed the 30 Sep 2026 interim statements as Chairman on 8 Oct 2026 (S4).",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulla Mubarak Al-Khalifa",
+      "name_ar": null,
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2018-11",
+      "appointed_note": "Appointed Group CEO in November 2018 per QNB Türkiye board biography (S21).",
+      "previous_roles": "Joined QNB in 1996; Group CEO since Nov 2018; Chairperson of QNB Bank A.S. (Türkiye) board; chairs the boards of QNB Capital and QNB Suisse (S21).",
+      "education": "Bachelor's degree in Business Administration, Eastern Washington University (S21)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); signed 30 Sep 2026 interim statements (S4); quoted as Group CEO in 11 Oct 2026 release (S23). No departure news found.",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S21",
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yousef Mahmoud Al-Neama",
+      "name_ar": null,
+      "title": "Group Chief Business Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Business Division",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Joined QNB in 2005; Vice Chairperson of QNB Bank A.S. (Türkiye) and of Housing Bank for Trade and Finance; board member, QNB Capital (S21).",
+      "education": "BS Aviation Management, Florida Institute of Technology; diploma in Business Management, University of Glamorgan (S21)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); Annual Report 2025 (S8).",
+      "source_ids": [
+        "S1",
+        "S8",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Adel Ali Al-Malki",
+      "name_ar": null,
+      "title": "Senior Executive Vice President - Group Retail Banking",
+      "functions": [
+        "Retail",
+        "Affluent"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Group Retail Banking (incl. QNB First / First Plus premium banking per S8)",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Ran Group IT until 2021; retail appointment date not stated.",
+      "previous_roles": "Joined QNB in 2003; General Manager, Group IT Department 2010-2021; now SEVP Retail Banking; board member, QNB Bank A.S. (Türkiye) (S21).",
+      "education": "Diploma in Computer Information Technology, Qatar University (2001) (S21)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); QNB Türkiye board biography (S21). No departure news found.",
+      "source_ids": [
+        "S1",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulla Hashim Al-Sada",
+      "name_ar": null,
+      "title": "Senior Executive Vice President - Group Asset and Wealth Management",
+      "functions": [
+        "Wealth",
+        "Private banking",
+        "Investments / asset management",
+        "Brokerage"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Group Asset and Wealth Management (private banking, asset management, brokerage and custody per S8)",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "A 2023 QNB release (seen in search results only, S28) named Adel Khashabi as SEVP Group AWM; Al-Sada was quoted for Group AWM by Oct 2024 (S22). Exact appointment date not found.",
+      "previous_roles": "Quoted as 'QNB Group Asset and Wealth Management' in Oct 2024 release (S22). No official biography found.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); no departure news found in 2025-2026 searches.",
+      "source_ids": [
+        "S1",
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalid Ahmed Al-Sada",
+      "name_ar": null,
+      "title": "Senior Executive Vice President - Group Corporate and Institutional Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Group Corporate and Institutional Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Noor Mohd Al-Naimi",
+      "name_ar": null,
+      "title": "Senior Executive Vice President - Group Treasury and Financial Institutions",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Group Treasury and Financial Institutions",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Joined QNB Group in 2000; Deputy Chairperson, Mansour Bank; board and audit committee member, QNB Bank A.S. (Türkiye) (S21).",
+      "education": "Bachelor's in Business Administration, Qatar University; executive programmes incl. Harvard (S21)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); quoted in 12 Oct 2026 release (S24).",
+      "source_ids": [
+        "S1",
+        "S21",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Rashid Al-Mohannadi",
+      "name_ar": null,
+      "title": "Group Chief Operating Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Operations Division",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); Annual Report 2025 (S8).",
+      "source_ids": [
+        "S1",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Maryam Mohd Al-Kuwari",
+      "name_ar": null,
+      "title": "Senior Executive Vice President - Group Information Technology",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Group Information Technology (Operations Division)",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ramzi Mari",
+      "name_ar": null,
+      "title": "Group Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Financial Division",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Joined QNB in 1997 from Bank of Jordan; board member HBTF, QNB Bank A.S. and QNB Capital; chairs QNB International Holdings (Luxembourg) (S21).",
+      "education": "Master's in Accounting, California State University (S21)",
+      "qualifications": "California CPA (1989) (S21)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Najla Ibrahim Al-Mutawa",
+      "name_ar": null,
+      "title": "Executive Vice President - Strategy and Business Development (lead, Falcon transformation programme)",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Qatar National Bank (Q.P.S.C.)",
+      "business_unit": "Strategy and Business Development",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Joined QNB Group in 2007; board member, IBTech; former board member, QNB Financial Services (S21).",
+      "education": "Virginia Commonwealth University (degree not specified) (S21)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Title taken from QNB Türkiye board biography (undated, checked 2026-10-12, S21). Not listed on the QNB Group executive page (EVP level); Annual Report 2025 org chart shows 'EVP Financial Strategy and Business Planning' (S8), so the exact current title is unconfirmed.",
+      "source_ids": [
+        "S21",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Maha Mohamad Al-Sulaiti",
+      "name_ar": null,
+      "title": "CEO - QNB Financial Services",
+      "functions": [
+        "Brokerage",
+        "Subsidiary CEO"
+      ],
+      "entity": "QNB Financial Services WLL",
+      "business_unit": "QNBFS (brokerage subsidiary)",
+      "scope": "Subsidiary: QNB Financial Services",
+      "appointed": null,
+      "appointed_note": "Appointment date not found; a 2023 news item seen in search results only named 'Abdullah Al Sada' as QNBFS CEO (S28).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Listed under Subsidiaries on official Executive Management page, checked 2026-10-12 (S1). Name search found no news coverage.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ghadeer Abu Hijleh",
+      "name_ar": null,
+      "title": "CEO - QNB Switzerland (QNB (Suisse) SA)",
+      "functions": [
+        "Private banking",
+        "Subsidiary CEO"
+      ],
+      "entity": "QNB (Suisse) SA",
+      "business_unit": "Swiss private bank (offshore private banking hub)",
+      "scope": "Subsidiary: QNB (Suisse) SA",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Listed under Subsidiaries on official Executive Management page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mira Al Attiyah",
+      "name_ar": null,
+      "title": "CEO - QNB Capital",
+      "functions": [
+        "Subsidiary CEO"
+      ],
+      "entity": "QNB Capital LLC",
+      "business_unit": "Investment banking subsidiary",
+      "scope": "Subsidiary: QNB Capital",
+      "appointed": "2014-07",
+      "appointed_note": "QNB release 'QNB Capital appoints Mira Al Attiyah as CEO' (3 Jul 2014) seen in search results only (S29).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed under Subsidiaries on official Executive Management page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1",
+        "S29"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ömür Tan",
+      "name_ar": null,
+      "title": "CEO - QNB Türkiye (General Manager, QNB Bank A.S.)",
+      "functions": [
+        "Subsidiary CEO"
+      ],
+      "entity": "QNB Bank A.S.",
+      "business_unit": "QNB Türkiye",
+      "scope": "Subsidiary: QNB Bank A.S. (Türkiye)",
+      "appointed": "2022-01",
+      "appointed_note": "Appointed CEO of QNB Bank A.S. in January 2022 (S21).",
+      "previous_roles": "Joined Finansbank in 1998; CEO since Jan 2022; chairs QNB Factoring and IBTech boards; Vice Chairperson, QNB eSolutions (S21).",
+      "education": "BA Statistics, Hacettepe University; MBA, Bilgi University (S21)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official QNB Group Executive Management page (S1) and QNB Türkiye board page (S21), checked 2026-10-12.",
+      "source_ids": [
+        "S1",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Cumhur Türkmen",
+      "name_ar": null,
+      "title": "CEO - Enpara Bank",
+      "functions": [
+        "Subsidiary CEO",
+        "Digital"
+      ],
+      "entity": "Enpara Bank A.S.",
+      "business_unit": "Enpara (digital bank, Türkiye)",
+      "scope": "Subsidiary: Enpara Bank A.S.",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed under Subsidiaries on official Executive Management page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "QNB runs wealth through a Group Asset and Wealth Management division (SEVP Abdulla Hashim Al-Sada) covering private banking, in-house asset management, open-architecture funds, structured products and brokerage; the division earned about QR 1.4bn revenue in 2025 and reports as its own segment (H1 2026: QR 687m revenue, QR 50.5bn deposits). Asset management AUM rose 12% to QR 29bn in 2025; it launched a QNB Money Market Fund and two thematic portfolios (AI/digital infrastructure and renewable energy/climate transition) and expanded reverse convertibles and multi-asset baskets. QNB Private (Qatar's first private bank, ~30% market share, Euromoney Best Private Bank in Qatar 2025) grew AUM ~50% in 2025, uses QNB (Suisse) SA in Geneva as its offshore hub, and is building a specialised wealth management system for client reporting. Affluent clients are served by QNB First (QAR 35k salary or QAR 350k balance) and First Plus. Third-party funds come via the Allfunds Bank platform (23-fund white list). Brokerage subsidiary QNBFS holds 46% of QSE trading, opened retail bond trading from QR 100,000 in Dec 2025, and is trialling an integrated multi-market retail trading platform for launch in 2026.",
+    "segments": [
+      {
+        "name": "QNB First",
+        "tier": "Affluent",
+        "eligibility": "Any one of: minimum salary QAR 35,000 per month; minimum average credit balance QAR 350,000 in the last 6 months; minimum fixed deposit QAR 350,000 with over 6-month tenor (Qatar).",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "name": "QNB First Plus",
+        "tier": "Upper affluent",
+        "eligibility": "Not published on pages checked; named in Annual Report 2025 as a premium tier alongside QNB First.",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "name": "QNB Private",
+        "tier": "Private / HNW-UHNW",
+        "eligibility": "Not published on pages checked (dedicated private banker; call centre 4440 7744).",
+        "source_ids": [
+          "S16"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "QNB Private in Qatar, which QNB calls the first private bank established in Qatar. It offers a dedicated private banker, banking, real estate services and advisory, asset and wealth management, Lombard/special lending, and access to QNB private banking in Switzerland, France and the UK. Offshore hub: QNB (Suisse) SA in Geneva (FINMA): open-architecture investing, equities and fixed income trading, structured products, QNB and third-party mutual and hedge funds, GCC and global brokerage and custody, Lombard and real-estate lending, Islamic solutions, UHNW concierge. 2025: AUM up ~50%, loans and deposits up ~7%, clients up 3%, ~30% Qatar market share; RMs got a new 360-degree client dashboard; a specialised wealth management system for client reporting is in development. Awards: Euromoney and MEED Best Private Bank in Qatar 2025; Global Finance Best Private Bank in the Middle East and Qatar 2025.",
+      "source_ids": [
+        "S8",
+        "S15",
+        "S16",
+        "S18",
+        "S22"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "In-house division (Group Asset and Wealth Management; no separate asset-management legal entity found). AUM QR 29bn at end-2025 (+12%), revenue +7.7%; in-house funds averaged 330 bps net outperformance (S8). Funds: Al Watani Fund (Qatari blue chips), QNB MENA Debt Fund, QNB Sukuk Fund, QNB MENA Equity Fund, QNB Commodity Fund, and QNB Money Market Fund (launched 2025). QNB Suisse fund range: MENA Equities, MENA Debt, Global Sukuk, Spinel RC Fund, Global Funds ICAV. Two thematic portfolios launched in 2025 (AI/digital infrastructure; renewables/climate transition). Plans for cross-border fund structures and more automation and digital client tools in 2026.",
+      "source_ids": [
+        "S8",
+        "S15",
+        "S27",
+        "S12"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "QNB Financial Services WLL (QNBFS), wholly owned, brokerage since May 2011. QSE market share 46% in 2025 (33% 2023, 37% 2024); ~10% share of retail investors; 100% share of bonds and T-bill transactions; market maker and liquidity provider for 39 listed companies; only Qatari broker with equity research (30 companies). Markets: Qatar (web and mobile), GCC and Egypt (via desk), US/European equities, ETFs and primary issues (desk), global trading via Interactive Brokers, primary and secondary bonds and sukuk, margin trading. Retail bond trading on QSE from QR 100,000 launched Dec 2025. Retail clients are reached through QNB branches. CEO Maha Mohamad Al-Sulaiti.",
+      "source_ids": [
+        "S8",
+        "S19",
+        "S20",
+        "S25",
+        "S1"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Through QNBFS rather than the bank app: the QNBFS Trading app (iOS/Android) and web trading for QSE, with transfers between QNB accounts and investment accounts. QNBFS is trialling a single integrated retail trading platform across Qatar, GCC, US and Europe with consolidated portfolio view, expected to launch in 2026, and is exploring AI-driven tailored recommendations (Annual Report 2025). No evidence found that the QNB Mobile banking app in Qatar sells funds or securities. Enpara (Türkiye) and the planned ezbank digital banks focus on banking, not investing, in the sources checked.",
+      "source_ids": [
+        "S8",
+        "S20",
+        "S19"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "End-to-end advisory by Group AWM (S8). The QNB Wealth Solutions team designs fund portfolios by region, asset class and manager (S12). Private bankers advise HNW clients, and QNB Suisse provides investment advisory (S16, S18).",
+      "source_ids": [
+        "S8",
+        "S12",
+        "S16",
+        "S18"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary mandates are available: clients can assign portfolio management to QNB's Asset Management Division under agreed guidelines. Portfolio types include equities, commodities, Qatar/GCC/EM, fixed income and balanced, plus tailor-made or capital-guaranteed structures and ESG themes (Portfolio Management Services page). Aggregate performance of QNB's QE (Qatar equity) portfolios is published in the Annual Report.",
+      "source_ids": [
+        "S14",
+        "S8"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo-advisor or digital model-portfolio service found. Closest offers: Wealth Solutions' custom fund portfolios (advisor-led), and the MetLife-underwritten International Wealth Builder savings plan with conservative, balanced or aggressive strategies.",
+      "source_ids": [
+        "S12",
+        "S26"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Third-party international funds are selected from the Allfunds Bank platform, then screened by the Asset Management Division and reviewed monthly; all must be UCITS and no-load. The monthly white list has 23 funds (20 third-party; 17 SFDR Art. 8). Managers include Goldman Sachs, Fidelity, Schroders, Allianz, BNP Paribas, Pictet, Amundi, Janus Henderson and Old Mutual. The open-architecture platform added aerospace and defence, healthcare and sustainable infrastructure funds in 2025.",
+      "source_ids": [
+        "S13",
+        "S12",
+        "S8"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Demand for structured solutions grew >15% in 2025, led by reverse convertibles; longer-term reverse convertibles and multi-asset baskets were added; private banking clients favour capital-protected and yield-enhancing notes (S8). QNB Suisse offers structured products (S18); QNB AWM offers capital-guaranteed structures (S14).",
+      "source_ids": [
+        "S8",
+        "S18",
+        "S14"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No private equity, private credit or other private-markets fund offering found. The Annual Report mentions investor appetite for 'alternative assets' and structured products giving diversified asset pools; the white list's 'alternatives' are a listed global property equity fund and a gold fund. QNB Suisse lists third-party hedge funds.",
+      "source_ids": [
+        "S8",
+        "S13",
+        "S18"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "QNB Sukuk Fund (USD sukuk from governments, agencies and corporates) and QNB Suisse Global Sukuk Fund; Old Mutual Global Islamic Equity fund on the white list; QNB Suisse Islamic solutions (Wakala, reverse Murabaha); QNBFS secondary sukuk trading. QNB Capital arranges sukuk (IFN Deal of the Year 2025 awards, Oct 2026).",
+      "source_ids": [
+        "S15",
+        "S27",
+        "S13",
+        "S18",
+        "S19"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Structured products",
+      "Gold / precious metals",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Allfunds Bank",
+        "kind": "Funds platform",
+        "what": "Source platform for QNB's third-party international fund white list",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "partner": "Interactive Brokers",
+        "kind": "Execution / platform technology",
+        "what": "Global trading platform offered to QNBFS clients for international markets",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "partner": "MetLife (American Life Insurance Company)",
+        "kind": "Bancassurance / investment-linked insurance",
+        "what": "Underwrites the International Wealth Builder regular-premium savings and investment plan distributed by QNB",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S26"
+        ]
+      },
+      {
+        "partner": "Ajlan & Bros Holding Group",
+        "kind": "Joint venture partner",
+        "what": "Saudi digital bank JV 'ezbank' (SAR 2.5bn capital; licence approved 30 Sep 2025; MVP scheduled Dec 2026)",
+        "date": "2025-09-30",
+        "status": "Announced",
+        "source_ids": [
+          "S8"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025",
+        "what": "Asset management launched QNB Money Market Fund and two thematic portfolio solutions (AI/digital infrastructure; renewable energy/climate transition); expanded structured product range.",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Private Banking introduced a 360-degree RM dashboard; a specialised wealth management system for client reporting is under development.",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2025-12-21",
+        "what": "QNBFS launched retail trading of listed government and corporate bonds on QSE with a QR 100,000 minimum (previously up to QR 50m).",
+        "source_ids": [
+          "S25"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "QNBFS trialling a single integrated retail trading platform (Qatar, GCC, US, Europe) with consolidated portfolio view; launch expected in 2026; exploring AI-driven recommendations.",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2025-09-30",
+        "what": "Saudi digital banking licence for ezbank (JV with Ajlan & Bros, SAR 2.5bn); Egypt ezbank licence granted by CBE in Oct 2025 (approx. EGP 4.5bn); MVPs planned Dec 2026 (KSA) and Q1 2027 (Egypt).",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2025-02",
+        "what": "QNBeyond Plus technology shared-services centre in Egypt operational, supporting digital-bank builds; QNB has onboarded ten local fintechs in Qatar.",
+        "source_ids": [
+          "S8"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "QNBFS is building a new integrated multi-market retail trading platform (expected 2026) and exploring AI-driven tailored investment recommendations (S8 p.71).",
+        "Private Banking has a specialised wealth management system for client reporting 'underway' and a new RM 360-degree dashboard (S8 p.70).",
+        "Asset management plans to 'improve efficiency and digitisation' through automation, data governance and client-focused digital tools in 2026, and to develop cross-border fund structures (S8 p.69).",
+        "No robo/model-portfolio or in-app fund investing found in the QNB Mobile app in Qatar; affluent QNB First base grew 6% in 2025 (S8 p.64).",
+        "No private-markets offering found despite stated client appetite for alternatives (S8 p.68)."
+      ],
+      "barriers": [
+        "Scale and in-house capability: QR 29bn in-house asset manager, own Swiss private bank (QNB Suisse) and market-leading broker (QNBFS 46% QSE share) (S8).",
+        "Existing third-party fund sourcing via Allfunds Bank and international execution via Interactive Brokers (S13, S19).",
+        "Group IT and digital builds are run in-house and via QNBeyond Plus (Egypt shared services) for new digital banks (S8)."
+      ],
+      "incumbent_vendors": [
+        "Allfunds Bank - fund platform (S13)",
+        "Interactive Brokers - global trading platform for QNBFS clients (S19)",
+        "MetLife - unit-linked savings and investment plan (S26)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Executive Management",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/page/en/enexecutivemanagementpage.html",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/page/en/enbod.html",
+      "doc_type": "Official board page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Qatar National Bank (Q.P.S.C.) Interim Condensed Consolidated Financial Statements 30 June 2026",
+      "publisher": "Qatar Stock Exchange (issuer filing)",
+      "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QNBK&reportEndDate=2026-06-30&lang=1",
+      "doc_type": "Reviewed interim financial statements (EY, 8 Jul 2026)",
+      "tier": 1,
+      "published": "2026-07-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Qatar National Bank (Q.P.S.C.) Interim Condensed Consolidated Financial Statements 30 September 2026",
+      "publisher": "Qatar Stock Exchange (issuer filing)",
+      "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QNBK&reportEndDate=2026-09-30&lang=1",
+      "doc_type": "Reviewed interim financial statements (EY review report 8 Oct 2026)",
+      "tier": 1,
+      "published": "2026-10-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Qatar National Bank (Q.P.S.C.) Consolidated Financial Statements 31 December 2025",
+      "publisher": "Qatar Stock Exchange (issuer filing)",
+      "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QNBK&reportEndDate=2025-12-31&lang=1",
+      "doc_type": "Audited consolidated financial statements (approved 13 Jan 2026)",
+      "tier": 1,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Financial Results For The Six Months Ended 30 June 2026",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/en/financialresultsq22026news",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": "2026-07-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Financial Results For The Nine Months Ended 30 September 2026",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/en/financialresultsq32026news",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": "2026-10-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "QNB Annual Report 2025",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbqatar/document/en/enAnnualReport2025",
+      "doc_type": "Annual report (283 pp.)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Our Profile",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/page/en/enqnbprofile.html",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Subsidiaries and Affiliates",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/page/en/ensubsidiaries.html",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "QNB International Network",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/page/en/enqnbglobalnetwork.html",
+      "doc_type": "Official website page (links official LinkedIn company page)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "QNB Wealth Solutions",
+      "publisher": "QNB Qatar",
+      "url": "https://www.qnb.com/sites/qnb/qnbqatar/page/en/enwealthsolutionscontent.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Fund Selection Process",
+      "publisher": "QNB Qatar",
+      "url": "https://www.qnb.com/sites/qnb/qnbqatar/page/en/enfundselectionprocesscontent.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Portfolio Management Services",
+      "publisher": "QNB Qatar",
+      "url": "https://www.qnb.com/sites/qnb/qnbqatar/page/en/enportfoliomanagementservicescontent.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "QNB Private - Asset and Wealth Management",
+      "publisher": "QNB Private",
+      "url": "https://www.qnb.com/sites/qnb/qnbprivate/page/en/enassetandwealthmanagement.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "QNB Private - Private Banking; Product and Services",
+      "publisher": "QNB Private",
+      "url": "https://www.qnb.com/sites/qnb/qnbprivate/page/en/enprivatebanking.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "QNB First - Relationship Management (eligibility)",
+      "publisher": "QNB First",
+      "url": "https://www.qnb.com/sites/qnb/qnbfirst/page/en/enrelationshipmanagement.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "QNB (Suisse) SA - Private Banking",
+      "publisher": "QNB Switzerland",
+      "url": "https://www.qnb.com/sites/qnb/qnbswitzerland/page/en/enprivatebanking.html",
+      "doc_type": "Official subsidiary page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "QNBFS Products & Services",
+      "publisher": "QNB Financial Services",
+      "url": "https://www.qnbfs.com/sites/qnb/qnbfs/page/en/enproductsandservices.html",
+      "doc_type": "Official subsidiary page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "About QNBFS / QNBFS Trading System / Why QNBFS",
+      "publisher": "QNB Financial Services",
+      "url": "https://www.qnbfs.com/sites/qnb/qnbfs/page/en/enaboutqnbfsbrokerage.html",
+      "doc_type": "Official subsidiary page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Board of Directors - QNB Bank A.S.",
+      "publisher": "QNB Türkiye",
+      "url": "https://www.qnb.com.tr/en/about-qnb/board-of-directors",
+      "doc_type": "Official subsidiary board page with biographies",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "QNB named Best Private Bank in the Middle East and Qatar 2025 by Global Finance magazine",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/en/ennews311024news",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-10-31",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "QNB Group Announces Successful Closing of USD 2.5 Billion Senior Unsecured Term Loan Facility Syndication",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/en/11102026news",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-10-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "QNB Named Qatar's Best FX Bank at Euromoney Foreign Exchange Awards 2026",
+      "publisher": "QNB Group",
+      "url": "https://www.qnb.com/sites/qnb/qnbglobal/en/12102026news",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-10-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "QNB Financial Services launches first-of-its-kind access to listed bonds on Qatar Stock Exchange",
+      "publisher": "Gulf Times",
+      "url": "https://www.gulf-times.com/article/717338/qatar/qnb-financial-services-launches-first-of-its-kind-access-to-listed-bonds-on-qatar-stock-exchange",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-12-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "International Wealth Builder",
+      "publisher": "QNB Qatar",
+      "url": "https://www.qnb.com/sites/qnb/qnbqatar/page/en/eninternationalwealth.html",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "QNB Switzerland - International funds",
+      "publisher": "QNB Switzerland",
+      "url": "https://www.qnb.com/sites/qnb/qnbswitzerland/page/en/enmutualfunds.html",
+      "doc_type": "Official subsidiary page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Search results: 'Qatar Stock Exchange honours QNB Financial Services' (Peninsula, 21 Jun 2023) and 'QNB named Best Wealth Manager Servicing in Qatar 2023 by WealthBriefing' (QNB release)",
+      "publisher": "The Peninsula / QNB Group",
+      "url": "https://thepeninsulaqatar.com/article/21/06/2023/qatar-stock-exchange-honours-qnb-financial-services",
+      "doc_type": "News / press release",
+      "tier": 5,
+      "published": "2023-06-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "QNB Capital appoints Mira Al Attiyah as CEO",
+      "publisher": "QNB Group",
+      "url": "https://qnb.com.eg/sites/qnb/qnbglobal/en/ennews3jul2014news",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2014-07-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Institution",
+      "original_value": "Qatar National Bank (QNB Group)",
+      "finding": "Confirmed",
+      "new_value": "QNB Group; legal name Qatar National Bank (Q.P.S.C.)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "field": "banks_row",
+      "original_value": "null (no institution row in original workbook)",
+      "finding": "Updated",
+      "new_value": "Full profile created: ownership (QIA 50%), segments, subsidiaries, wealth capabilities",
+      "materiality": "Material",
+      "source_ids": [
+        "S5",
+        "S8"
+      ]
+    },
+    {
+      "field": "Management: Abdulla Hashim Al-Sada - Senior Executive Vice President, Group Asset and Wealth Management",
+      "original_value": "Verified current official role (evidence 2026-10-07); LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Same title on official Executive Management page 2026-10-12; LinkedIn still not verified (search found no matching profile)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Management: Abdulla Mubarak Al-Khalifa - Group Chief Executive Officer",
+      "original_value": "Verified current official role; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Group CEO since Nov 2018 (joined 1996); signed 30 Sep 2026 statements; quoted 11 Oct 2026. LinkedIn not verified.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S21",
+        "S23"
+      ]
+    },
+    {
+      "field": "Management: Adel Ali Al-Malki - Senior Executive Vice President, Group Retail Banking",
+      "original_value": "Verified current official role; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Same title on official page; biography added (joined 2003; Group IT GM 2010-2021)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S21"
+      ]
+    },
+    {
+      "field": "Management: Khalid Ahmed Al-Sada - Senior Executive Vice President, Group Corporate and Institutional Banking",
+      "original_value": "Verified current official role; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Same title on official page 2026-10-12",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Size metric: Total assets",
+      "original_value": "QAR 1,438 billion, 30 Jun 2026, consolidated group (H1 2026 release, 8 July)",
+      "finding": "Confirmed",
+      "new_value": "QAR 1,438,160,869 thousand (reviewed statements); extra record 30 Sep 2026: QAR 1,463,808,040 thousand",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "field": "Size metric: Customer deposits",
+      "original_value": "QAR 973 billion, 30 Jun 2026, consolidated group",
+      "finding": "Confirmed",
+      "new_value": "QAR 972,878,118 thousand (reviewed statements); 30 Sep 2026: QAR 979,436,046 thousand",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "field": "Size metric source URL",
+      "original_value": "https://qnb.com/sites/qnb/qnbglobal/en/financialresultsq22026news",
+      "finding": "Confirmed",
+      "new_value": "Page exists (opened in browser); blocked to automated fetch by Cloudflare. Exact figures now cited from QSE-filed statements.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S6",
+        "S3"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "Operating income (H1 and 9M 2026)",
+      "detail": "Releases state operating income of QAR 24.1bn (H1) and QAR 36bn (9M). The income statements' 'Operating Income' lines are QR 23,687,383k and QR 35,433,169k; the release figures match total segment revenue including share of associates (QR 24,076,232k; QR 36,020,763k).",
+      "resolution": "Recorded the statement 'Operating Income' line (excl. associates) and noted the release basis.",
+      "source_ids": [
+        "S3",
+        "S4",
+        "S6",
+        "S7"
+      ]
+    },
+    {
+      "field": "Network size",
+      "detail": "Annual Report 2025: 'nearly one thousand branches', >5,390 ATMs, 31.5 thousand employees, 28 international markets. Profile page: ~900 locations, >31,000 staff, >5,000 ATMs, 28+ countries. QNB Private page: network 'spanning more than 30 countries'.",
+      "resolution": "Used Annual Report 2025 figures (dated FY2025); counts include subsidiaries and associates.",
+      "source_ids": [
+        "S8",
+        "S9",
+        "S16"
+      ]
+    },
+    {
+      "field": "Head of Group Asset and Wealth Management",
+      "detail": "A 2023 QNB release (seen in search results only) named Adel Khashabi as SEVP Group AWM; the current official page and an Oct 2024 release name Abdulla Hashim Al-Sada.",
+      "resolution": "Al-Sada recorded as current; change date unknown.",
+      "source_ids": [
+        "S28",
+        "S22",
+        "S1"
+      ]
+    },
+    {
+      "field": "QNBFS CEO",
+      "detail": "A June 2023 Peninsula article (search snippet only) quoted 'The CEO, Abdullah Al Sada' of QNBFS; the official page now lists Maha Mohamad Al-Sulaiti as CEO - QNB Financial Services.",
+      "resolution": "Al-Sulaiti recorded as current. Whether the 2023 'Abdullah Al Sada' is the current SEVP AWM is not confirmed and was not assumed.",
+      "source_ids": [
+        "S28",
+        "S1"
+      ]
+    },
+    {
+      "field": "Najla Al-Mutawa title",
+      "detail": "QNB Türkiye board biography: 'EVP, Strategy and Business Development' and Falcon programme lead; Annual Report 2025 organisation chart shows 'EVP Financial Strategy and Business Planning' (no name).",
+      "resolution": "Recorded with role_status 'Requires verification'.",
+      "source_ids": [
+        "S21",
+        "S8"
+      ]
+    }
+  ],
+  "open_items": [
+    "qnb.com, qnbfs.com and other QNB hosts return Cloudflare 403 to WebFetch/curl; official pages and the Annual Report 2025 were read in an interactive browser session instead. The Q2/Q3 2026 investor presentations were not reviewed.",
+    "LinkedIn: no matching profiles found for Al-Khalifa, Al-Sada (AWM), Al-Malki or Al-Sulaiti in searches; all set to 'Not verified'. Abu Hijleh and Maryam Al-Kuwari not separately searched.",
+    "No official biographies or appointment dates for Abdulla Hashim Al-Sada, Khalid Ahmed Al-Sada, Maha Al-Sulaiti, Ghadeer Abu Hijleh, Maryam Al-Kuwari, Ali Rashid Al-Mohannadi or Cumhur Türkmen.",
+    "Check whether the QNBFS integrated multi-market retail trading platform (expected 2026, S8) has launched, and its technology vendor.",
+    "Private Banking AUM value, QNB Suisse AUM, and QNB First Plus / QNB Private eligibility thresholds are not published on the pages checked; QNB Suisse's own Swiss annual report not reviewed.",
+    "Brief lead 'QNB Asset Management' as an entity: no separate asset-management legal entity appears in the FY2025 subsidiary list (S5); asset management is a division of Group AWM. QNB Capital LLC is investment banking.",
+    "Ghadeer Abu Hijleh: a 2011 NBAD release (search results only) names a person of that name as NBAD Head of Private Banking for Abu Dhabi and Al Ain; not confirmed to be the same person, so not recorded as prior career.",
+    "Group wealth AUM across subsidiaries (e.g. QNB Türkiye, QNB Egypt private banking) not disclosed in consolidated terms; Annual Report notes QNB Türkiye QNB First and Private Banking AUM 'rising sharply' without values."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B19",
+  "checked": "2026-10-12"
+}

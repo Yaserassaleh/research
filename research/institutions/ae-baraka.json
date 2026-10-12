@@ -1,0 +1,819 @@
+{
+  "id": "ae-baraka",
+  "name": "Baraka",
+  "short_name": "baraka",
+  "legal_name": "Baraka Financial Limited (DIFC company no. 4153); ultimate holding company Baraka Technology Holding Ltd (ADGM company no. 4143)",
+  "name_ar": null,
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://getbaraka.com",
+  "linkedin_company": "https://linkedin.com/company/getbaraka",
+  "category": "Non-bank",
+  "type": "Brokerage / investment platform",
+  "model": "Not applicable",
+  "founded": "2020 (founded by Feras Jalbout; started as an investing content platform; trading app launched 3 Aug 2021 after DFSA authorisation in Jun 2021)",
+  "regulators": [
+    "DFSA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Privately held, venture-backed. Disclosed funding: USD 1m pre-seed (Mar 2021), USD 4m seed (Aug 2021; Nuwa Capital, Global Founders Capital, FJ Labs, Raptor Group, Tribe Capital, VentureSouq, Class 5 Global; Y Combinator S21) and USD 20m Series A (Nov 2022, led by Valar Ventures with Knollwood), about USD 25m in total. No later priced round found as of 12 Oct 2026. Shareholding percentages are not disclosed.",
+  "shareholders": [
+    {
+      "holder": "Valar Ventures (led USD 20m Series A, Nov 2022; stake not disclosed)",
+      "pct": null,
+      "as_of": "2022-11-15",
+      "source_ids": [
+        "S17"
+      ]
+    },
+    {
+      "holder": "Other disclosed investors (stakes not disclosed): Knollwood, Nuwa Capital, Global Founders Capital, FJ Labs, Raptor Group, Tribe Capital, VentureSouq, Class 5 Global, Y Combinator",
+      "pct": null,
+      "as_of": "2022-11-15",
+      "source_ids": [
+        "S16",
+        "S17",
+        "S2"
+      ]
+    }
+  ],
+  "government_link": "None found. No government or sovereign investor among disclosed backers (checked 2026-10-12).",
+  "group_structure": "Baraka Financial Limited is the DFSA-authorised operating company (DIFC company no. 4153; DFSA firm ref F006586 per register search snippets; Category 3C licence with Retail Client and Holding and Controlling Client Assets endorsements; Islamic Window endorsement approved Jul 2026). It is wholly owned by Baraka Technology Holding Ltd, an ADGM-incorporated holding company (no. 4143) that is also the App Store publisher. No other regulated entity (Saudi CMA, CBB, SCA) was found.",
+  "subsidiaries": [
+    {
+      "name": "Baraka Financial Limited (DIFC) — DFSA-authorised operating subsidiary of Baraka Technology Holding Ltd (ADGM)",
+      "pct": 100,
+      "activity": "Retail brokerage / investment platform (DFSA Category 3C)",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    }
+  ],
+  "footprint": "Dubai HQ (DIFC). App open to residents and citizens aged 18+ across the GCC, subject to eligibility and product availability (Sep 2026 release); 2022 coverage also named Egypt as a market. The App Store listing says some features are for UAE investors with 'GCC coming soon'. US residents excluded. Checked 2026-10-12.",
+  "customer_segments": "Retail self-directed investors in the GCC, skewed young and first-time: over 70% of investors are under 35 and about two-thirds of funded customers had never invested before (Sep 2026, company claims). Private-markets deals restricted to professional investors.",
+  "business_lines": "Self-directed investing app: US stocks and ETFs (fractional, extended hours), UAE stocks on DFM and ADX (since Sep 2026, via Arqaam Capital DMA, custody at Emirates NBD), US options, fractional bonds, physical gold and silver (SafeGold/Brink's), private-markets SPVs ('baraka Access', professional investors), Shariah screener under a DFSA Islamic Window, premium research subscription (LSEG data), auto-invest and dividend reinvestment.",
+  "metrics": [
+    {
+      "metric": "tradable_instruments",
+      "value": 10000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-09-10",
+      "period_label": "10 Sep 2026",
+      "period_type": "point_in_time",
+      "scope": "baraka app",
+      "definition": "Number of local and global assets available in one account ('nearly 10,000')",
+      "status": "Conflicting sources",
+      "locator": "",
+      "note": "Rounded company claim. Website says '10,000+ assets'; an App Store version note says '20k+ assets across US stocks, ETFs, gold, bonds, and options'.",
+      "source_ids": [
+        "S8",
+        "S1",
+        "S9"
+      ]
+    },
+    {
+      "metric": "venture_funding_raised",
+      "value": 25,
+      "unit": "million",
+      "currency": "USD",
+      "period_end": "2022-11-15",
+      "period_label": "Cumulative to Nov 2022 Series A",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Total venture capital raised (pre-seed, seed and Series A)",
+      "status": "Verified",
+      "locator": "",
+      "note": "Rounded press figure. Entrepreneur ME (Dec 2023) gives the seed as USD 5m vs USD 4m in Wamda (Aug 2021).",
+      "source_ids": [
+        "S17",
+        "S16"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "getbaraka.com home, about, press and news pages (S1, S2, S21); Sep 2026 DFM/ADX release (S8); 2021–2023 funding coverage (S16–S18). No AUM, AUA or client-asset figure found; checked 2026-10-12."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Sep 2026 release gives only ratios (70% under 35; 25x growth in UAE-stock investors from pilot; 58% of funded customers used the Shariah screener) (S8). Last absolute figure: 'tens of thousands' of active users in Nov 2022 (S17); 10,000+ waitlist in Aug 2021 (S16)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "As for customers (S8, S17); English and Arabic searches 2025–2026."
+    },
+    {
+      "metric": "total_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Private company; no financial statements on getbaraka.com or in press coverage; DFSA register pages returned HTTP 403."
+    },
+    {
+      "metric": "operating_income",
+      "status": "Not publicly disclosed",
+      "where_checked": "getbaraka.com, press coverage 2021–2026. Revenue model described only qualitatively (subscription, revenue sharing with the third-party broker per terms) (S3, S17)."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not publicly disclosed",
+      "where_checked": "As above."
+    },
+    {
+      "metric": "employees",
+      "status": "Not publicly disclosed",
+      "where_checked": "getbaraka.com careers page (S7) gives no headcount."
+    }
+  ],
+  "people": [
+    {
+      "name": "Feras Jalbout",
+      "name_ar": null,
+      "title": "Founder and Chief Executive Officer",
+      "functions": [
+        "CEO",
+        "Board"
+      ],
+      "entity": "Baraka Financial Limited",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2020",
+      "appointed_note": "Founder since 2020. DFSA register: Licensed Director and Senior Executive Officer of Baraka Financial Limited effective 2 Jun 2021 (search snippet).",
+      "previous_roles": "Barclays (wealth and investment management) and Standard Chartered; investor at a Dubai-based family office (TechCrunch 2022, Forbes ME). A speaker-bio search snippet (page 404) adds managing director of Aurora Partners.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as Founder and CEO in the 10 Sep 2026 DFM/ADX release (S8); DFSA register snippet shows current Licensed Director/SEO (S10). No departure news found; checked 2026-10-12.",
+      "source_ids": [
+        "S8",
+        "S10",
+        "S17",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Kunal Taneja",
+      "name_ar": null,
+      "title": "Co-founder and Chief Technology Officer (per Forbes Middle East profile, 2022 list)",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Baraka",
+      "business_unit": "Technology",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Headed several departments at Arab Financial Services (Forbes ME).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Only source is the Forbes ME profile tied to its 2022 Most Funded Startups list (S19). Not named on getbaraka.com or in 2026 releases; a job-board page (not cited) lists him as an investor. Current role unconfirmed.",
+      "source_ids": [
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Joel Ayala",
+      "name_ar": null,
+      "title": "Licensed Director, Baraka Financial Limited (DFSA register)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Baraka Financial Limited",
+      "business_unit": "Board",
+      "scope": "DFSA-regulated entity",
+      "appointed": "2021-06-02",
+      "appointed_note": "DFSA individual ref I014291; effective date 2 Jun 2021, no withdrawal shown (search snippet).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "DFSA public register entry seen in search snippet only (page 403) (S11).",
+      "source_ids": [
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "John F Vitalo",
+      "name_ar": null,
+      "title": "Licensed Director, Baraka Financial Limited (DFSA register)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Baraka Financial Limited",
+      "business_unit": "Board",
+      "scope": "DFSA-regulated entity",
+      "appointed": "2021-06-02",
+      "appointed_note": "DFSA individual ref I003499; effective 2 Jun 2021, no withdrawal shown (search snippet).",
+      "previous_roles": "Register snippet also shows a withdrawn senior manager role at Barclays Bank PLC (DIFC).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "DFSA public register entry seen in search snippet only (page 403) (S12).",
+      "source_ids": [
+        "S12"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Charalampos Chatzitheodosiou",
+      "name_ar": null,
+      "title": "Finance Officer and Senior Manager, Baraka Financial Limited (DFSA register)",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Baraka Financial Limited",
+      "business_unit": "Finance",
+      "scope": "DFSA-regulated entity",
+      "appointed": "2024-03-06",
+      "appointed_note": "Effective 6 Mar 2024, the same day the previous holder (Ateeq Mohamed Shaik) was withdrawn (search snippets).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "DFSA public register entry seen in search snippet only (page 403) (S14).",
+      "source_ids": [
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Benjamin Leibeck",
+      "name_ar": null,
+      "title": "Compliance Officer, MLRO and Senior Manager, Baraka Financial Limited (DFSA register)",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Baraka Financial Limited",
+      "business_unit": "Compliance",
+      "scope": "DFSA-regulated entity",
+      "appointed": "2026-01-13",
+      "appointed_note": "Effective 13 Jan 2026; predecessor Muna Salah withdrawn the same day (search snippets).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "DFSA public register entries seen in search snippets only (pages 403) (S13, S15).",
+      "source_ids": [
+        "S13",
+        "S15"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "baraka is a DIFC-based, DFSA-regulated (Category 3C, Retail Client and client-assets endorsements) self-directed investing app for GCC retail investors, founded in 2020 by Feras Jalbout. US stocks and ETFs are held through DriveWealth LLC; since 10 Sep 2026 UAE stocks on DFM and ADX are traded via Arqaam Capital's DMA with custody at Emirates NBD. The app also offers US options, fractional bonds, physical gold and silver (SafeGold, Brink's vaults) and 'baraka Access' pre-IPO SPVs for professional investors (typically from USD 25k; SpaceX and Apptronik closed, OpenAI and Stripe upcoming). The DFSA approved an Islamic Window in Jul 2026 and the company says 58% of funded customers have used its Shariah screener. No managed portfolios, advice or funds shelf were found, and user or asset totals are not disclosed.",
+    "segments": [
+      {
+        "name": "baraka Premium (subscription)",
+        "tier": "Mass market",
+        "eligibility": "Paid subscription for research and data (about USD 10/month in 2022); current price not shown on pages opened",
+        "source_ids": [
+          "S17",
+          "S3"
+        ]
+      },
+      {
+        "name": "baraka Access (professional investors)",
+        "tier": "Affluent / professional",
+        "eligibility": "Professional or qualified investors only, determined by an eligibility survey and verification; deals typically from USD 25k",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "No",
+      "detail": "Not a bank; no relationship-managed or private-wealth tier found on getbaraka.com.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No own funds or managed portfolios found. Private-market deals are offered through a deal-specific SPV that baraka creates (S4); the manager of these SPVs is not named.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Self-directed brokerage. US stocks and ETFs (fractional, extended hours, fees 'starting at USD 1 per trade' per App Store) with money and securities held by a regulated third-party provider, DriveWealth LLC (terms). UAE stocks on DFM and ADX since 10 Sep 2026, via Arqaam Capital's Direct Market Access; whole shares held in customers' names, custody at Emirates NBD; investor numbers issued in onboarding. US options live. Fractional bonds listed on the App Store.",
+      "source_ids": [
+        "S3",
+        "S8",
+        "S9",
+        "S6"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "baraka app (iOS/Android, English and Arabic) launched 3 Aug 2021; features include baraka AI, Income Center, Auto-Invest, dividend reinvestment, investor calendar, stock analysis and reports, Shariah screener. Pay-ins via Lean Technologies payment initiation.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S16",
+        "S9"
+      ]
+    },
+    "advisory": {
+      "present": "Not found after research",
+      "detail": "Website and terms state content is general information, not investment advice. No advisory service found.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary mandates found.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "Auto-Invest is a recurring-purchase feature; no model or robo portfolios found. In 2022 the company said it was exploring 'asset management products' (S17).",
+      "source_ids": [
+        "S1",
+        "S17"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "ETFs only; no mutual fund shelf found.",
+      "source_ids": [
+        "S1",
+        "S9"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found on website, App Store listing or terms.",
+      "source_ids": [
+        "S1",
+        "S9"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "baraka Access: pre-IPO and late-stage private companies via a deal-specific SPV; SpaceX and Apptronik deals shown as closed, OpenAI and Stripe as upcoming; typically from USD 25k; professional investors only. Launch date and fees not stated.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "DFSA approved the Islamic Window in Jul 2026; overseen by a Shariah Supervisory Board (members not named). Shariah screener covers US and UAE stocks and ETFs (not bonds or options), using a third-party data provider; about 58% of funded customers have used it. 2023 coverage also mentions a dividend purifier. More Shariah-compliant products planned.",
+      "source_ids": [
+        "S8",
+        "S1",
+        "S18"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "US/international equities",
+      "ETFs",
+      "Options (US-listed)",
+      "Bonds",
+      "Gold / precious metals",
+      "Private markets / alternatives"
+    ],
+    "partners": [
+      {
+        "partner": "DriveWealth LLC",
+        "kind": "Execution / custody (US securities)",
+        "what": "Regulated third-party provider holding client money and securities; revenue-sharing clauses in terms",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Arqaam Capital",
+        "kind": "Execution (local market access)",
+        "what": "Direct Market Access to DFM and ADX",
+        "date": "2026-09-10",
+        "status": "Live",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "partner": "Emirates NBD",
+        "kind": "Custody",
+        "what": "Custodian for UAE securities bought through baraka",
+        "date": "2026-09-10",
+        "status": "Live",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "partner": "SafeGold Precious Metal FZCO (with Brink's vaults, DMCC; Metals Trust Foundation as trustee)",
+        "kind": "Product partner (precious metals custody and pricing)",
+        "what": "Physical gold and silver from AED 15, stored in Brink's DMCC vaults",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "partner": "LSEG (formerly Refinitiv)",
+        "kind": "Data / research",
+        "what": "Research and data for the premium subscription (Refinitiv named since 2021)",
+        "date": "2021-08-03",
+        "status": "Live",
+        "source_ids": [
+          "S3",
+          "S16"
+        ]
+      },
+      {
+        "partner": "Lean Technologies Limited",
+        "kind": "Payments (open banking)",
+        "what": "ADGM-regulated payment initiation service for funding accounts",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-06",
+        "what": "DFSA authorisation of Baraka Financial Limited (licensed directors effective 2 Jun 2021)",
+        "source_ids": [
+          "S16",
+          "S10"
+        ]
+      },
+      {
+        "date": "2021-08-03",
+        "what": "App launch with USD 4m seed round; commission-free US stocks and ETFs for UAE, Saudi, Bahrain, Oman and Kuwait residents; Y Combinator S21",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "date": "2022-11-15",
+        "what": "USD 20m Series A led by Valar Ventures; plans for GCC and Egypt expansion and local-exchange access (Tadawul, DFM, ADX)",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2026-07",
+        "what": "DFSA approved Islamic Window application",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "what": "Launched DFM and ADX stocks in-app (Arqaam Capital DMA; Emirates NBD custody)",
+        "source_ids": [
+          "S8"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Shelf is self-directed only: no managed or model portfolios, funds or structured products found, while the company said in 2022 it was exploring 'asset management products' (S1, S17).",
+        "Islamic Window approved Jul 2026 and 58% of funded customers have used the Shariah screener; company says more Shariah-compliant products are planned (S8).",
+        "Private-markets offer (baraka Access) limited to single-name pre-IPO SPVs for professional investors from about USD 25k (S4)."
+      ],
+      "barriers": [
+        "Direct-to-consumer app that competes for GCC retail investors rather than distributing through banks (S8).",
+        "In-house platform with execution and custody already in place: DriveWealth (US), Arqaam Capital and Emirates NBD (UAE), SafeGold/Brink's (metals) (S3, S5, S8).",
+        "Scale not disclosed: no user, asset or revenue figures published since 'tens of thousands' of active users in 2022 (S17)."
+      ],
+      "incumbent_vendors": [
+        "DriveWealth — US brokerage and custody (S3)",
+        "Arqaam Capital — DFM/ADX market access (S8)",
+        "Emirates NBD — UAE securities custody (S8)",
+        "SafeGold / Brink's — precious metals (S5)",
+        "LSEG (Refinitiv) — research data (S3)",
+        "Lean Technologies — payment initiation (S3)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "baraka homepage (incl. regulatory footer)",
+      "publisher": "baraka",
+      "url": "https://getbaraka.com/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "About baraka",
+      "publisher": "baraka",
+      "url": "https://getbaraka.com/about",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "baraka Terms and Conditions",
+      "publisher": "Baraka Financial Limited",
+      "url": "https://getbaraka.com/terms",
+      "doc_type": "Official legal terms",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "baraka Access — private markets",
+      "publisher": "baraka",
+      "url": "https://getbaraka.com/access",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "baraka Metals overview",
+      "publisher": "baraka",
+      "url": "https://getbaraka.com/metals-overview",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Options Trading on baraka — Now Live",
+      "publisher": "baraka",
+      "url": "https://getbaraka.com/options-overview",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "baraka Careers",
+      "publisher": "baraka",
+      "url": "https://getbaraka.com/careers",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "baraka launches investments on DFM and ADX for UAE investors",
+      "publisher": "Zawya (baraka press release)",
+      "url": "https://www.zawya.com/en/press-release/baraka-launches-investments-on-dfm-and-adx-for-uae-investors-521766",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-09-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "baraka: Buy US Stocks & More (App Store listing, seller Baraka Technology Holding Ltd)",
+      "publisher": "Apple App Store",
+      "url": "https://apps.apple.com/app/id1532264769",
+      "doc_type": "Official app listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "DFSA Public Register — Mr Feras Jalbout (I011373): Licensed Director and SEO, Baraka Financial Limited (F006586), effective 02-Jun-2021",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/mr-feras-jalbout",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "DFSA Public Register — Mr Joel Ayala (I014291): Licensed Director, Baraka Financial Limited, effective 02-Jun-2021",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/mr-joel-ayala",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "DFSA Public Register — Mr John F Vitalo (I003499): Licensed Director, Baraka Financial Limited, effective 02-Jun-2021",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/mr-john-f-vitalo",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "DFSA Public Register — Mr Benjamin Leibeck: Senior Manager, Compliance Officer, MLRO, Baraka Financial Limited, effective 13-Jan-2026",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/mr-benjamin-leibeck",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "DFSA Public Register — Mr Charalampos Chatzitheodosiou: Finance Officer, Senior Manager, Baraka Financial Limited, effective 06-Mar-2024",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://dfsa.ae/public-register/individuals/mr-charalampos-chatzitheodosiou",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "DFSA Public Register — Ms Muna Salah: Baraka Financial Limited, withdrawn 13-Jan-2026",
+      "publisher": "Dubai Financial Services Authority",
+      "url": "https://www.dfsa.ae/public-register/individuals/ms-muna-salah",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "baraka launches app, closes $4 million seed round",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2021/08/baraka-launches-app-4-million-seed-round",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-08-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Valar Ventures backs online brokerage platform baraka in its $20M round",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2022/11/15/valar-ventures-backs-online-brokerage-platform-baraka-in-its-20m-round",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2022-11-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Fostering Financial Empowerment: Baraka Founder And CEO Feras Jalbout",
+      "publisher": "Entrepreneur Middle East",
+      "url": "https://mena.entrepreneur.com/?p=4590",
+      "doc_type": "News / profile",
+      "tier": 5,
+      "published": "2023-12-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "baraka — Forbes Middle East company profile (content refers to MENA Top 50 Most Funded Startups 2022, rank 41)",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/the-middle-easts-fintech-50-2026/baraka/",
+      "doc_type": "News / ranking list",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "DFSA Approves baraka's Investment App, as It Becomes the 4th UAE Startup Backed by Y Combinator",
+      "publisher": "The Fintech Times",
+      "url": "https://thefintechtimes.com/dfsa-approves-barakas-investment-app-as-it-becomes-the-4th-uae-startup-backed-by-y-combinator",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-08-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "baraka Press (media coverage list)",
+      "publisher": "baraka",
+      "url": "https://getbaraka.com/press",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "DFSA authorisation date",
+      "detail": "June 2021 (Wamda, Fintech Times; DFSA register effective date 2 Jun 2021) vs July 2021 (Entrepreneur ME, Dec 2023).",
+      "resolution": "Used June 2021, which matches the register effective date.",
+      "source_ids": [
+        "S16",
+        "S20",
+        "S10",
+        "S18"
+      ]
+    },
+    {
+      "field": "Number of tradable assets",
+      "detail": "'Nearly 10,000' (Sep 2026 release), '10,000+' (website) vs '20k+ assets' (App Store version note).",
+      "resolution": "Recorded about 10,000 as Conflicting sources.",
+      "source_ids": [
+        "S8",
+        "S1",
+        "S9"
+      ]
+    },
+    {
+      "field": "Seed round size",
+      "detail": "USD 4m (Wamda, Aug 2021) vs USD 5m (Entrepreneur ME, Dec 2023).",
+      "resolution": "Used USD 4m from the contemporaneous report; total ~USD 25m per TechCrunch.",
+      "source_ids": [
+        "S16",
+        "S18"
+      ]
+    },
+    {
+      "field": "GCC availability",
+      "detail": "Sep 2026 release says residents and citizens across the GCC can access the app; App Store listing says some features are for UAE investors with 'GCC coming soon'.",
+      "resolution": "Recorded app as GCC-wide with UAE-only features; product-by-country availability not established.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead 'DFSA and/or CBB/others': only the DFSA was evidenced. No CBB sandbox, Saudi CMA, SCA or FSRA licence found in English/Arabic searches; the ADGM entity is a holding company (terms). Treat CBB as unverified.",
+    "DFSA public register pages return HTTP 403; firm ref F006586, permitted activities and individual roles are from search snippets. Confirm directly.",
+    "No user, funded-customer or client-asset numbers published since 2022 ('tens of thousands' active users). Company press office or investor material needed.",
+    "No leadership page. Kunal Taneja's co-founder/CTO role (Forbes ME, 2022) is unconfirmed; COO, CTO, product and investment heads not identified.",
+    "Shariah Supervisory Board members not published on pages opened.",
+    "Feras Jalbout's LinkedIn profile not found in searches; education (Carleton University) appears only on Crunchbase (aggregator, not cited).",
+    "Fractional bonds appear only in the App Store listing; the bonds overview page returned 404. Bond issuers/types and custody not established.",
+    "No 2025–2026 funding round found; confirm whether any undisclosed round or secondary sale has occurred."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B09",
+  "checked": "2026-10-12"
+}

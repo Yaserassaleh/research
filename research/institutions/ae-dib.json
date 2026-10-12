@@ -1,0 +1,1435 @@
+{
+  "id": "ae-dib",
+  "name": "Dubai Islamic Bank",
+  "short_name": "DIB",
+  "legal_name": "Dubai Islamic Bank P.J.S.C.",
+  "name_ar": "بنك دبي الإسلامي",
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.dib.ae",
+  "linkedin_company": "https://www.linkedin.com/company/dubai-islamic-bank/",
+  "category": "Bank",
+  "type": "Islamic commercial bank",
+  "model": "Islamic",
+  "founded": "1975 (incorporated by Amiri Decree of the Ruler of Dubai on 12 March 1975; later registered as a public joint stock company). Absorbed Noor Bank (100% owned; operations integrated from November 2020).",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "DFM",
+  "ticker": "DIB",
+  "parent_id": null,
+  "ownership_summary": "Listed on DFM. The only shareholder above 5% is Investment Corporation of Dubai (ICD), with 2,024,955,636 shares or 27.97% at 31 Dec 2025 (shareholder table; the related-party note rounds it to 27.9%). ICD is majority-owned by the Government of Dubai.",
+  "shareholders": [
+    {
+      "holder": "Investment Corporation of Dubai (majority-owned by the Government of Dubai)",
+      "pct": 27.97,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "government_link": "Yes. Investment Corporation of Dubai (majority-owned by the Government of Dubai) holds 27.97% (31 Dec 2025). The former chairman (to 20 Sep 2026) was Director-General of the Dubai Ruler's Court and Managing Director of ICD.",
+  "group_structure": "Parent bank in the UAE (CBUAE-licensed; SCA introducer licence for brokerage referrals). Material subsidiaries at 30 Jun 2026: Dubai Islamic Bank Pakistan (100%), Noor Bank (100%, integrated), Tamweel PSC (92%, financing), DIB Bank Kenya (100%), Deyaar Development PJSC (44.9%, consolidated real-estate developer), Dar Al Sharia Islamic Finance Consultancy (100%, Shariah advisory), plus property, services and SPV entities. Dubai Islamic Financial Services LLC, the brokerage subsidiary (100% at 31 Dec 2025), was liquidated during H1 2026. Equity-accounted associates and JVs at 31 Dec 2025 include Bank of Khartoum (29.5%), PT Bank Panin Dubai Syariah Tbk (25.1%), Bosnia Bank International (27.3%), Liquidity Management Center Bahrain (25%) and the T.O.M. group in Türkiye (25%; digital bank 'HADI' app). No separate group files exist in this database, so all figures here are group consolidated.",
+  "subsidiaries": [
+    {
+      "name": "Dubai Islamic Bank Pakistan Limited",
+      "pct": 100.0,
+      "activity": "Islamic bank (Pakistan; about 235 branches, expanding towards 310 per AR 2025)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Noor Bank P.J.S.C.",
+      "pct": 100.0,
+      "activity": "Bank; operations integrated into DIB from November 2020",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Tamweel P.S.C.",
+      "pct": 92.0,
+      "activity": "Financing",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "DIB Bank Kenya Limited",
+      "pct": 100.0,
+      "activity": "Islamic bank (Kenya)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Dubai Islamic Financial Services L.L.C.",
+      "pct": null,
+      "activity": "Brokerage services. 100% at 31 Dec 2025; liquidated during H1 2026 (H1 2026 FS note 28(c))",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Deyaar Development P.J.S.C.",
+      "pct": 44.9,
+      "activity": "Real estate development (DFM-listed; consolidated)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "name": "Dar Al Sharia Islamic Finance Consultancy L.L.C.",
+      "pct": 100.0,
+      "activity": "Islamic finance (Shariah) advisory",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "PT Bank Panin Dubai Syariah Tbk (associate)",
+      "pct": 25.1,
+      "activity": "Islamic bank, Indonesia (equity-accounted)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "Bosnia Bank International (associate)",
+      "pct": 27.3,
+      "activity": "Islamic bank, Bosnia and Herzegovina (equity-accounted)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "Bank of Khartoum (associate)",
+      "pct": 29.5,
+      "activity": "Bank, Sudan (equity-accounted)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "name": "T.O.M. Katilim Bankasi, T.O.M. Pay, T.O.M. Finansman (associates)",
+      "pct": 25.0,
+      "activity": "Digital participation bank and payments/finance companies, Türkiye (equity-accounted; up from 20% in 2024)",
+      "linked_id": null,
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "footprint": "UAE: 56 branches and 530+ ATMs/CDMs (AR 2025). Banking subsidiaries in Pakistan and Kenya; associates in Indonesia, Bosnia, Sudan, Türkiye and Bahrain. The bank says it operates in seven countries across three continents and reaches more than 5 million customers (AR 2025).",
+  "customer_segments": "Retail (Consumer Banking incl. Emirati Banking and Johara Ladies Banking), affluent tiers Mumayyaz Privilege Banking and Aayan Exclusive Banking, Wajaha Private Banking, business banking/SME and emerging corporates (Commercial Banking), corporate and institutional, sovereign and GRE clients (Investment Banking, Treasury).",
+  "business_lines": "Consumer Banking (retail deposits, personal, home and auto finance, cards, 'priority banking and wealth management' per segment note); Corporate Banking; Commercial Banking (SME and emerging corporates, created 2022 onward); Investment Banking (debt capital markets, where DIB says it ranked 3rd globally among sukuk bookrunners in 2024 and 2025, an equity capital markets franchise using corporate and private banking channels for IPO distribution, and structured and cross-border finance); Treasury (sukuk book, FX, client sukuk and structured-product sales); international subsidiaries and real estate. Wealth products (third-party Shariah funds and ETFs, sukuk, structured products, managed portfolios) are sold through relationship managers in the Mumayyaz, Aayan and Wajaha tiers. Brokerage is referred to Al Ramz Capital.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 423170,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets (balance sheet table, H1 2026 investor relations MD&A)",
+      "status": "Verified",
+      "locator": "p.8",
+      "note": "The statement of financial position page in the reviewed FS PDF (S3) is image-only and could not be read; MD&A table used. 31 Dec 2025: AED 415,948 million.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 415948243,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, audited consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "PDF p.140 (printed p.138)",
+      "note": "Up 20.7% from AED 344,686,818 thousand at 31 Dec 2024.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 326978344,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits: current, saving, investment deposits (Mudaraba and Wakala term deposits), margin accounts, depositors' investment risk reserve and profit payable; excludes due to banks and financial institutions (AED 9,913,831 thousand)",
+      "status": "Verified",
+      "locator": "Note 11, PDF p.19",
+      "note": "CASA (current plus saving) AED 111,257,056 thousand. 31 Dec 2025: AED 320,184,425 thousand.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 280995387,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total Islamic financing and investing assets, net: amortised-cost financing (murabaha, ijarah, personal finance, cards etc.) and investing assets (musharaka, mudaraba, wakala) net of impairment provisions (AED 5,951,014 thousand), plus AED 289,706 thousand at FVTPL; excludes investment in sukuk",
+      "status": "Verified",
+      "locator": "Note 6.1, PDF p.15",
+      "note": "MD&A also shows 'Net Financing and Sukuk Investments' of AED 366,161 million. 31 Dec 2025: AED 262,055,139 thousand.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 286946401,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total Islamic financing and investing assets before impairment provisions (UAE AED 237,966,923 thousand; outside UAE AED 48,979,478 thousand), incl. FVTPL",
+      "status": "Verified",
+      "locator": "Note 6, PDF p.17",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 53135484,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. Tier 1 sukuk (AED 7,346,000 thousand) and non-controlling interests (AED 3,227,512 thousand)",
+      "status": "Verified",
+      "locator": "PDF p.140",
+      "note": "At 30 Jun 2026 the MD&A shows shareholder equity and reserves AED 43,286m, Tier 1 sukuk AED 7,346m and NCI AED 3,258m (S4, p.8); no single total is printed.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 13250869,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income' in the consolidated statement of profit or loss: total income (AED 23,826,774 thousand) less depositors' and sukuk-holders' share of profit (AED 10,575,905 thousand). DIB calls this 'operating revenue' (AED 13.3bn) in its results release",
+      "status": "Verified",
+      "locator": "PDF p.141 (printed p.139)",
+      "note": "Fees, commissions and FX income FY2025: AED 1,873,858 thousand.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 7500278,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit attributable to owners of the Bank (after income tax)",
+      "status": "Verified",
+      "locator": "PDF p.141 (printed p.139)",
+      "note": "Total net profit AED 7,807,542 thousand (FY2024: 8,165,038). Pre-tax profit AED 9,002,654 thousand, flat on the audited basis; the release's '+20%' compares with a normalised FY2024 figure.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 3571985,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit for the six months attributable to owners of the Bank (after income tax)",
+      "status": "Verified",
+      "locator": "PDF p.6 (printed p.4)",
+      "note": "Total net profit H1 2026 AED 3,736,308 thousand (H1 2025: 3,730,489). Net income (operating revenue) H1 2026 AED 6,794,537 thousand.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 1.6,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025 ('crossed 1.6 million')",
+      "period_type": "point_in_time",
+      "scope": "UAE customer base (all segments)",
+      "definition": "Total UAE customers as stated by the bank; active vs registered not specified; about 90,000 added in 2025",
+      "status": "Verified",
+      "locator": "",
+      "note": "Rounded company statement. AR 2025 says the group reaches 'more than 5 million' retail, corporate and institutional clients across seven countries (S5, PDF p.2 and p.21).",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "metric": "mobile_app_registered_users",
+      "value": 1.1,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "DIB alt mobile banking app (UAE)",
+      "definition": "Mobile banking registered user base",
+      "status": "Verified",
+      "locator": "AR PDF p.48",
+      "note": "Rounded. 51% of customer transactions through the app in 2025; 55% in H1 2026 (S4).",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 12000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025 ('over 12,000')",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Workforce (company statement, 'over 12,000 professionals')",
+      "status": "Verified",
+      "locator": "AR PDF p.21",
+      "note": "Rounded lower bound.",
+      "source_ids": [
+        "S5",
+        "S1"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 56,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025",
+      "period_type": "point_in_time",
+      "scope": "UAE (Consumer Banking network)",
+      "definition": "Branches in the UAE",
+      "status": "Verified",
+      "locator": "PDF p.33 (printed p.31)",
+      "note": "Plus 530+ ATMs and CDMs.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "fiduciary_assets",
+      "value": 11.7,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Assets held in a fiduciary capacity for customers, excluded from the balance sheet (note 50). NOT assets under management",
+      "status": "Verified",
+      "locator": "Note 50, PDF p.204",
+      "note": "31 Dec 2024: AED 11.1bn. Recorded for context only; do not use as AUM.",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 incl. FS notes and fiduciary note 50 (S5); H1 2026 reviewed FS (S3) and MD&A (S4); FY2025 results release (S6); Wajaha/Aayan/Mumayyaz and investment-product pages (S10–S13); checked 2026-10-12."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Same as above. Segment reporting has no separate wealth or private-banking segment: wealth sits inside Consumer Banking (S3 note 22)."
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "Only fiduciary assets (AED 11.7bn, note 50) are disclosed (S5); no custody or AUA figure in S3–S6."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "No count of fund, sukuk or brokerage clients in S4–S6. AR 2025 says Wajaha clients made up more than 60% of client sukuk sales volumes (S5, PDF p.42)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Fadhel Abdulbaqi Al Ali",
+      "name_ar": "فاضل عبد الباقي العلي",
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2026-09-30",
+      "appointed_note": "Effective 30 Sep 2026, replacing H.E. Mohammed Ibrahim Al-Shaibani, who stepped down on 20 Sep 2026. Arabic press search snippets (not confirmed on opened pages) say the appointment is subject to ratification at the next general assembly.",
+      "previous_roles": "Chief Executive Officer, Dubai Holding; Deputy CEO and Group Chief Operating Officer, First Abu Dhabi Bank. Currently Chairman of the Dubai Financial Services Authority and of Majid Al Futtaim Capital, board member of Commercial International Bank (Egypt), member of Dubai's Higher Committee for the Development of the Economic and Financial Sector and of the Financial Stability Council (per DIB release).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as 'Chairman, DIB' on the official board page (S2, checked 2026-10-12); DIB release via Zawya (S7); Gulf News 2 Oct 2026 (S8); Emarat Al Youm 1 Oct 2026 (S9).",
+      "source_ids": [
+        "S2",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Ibrahim Al-Shaibani",
+      "name_ar": "محمد إبراهيم الشيباني",
+      "title": "Former Chairman (stepped down 20 Sep 2026)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Stepped down as Chairman and board member on 20 Sep 2026 'for personal reasons'.",
+      "previous_roles": "Director-General of His Highness The Ruler's Court of Dubai; Managing Director, Investment Corporation of Dubai (AR 2025).",
+      "education": "Bachelor's degree in Computer Science (US, 1988) (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "Signed the H1 2026 MD&A as Chairman (14 Jul 2026, S4); departure reported in DIB release (S7) and Gulf News (S8); no longer on the board page (S2).",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S7",
+        "S8",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yahya Saeed Ahmad Nasser Lootah",
+      "name_ar": null,
+      "title": "Vice Chairman (non-executive, non-independent)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2011-10",
+      "appointed_note": "Board appointment October 2011 (AR 2025).",
+      "previous_roles": "Over three decades with S.S. Lootah Group; Chairman, Saeed Ahmed Lootah & Sons Group; Vice Chairman, Dubai Chambers (AR 2025).",
+      "education": "Degree in Civil Architectural Engineering and MSc in Engineering, University of Bridgeport (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page lists 'Eng. Yahya Saeed Lootah: Vice Chairman' (S2, checked 2026-10-12); signed FY2025 FS as Vice Chairman (S5).",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Javier Marin Romano",
+      "name_ar": null,
+      "title": "Board Member (non-executive, independent)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2016-04",
+      "appointed_note": "Board appointment April 2016 (AR 2025).",
+      "previous_roles": "CEO of Singular Bank (Spain); formerly CEO of Banco Santander and, before that, Santander senior executive vice-president and head of private banking, asset management and insurance (AR 2025).",
+      "education": "Law degree and business administration diploma, Universidad Pontificia de Comillas; Master's in European Law (Luxembourg) (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed on official board page (S2, checked 2026-10-12) and AR 2025 board profiles (S5).",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Adnan Chilwan",
+      "name_ar": "عدنان شلوان",
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined DIB June 2008 (AR 2025). The date he became Group CEO was not confirmed in opened sources. Also Chairman of DIB Kenya.",
+      "previous_roles": "AR 2025 gives no pre-DIB roles; official bio cites nearly three decades in conventional and Islamic banking.",
+      "education": "PhD; MBA in Marketing (AR 2025)",
+      "qualifications": "Certified Islamic Banker (CeIB) (AR 2025)",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "First on the official executive management page (S1, checked 2026-10-12); quoted as Group CEO in H1 2026 MD&A (S4, 14 Jul 2026). No departure news found.",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Obaid Khalifa Mohamed Rashed Alshamsi",
+      "name_ar": null,
+      "title": "Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Operations",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined DIB January 1998 (AR 2025).",
+      "previous_roles": "Oversees Operations, Technology, Legal, Organisational Effectiveness, Operational Control, Policy Management and Administration (AR 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page (S1, checked 2026-10-12); AR 2025 profile (S5).",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sanjay Malhotra",
+      "name_ar": null,
+      "title": "Chief Consumer Banking Officer",
+      "functions": [
+        "Retail",
+        "Wealth",
+        "Affluent"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Consumer Banking",
+      "scope": "UAE",
+      "appointed": null,
+      "appointed_note": "Joined DIB February 2015; earlier at DIB served as Chief Digital Officer (AR 2025). Remit includes 'retail banking and wealth management'.",
+      "previous_roles": "General Manager – Retail and Wealth Management, National Bank of Oman; Head of Retail Banking (International), National Bank of Kuwait; senior roles at Citibank, ANZ Grindlays and Arab Bank (AR 2025).",
+      "education": "Engineering graduate and MBA, BITS Pilani (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/sanjay-malhotra5/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page (S1, checked 2026-10-12); AR 2025 profile (S5). LinkedIn search result 'Sanjay Malhotra - Dubai Islamic Bank', UAE (S22).",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Musabbah Mohammad Ali Al Qaizi AlFalasi",
+      "name_ar": null,
+      "title": "Chief Digital Officer",
+      "functions": [
+        "Digital",
+        "Innovation / partnerships"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Digital",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined DIB September 1999 (AR 2025).",
+      "previous_roles": "Earlier at DIB responsible for technology, information security and digital operations; over 35 years in IT and digital operations (AR 2025). Signed the Crypto.com MoU (Dec 2024) and quoted on the Finshape partnership (Oct 2025).",
+      "education": "Bachelor's degree in Information Management Systems, University of Arkansas at Little Rock (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page lists 'Musabbah Al Qaizi, Chief Digital Officer' (S1, checked 2026-10-12); AR 2025 (S5); Finshape release Oct 2025 (S20).",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S20",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Noman Rasheed",
+      "name_ar": null,
+      "title": "Chief Information Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Technology",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined DIB March 2020 (AR 2025).",
+      "previous_roles": "Chief Information and Operations Officer, Noor Bank; senior technology and operations role at Barclays; customer-facing platforms at Mashreq (AR 2025). Quoted on IBM Consulting data engagement (June 2023).",
+      "education": "Master's in IT, Preston University; Master's in Management, University of Liverpool (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "In AR 2025 senior management profiles (S5, published Mar 2026) but not on the 15-name executive management page (S1). No departure news found (search budget limited).",
+      "source_ids": [
+        "S5",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Varun Sood",
+      "name_ar": null,
+      "title": "Chief Transformation Officer",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Transformation",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined DIB June 2008 (AR 2025).",
+      "previous_roles": "ABN AMRO Bank, Mashreq Bank, Standard Chartered Bank, Ernst & Young (AR 2025).",
+      "education": "Honours degree in Economics, University of Delhi (AR 2025)",
+      "qualifications": "Chartered Accountant; Certified Public Accountant (AR 2025)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page (S1, checked 2026-10-12); AR 2025 (S5).",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "John Stephen Grota Macedo",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance",
+        "Strategy"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2016-01",
+      "appointed_note": "Joined January 2016; remit includes investor relations, strategic planning and sustainability reporting (AR 2025).",
+      "previous_roles": "CFO, Saudi Hollandi Bank; CFO – Liberty Africa, Standard Bank Group; finance roles at STANLIB (AR 2025).",
+      "education": "Master's in Accounting and Taxation; MBA, Duke University Global Executive programme (AR 2025)",
+      "qualifications": "Chartered Accountant, CA(SA) (AR 2025)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page (S1, checked 2026-10-12); AR 2025 (S5).",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Ahmad",
+      "name_ar": null,
+      "title": "Chief of Investment Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Investment Banking",
+      "scope": "Group",
+      "appointed": "2024-07",
+      "appointed_note": "Joined July 2024; covers DCM, financing solutions, ECM, structured and cross-border finance (AR 2025).",
+      "previous_roles": "22 years at Standard Chartered Bank in investment banking and capital markets (AR 2025).",
+      "education": "BA in Economics and Political Science, Case Western Reserve University (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page (S1, checked 2026-10-12); AR 2025 (S5).",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saeed Ahmad Abdulwahed Wajdi",
+      "name_ar": null,
+      "title": "Chief of Treasury",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Treasury",
+      "scope": "Group",
+      "appointed": "2024-01",
+      "appointed_note": "Joined January 2024 (AR 2025). Treasury runs client sukuk, FX and structured-product sales across Wajaha, Aayan and business segments.",
+      "previous_roles": "Senior Global Markets roles at First Abu Dhabi Bank and National Bank of Abu Dhabi (AR 2025).",
+      "education": "Bachelor of Applied Science in Business Administration, Higher Colleges of Technology (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page (S1, checked 2026-10-12); AR 2025 (S5).",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Saeed Ahmed Abdullah Al Sharif",
+      "name_ar": null,
+      "title": "Chief of International Business & Real Estate Investments",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "International Business",
+      "scope": "Group (international subsidiaries and associates)",
+      "appointed": null,
+      "appointed_note": "Joined September 1999 (AR 2025).",
+      "previous_roles": "Head of Banking Supervision, Central Bank of the UAE (AR 2025).",
+      "education": "MA, The Catholic University of America (AR 2025)",
+      "qualifications": "CPA; member of AICPA (AR 2025)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive management page (S1, checked 2026-10-12); AR 2025 (S5).",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tan Lih Miin",
+      "name_ar": null,
+      "title": "Chief of Center of Customer Excellence",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Center of Customer Excellence",
+      "scope": "Group",
+      "appointed": "2025-08",
+      "appointed_note": "Joined August 2025; responsible for customer segmentation, lifecycle management and end-to-end journeys (AR 2025).",
+      "previous_roles": "Over 20 years in customer strategy and digital transformation in Asia and the Middle East; core member of the founding management team of a digital-only bank in Singapore (bank not named) (AR 2025).",
+      "education": "BBA, National University of Singapore; postgraduate coursework in Management Science and Engineering, Stanford University (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "AR 2025 senior management profile (S5, published Mar 2026); not on the 15-name executive management page (S1).",
+      "source_ids": [
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mian Muhammad Nazir",
+      "name_ar": null,
+      "title": "Group Head of Internal Sharia Control",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Dubai Islamic Bank PJSC",
+      "business_unit": "Internal Sharia Control",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined October 2005 (AR 2025). Provides Shariah governance and advisory across DIB Group entities, i.e. product approval gate.",
+      "previous_roles": "CEO of Dar Al Sharia; Legal Advisor, Dallah Albaraka Group; Director Law and Regulatory Affairs, Pakistan Telecommunication Authority (AR 2025).",
+      "education": "LLM, University of Cambridge; BSc Biological Sciences; BA LLB (Hons.) Sharia and Law, International Islamic University, Pakistan (AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "AR 2025 profile (S5); not on the executive management page (S1).",
+      "source_ids": [
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "DIB runs wealth through Consumer Banking (under the Chief Consumer Banking Officer) in three published tiers: Mumayyaz Privilege Banking (AED 100k–350k relationship), Aayan Exclusive Banking (AED 750k) and Wajaha Private Banking (AED 3.5m), each with relationship managers and dedicated centres. The shelf is relationship-manager-led and fully Shariah-compliant: a 19-line list of third-party Shariah funds and ETFs (HSBC, iShares, Franklin Templeton, Aditum, Azimut, Old Mutual, Oasis Crescent, ASB/State Street, mostly 'Professional' category, dated 12 Oct 2026), sukuk via a dedicated trading desk, structured products, REITs, share finance and FX. Mumayyaz advertises managed portfolios in conservative, balanced and aggressive options, with fund-manager selection by Morningstar Investment Management Europe. Equity brokerage is referred to Al Ramz Capital under DIB's SCA introducer licence (alliance dated 17 Nov 2022), and the in-house brokerage subsidiary Dubai Islamic Financial Services was liquidated in H1 2026. The DIB alt app (1.1m registered users) lists only 'open investment deposit account' as an investment service. No AUM or wealth client assets are disclosed; fiduciary assets were AED 11.7bn at end 2025.",
+    "segments": [
+      {
+        "name": "Mumayyaz Privilege Banking",
+        "tier": "Affluent",
+        "eligibility": "Relationship of AED 100,000–350,000 or monthly salary credit of AED 15,000–35,000 (as published); Mumayyaz desks in 40+ branches, 90+ relationship officers",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "name": "Aayan Exclusive Banking",
+        "tier": "Priority",
+        "eligibility": "Account balance of AED 750,000 or more, or salary credit of AED 50,000 (UAE nationals) / AED 60,000 (expatriates); monthly fee if not met; Aayan centres across the UAE",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "name": "Wajaha Private Banking",
+        "tier": "Private",
+        "eligibility": "Relationship of AED 3,500,000 or salary credit of AED 150,000; otherwise AED 200 monthly membership fee; Wajaha centres in Abu Dhabi, Dubai, Sharjah and Al Ain",
+        "source_ids": [
+          "S10"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Wajaha Private Banking (AED 3.5m threshold): dedicated relationship manager, Wajaha centres in four cities, Wakala deposits, structured products, commodities, mutual funds, REITs and share finance. Wajaha clients made up more than 60% of client sukuk sales volumes in 2025 (AR). No head of private banking is named on official pages.",
+      "source_ids": [
+        "S10",
+        "S16",
+        "S5"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset-management subsidiary in the H1 2026 subsidiary list (FS note 28) and no DIB-branded funds on the fund list, which is entirely third-party. DIB FM Ltd (Cayman) is listed only as an investment SPV.",
+      "source_ids": [
+        "S3",
+        "S15"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Referral model: 'Trading Services' via Al Ramz Capital LLC under DIB's SCA introducer licence (alliance announced 17 Nov 2022). Covers ADX, DFM, Nasdaq Dubai and Saudi markets, plus Oman, Bahrain and Astana via the ADX Tabadul hub, on an unnamed Al Ramz online platform with an 'Islamic trading mode' and 10-minute online onboarding. The in-house broker Dubai Islamic Financial Services LLC was liquidated in H1 2026, though the Wajaha and Aayan pages still mention it.",
+      "source_ids": [
+        "S14",
+        "S3",
+        "S10",
+        "S11"
+      ]
+    },
+    "digital_investing": {
+      "present": "No",
+      "detail": "No in-app investing in securities or funds found. The DIB alt app (launched as an umbrella brand on 4 Jun 2023, 135+ services) lists only 'Open investment deposit account' among its services. Online equity trading needs a separate Al Ramz Capital account and platform (see brokerage).",
+      "source_ids": [
+        "S17",
+        "S23",
+        "S14"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Relationship managers and 'Investment Specialists' present the product suite to wealth customers. Wajaha RMs 'personally analyse your portfolio and offer the best advice'. Aayan offers professional advice at Aayan centres.",
+      "source_ids": [
+        "S13",
+        "S10",
+        "S11"
+      ]
+    },
+    "discretionary": {
+      "present": "Unclear",
+      "detail": "Mumayyaz advertises 'managed portfolios' with risk-based allocation and a flexible fee structure, but the page does not say whether they are discretionary mandates or advisory model portfolios.",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Mumayyaz managed portfolios in conservative, balanced and aggressive versions, diversified across Shariah-compliant equity and fixed income, with fund-manager selection by Morningstar Investment Management Europe. Aayan lists 'mutual fund-based portfolios'. These are relationship-manager-distributed; no robo or digital model-portfolio service found.",
+      "source_ids": [
+        "S12",
+        "S11"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Mutual Fund List 'as on 12-Oct-2026': 19 third-party Shariah lines, comprising 4 sukuk funds, 5 global equity funds, 7 Islamic UCITS ETFs and 3 multi-asset funds, from HSBC (6), iShares/BlackRock (3), Franklin Templeton (3), Aditum (2), Azimut (2), Old Mutual, Oasis Crescent and ASB/State Street. 15 of 19 are 'Professional' category. Separate fund charge schedules exist for Aayan and Wajaha customers. Platform provider not named.",
+      "source_ids": [
+        "S15",
+        "S13"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Structured products listed for Wajaha. Aayan lists Islamic portfolios covering structured products and currency- and commodity-linked structures. Treasury reports digitisation of client experience across sukuk, FX and structured products and new ESG-aligned Shariah investment products in 2025.",
+      "source_ids": [
+        "S10",
+        "S11",
+        "S5"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No private equity, private credit or alternatives offering found on wealth or investment-product pages, the fund list or AR 2025. REITs are listed for Wajaha.",
+      "source_ids": [
+        "S10",
+        "S13",
+        "S15"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Fully Shariah-compliant bank under its Internal Sharia Supervision Committee and the CBUAE Higher Sharia Authority. All funds, ETFs, sukuk and portfolios on the shelf are Shariah products. DIB's Group Head of Internal Sharia Audit is Vice Chairman of the Unified Sharia Screening Committee for DFM/ADX securities.",
+      "source_ids": [
+        "S3",
+        "S15",
+        "S5"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "Mutual funds",
+      "ETFs",
+      "Sukuk",
+      "Structured products",
+      "Real estate funds",
+      "Commodities"
+    ],
+    "partners": [
+      {
+        "partner": "Al Ramz Capital LLC",
+        "kind": "Brokerage (referral under DIB introducer licence)",
+        "what": "Online trading on UAE, Saudi and ADX Tabadul-linked markets for DIB customers",
+        "date": "2022-11-17",
+        "status": "Live",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "partner": "Morningstar Investment Management Europe",
+        "kind": "Investment management services / fund selection",
+        "what": "Supports fund-manager selection for Mumayyaz managed portfolios",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "partner": "HSBC Asset Management, BlackRock (iShares), Franklin Templeton, Aditum, Azimut, Old Mutual, Oasis Crescent, ASB/State Street",
+        "kind": "Fund houses (third-party funds and ETFs)",
+        "what": "19 Shariah funds/ETFs on the published fund list",
+        "date": "2026-10-12",
+        "status": "Live",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "partner": "Finshape",
+        "kind": "Digital banking platform (Digital Bank Operating System)",
+        "what": "Strategic partnership to use DBOS for personalised Shariah-compliant digital experiences, announced at GITEX 2025",
+        "date": "2025-10",
+        "status": "Announced",
+        "source_ids": [
+          "S20",
+          "S5"
+        ]
+      },
+      {
+        "partner": "HCLTech",
+        "kind": "AI services",
+        "what": "Partnership to scale responsible AI use across the bank (GITEX 2025)",
+        "date": "2025-10",
+        "status": "Announced",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "partner": "IBM Consulting",
+        "kind": "Technology services (data transformation)",
+        "what": "Selected June 2023 to build a data foundation and roadmap and a customer journey analytics engine (IBM Garage). AR 2025 names IBM among 'global technology leaders' DIB partners with",
+        "date": "2023-06-05",
+        "status": "Unclear",
+        "source_ids": [
+          "S19",
+          "S5"
+        ]
+      },
+      {
+        "partner": "Crypto.com",
+        "kind": "Digital assets (MoU)",
+        "what": "MoU to promote the Crypto.com app and card, enable fiat funding and explore tokenised sukuk and real estate on the Cronos chain, plus custody and crypto trading technology for retail clients",
+        "date": "2024-12-30",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S21"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2022-11-17",
+        "what": "Alliance with Al Ramz Capital for online trading services under DIB's SCA introducer licence",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2023-06-04",
+        "what": "Launched 'DIB alt' digital umbrella brand (135+ services across app, online, WhatsApp, ATMs)",
+        "source_ids": [
+          "S23"
+        ]
+      },
+      {
+        "date": "2024-12-30",
+        "what": "MoU with Crypto.com incl. exploring tokenised Islamic sukuk",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "date": "2025-10",
+        "what": "Partnerships with Finshape (DBOS) and HCLTech (AI) announced at GITEX GLOBAL 2025",
+        "source_ids": [
+          "S20",
+          "S5"
+        ]
+      },
+      {
+        "date": "2026-03",
+        "what": "AR 2025 states an aspiration to deepen digital and product platforms 'from wealth tech, digital banking, and embedded finance to impact investing and Islamic fintech'. 5-year strategy (2022–26) includes 'launch of a new digital proposition' and 'build ancillary business and newer revenue streams'",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2026-06-30",
+        "what": "Dubai Islamic Financial Services LLC (brokerage subsidiary) liquidated during H1 2026",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2026-07-14",
+        "what": "H1 2026: 83% of new CASA customers onboarded digitally; 55% of transactions via the DIB app; digital registrations +16% YoY",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-09-30",
+        "what": "Fadhel Abdulbaqi Al Ali (DFSA Chairman, ex-CEO Dubai Holding, ex-Deputy CEO FAB) appointed Chairman",
+        "source_ids": [
+          "S7",
+          "S8"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "No digital investing: the DIB alt app (1.1m registered users, 55% of transactions in H1 2026) offers only investment deposits, and equities need a separate Al Ramz account (S4, S14, S17).",
+        "Wealth shelf is RM-led and mostly 'Professional'-category: 15 of 19 listed funds/ETFs are professional-only, and no private-markets products were found (S15).",
+        "Brokerage subsidiary DIFS was liquidated in H1 2026, so execution and investment services now rely on partners (S3, S14).",
+        "AR 2025 names 'wealth tech' among platforms to deepen; the 2022–26 strategy cycle ends in 2026, and DIB just added Finshape and HCLTech as digital/AI partners (S5, S20).",
+        "Large affluent and private base by tier (Mumayyaz, Aayan, Wajaha) with published thresholds; Wajaha clients drove more than 60% of client sukuk sales in 2025 (S5, S10–S12)."
+      ],
+      "barriers": [
+        "Fully Islamic: every product needs Internal Sharia Supervision Committee approval and CBUAE Higher Sharia Authority alignment (S3, S5).",
+        "Existing partners cover parts of the wealth stack: Al Ramz Capital (brokerage), Morningstar Investment Management (portfolio fund selection), Finshape DBOS (digital channels) and an IBM/HCLTech data and AI relationship (S5, S12, S14, S19, S20).",
+        "Leadership change at board level: new Chairman from 30 Sep 2026 and board composition changed since AR 2025; strategy priorities for the next cycle not yet published (S2, S7).",
+        "Results emphasise financing, sukuk/DCM and deposits. No wealth AUM, fee or client metrics are disclosed, so wealth may be a low reported priority (S4, S6)."
+      ],
+      "incumbent_vendors": [
+        "Al Ramz Capital — brokerage and online trading platform for DIB customers (S14)",
+        "Morningstar Investment Management Europe — fund-manager selection for Mumayyaz managed portfolios (S12)",
+        "Finshape — Digital Bank Operating System (S20)",
+        "IBM Consulting — data transformation services, 2023 (S19); HCLTech — AI (S5)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Executive Management",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/about-us/leadership-team/executive-management",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/about-us/leadership-team/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Review report and condensed consolidated interim financial information for the six-month period ended 30 June 2026 (KPMG review)",
+      "publisher": "Dubai Islamic Bank PJSC via Dubai Financial Market",
+      "url": "https://feeds.dfm.ae/documents/2026/Jul/14/3d84c08e-4f2d-42f0-9707-656a294349b8/DIB%20FS%20E%2014%2007%202026.Pdf.pdf",
+      "doc_type": "Reviewed interim financial statements (exchange disclosure)",
+      "tier": 1,
+      "published": "2026-07-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Investor Relations H1 2026 results document (MD&A): DIB Posts Strong H1 2026 Results",
+      "publisher": "Dubai Islamic Bank PJSC via Dubai Financial Market",
+      "url": "https://feeds.dfm.ae/documents/2026/Jul/14/ed6e396c-549b-4bd8-9a5b-6933b763441a/DIB%20MDA%20H1%20E%2014%2007%202026.Pdf.pdf",
+      "doc_type": "Results MD&A (exchange disclosure)",
+      "tier": 1,
+      "published": "2026-07-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Dubai Islamic Bank Annual Report 2025 (incl. audited consolidated financial statements)",
+      "publisher": "Dubai Islamic Bank PJSC via Dubai Financial Market",
+      "url": "https://feeds.dfm.ae/documents/2026/Mar/21/e21f6d11-3115-4a78-abcb-24316462a340/50257_DIB%20Annual%20Report%202025_ENG_Final%20Interactive_medium%20res_v2.pdf",
+      "doc_type": "Annual report with audited financial statements",
+      "tier": 1,
+      "published": "2026-03-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "DIB delivers strong revenue of AED 13 billion, pre-tax profit of AED 9 billion; total assets grow 21% to AED 416 billion",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/about-us/news/2026/02/10/dib-delivers-strong-revenue-of-aed-13-billion-pre-tax-profit-of-aed-9-billion-total-assets-grow-21-to-aed-416-billion",
+      "doc_type": "Press release (FY2025 results)",
+      "tier": 2,
+      "published": "2026-02-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "DIB welcomes Mr. Fadhel Abdulbaqi Al Ali as new Chairman of the Board of Directors",
+      "publisher": "Dubai Islamic Bank (press release on Zawya)",
+      "url": "https://www.zawya.com/en/press-release/people-in-the-news/dib-welcomes-mr.-fadhel-abdulbaqi-al-ali-as-new-chairman-of-the-board-of-directors-1459218",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-09-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "UAE's largest Islamic bank DIB gets new chairman in Fadhel Al Ali",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/uaes-largest-islamic-bank-dib-gets-new-chairman-in-fadhel-al-ali-1.500695913",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-10-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "دبي الإسلامي يرحب بتعيين فاضل العلي رئيساً لمجلس الإدارة (اعتباراً من 30 سبتمبر 2026)",
+      "publisher": "Emarat Al Youm",
+      "url": "https://www.emaratalyoum.com/business/local/2026-10-01-1.2088129",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-10-01",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S10",
+      "title": "Wajaha Private Banking",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/personal/manage-your-wealth/wajaha-private-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Aayan Exclusive Banking",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/personal/manage-your-wealth/aayan-exclusive-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Mumayyaz Privilege Banking",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/personal/mumayyaz-privilege-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Investment Products",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/personal/investment-products",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Trading Services (Premium Trading Services with Al Ramz Capital)",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/premium-trading-services",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Mutual Fund List as on 12-Oct-2026",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/docs/default-source/cpr/dib-funds-list.pdf",
+      "doc_type": "Official product document",
+      "tier": 2,
+      "published": "2026-10-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Manage your Wealth",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/personal/manage-your-wealth",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "DIB alt — Mobile Banking",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/alt/banking-on-the-go/mobile-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Dubai Islamic Bank homepage (footer social links)",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "IBM Consulting Selected by Dubai Islamic Bank to Accelerate Data Transformation Journey",
+      "publisher": "IBM Middle East & Africa Newsroom",
+      "url": "https://mea.newsroom.ibm.com/IBM-Consulting-Selected-by-Dubai-Islamic-Bank-to-Accelerate-Data-Transformation-Journey",
+      "doc_type": "Partner press release",
+      "tier": 2,
+      "published": "2023-06-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Finshape Announces Strategic Partnership with DIB to Redefine Digital Islamic Banking",
+      "publisher": "Finshape",
+      "url": "https://finshape.com/news/finshape-announces-strategic-partnership-with-dib-to-redefine-digital-islamic-banking",
+      "doc_type": "Partner press release",
+      "tier": 2,
+      "published": "2025-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Crypto.com inks partnership with Dubai Islamic Bank",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/about-us/news/2024/12/30/crypto-com-inks-partnership-with-dubai-islamic-bank",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-12-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Sanjay Malhotra - Dubai Islamic Bank (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sanjay-malhotra5/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Dubai Islamic Bank launches DIB alt, the ultimate digital banking experience for its customers",
+      "publisher": "Dubai Islamic Bank",
+      "url": "https://www.dib.ae/about-us/news/2023/06/04/dubai-islamic-bank-launches-dib-alt-the-ultimate-digital-banking-experience-for-its-customers",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2023-06-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Chairman",
+      "detail": "AR 2025 and the H1 2026 MD&A (14 Jul 2026) name H.E. Mohammed Ibrahim Al-Shaibani as Chairman. The official board page names Fadhel Al Ali.",
+      "resolution": "Resolved: Al-Shaibani stepped down 20 Sep 2026; Al Ali appointed effective 30 Sep 2026 (S7, S8, S9).",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S2",
+        "S7"
+      ]
+    },
+    {
+      "field": "Brokerage provider",
+      "detail": "Wajaha and Aayan pages still say brokerage is offered through Dubai Islamic Financial Services (DIFS). H1 2026 FS note 28 says DIFS was liquidated during the period, and the Trading Services page routes clients to Al Ramz Capital.",
+      "resolution": "Treated DIFS as closed (tier-1 FS) and Al Ramz as the live brokerage route; product pages look out of date.",
+      "source_ids": [
+        "S10",
+        "S11",
+        "S3",
+        "S14"
+      ]
+    },
+    {
+      "field": "FY2025 pre-tax profit growth",
+      "detail": "Release: pre-tax profit 'up 20% YoY' to AED 9.0bn. Audited P&L: AED 9,002,654k vs AED 9,004,924k in FY2024 (flat).",
+      "resolution": "The release compares with a normalised FY2024 (AED 7.5bn, excluding a one-off legacy recovery). Audited figures recorded.",
+      "source_ids": [
+        "S6",
+        "S5"
+      ]
+    },
+    {
+      "field": "Board composition",
+      "detail": "The official board page (9 members) lists H.E. Abdulaziz Mohammed Almulla and Mrs Hind Binkhirbash, who are not in AR 2025 board profiles, and omits Ahmad Mohammad Binhumaidan and Dr Ciğdem Koğar, who are.",
+      "resolution": "Unresolved. Probably changes at or after the 1 Apr 2026 AGM; not verified (WebSearch budget exhausted).",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "field": "Customer count",
+      "detail": "FY2025 release: UAE customer base crossed 1.6 million. AR 2025: services reach 'more than 5 million customers' across seven countries.",
+      "resolution": "Recorded 1.6m as UAE customers; 5m treated as a group-wide figure incl. international operations (scope not defined).",
+      "source_ids": [
+        "S6",
+        "S5"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead 'IBM as systems integrator': only partly verified. IBM Consulting was selected in June 2023 as services provider for data transformation (S19), and AR 2025 lists IBM among 'global technology leaders' DIB partners with (S5). No source calls IBM DIB's systems integrator or names it for wealth/core banking.",
+    "Lead 'Al Islami / Prime / Private' propositions: DIB's published wealth tiers are Mumayyaz, Aayan and Wajaha Private Banking. 'Al Islami' appears only as the online banking name and an SPV (Al Islami Trade Company). No 'Prime' proposition found.",
+    "Lead 'brokerage or investment app': no DIB investing app. Brokerage subsidiary DIFS was liquidated in H1 2026; trading is via Al Ramz Capital (S3, S14).",
+    "Lead subsidiaries: Tamweel (92%) and Dar Al Sharia (100%) confirmed as current subsidiaries at 30 Jun 2026 (S3). Panin Dubai Syariah confirmed as a 25.1% associate at 31 Dec 2025 (S5).",
+    "No named head of wealth management, Wajaha private banking or Aayan found on official pages. Sanjay Malhotra's remit covers wealth. Check LinkedIn/press for the segment heads.",
+    "LinkedIn not verified for the Group CEO (only a LinkedIn author page was found) or the CDO. WebSearch budget ran out mid-batch, so later checks relied on direct fetches of official pages.",
+    "Q3 2026 results not yet published at 12 Oct 2026. Re-check late Oct 2026.",
+    "Board changes since AR 2025 (new members Almulla, Binkhirbash) not verified against an AGM or DFM disclosure.",
+    "Statement of financial position page of the H1 2026 FS is image-only. Total assets at 30 Jun 2026 come from the MD&A table (AED million); deposits and financing come from FS notes.",
+    "Morningstar Investment Management Europe role (Mumayyaz page): start date and whether still active not confirmed elsewhere. Platform behind the fund shelf not named.",
+    "Crypto.com MoU (Dec 2024): no evidence of a launched product found."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B02",
+  "checked": "2026-10-12"
+}

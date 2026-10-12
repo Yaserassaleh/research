@@ -1,0 +1,1695 @@
+{
+  "id": "ae-fab",
+  "name": "First Abu Dhabi Bank",
+  "short_name": "FAB",
+  "legal_name": "First Abu Dhabi Bank P.J.S.C.",
+  "name_ar": "بنك أبوظبي الأول",
+  "country": "AE",
+  "hq_city": "Abu Dhabi",
+  "website": "https://www.bankfab.com",
+  "linkedin_company": "https://www.linkedin.com/company/first-abu-dhabi-bank",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "2017 (merger of National Bank of Abu Dhabi and First Gulf Bank; current board members appointed from 31 Mar 2017)",
+  "regulators": [
+    "CBUAE",
+    "SCA",
+    "FSRA",
+    "FINMA (FAB Private Bank (Suisse) SA)"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "FAB",
+  "parent_id": null,
+  "ownership_summary": "Listed on ADX. At 30 Jun 2026 FAB reported its shareholders as Mubadala Investment Company 37.9%, Abu Dhabi Ruling Family 17.7%, other UAE entities/individuals 20.0% and foreign investors 24.4% (foreign ownership limit 40%). The Chairman is H.H. Sheikh Tahnoon bin Zayed Al Nahyan, Deputy Ruler of Abu Dhabi.",
+  "shareholders": [
+    {
+      "holder": "Mubadala Investment Company",
+      "pct": 37.9,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    {
+      "holder": "Abu Dhabi Ruling Family",
+      "pct": 17.7,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    {
+      "holder": "Other UAE entities / individuals",
+      "pct": 20.0,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    {
+      "holder": "Foreign investors (foreign ownership limit 40%)",
+      "pct": 24.4,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    }
+  ],
+  "government_link": "Yes. Mubadala Investment Company (Abu Dhabi sovereign investor) holds 37.9% and the Abu Dhabi Ruling Family 17.7% (30 Jun 2026); Chairman is the Deputy Ruler of Abu Dhabi (board page checked 2026-10-12).",
+  "group_structure": "Group parent First Abu Dhabi Bank PJSC (Abu Dhabi PJSC). Four reporting segments since a 2025 reorganisation: Investment Banking & Markets (IB&M), Wholesale Banking (WB), Personal, Business, Wealth & Privileged Client Banking Group (PBW&PCBG) and Head Office. Wealth-relevant subsidiaries (100% unless stated, 30 Jun 2026): First Abu Dhabi Bank Securities (UAE brokerage), FAB Private Bank (Suisse) SA (Switzerland), First Abu Dhabi Islamic Finance PJSC, FAB Asset Management Limited (ADGM, FSRA-authorised 22 May 2026), FAB Capital Financial Company (KSA), First Abu Dhabi Bank Misr (Egypt). Associates include Neptune Project Holding 1 (34%, payment services), Nebras Open Finance (15%), AEDC Stable Coin entities (33%, new in 2026) and Global Climate Finance Centre (44%). Wio Bank (profiled separately as ae-wio) is not among FAB's consolidated subsidiaries or associates; FAB's Group Head of PBW&PCBG sits on Wio's board. No double counting: all metrics below are FAB group consolidated.",
+  "subsidiaries": [
+    {
+      "name": "First Abu Dhabi Bank Securities - Sole Proprietorship LLC (FAB Securities)",
+      "pct": 100,
+      "activity": "Brokerage and execution (ADX, DFM, Nasdaq Dubai), research, custody",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "name": "FAB Private Bank (Suisse) SA",
+      "pct": 100,
+      "activity": "Swiss private bank, Geneva; launched 2007; 'regulated by FINMA'; wholly owned",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S25",
+        "S37"
+      ]
+    },
+    {
+      "name": "FAB Asset Management Limited (ADGM)",
+      "pct": 100,
+      "activity": "Asset management; first consolidated in 2025 (not a subsidiary at 31 Dec 2024). FSRA permissions incl. Managing Assets, Managing a Collective Investment Fund, Islamic Financial Business; no retail clients (authorised 22 May 2026)",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S5",
+        "S20"
+      ]
+    },
+    {
+      "name": "First Abu Dhabi Islamic Finance PJSC",
+      "pct": 100,
+      "activity": "Islamic finance",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "FAB Capital Financial Company (Saudi closed joint stock company)",
+      "pct": 100,
+      "activity": "Financial institution, Kingdom of Saudi Arabia",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "First Abu Dhabi Bank Misr S.A.E. (FABMISR)",
+      "pct": 100,
+      "activity": "Banking, Egypt",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Abu Dhabi National Leasing LLC",
+      "pct": 100,
+      "activity": "Leasing",
+      "linked_id": null,
+      "source_ids": [
+        "S4",
+        "S11"
+      ]
+    },
+    {
+      "name": "Abu Dhabi Securities Brokerage Egypt",
+      "pct": 96,
+      "activity": "Brokerage, Egypt (under liquidation)",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "First Gulf Libyan Bank",
+      "pct": 50,
+      "activity": "Banking, Libya (consolidated as controlled)",
+      "linked_id": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "name": "Wio Bank PJSC — related digital bank, NOT a FAB subsidiary or associate (FAB board representation; shareholding not verified in this batch)",
+      "pct": null,
+      "activity": "Digital bank",
+      "linked_id": "ae-wio",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    }
+  ],
+  "footprint": "20+ markets across 5 continents and 140+ branches globally (30 Jun 2026, S8); the CEO biography says 22 markets (S2). International franchise contributed 22% of H1 2026 revenue; international assets AED 437bn, 31% of group assets (S6). FS list operations in the UAE, Bahrain, Brazil, Cayman Islands, China, Egypt, France, Hong Kong, India, Indonesia, Iraq, Jordan, KSA, Kuwait, Lebanon, Libya, Malaysia, Nigeria, Oman, Qatar, Singapore, South Korea, Switzerland, Turkey, UK and USA (S4).",
+  "customer_segments": "Retail and SME (Personal and Business Banking), affluent (FAB Elite, 10 Elite Centres), HNW/UHNW and family offices (Private Banking, incl. Switzerland, KSA, Singapore, UK, France), privileged clients, large and mid corporates (Wholesale Banking), institutional and public-sector clients (IB&M).",
+  "business_lines": "PBW&PCBG (H1 2026 operating income AED 6,583m) combines retail, Elite, private banking, privileged client and SME banking, offering 'retail banking, private banking and tailored investment and advisory solutions' (S4 note 30). Wealth products: investment advisory, discretionary portfolio management (conventional and Shariah mandates), trade execution in bonds/equities/FX and proprietary and third-party funds, Lombard and real-estate lending, wealth planning and trust services (S17); FAB Funds and global third-party funds, structured products, custody in 70+ markets and securities brokerage (S18). FAB Securities provides brokerage on ADX, DFM and Nasdaq Dubai via FABS Online and the FAB Securities app (S12). IB&M and Wholesale Banking cover institutional, public-sector and corporate clients.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 1408739,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated interim statement of financial position (reviewed by PwC)",
+      "status": "Verified",
+      "locator": "Statement of financial position, p.4 of 37 (PDF p.5)",
+      "note": "Press release rounds to AED 1.41tn (S6).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 852971,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer accounts and other deposits' (includes certificates of deposit AED 32,238m and Islamic customer deposits AED 32,038m; excludes due to banks and financial institutions AED 130,299m)",
+      "status": "Verified",
+      "locator": "Statement of financial position p.4; note 18",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 661181,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans, advances and Islamic financing', net of interest in suspense (AED 7,223m) and expected credit loss (AED 10,650m); includes Islamic financing",
+      "status": "Verified",
+      "locator": "Statement of financial position p.4; note 10",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 679054,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Gross loans, advances and Islamic financing'",
+      "status": "Verified",
+      "locator": "Note 10",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 144063,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. Tier 1 capital notes (AED 11,673m) and non-controlling interest (AED 170m); equity attributable to owners of the Bank AED 143,893m",
+      "status": "Verified",
+      "locator": "Statement of financial position p.4",
+      "note": "",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 36675,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income' (net interest and Islamic financing income plus non-interest income, before operating expenses and impairment), audited consolidated statement of profit or loss",
+      "status": "Verified",
+      "locator": "Consolidated statement of profit or loss, p.18",
+      "note": "",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 21110,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit attributable to shareholders of the Bank (total net profit for the year AED 21,189m incl. non-controlling interest)",
+      "status": "Verified",
+      "locator": "Consolidated statement of profit or loss, p.18",
+      "note": "",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 19503,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income', six months ended 30 Jun 2026",
+      "status": "Verified",
+      "locator": "Statement of profit or loss p.5",
+      "note": "Up 7% yoy (H1 2025: AED 18,309m).",
+      "source_ids": [
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 10726,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit attributable to shareholders of the Bank, six months ended 30 Jun 2026 (total AED 10,765m)",
+      "status": "Verified",
+      "locator": "Statement of profit or loss p.5",
+      "note": "Press release: AED 10.73bn, +1% yoy.",
+      "source_ids": [
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "metric": "segment_operating_income",
+      "value": 6583,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Segment: Personal, Business, Wealth & Privileged Client Banking Group (PBW&PCBG)",
+      "definition": "Segment operating income (NII AED 4,915m + non-interest income AED 1,668m); segment assets AED 257,673m at 30 Jun 2026",
+      "status": "Verified",
+      "locator": "Note 30 segmental information, p.26; earnings presentation p.20",
+      "note": "+2% yoy; segment non-interest income fell 16% yoy (H1 2025: AED 1,975m).",
+      "source_ids": [
+        "S4",
+        "S7"
+      ]
+    },
+    {
+      "metric": "asset_management_investment_fees",
+      "value": 199,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Asset management and investment services' fee and commission income (gross, before fee expense), note 31",
+      "status": "Verified",
+      "locator": "Note 31, p.69",
+      "note": "FY2024: AED 156m. Small relative to total fee income of AED 7,057m.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "brokerage_income",
+      "value": 155,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Brokerage income' within fee and commission income (gross); brokerage commission expense AED 72m",
+      "status": "Verified",
+      "locator": "Note 31, p.69",
+      "note": "FY2024: AED 110m.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 4,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "'> 4 Million customers served' — total customers served across segments, includes Ratibi (Wages Protection System) card users; not split into active/registered",
+      "status": "Verified",
+      "locator": "",
+      "note": "Lower bound ('more than'), rounded.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 7500,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "'> 7,500 employees globally' — full-time employees, excludes outsourced staff",
+      "status": "Verified",
+      "locator": "",
+      "note": "Lower bound, rounded.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 140,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group (global)",
+      "definition": "'140+ branches globally'",
+      "status": "Verified",
+      "locator": "",
+      "note": "Lower bound, rounded; UAE-only branch count not found.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "H1 2026 FS (S4), H1 2026 results release (S6), H1'26 earnings presentation (S7), FAB at a glance Q2 2026 (S8), Sept 2026 investor presentation (S9). Only a growth rate is given: 'retail AUMs' +20% yoy in H1 2026. No AUM for FAB Asset Management, FAB Funds or FAB Suisse found (S19, S20, S25)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Same documents (S4, S6–S9); PBW&PCBG deposits grew AED 22bn (+7% ytd) in H1 2026 but private-banking/Elite client assets are not published."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "FAB Securities page (S12), FAB Mobile Elite promotion page (S15), investor presentations (S7, S9)."
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "Personal Invest page mentions custody in 70+ markets (S18) but no assets under custody figure in S4, S6–S9."
+    }
+  ],
+  "people": [
+    {
+      "name": "H.H. Sheikh Tahnoon bin Zayed Al Nahyan",
+      "name_ar": null,
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2017-03-31",
+      "appointed_note": "Non-executive member from 31 Mar 2017 per board page; Deputy Ruler of Abu Dhabi.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Board of Directors page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "H.E. Sheikh Mohamed bin Saif Al Nahyan",
+      "name_ar": null,
+      "title": "Vice Chairman; Chairman of the Board Management Committee and the Board Remuneration and Nomination Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2017-03-31",
+      "appointed_note": "Non-executive member from 31 Mar 2017.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Board of Directors page, checked 2026-10-12 (S3).",
+      "source_ids": [
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hana Al Rostamani",
+      "name_ar": null,
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2021-01",
+      "appointed_note": "Group CEO since January 2021; first female CEO of a UAE-based bank.",
+      "previous_roles": "Deputy Group CEO and Group Head of Personal Banking, FAB (before 2021); earlier roles at First Gulf Bank, Citibank and AW Rostamani Group (S33). Boards: Buna (Arab Monetary Fund payments platform), Institute of International Finance, IMD, US-UAE Business Council executive board; member, International Advisory Council of China's NFRA (S2).",
+      "education": "BSc Business Administration and MSc Information Management, George Washington University (S2)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12; quoted as Group CEO in H1 2026 results release, 23 Jul 2026 (S6). No departure news found.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S6",
+        "S33"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Futoon Hamdan Al Mazrouei",
+      "name_ar": null,
+      "title": "Group Head of Personal, Business, Wealth and Privileged Client Banking Group",
+      "functions": [
+        "Retail",
+        "Affluent",
+        "Private banking",
+        "Wealth"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Personal, Business, Wealth & Privileged Client Banking Group (PBW&PCBG)",
+      "scope": "Group",
+      "appointed": "2025",
+      "appointed_note": "Group Head of PBW&PCB since 2025 per FAB Suisse governance page; joined FAB in 2008 (S25).",
+      "previous_roles": "Group Head of Consumer Banking (UAE) (S2, S33); earlier Head of Elite Banking (S33). Chairperson of FAB Suisse and FAB Islamic; board member of FABMISR, ADNIC, APEX Investment, MAIR Group, Wio Bank and Zoud; Visa council member and Mastercard MENA Executive Council member (S2).",
+      "education": "BSc Mathematics, UAE University (Al Ain); executive programmes at National University of Singapore and Harvard Business School (S2)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page (S1), EXCO biography (S2) and FAB Suisse governance page (S25), checked 2026-10-12. No departure news found. LinkedIn search returned only FAB company pages.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S25",
+        "S33"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Lars Kramer",
+      "name_ar": null,
+      "title": "Group Chief Financial Officer",
+      "functions": [
+        "Finance",
+        "Strategy"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joining date not stated in the official biography; responsibilities include group finance, treasury, investor relations and strategy.",
+      "previous_roles": "CFO, ABN AMRO (from Jun 2021); Group CFO, Hellenic Bank; CFO roles at ING (ING Direct, ING Retail Banking Direct and International, ING Commercial Bank) (S2).",
+      "education": "BSc Accounting, University of South Africa; MBA, University of Cape Town (S2)",
+      "qualifications": "Chartered Accountant (SA) (S2)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12; quoted in H1 2026 release (S6).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Pantelis (Linos) D. Lekkas",
+      "name_ar": null,
+      "title": "Group Head of Investment Banking & Markets",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Investment Banking & Markets (IB&M)",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Exact start date not on official pages; Bloomberg reported FAB in talks to hire him in Feb 2025 (S36), so he joined after that.",
+      "previous_roles": "Citi: Vice Chairman of Investment Banking for Europe and the Middle East; Head of Corporate Banking and Investment Banking, Citibank Europe Plc. Earlier Bank of America Merrill Lynch (Greece, Cyprus, south-east Europe) and Credit Suisse (S2).",
+      "education": "BSc Business Economics, Queen Mary & Westfield College, University of London; MPhil Finance, Robinson College, Cambridge (S2)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S36"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Martin Tricaud",
+      "name_ar": null,
+      "title": "Group Head of Wholesale Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Wholesale Banking (WB)",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Joined FAB in 2021 (S25); previously Group Head of Investment Banking (2023 bios, S33).",
+      "previous_roles": "Group Head of Investment Banking, FAB; HSBC: Deputy Chairman and CEO Middle East, North Africa and Turkey, Group General Manager, CEO HSBC Australia and HSBC Korea (S2, S33). Vice Chairman of FAB Capital Saudi Arabia; board member of FAB Suisse; Chairman of Global Climate Finance Centre (S2).",
+      "education": "Institut d'Etudes Politiques de Paris; La Sorbonne; Paris Nanterre University (S2)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page (S1), EXCO biography (S2) and FAB Suisse governance page (S25), checked 2026-10-12.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S25",
+        "S33"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Divyesh Vithlani",
+      "name_ar": null,
+      "title": "Group Chief Technology & Transformation Officer",
+      "functions": [
+        "Technology",
+        "Digital"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Technology & Transformation",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not stated on official pages.",
+      "previous_roles": "Group Chief Transformation Officer, Standard Chartered; 11 years at Accenture (London, Singapore); 17 years at Credit Suisse (Singapore, Switzerland) in technology and operations leadership (S2).",
+      "education": "BSc Computing Science, Aston University (S2)",
+      "qualifications": null,
+      "linkedin_url": "https://ae.linkedin.com/in/divyesh-vithlani-2268448",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12. LinkedIn search result titled 'Divyesh Vithlani - First Abu Dhabi Bank (FAB)' (S32; name and current employer match; profile not opened).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S32"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Keith Macdonald",
+      "name_ar": null,
+      "title": "Group Chief Operating Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Operations",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Official site title 'Group Chief Operations Officer' (S1); biography 'Group Chief Operating Officer' (S2). Also oversees marketing and communications.",
+      "previous_roles": "Global COO for Corporate, Commercial & Institutional Banking and for Europe & Americas, Standard Chartered; Senior Managing Director for Technology, Bear Stearns; former NED at SMBC Bank International; advisory board member, Fenergo Group (S2).",
+      "education": "First-class honours degree in mathematics, Heriot-Watt University (S2)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Omar Hafeez",
+      "name_ar": null,
+      "title": "Group Head of International",
+      "functions": [
+        "Other"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "International",
+      "scope": "Group (international franchise)",
+      "appointed": null,
+      "appointed_note": "Official site title 'Group Head of International Banking' (S1); biography 'Group Head of International' (S2).",
+      "previous_roles": "Citi, nearly three decades; most recently CEO and Banking Head for the North Africa, Levant and Central Asia cluster (S2).",
+      "education": "LLB, University of London (S2)",
+      "qualifications": "Fellow, ICAEW and ICAP (S2)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fouad Hamiyeh",
+      "name_ar": null,
+      "title": "Chief Executive Officer, FAB Private Bank (Suisse) SA",
+      "functions": [
+        "Subsidiary CEO",
+        "Private banking"
+      ],
+      "entity": "FAB Private Bank (Suisse) SA",
+      "business_unit": "Private banking (Switzerland)",
+      "scope": "Subsidiary: FAB Private Bank (Suisse) SA",
+      "appointed": null,
+      "appointed_note": "Joined the bank in March 2019; CEO start date not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "FAB Suisse corporate governance page (Executive Management Committee), checked 2026-10-12 (S25). Page is undated.",
+      "source_ids": [
+        "S25"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Adib Daccache",
+      "name_ar": null,
+      "title": "Head of Private Banking Coverage, FAB Private Bank (Suisse) SA",
+      "functions": [
+        "Private banking"
+      ],
+      "entity": "FAB Private Bank (Suisse) SA",
+      "business_unit": "Private banking coverage (Switzerland)",
+      "scope": "Subsidiary: FAB Private Bank (Suisse) SA",
+      "appointed": null,
+      "appointed_note": "Joined the bank in 2018.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "FAB Suisse corporate governance page, checked 2026-10-12 (S25). Page is undated.",
+      "source_ids": [
+        "S25"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Gareth Nicholson",
+      "name_ar": null,
+      "title": "Chief Investment Officer, FAB Asset Management (per press headline)",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "First Abu Dhabi Bank / FAB Asset Management",
+      "business_unit": "Asset management / investments",
+      "scope": "Group",
+      "appointed": "2026-02",
+      "appointed_note": "Hire reported 10 Jan 2026 (S28); IFN Investor headline 4 Feb 2026 'FAB Asset Management appoints new chief investment officer' (S29, article paywalled).",
+      "previous_roles": "Chief Investment Officer, Nomura International Wealth Management; earlier Deutsche Asset Management and other investment roles (S28).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Only trade-press sources (S28 opened; S29 headline only). Not named on FAB's official pages or on the ADGM FSRA register entry for FAB Asset Management Limited (no approved persons listed, S20).",
+      "source_ids": [
+        "S28",
+        "S29",
+        "S20"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Michel Longhini",
+      "name_ar": null,
+      "title": "Former Group Head of Global Private Banking (now CEO, Emirates Investment Bank)",
+      "functions": [
+        "Private banking"
+      ],
+      "entity": "First Abu Dhabi Bank PJSC",
+      "business_unit": "Global Private Banking",
+      "scope": "Group",
+      "appointed": "2023-02",
+      "appointed_note": "Appointed Feb 2023 with an EXCO seat (S35); left for Emirates Investment Bank, appointment reported 4 Feb 2026 (S27) and described by Gulf Business on 22 Jul 2026 (S26).",
+      "previous_roles": "CEO Private Banking, Edmond de Rothschild; CEO Private Banking, Union Bancaire Privée; senior roles at BNP Paribas wealth management (S33).",
+      "education": "Emlyon Business School (S33)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "Not on FAB's current senior management page (S1). Gulf Business (22 Jul 2026) calls him the newly appointed CEO of Emirates Investment Bank who joined from FAB, where he was group head of global private banking (S26). Successor at FAB not found.",
+      "source_ids": [
+        "S1",
+        "S26",
+        "S27",
+        "S33",
+        "S35"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Wealth sits in the Personal, Business, Wealth & Privileged Client Banking Group led by Futoon Al Mazrouei since 2025 (H1 2026 operating income AED 6.58bn, +2% yoy; non-interest income -16% yoy). FAB reports 'retail AUMs' up 20% yoy in H1 2026 but discloses no AUM figure. Affluent clients are served through FAB Elite (10 Elite Centres, RM and wealth specialists, advisory and portfolio reviews) and HNW clients through FAB Private Banking in the UAE, Switzerland (FAB Private Bank (Suisse) SA), KSA, Singapore, UK and France, offering advisory, discretionary mandates (conventional or Shariah), trade execution and Lombard lending. Product shelf includes FAB Funds, unnamed third-party funds and structured products; FAB signed product partnerships with Amundi (Dec 2025) and T. Rowe Price (Jan 2026) for retail, private banking and institutional clients. A new ADGM asset manager, FAB Asset Management Limited, was authorised on 22 May 2026 (no retail clients). Digital investing in FAB Mobile is limited to opening a FAB trading account, investor numbers, IPO subscriptions and portfolio tracking; FAB Securities' app trades ADX, DFM and Nasdaq Dubai. The Group Head of Global Private Banking (Michel Longhini) left in early 2026 and no successor was found.",
+    "segments": [
+      {
+        "name": "FAB Elite",
+        "tier": "Affluent",
+        "eligibility": "Not published on the Elite pages checked (S13, S14); dedicated RMs and wealth specialists, 10 Elite Centres, Elite Islamic variant",
+        "source_ids": [
+          "S13",
+          "S14"
+        ]
+      },
+      {
+        "name": "FAB Private Banking",
+        "tier": "HNW / UHNW",
+        "eligibility": "Not published (S16, S17); serves HNW/UHNW individuals and family offices",
+        "source_ids": [
+          "S16",
+          "S17",
+          "S4"
+        ]
+      },
+      {
+        "name": "Privileged Client Banking",
+        "tier": "Other",
+        "eligibility": "Named in the segment title (PBW&PCBG); criteria not published",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "FAB Private Banking (UAE HQ) with presences in Switzerland (FAB Private Bank (Suisse) SA, FINMA-regulated; CEO Fouad Hamiyeh), KSA (real-estate financing, portfolio-backed lending, custody), Singapore, UK and France (S16, S25). Services: global investment advisory, discretionary portfolio management, trade execution, Lombard/portfolio loans, real-estate lending, wealth planning, trust and family-office set-up, art platform (S17). Group Head of Global Private Banking Michel Longhini departed (to EIB, Feb 2026); successor not found (S26).",
+      "source_ids": [
+        "S16",
+        "S17",
+        "S25",
+        "S26",
+        "S37"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "FAB Funds ('award winning investment funds' in equities and fixed income) run by the bank's Investment Management team (S18). FAB Asset Management Limited (ADGM, FSP 250064, authorised 22 May 2026): Managing Assets, Managing a Collective Investment Fund, Advising, Arranging Deals, Arranging Custody, Islamic Financial Business; not permitted to deal with retail clients or hold client assets (S20). 'FAB Asset Management' manages the FAB End of Service Benefit funds (conventional and Islamic, capital-protected) under the MOHRE/SCA savings scheme (S19). AUM not disclosed.",
+      "source_ids": [
+        "S18",
+        "S19",
+        "S20"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "First Abu Dhabi Bank Securities (100%): execution, research (UAE and regional equity and fixed income) and custody; FABS Online web platform and FAB Securities mobile app with direct market access to ADX and DFM; markets named: ADX, DFM, Nasdaq Dubai (S12). Private-bank trade execution covers bonds, equities, FX and funds (S17).",
+      "source_ids": [
+        "S4",
+        "S12",
+        "S17"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Limited. FAB Mobile (Elite promotion page, 2026): open a FAB trading account, apply for ADX/DFM National Investor Number, early access to regional IPO subscriptions, daily/monthly portfolio statements (S15). Separate FAB Securities app for ADX/DFM/Nasdaq Dubai trading (S12). No in-app global equities, funds or model portfolios found (S15, S18).",
+      "source_ids": [
+        "S12",
+        "S15",
+        "S18"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Elite: investment advisory, portfolio solutions and reviews, wealth planning (S14). Private Banking: global investment advisory across asset classes (S17).",
+      "source_ids": [
+        "S14",
+        "S17"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Private Banking discretionary portfolio management with 'conventional or Shariah-compliant mandates across asset classes, geographies and investment profiles' (S17).",
+      "source_ids": [
+        "S17"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo-advisory or model-portfolio product found on the Elite, Private Banking, Invest or mobile pages (S13–S18). FAB Invest page shows six risk profiles but links to savings pages (S18).",
+      "source_ids": [
+        "S13",
+        "S14",
+        "S15",
+        "S18"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "'Global (Third Party) Funds' with 'privileged access to best of breed fund managers' (managers not named) and FAB Funds (S18); private-bank trade execution in 'proprietary and third-party funds' (S17). Platform provider not named. Product partnerships signed with Amundi (Dec 2025) and T. Rowe Price (Jan 2026) (S21, S22).",
+      "source_ids": [
+        "S17",
+        "S18",
+        "S21",
+        "S22"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Listed on the personal Invest page: 'Designed so that you can capitalise on market opportunities while protecting you from risks' (S18). Issuers not named.",
+      "source_ids": [
+        "S18"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "No named private-markets product for wealth clients found. The T. Rowe Price partnership (Jan 2026) covers equity, fixed income, alternatives and multi-asset, and its CEO refers to solutions 'across public and private markets' to be jointly developed (S21). Private Banking mentions real-estate 'unique investment opportunities' (S17).",
+      "source_ids": [
+        "S17",
+        "S21"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Shariah-compliant discretionary mandates and Shariah-compliant lending in Private Banking (S17); Elite Islamic proposition (S13); FAB Islamic End of Service Benefit Fund (S19); FAB Asset Management Limited holds an FSRA Islamic Financial Business permission (S20).",
+      "source_ids": [
+        "S13",
+        "S17",
+        "S19",
+        "S20"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "US/international equities",
+      "Bonds",
+      "Mutual funds",
+      "Structured products"
+    ],
+    "partners": [
+      {
+        "partner": "Amundi",
+        "kind": "Product partner (asset manager)",
+        "what": "Strategic partnership to expand FAB's investment offering for retail, private banking and institutional clients in the GCC; Amundi's first partnership of this kind in the UAE. Private Banker International called it an MoU (search result).",
+        "date": "2025-12-09",
+        "status": "Announced",
+        "source_ids": [
+          "S22",
+          "S34"
+        ]
+      },
+      {
+        "partner": "T. Rowe Price",
+        "kind": "Product partner (asset manager)",
+        "what": "Investment partner providing equity, fixed income, alternatives and multi-asset solutions for retail, private banking and institutional clients; plan to jointly develop and launch new solutions",
+        "date": "2026-01-12",
+        "status": "Announced",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "partner": "Microsoft",
+        "kind": "Technology / AI",
+        "what": "Strategic partnership (Apr 2024) for AI-based banking capabilities and an AI Innovation Hub on Azure; by Sep 2026 Microsoft Copilot rolled out to all group employees with a library of 4,800+ agents; FAB reports Microsoft 'Leader' status. No wealth/RM-specific tool named.",
+        "date": "2024-04-02",
+        "status": "Live",
+        "source_ids": [
+          "S23",
+          "S9"
+        ]
+      },
+      {
+        "partner": "IBM Consulting",
+        "kind": "Technology integrator",
+        "what": "Digital transformation partner: enhancing FAB's digital platforms in a hybrid cloud environment and modernising applications (retail focus; no wealth mention)",
+        "date": "2022-04-19",
+        "status": "Unclear",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "partner": "G42 / Core42",
+        "kind": "Technology / cloud",
+        "what": "Long-standing AI partner; FAB moved its data centre and workloads to Azure with Core42 (per Microsoft partnership release)",
+        "date": "2024-04-02",
+        "status": "Unclear",
+        "source_ids": [
+          "S23"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2024-04-02",
+        "what": "Strategic partnership with Microsoft; AI Innovation Hub for financial services",
+        "source_ids": [
+          "S23"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Reorganised operating segments; created the Personal, Business, Wealth & Privileged Client Banking Group under Futoon Al Mazrouei",
+        "source_ids": [
+          "S4",
+          "S25"
+        ]
+      },
+      {
+        "date": "2025-12-09",
+        "what": "Strategic partnership with Amundi to expand investment solutions across client segments",
+        "source_ids": [
+          "S22"
+        ]
+      },
+      {
+        "date": "2026-01-12",
+        "what": "Strategic partnership with T. Rowe Price as investment partner",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "date": "2026-02",
+        "what": "Reported hire of Gareth Nicholson (ex-Nomura International Wealth Management CIO) as CIO of FAB Asset Management; Group Head of Global Private Banking Michel Longhini left to become CEO of Emirates Investment Bank",
+        "source_ids": [
+          "S28",
+          "S29",
+          "S26",
+          "S27"
+        ]
+      },
+      {
+        "date": "2026-05-22",
+        "what": "FAB Asset Management Limited authorised by ADGM FSRA (asset and fund management, Islamic financial business; professional clients only)",
+        "source_ids": [
+          "S20"
+        ]
+      },
+      {
+        "date": "2026-07-23",
+        "what": "H1 2026 results: retail AUMs +20% yoy; PBW&PCBG deposits +AED 22bn (+7% ytd); FAB cites investment in wealth capabilities and AI agents (>20% productivity uplift)",
+        "source_ids": [
+          "S6",
+          "S7"
+        ]
+      },
+      {
+        "date": "2026-09",
+        "what": "Investor presentation: Copilot for all employees, 4,800+ agents, 150+ AI use cases live or in progress, AI Innovation Hub of 60+ specialists",
+        "source_ids": [
+          "S9"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Building out its investment shelf with global managers: Amundi (Dec 2025) and T. Rowe Price (Jan 2026) partnerships for retail, private banking and institutional clients, with T. Rowe Price to 'jointly develop and launch new solutions' incl. alternatives (S21, S22).",
+        "Retail AUMs grew 20% yoy in H1 2026, yet PBW&PCBG non-interest income fell 16% yoy to AED 1,668m (S6, S7).",
+        "Investment fee pool is small for the bank's size: 'asset management and investment services' fee income AED 199m and brokerage income AED 155m in FY2025, against total fee income of AED 7,057m (S5).",
+        "Digital investing is thin: FAB Mobile offers trading-account opening, investor numbers, IPO subscriptions and portfolio tracking; FAB Securities app covers ADX, DFM and Nasdaq Dubai only; no in-app global equities, funds or model portfolios found (S12, S15, S18).",
+        "No robo/model-portfolio proposition found; Elite and Private Banking eligibility not published (S13, S14, S17, S18).",
+        "New ADGM asset-management entity (FSRA authorisation 22 May 2026) and a new CIO hired from Nomura's international wealth business in early 2026 (S20, S28).",
+        "Group-wide AI push (Copilot for all staff, 4,800+ agents, 150+ use cases) but no client-facing or RM wealth AI tool evidenced (S9).",
+        "Group Head of Global Private Banking post vacated in early 2026; successor not found (S1, S26)."
+      ],
+      "barriers": [
+        "Large in-house technology and transformation organisation under a Group CTTO (ex-Standard Chartered); AI Innovation Hub with 60+ specialists (S2, S9).",
+        "Strategic technology partners already in place: Microsoft (AI/Azure), IBM Consulting (digital platforms), G42/Core42 (S23, S24).",
+        "Own investment-product engines: FAB Funds, FAB Asset Management Limited and FAB Private Bank (Suisse) (S18, S20, S25).",
+        "Product-partner slots with large global asset managers partly filled by Amundi and T. Rowe Price (S21, S22)."
+      ],
+      "incumbent_vendors": [
+        "Microsoft — strategic AI partner, Azure, Copilot for all employees (S23, S9)",
+        "IBM Consulting — digital transformation / hybrid cloud partner since 2022 (S24)",
+        "G42 / Core42 — AI and cloud migration partner (S23)",
+        "Amundi — investment product partner (S22)",
+        "T. Rowe Price — investment product partner (S21)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Senior Management (Group Executive Committee)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/about-fab/group/senior-management",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "FAB Group EXCO biographies (Senior Management PDF)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/-/media/fab-uds/about-fab/group/senior-management/documents/fab-exco-bios-en.pdf?view=1",
+      "doc_type": "Official biographies",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Board of Directors",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/about-fab/group/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Condensed consolidated interim financial information for the period ended 30 June 2026 (reviewed by PwC, 22 Jul 2026)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/-/media/fab-uds/about-fab/investor-relations/reports-and-presentations/quarterly-and-annual-reports/2026/q2/fab-fs-q2-2026-english.pdf?view=1",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Consolidated financial statements for the year ended 31 December 2025 (audited, PwC)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/-/media/fab-uds/about-fab/investor-relations/reports-and-presentations/quarterly-and-annual-reports/2025/q4/fab-fs-q4-2025-english.pdf?view=1",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "FAB delivers strong H1 2026 results",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/about-fab/group/in-the-media/fab-delivers-strong-h1-2026-results",
+      "doc_type": "Press release (results)",
+      "tier": 2,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "H1'26 Earnings Presentation",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/-/media/fab-uds/about-fab/investor-relations/reports-and-presentations/quarterly-and-annual-reports/2026/q2/fab-earnings-presentation-q2-2026.pdf?view=1",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "FAB at a glance, Q2 2026",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/-/media/fab-uds/about-fab/investor-relations/fab-investment-case/pdfs/fab-at-a-glance-q2-2026.pdf?view=1",
+      "doc_type": "Investor fact sheet",
+      "tier": 2,
+      "published": "2026-07-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "September 2026 Investor Presentation",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/-/media/fab-uds/about-fab/investor-relations/reports-and-presentations/presentations/pdfs/2026/september-2026-investor-presentation.pdf?view=1",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-09-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Quarterly and annual reports (IR document list)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/about-fab/investor-relations/reports-and-presentations/quarterly-and-annual-reports",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Subsidiaries",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/subsidiaries",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "FAB Securities",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/subsidiaries/fab-securities",
+      "doc_type": "Official subsidiary page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "FAB Elite",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/personal/elite",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "FAB Elite — Grow your wealth",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/personal/elite/grow-your-wealth",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Elite banking on your phone (FAB Mobile features)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/personal/promotions/elite-banking-on-your-phone",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "FAB Private Banking",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/private",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Private Banking — Wealth solutions",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/private/wealth-solutions",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Invest (personal investment products)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/personal/invest",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "End of Service Benefits (EOSB) Funds",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/private/asset-management/eosb",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "FSRA Public Register: FAB Asset Management Limited (FSP 250064)",
+      "publisher": "ADGM Financial Services Regulatory Authority",
+      "url": "https://www.adgm.com/public-registers/fsra/firms/financial-firms/fab-asset-management-limited-250064",
+      "doc_type": "Regulator public register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "FAB and T. Rowe Price enter into a strategic partnership",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/about-fab/group/in-the-media/fab-and-t-rowe-price-enter-into-a-strategic-partnership",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-01-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "First Abu Dhabi Bank and Amundi sign strategic partnership in GCC countries",
+      "publisher": "Amundi",
+      "url": "https://about.amundi.com/article/first-abu-dhabi-bank-and-amundi-sign-strategic-partnership-gcc-countries",
+      "doc_type": "Partner press release",
+      "tier": 2,
+      "published": "2025-12-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "FAB and Microsoft announce landmark strategic partnership",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/about-fab/group/in-the-media/fab-and-microsoft-announce-landmark-strategic-partnership",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-04-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "FAB teams up with IBM to accelerate digital transformation",
+      "publisher": "IBM Middle East & Africa newsroom",
+      "url": "https://mea.newsroom.ibm.com/FAB-teams-up-with-IBM-to-accelerate-digital-transformation",
+      "doc_type": "Partner press release",
+      "tier": 2,
+      "published": "2022-04-19",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "FAB Private Bank (Suisse) SA — Corporate governance",
+      "publisher": "FAB Private Bank (Suisse) SA",
+      "url": "https://www.bankfab.com/en-ch/about-fab/corporate-governance",
+      "doc_type": "Official governance page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Interview with EIB CEO Michel Longhini on private banking trends",
+      "publisher": "Gulf Business",
+      "url": "https://gulfbusiness.com/en/2026/interviews/interview-with-eib-ceo-michel-longhini-on-private-banking-trend/",
+      "doc_type": "News / interview",
+      "tier": 5,
+      "published": "2026-07-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "New appointments at EIB, Network International and Enviroserve",
+      "publisher": "Enterprise AM (UAE)",
+      "url": "https://enterpriseam.com/uae/2026/02/04/new-appointments-at-eib-network-international-and-enviroserve/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-02-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "UAE First Abu Dhabi Bank FAB hires Nomura International Wealth Management Chief Investment Officer Gareth Nicholson",
+      "publisher": "Caproasia",
+      "url": "https://www.caproasia.com/2026/01/10/uae-first-abu-dhabi-bank-fab-hires-nomura-international-wealth-management-chief-investment-officer-gareth-nicholson-21-years-investment-asset-management-private-banking-experience-at-deutsche-as/",
+      "doc_type": "Trade news",
+      "tier": 5,
+      "published": "2026-01-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "FAB Asset Management appoints new chief investment officer",
+      "publisher": "IFN Investor",
+      "url": "https://ifninvestor.com/fab-asset-management-appoints-new-chief-investment-officer/",
+      "doc_type": "Trade news",
+      "tier": 5,
+      "published": "2026-02-04",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "An Abu Dhabi startup to bring the wealth (and fees) home (Alpheya)",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/12/09/2025/abu-dhabi-alpheya-startup-to-bring-the-wealth-and-fees-home",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-12-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "First Abu Dhabi Bank (FAB) — LinkedIn company page",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/company/first-abu-dhabi-bank",
+      "doc_type": "LinkedIn company page (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S32",
+      "title": "Divyesh Vithlani — First Abu Dhabi Bank (FAB) (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://ae.linkedin.com/in/divyesh-vithlani-2268448",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S33",
+      "title": "FAB senior management biographies (earlier edition)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/-/media/fabgroup/home/about-fab/group/senior-management/bios/fab-senior-management-biographies.pdf",
+      "doc_type": "Official biographies (superseded)",
+      "tier": 4,
+      "published": "2023-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S34",
+      "title": "FAB signs MoU with Amundi",
+      "publisher": "Private Banker International",
+      "url": "https://www.privatebankerinternational.com/news/fab-signs-mou-with-amundi/",
+      "doc_type": "Trade news",
+      "tier": 5,
+      "published": "2025-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S35",
+      "title": "First Abu Dhabi Bank hires Michel Longhini to lead global private banking",
+      "publisher": "FinTech Futures",
+      "url": "https://www.fintechfutures.com/private-banking/first-abu-dhabi-bank-hires-michel-longhini-to-lead-global-private-banking",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-02-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S36",
+      "title": "ADSB appoints new senior hires; FAB eyes former Citi vice chair; DFSA appoints new CEO",
+      "publisher": "Enterprise AM (UAE)",
+      "url": "https://enterpriseam.com/uae/2025/02/26/adsb-appoints-new-senior-hires-fab-eyes-former-citi-vice-chair-dfsa-appoints-new-ceo/",
+      "doc_type": "News (citing Bloomberg, 25 Feb 2025)",
+      "tier": 5,
+      "published": "2025-02-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S37",
+      "title": "FAB Private Bank (Suisse) SA — Group international locations",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ch/private/group-international-locations",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Banks sheet row",
+      "original_value": "Missing (banks_row null; FAB absent from the Banks sheet)",
+      "finding": "Updated",
+      "new_value": "Full institution profile created from H1 2026 and FY2025 financial statements and official pages",
+      "materiality": "Material",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "field": "Total assets (30 Jun 2026)",
+      "original_value": "AED 1,410 billion (rounded, H1 2026 release)",
+      "finding": "Confirmed",
+      "new_value": "AED 1,408,739 million (exact, reviewed interim statement of financial position)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "field": "Customer deposits (30 Jun 2026)",
+      "original_value": "AED 853 billion (rounded, H1 2026 release)",
+      "finding": "Confirmed",
+      "new_value": "AED 852,971 million 'Customer accounts and other deposits' (exact)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "field": "Size metric source URL",
+      "original_value": "https://www.bankfab.com/en-ae/about-fab/group/in-the-media/fab-delivers-strong-h1-2026-results",
+      "finding": "Confirmed",
+      "new_value": "Page opened 2026-10-12; dated 23 Jul 2026 (now supplemented by tier-1 financial statements)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "field": "Person: Hana Al Rostamani",
+      "original_value": "Group Chief Executive Officer; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Group Chief Executive Officer since Jan 2021; LinkedIn still not verified",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "Person: Futoon Hamdan Al Mazrouei",
+      "original_value": "Group Head of Personal, Business, Wealth and Privileged Client Banking",
+      "finding": "Confirmed",
+      "new_value": "Group Head of Personal, Business, Wealth and Privileged Client Banking Group (since 2025); also Chair of FAB Suisse and FAB Islamic, Wio Bank board member",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S25"
+      ]
+    },
+    {
+      "field": "Person: Divyesh Vithlani",
+      "original_value": "Group Chief Technology & Transformation Officer; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Group Chief Technology & Transformation Officer; LinkedIn search match recorded",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S32"
+      ]
+    },
+    {
+      "field": "Person: Martin Tricaud",
+      "original_value": "Group Head of Wholesale Banking (function: Corporate)",
+      "finding": "Confirmed",
+      "new_value": "Group Head of Wholesale Banking (previously Group Head of Investment Banking)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S33"
+      ]
+    },
+    {
+      "field": "Person: Pantelis (Linos) D. Lekkas",
+      "original_value": "Group Head of Investment Banking & Markets (function: 'Investment')",
+      "finding": "Corrected",
+      "new_value": "Title confirmed. Function corrected to Corporate / wholesale: this is the investment-banking and markets division, not investments/asset management",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "People coverage",
+      "original_value": "5 people",
+      "finding": "Updated",
+      "new_value": "14 people incl. Chair, Vice Chair, CFO, COO, Head of International, FAB Suisse CEO, FAB Asset Management CIO (requires verification) and departed Group Head of Global Private Banking",
+      "materiality": "Material",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S25",
+        "S26",
+        "S28"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "Total assets 31 Dec 2025",
+      "detail": "FY2025 accounts reported AED 1,403,864m; the H1 2026 FS re-presented it as AED 1,376,862m after reclassifying accrued interest on derivatives from other assets/liabilities (note 34).",
+      "resolution": "Recorded only the 30 Jun 2026 balance (primary period). Comparisons with Dec 2025 should use the re-presented AED 1,376,862m.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "field": "Number of markets",
+      "detail": "'20+ markets across 5 continents' (S8, S9) vs 'global footprint across 22 markets' (CEO biography, S2).",
+      "resolution": "Used '20+ markets' in footprint and noted 22.",
+      "source_ids": [
+        "S2",
+        "S8"
+      ]
+    },
+    {
+      "field": "Keith Macdonald / Omar Hafeez titles",
+      "detail": "Official page: 'Group Chief Operations Officer' and 'Group Head of International Banking' (S1); biographies: 'Group Chief Operating Officer' and 'Group Head of International' (S2).",
+      "resolution": "Used the biography titles; differences are wording only.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "field": "Futoon Al Mazrouei education",
+      "detail": "2023 bio: BSc 'from Al Ain University' (S33); current bio: BSc Mathematics, UAE University, Al Ain (S2).",
+      "resolution": "Used the current biography.",
+      "source_ids": [
+        "S2",
+        "S33"
+      ]
+    },
+    {
+      "field": "Amundi agreement type",
+      "detail": "Amundi calls it a strategic partnership/agreement (S22); Private Banker International headline says MoU (S34, search result only).",
+      "resolution": "Status 'Announced'; no evidence of launched Amundi-branded products at FAB.",
+      "source_ids": [
+        "S22",
+        "S34"
+      ]
+    },
+    {
+      "field": "Michel Longhini start date at EIB",
+      "detail": "Enterprise AM reported the appointment on 4 Feb 2026 (S27, search result); Gulf Business on 22 Jul 2026 still calls him 'newly appointed' (S26).",
+      "resolution": "Treated as departed from FAB by Feb 2026.",
+      "source_ids": [
+        "S26",
+        "S27"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead 'relationship between FAB and Alpheya' NOT established: Alpheya is not among FAB's subsidiaries or associates at 30 Jun 2026 (S4); no FAB or Alpheya release linking them was found; Semafor (Dec 2025) names Lunate and BNY as Alpheya's backers and no FAB link (S30). Do not state a FAB–Alpheya relationship without new evidence.",
+    "Lead 'RM AI tool with Microsoft showcased' NOT verified: no FAB, Microsoft or press source found describing a relationship-manager or wealth AI tool. Evidence only for group-wide Copilot rollout and 4,800+ internal agents (S9) and the 2024 Microsoft partnership (S23).",
+    "Lead 'IBM as integrator': IBM Consulting confirmed as digital-transformation/hybrid-cloud partner from Apr 2022 (S24); no 2025–2026 IBM–FAB announcement found, and no wealth-specific IBM work found.",
+    "Current Group Head of Global Private Banking after Michel Longhini's departure not found; FAB Securities head and FAB Asset Management CEO not found.",
+    "Gareth Nicholson's exact title and reporting line need confirmation on an official FAB source (only trade press).",
+    "FAB's shareholding in Wio Bank not verified in this batch (Wio's About page shows shareholders as logos only); Futoon Al Mazrouei sits on Wio's board (S2).",
+    "FY2025 annual report PDF exceeded the 10 MB fetch limit; UAE-only branch count, retail customer numbers and any wealth KPIs in the annual report were not read.",
+    "Elite and Private Banking eligibility thresholds not published on the pages checked.",
+    "Web search budget was exhausted mid-batch; LinkedIn checks for Futoon Al Mazrouei and Gareth Nicholson returned no matching profile and were not retried."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B01",
+  "checked": "2026-10-12"
+}

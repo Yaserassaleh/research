@@ -1,0 +1,714 @@
+﻿institution_id,institution,date,what,source_ids
+ae-adcb,Abu Dhabi Commercial Bank,2018-05-01,Obtained ADGM (FSRA) financial services licence incl. asset management via a new asset-management subsidiary; opened an ADGM private banking centre,ae-adcb:S7
+ae-adcb,Abu Dhabi Commercial Bank,2025-01,"Five-year strategy launched in Q1 2025: double net profit to AED 20bn within five years (c.20% annual growth), RoE >15%, c.AED 25bn dividends",ae-adcb:S1;ae-adcb:S3
+ae-adcb,Abu Dhabi Commercial Bank,2025-10,"Group-wide AI-led transformation programme targeting AED 4bn of financial value; 150+ use cases, dedicated AI leadership and 'partnerships with global AI leaders' (unnamed); internal tools Enterprise Knowledge, Board Observer, Credit Companion",ae-adcb:S3;ae-adcb:S4
+ae-adcb,Abu Dhabi Commercial Bank,2025,Retail launched new digital investment capabilities; Private Banking AUM in investment and advisory solutions +50% yoy,ae-adcb:S3
+ae-adcb,Abu Dhabi Commercial Bank,2025,First bank certified by CBUAE for the Al Tareq Open Finance platform; first Open Finance hackathon,ae-adcb:S4
+ae-adcb,Abu Dhabi Commercial Bank,2025,"Meedaf launched as non-core banking holding platform (Brink's JV, InDebted investment, TouchPoints loyalty moved in)",ae-adcb:S3
+ae-adcb,Abu Dhabi Commercial Bank,2025-12-04,AED 6.1bn rights issue completed (largest on ADX); Mubadala took up its full entitlement,ae-adcb:S3;ae-adcb:S4
+ae-adcb,Abu Dhabi Commercial Bank,2026,Q2 2026: launched new AI-enabled mobile banking app with a conversational AI interface; first UAE bank to launch a Tourist Account,ae-adcb:S1
+ae-adcb,Abu Dhabi Commercial Bank,2026-06-30,D-SIB capital buffer (+50 bps) applies from 30 Jun 2026,ae-adcb:S4
+ae-adib,Abu Dhabi Islamic Bank,2021-10-05,"Launched ADIB Wealth multi-channel portal (portfolio dashboard, investment plans, direct trading), which ADIB called a first among UAE Islamic banks",ae-adib:S34
+ae-adib,Abu Dhabi Islamic Bank,2025-03-24,"Hired Basit Sajid Saiyed (ex-HSBC MENAT investments and wealth solutions) as Head of Wealth Management, aiming to become 'the premier Islamic bank for wealth management services'",ae-adib:S35
+ae-adib,Abu Dhabi Islamic Bank,2025-11-03,First partner bank in the Ministry of Finance Retail Sukuk initiative; T-Sukuk sold through the Smart Sukuk platform,ae-adib:S36
+ae-adib,Abu Dhabi Islamic Bank,2026-07-29,H1 2026: first UAE bank licensed as an Open Finance provider (AlTareq TPP); 'new ADIB Capital products' launched; 'strong Wealth Management growth'; 79% of new customers acquired digitally,ae-adib:S4;ae-adib:S5
+ae-adib,Abu Dhabi Islamic Bank,2026-09-15,"Vision 2035 and five-year strategy: 'Transform the Wealth management franchise into a market-leading, client-centric growth engine', capture 'growth pools across wealth', scale ADIB Ventures and ecosystem partnerships, embed Gen AI; board proposes AED 1.75bn rights issue",ae-adib:S6
+ae-ajman,Ajman Bank,2023-09,Mustafa Al Khalfawi appointed CEO,ae-ajman:S5
+ae-ajman,Ajman Bank,2025-05,Distribution agreement with Azimut (DIFC) to enhance wealth management and investment advisory,ae-ajman:S20
+ae-ajman,Ajman Bank,2025,Temenos T24 R22 upgrade; GenAI assistant 'Hamed' in the mobile app; STP Wakala booking in app; first digital branch in Ajman,ae-ajman:S5;ae-ajman:S4
+ae-ajman,Ajman Bank,2026-01,"FY2025 record net profit AED 500m (+25%); strategic priorities include 'AI Native Bank', a new digital banking platform with fintech partnerships, and 'Focus on building Ajman Wealth by offering value added solutions'",ae-ajman:S4;ae-ajman:S2
+ae-ajman,Ajman Bank,2026-06,Opened corporate office in Dubai (Emaar Business Park),ae-ajman:S25
+ae-ajman,Ajman Bank,2026-07-08,Priced inaugural USD 300m AT1 perpetual sukuk at 6.50% (adjusted CAR about 18.3%),ae-ajman:S22;ae-ajman:S1;ae-ajman:S3
+ae-ajman,Ajman Bank,2026-07-27,MoU with National Bonds on Shariah-compliant savings solutions,ae-ajman:S23
+ae-ajman,Ajman Bank,2026-08-24,Launched AB ONE CORP digital banking platform for corporate and SME clients,ae-ajman:S24
+ae-ajman,Ajman Bank,2026-09-03,MoU with Sukoon Takaful,ae-ajman:S26
+ae-almasraf,Al Masraf (Arab Bank for Investment and Foreign Trade),2025-11-06,"Emirates Investment Authority raised its stake to 60% (buying 12.98% from Libyan Foreign Bank and 4.74% from Banque Extérieure d'Algérie), CBUAE-approved",ae-almasraf:S4
+ae-almasraf,Al Masraf (Arab Bank for Investment and Foreign Trade),2025,"Delivered UAE PASS authentication, AANI payments, digitised AML risk scoring; launched a 'Future Makers' digital programme; Treasury roadmap includes a modern treasury management system and a multi-product investment platform",ae-almasraf:S3
+ae-almasraf,Al Masraf (Arab Bank for Investment and Foreign Trade),2026,"Programmes running into 2026: enhanced mobile banking, digital trade journeys, open finance, core banking modernisation and end-to-end corporate lending transformation; strategy statement: 'UAE's Federal Commercial Bank', corporate-led, backed by retail and SME growth plans",ae-almasraf:S3;ae-almasraf:S4
+ae-almasraf,Al Masraf (Arab Bank for Investment and Foreign Trade),2026,Board and management reshuffle after the ownership change: Mohamed Saif Al Suwaidi became Chairman; two new directors; Ahmad Yousuf moved to Chief Retail Banking Officer,ae-almasraf:S5;ae-almasraf:S1;ae-almasraf:S3
+ae-alramz,Al Ramz Capital,2025,"Digital Financial Mall: online revenues +388%, client portfolios +43%, platform registrations +61%; named 'Most Innovative Trading Platform' (Finance Middle East Awards 2025)",ae-alramz:S8
+ae-alramz,Al Ramz Capital,2026-06-30,"H1 2026: launched US options trading on the Digital Financial Mall and two funds (Horizon GCC Equity Fund, Fortitude Sukuk Fund per release); THOR AI-powered investment assistant cited as a recent delivery",ae-alramz:S6;ae-alramz:S4
+ae-alramz,Al Ramz Capital,2026-08-03,"Stated plan to embed AI across processes, supported by a new CRM platform and enterprise data architecture",ae-alramz:S6
+ae-alramz,Al Ramz Capital,2026-06-16,Appointed liquidity provider for ADNOC Distribution (mandate renewed Aug 2026),ae-alramz:S11
+ae-arqaam,Arqaam Capital,2025-05-13,Ethmar International Holding made an undisclosed investment in Arqaam; firm cited USD 1.7bn wealth and asset management AUM and over USD 12bn of ECM and M&A advised since 2021,ae-arqaam:S21
+ae-arqaam,Arqaam Capital,2025-10-02,"Saudi CMA licensed Arqaam Capital Financial Co. for managing investments (resolution dated 13 May 2025); Argaam report date shown as 02/10/2025, read as 2 Oct 2025 because the resolution is dated May 2025",ae-arqaam:S23
+ae-arqaam,Arqaam Capital,2025-10-01,"Appointed Paolo Casamassima as Executive Director, Investor Relations and Stakeholder Engagement",ae-arqaam:S22
+ae-arqaam,Arqaam Capital,2026-03,Karim Baghdady reported as joining as Managing Director to build institutional investment banking in emerging and frontier markets (search-result summary only),ae-arqaam:S26
+ae-arqaam,Arqaam Capital,2026-05-18,Appointed by Bahrain Bourse to expand institutional equity research coverage,ae-arqaam:S19
+ae-arqaam,Arqaam Capital,2026-06-04,Held its 13th MENA Annual Investor Conference (a WAM article of Jun 2026 says it was to be inaugurated by Sheikh Nahyan bin Mubarak; seen in search results only),ae-arqaam:S28;ae-arqaam:S27
+ae-arqaam,Arqaam Capital,2026-06-18,Advised Welspun World on the sale of a 4.6% stake (about SAR 284m) in Tadawul-listed East Pipes Integrated Company,ae-arqaam:S20
+ae-arqaam,Arqaam Capital,2026-06-25,Fixed Income Asset Management team won Sukuk Fund of the Year at the Global Banking & Markets Awards (third GBM award in four years),ae-arqaam:S18
+ae-arqaam,Arqaam Capital,2026-07-07,Announced strategic investment by Bader Nasser Al-Kharafi / BNK Holding and National Investments Company (NIC) to accelerate Kuwait expansion,ae-arqaam:S16
+ae-arqaam,Arqaam Capital,2026-07-10,"Named among Forbes' Top 50 Asset Managers in MENA, citing 'sustained momentum in our AUM growth' without a figure",ae-arqaam:S17
+ae-baraka,Baraka,2021-06,DFSA authorisation of Baraka Financial Limited (licensed directors effective 2 Jun 2021),ae-baraka:S16;ae-baraka:S10
+ae-baraka,Baraka,2021-08-03,"App launch with USD 4m seed round; commission-free US stocks and ETFs for UAE, Saudi, Bahrain, Oman and Kuwait residents; Y Combinator S21",ae-baraka:S16
+ae-baraka,Baraka,2022-11-15,"USD 20m Series A led by Valar Ventures; plans for GCC and Egypt expansion and local-exchange access (Tadawul, DFM, ADX)",ae-baraka:S17
+ae-baraka,Baraka,2026-07,DFSA approved Islamic Window application,ae-baraka:S8
+ae-baraka,Baraka,2026-09-10,Launched DFM and ADX stocks in-app (Arqaam Capital DMA; Emirates NBD custody),ae-baraka:S8
+ae-bos,Bank of Sharjah,2023-04-01,Delinked and deconsolidated Emirates Lebanon Bank (held for sale) with CBUAE support; sale still pending at 30 Jun 2026,ae-bos:S1
+ae-bos,Bank of Sharjah,2023-05-04,AGM approved AED 800m capital increase (800m new shares at par) to AED 3bn; Sharjah Asset Management stake from 17.16% to about 40%,ae-bos:S21
+ae-bos,Bank of Sharjah,2023-05-17,Mohamed Khadiri appointed CEO to lead a strategic transformation,ae-bos:S13;ae-bos:S3
+ae-bos,Bank of Sharjah,2024,Board-approved growth strategy; senior team strengthened with external hires (COO Dec 2024; Chief Retail Banking Officer and Chief Wholesale Banking Officer Aug 2025),ae-bos:S3;ae-bos:S15;ae-bos:S16;ae-bos:S17
+ae-bos,Bank of Sharjah,2025-08,"Hired Paul Cox to build a Retail and Private Banking franchise from inception, with a premium proposition and growing emphasis on wealth management and advisory",ae-bos:S3;ae-bos:S17
+ae-bos,Bank of Sharjah,2026-03,"FY2025 record net profit AED 729m (+89%); CEO's 2026 priorities: faster growth in lending and capital markets, customer experience, scalable platform",ae-bos:S12;ae-bos:S2
+ae-bos,Bank of Sharjah,2026-10-08,Partnership with Emirates Face Recognition; facial authentication live for fund transfers; mobile app and web upgrade planned,ae-bos:S18
+ae-cbd,Commercial Bank of Dubai,2026-09-08,"Press room lists MEED's 'MENA Best Digital Bank' (MENA Banking Excellence Awards 2026 – Retail, Digital & SME) and MEA Finance Banking Technology Awards 2026 recognitions.",ae-cbd:S17
+ae-cbd,Commercial Bank of Dubai,2026-07-30,"Launched CBD Invest (digital wealth inside the CBD Mobile App) for affluent, Elite and Private Banking customers: US stocks/ETFs, Wealth 360 aggregation, goal-based investing and analytics; more asset classes planned. Trade press dated 29–30 Jul 2026.",ae-cbd:S18;ae-cbd:S19;ae-cbd:S11
+ae-cbd,Commercial Bank of Dubai,2026-07-15,Issued a USD 600m AT1 perpetual non-call-6 capital security.,ae-cbd:S3;ae-cbd:S4
+ae-cbd,Commercial Bank of Dubai,2026,"Launched 'UP by CBD', a mobile bank for micro and small businesses.",ae-cbd:S4
+ae-cbd,Commercial Bank of Dubai,2026-07-13,"Prospectus states the Board approved a separate operational plan aimed at making CBD a leading UAE financial services provider for HNWIs and affluent customers, with 'selective and measured growth' in Personal Banking.",ae-cbd:S5
+ae-cbd,Commercial Bank of Dubai,2025,"Activated Open Finance at scale (first UAE bank, per CBD), completed ISO 20022 migration, launched Jaywan cards and moved to a dual-site Tier III private cloud.",ae-cbd:S6;ae-cbd:S5
+ae-cbd,Commercial Bank of Dubai,2025-09,Hired Dhiraj Kunwar from RAKBANK to lead Retail & Business Banking.,ae-cbd:S5
+ae-cbi,Commercial Bank International,2023-07-12,"General assembly approved a rights issue of up to AED 889.1m (decided 4 Oct 2023); share capital still AED 1,737m at 30 Jun 2026",ae-cbi:S3;ae-cbi:S1
+ae-cbi,Commercial Bank International,2025,Strategy refresh: banking-as-a-service; 'Build Generational Wealth for Affluent Customers' through a wealth proposition with select partners; corporate services; emerging corporates; strengthen the core,ae-cbi:S3
+ae-cbi,Commercial Bank International,2025,New core banking system rolled out (core banking transformation programme overseen by the Board),ae-cbi:S3
+ae-cbi,Commercial Bank International,2025,Decided an orderly closure of the Islamic window after a CBUAE fine on Islamic-window governance requirements,ae-cbi:S3
+ae-cbi,Commercial Bank International,2025-10,"Launched CBIx, innovation lab and corporate venture-capital platform; CBIx Investment Ltd and CBIx Tech Labs Ltd (DIFC) consolidated from 2026",ae-cbi:S3;ae-cbi:S12;ae-cbi:S1
+ae-cbi,Commercial Bank International,2026-03-02,AGM: board election for a 3-year term; no dividend for FY2025 (board recommendation to reinvest),ae-cbi:S10;ae-cbi:S3
+ae-cbi,Commercial Bank International,2026-07-30,"H1 2026 pre-tax profit AED 156m (+68%), helped by legacy-issue recoveries; total assets AED 23bn",ae-cbi:S11;ae-cbi:S1
+ae-dib,Dubai Islamic Bank,2022-11-17,Alliance with Al Ramz Capital for online trading services under DIB's SCA introducer licence,ae-dib:S14
+ae-dib,Dubai Islamic Bank,2023-06-04,"Launched 'DIB alt' digital umbrella brand (135+ services across app, online, WhatsApp, ATMs)",ae-dib:S23
+ae-dib,Dubai Islamic Bank,2024-12-30,MoU with Crypto.com incl. exploring tokenised Islamic sukuk,ae-dib:S21
+ae-dib,Dubai Islamic Bank,2025-10,Partnerships with Finshape (DBOS) and HCLTech (AI) announced at GITEX GLOBAL 2025,ae-dib:S20;ae-dib:S5
+ae-dib,Dubai Islamic Bank,2026-03,"AR 2025 states an aspiration to deepen digital and product platforms 'from wealth tech, digital banking, and embedded finance to impact investing and Islamic fintech'. 5-year strategy (2022–26) includes 'launch of a new digital proposition' and 'build ancillary business and newer revenue streams'",ae-dib:S5
+ae-dib,Dubai Islamic Bank,2026-06-30,Dubai Islamic Financial Services LLC (brokerage subsidiary) liquidated during H1 2026,ae-dib:S3
+ae-dib,Dubai Islamic Bank,2026-07-14,H1 2026: 83% of new CASA customers onboarded digitally; 55% of transactions via the DIB app; digital registrations +16% YoY,ae-dib:S4
+ae-dib,Dubai Islamic Bank,2026-09-30,"Fadhel Abdulbaqi Al Ali (DFSA Chairman, ex-CEO Dubai Holding, ex-Deputy CEO FAB) appointed Chairman",ae-dib:S7;ae-dib:S8
+ae-ei,Emirates Islamic,2025,"EI+ digital wealth proposition expanded to equities and sukuk; Fractional Sukuk minimum reduced from USD 25,000 to USD 5,000; Alpha Youth proposition; first Amazon co-branded credit card in MENA; wealth dashboard for EI non-wealth clients.",ae-ei:S5;ae-ei:S17
+ae-ei,Emirates Islamic,2025-06-10,Trading in EI shares suspended on DFM after ENBD's mandatory acquisition of the remaining minority; EI delisted and became 100% ENBD-owned.,ae-ei:S3;ae-ei:S14;ae-ei:S15
+ae-ei,Emirates Islamic,2025-07-21,EI CD Limited incorporated; Chairman cites launch of UAE's first Shariah-compliant Certificate of Deposit Programme.,ae-ei:S3;ae-ei:S4
+ae-ei,Emirates Islamic,2026,EI Private Banking named 'Middle East's Best for Client Service' (Euromoney Private Banking Awards 2026); bank states plans to expand Private Banking with focus on regional expansion and innovation.,ae-ei:S12
+ae-ei,Emirates Islamic,2026-04-27,Launched Shariah-compliant digital gold and silver investment in EI+ (first Islamic bank in UAE per EI).,ae-ei:S11
+ae-ei,Emirates Islamic,2026-07-23,"H1 2026 results: total income AED 3.2bn (+8%), net profit AED 1.7bn, total assets AED 153.8bn, CET1 14.8%.",ae-ei:S4;ae-ei:S2
+ae-eib,Emirates Investment Bank,2025-06-17,CFO Kishore Venkat appointed interim CEO (CBUAE-confirmed) while a permanent CEO was recruited,ae-eib:S11
+ae-eib,Emirates Investment Bank,2025-06-19,Christophe de Backer (ex-Group CEO Edmond de Rothschild) elected independent director,ae-eib:S10
+ae-eib,Emirates Investment Bank,2025-10-23,"Avaloq selected for core wealth platform, RM Workplace, web/mobile banking and APIs",ae-eib:S12
+ae-eib,Emirates Investment Bank,2025,"Multi-year transformation launched to reposition as a digital private bank: new technology architecture, AI-enabled RM tools, expanded product platform; 2026 plans for a refreshed brand, renewed private banking proposition and a possible UAE flagship",ae-eib:S2;ae-eib:S3
+ae-eib,Emirates Investment Bank,2026-06-30,"Transformation ongoing: AED 42.7m of intangible assets purchased in H1 2026, outstanding system-transformation commitments of AED 45.0m, G&A up 99% year on year",ae-eib:S1
+ae-enbd,Emirates NBD,2023-10,"Launched Digital Wealth platform inside ENBD X: 11,000+ global and regional stocks/ETFs across 21 markets, three-step onboarding.",ae-enbd:S24
+ae-enbd,Emirates NBD,2024-01-11,"Added 232+ mutual funds (ENBD AM, BlackRock, Fidelity, PIMCO) to ENBD X with Morningstar ratings.",ae-enbd:S24
+ae-enbd,Emirates NBD,2025-03-06,Liv launched crypto trading in the Liv X app with Aquanow (execution) and Zodia Custody.,ae-enbd:S27
+ae-enbd,Emirates NBD,2025,Fractional UAE government bonds and sukuk made available to retail clients on ENBD X; Private Assets Advisory & Execution introduced; BlackRock partnership for private credit and Shariah funds; KSA local-currency equity funds and DPM; ENBD X launched in KSA; next-generation wealth management products platform implemented (international).,ae-enbd:S8;ae-enbd:S9
+ae-enbd,Emirates NBD,2025-06-10,Bought out remaining Emirates Islamic minority; EI shares suspended and delisted from DFM; EI now 100% owned.,ae-enbd:S3
+ae-enbd,Emirates NBD,2025-12-03,Private Banking strategic agreement with DIFC Family Wealth Centre for UHNW families.,ae-enbd:S15
+ae-enbd,Emirates NBD,2026-02-02,Group CIO Wealth Management published 2026 Global Investment Outlook ('Eyes Wide Open').,ae-enbd:S16
+ae-enbd,Emirates NBD,2026-06-18,Completed acquisition of 60% of RBL Bank (India) for INR 260.1bn (AED 10bn); consolidated from that date.,ae-enbd:S2
+ae-enbd,Emirates NBD,2026-07-06,"Techstars partnership targeting agentic fintech incl. wealth management (Group CDIO Miguel Rio-Tinto, Neeraj Makin named).",ae-enbd:S28
+ae-enbd,Emirates NBD,2026-07-23,H1 2026: Group AUM* USD 105bn; RBWM AUM +29% YoY; digital wealth trading volumes doubled; digital margin trading facility upgraded; Rewards Hub on ENBD X.,ae-enbd:S4;ae-enbd:S5
+ae-enbd,Emirates NBD,2026-08-02,"Emirates NBD Egypt agreed to acquire HSBC Egypt's retail banking business (portfolio, branches, customers, staff), positioned as a retail and premium banking franchise; subject to approvals.",ae-enbd:S12
+ae-enbd,Emirates NBD,2026-08-10,Partnership with Dubai Future District Fund covering fintech/AI incl. WealthTech (Marwan Hadi quoted).,ae-enbd:S29
+ae-enbd,Emirates NBD,2026,"Stated 2026 priorities: 'Grow affluent and wealth management by expanding wealth assets, with a strong focus on the UAE'; 'Drive large-scale digital and data transformation across retail and wealth propositions and platforms'; scale wealth management across affluent and priority segments in international markets.",ae-enbd:S9
+ae-fab,First Abu Dhabi Bank,2024-04-02,Strategic partnership with Microsoft; AI Innovation Hub for financial services,ae-fab:S23
+ae-fab,First Abu Dhabi Bank,2025,"Reorganised operating segments; created the Personal, Business, Wealth & Privileged Client Banking Group under Futoon Al Mazrouei",ae-fab:S4;ae-fab:S25
+ae-fab,First Abu Dhabi Bank,2025-12-09,Strategic partnership with Amundi to expand investment solutions across client segments,ae-fab:S22
+ae-fab,First Abu Dhabi Bank,2026-01-12,Strategic partnership with T. Rowe Price as investment partner,ae-fab:S21
+ae-fab,First Abu Dhabi Bank,2026-02,Reported hire of Gareth Nicholson (ex-Nomura International Wealth Management CIO) as CIO of FAB Asset Management; Group Head of Global Private Banking Michel Longhini left to become CEO of Emirates Investment Bank,ae-fab:S28;ae-fab:S29;ae-fab:S26;ae-fab:S27
+ae-fab,First Abu Dhabi Bank,2026-05-22,"FAB Asset Management Limited authorised by ADGM FSRA (asset and fund management, Islamic financial business; professional clients only)",ae-fab:S20
+ae-fab,First Abu Dhabi Bank,2026-07-23,H1 2026 results: retail AUMs +20% yoy; PBW&PCBG deposits +AED 22bn (+7% ytd); FAB cites investment in wealth capabilities and AI agents (>20% productivity uplift),ae-fab:S6;ae-fab:S7
+ae-fab,First Abu Dhabi Bank,2026-09,"Investor presentation: Copilot for all employees, 4,800+ agents, 150+ AI use cases live or in progress, AI Innovation Hub of 60+ specialists",ae-fab:S9
+ae-financehouse,Finance House,2025-07-16,"Launched investnation credit card: credit limit up to 90% of an earmarked investnation investment (minimum AED 3,000) while funds keep earning up to 7% a year",ae-financehouse:S17;ae-financehouse:S16
+ae-financehouse,Finance House,2026-06-11,"Dhabi Ltd (100% subsidiary, FSRA FSP 200020, Prudential Category 1) launched in ADGM as a digital-first cross-border bank offering current, savings and fixed-deposit accounts to individuals and businesses",ae-financehouse:S7;ae-financehouse:S8;ae-financehouse:S9
+ae-financehouse,Finance House,2026-02-11,"FY2025 Board report: focus on capital ratios, liquidity, asset quality, cloud technology and 'digitally enabled Products & Services'; no dividend, to preserve cash for 'upcoming strategic initiatives'",ae-financehouse:S6
+ae-intlsecurities,International Securities,2019-11-01,Became an IHC Group company; later rebranded to International Securities,ae-intlsecurities:S2
+ae-intlsecurities,International Securities,2025,"IHC moved its 100% holding into International Financial Assets Holding RSC Ltd (95% IHC), IHC's financial-services sub-holding",ae-intlsecurities:S5
+ae-intlsecurities,International Securities,,"Launched 'Tabadul Hub' single-platform access to ADX, BHB, MSX and AIX (date not stated)",ae-intlsecurities:S1
+ae-investbank,Invest Bank,2019-04-10,"Government of Sharjah became 50.07% shareholder (1,592,857,143 new shares at AED 0.7 per share, AED 1.1bn); capital rose to AED 3.2bn at the time",ae-investbank:S1
+ae-investbank,Invest Bank,2023-04-27,"EGM approved recapitalisation plan: AED 2.6bn rights issue (capital AED 3.2bn, ~263bn shares at AED 0.0121684) and Government of Sharjah guarantee over legacy assets; CAR rose from 2.77% (end-2022) to 38.6% (end-2023)",ae-investbank:S1;ae-investbank:S3
+ae-investbank,Invest Bank,2024,Received AED 0.5bn under the Sharjah guarantee; implemented a cloud-based core banking solution,ae-investbank:S1
+ae-investbank,Invest Bank,2024-09,Vice Chairman Idris Al Rafi took over as CEO and rebuilt the management team,ae-investbank:S1
+ae-investbank,Invest Bank,2025,Launched DigiBank mobile banking app and registered on Aani instant payments; first net profit in eight years (about AED 0.2bn); accumulated losses down to AED 1.5bn (48.57% of capital),ae-investbank:S1;ae-investbank:S7
+ae-investbank,Invest Bank,2025-10-10,"CBUAE approved Islamic banking window, to operate as 'Invest Bank – Islamic'",ae-investbank:S6;ae-investbank:S1
+ae-investbank,Invest Bank,2025-10,Launched three-year strategy 'Midaf' focused on core-business growth and digital transformation (Q4 2025),ae-investbank:S1
+ae-investbank,Invest Bank,2026-03-25,General assembly amended the Articles of Association (published Sep 2026),ae-investbank:S11
+ae-investbank,Invest Bank,2026-10-07,"Capital Intelligence raised LT FCR to BBB+ (from BBB-), citing franchise development by new management and retail/SME growth",ae-investbank:S3;ae-investbank:S4
+ae-investbank,Invest Bank,2026-10-15,EGM to vote on 1-for-82.18 share consolidation restoring AED 1 nominal value (capital unchanged at AED 3.2bn),ae-investbank:S5
+ae-mashreq,Mashreq,2024-11-18,"Appointed Philip Philippides (ex-BlackRock/iShares, Amundi) as CEO of Mashreq Capital to grow AUM and new investment solutions",ae-mashreq:S20
+ae-mashreq,Mashreq,2025-04-10,Partnership with Goldman Sachs Asset Management for discretionary portfolios for wealth clients; Kapur called it a milestone in 'institutionalizing our investment platform',ae-mashreq:S14
+ae-mashreq,Mashreq,2025-07-25,Appointed Xi Liang as Head of Artificial Intelligence,ae-mashreq:S34
+ae-mashreq,Mashreq,2025-11-24,"Launched Mashreq NEO, a fully digital Shariah-compliant retail bank, in Pakistan",ae-mashreq:S35
+ae-mashreq,Mashreq,2025-12-03,"Mashreq Capital launched BITMAC, a DFSA-regulated multi-asset retail fund (90% global equities/fixed income, 5% gold, 5% Bitcoin via ETFs), minimum USD 100",ae-mashreq:S19
+ae-mashreq,Mashreq,2026-02-02,FY2025 results: CBUAE designated Mashreq a D-SIB during 2025,ae-mashreq:S4
+ae-mashreq,Mashreq,2026-06-09,"Private-markets (pre-IPO) access for HNW/family-office clients via Neovision-managed ADGM fund on Red Lions Capital's Digital Investment Platform, with Allfunds integration",ae-mashreq:S18
+ae-mashreq,Mashreq,2026-07-30,H1 2026 investor presentation: RISE strategy includes 'selective private banking services' and NEO expansion; AI-powered advisory tools cited by CEO,ae-mashreq:S5
+ae-mbank,Mbank (Al Maryah Community Bank),2021-04-13,"CBUAE licence for what Gulf News called the first all-digital bank in the UAE, announced by the Chairman",ae-mbank:S15
+ae-mbank,Mbank (Al Maryah Community Bank),2021-07,Reported final CBUAE approval and availability of banking products and services to the community (month from a search-result summary of an IBS Intelligence article),ae-mbank:S25
+ae-mbank,Mbank (Al Maryah Community Bank),2021-06-06,Bank incorporated and registered as an LLC in Abu Dhabi (FY2025 statements),ae-mbank:S4
+ae-mbank,Mbank (Al Maryah Community Bank),2021-06-14,First board of directors (11 members) appointed under Chairman Tariq Ahmed Al Masoud,ae-mbank:S17
+ae-mbank,Mbank (Al Maryah Community Bank),2024-07-16,Partnership with FAB for cash and cheque deposits at 396 ATMs and CDMs,ae-mbank:S20
+ae-mbank,Mbank (Al Maryah Community Bank),2024-10-14,AED Stablecoin LLC announced in-principle CBUAE approval to issue AE Coin under the Payment Token Services Regulation (Circular 2/2024); General Manager Ramez Rafeek quoted,ae-mbank:S21
+ae-mbank,Mbank (Al Maryah Community Bank),2025-11-28,"Opened a new branch at Hili Mall, Al Ain",ae-mbank:S19
+ae-mbank,Mbank (Al Maryah Community Bank),2026-02-16,AEC Wallet received CBUAE approval to top up AE Coin through cryptocurrency settlement,ae-mbank:S22
+ae-mbank,Mbank (Al Maryah Community Bank),2026-04-22,"Announced a newly formed board with Ghannam Al Mazrouei as Vice Chairman; stated plans to accelerate fintech investment, expand the branch network and raise Emiratisation to 40%",ae-mbank:S18
+ae-mbank,Mbank (Al Maryah Community Bank),2026-07-30,Board approved FY2025 statements: first net loss (AED 11.6m); deposits AED 7.25bn; share capital increased to AED 700m,ae-mbank:S4
+ae-nbf,National Bank of Fujairah,2025-02-28,NBF Direct app integrated with UAE Pass (per media-centre listing); app upgraded with AI-powered self-service in 2025,ae-nbf:S18;ae-nbf:S4
+ae-nbf,National Bank of Fujairah,2025-07-17,NBF Al Samy HNW proposition promoted to new-to-bank clients with net worth 1m+,ae-nbf:S12
+ae-nbf,National Bank of Fujairah,2026,Annual report 2025: 'The implementation of a digital wealth management platform in 2026 will be a welcome addition'; strategy adds affluent-to-HNW focus,ae-nbf:S4
+ae-nbf,National Bank of Fujairah,2026-06-25,Three MEA Finance Banking Technology Awards 2026 incl. Best Core Banking Infrastructure Implementation (with GBM) and Best Cloud Implementation,ae-nbf:S14
+ae-nbf,National Bank of Fujairah,2026-07-08,Enterprise AI upskilling programme with Accenture LearnVantage,ae-nbf:S13
+ae-nbq,National Bank of Umm Al Qaiwain,2025,New retail digital banking platform (mobile and internet) live; UAE Pass login; Aani; Apple Wallet extensions; cloud strategy prepared with a consultancy; loan origination modernisation due 2026; core banking and treasury platform modernisation planned; Open Finance programme,ae-nbq:S3
+ae-nbq,National Bank of Umm Al Qaiwain,2025-11-13,Accredited by Dubai RERA as trustee bank for real estate escrow accounts,ae-nbq:S10
+ae-nbq,National Bank of Umm Al Qaiwain,2026-03-09,AGM elected the 2026-2029 board and approved a 20% cash dividend (AED 400m); Islamic window confirmed closed and in run-off,ae-nbq:S5
+ae-rakbank,RAKBANK (The National Bank of Ras Al Khaimah),2025-07-30,Launched in-app crypto brokerage with Bitpanda; claims first conventional UAE bank to offer retail crypto trading,ae-rakbank:S17;ae-rakbank:S4
+ae-rakbank,RAKBANK (The National Bank of Ras Al Khaimah),2025,Opened Elite centres at Opus Tower (Dubai) and Omnia Tower (Abu Dhabi); remote account opening for non-resident Elite clients; digital mutual-fund subscription journey; submitted a stablecoin licence application to CBUAE and set up RAKBANK Digital Assets LLC,ae-rakbank:S4;ae-rakbank:S1
+ae-rakbank,RAKBANK (The National Bank of Ras Al Khaimah),2026-02-18,2026 Personal Banking priority stated: 'Expand wealth management offerings - broaden the product suite and digitise wealth journeys'; 2026 is the final year of a four-year digital transformation strategy,ae-rakbank:S4
+ae-rakbank,RAKBANK (The National Bank of Ras Al Khaimah),2026-03-20,Euromoney Private Banking Awards 2026: Middle East's and UAE's best for premier banking,ae-rakbank:S20;ae-rakbank:S2
+ae-rakbank,RAKBANK (The National Bank of Ras Al Khaimah),2026-03-23,Completed sale of merchant acquiring to Network International (AED 551m; AED 473m gain in H1 2026),ae-rakbank:S6;ae-rakbank:S2
+ae-rakbank,RAKBANK (The National Bank of Ras Al Khaimah),2026-07-23,"H1 2026: refreshed brand and new Personal Banking mobile app; 'one of the most diversified wealth platforms' incl. crypto, commodities, bonds, funds and sukuk (Group CEO)",ae-rakbank:S2
+ae-rakbank,RAKBANK (The National Bank of Ras Al Khaimah),2026-08-24,Bitcoin trading opened to RAKislamic customers in the app via Bitpanda,ae-rakbank:S18
+ae-rakbank,RAKBANK (The National Bank of Ras Al Khaimah),2026-10-12,"Global equities in-app (30,000+ stocks/ETFs) with a zero-trading-fee promotion to 31 Oct 2026; launch date not published",ae-rakbank:S13
+ae-ruya,Ruya Community Islamic Bank,2024-02-29,"Announced launch as a digital-native Islamic community bank licensed by the CBUAE as a specialised bank, with head office and first community centre in Marsa, Ajman; Chairman and Vice Chairman named",ae-ruya:S6;ae-ruya:S7;ae-ruya:S8
+ae-ruya,Ruya Community Islamic Bank,2024-04-04,"CEO Christoph Koster said the bank was 'all set to go operational', with a capital base of over Dh300 million and UAE holding-company promoters",ae-ruya:S9
+ae-ruya,Ruya Community Islamic Bank,2024-08-06,LuLu Exchange cash-deposit partnership announced (account opening via UAE PASS in under five minutes),ae-ruya:S10
+ae-ruya,Ruya Community Islamic Bank,2025-04-24,"Launched in-app virtual-asset trading including Bitcoin with Fuze; company says first Islamic bank globally to do so (company claim, not independently verified)",ae-ruya:S11
+ae-ruya,Ruya Community Islamic Bank,2025-12-04,"CEO described a Retail Islamic Wealth platform (Shariah-screened portfolios across stocks, ETFs, gold, sukuk and digital assets), a digital SME financing platform and BaaS infrastructure for fintech partners",ae-ruya:S13
+ae-ruya,Ruya Community Islamic Bank,2026-04-16,"Launched the ruya Mastercard Cashback Credit Card (flat 2% cashback, tracked in the app)",ae-ruya:S14
+ae-sarwa,Sarwa,2021-01-05,Saudi CMA granted Sarwa a FinTech Experimental Permit to test robo-advisory and automated discretionary management in KSA (current status unknown),ae-sarwa:S20
+ae-sarwa,Sarwa,2021-08-09,USD 15m Series B led by Mubadala; plans included Sarwa Trade and Sarwa Crypto,ae-sarwa:S18
+ae-sarwa,Sarwa,2024-05-21,"DFSA (USD 191,100) and FSRA (USD 122,500 plus a required governance review) penalties over a 2023 offer of securities linked to parent-entity shares to clients without an approved prospectus (about 144 investors, about USD 2.1m, all reversed)",ae-sarwa:S3;ae-sarwa:S22;ae-sarwa:S23
+ae-sarwa,Sarwa,2024-06-14,DIFC entity Sarwa Digital Wealth Limited shown as withdrawn on the DFSA register (search snippet),ae-sarwa:S24
+ae-sarwa,Sarwa,2024-10-09,Launched US options trading (Level 1–2) via Alpaca; claims first fintech in the Middle East to do so,ae-sarwa:S21;ae-sarwa:S10
+ae-sarwa,Sarwa,2025,"Launched Sarwa Private Wealth (early 2025, >USD 500k) and the Black Swan Protection Program with Universa Investments",ae-sarwa:S17;ae-sarwa:S4;ae-sarwa:S7
+ae-sarwa,Sarwa,2025-11-18,Time-limited uncapped 3% match on transfers of USD 20k+ from other brokers into Sarwa Trade (18 Nov–2 Dec 2025),ae-sarwa:S13
+ae-sarwa,Sarwa,2026-05-04,"Announced it had crossed USD 1bn in client assets, 'first homegrown UAE fintech' to do so",ae-sarwa:S14;ae-sarwa:S15;ae-sarwa:S16
+ae-shuaa,SHUAA Capital,2025-03-28,"Completed balance-sheet restructuring: AED 274.4m MCBs converted at AED 0.32/share (857.5m shares), AED 85m new MCBs (265.6m shares), remaining noteholders settled at 20% of principal; equity rose from AED 41m to AED 554m by end-2025",ae-shuaa:S5;ae-shuaa:S7
+ae-shuaa,SHUAA Capital,2026,Launched equity trading business; hired Head of Product and Structuring,ae-shuaa:S8;ae-shuaa:S3
+ae-shuaa,SHUAA Capital,2026-05-10,Strategic partnership with Key Capital on MENA venture capital secondaries,ae-shuaa:S9
+ae-shuaa,SHUAA Capital,2026-08-14,Q2 2026 results: return to quarterly profit (AED 9.1m); still negotiating restructuring/refinancing of its bank facility (waiver to 31 Aug 2026),ae-shuaa:S8;ae-shuaa:S5
+ae-sib,Sharjah Islamic Bank,2026-05,"Completed a rights issue of 1,078,559,212 new shares at AED 2.40 (net AED 2,583,542k credited to equity). Share capital rose to AED 4.31bn and CAR to 19.5%. Purpose: capital headroom and balance-sheet growth.",ae-sib:S1;ae-sib:S3;ae-sib:S11;ae-sib:S12
+ae-sib,Sharjah Islamic Bank,2026-03-30,Launched a strategic rights issue of up to AED 2.59bn with Emirates NBD Capital as lead manager. The Government of Sharjah committed to its full pro-rata take-up.,ae-sib:S11;ae-sib:S10
+ae-sib,Sharjah Islamic Bank,2025-12-19,Released the SIFS Trading iOS app (v1.0) for Shari'a-compliant trading through the brokerage subsidiary.,ae-sib:S15
+ae-sib,Sharjah Islamic Bank,2025,Digital onboarding grew 110% year on year (ESG report key highlights).,ae-sib:S4
+ae-stashaway,StashAway (MENA),2020-10-28,DFSA licence for StashAway Management (DIFC) Limited (managing assets with retail endorsement); company called itself the first digital wealth manager with such a licence,ae-stashaway:S7;ae-stashaway:S19
+ae-stashaway,StashAway (MENA),2024-09-25,Launched StashAway Reserve HNW offering and Hamilton Lane private credit for MENA clients,ae-stashaway:S5
+ae-stashaway,StashAway (MENA),2025-09-09,Launched Shariah Global Portfolio in the UAE,ae-stashaway:S14
+ae-stashaway,StashAway (MENA),2025-12,Added Private Equity and Private Infrastructure portfolios (Hamilton Lane) for UAE HNW clients; affluent segment >75% of UAE growth over the prior year,ae-stashaway:S15
+ae-stashaway,StashAway (MENA),2026-08-10,Raaed Sheibani registered with the DFSA as Senior Executive Officer of the DIFC entity,ae-stashaway:S8
+ae-uab,United Arab Bank,2025-07-24,Partnership with UAE fintech Lune for AI-powered personalised mobile banking,ae-uab:S10
+ae-uab,United Arab Bank,2025-08,"AED 1.03bn rights issue completed (fully subscribed), share capital rising to AED 3.09bn",ae-uab:S3
+ae-uab,United Arab Bank,2025-08-21,ADX partnership: IPO subscription in the UAB mobile app,ae-uab:S9
+ae-uab,United Arab Bank,2026,"Annual report 2025: Personal Banking to introduce 'virtual assets and equities', strengthen Premium Banking and digitise loans, cards and account opening from 2026",ae-uab:S3
+ae-uab,United Arab Bank,2026-06-25,"New branch at Dalma Mall, Abu Dhabi, part of mall-branch expansion",ae-uab:S11
+ae-wio,Wio Bank,2022-09-13,"Official launch as the region's first 'platform bank' (digital apps, embedded finance, BaaS); Wio Business launched 5 Sep 2022",ae-wio:S12
+ae-wio,Wio Bank,2024-10-09,"Wio Securities expanded Wio Invest to UAE stocks, ETFs, fractional shares, recurring orders, analyst ratings and crypto via Fuze",ae-wio:S22
+ae-wio,Wio Bank,2024-10-10,Arta Finance announced Wio Invest as first partner of its wealth-as-a-service offering,ae-wio:S19
+ae-wio,Wio Bank,2025-01-15,Recurring orders for Lunate Chimera ETFs ('first UAE broker' to offer this),ae-wio:S21
+ae-wio,Wio Bank,2025-05-15,H.E. Mansour AlMulla (then ADQ Deputy Group CEO) named Chairman with four new directors,ae-wio:S10
+ae-wio,Wio Bank,2025-07-23,Wio Invest passed USD 1bn AUA and USD 4bn YTD order volume; Wio Wealth managed portfolios launched as its latest capability,ae-wio:S8
+ae-wio,Wio Bank,2025-10-08,Customer deposits passed AED 50bn (AED 52bn Sep 2025); customer base +72% YoY,ae-wio:S9
+ae-wio,Wio Bank,2026-01-30,"SCFEA resolution consolidating ADQ's assets and investments, including Wio Bank, under L'IMAD Holding",ae-wio:S18
+ae-wio,Wio Bank,2026-06,"Wio Invest launched iShares UCITS ETFs (min USD 10) with BlackRock as preferred partner, 'starting with BlackRock'",ae-wio:S15
+ae-wio,Wio Bank,2026-06-22,"With ADX, launched a fully digital Loan Against Investments against ADX-listed shares in the Wio Personal app",ae-wio:S16
+ae-zand,Zand Bank,2021-12-20,Zand's shareholders completed acquisition of a majority of Dubai Bank PJSC as part of the establishment roadmap,ae-zand:S12
+ae-zand,Zand Bank,2022-06-30,CBUAE licence received; corporate banking launched first,ae-zand:S9
+ae-zand,Zand Bank,2022-11-18,Michael Chan named CEO after co-founder CEO Olivier Crespin left,ae-zand:S10
+ae-zand,Zand Bank,2024-12-13,Launched VARA-licensed institutional digital-asset custody,ae-zand:S14;ae-zand:S1
+ae-zand,Zand Bank,2024-12-20,"General assembly approved merger with Eradah Capital LLC, a wholly owned subsidiary and a Zand Group holding structure; 2024 CEO letter set the 2025 goal of launching wealth and asset management services",ae-zand:S5
+ae-zand,Zand Bank,2025-06-18,"Fitch assigned BBB+ long-term IDR, Stable outlook",ae-zand:S4;ae-zand:S13
+ae-zand,Zand Bank,2025-09-30,Existing shareholders injected AED 250m additional share capital (second tranche),ae-zand:S4
+ae-zand,Zand Bank,2025-11-17,CBUAE approval and launch of AED-backed stablecoin (Zand AED) issued by Zand Trust on public blockchains,ae-zand:S17;ae-zand:S4
+ae-zand,Zand Bank,2025-12-26,Merger with Eradah Capital LLC completed; paid-up capital AED 2.35bn,ae-zand:S4
+ae-zand,Zand Bank,2026-08-25,Announced USDC support with Circle,ae-zand:S19
+bh-alsalam,Al Salam Bank,2022-06,Al Salam Invest launched inside the Al Salam Bank app for Private Banking and Al Ruwad clients (article dated 3 Jun 2022).,bh-alsalam:S11;bh-alsalam:S20
+bh-alsalam,Al Salam Bank,2022-07,"Acquisition of Ithmaar Holding's retail (consumer) banking business, part of a USD 2.2bn asset package that also included 55.91% of Solidarity Group and an interest tied to a 26.19% BBK stake; CBB final approval Jun 2022 and completion reported as Jul 2022 (press, search results only).",bh-alsalam:S17;bh-alsalam:S3
+bh-alsalam,Al Salam Bank,2024-05-15,Completed acquisition of Kuwait Finance House (Bahrain) B.S.C. (c) (asset base above BD 1.49bn per the bank); now carried as ASB Finance B.S.C. (c).,bh-alsalam:S18;bh-alsalam:S3
+bh-alsalam,Al Salam Bank,2024-11,ASB Capital launched in the DIFC as a DFSA Category 3A asset manager with stated AUM of USD 4.5bn.,bh-alsalam:S15;bh-alsalam:S12
+bh-alsalam,Al Salam Bank,2025-04,ASB Capital and State Street Global Advisors announced a Shariah-compliant global equity fund.,bh-alsalam:S16
+bh-alsalam,Al Salam Bank,2025-11-04,XASB Sukuk ETF (ASB Capital with Xtrackers by DWS) listed on the London Stock Exchange; bank says it is buyable in-app via Al Salam Invest from USD 30.,bh-alsalam:S14;bh-alsalam:S12
+bh-alsalam,Al Salam Bank,2026-02-09,"FY2025 results: record attributable profit BD 76.8m (+30.2%); CEO cites banking, asset management (ASB Capital) and takaful (Solidarity Group) as revenue drivers and a group 'digital in execution'.",bh-alsalam:S5
+bh-alsalam,Al Salam Bank,2026-08-12,H1 2026 results: record semi-annual attributable profit USD 122.8m (+23.8%); total assets USD 22.82bn.,bh-alsalam:S6;bh-alsalam:S7;bh-alsalam:S8
+bh-alsalam,Al Salam Bank,2026-10-05,ASB Capital and StepStone launch the ASB StepStone Private Financing Fund (Shariah-compliant private credit); ASB Capital AUM quoted at USD 10.2bn.,bh-alsalam:S13
+bh-bankabc,Bank ABC,2019,"Launched ila Bank, a digital mobile-only bank in Bahrain; expanded to Jordan in 2022; ila alburaq (digital Islamic) launched in 2023",bh-bankabc:S5
+bh-bankabc,Bank ABC,2024-09-08,"ila launched in-app investment in Bahrain Government Securities (T-bills, bonds, sukuk) with a direct CBB link",bh-bankabc:S15
+bh-bankabc,Bank ABC,2025,"ila completed its Temenos core migration, launched the Gulf Air co-branded card and started a carve-out into a standalone subsidiary. Financial Markets rolled out precious-metals capabilities, and ila now offers Gold & Silver Investment Accounts.",bh-bankabc:S5;bh-bankabc:S13
+bh-bankabc,Bank ABC,2025-05,Bank ABC Egypt Blue App launched using ila technology; similar launches planned in Algeria and Tunisia in 2026,bh-bankabc:S5
+bh-bankabc,Bank ABC,2026-02-01,Brendon Hopkins (Group CFO) became Acting Group CEO,bh-bankabc:S7
+bh-bankabc,Bank ABC,2026-05-12,"Paul Jennings appointed Group CEO, effective 5 Aug 2026",bh-bankabc:S7
+bh-bankabc,Bank ABC,2026,"ila launched alburaq Islamic Personal Finance (fully digital, Shari'a-compliant)",bh-bankabc:S19
+bh-bbk,BBK (Bank of Bahrain and Kuwait),2025-11-02,Non-binding MoU with NBB for reciprocal due diligence and negotiation of a potential merger; both banks appointed a multinational strategy and management consulting firm as joint adviser.,bh-bbk:S9;bh-bbk:S4
+bh-bbk,BBK (Bank of Bahrain and Kuwait),2025-11-27,"Completed transfer of HSBC Middle East Bahrain retail (consumer) business: assets acquired BHD 251.3m (loans 54.5m), deposits assumed BHD 256.5m, goodwill and intangibles BHD 33.9m (provisional).",bh-bbk:S4;bh-bbk:S25
+bh-bbk,BBK (Bank of Bahrain and Kuwait),2025,Aqeel Ghaith joined as Chief Private Banking Officer; Innovation Center with ARRAY Innovation and Tarabut open-banking/digital-assets collaboration established.,bh-bbk:S1;bh-bbk:S5
+bh-bbk,BBK (Bank of Bahrain and Kuwait),2026-03-31,At the AGM the Group CEO called the NBB merger a top priority and said completion in 2026 was still possible (press).,bh-bbk:S21
+bh-bbk,BBK (Bank of Bahrain and Kuwait),2026-04-26,Received NBB's proposal on key merger terms including an exchange ratio; board review followed. On 21 Jul 2026 BBK stated discussions were continuing.,bh-bbk:S11;bh-bbk:S10;bh-bbk:S3
+bh-bbk,BBK (Bank of Bahrain and Kuwait),2026-07-09,Announced with ARRAY Innovation a pilot of Google Cloud Universal Ledger in BBK's core banking (news listing title).,bh-bbk:S13
+bh-bbk,BBK (Bank of Bahrain and Kuwait),2026-07-29,H1 2026 results: attributable profit BHD 42.5m (+10.1%); interim dividend 7.5 fils; investment and other income +66% to BHD 18.6m; Invita sale to Silah Gulf pending.,bh-bbk:S6;bh-bbk:S3
+bh-bbk,BBK (Bank of Bahrain and Kuwait),2026-08-06,CBB approved purchase of treasury shares; daily 'Purchase of Treasury Shares' notices followed from Aug to Oct 2026 (titles only).,bh-bbk:S12
+bh-bbk,BBK (Bank of Bahrain and Kuwait),2026-10-05,"Executive-management resignation, appointment and 'Resignation of Group Chief Operating Officer' (corrective) notices filed 1-5 Oct 2026 (titles only; content not read).",bh-bbk:S12
+bh-bisb,Bahrain Islamic Bank,2025,"Wealth Management launched an Islamic credit-linked note (first in Bahrain, accredited investors); partnered with Societe Generale and Allfunds; introduced green sukuk offerings; Premium segment and Tejoori Premium savers launched in retail.",bh-bisb:S3
+bh-bisb,Bahrain Islamic Bank,2025,"Launched 'Al Murshid', an AI-powered Shari'a knowledge platform; digital adoption up (retail 68% to 74%).",bh-bisb:S3
+bh-bisb,Bahrain Islamic Bank,2026-04-12,Husain Almohri (NBB Group CE Markets & Client Solutions) appointed to the BisB board as NBB representative.,bh-bisb:S13
+bh-bisb,Bahrain Islamic Bank,2026-08-05,H1 2026 results published: profit BHD 6.5m (H1 2025: 13.2m incl. one-off real-estate income); NBB's holding rose to 80.22%.,bh-bisb:S2;bh-bisb:S15
+bh-bisb,Bahrain Islamic Bank,2026-08-11,Appointment of a Head of Special Assets disclosed on the Bourse.,bh-bisb:S14
+bh-bisb,Bahrain Islamic Bank,2026-08-16,BisB became first bank to offer Shari'a-compliant financing through the consumer lending marketplace on BenefitPay (news listing).,bh-bisb:S12
+bh-bisb,Bahrain Islamic Bank,2026-08-31,Named 'Best Islamic Bank in Bahrain' at the Euromoney Islamic Finance Awards 2026 (news listing).,bh-bisb:S12
+bh-gib,Gulf International Bank,2014-07,meem retail banking soft-launched in Saudi Arabia; began operations in Bahrain in March 2018,bh-gib:S24
+bh-gib,Gulf International Bank,2024-03-03,"Khaled Abbas appointed CEO GIB Saudi Arabia and Sara Abdulhadi CEO GIB B.S.C., taking both roles from the Group CEO",bh-gib:S11
+bh-gib,Gulf International Bank,2025-04-29,"Strategic partnership with Stanhope Capital Group for GCC wealth advisory (advisory, OCIO, discretionary); asset and wealth management described as 'a key pillar of our growth'",bh-gib:S9;bh-gib:S10
+bh-gib,Gulf International Bank,2025,GIB Capital AUM reached SAR 16.5bn (+61%); 'GiBi' internal AI large-language-model proof of concept; strategic investment in Tarabut,bh-gib:S6
+bh-gib,Gulf International Bank,2026-03-31,"H.E. Abdulaziz Al-Arifi appointed Chairman, succeeding H.E. Fahad Alsaif",bh-gib:S6
+bh-gib,Gulf International Bank,2026-06,"June 2026 investor presentation sets a five-year 'acceleration' strategy (Phase 1 H2 2026). It includes scaling private banking, KSA retail aimed at upper-mass and emerging-affluent customers, and retail partnerships 'via embedded-Finance, Non-bank Financial Institutions and Fintech'.",bh-gib:S7
+bh-gib,Gulf International Bank,2026-07-14,GIB B.S.C. established a US$3bn Certificate of Deposit Programme,bh-gib:S27;bh-gib:S7
+bh-kfhbahrain,Kuwait Finance House (Bahrain),2023-12-10,"Started operating under an Islamic retail banking licence in Bahrain after converting its conventional business. The UK followed on 22 Aug 2024, Egypt on 1 Sep 2024 and Iraq on 1 Jan 2025.",bh-kfhbahrain:S4
+bh-kfhbahrain,Kuwait Finance House (Bahrain),2025-07-10,"Legal name changed from Ahli United Bank B.S.C. (c) to Kuwait Finance House B.S.C. (c), and the DIFC branch was rebranded. AUB UK became Kuwait Finance House PLC and AUB Egypt became KFH Bank - Egypt in Jan 2025.",bh-kfhbahrain:S3;bh-kfhbahrain:S5;bh-kfhbahrain:S7
+bh-kfhbahrain,Kuwait Finance House (Bahrain),2025,Sold its stake in Ahli Bank Oman.,bh-kfhbahrain:S5
+bh-kfhbahrain,Kuwait Finance House (Bahrain),2025,"PBWM launched a GCC Discretionary Portfolio Management offering, selected structured products and an expanded mutual fund range, and formalised Advisory and DPM operating models for a 2026 launch.",bh-kfhbahrain:S5
+bh-kfhbahrain,Kuwait Finance House (Bahrain),2025,"Launched digital physical-gold buy/sell with delivery, digital onboarding and instant debit cards. A UK digital transformation programme delivered new Retail, Corporate and Private Banking platforms.",bh-kfhbahrain:S5
+bh-kfhbahrain,Kuwait Finance House (Bahrain),2026,Stated 2026 PBWM focus: scale Advisory and DPM; expand alternatives and private markets through KFH subsidiaries; enhance the mutual fund and discretionary portfolio platforms; digital transformation.,bh-kfhbahrain:S5
+bh-kfhbahrain,Kuwait Finance House (Bahrain),2026-10,"Diamond sponsor of Fintech Forward 2026 (7-8 Oct 2026, Bahrain), showcasing digital banking services.",bh-kfhbahrain:S20
+bh-khaleeji,Khaleeji Bank,2023-06-25,Renamed from Khaleeji Commercial Bank B.S.C. to Khaleeji Bank B.S.C.; trading code KHCB to KHALEEJI.,bh-khaleeji:S25
+bh-khaleeji,Khaleeji Bank,2025-01-14,Amit Yashpal appointed Chief Risk Officer (effective 14 Jan 2025).,bh-khaleeji:S24;bh-khaleeji:S9
+bh-khaleeji,Khaleeji Bank,2025-05-11,Hisham Al-Rayes resigned as Chairman (to focus on GFH Financial Group); Yousif Abdullah Taqi appointed Chairman. Razi Al Murbati joined the Board in May 2025.,bh-khaleeji:S23;bh-khaleeji:S10
+bh-khaleeji,Khaleeji Bank,2026-02-10,"FY2025 results approved: attributable profit BD 11.58m (+10.27%), total income BD 63.9m (+27.9%), 6 fils cash dividend recommended; CEO calls digital transformation a main driver.",bh-khaleeji:S6;bh-khaleeji:S26;bh-khaleeji:S27
+bh-khaleeji,Khaleeji Bank,2026-03-31,CEO Sattam Algosaibi's resignation announced (last working day 31 Mar 2026).,bh-khaleeji:S17
+bh-khaleeji,Khaleeji Bank,2026-04-01,CFO Abdulkarim Al Zakari becomes Acting CEO.,bh-khaleeji:S18
+bh-khaleeji,Khaleeji Bank,2026-06-29,Razi Al Murbati named CEO effective 17 Aug 2026 (corrective announcement; he remains a Board member).,bh-khaleeji:S19;bh-khaleeji:S28
+bh-khaleeji,Khaleeji Bank,2026-08-09,"H1 2026 results approved: profit attributable BD 0.4m vs BD 5.6m in H1 2025; Q1 2026 loss BD 2.4m, Q2 profit BD 2.8m.",bh-khaleeji:S3;bh-khaleeji:S5
+bh-khaleeji,Khaleeji Bank,2026-08-13,Haifa Sulaiman Hasan (ex-GFH Capital) becomes Head of Strategy & Transformation.,bh-khaleeji:S21
+bh-khaleeji,Khaleeji Bank,2026-08-16,Sidharth Dubey becomes AGM - Structured Products.,bh-khaleeji:S20
+bh-khaleeji,Khaleeji Bank,2026-10-01,Ahmed Ali Salem becomes General Manager - Wealth Management.,bh-khaleeji:S22
+bh-nbb,National Bank of Bahrain,2025-08,Digital wealth platform launched in NBB Digital (date from Q1 2026 investor presentation; press unveiled the digital T-bills flow on 20 Oct 2025).,bh-nbb:S6;bh-nbb:S21
+bh-nbb,National Bank of Bahrain,2025-08-14,Yusuf Ahmed Abdulla named head of Prestige Banking (press).,bh-nbb:S23
+bh-nbb,National Bank of Bahrain,2025-09-12,Bassam AlTattan appointed Head of Private Banking.,bh-nbb:S24;bh-nbb:S1
+bh-nbb,National Bank of Bahrain,2025-10-30,Upgraded fixed-income offer: stronger bond/sukuk market-making and expanded custody for institutional and individual clients (press).,bh-nbb:S22
+bh-nbb,National Bank of Bahrain,2025-11-02,Non-binding MoU with Bank of Bahrain and Kuwait (BBK) to start reciprocal due diligence and negotiate terms of a potential merger.,bh-nbb:S10;bh-nbb:S4
+bh-nbb,National Bank of Bahrain,2026-01-04,Husain Almohri takes over Group Chief Executive - Markets & Client Solutions (announced 18 Nov 2025).,bh-nbb:S25;bh-nbb:S1
+bh-nbb,National Bank of Bahrain,2026-03-03,NBB and BBK stated they were continuing their reciprocal due diligence for the potential merger; at BBK's AGM (31 Mar 2026) its CEO said completion in 2026 was still possible (press).,bh-nbb:S11;bh-nbb:S28
+bh-nbb,National Bank of Bahrain,2026-04-26,NBB submitted a proposal to BBK on key merger terms including the exchange ratio; negotiations followed. BBK said on 21 Jul 2026 discussions are continuing.,bh-nbb:S12;bh-nbb:S6;bh-nbb:S13
+bh-nbb,National Bank of Bahrain,2026-04,"Collaboration with BLME for UK Shariah property finance for HNW clients (press, search result only).",bh-nbb:S27
+bh-nbb,National Bank of Bahrain,2026-05-19,"Q1 2026 call: wealth revenue +103% y/y, structured-deposit AUM +174%, ~70% of T-bill subscriptions digital; wealth offer to add asset classes in 2026 and explore regional expansion.",bh-nbb:S6;bh-nbb:S7
+bh-nbb,National Bank of Bahrain,2026-08-10,"H1 2026 results: record Q2 attributable profit BHD 22.5m, H1 BHD 43.1m; interim dividend 10 fils proposed; management cites 124 promotions and a joint lead manager role on Bahrain's USD 1bn 10-year bond.",bh-nbb:S5;bh-nbb:S3
+bh-nbb,National Bank of Bahrain,2026-09-30,Resignation of Group CEO Usman Ahmed announced (last day 31 Dec 2026); board running a search with an independent executive-search firm; merger said to continue on its own timeline.,bh-nbb:S14;bh-nbb:S15
+intl-citi,Citi (GCC operations),2026-06-18,"Appointed Rajeev Garg Head of Wealth, Citibank UAE (Citigold, Citigold Private Client, cards), with a mandate to upgrade risk and control processes.",intl-citi:S15
+intl-citi,Citi (GCC operations),2026-04-29,"Named Karim Tannir MEA Cluster and Banking Head (Dubai) effective August; Ebru Pakcan moves to COO, International and Legacy Franchises.",intl-citi:S3
+intl-citi,Citi (GCC operations),2025-10-27,"Opened MENA regional headquarters in Kingdom Tower, Riyadh (licence received 2024).",intl-citi:S17
+intl-citi,Citi (GCC operations),2025-04-14,"Named 25-year veteran Carmen Haddad vice chair for Middle East private banking (Bloomberg, search result only).",intl-citi:S20
+intl-citi,Citi (GCC operations),2022-12-01,"Completed sale of Bahrain consumer business (retail, cards, unsecured lending; ~175 staff) to Ahli United Bank; institutional business retained.",intl-citi:S4
+intl-citi,Citi (GCC operations),2021-04-15,Strategy refresh: Asia/EMEA consumer focused on four wealth centres incl. the UAE; exits from consumer franchises in 13 markets incl. Bahrain.,intl-citi:S5
+intl-hsbc,HSBC (GCC operations),2026-08-07,HSBC Private Bank unified UAE private banking teams under Feras Al Jarmani; stated ambition to be the leading private bank in the Middle East.,intl-hsbc:S14
+intl-hsbc,HSBC (GCC operations),2026-06-22,Launched Tokenised Deposit Service in the UAE for corporate liquidity (24/7 on-chain transfers).,intl-hsbc:S26
+intl-hsbc,HSBC (GCC operations),2026-01-12,HSBC Asset Management launched UAE onshore business (Dubai branch) and 10 SCA-registered funds.,intl-hsbc:S9
+intl-hsbc,HSBC (GCC operations),2025-12-09,MISA granted HSBC a Regional HQ licence for Capital Markets and Advisory in Saudi Arabia (HSBC Capital RHQ).,intl-hsbc:S13
+intl-hsbc,HSBC (GCC operations),2025-10-13,Revamped Premier account in the UAE with Future Planner planning tool in the mobile app.,intl-hsbc:S10
+intl-hsbc,HSBC (GCC operations),2025-09-16,"Opened first Middle East wealth centre (Jumeirah, Dubai); described as HSBC's biggest IWPB investment in two decades.",intl-hsbc:S8
+intl-hsbc,HSBC (GCC operations),2024-04-02,Named Elie El Asmar CEO of new wholesale-only Oman branch (opening May 2024).,intl-hsbc:S12
+intl-scb,Standard Chartered (GCC operations),2026-07-09,"Launched Signature Select APAC Allocation Plus (VCC sub-fund, BlackRock sub-manager) to Accredited/Professional Investors in UAE Priority, Priority Private and Private Banking; eighth VCC sub-fund since Jun 2024.",intl-scb:S21
+intl-scb,Standard Chartered (GCC operations),2026-03-12,"During regional conflict, extended remote working for Dubai teams while keeping UAE services running (CEO statement).",intl-scb:S20
+intl-scb,Standard Chartered (GCC operations),2025-09-17,SC Ventures said at Money20/20 Riyadh it plans to raise a USD 250m digital-asset fund in 2026 targeting Middle East investors.,intl-scb:S24
+intl-scb,Standard Chartered (GCC operations),2025-05-21,"Global Private Bank added senior UAE hires (EMEA market head, GCC UHNW lead, RMs); group plans to invest USD 1.5bn in the Affluent business over five years.",intl-scb:S12
+intl-scb,Standard Chartered (GCC operations),2025-02-27,"Opened first Priority Private centre in Europe, Middle East and Africa in Dubai, with corridor rooms for Africa, India, China, Singapore and Jersey/UK.",intl-scb:S11
+intl-scb,Standard Chartered (GCC operations),2024-01-22,"SC Ventures announced an office in ADGM, Abu Dhabi, led by Gautam Jain.",intl-scb:S25
+kw-abk,Al Ahli Bank of Kuwait,2025,Launched ABK Wealth Management by merging Private Banking and ABK Capital (Ahli Capital); established ABK Capital DIFC (DFSA Category 3C); launched infrastructure and private equity solutions; rolled out online brokerage; started the Digital Investment Access Platform; first NexGen client programme (Geneva).,kw-abk:S5;kw-abk:S6;kw-abk:S16
+kw-abk,Al Ahli Bank of Kuwait,2025-07-01,Giel-Jan Van Der Tol became Group CEO (appointment reported July 2025).,kw-abk:S20;kw-abk:S21;kw-abk:S5
+kw-abk,Al Ahli Bank of Kuwait,2025-12,"Issued KD 30 million Tier II bond, significantly oversubscribed.",kw-abk:S6
+kw-abk,Al Ahli Bank of Kuwait,2026-02-02,Initial subscription period for the Ahli Capital USD Money Market Fund extended; closing date later moved again on 27 Apr 2026.,kw-abk:S9
+kw-abk,Al Ahli Bank of Kuwait,2026-06-24,ABK Wealth Management partnership with Barings for KD-denominated global private credit.,kw-abk:S19
+kw-abk,Al Ahli Bank of Kuwait,2026-06,CBK approved upsizing ABK's certificate-of-deposit programme from USD 500 million to USD 1.5 billion.,kw-abk:S6
+kw-abk,Al Ahli Bank of Kuwait,2026-07-29,"H1 2026 results approved; management says it is finalising a new strategy and will strengthen retail, corporate and wealth propositions, digital banking, Open Banking and AI.",kw-abk:S8;kw-abk:S7;kw-abk:S2
+kw-boubyan,Boubyan Bank,2021,Nomo launched as a UK-based Islamic digital bank (trading name of BLME) for international/GCC customers.,kw-boubyan:S30;kw-boubyan:S4
+kw-boubyan,Boubyan Bank,2025-01-14,Boubyan and Gulf Bank agreed to call off the previously disclosed merger feasibility project.,kw-boubyan:S10
+kw-boubyan,Boubyan Bank,2025-04-22,Appointed Dalal Al-Ghunaim as Chief Strategy Officer.,kw-boubyan:S8
+kw-boubyan,Boubyan Bank,2025,"Boubyan Capital completed four closed-ended fund subscriptions, upgraded its app and trading platform and added the Chinese market; BLME Capital (KSA) reported strong AUM growth; Nomo enhanced its UK Islamic property finance.",kw-boubyan:S4
+kw-boubyan,Boubyan Bank,2025,"Upgraded Msa3ed, the AI assistant in the Boubyan app (voice-to-voice in Kuwaiti dialect); AI predictions across 25 transactional services.",kw-boubyan:S4
+kw-boubyan,Boubyan Bank,2026-07-22,"6M 2026 strategy: 'Maximize wealth management growth ... through Boubyan Capital, BLME, and NOMO Bank' and 'Creating distinctive Islamic wealth management opportunities'.",kw-boubyan:S5
+kw-boubyan,Boubyan Bank,2026-09-24,Nomo-Allfunds partnership on fully digital Shariah-compliant investments publicised (Hubbis date); Nomo reports growing demand from Kuwait and UAE customers.,kw-boubyan:S20;kw-boubyan:S19
+kw-burgan,Burgan Bank,2024-09-09,"Extended private banking services to the Al-Adailiya branch (second PB branch after Al-Shaheed); CMA licences for custody, advisory, portfolio management and brokerage",kw-burgan:S12
+kw-burgan,Burgan Bank,2025,"Completed acquisition of 100% of United Gulf Bank (USD 190m), bringing UGB's ~60% stake in Kamco Invest into the group; PB/Kamco synergy programme",kw-burgan:S4
+kw-burgan,Burgan Bank,2025,Strategy pillars: double retail market share; build best-in-class private banking and wealth management; promote digital offerings for new segments,kw-burgan:S4
+kw-burgan,Burgan Bank,2026,Q1 2026: Euromoney Private Banking Awards 2026 'Best for HNW in Kuwait'; preparing to relaunch the Kanz account,kw-burgan:S11
+kw-burgan,Burgan Bank,2026-09-03,"UGB shareholders approved renaming UGB to Burgan Bank Bahrain, focused on wholesale banking for HNW individuals, family offices, corporates and FIs (pending MOIC/CBB approvals)",kw-burgan:S6
+kw-burgan,Burgan Bank,2026-09-14,"KD 50m rights issue closed, 133.57% subscribed; Kamco Invest acted as issuance advisor and subscription agent",kw-burgan:S8
+kw-cbk,Commercial Bank of Kuwait,2024-02,Strategic partnership with Network International announced to upgrade digital banking and card processing.,kw-cbk:S13
+kw-cbk,Commercial Bank of Kuwait,2025,"65th anniversary; launched Premier Family Banking Package (Premier benefits extendable to family, WhatsApp service, 17 Premier lounges and branch offices), YOU prepaid youth card, new Khaitan branch, self-service machines; revoked the Zero-NPL policy (AR 2025).",kw-cbk:S4
+kw-cbk,Commercial Bank of Kuwait,2026-03-11,AGM approved final cash dividend of 25 fils and no bonus shares for FY2025.,kw-cbk:S3
+kw-cbk,Commercial Bank of Kuwait,2026-07-09,"Board recommended an interim cash dividend of 12 fils for H1 2026, subject to regulatory approval.",kw-cbk:S3;kw-cbk:S6
+kw-cbk,Commercial Bank of Kuwait,2026-07-28,H1 2026 statements signed by an Acting CEO (Ahmad Khaled Al-Khudhur) whereas the Q1 2026 statements were signed by CEO Elham Mahfouz; no announcement of the change found.,kw-cbk:S3;kw-cbk:S5
+kw-cbk,Commercial Bank of Kuwait,2026-07,International certificate-of-deposit programme increased from USD 1 billion to USD 2 billion (Chairman's H1 2026 statement as reported by Kuwait Times).,kw-cbk:S6
+kw-gulfbank,Gulf Bank,2023-11-20,"InvestGB (Gulf Capital Investment Company K.S.C.(C)) introduced after CBK, MOCI and CMA approvals; all investment products and services moved into it; assets above KD 1 billion at start.",kw-gulfbank:S19
+kw-gulfbank,Gulf Bank,2025-01,Chairman Bader AlKharafi resigned; Ahmad Al Bahar named Chairman by acclamation (new 11-member board elected March 2025). Merger project with Boubyan Bank called off in Jan 2025.,kw-gulfbank:S4
+kw-gulfbank,Gulf Bank,2025-04,"Warba Bank completed its purchase of Al Ghanem Trading, giving it (via Warba Strategy Co.) 32.75% of Gulf Bank; AR 2025 timeline records Warba's letter proposing a merger feasibility study, CBK guidance, and an MoU with Warba Bank for a potential merger during 2025.",kw-gulfbank:S4
+kw-gulfbank,Gulf Bank,2025-08,"CBK granted initial approval, valid for one year, for conversion into a Sharia-compliant bank; Lamia Karam appointed Chairperson of InvestGB.",kw-gulfbank:S4;kw-gulfbank:S22
+kw-gulfbank,Gulf Bank,2025,"InvestGB launched its first Sharia-compliant funds (Lulwa KD and USD Money Market Funds); upgraded to an Avaloq wealth platform; partnerships with Ares (WMS), Arrow Global (Q4) and Investcorp. Core banking transformation completed.",kw-gulfbank:S4;kw-gulfbank:S16
+kw-gulfbank,Gulf Bank,2026-01-12,InvestGB announced strategic partnership with CVC for private equity access (date per Gulfbase item dated 11 Jan 2026; search result only).,kw-gulfbank:S27
+kw-gulfbank,Gulf Bank,2026-01-15,"Chief Risk Officer Abdulrahman Al-Saddah's resignation took effect; GM Consumer Banking Bader Al-Ali's resignation took effect 15 Feb 2026 (AR labels it 'Chief Risk Officer', apparently a typo).",kw-gulfbank:S4
+kw-gulfbank,Gulf Bank,2026-05-04,Ammar Hajeyah became Chief Investment Officer of InvestGB.,kw-gulfbank:S17;kw-gulfbank:S18
+kw-gulfbank,Gulf Bank,2026-05-24,Acting Deputy CEO said Warba merger due diligence is 'nearing completion' and that conversion requirements are being fulfilled before an end-August 2026 regulatory deadline; two Sharia-consent clauses added to customer contracts.,kw-gulfbank:S8
+kw-gulfbank,Gulf Bank,2026-06-21,InvestGB expanded its CVC private equity offering (CVC-PE Fund).,kw-gulfbank:S26
+kw-gulfbank,Gulf Bank,2026-07-09,Faisal AlAdsani appointed Deputy CEO and Faisal AlGharabally General Manager Corporate and International Banking (effective date).,kw-gulfbank:S14
+kw-gulfbank,Gulf Bank,2026-08-03,"H1 2026 webcast: Acting CEO describes 'measured progress' on Islamic conversion (still preliminary approval, no deadline given) and the Warba merger moving 'in an orderly manner'.",kw-gulfbank:S15
+kw-gulfbank,Gulf Bank,2026-03-14,Annual General Meeting held (AGM documents listed on the IR page; dividend of 9 fils and 5% bonus shares proposed in AR 2025).,kw-gulfbank:S24;kw-gulfbank:S4
+kw-gulfbank,Gulf Bank,2026-10-08,Gulf Bank publicised Priority Banking and an award for HNW banking services at the Private Banker Awards 2026. The press-release list shows no merger or conversion announcement up to this date.,kw-gulfbank:S13;kw-gulfbank:S25
+kw-kamco,Kamco Invest,2025,"Launched two Shariah-compliant Saudi funds (Kamco Freestyle Saudi Equity Fund, Kamco SAR Murabaha Fund); raised over USD 1.5bn across products and transactions",kw-kamco:S8
+kw-kamco,Kamco Invest,2026-07-28,Kamco Invest - Saudi partners with HSBC Saudi Arabia to launch a securities lending service,kw-kamco:S7
+kw-kamco,Kamco Invest,2026-08-05,H1 2026 results: AUM USD 18.0bn; fee income +14%; Santander AI EUR 300m partnership; Oula Wasata e-trading growth; DIFC and Saudi asset management expansion,kw-kamco:S5
+kw-kamco,Kamco Invest,2026-09-15,Recognised at IDC CIO Excellence Awards 2026 (news listing title only),kw-kamco:S7
+kw-kamco,Kamco Invest,2026-09-21,Board recommended renaming the company 'Burgan Capital Investment Company' to align with the Burgan Bank ecosystem; subject to General Assembly approval and regulatory/legal procedures; still listed on Boursa Kuwait,kw-kamco:S6;kw-kamco:S7
+kw-kfh,Kuwait Finance House,2025,"Restructured local private banking activities across all markets under a Group Private Banking & Wealth Management umbrella, enabling the launch of Discretionary Portfolio Management and an expanded wealth management offering.",kw-kfh:S4
+kw-kfh,Kuwait Finance House,2025,Launched 'KFH Private' as a dedicated international wealth management brand; adopted a four-pillar advisory model; launched a global multi-asset DPM.,kw-kfh:S18
+kw-kfh,Kuwait Finance House,2025,"KFH Capital introduced the KFH Wealth app (remote portfolio monitoring and transaction execution) and integrated trading, accounting, portfolio management and compliance into one platform.",kw-kfh:S4
+kw-kfh,Kuwait Finance House,2025,"Launched the Advent Investment Management platform group-wide, hosted at KFH Bahrain, and refreshed the PBWM app branding. The Aurora RM system added a Relationship Dashboard.",kw-kfh:S4
+kw-kfh,Kuwait Finance House,2025,KFH Capital launched two US real estate funds totalling over USD 145m and an Equity Trading Finance product on Boursa Kuwait. KFH Financial Brokerage was ranked first by Boursa Kuwait.,kw-kfh:S4
+kw-kfh,Kuwait Finance House,2025,London PBWM reception: the Group CEO said KFH UK focuses on private banking and wealth management and that 'modern investment management services will also be introduced'.,kw-kfh:S22
+kw-kfh,Kuwait Finance House,2026,"Approved a PBWM 'strategic reset' for 2026: brand refresh, activation of the full PBWM network, DPM plus open-architecture wealth solutions, and a unified digital backbone for relationship managers.",kw-kfh:S4
+kw-kfh,Kuwait Finance House,2026-04-02,Abdullah Al-Haddad (ex-Group Chief International Banking Officer) appointed CEO of KFH Capital.,kw-kfh:S15;kw-kfh:S7
+kw-kfh,Kuwait Finance House,2026-08-03,"Appointed Lamya Al-Tabtebai as Group Chief Transformation Officer, a new standalone transformation role.",kw-kfh:S6
+kw-kib,Kuwait International Bank,2024-11-11,"Launched KIB Invest (Al Dawli Invest) as Islamic investment arm: asset management, fund and portfolio management, advisory; Chairman Anwar Bukhamseen, CEO Jamal Al-Barrak.",kw-kib:S12;kw-kib:S13
+kw-kib,Kuwait International Bank,2025-02,Al Dawli Invest Islamic KD Money Market Fund launched (IFN: 2 Feb 2025; Albawaba release dated 27 Apr 2025); USD and EUR strategies planned.,kw-kib:S14
+kw-kib,Kuwait International Bank,2025,YE2025 call: progress on digital and operational transformation and on 'selectively leveraging partnerships and digital channels'; operating expenses up 13% to KD 59.6m mainly on digital initiatives and staff costs.,kw-kib:S5;kw-kib:S3
+kw-kib,Kuwait International Bank,2026-04-08,"Fitch affirmed KIB at 'A', Stable.",kw-kib:S4
+kw-kib,Kuwait International Bank,2026-06,Abdullah Al-Asousi appointed General Manager of Financial Control and Planning (search summary).,kw-kib:S16
+kw-kib,Kuwait International Bank,2026-07-07,KIB Invest joint lead manager on the USD 2.75bn Saudi Real Estate Refinance Company sukuk; earlier in H1 2026 JLM on a USD 1bn Islamic Development Bank sukuk and participant in a USD 700m FAB sukuk.,kw-kib:S15;kw-kib:S7
+kw-kib,Kuwait International Bank,2026-07-29,"H1 2026 call: second phase of Strategy 2024-2028 with focus on 'expand our client propositions' across priority segments, digital capabilities and 'targeted partnerships and digital initiatives'; call led by Jassim Al-Abdulhadi as Acting CEO.",kw-kib:S4
+kw-kib,Kuwait International Bank,2026-08-29,"Retail Banking reported H1 2026 digital results: accounts opened via KIB Mobile doubled year on year, investment deposit openings doubled, instant credit card issuance, ATM network 141 machines.",kw-kib:S8
+kw-kib,Kuwait International Bank,2026-09-05,Priced inaugural USD 500 million five-year senior unsecured Sukuk under a USD 1.5bn programme (settlement 10 Sep 2026).,kw-kib:S9
+kw-kic,Kuwait Investment Company,2025-05,Relaunched the restructured KIC Global Balanced Portfolio,kw-kic:S14
+kw-kic,Kuwait Investment Company,2025,New five-year strategy: dedicated Wealth Management division for HNW clients; e-KYC launched; more markets on electronic trading platforms; AI-enabled analytics planned,kw-kic:S14
+kw-kic,Kuwait Investment Company,2025,Exclusive agreement with Goldman Sachs Asset Management to introduce a foreign investment product in Kuwait (pending regulatory approval),kw-kic:S14
+kw-kic,Kuwait Investment Company,2025-12-31,Market-making mandates rose to 18 Boursa-listed companies (10 added in 2025),kw-kic:S14
+kw-kic,Kuwait Investment Company,2026-07-08,Disclosure: appointment of Executive Vice President – Asset Management (scanned filing),kw-kic:S16;kw-kic:S17
+kw-kic,Kuwait Investment Company,2026-08,"KIC-led consortium prequalified by the Public Authority for Housing Welfare (Boursa disclosure, 31 Aug 2026)",kw-kic:S17
+kw-markaz,Markaz (Kuwait Financial Centre),2024,Launched Private Credit offering (50th anniversary year),kw-markaz:S3
+kw-markaz,Markaz (Kuwait Financial Centre),2025,Launched Private Real Assets strategy for qualified investors,kw-markaz:S3;kw-markaz:S2
+kw-markaz,Markaz (Kuwait Financial Centre),2025-01-09,Selected Objectway client-facing wealth platform (EY-run selection),kw-markaz:S9
+kw-markaz,Markaz (Kuwait Financial Centre),2025,Raised KWD 35m first tranche of a KWD 50m senior unsecured bond programme,kw-markaz:S2
+kw-markaz,Markaz (Kuwait Financial Centre),2026-03-28,"Launched iMarkaz Invest digital trading platform (Kuwait, KSA, UAE, US markets) with optional advisory",kw-markaz:S7;kw-markaz:S8
+kw-markaz,Markaz (Kuwait Financial Centre),2026-05-07,Board approved leadership changes: Abdullatif Al-Nusif Deputy CEO; Deena Al-Refai Head of Wealth Management & Business Development; Ghazi Al-Osaimi Head of MENA Equities; Amani Al-Omani retired,kw-markaz:S6;kw-markaz:S13
+kw-markaz,Markaz (Kuwait Financial Centre),2026-06,"Added 24-hour access to eligible US equities and ETFs on iMarkaz Invest (dated 18 Jun 2026 by Albawaba, 5 Jul 2026 on the Markaz news listing; both seen in search only)",kw-markaz:S14;kw-markaz:S4
+kw-markaz,Markaz (Kuwait Financial Centre),2026-06-30,"H1 2026 release: pursuing private credit, private infrastructure and development financing; broadening private markets, alternatives and advisory; focus on institutional and HNW relationships",kw-markaz:S4
+kw-nbk,National Bank of Kuwait,2025-02-23,"Watani Investment Company launched NBK Invest (digital advisory + 7 Watani funds, fully digital onboarding) and renamed Watani Brokerage as NBK Brokerage (Regional, US, Sharia).",kw-nbk:S14
+kw-nbk,National Bank of Kuwait,2025,Merged Watani Financial Brokerage Company into Watani Investment Company (business combination under common control).,kw-nbk:S3
+kw-nbk,National Bank of Kuwait,2025,"NBK Wealth introduced Alternative DPM, two value-add funds, a PE secondaries fund and NBK Wealth (KSA)'s first Saudi-based real estate fund.",kw-nbk:S3
+kw-nbk,National Bank of Kuwait,2025,Opened a DIFC branch in the UAE (International Banking Group).,kw-nbk:S3
+kw-nbk,National Bank of Kuwait,2026,"NBK Wealth strategic priorities for 2026: diversify client portfolios, avail NBK Suisse for UHNW clients, family wealth transfer, regional institutions, 'unlocking opportunities among the affluent', expand regional presence.",kw-nbk:S3
+kw-nbk,National Bank of Kuwait,2026-06-25,"NBK promoted Premium, Thahabi and Elite segments with access to NBK Wealth and NBK Invest and dedicated RMs.",kw-nbk:S15
+kw-nbk,National Bank of Kuwait,2026-07,"2Q 2026 earnings call: management said the wealth management division and Boubyan continued to drive Group diversification, alongside continued investment in digital channels and mobile offerings.",kw-nbk:S5
+kw-warba,Warba Bank,2025-04-08,"Acquired Warba Strategy Company (formerly Al Ghanem Trading), owner of 32.75% of Gulf Bank; signed an MoU with Gulf Bank and appointed advisers to study a merger into one Sharia-compliant bank (CBK acknowledgment 15 Jun 2025)",kw-warba:S3;kw-warba:S4
+kw-warba,Warba Bank,2025,Launched second series of flagship Islamic income fund (private credit); marketed Shariah-compliant funds and sukuk to Private and Royal Banking clients; opened Shamiya and Saad Al-Abdullah branches (21 total) with a Royal section at Shamiya,kw-warba:S4
+kw-warba,Warba Bank,2026-04-12,"Management restructuring into two sectors: Treasury & Investment (Thuwaini Al-Thuwaini named Acting Deputy CEO) and Digital Transformation, Operations & Business Development (Anwar Al-Ghaith, Deputy CEO); pending regulatory approvals at the time",kw-warba:S10
+kw-warba,Warba Bank,2026-05-24,Gulf Bank states Warba merger due diligence is 'nearing completion',kw-warba:S12
+kw-warba,Warba Bank,2026-07,"Launched Bdr AI, an agentic AI banking assistant in the Warba mobile app (Arabic incl. Kuwaiti dialect and English)",kw-warba:S9
+kw-warba,Warba Bank,2026-10-12,"Investment Management page lists a digital 'Trading Solutions' platform for local, regional and international markets as 'Coming Soon' (date checked, not launch date)",kw-warba:S5
+om-bankdhofar,BankDhofar,2023-05,"Board resolved to make a takeover offer for 100% of Ahli Bank (up to 25% cash, balance in new BankDhofar shares; exchange ratio 1.2910), replacing an April 2023 merger proposal that Ahli's board rejected. Competing OMINVEST-led offer. No completion found.",om-bankdhofar:S16;om-bankdhofar:S19
+om-bankdhofar,BankDhofar,2024-06,"Private Banking officially launched and Retail Wealth Management established (mutual funds, bonds/sukuk, model portfolios built with BlackRock)",om-bankdhofar:S2
+om-bankdhofar,BankDhofar,2025-04-01,"Completed acquisition of the assets and liabilities of Bank of Baroda's Oman branch (business transfer agreement dated 27 Jan 2025), adding NRI customers",om-bankdhofar:S2
+om-bankdhofar,BankDhofar,2025-10-13,"Announced partnership with BlackRock to offer global investment strategies and wealth solutions to HNW, affluent and corporate clients",om-bankdhofar:S13
+om-bankdhofar,BankDhofar,2025,Strategic partnership with Mastercard; re-carding of Visa cards to Mastercard; domestic Maal debit card launched,om-bankdhofar:S2
+om-bankdhofar,BankDhofar,2026,"H1 2026: pilot phase of a next-generation mobile banking application, merchant portal for acquiring customers, POS Financing and SME service desks",om-bankdhofar:S1
+om-bankdhofar,BankDhofar,2026-06-30,H1 2026 results: net profit OMR 27.26m (+15.2%); fees and other income +34.5%; Dhofar Islamic financing +21.2%,om-bankdhofar:S1;om-bankdhofar:S3
+om-bankmuscat,Bank Muscat,2021-09-07,"Strategic alliance with Schroders: digital risk profiling and access to Schroders investment strategies, to grow wealth management",om-bankmuscat:S15
+om-bankmuscat,Bank Muscat,2025,Launched a Private Credit Fund (with a large global private assets manager) and a Life Settlement Fund as part of a new alternatives offering,om-bankmuscat:S11;om-bankmuscat:S12
+om-bankmuscat,Bank Muscat,2025,Relaunched the mobile app (200+ features); first instant personal loans via mobile in Oman; registered digital users +17%,om-bankmuscat:S2
+om-bankmuscat,Bank Muscat,2025,"Launched the Hisaby mass-expatriate segment (20 centres), opened four new Asalah Centres and 72 Al Jawhar desks",om-bankmuscat:S2
+om-bankmuscat,Bank Muscat,2025,Closed the Kuwait branch; continued in KSA through the Riyadh branch,om-bankmuscat:S2
+om-bankmuscat,Bank Muscat,2025,"BM Innovate made its first investment, in Zopa, a UK digital bank",om-bankmuscat:S2
+om-bankmuscat,Bank Muscat,2025-07,"Launched the Jadarah Artificial Intelligence Academy and an AI Lab programme, with the aim of tripling AI adoption in two years",om-bankmuscat:S2
+om-bankmuscat,Bank Muscat,2025-12-31,"AUM rose 8% to USD 3.9bn; the Money Market Fund reached OMR 250m, the largest open-ended fund in Oman",om-bankmuscat:S2
+om-bankmuscat,Bank Muscat,2025-12-18,Named Best Private Bank in Oman by MEED (MENA Excellence Wealth and Private Banking Awards),om-bankmuscat:S14
+om-bankmuscat,Bank Muscat,2026-03-20,"Named Best private bank, Oman, in Euromoney Private Banking Awards 2026",om-bankmuscat:S11
+om-bankmuscat,Bank Muscat,2026-07-28,H1 2026 results: net profit OMR 137.5m (+9.3%); presentation cites 'strong growth potential in the high net worth market segment',om-bankmuscat:S1;om-bankmuscat:S3
+om-nbo,National Bank of Oman,2021-07-25,"Launched a wealth management portal in the mobile app (portfolio view, fund buy/sell, SIP, risk profile) for Sadara and Mazaya customers",om-nbo:S13
+om-nbo,National Bank of Oman,2022-06-29,Launched the Private Banking proposition for HNW customers,om-nbo:S14
+om-nbo,National Bank of Oman,2025-03-28,Named Best Private Bank in Oman in the Euromoney Private Banking Awards 2025,om-nbo:S12
+om-nbo,National Bank of Oman,2025-02,"Public offering of the NBO Money Market Fund closed, the bank's third open-ended mutual fund",om-nbo:S2
+om-nbo,National Bank of Oman,2025,"Digital SIP applications through the app, API Gateway for corporates, government and fintech partners, and a second Fintech Accelerator cohort with Developer Platform and Sandbox",om-nbo:S2
+om-nbo,National Bank of Oman,2025-11,"Issued a USD 450m Additional Tier 1 instrument (largest ever by an Omani bank, per the annual report); the OMR 115.5m AT1 from April 2021 was redeemed at its first call in April 2026",om-nbo:S2;om-nbo:S3
+om-nbo,National Bank of Oman,2026,H1 2026: digital OMIFCO IPO subscription via the NBO and Muzn apps; MoUs with Oman Airports and Ooredoo; partnerships with Sharakah and SMEDA,om-nbo:S1
+om-nbo,National Bank of Oman,2026-07-29,H1 2026 results authorised: net profit OMR 39.1m (+14.9%); fee income +20.0%; PRIME 2026-2028 strategy in execution,om-nbo:S1;om-nbo:S3
+om-oab,Oman Arab Bank,2016-02-28,"Launched Elite Priority Banking with three pillars (Services, Benefits, Wealth Management)",om-oab:S10
+om-oab,Oman Arab Bank,2020,Acquired Alizz Islamic Bank and became an SAOG listed on MSX; Alizz became a 100% subsidiary,om-oab:S3;om-oab:S2
+om-oab,Oman Arab Bank,2024-08-06,Launched the invitation-only Elite Exclusive segment with wealth management services and a metal card,om-oab:S9
+om-oab,Oman Arab Bank,2025,Rights issue of OMR 50m (authorised capital raised to OMR 500m); cooperation agreement with Genacom in Q4; corporate mobile app and virtual accounts for brokerage firms,om-oab:S2;om-oab:S3
+om-oab,Oman Arab Bank,2026-06-02,"Issued USD 400m unsecured perpetual Tier 1 bonds at 6.75% (about OMR 154m), listed on the London ISM",om-oab:S1;om-oab:S4
+om-oab,Oman Arab Bank,2026-07-23,"Board accepted Bank Nizwa's non-binding letter of intent (received 16 Jul 2026) to acquire 100% of Alizz Islamic Bank at an indicative 1.2x book value, to proceed with discussions; subject to due diligence, definitive agreements and approvals",om-oab:S1;om-oab:S14
+om-oab,Oman Arab Bank,2026-09-03,"1H 2026 results presentation: net profit OMR 17.7m (+21%), loans +6% and deposits +5% year on year",om-oab:S3
+om-sohar,Sohar International Bank,2025-02-26,Abdulwahid Al Murshidi confirmed as CEO (acting since 1 Jan 2025) after Ahmed Al Musalmi became CBO Governor,om-sohar:S17
+om-sohar,Sohar International Bank,2025-03,Designated a Domestic Systemically Important Bank by the CBO,om-sohar:S2
+om-sohar,Sohar International Bank,2025-04-07,Board sent a letter of intent to Ahli Bank proposing a merger by incorporation (share swap at FY2024 book values),om-sohar:S15
+om-sohar,Sohar International Bank,2025-06-24,Ahli Bank merger postponed after required regulatory approvals were not received; Ahli Bank proceeded with an OMR 50m rights issue,om-sohar:S16
+om-sohar,Sohar International Bank,2025-08-17,Disclosed plans to buy up to 55% of Neo Group KSA (asset management and advisory) and up to 100% of Bima (digital insurance platform),om-sohar:S13
+om-sohar,Sohar International Bank,2025-09-24,Issued OMR 200m perpetual AT1 securities (6.75%),om-sohar:S2
+om-sohar,Sohar International Bank,2025,"Launched an Open Banking API platform and integrated fintechs (Mamun, Behar, Gift, Antom, Bima, Kushki). Retail digital users grew more than 40% and corporate digital usage almost 180%.",om-sohar:S2
+om-sohar,Sohar International Bank,2025,Officially inaugurated the Riyadh branch,om-sohar:S2
+om-sohar,Sohar International Bank,2026-05-14,Issued OMR 25.95m Mandatory Convertible Bonds (5.25%) to shareholders,om-sohar:S1
+om-sohar,Sohar International Bank,2026-08,Completed a rights issue of 1.06bn shares at Baisa 141 (OMR 149.3m gross); paid-up capital rose to OMR 849.7m,om-sohar:S6
+om-sohar,Sohar International Bank,2026-09-10,"Opened the Hong Kong Asia Pacific Office (representative office; HKMA approval Apr 2026, CBO May 2026); signed the E-Fund partnership and Templewater MoU",om-sohar:S12
+om-ubhar,Ubhar Capital,2017-01,Started operations after acquiring Oman Arab Bank's Investment Management Group,om-ubhar:S2
+om-ubhar,Ubhar Capital,2020-06,Acquired Gulf Baader Capital Markets SAOC,om-ubhar:S2
+om-ubhar,Ubhar Capital,2024-05-12,Appointed liquidity provider for Oman Arab Bank SAOG,om-ubhar:S16
+om-ubhar,Ubhar Capital,2024-05-19,Granted FSA investment banking licence (company: first Omani private company to receive it),om-ubhar:S14
+om-ubhar,Ubhar Capital,2025-07-03,Appointed liquidity provider for Bank Muscat SAOG (trading from 6 Jul 2025),om-ubhar:S15
+qa-ahlibank,Ahlibank,2026-07-21,"H1 2026 results: the CEO says the bank continued to invest in digital banking, with a retail focus on digitalisation and distribution channels.",qa-ahlibank:S5
+qa-ahlibank,Ahlibank,2026-05-24,"MoU with QFC on fintech, digital transformation and digital-asset/tokenisation use cases (search result only).",qa-ahlibank:S17
+qa-ahlibank,Ahlibank,2026-01,New branch opened at Doha Oasis.,qa-ahlibank:S4
+qa-ahlibank,Ahlibank,2025,"Enterprise-wide Transformation Program with three pillars: next-generation client channels (new corporate digital platform due mid-2026; retail digital platform revamp), automation, and data/AI. Private Banking rolled out a digital trading platform.",qa-ahlibank:S4
+qa-ahlibank,Ahlibank,2025,"Issued Qatar's first QAR-denominated MTN listed on QSE (QAR 500m, 3 years) and a USD 500m 5-year EMTN bond.",qa-ahlibank:S4
+qa-cbq,Commercial Bank (Qatar),2026-09-30,Relaunched the Sadara affluent proposition with a new Sadara Visa Infinite metal credit card and lifestyle privileges.,qa-cbq:S23
+qa-cbq,Commercial Bank (Qatar),2026-08-27,4th Young Investors Programme (ages 18-25) closed: QSE simulation plus an international-market simulation on CB Alpha Trader.,qa-cbq:S24
+qa-cbq,Commercial Bank (Qatar),2026-08-23,Named Best Wealth Management Bank in Qatar at the TAB Global Middle East Awards 2026. The CEO says the advisory business has grown significantly over four years and the bank plans to broaden access to more sophisticated investment opportunities.,qa-cbq:S22
+qa-cbq,Commercial Bank (Qatar),2026-04-18,"Senior appointments: Omran Al Sherawi as EGM Treasury and Investments, Nasser Al Harmi as Chief Human Capital Officer and Eiman Al-Naemi as Chief Communications and Marketing Officer.",qa-cbq:S21
+qa-cbq,Commercial Bank (Qatar),2026-01-26,"2026-2030 strategy announced. Retail priorities: accelerate growth among Qatari affluent and Private Banking clients, deepen wealth and advisory relationships by expanding digital wealth tools, modernise core banking platforms, and use AI.",qa-cbq:S6;qa-cbq:S8
+qa-cbq,Commercial Bank (Qatar),2025,"CBQ Mobile App adds investment account opening and wealth services, plus CB Video Relationship Manager. CBFS starts market-making. The group launches the Sondook money market fund.",qa-cbq:S6;qa-cbq:S4
+qa-cbq,Commercial Bank (Qatar),2025-08,Stephen Moss (ex-HSBC regional CEO MENAT) becomes Group CEO.,qa-cbq:S20;qa-cbq:S7
+qa-dohabank,Doha Bank,2026-09-22,Signed an MoU with KKR at the Qatar Economic Forum (New York) to explore private-markets access for eligible Qatari investors.,qa-dohabank:S17
+qa-dohabank,Doha Bank,2026,Won Euromoney Private Banking Awards 2026 (Qatar) for Best Client Service and Best for Funds.,qa-dohabank:S16
+qa-dohabank,Doha Bank,2026,Board adopted a 5-year strategy (2026-2030) while the Himma Transformation (launched Oct 2023) continues. New board for 2026-2028; new Chief Private Banking & Wealth Management Officer listed.,qa-dohabank:S7;qa-dohabank:S5;qa-dohabank:S1
+qa-dohabank,Doha Bank,2025-12-22,Won MEED 'Best Private Equity Offering - MENA' (Wealth & Private Banking Awards 2025).,qa-dohabank:S15
+qa-dohabank,Doha Bank,2025,Wealth Management Division launched a Swiss global custody account with UBS and Shariah-compliant products and consolidated investment segments; AUM passed USD 100m. DBGM platform revenue nearly doubled to QAR 3.2m.,qa-dohabank:S5
+qa-dohabank,Doha Bank,2025,Strategic partnership formed with Blackstone (Q2 2025) for private capital strategies for Qatari investors.,qa-dohabank:S19
+qa-dohabank,Doha Bank,2024-10-30,MoU with Carlyle for evergreen private-markets solutions for Qatar investors.,qa-dohabank:S18
+qa-dukhan,Dukhan Bank,2026-10-07,"9M 2026 results: reported an MoU with Lesha Bank on investment solutions, joined the AFAQ GCC payments system, added Apple Pay and Samsung Wallet to Himyan, and won Euromoney Islamic Finance Awards 2026 as Qatar's Best Islamic Bank and Best Islamic Digital Bank.",qa-dukhan:S6
+qa-dukhan,Dukhan Bank,2026-04-23,Named World's Best Islamic Private Bank by Global Finance for the third year running. Chaouki Daher was the spokesperson.,qa-dukhan:S15
+qa-dukhan,Dukhan Bank,2026-02-05,Open-banking partnership with Dibsy announced at Web Summit Qatar 2026.,qa-dukhan:S17
+qa-dukhan,Dukhan Bank,2025-11-09,Exclusive MoU with Global Infrastructure Partners (BlackRock) to distribute Shariah-compliant private-market products to HNW and corporate clients in Qatar.,qa-dukhan:S16
+qa-dukhan,Dukhan Bank,,Prime Banking premium segment introduced (launch date not published). It offers advisory and discretionary portfolio management and wealth planning.,qa-dukhan:S11
+qa-lesha,Lesha Bank,2026-09-28,"Agreed to acquire 33 aircraft from Avolon, taking the managed fleet above 75 aircraft.",qa-lesha:S19
+qa-lesha,Lesha Bank,2026-09-22,"MoU with GIP (BlackRock) on global infrastructure co-investment of more than US$1bn, signed at the Qatar Economic Forum in New York.",qa-lesha:S12
+qa-lesha,Lesha Bank,2026-08,"Lesha Aviation Capital opened a London office (HQ Dublin, launched 2025).",qa-lesha:S11
+qa-lesha,Lesha Bank,2026-07-22,"H1 2026: AUM QAR 19.2bn (+78%), net profit QAR 123.7m (+50.1%), deposits QAR 5.6bn (+78.8%).",qa-lesha:S4
+qa-lesha,Lesha Bank,2026-05-05,DTX Partners collaboration on Shari'a-compliant VC and technology investments.,qa-lesha:S15
+qa-lesha,Lesha Bank,2026-02-07,"Lesha Capital (KSA) granted the CMA Managing Investments and Operating Funds licence, in addition to its 2025 advisory licence.",qa-lesha:S17;qa-lesha:S16
+qa-lesha,Lesha Bank,2026,"Strategy (H1 2026 presentation): launch Qatar and GCC public equity funds, a sukuk fund and an ETF; raise and list a Qatar REIT; build an evergreen semi-liquid PE fund; launch niche sector funds.",qa-lesha:S5
+qa-mar,AlRayan Bank (formerly Masraf Al Rayan),2026-10-01,Usman Ahmed (ex-Group CEO National Bank of Bahrain; ex-Citi Global Head of Islamic Banking) named Group CEO with QCB approval. Fahad Al Khalifa stepped down on 30 Sep 2026 to become Advisor to the Chairman; Omar Al Emadi is acting Group CEO.,qa-mar:S6
+qa-mar,AlRayan Bank (formerly Masraf Al Rayan),2026-05-12,Launched Sahl Plus with The Group: QSE trading and fund transfers via the bank's mobile app.,qa-mar:S13;qa-mar:S18
+qa-mar,AlRayan Bank (formerly Masraf Al Rayan),2026-05,Houssam Itani promoted to Group Chief Strategy and Technology Officer. Microsoft 365 Copilot adopted (21 May 2026).,qa-mar:S16;qa-mar:S18
+qa-mar,AlRayan Bank (formerly Masraf Al Rayan),2026,GBP 50m capital increase in Al Rayan Bank PLC (UK) agreed with another shareholder; first GBP 25m tranche paid; stake 73.91%.,qa-mar:S2
+qa-mar,AlRayan Bank (formerly Masraf Al Rayan),2025-12-06,ARI acted as Joint Lead Manager on the State of Qatar's USD 3bn sovereign sukuk.,qa-mar:S18;qa-mar:S4
+qa-mar,AlRayan Bank (formerly Masraf Al Rayan),2025,"ARI AUM reached QAR 3.9bn. The AlRayan GO app was enhanced, with 'Pockets' goal-based savings and the invitation-only Al Qimma Visa Infinite Privilege card. LEAD strategy (2024-2027) refocuses personal banking on Private and Premier.",qa-mar:S4
+qa-mar,AlRayan Bank (formerly Masraf Al Rayan),2024-12-09,"Launched the AlRayan GO mobile app (first iteration: accounts, transfers, cards).",qa-mar:S14
+qa-qib,Qatar Islamic Bank,2026-09-06,"QIB Mobile App enhancements: advanced search across 320+ features, redesigned credit-card overview, in-app customer survey.",qa-qib:S15
+qa-qib,Qatar Islamic Bank,2026-04-12,Named Qatar's Best Private Bank by Euromoney (Private Banking Awards 2026); highlights certified RMs and Private Banking video banking.,qa-qib:S14
+qa-qib,Qatar Islamic Bank,2026-04,"Greg Ellison (ex-Alpha Bank London, Barclays Wealth) joined as CEO of QIB UK.",qa-qib:S17
+qa-qib,Qatar Islamic Bank,2025,Partial sale of QInvest; QInvest reclassified from 65.62% subsidiary to 49% associate.,qa-qib:S4
+qa-qib,Qatar Islamic Bank,2025,"Digital: QIB Junior App launched (ages 8-17); AI-powered features in QIB Mobile Apps; mobile banking users +12%, digital financial transactions +39% vs 2024.",qa-qib:S6
+qa-qiib,Qatar International Islamic Bank,2026-07-30,MoU with The Group Securities for an integrated investment and banking experience.,qa-qiib:S13
+qa-qiib,Qatar International Islamic Bank,2026-07-23,Strategic investment in SkipCash (digital payments).,qa-qiib:S20
+qa-qiib,Qatar International Islamic Bank,2026-07-05,Launched the QIIB Online Shop rewards marketplace with instant redemption through mobile banking.,qa-qiib:S21
+qa-qiib,Qatar International Islamic Bank,2026,"Joined the AFAQ GCC payments system. Won MEA Finance 'Best Innovation in Retail Banking, Qatar 2026'.",qa-qiib:S21
+qa-qinvest,QInvest,2022-10-04,"QIC and QInvest announced the establishment of Epicure Islamic Investment Management LLC (QIC 51%, QInvest 49%)",qa-qinvest:S10;qa-qinvest:S9
+qa-qinvest,QInvest,2024-05-26,Co-CEO Hussain Abdulla's resignation took effect; Hussein Fakhreddine later shown as Acting CEO,qa-qinvest:S8;qa-qinvest:S6
+qa-qinvest,QInvest,2024-12-31,QIB's board approved a plan to partially dispose of its stake in QInvest; QInvest classified as held for sale,qa-qinvest:S3
+qa-qinvest,QInvest,2025,"Partial sale completed; QIB lost control and QInvest became a 49% associate (65.62% at 31 Dec 2024). QIB's cash flow statement shows QAR 162,988 thousand proceeds from the sale of the investment in the held-for-sale subsidiary",qa-qinvest:S2;qa-qinvest:S3
+qa-qinvest,QInvest,2025-06-03,"Named joint lead manager and joint bookrunner in QIB's USD 5-year RegS senior unsecured sukuk mandate (QIB Sukuk Ltd, USD 5bn programme)",qa-qinvest:S12
+qa-qinvest,QInvest,2026-07,SPVs funded by QInvest acquired part of QIB's 13.75% stake in Beema (QIB keeps 5%); date of sale agreement not shown on the page opened,qa-qinvest:S13
+qa-qinvest,QInvest,2026-10-12,qinvest.com displayed 'A New Digital Experience ... Our new website will be available soon' (website under reconstruction on the check date),qa-qinvest:S5
+qa-qnb,QNB Group,2025,Asset management launched QNB Money Market Fund and two thematic portfolio solutions (AI/digital infrastructure; renewable energy/climate transition); expanded structured product range.,qa-qnb:S8
+qa-qnb,QNB Group,2025,Private Banking introduced a 360-degree RM dashboard; a specialised wealth management system for client reporting is under development.,qa-qnb:S8
+qa-qnb,QNB Group,2025-12-21,"QNBFS launched retail trading of listed government and corporate bonds on QSE with a QR 100,000 minimum (previously up to QR 50m).",qa-qnb:S25
+qa-qnb,QNB Group,2026,"QNBFS trialling a single integrated retail trading platform (Qatar, GCC, US, Europe) with consolidated portfolio view; launch expected in 2026; exploring AI-driven recommendations.",qa-qnb:S8
+qa-qnb,QNB Group,2025-09-30,"Saudi digital banking licence for ezbank (JV with Ajlan & Bros, SAR 2.5bn); Egypt ezbank licence granted by CBE in Oct 2025 (approx. EGP 4.5bn); MVPs planned Dec 2026 (KSA) and Q1 2027 (Egypt).",qa-qnb:S8
+qa-qnb,QNB Group,2025-02,"QNBeyond Plus technology shared-services centre in Egypt operational, supporting digital-bank builds; QNB has onboarded ten local fintechs in Qatar.",qa-qnb:S8
+sa-albilad-capital,Albilad Capital,2024-01-31,Listed the Albilad MSCI Saudi Growth ETF,sa-albilad-capital:S5
+sa-albilad-capital,Albilad Capital,2024-07-11,Signed with the Ministry of Finance and National Debt Management Center to act as distribution primary dealer for local government sukuk,sa-albilad-capital:S11;sa-albilad-capital:S5
+sa-albilad-capital,Albilad Capital,2024-09-18,"Announced the sixth ETF, the Albilad CSOP MSCI Hong Kong China Equity ETF",sa-albilad-capital:S12;sa-albilad-capital:S5
+sa-albilad-capital,Albilad Capital,2024-11-03,"Albilad Hospitality Fund I acquired the Mövenpick Hotel and Residences, Riyadh, for close to SAR 1bn",sa-albilad-capital:S13;sa-albilad-capital:S5
+sa-albilad-capital,Albilad Capital,2025-05-05,Launched the Makkah Vision Real Estate Fund,sa-albilad-capital:S5
+sa-albilad-capital,Albilad Capital,2025-10-26,Listed the Albilad MSCI Saudi Equity ETF (seventh ETF) with PIF as anchor investor,sa-albilad-capital:S9
+sa-albilad-capital,Albilad Capital,2025-11-10,Signed a strategic co-operation agreement with State Street for securities services and post-trade capabilities,sa-albilad-capital:S7;sa-albilad-capital:S22
+sa-albilad-capital,Albilad Capital,2025-11-18,"Announced agreements above SAR 16bn at Cityscape: Makkah Vision fund (about SAR 11bn), Albilad Real Estate Fund II (SAR 4.4bn) and a Tilal MoU (about SAR 1.2bn)",sa-albilad-capital:S8
+sa-albilad-capital,Albilad Capital,2025-12-01,Signed an MoU with Asset Management One to list a Shariah-compliant Japanese equities ETF on Tadawul before end-2026,sa-albilad-capital:S6
+sa-albilad-capital,Albilad Capital,2025,"Parent AR 2025 lists: new ETF and multi-asset platform goal of becoming a 'Global Shariah ETF Manager', King Faisal University Endowment Fund, sole lead manager of the Umm Al Qura IPO, joint bookrunner on PIF USD 1.25bn sukuk, 'Super App' beta with streamlined onboarding and KYC",sa-albilad-capital:S15
+sa-albilad-capital,Albilad Capital,2026-01-19,Madkhol Capital announced it will offer Albilad Capital's products in its app,sa-albilad-capital:S28
+sa-albilad-capital,Albilad Capital,2026-06,Published the new 'Albilad-Capital' Saudi trading app on the App Store (copyright 2026; first release 13 Jun 2026 per an app-data aggregator),sa-albilad-capital:S24;sa-albilad-capital:S34
+sa-albilad-capital,Albilad Capital,2026-09-21,"Tadawul approved Albilad Capital as market maker for three ETFs (sovereign sukuk, MSCI Saudi Growth, MSCI Saudi Equity), effective 21 Sep 2026",sa-albilad-capital:S23
+sa-albilad,Bank Albilad,2025-08-08,Selected Intellect Design Arena's eMACH.ai to modernise wholesale and corporate banking,sa-albilad:S19
+sa-albilad,Bank Albilad,2025,"Launched the New Albilad App (account opening, mada card issuing, Investment Wakala account) and an Investor Relations App; open banking transactions +143%",sa-albilad:S4;sa-albilad:S5;sa-albilad:S14
+sa-albilad,Bank Albilad,2025,Raised share capital to SAR 15bn and issued USD 650m AT1 Sukuk under a USD 2bn programme,sa-albilad:S4;sa-albilad:S5
+sa-albilad,Bank Albilad,2025,"Retail Banking added a Quick Financing Program for private-banking customers, executive-lounge and executive-office access for UHNW, Samsung Pay, Travel Pass and supplementary cards",sa-albilad:S4
+sa-albilad,Bank Albilad,2025,"Albilad Capital launched the Albilad MSCI Saudi Equity ETF, new real estate funds and the King Faisal University Endowment Fund; reported 76% of trading turnover on digital channels",sa-albilad:S4
+sa-albilad,Bank Albilad,2026-01-19,Madkhol Capital announced that Albilad Capital's investment products will be offered inside the Madkhol app,sa-albilad:S20
+sa-albilad,Bank Albilad,2026-04-26,Board approved leadership changes effective 1 Jun 2026: AlOnaizan from CEO to Chairman; AlSubeaei from Chairman to Vice Chairman; Abanumai steps down as Vice Chairman; Bashaar Al Qunaibit becomes CEO,sa-albilad:S9;sa-albilad:S10;sa-albilad:S11
+sa-alinma-capital,Alinma Capital,2025-02-12,"CMA announced the company's name change from Alinma Investment to Alinma Capital, with a new visual identity",sa-alinma-capital:S6;sa-alinma-capital:S5
+sa-alinma-capital,Alinma Capital,2025,"Launched 13 new private funds (real estate, energy, healthcare, financing, Murabaha, fixed income), adding SAR 7.6bn AUM. Executed 18 IB transactions.",sa-alinma-capital:S9
+sa-alinma-capital,Alinma Capital,2025,"Digital and IT: new main website, unified app/web UX, trading and margin/IPO/sukuk/fund journey upgrades, 'Nasih' investment-allocation tool, T24 integration, portfolio and wealth management system automation integrated with CRM",sa-alinma-capital:S5
+sa-alinma-capital,Alinma Capital,2025,Board approved the company's 2030 strategy and raised the margin financing limit to SAR 2bn,sa-alinma-capital:S5
+sa-alinma-capital,Alinma Capital,2026,Outlook (parent AR 2025): scale investment solutions for individual and institutional segments; set up institutional trading desks and market-making; broaden global reach; AI/GenAI-enabled operating model. Plans to add new markets to the global trading platform and improve e-channels for account opening and trading (Alinma Capital AR).,sa-alinma-capital:S9;sa-alinma-capital:S5
+sa-alinma-capital,Alinma Capital,2026-07,"Parent's 2Q26 strategy update for Alinma Capital: 9 of 13 initiatives started. Focus areas include partnering with global AMs to co-develop funds, a top-tier wealth advisory team, local and global distribution, a new app with engagement features, and an AI-powered wealth companion. Launched a new private fund with SAR 447mn AUM.",sa-alinma-capital:S7
+sa-alinma,Alinma Bank,2025-02-12,Investment arm renamed from Alinma Investment to Alinma Capital (CMA notice),sa-alinma:S24
+sa-alinma,Alinma Bank,2025-02-19,Launched API marketplace platform built on IBM hybrid cloud and integration software (Banking-as-a-Service and open banking),sa-alinma:S15
+sa-alinma,Alinma Bank,2025,Launched a digital wealth management platform with mutual fund subscriptions in the alinma app; completed the 2021–2025 Digital Strategy and began the 2026–2030 Digital Strategy,sa-alinma:S5
+sa-alinma,Alinma Bank,2025,Private Banking launched the Investor Financing programme (financing to invest in Saudi equities) and widened PE and real estate access with alinma capital,sa-alinma:S5
+sa-alinma,Alinma Bank,2025,"Fintech investments: Lean Technologies (open banking), Ejari, NearPay, Amwal Tech, Wadaie (deposit aggregation), Qashio, and VC funds Oryx, Sukna and SEEDRA. Cooperation agreements with Savvy Group, Walaplus, jisr and Future Work.",sa-alinma:S5
+sa-alinma,Alinma Bank,2026-07,"Strategy 2030 update (2Q26 presentation). Private Banking pillar: 'Set up market differentiating value propositions and service models for Private Banking clients' and 'Offer world-class global and exclusive local investments opportunities'. Alinma Capital pillar: partner with global AMs to co-develop funds, set up a top-tier wealth advisory team, launch a new app, AI-powered wealth companion. 9 of 13 Alinma Capital initiatives started.",sa-alinma:S6
+sa-alinma,Alinma Bank,2026-07-27,Q2-26 call: CEO said the bank wants to 'build more strategic partnerships with global asset management to develop the region-specific investment opportunity for our customers' and to 'develop GenAI and AI-powered app companions',sa-alinma:S7
+sa-alistithmar-capital,Alistithmar Capital,2025,Launched five private real estate funds with target asset size of SAR 6bn and the Parallel Market (Nomu) Companies Fund; new international markets trading platform; integrated online margin finance platform; improved electronic channels,sa-alistithmar-capital:S3
+sa-alistithmar-capital,Alistithmar Capital,2025,S60 Ventures: USD 100m fintech-focused venture fund managed by Alistithmar Capital,sa-alistithmar-capital:S13;sa-alistithmar-capital:S14
+sa-alistithmar-capital,Alistithmar Capital,2026-07,"SAIB segment H1 2026: Asset Management and Brokerage pre-zakat income SAR 113m (+47%), fee and other income +36% on fund management fees, margin income up; segment is about 8% of SAIB operating income",sa-alistithmar-capital:S12;sa-alistithmar-capital:S13
+sa-alistithmar-capital,Alistithmar Capital,2026,"Directors' report outlook: Saudi market opens to all categories of foreign investors in 2026, expected to bring liquidity; the firm continues to develop 'innovative investment solutions' and its digital infrastructure",sa-alistithmar-capital:S3
+sa-alistithmar-capital,Alistithmar Capital,2026-10-01,"Parent SAIB's CEO changed (Salman Al-Fughom, an ICAP board member, replaced Faisal Al-Omran, ICAP vice chairman as listed)",sa-alistithmar-capital:S16;sa-alistithmar-capital:S17
+sa-aljazira-capital,AlJazira Capital,2025,AUM above SAR 28bn for the first time; asset and wealth management revenue +52%; total revenue above SAR 750m; new corporate identity and move to a new head-office building; launches of Aljazira Evergreen Private Credit Fund and a health and nutrition PE fund,sa-aljazira-capital:S4;sa-aljazira-capital:S16
+sa-aljazira-capital,AlJazira Capital,2025-12-23,"New brand identity presenting AlJazira Capital as a specialised investment and wealth management institution, launched with the bank's 'Wealth Grows Here' brand",sa-aljazira-capital:S15
+sa-aljazira-capital,AlJazira Capital,2026-07-27,Bank's Q2-26 call: AlJazira Capital launched four new real estate funds since January and continued to improve cross-sell by capturing bank customers,sa-aljazira-capital:S14
+sa-aljazira-capital,AlJazira Capital,2026-07,"Bank H1 2026 presentation lists, for the 'Treasury / Brokerage & AM' pillars, 'Market Positioning & Partnerships / Cross-selling & Client Capture' and 'Platform & Infrastructure Advancement / Digital-First Experience' (text extraction; slide layout not rendered)",sa-aljazira-capital:S23
+sa-aljazira-capital,AlJazira Capital,2026-07-09,Forbes Middle East Top 50 Asset Managers 2026: CEO ranked No. 19; AlJazira Capital reported USD 7.6bn AUM in 2025 and 48 funds,sa-aljazira-capital:S16
+sa-aljazira-capital,AlJazira Capital,2026,"Stated 2026 plan (AR 2025): expand asset and wealth management and AUM through attractive products, keep brokerage market share, deploy capital in selected investments, and continue developing digital services and alternative channels to attract target client segments",sa-aljazira-capital:S4
+sa-aljazira,Aljazira Bank (formerly Bank AlJazira),2023,Strategic transformation emphasising individual wealth management supported by digital channels (per the Dec 2025 brand announcement),sa-aljazira:S10
+sa-aljazira,Aljazira Bank (formerly Bank AlJazira),2025,"Launched the Commodities Investment Account, subscribed digitally without a branch visit; Premium and Wealth tiers grew 24.3% and 18.7% year on year in Q4 2025 (measure not stated); first Saudi bank to launch Google Pay and among the first on open-banking account aggregation; more than 40 new digital services in 2025",sa-aljazira:S5
+sa-aljazira,Aljazira Bank (formerly Bank AlJazira),2025-12-23,"New brand identity 'Wealth Grows Here' for Aljazira Bank, AlJazira Capital (presented as an investment and wealth management institution) and Fawri",sa-aljazira:S10;sa-aljazira:S9
+sa-aljazira,Aljazira Bank (formerly Bank AlJazira),2026-02-12,"FY2025 results release: the new identity 'reinforces the Bank's focus on wealth management as a core pillar' and the aim to be bank of choice for affluent individuals, corporates and institutions",sa-aljazira:S9
+sa-aljazira,Aljazira Bank (formerly Bank AlJazira),2026-07-27,"H1 2026: affluent customers +4.4%; affluent customers 47% of retail real estate sales and 46% of total sales (retail commentary); new digital credit card journey and revamped account opening in Q2; AlJazira Capital launched four real estate funds since January and is capturing more bank customers; GenAI and agentic AI framework for banking, support and advisory, and sales",sa-aljazira:S8;sa-aljazira:S7
+sa-aljazira,Aljazira Bank (formerly Bank AlJazira),2026-07-28,"CEO interview: Aljazira wants to be 'the preferred financial partner for affluent customers' and is 'actively collaborating with fintechs, technology providers, and strategic partners' in digital payments, wealth solutions and investment platforms",sa-aljazira:S11
+sa-alrajhi-capital,Al Rajhi Capital,2025-03-26,Hossam Al-Basrawi appointed CEO (reported by Enterprise AM citing a company post),sa-alrajhi-capital:S25;sa-alrajhi-capital:S1
+sa-alrajhi-capital,Al Rajhi Capital,2025,"Asset management launched Indirect Financing Funds 2 and 3, a Pharma Sukuk Fund, a Private Conservative Fund and Monthly Distribution 3; real estate launched 13+ private funds; AUM +35% to SAR 165.8bn",sa-alrajhi-capital:S8;sa-alrajhi-capital:S9
+sa-alrajhi-capital,Al Rajhi Capital,2025,"Securities: international traded value +308%, custody launched, securities lending and borrowing and single-stock options added, margin lending fully digital (+150% contracts), Family Proposition, Stock Profile technical analysis, TradingView link, Super Web",sa-alrajhi-capital:S8;sa-alrajhi-capital:S9
+sa-alrajhi-capital,Al Rajhi Capital,2025-11-19,Robo Terms & Conditions update notice posted for clients,sa-alrajhi-capital:S19
+sa-alrajhi-capital,Al Rajhi Capital,2026-02,"Imran Hameed appointed CFO after about 15 years at Al Rajhi Bank (HR Today, search result only)",sa-alrajhi-capital:S27;sa-alrajhi-capital:S1
+sa-alrajhi-capital,Al Rajhi Capital,2026-03-31,"App outage notices posted on 31 Mar, 9 Apr and 28 Jun 2026 (temporary technical issues, resolved)",sa-alrajhi-capital:S19
+sa-alrajhi-capital,Al Rajhi Capital,2026-06-11,Selected EquiLend as securities finance technology partner,sa-alrajhi-capital:S23
+sa-alrajhi-capital,Al Rajhi Capital,2026-06-12,IFN Investor headline: Al Rajhi Capital appoints a new non-independent board member (name not visible),sa-alrajhi-capital:S26
+sa-alrajhi-capital,Al Rajhi Capital,2026-06-30,Benzinga strategic relationship: market intelligence in the US equities trading experience,sa-alrajhi-capital:S24
+sa-alrajhi-capital,Al Rajhi Capital,2026-07-09,CEO ranked #4 in Forbes Middle East Top 50 Asset Managers 2026; Forbes cites AUM above USD 44bn (+34%),sa-alrajhi-capital:S28
+sa-alrajhi-capital,Al Rajhi Capital,2026-08-10,Al Rajhi MSCI Saudi Equity ETF launched on Tadawul (inception shown as '8/10/2026' and '10-Aug-26' on the fund page; SAR 94.4m AUM on 12 Oct 2026),sa-alrajhi-capital:S16
+sa-alrajhi-capital,Al Rajhi Capital,2026-10-03,"App v8.5.1: US growth and dividend stock discovery; fund performance, holdings, geographic allocation and risk analysis",sa-alrajhi-capital:S22
+sa-alrajhi-capital,Al Rajhi Capital,2026,"Stated 2026 priorities: expand international dealing and institutional trading, grow custody, launch a client portal, deepen international public and private market exposure and alternatives, more ECM and M&A mandates",sa-alrajhi-capital:S9;sa-alrajhi-capital:S8
+sa-alrajhi,Al Rajhi Bank,2024-06,Acquired 65% of Drahim Holdings (PFM and automated investment) for SAR 83.4m; stake 67.48% at 30 Jun 2026,sa-alrajhi:S4;sa-alrajhi:S3
+sa-alrajhi,Al Rajhi Bank,2025,"Al Rajhi Capital launched Super Web, a Family Proposition (parents onboard and monitor dependants' investments), securities lending and single-stock options; AUM +35% to SAR 165.8bn",sa-alrajhi:S9
+sa-alrajhi,Al Rajhi Bank,2025,Retail launched a Premium Rewards Credit Card for the HNWI segment; Premium segment customers +8% YoY,sa-alrajhi:S10
+sa-alrajhi,Al Rajhi Bank,2025-09,Drahim launched Drahim Business: automated investing across 30+ local and global funds,sa-alrajhi:S14
+sa-alrajhi,Al Rajhi Bank,2026-04-20,EGM approved a bonus issue raising capital to SAR 60bn and an H2 2025 dividend of SAR 7bn,sa-alrajhi:S3;sa-alrajhi:S49
+sa-alrajhi,Al Rajhi Bank,2026,"Al Rajhi Capital 2026 priorities: expand international dealing and institutional trading, grow custody scale, launch a client portal, deepen alternatives",sa-alrajhi:S9
+sa-alrajhi,Al Rajhi Bank,2026,'nera' lifestyle money-management app operated as an Al Rajhi Bank channel (SAMA licence 1420). A LinkedIn post seen in search results dates its launch to 10 May 2026 (unverified).,sa-alrajhi:S41
+sa-alrajhi,Al Rajhi Bank,2026-07-09,Opened nominations for an 11-member board for 14 Nov 2026 to 13 Nov 2029,sa-alrajhi:S34
+sa-alrajhi,Al Rajhi Bank,2026-07-28,Q2-26 call: CEO said 2026 is the last year of 'Harmonize the Group' and 'we are in the process of preparing our next 3-year strategy'; fee growth drivers included 'investment banking and assets under management',sa-alrajhi:S7
+sa-anb-capital,ANB Capital,2025,"Launched an upgraded trading application and web platform: conditional orders, stop-loss tools, digital IPO subscriptions and enhanced online margin trading",sa-anb-capital:S4
+sa-anb-capital,ANB Capital,2025,Launched 7 closed-ended real estate funds (24 active); introduced two private fixed income funds and two public multi-asset funds; launched a healthcare private equity fund; anb Seed Fund invested in ten fintech companies; full exit of the Narjis View Fund,sa-anb-capital:S4
+sa-anb-capital,ANB Capital,2025,Investment banking: joint bookrunner on the SAR 4.1bn Flynas IPO and on ANB's SAR 3.3bn and USD 750m Additional Tier 1 issues; investment banking fees +65%,sa-anb-capital:S4;sa-anb-capital:S5
+sa-anb-capital,ANB Capital,2025,"Institutional sales and trading desk added two global broker relationships; sell-side research broadened coverage (insurance, software and services, car rental, retail pharmacies, travel and tourism)",sa-anb-capital:S4
+sa-anb-capital,ANB Capital,2025-08,"Board reconstituted: three directors resigned (including the parent's wholesale bank head and its head of strategic investments) and three joined (Ziyad Alhazzani, Mashaal Aljomaih, Khaled Alrashed)",sa-anb-capital:S4
+sa-anb-capital,ANB Capital,2026,"2026 priorities (AR 2025): expand AUM under current offerings, diversify products, grow DPMs, execute a private credit strategy, build joint ventures and partnerships with key players, expand VC and grow PE funds, introduce REITs, upgrade the trading platform for regional and global markets, enhance the institutional desk",sa-anb-capital:S4
+sa-anb-capital,ANB Capital,2026-07-30,"Two anb capital real estate funds acquired 1.7 million sqm of raw land on King Khalid Road, Al Khobar, for more than SAR 800m",sa-anb-capital:S17
+sa-anb-capital,ANB Capital,2026-08-25,Announced changes to the board memberships of several anb capital funds (fund-governance notice; detail not opened),sa-anb-capital:S16
+sa-anb,Arab National Bank,2025-03-11,"Deployed IBM Safer Payments for cross-channel fraud prevention, implemented by ejada",sa-anb:S17
+sa-anb,Arab National Bank,2025,Opened the Kingdom's first Wealth Management Center in the Eastern Region for affluent clients; launched the elite proposition for UHNW individuals; launched a unified CRM for all segments including affluent,sa-anb:S3
+sa-anb,Arab National Bank,2025,Revamped anb mobile app integrated with anb capital investment products; 60-second account opening; retail internet banking rebuilt with in-house hosting,sa-anb:S3
+sa-anb,Arab National Bank,2025,Private Banking launched a dedicated female HNW programme; London branch reopened refurbished Mayfair offices (Q1 2025),sa-anb:S3
+sa-anb,Arab National Bank,2025,Launched the first bank-led fintech accelerator (anb Innovate) with Fintech Saudi; 16 fintechs selected; anb capital's anb Seed Fund participated,sa-anb:S3
+sa-anb,Arab National Bank,2026,"2026 goals (AR 2025): strengthen the affluent banking proposition; AI-driven personalisation and refined segmentation for high-value customers; at anb capital, 'Advance digital and client platforms' and 'Expand product innovation by introducing new investment lines and partnering with fintechs'",sa-anb:S3
+sa-anb,Arab National Bank,2026-03-31,EGM elected the board for 1 Apr 2026 to 31 Mar 2029; Chair and Vice Chair appointed 16 Apr 2026 after SAMA no-objection,sa-anb:S7;sa-anb:S8
+sa-bsf-capital,BSF Capital,2024-06-04,Group rebrand: identity extended to BSF Capital (formerly marketed as Saudi Fransi Capital / SFC),sa-bsf-capital:S13
+sa-bsf-capital,BSF Capital,2025-02-04,Expanded BlackRock partnership for global multi-asset strategies,sa-bsf-capital:S5
+sa-bsf-capital,BSF Capital,2025,Wealth management moved from product-centric to advisory-led model; specialist investment-solutions team; data-driven client engagement,sa-bsf-capital:S1
+sa-bsf-capital,BSF Capital,2025,Digital wealth platform implementation started; 'BSF Invest App' scheduled for early 2026,sa-bsf-capital:S1
+sa-bsf-capital,BSF Capital,2025,"Eight real estate funds plus Rixos resort, film and industrial-city funds launched",sa-bsf-capital:S1
+sa-bsf-capital,BSF Capital,2025-10-19,Hired Viktoria Beromelidze (ex-Bank of China) as Head of DCM,sa-bsf-capital:S8
+sa-bsf-capital,BSF Capital,2026-02-16,"Parent Strategy 2030 sets BSF Capital priorities: wealth management acceleration, brokerage system upgrade, scaling the investment banking franchise and PI portfolio",sa-bsf-capital:S2;sa-bsf-capital:S17
+sa-bsf-capital,BSF Capital,2026-04-03,New CEO appointed (reported by IFN Investor),sa-bsf-capital:S6
+sa-bsf-capital,BSF Capital,2026-05-01,Head of Wealth Management change reported (IFN Investor),sa-bsf-capital:S7
+sa-bsf-capital,BSF Capital,2026-07-27,Strategy refreshed around institutional and private banking; near-term focus on brokerage and asset management fees,sa-bsf-capital:S10
+sa-bsf,Banque Saudi Fransi,2023-02-01,Incorporated Sur Multi Family Office Limited (UK; SIC 66300 fund management) to provide wealth management services to BSF's HNW clients and their families,sa-bsf:S23;sa-bsf:S4
+sa-bsf,Banque Saudi Fransi,2024-06-04,Rebranded from Banque Saudi Fransi to 'BSF'; identity extended to BSF Capital,sa-bsf:S20
+sa-bsf,Banque Saudi Fransi,2025-02-04,BSF Capital expanded its partnership with BlackRock for global multi-asset strategies,sa-bsf:S24
+sa-bsf,Banque Saudi Fransi,2025,"New Private Banking strategy launched in early 2025 (proactive sales model, client personas, family banking, project-based financing for HNW investors)",sa-bsf:S6
+sa-bsf,Banque Saudi Fransi,2025,"BSF Capital started implementing a digital wealth platform; first output to be the 'BSF Invest App', scheduled for early 2026",sa-bsf:S6
+sa-bsf,Banque Saudi Fransi,2025,Omni digital platform rebranded and enhanced; 100% of mandated Open Banking APIs certified; GenAI exploration track launched,sa-bsf:S6
+sa-bsf,Banque Saudi Fransi,2026-02-16,"Strategy 2030 announced: ROE >15%, net income market share 8-10%, >75% STP, 50+ AI use cases; priorities include 'Accelerate Wealth Management in BSFC', 'Upgrade brokerage ecosystem', 'Differentiation in Affluent' and Private Banking product expansion",sa-bsf:S12;sa-bsf:S7
+sa-bsf,Banque Saudi Fransi,2026-07-27,Q2 2026 call: BSF Capital strategy 'refreshed around institutional and private banking'; affluent 'launched new propositions and channels'; Private Banking 'started to broaden its proposition',sa-bsf:S9
+sa-bsf,Banque Saudi Fransi,2026-09-29,MoU with Diriyah Company for Private Banking clients,sa-bsf:S19
+sa-d360,D360 Bank,2022-02-15,"Council of Ministers decree no. 389 licensed D360 Bank (initial capital SAR 1.65bn, led by Derayah; PIF among backers)",sa-d360:S1;sa-d360:S10
+sa-d360,D360 Bank,2023-11-22,"Early digital banking services (accounts, free international transfers, bill payments) opened to a waitlist of existing customers",sa-d360:S16
+sa-d360,D360 Bank,2024-12-18,SAMA announced no objection to D360 launching banking operations in the Kingdom; Derayah dates the commercial launch to Dec 2024,sa-d360:S9;sa-d360:S7
+sa-d360,D360 Bank,2025-03-11,Partnership with Mozn to integrate FOCAL AML compliance for onboarding,sa-d360:S15
+sa-d360,D360 Bank,2025-06-03,"CEO told Bloomberg the bank was in early talks with European/US investors for a Series A, had raised about USD 500m from existing shareholders incl. PIF and Derayah, and targeted 4m accounts and a possible listing within four years",sa-d360:S13
+sa-d360,D360 Bank,2026-06,"Derayah's June 2026 presentation reports 23 products and features launched in 12 months across retail and API-based banking, positive unit economics in lending, savings and remittances, and the bank past its peak loss phase in 2025",sa-d360:S7
+sa-d360,D360 Bank,2026-06-14,"Extraordinary General Assembly approved a SAR 1.5bn capital raise (72.9m shares at SAR 20.57; SAR 4.5bn pre-money, SAR 6bn post-money) to expand lending, target SME finance and scale API banking; listing considered in about three years",sa-d360:S11;sa-d360:S12;sa-d360:S6
+sa-d360,D360 Bank,2026-08-04,"Derayah reports D360 at end-June 2026: 3m+ customers, SAR 3.6bn deposits, SAR 500m loans disbursed, losses falling for a second quarter; pilot of Derayah-D360 platform integration",sa-d360:S6
+sa-d360,D360 Bank,2026-09-15,Initiative appointed media agency of record; release cites 3.4m+ customers,sa-d360:S14
+sa-derayah,Derayah Financial,2024-12-09,Strategic partnership and investment with Alpaca,sa-derayah:S15
+sa-derayah,Derayah Financial,2025-03-10,"Listed on the Saudi Exchange Main Market (SAR 30 offer price, about SAR 1.5bn secondary sale); ESOP launched the same month",sa-derayah:S9;sa-derayah:S16
+sa-derayah,Derayah Financial,2025-08,Launched the Saudi market's first Shariah-compliant securities borrowing and lending program; local SYEP revenue began 3Q 2025; Credit Income private credit fund launched,sa-derayah:S9;sa-derayah:S6
+sa-derayah,Derayah Financial,2025-09-16,"Abyan Capital MoU; Tamra, Malaa and Eddekhar agreements and D360 technical integration the same month",sa-derayah:S18;sa-derayah:S9
+sa-derayah,Derayah Financial,2025,Relaunched Derayah SMART robo-advisory and launched nine funds including private markets exposure,sa-derayah:S7;sa-derayah:S9
+sa-derayah,Derayah Financial,2026-01-18,"Zero-commission trading on Saudi equities, described as a market first",sa-derayah:S7
+sa-derayah,Derayah Financial,2026-03-30,FY2025 results and first publication of Strategy 2030 ambitions,sa-derayah:S7
+sa-derayah,Derayah Financial,2026-06,Launched a real estate fund late in 2Q 2026; D360 EGM approved a SAR 1.5bn capital raise at SAR 4.5bn pre-money with Derayah committing SAR 100m,sa-derayah:S5
+sa-derayah,Derayah Financial,2026-07-23,Announced integration of Trading Central AI research tools,sa-derayah:S17
+sa-derayah,Derayah Financial,2026-08-04,"2Q 2026 results: Strategy 2030 targets (1.1m accounts, about 3x AUM, about 2x operating income, 55% recurring revenue, ROAE above 42%); second interim dividend SAR 0.33 per share",sa-derayah:S5;sa-derayah:S6
+sa-jadwa,Jadwa Investment,2025,"Moved head office to Laysen Valley, Riyadh; introduced a dedicated client service call centre and upgraded client coverage model",sa-jadwa:S1
+sa-jadwa,Jadwa Investment,2025,Launched Jadwa Developed Markets Core Equity Fund (second active developed-markets equity strategy); multi-asset discretionary and fund platform enhanced,sa-jadwa:S1
+sa-jadwa,Jadwa Investment,2025,"Digital client interface enhancements: online registration, open banking capabilities, instant IBAN verification, real-time deposits, online FX rates and transfers; core trading system and omnibus account upgraded (35 additional processes automated)",sa-jadwa:S1
+sa-jadwa,Jadwa Investment,2025,"Second close of Jadwa GCC Diversified Private Equity Fund to SAR 1.3bn; two more investments (Makhazen Alenaya majority stake, PetroApp minority stake); fund 57% deployed across five investments",sa-jadwa:S1
+sa-jadwa,Jadwa Investment,2025,Launched Jadwa Al-Khair and Jadwa Al-Majdiah Real Estate Fund 3 (SAR 960m aggregate commitments); eight funds completed 28 acquisitions worth SAR 2.34bn,sa-jadwa:S1
+sa-jadwa,Jadwa Investment,2025-12-31,"AUM crossed SAR 100bn for the first time (SAR 100.99bn, +18.34%); SAR 9.87bn of new advisory and fiduciary mandates",sa-jadwa:S1
+sa-jadwa,Jadwa Investment,2026-01-14,"Launched Jadwa GCC Diversified Private Credit Fund (target up to SAR 750m; first close over SAR 300m), first regional blind-pool private credit vehicle, for institutional and private wealth investors",sa-jadwa:S13
+sa-jadwa,Jadwa Investment,2026-06-01,Signed MoU with State Street on asset servicing and global custody for institutional clients in Oman,sa-jadwa:S18
+sa-jadwa,Jadwa Investment,2026-06-17,"Euromoney named Jadwa Middle East's best Islamic fund manager 2026; article lists 12 real estate funds launched, Managed Volatility and Core Equity developed-markets strategies and new private credit and multi-asset hires",sa-jadwa:S17
+sa-jadwa,Jadwa Investment,2026-07-06,Announced two Makkah real estate development funds worth up to SAR 10bn; real estate AUM about SAR 26bn with a SAR 50bn five-year target,sa-jadwa:S16
+sa-jadwa,Jadwa Investment,2026-08-17,Q2 2026 dividends announced for Jadwa REIT Saudi Fund and Jadwa REIT Al Haramain Fund; H1 2026 REIT statements published 11 Aug 2026,sa-jadwa:S14
+sa-riyad-capital,Riyad Capital,2023-05,Abdullah Alshwer appointed CEO (Argaam press release dated 11/05/2023),sa-riyad-capital:S23;sa-riyad-capital:S1
+sa-riyad-capital,Riyad Capital,2023-07-05,New Riyad Capital mobile trading app announced (built with KingEclient per a press release seen in search results),sa-riyad-capital:S24
+sa-riyad-capital,Riyad Capital,2024-04,Riyad Bank's board approved a study of a Tadawul main-market IPO of part of Riyad Capital,sa-riyad-capital:S22
+sa-riyad-capital,Riyad Capital,2025-07-01,"Riyad Capital filed with the CMA for registration and IPO of part of its shares on the Saudi Exchange, subject to approvals and Riyad Bank's final decision; FS 2025 notes it will leave the zakat group after the public offering; no approval or prospectus found by 12 Oct 2026",sa-riyad-capital:S22;sa-riyad-capital:S5
+sa-riyad-capital,Riyad Capital,2025,"Asset management: Fixed Income Funds 3 and 4, Financing Fund 5, Monthly Distribution Multi-Asset Fund, five real estate funds, Mostashary robo-advisory launch, migration to Bloomberg AIM; led the Ninja pre-IPO round (over SAR 1bn)",sa-riyad-capital:S6
+sa-riyad-capital,Riyad Capital,2025,"Brokerage: TradingView, rewards programme, face login, portfolio views, securities yield enhancement, extended US pre-market for the Lite tier, algorithmic trading with HFT and market-making support; custody passed SAR 1 trillion",sa-riyad-capital:S6
+sa-riyad-capital,Riyad Capital,2025,Corporate investment banking advised on six sukuk and bond deals worth SAR 30.3bn (incl. SAR 2bn Riyad Bank AT1 as sole lead) and the SAR 5.3bn Petro Rabigh capital increase; CIB fees fell 35%,sa-riyad-capital:S6;sa-riyad-capital:S5
+sa-riyad-capital,Riyad Capital,2026-03,FS 2025 authorised (Chairman Mohammed Al Joaid signing); by 12 Oct 2026 the board page shows a different seven-member board chaired by Waleed Fatani (no announcement found),sa-riyad-capital:S5;sa-riyad-capital:S3
+sa-riyad-capital,Riyad Capital,2026-06-14,Riyad Capital app v2.0.5 released (general enhancements),sa-riyad-capital:S20
+sa-riyad-capital,Riyad Capital,2026-08,Parent 2Q26 deck: segment AUM SAR 101.3bn (+4% vs 4Q25) while brokerage value traded fell 30% YoY to SAR 44.7bn and segment income before zakat fell 12%,sa-riyad-capital:S7
+sa-riyad-capital,Riyad Capital,2026-09-21,Riyad Global app v10.07 released (bug fixes and stability),sa-riyad-capital:S21
+sa-riyad,Riyad Bank,2024-02-01,"Nadir Al-Koraya became CEO, succeeding Tareq Al-Sadhan",sa-riyad:S22;sa-riyad:S2
+sa-riyad,Riyad Bank,2025,"Launched a Shariah-compliant digital Gold Account (buy, sell, hold gold in digital channels); redesigned Riyad Mobile app with 125+ features, in-app personal finance management tool, Samsung Pay and Google Pay",sa-riyad:S5
+sa-riyad,Riyad Bank,2025,Riyad Capital launched the in-house Mostashary robo-advisory tool (SAR 1.7m invested in first month) and the Wa'i Mali youth financial-literacy series,sa-riyad:S5
+sa-riyad,Riyad Bank,2025,"Jeel became the bank's main development partner (Riyad Mobile, MSME platform, Home Buying Ecosystem) and won its first external client; Center of Intelligence launched the first enterprise AI strategy and moved GenAI pilots into production",sa-riyad:S5
+sa-riyad,Riyad Bank,2025-10-28,Jeel and Mambu partnership for the Jeel fintech sandbox (developed with Fintech Saudi; hosted on Google Cloud),sa-riyad:S18
+sa-riyad,Riyad Bank,2026-01-28,"Jeel signed an MoU with Ripple for sandbox proofs-of-concept on payments, digital-asset custody and tokenisation",sa-riyad:S19;sa-riyad:S20
+sa-riyad,Riyad Bank,2026,Stated 2026 plans: new 'Elite' tier within Affluent Banking; Treasury bond programme and coverage of Private and Affluent clients; Agentic AI pilots; embedded finance; Open Finance payment initiation,sa-riyad:S5
+sa-riyad,Riyad Bank,2026-08,"2030 strategy: four themes - Hyperscale Retail (digital acquisition, embedding in third-party ecosystems, loyalty), Wholesale, 'AI to-the-core' (advanced analytics, GenAI, Agentic AI), and a robust core technology foundation with a new core banking system",sa-riyad:S6
+sa-sab-invest,SAB Invest,2022-12,Completed acquisition of HSBC Saudi Arabia's asset management and retail brokerage businesses; launched 5-year 17-initiative strategy,sa-sab-invest:S5;sa-sab-invest:S23
+sa-sab-invest,SAB Invest,2023-04-04,New SAB Invest brand and identity introduced (Arabic: الأول للاستثمار),sa-sab-invest:S8
+sa-sab-invest,SAB Invest,2025,"Replaced legacy asset-management core system (registry, transfer agency, valuation, reporting); CRM rollout; Employee Thrift and Investment Plan platform; WorldTrader launched; Digital Wealth app with MAL robo/model portfolios soft-launched; digital non-resident onboarding",sa-sab-invest:S5
+sa-sab-invest,SAB Invest,2025-05-07,"Launched SAB Invest Saudi Quant ETF, described as the first quantitative ETF on the Saudi Exchange",sa-sab-invest:S20;sa-sab-invest:S21
+sa-sab-invest,SAB Invest,2025,"Q4 2025 strategy refresh: new growth initiatives through 2030, including AI tools and new client segments (foreign investors)",sa-sab-invest:S5
+sa-sab-invest,SAB Invest,2026,"Plans: goal-based investing module, AI next-best-action tools for advisers, distribution via fintechs and digital wallets, open-banking onboarding for non-residents, brokerage core system upgrade",sa-sab-invest:S5
+sa-sab-invest,SAB Invest,2026-06-17,Launched securities lending with J.P. Morgan as agent,sa-sab-invest:S17
+sa-sab-invest,SAB Invest,2026-08-12,"Launched the SAB Invest Global Select Equity Fund (open-ended, Shariah, USD; operations from 3 Aug 2026)",sa-sab-invest:S18
+sa-sab,Saudi Awwal Bank,2021-05,"Alawwal Invest (now SAB Invest) agreed to acquire HSBC Saudi Arabia's asset management, retail brokerage and retail margin lending businesses; completed at the end of 2022",sa-sab:S15;sa-sab:S4
+sa-sab,Saudi Awwal Bank,2023-06-11,Bank renamed from The Saudi British Bank to Saudi Awwal Bank,sa-sab:S3
+sa-sab,Saudi Awwal Bank,2025,"New SAB mobile experience (family banking, international services, digital cards); Family Banking proposition launched H2 2025; Google Pay; Pay with ICSAB+ loyalty points",sa-sab:S4
+sa-sab,Saudi Awwal Bank,2025,"Private Banking: SAR 4.7bn referrals to SAB Invest; SAB Invest launched WorldTrader, Saudi Quant ETF (with HSBC Asset Management), MENA private credit strategy and soft-launched a Digital Wealth app with robo-advisory",sa-sab:S4
+sa-sab,Saudi Awwal Bank,2026-02-09,4Q25 call: 2026 is the last year of the 2021 strategy (extended one year); work on the next 4-5 year strategy has started and will be developed during 2026,sa-sab:S8
+sa-sab,Saudi Awwal Bank,2026-04-14,Euromoney Best Private Banking in Saudi Arabia (fourth year) and Global Finance Best Private Banking; bank says it is expanding its private banking products and investment services,sa-sab:S14
+sa-sab,Saudi Awwal Bank,2026-06-17,SAB Invest launched securities lending with J.P. Morgan as agent (see sa-sab-invest),sa-sab:S19
+sa-sahm,Sahm Capital,2023-12,"Sahm App launched; CMA full licences completed in stages (dealing, advising, custody in 2022-23; arranging, managing and fund operation approved 1 Feb 2024, business commenced Oct 2024)",sa-sahm:S2;sa-sahm:S6;sa-sahm:S7;sa-sahm:S8
+sa-sahm,Sahm Capital,2024-10-16,Launched US index options (S&P 500 and Mini S&P 500) and a lifetime 70% commission discount on Saudi trades for new registrants,sa-sahm:S9
+sa-sahm,Sahm Capital,2025-02-12,PIF-backed ewpartners led a USD 48m strategic investment in parent VCGL; Sahm reported over one million users by 31 Dec 2024,sa-sahm:S14;sa-sahm:S15
+sa-sahm,Sahm Capital,2026-02,"Opened onboarding to global individual investors for Saudi equities, ETFs and REITs after the CMA opened the market to all foreign investors from 1 Feb 2026; lifetime zero commission on Saudi stocks",sa-sahm:S16
+sa-sahm,Sahm Capital,2026-04,"Sahm Financial Limited (DIFC) granted a DFSA licence (advising, arranging, dealing as agent; retail clients; holding client assets)",sa-sahm:S10;sa-sahm:S13
+sa-sahm,Sahm Capital,2026-04,Opened a customer-service office in Jeddah (month taken from a search-result URL date),sa-sahm:S17
+sa-sahm,Sahm Capital,2026-05-20,Announced more than 2 million Sahm App users,sa-sahm:S12
+sa-sahm,Sahm Capital,2026-09-29,Launched services for UAE investors through Sahm Financial Limited (Saudi and US equity accounts),sa-sahm:S11;sa-sahm:S19
+sa-saib,The Saudi Investment Bank (SAIB),2025,Rolled out the new retail mobile app to all customers (4.8 rating); launched an app-only Daily Savings Account (Mudaraba); Google Pay integration; Huawei AppGallery release; new segmentation and revamped KYC onboarding for Affluent and Private Banking customers; commercial real estate financing for them,sa-saib:S1;sa-saib:S5
+sa-saib,The Saudi Investment Bank (SAIB),2025,"S60 Ventures: USD 100m fintech venture fund managed by Alistithmar Capital; refreshed Strategy 2027 in Q4 2025 with additional priorities for 2026-2027 (product development, digital capabilities, data and analytics, customer experience, sales effectiveness)",sa-saib:S4;sa-saib:S5;sa-saib:S3
+sa-saib,The Saudi Investment Bank (SAIB),2026-05,Issued SAR 1.85bn Additional Tier 1 Sukuk,sa-saib:S3
+sa-saib,The Saudi Investment Bank (SAIB),2026-08-10,"H1 2026 release outlook: continued growth in corporate and private banking, further development of the retail offer, and expansion of fee-based businesses including asset management and brokerage",sa-saib:S3
+sa-saib,The Saudi Investment Bank (SAIB),2026-09-28,Board accepted CEO Faisal Al-Omran's resignation (effective 30 Sep 2026) and named Deputy CEO Salman Al-Fughom CEO effective 1 Oct 2026 after SAMA no-objection,sa-saib:S13;sa-saib:S14
+sa-snb-capital,SNB Capital,2023,"SNB Capital Batteries Fund (Shariah-compliant, ESG-themed, invests in SK On) and 2024 Ahalina and Financial Awareness programmes listed on the strategic initiatives page; 15 Jun 2023 board placed all management committees under the CEO. Awards page lists 2024 Saudi Capital Market Awards (Investment Bank of the Year, Most Active Derivatives Broker) and 2024 Euromoney Islamic Finance awards; no 2025-26 awards listed there",sa-snb-capital:S24;sa-snb-capital:S33
+sa-snb-capital,SNB Capital,2025,"Asset management launched 18 new products (SNB annual report) / 20 new funds (SNB Capital annual report), incl. 13 private real estate funds, a waqf fund and three international credit funds; diversified into alternatives, money markets and fixed income and multi-asset funds",sa-snb-capital:S6;sa-snb-capital:S5
+sa-snb-capital,SNB Capital,2025,Investment banking closed its 100th transaction since the 2021 merger (total value above SAR 750bn); more than 25 deals in 2025 incl. the SAR 7.13bn ACWA Power rights issue; over 50% share in ECM and 70% in DCM,sa-snb-capital:S6;sa-snb-capital:S5
+sa-snb-capital,SNB Capital,2025,SNB's annual report: Asset Management is a core contributor to a robo-advisory platform being added to Wealth Management services; asset management business areas encouraged to deploy AI,sa-snb-capital:S6
+sa-snb-capital,SNB Capital,2025,"Idikhari employee savings programme reached about SAR 24bn AUM and about 90,000 participants; 2025-27 strategy levers: market-leading position, digital client experience, SNB Group collaboration, partnerships to expand client offerings",sa-snb-capital:S5;sa-snb-capital:S6
+sa-snb-capital,SNB Capital,2026-01-14,Strategic partnership with Orion Resource Partners to support the Kingdom's mining and midstream projects,sa-snb-capital:S27;sa-snb-capital:S25
+sa-snb-capital,SNB Capital,2026-02-08,"Strategic partnership with Investcorp Saudi Arabia for alternatives (private equity, real assets, credit) across asset management, investment banking and wealth management",sa-snb-capital:S26;sa-snb-capital:S25;sa-snb-capital:S36
+sa-snb-capital,SNB Capital,2026-02-18,"Appointed fund manager of the Namaa Endowment Fund launched by the Ministry of Environment, Water and Agriculture (Shariah-compliant public offering)",sa-snb-capital:S28;sa-snb-capital:S25
+sa-snb-capital,SNB Capital,2026-03,Leadership reshuffle: Mohammed Al-Saggaf became Head of Client Relations and Distribution (from Head of Wealth Management); Naif Al-Saif became Chief Investment Officer; Mohammed Al Ali became Head of Real Estate Investments,sa-snb-capital:S2;sa-snb-capital:S1
+sa-snb-capital,SNB Capital,2026-05-03,Financial close of a USD 456m ECA financing announced,sa-snb-capital:S25
+sa-snb-capital,SNB Capital,2026-07-19,"Named 'Best in Saudi Arabia' for ECM, Research and Islamic Structured Finance",sa-snb-capital:S25
+sa-snb-capital,SNB Capital,2026-08-05,"SNB 2Q 2026 deck: SNB Capital #1 in AUM and brokerage share, #3 in investment banking (2025 revenue basis); 2027 targets are #1 in all three. Capital Markets segment income before zakat fell 22% in H1 2026 on softer market volumes",sa-snb-capital:S7
+sa-snb-capital,SNB Capital,2026-09-10,Hosted 'Growth Connect' event bringing Saudi-listed companies and investors together,sa-snb-capital:S25
+sa-snb-capital,SNB Capital,2026-09-11,SNB Capital app v2.20.19 released (stability and performance enhancements),sa-snb-capital:S31
+sa-snb,Saudi National Bank,2024-05-01,Tareq Alsadhan (ex-CEO Riyad Bank) took office as Group CEO,sa-snb:S22
+sa-snb,Saudi National Bank,2025,"2025-2027 strategy: 'Deliver differentiated value proposition in HNW and Affluent', develop new fee streams and an 'SNB Capital fee focus'; leverage AI, analytics and open banking; grow NEO",sa-snb:S4
+sa-snb,Saudi National Bank,2025,AR 2025: robo-advisory platform being added to Wealth Management services (SNB Capital),sa-snb:S4
+sa-snb,Saudi National Bank,2026-08-05,"Group CEO announced scaling of an Enterprise AI Program (AI operating model, data foundations, AI for customer journeys and employee workflows); 21 AI & data use cases at 1H26 vs >30 target for 2027",sa-snb:S6;sa-snb:S5
+sa-snb,Saudi National Bank,2026-08-19,Launched World Legend Mastercard for private-banking clients,sa-snb:S19
+sa-snb,Saudi National Bank,2026-09-03,Fawaz Al Thumairi appointed Deputy CEO 'to strengthen executive leadership and the operating model',sa-snb:S21;sa-snb:S1
+sa-stcbank,STC Bank,2021-06-22,"Cabinet approved licensing two local digital banks: STC Bank (stc pay converted, SAR 2.5bn capital) and Saudi Digital Bank (SAR 1.5bn)",sa-stcbank:S11
+sa-stcbank,STC Bank,2024-12-30,"Extraordinary General Assembly raised paid-up capital to SAR 6,350m; stc injected SAR 3,000m, lifting its stake to 92.26%",sa-stcbank:S7
+sa-stcbank,STC Bank,2025-01-28,SAMA gave no objection to STC Bank commencing banking operations as a digital bank; commercial launch followed in Feb 2025,sa-stcbank:S13;sa-stcbank:S7;sa-stcbank:S14
+sa-stcbank,STC Bank,2025-04-23,"CEO told Bloomberg the full suite, including loans and investment products for large companies, SMEs and retail, would launch later in 2025; stc had provided USD 800m of cash before launch",sa-stcbank:S19
+sa-stcbank,STC Bank,2025-08-04,Mohammed Al-Fraih appointed Acting CEO after Nizar Altwaijri stepped down in Jul 2025,sa-stcbank:S15
+sa-stcbank,STC Bank,2025-12-31,"FY2025: 15+ products launched since Feb 2025 across accounts, payments and financing; 8m+ customers; 90% increase in app downloads",sa-stcbank:S7
+sa-stcbank,STC Bank,2026-07,H1 2026 results: 8.5m+ customers; lending products launched; revenue SAR 792m (+13.8%); stc expects the bank to need more capital over the next three to five years and says no subsidiary IPO is expected within a year,sa-stcbank:S8;sa-stcbank:S9
+sa-visionbank,Vision Bank,2021-06-22,"Cabinet approved licences for two local digital banks: STC Bank and Saudi Digital Bank (SAR 1.5bn, group led by Abdul Rahman bin Saad Al-Rashed and Sons), announced by SAMA",sa-visionbank:S8
+sa-visionbank,Vision Bank,2025-01-01,"Pilot phase launched for a limited number of clients after SAMA's go-ahead: Murabaha deposits, payment cards, domestic transfers and bill payments",sa-visionbank:S13
+sa-visionbank,Vision Bank,2025-09-15,SAMA granted non-objection to commence digital banking operations; Vision Bank became the third digital bank approved,sa-visionbank:S7;sa-visionbank:S10;sa-visionbank:S14
+sa-visionbank,Vision Bank,2026-01-01,"Bank announced a second phase of expansion across customer segments, with Noura AI account opening and transfers and family savings; entrepreneur and SME accounts to follow soon",sa-visionbank:S15
+sa-visionbank,Vision Bank,2026-01-28,Capital increase from SAR 1.5bn to SAR 3bn agreed at a SAR 3.2bn pre-money valuation; MIS signed for SAR 23.75m,sa-visionbank:S12
+sa-visionbank,Vision Bank,2026-02-09,"Sponsored feature positions the bank as the first AI-powered Islamic digital bank, with Family Banking and a planned SME offer",sa-visionbank:S17
+sa-visionbank,Vision Bank,2026,"Strategic partnership with Publicis Sapient announced around Money20/20 Middle East, Riyadh (release undated)",sa-visionbank:S16

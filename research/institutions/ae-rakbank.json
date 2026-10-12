@@ -1,0 +1,1260 @@
+{
+  "id": "ae-rakbank",
+  "name": "RAKBANK (The National Bank of Ras Al Khaimah)",
+  "short_name": "RAKBANK",
+  "legal_name": "The National Bank of Ras Al-Khaimah (P.S.C.)",
+  "name_ar": "بنك رأس الخيمة الوطني",
+  "country": "AE",
+  "hq_city": "Ras Al Khaimah (corporate headquarters in Dubai Silicon Oasis)",
+  "website": "https://www.rakbank.ae",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1976",
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
+  "listed": true,
+  "exchange": "ADX",
+  "ticker": "RAKBANK",
+  "parent_id": null,
+  "ownership_summary": "Listed on ADX. The Government of Ras Al Khaimah owns 49.35% and Mr Ahmed Essa Al Naeem 6.96% (31 Dec 2025, integrated report; same figures on the IR page as of 31 Jul 2025). The H1 2026 financial statements state the Bank is controlled by the Government of Ras Al Khaimah by majority of voting rights.",
+  "shareholders": [
+    {
+      "holder": "Government of Ras Al Khaimah",
+      "pct": 49.35,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4",
+        "S8"
+      ]
+    },
+    {
+      "holder": "Mr Ahmed Essa Ahmed Al Naeem",
+      "pct": 6.96,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4",
+        "S8"
+      ]
+    }
+  ],
+  "government_link": "Yes — Government of Ras Al Khaimah holds 49.35% and controls the Bank by majority of voting rights (31 Dec 2025 / 30 Jun 2026).",
+  "group_structure": "Parent bank with an Islamic banking window (RAKislamic). Subsidiaries at 30 Jun 2026: Ras Al Khaimah National Insurance Company PSC (RAKInsurance, 79.23%), BOSS FZCO (back office, 80% legal / 100% beneficial), RAK Technologies FZCO (under liquidation), Protego Insurance Brokers L.L.C. (100%), RAKAZA (Management Office) (100%), plus RAKBANK Digital Assets LLC (incorporated 2025 to issue payment tokens; capital infusion in progress). No asset-management or brokerage subsidiary; brokerage runs inside the bank under its own capital-markets licence.",
+  "subsidiaries": [
+    {
+      "name": "Ras Al Khaimah National Insurance Company PSC (RAKInsurance)",
+      "pct": 79.23,
+      "activity": "Insurance underwriting",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "Protego Insurance Brokers L.L.C.",
+      "pct": 100.0,
+      "activity": "Insurance brokerage / digital insurance aggregator",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "name": "BOSS FZCO",
+      "pct": 80.0,
+      "activity": "Back-office support (beneficial ownership 100%)",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "RAK Technologies FZCO",
+      "pct": 80.0,
+      "activity": "Technology support; under liquidation (beneficial ownership 100%)",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "RAKAZA (Management Office)",
+      "pct": 100.0,
+      "activity": "Sales and support services to the Bank",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "name": "RAKBANK Digital Assets LLC",
+      "pct": 100.0,
+      "activity": "Incorporated 2025 to issue payment tokens; capital infusion in progress",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    }
+  ],
+  "footprint": "UAE only: 19 branches and two electronic banking units (30 Jun 2026); branches in Ras Al Khaimah, Dubai, Abu Dhabi, Sharjah, Ajman and Fujairah; Elite centres in Dubai (Opus Tower), Abu Dhabi (Omnia Tower) and Ras Al Khaimah.",
+  "customer_segments": "Personal Banking (mass market, Select, Elite affluent tier, non-resident Elite, microsegment of blue-collar workers), Business Banking (SME — core franchise), Wholesale Banking (corporates, financial institutions), Islamic banking (RAKislamic).",
+  "business_lines": "Personal Banking (cards, loans, mortgages, deposits, Elite/Select premium banking and wealth: funds, bonds and fractional bonds, sukuk, structured products, wealth lending, digital gold/silver, in-app global equities and crypto); Business Banking (SME); Wholesale Banking (corporate, FI, treasury, DCM, trade); RAKislamic window; insurance (RAKInsurance, Protego); Skiply education/family payments app. Merchant acquiring sold to Network International in Mar 2026.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 108611423,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated interim statement of financial position",
+      "status": "Verified",
+      "locator": "S1 p.2 (PDF p.4)",
+      "note": "Reviewed, unaudited. 31 Dec 2025 (audited): AED 105,018,338 thousand.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S19"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 75146597,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Deposits from customers' (current, time, saving and call deposits; includes Islamic deposits; excludes due to banks AED 6,962,367 thousand)",
+      "status": "Verified",
+      "locator": "S1 p.2 and note 10",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 58081542,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and advances, net' (net of provision for credit losses; includes Islamic financing assets)",
+      "status": "Verified",
+      "locator": "S1 p.2 and note 7",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 60847675,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total loans and advances before provision for credit losses (retail 25.85bn, wholesale 23.56bn, business banking 11.44bn)",
+      "status": "Verified",
+      "locator": "S1 note 7(a)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 15018698,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity (incl. Tier 1 capital notes AED 1,101,900 thousand and non-controlling interests)",
+      "status": "Verified",
+      "locator": "S1 p.2",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 5167997,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income' (net interest and Islamic financing income plus non-interest income, after insurance expense)",
+      "status": "Verified",
+      "locator": "S3 consolidated statement of profit or loss, p.11 (PDF p.13)",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 2600320,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year after tax attributable to owners of the Bank (total profit after tax AED 2,609,291 thousand)",
+      "status": "Verified",
+      "locator": "S3 p.11 (PDF p.13)",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 3125075,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income', six months to 30 Jun 2026",
+      "status": "Verified",
+      "locator": "S1 p.3 (PDF p.5)",
+      "note": "Includes AED 473m gain on sale of the merchant acquiring business (S2).",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 1706636,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period after tax attributable to owners of the Bank (total AED 1,712,582 thousand)",
+      "status": "Verified",
+      "locator": "S1 p.3 (PDF p.5)",
+      "note": "Includes one-off AED 473m merchant-acquiring disposal gain.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "metric": "fiduciary_assets",
+      "value": 6811,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Market value of assets held in a fiduciary capacity for customers without recourse (off balance sheet). NOT AUM.",
+      "status": "Verified",
+      "locator": "S1 note 28 'Fiduciary activities' (PDF p.28)",
+      "note": "31 Dec 2025: AED 6,696m; 31 Dec 2024: AED 5,905m (S3 note 38).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "fiduciary_income",
+      "value": 70403,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Fiduciary income' line within net fees and commission income",
+      "status": "Verified",
+      "locator": "S3 note 25 (PDF p.55)",
+      "note": "FY2024: AED 49,281 thousand. H1 2026: AED 38,247 thousand (S1 note 21).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 19,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (UAE)",
+      "definition": "Branches (plus two electronic banking units)",
+      "status": "Verified",
+      "locator": "S1 note 1",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "2025 integrated report (S4 p.28 gives only growth: wealth management income +34% and 'AUM' +11% YoY in 2025); FY2025 FS (S3); H1 2026 FS and MD&A (S1, S2); wealth pages (S11–S13). Only fiduciary assets are disclosed (recorded separately, not AUM)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "S2, S4, Euromoney premier banking profile (S20, paywalled)."
+    },
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "S2 and S4 give only growth rates (digitally active customers +17% YoY H1 2026; active customer base +17% in 2025) and sub-segment counts (Rai served 270,000 customers; 2.4m microsegment payroll cardholders); no total customer number."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "S2, S4, equities and crypto product pages (S13, S14)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "S4 p.46 reports bank headcount of 2,152 for 2025 but notes a transfer of workforce to a wholly owned subsidiary, so it is not a group total; not recorded."
+    }
+  ],
+  "people": [
+    {
+      "name": "Mohamed Omran Alshamsi",
+      "name_ar": null,
+      "title": "Chairman of the Board (Independent, Non-executive)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Chairman named in AGM disclosure of 2 Mar 2026.",
+      "previous_roles": "35 years with Etisalat, retiring as CEO and Chairman in 2012; former chair of boards of trustees of American University of Ras Al Khaimah and RAK Medical & Health Sciences University (official bio).",
+      "education": "Engineering degree in Electronics and Communications, Cairo University (1977)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Chaired the AGM on 2 Mar 2026 as 'Chairman of the Board' (S7); listed on official board page (S10); integrated report remuneration table 'Chairperson' (S4 PDF p.59). Checked 2026-10-12.",
+      "source_ids": [
+        "S7",
+        "S10",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikha Amneh Saud AlQasimi",
+      "name_ar": null,
+      "title": "Vice Chair (Independent, Non-executive)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Chairman of the Investment and Development Office (IDO), Ras Al Khaimah's strategic investment arm; previously Goldman Sachs Investment Strategy Group, New York (official bio).",
+      "education": "MBA, Stanford Graduate School of Business; BSc Business Administration, American University of Sharjah",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page (S10); 'Vice-Chair' in 2025 integrated report (S4). Checked 2026-10-12.",
+      "source_ids": [
+        "S10",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Stephen Monaghan",
+      "name_ar": null,
+      "title": "Board Member (Independent, Non-executive)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "General Partner, FinMirai (Tokyo); founded the innovation groups at DBS Bank and AIA; investor in AI and fintech (official bio).",
+      "education": "EMBA, Helsinki School of Economics",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page (S10); integrated report (S4). Checked 2026-10-12.",
+      "source_ids": [
+        "S10",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Raheel Ahmed",
+      "name_ar": null,
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2022-01",
+      "appointed_note": "",
+      "previous_roles": "2022– Group CEO RAKBANK; previously Barclays UK (Executive Committee member, Chief Product & Analytics Officer); earlier senior executive roles at Standard Chartered and Citigroup (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page (S9); signed H1 2026 financial statements as CEO and quoted as Group CEO in H1 2026 release (S1, S2). No departure news found. Checked 2026-10-12.",
+      "source_ids": [
+        "S9",
+        "S1",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Shehzad Hameed",
+      "name_ar": null,
+      "title": "Managing Director, Personal Banking",
+      "functions": [
+        "Retail",
+        "Affluent",
+        "Wealth"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Personal Banking Group (incl. Elite and Wealth)",
+      "scope": "Group",
+      "appointed": "2022-04",
+      "appointed_note": "",
+      "previous_roles": "Previously Mastercard (head of Consumer & Digital Products, Processing and Sustainability for Eastern Europe, Middle East and Africa); earlier Standard Chartered (incl. Head of Consumer Banking UAE), Citibank and ANZ (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page (S9); integrated report executive management (S4 p.63). No separate head of wealth or Elite is named in any official source. Checked 2026-10-12.",
+      "source_ids": [
+        "S9",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dongjun (DJ) Choi",
+      "name_ar": null,
+      "title": "Group Chief Customer Officer",
+      "functions": [
+        "Strategy",
+        "Digital"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Customer & Strategic Analytics (Group Strategy, Digital Transformation & EPMO, Advanced Analytics CoE, Brand & Marketing)",
+      "scope": "Group",
+      "appointed": "2022-03",
+      "appointed_note": "",
+      "previous_roles": "Previously AXA Asia (Chief Strategy & Customer Officer, Asia; Chairman of China), Barclays UK (MD Strategic Analytics CoE), Cigna (CMO International Markets), Standard Chartered (Dubai, Hong Kong, Singapore) (official bio).",
+      "education": "MBA, Northwestern University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page (S9); integrated report (S4 p.63). Checked 2026-10-12.",
+      "source_ids": [
+        "S9",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sanjeev Mulay",
+      "name_ar": null,
+      "title": "Interim Group Chief Technology & Data Officer; EVP and Head of IT Transformation and Governance",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Technology & Data",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Interim appointment date not published.",
+      "previous_roles": "25+ years in technology leadership, core-banking implementations and post-merger integration across 20+ countries (official bio).",
+      "education": "Engineer; MBA in Information Systems (institutions not named)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as interim Group CTO on the official management page (S9, saved 2026-07-19). Checked 2026-10-12.",
+      "source_ids": [
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saket Saith",
+      "name_ar": null,
+      "title": "Former Group Chief Technology and Data Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Technology & Data",
+      "scope": "Group",
+      "appointed": "2023",
+      "appointed_note": "Listed as Group CTDO in the 2025 integrated report (published Feb 2026).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "Named Group Chief Technology and Data Officer in the 2025 integrated report (S4 p.63) but no longer on the official management page, which now lists Sanjeev Mulay as interim holder of the title (S9). No departure announcement found.",
+      "source_ids": [
+        "S4",
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Safwan Humood Ghaleb",
+      "name_ar": null,
+      "title": "Group Chief Operating Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Operations",
+      "scope": "Group",
+      "appointed": "2026",
+      "appointed_note": "Previously Deputy COO (2025 integrated report).",
+      "previous_roles": "20+ years at RAKBANK in IT; Deputy Chief Risk Officer, then Deputy COO, then Group COO in 2026 (official bio).",
+      "education": "MBA, Coventry University; BBA (Hons), Emirates Aviation University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page (S9). The 2025 integrated report listed Michael Power as Group COO and Safwan Ghaleb as Deputy COO (S4 p.63). Checked 2026-10-12.",
+      "source_ids": [
+        "S9",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammad Jaffer Nini",
+      "name_ar": null,
+      "title": "Group Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2023-10-11",
+      "appointed_note": "",
+      "previous_roles": "30 years at Citigroup, latterly CFO and MD for EMEA Emerging Markets (official bio).",
+      "education": "BCom, University of Karachi",
+      "qualifications": "Chartered Accountant; Cost and Management Accountant",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page (S9); co-signed H1 2026 financial statements (S1); signs ADX disclosures as Group CFO (S6). Checked 2026-10-12.",
+      "source_ids": [
+        "S9",
+        "S1",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmed Alalkeem Al Zaabi",
+      "name_ar": null,
+      "title": "Managing Director & Head of Islamic Banking",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "RAKislamic",
+      "scope": "Group",
+      "appointed": "2024-10",
+      "appointed_note": "Appointed Director of Islamic Banking Oct 2024; joined Feb 2020 as Head of Branches, Abu Dhabi and Al Ain.",
+      "previous_roles": "Prior roles at ADIB, ADCB, Al Hilal Bank and Etisalat (official bio).",
+      "education": "Bachelor's degree in Business Management, Abu Dhabi University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page (S9); integrated report (S4 p.63). Checked 2026-10-12.",
+      "source_ids": [
+        "S9",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Vikas Suri",
+      "name_ar": null,
+      "title": "Managing Director, Wholesale Banking Group — Products",
+      "functions": [
+        "Treasury",
+        "Corporate / wholesale"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Wholesale Banking Group (treasury, markets, products)",
+      "scope": "Group",
+      "appointed": "2016-02",
+      "appointed_note": "Appointed MD Treasury Feb 2016.",
+      "previous_roles": "~25 years at Standard Chartered in South and Southeast Asia markets, latterly MD and Regional Business COO, ASEAN (official bio).",
+      "education": "MBA, Delhi University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page (S9); quoted on RAKBANK Islamic Bitcoin launch, Aug 2026 (S18); authorised signatory for the bond programme (S7). Checked 2026-10-12.",
+      "source_ids": [
+        "S9",
+        "S18",
+        "S7"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jean Pierre Le Roux",
+      "name_ar": null,
+      "title": "Managing Director, Wholesale Banking Group — Coverage",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Wholesale Banking Group",
+      "scope": "Group",
+      "appointed": "2018-05",
+      "appointed_note": "Joined May 2018 as MD Financial Institutions Group and International.",
+      "previous_roles": "Country CEO UAE, Al Ahli Bank of Kuwait; senior roles at Citi, Barclays and HSBC (official bio).",
+      "education": null,
+      "qualifications": "Capital Markets Qualification (Securities Institute of London); member, South African Institute of Financial Markets",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page (S9); AGM disclosure 2 Mar 2026 (S7). Checked 2026-10-12.",
+      "source_ids": [
+        "S9",
+        "S7"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Vishal Shah",
+      "name_ar": null,
+      "title": "Managing Director, Business Banking Group",
+      "functions": [
+        "Other"
+      ],
+      "entity": "The National Bank of Ras Al Khaimah (P.S.C.)",
+      "business_unit": "Business Banking (SME)",
+      "scope": "Group",
+      "appointed": "2026-03",
+      "appointed_note": "",
+      "previous_roles": "Group Head of Business Banking at GXS Bank (Grab's digital bank); earlier Standard Chartered and Techcombank (official bio).",
+      "education": null,
+      "qualifications": "Chartered Accountant (ICAI); CPA Australia",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page (S9). Checked 2026-10-12.",
+      "source_ids": [
+        "S9"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "RAKBANK runs wealth inside Personal Banking through a two-tier premium model, Select and Elite (Euromoney's Middle East and UAE 'best for premier banking' 2026). Elite gives a dedicated relationship manager, Elite centres in Dubai, Abu Dhabi and Ras Al Khaimah, and remote onboarding for non-residents. The shelf is third-party: mutual funds (Franklin Templeton, Legg Mason, BlackRock Aditum), bonds, fractional bonds and sukuk, structured products, wealth lending and digital gold/silver. In-app it offers 30,000+ international stocks and ETFs (Rakbank Digital Equities, execution-only, conventional only) and 21 cryptocurrencies through Bitpanda (from Jul 2025; Bitcoin for Islamic customers from Aug 2026). The bank says wealth management income rose 34% and AUM 11% in 2025 but discloses no AUM; fiduciary assets were AED 6.8bn at 30 Jun 2026. 2026 priority: 'expand wealth management offerings - broaden the product suite and digitise wealth journeys'.",
+    "segments": [
+      {
+        "name": "Select",
+        "tier": "Mass affluent",
+        "eligibility": "Entry premium tier (Euromoney); published threshold not found",
+        "source_ids": [
+          "S20",
+          "S15"
+        ]
+      },
+      {
+        "name": "Rakbank Elite",
+        "tier": "Affluent / emerging HNW",
+        "eligibility": "Not published on the Elite page; dedicated Elite RM, Elite centres, preferential FX, lower equities trading fee (0.15% vs 0.20%)",
+        "source_ids": [
+          "S16",
+          "S13",
+          "S15"
+        ]
+      },
+      {
+        "name": "RAKislamic Elite",
+        "tier": "Affluent (Islamic)",
+        "eligibility": "Not published",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private-banking unit or proposition is named. Premium clients are served through Select and Elite, which Euromoney describes as aimed at affluent professionals, entrepreneurs and emerging HNW clients 'often underserved by traditional private banking models'.",
+      "source_ids": [
+        "S20",
+        "S16",
+        "S4"
+      ]
+    },
+    "asset_management": {
+      "present": "No",
+      "detail": "No asset-management subsidiary among the Group's subsidiaries; funds offered are third-party ('RAKBANK is not the issuer of the Product').",
+      "source_ids": [
+        "S1",
+        "S12"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Rakbank Digital Equities: execution-only trading of global stocks and ETFs (incl. fractional shares) in the mobile app; US fee 0.15% (Elite) or 0.20% (Select/Personal), min USD 1; Europe/UK from 0.22%. The bank states it is licensed by the UAE Capital Market Authority to provide execution-only trading (licence 20200000373). Execution and custody via unnamed 'Third Party Providers'. Zero-fee promotion to 31 Oct 2026. Conventional only - no Islamic variant.",
+      "source_ids": [
+        "S13",
+        "S14",
+        "S15"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Rakbank mobile app: 30,000+ international stocks and ETFs, digital gold and silver from 1 gram, 21 cryptocurrencies (via Bitpanda, launched Jul 2025, invitation-only at launch), digital mutual fund subscription journey (2025). A new Personal Banking app was launched in 2026.",
+      "source_ids": [
+        "S13",
+        "S17",
+        "S4",
+        "S2"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Relationship-manager-led advice for Elite clients ('expert guidance, tailored solutions'), with access to global fixed income, international fund managers, FX trading, structured products and lending. A 2025 sponsored feature lists mutual funds, bonds, structured products, insurance, digital gold, FX trading and margin lending.",
+      "source_ids": [
+        "S16",
+        "S13",
+        "S21"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary mandate or managed-portfolio service found on wealth pages or in the integrated report.",
+      "source_ids": [
+        "S11",
+        "S4"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo-advice or model portfolio offering found.",
+      "source_ids": [
+        "S11",
+        "S13"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Third-party funds incl. Franklin Templeton Investment Funds, Legg Mason Global Funds and BlackRock Aditum Global Allocation / Multi-Asset Income funds; conventional and Shariah-compliant funds. Platform provider not named.",
+      "source_ids": [
+        "S12",
+        "S11"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Capital-protected, partially protected and non-guaranteed structured products listed on the investment products page.",
+      "source_ids": [
+        "S11",
+        "S4"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No private-markets or alternatives product found on wealth pages or in reports.",
+      "source_ids": [
+        "S11",
+        "S4"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "RAKislamic window: Shariah-compliant mutual funds and sukuk on the shelf; Bitcoin trading for RAKislamic customers via Bitpanda from Aug 2026. Equities brokerage and wealth lending are conventional only.",
+      "source_ids": [
+        "S11",
+        "S14",
+        "S18"
+      ]
+    },
+    "asset_classes": [
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Structured products",
+      "Gold / precious metals",
+      "Crypto / digital assets"
+    ],
+    "partners": [
+      {
+        "partner": "Bitpanda (Bitpanda Broker MENA DMCC, VARA-regulated)",
+        "kind": "Crypto brokerage / execution and custody",
+        "what": "Powers in-app crypto buy/sell/swap in AED; Bitcoin for RAKislamic customers from Aug 2026",
+        "date": "2025-07-30",
+        "status": "Live",
+        "source_ids": [
+          "S17",
+          "S18",
+          "S4"
+        ]
+      },
+      {
+        "partner": "Franklin Templeton; Legg Mason (Franklin Templeton); BlackRock",
+        "kind": "Fund manager (third-party funds)",
+        "what": "Funds distributed to clients",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "partner": "Infosys Finacle",
+        "kind": "Core banking technology",
+        "what": "Core banking since 2012–2013 (vendor release seen in search only); 2025 report plans migration of Islamic banking core systems to Finacle in 2026 and cites Infosys Finacle Innovation Awards",
+        "date": "2013-01-07",
+        "status": "Live",
+        "source_ids": [
+          "S4",
+          "S22"
+        ]
+      },
+      {
+        "partner": "Amazon Web Services; Databricks; Microsoft",
+        "kind": "Cloud / data / AI technology",
+        "what": "AWS microservices platform, Databricks data platform partnership, MoU with Microsoft (Copilot pilot) in 2025",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "partner": "Network International L.L.C.",
+        "kind": "Payments (merchant acquiring)",
+        "what": "Bought RAKBANK's merchant acquiring business for AED 551m; long-term exclusive merchant-acquiring partnership",
+        "date": "2026-03-23",
+        "status": "Live",
+        "source_ids": [
+          "S6"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-07-30",
+        "what": "Launched in-app crypto brokerage with Bitpanda; claims first conventional UAE bank to offer retail crypto trading",
+        "source_ids": [
+          "S17",
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Opened Elite centres at Opus Tower (Dubai) and Omnia Tower (Abu Dhabi); remote account opening for non-resident Elite clients; digital mutual-fund subscription journey; submitted a stablecoin licence application to CBUAE and set up RAKBANK Digital Assets LLC",
+        "source_ids": [
+          "S4",
+          "S1"
+        ]
+      },
+      {
+        "date": "2026-02-18",
+        "what": "2026 Personal Banking priority stated: 'Expand wealth management offerings - broaden the product suite and digitise wealth journeys'; 2026 is the final year of a four-year digital transformation strategy",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-03-20",
+        "what": "Euromoney Private Banking Awards 2026: Middle East's and UAE's best for premier banking",
+        "source_ids": [
+          "S20",
+          "S2"
+        ]
+      },
+      {
+        "date": "2026-03-23",
+        "what": "Completed sale of merchant acquiring to Network International (AED 551m; AED 473m gain in H1 2026)",
+        "source_ids": [
+          "S6",
+          "S2"
+        ]
+      },
+      {
+        "date": "2026-07-23",
+        "what": "H1 2026: refreshed brand and new Personal Banking mobile app; 'one of the most diversified wealth platforms' incl. crypto, commodities, bonds, funds and sukuk (Group CEO)",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2026-08-24",
+        "what": "Bitcoin trading opened to RAKislamic customers in the app via Bitpanda",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "what": "Global equities in-app (30,000+ stocks/ETFs) with a zero-trading-fee promotion to 31 Oct 2026; launch date not published",
+        "source_ids": [
+          "S13"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Stated 2026 priority to broaden the wealth product suite and digitise wealth journeys (S4 p.28).",
+        "Shelf has no discretionary mandates, model portfolios or private-markets products; funds come from a few houses (Franklin Templeton, Legg Mason, BlackRock) (S11, S12).",
+        "Fast-growing affluent franchise: wealth management income +34% and AUM +11% in 2025; Euromoney 2026 premier-banking awards for Select/Elite (S4, S20).",
+        "Islamic customers have limited investing options: equities brokerage and wealth lending are conventional only (S14, S11)."
+      ],
+      "barriers": [
+        "Already built in-app investing itself in 2025–2026 (global equities via unnamed third-party providers, crypto via Bitpanda, digital gold) (S13, S17).",
+        "Heavy in-house technology build: microservices platform on AWS, Databricks, Microsoft; Finacle core (S4).",
+        "Focus is SME and mass/affluent retail rather than HNW private banking; no published Elite threshold or AUM figure (S16, S20)."
+      ],
+      "incumbent_vendors": [
+        "Bitpanda — crypto brokerage infrastructure (S17, S18)",
+        "Infosys Finacle — core banking (S4, S22)",
+        "AWS, Databricks, Microsoft — cloud, data and AI (S4)",
+        "Franklin Templeton, Legg Mason, BlackRock — third-party funds (S12)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "The National Bank of Ras Al-Khaimah (P.S.C.) — Review report and condensed consolidated interim financial information, 1 January to 30 June 2026 (ADX disclosure, 23 Jul 2026)",
+      "publisher": "RAKBANK / ADX (copy hosted by Euroland IR)",
+      "url": "https://ne-cdn.eurolandir.com/press-releases-attachments./4156686/The_National_Bank_of_Ras_Al_Khaimah_Financial_Results_for_the_Period_Ended_June_30%2C2026.pdf",
+      "doc_type": "Reviewed interim financial statements (exchange disclosure)",
+      "tier": 1,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "H1 2026 Financial Results Press Release and Management Discussion & Analysis",
+      "publisher": "RAKBANK / ADX (copy hosted by Euroland IR)",
+      "url": "https://ne-cdn.eurolandir.com/press-releases-attachments./4156676/The_National_Bank_of_Ras_Al_Khaimah_Management_Discussion_and_Analysis_Report_for_the_Period_Ended_June_30%2C2026.pdf",
+      "doc_type": "Results press release and MD&A (exchange disclosure)",
+      "tier": 1,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Report and consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "RAKBANK / ADX (copy hosted by Euroland IR)",
+      "url": "https://ne-cdn.eurolandir.com/press-releases-attachments./3986805/The_National_Bank_of_Ras_Al_Khaimah_Financial_Results_for_the_Period_Ended_December_31%2C2025.pdf",
+      "doc_type": "Audited annual financial statements (exchange disclosure)",
+      "tier": 1,
+      "published": "2026-02-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "RAKBANK 2025 Annual Integrated Report",
+      "publisher": "RAKBANK / ADX (copy hosted by Euroland IR)",
+      "url": "https://ne-cdn.eurolandir.com/press-releases-attachments./3992925/The_National_Bank_of_Ras_Al_Khaimah_Integrated_Report_December_31%2C2025.pdf",
+      "doc_type": "Annual (integrated) report",
+      "tier": 1,
+      "published": "2026-02-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Investor Relations — Announcements (Euroland press-release feed of ADX disclosures, 2025–2026)",
+      "publisher": "RAKBANK",
+      "url": "https://uaetools.eurolandir.com/tools/pressreleases/?companycode=ae-rakbank&v=2026&lang=en-GB",
+      "doc_type": "Official IR disclosure feed",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Completion of disposal of a business line (merchant acquiring sold to Network International L.L.C.)",
+      "publisher": "RAKBANK / ADX",
+      "url": "https://ne-cdn.eurolandir.com/press-releases-attachments./4004841/Completion_of_disposal_of_a_business_line.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-03-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Disclosure of Results of the Annual General Assembly Meeting held on 2 March 2026",
+      "publisher": "RAKBANK / ADX",
+      "url": "https://ne-cdn.eurolandir.com/press-releases-attachments./3996181/The_National_Bank_of_Ras_Al_Khaimah_Annual_Assembly_Meeting_Result_held_on_02_03_2026_at_10_00.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-03-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Investor Relations — Ownership Information",
+      "publisher": "RAKBANK",
+      "url": "https://www.rakbank.ae/en/about-us/investor-relations/investor-relations/ownership-information/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Who We Are — Management Team (Group Management Committee)",
+      "publisher": "RAKBANK",
+      "url": "https://www.rakbank.ae/en/about-us/who-we-are/leadership/management-team",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Board of Directors",
+      "publisher": "RAKBANK",
+      "url": "https://www.rakbank.ae/en/about-us/who-we-are/leadership/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Explore our Investment Solutions — Investment Products",
+      "publisher": "RAKBANK",
+      "url": "https://www.rakbank.ae/en/wealth/investment-solutions/investment-products",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Mutual Funds",
+      "publisher": "RAKBANK",
+      "url": "https://www.rakbank.ae/en/wealth/investment-solutions/mutual-funds",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Rakbank Digital Equities — Invest in international equities within your Rakbank app",
+      "publisher": "RAKBANK",
+      "url": "https://www.rakbank.ae/en/everyday-banking/rakbank-for-you/equities",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Key Fact Statement — Equities Brokerage Service",
+      "publisher": "RAKBANK",
+      "url": "https://www.rakbank.ae/globalassets/rakbank/all-pdfs/001---key-fact-statements/bilingual/kfs-equities-brokerage-service.pdf",
+      "doc_type": "Official product document",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Global Equities Brokerage Service & Price Guide — Personal Banking",
+      "publisher": "RAKBANK",
+      "url": "https://www.rakbank.ae/globalassets/rakbank/all-pdfs/001---service-and-price-guides/bilingual/equities--sp-guide.pdf",
+      "doc_type": "Official product document",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Rakbank Elite",
+      "publisher": "RAKBANK",
+      "url": "https://www.rakbank.ae/en/everyday-banking/rakbank-for-you/rakbank-elite",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "RAKBANK launches Bitpanda-powered crypto brokerage service for retail customers",
+      "publisher": "The Fintech Times",
+      "url": "https://thefintechtimes.com/rakbank-launches-bitpanda-powered-crypto-brokerage-service-for-retail-customers/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-07-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Rakbank Islamic opens direct Bitcoin trading in mobile app",
+      "publisher": "UNLOCK Blockchain",
+      "url": "https://www.unlock-bc.com/en/rakbank-islamic-opens-direct-bitcoin-trading-in-mobile-app",
+      "doc_type": "News (specialist crypto outlet)",
+      "tier": 5,
+      "published": "2026-08-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "RAKBANK H1 2026 profit rises 25% to Dh1.7 billion, deposits climb 23%",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/rakbank-h1-2026-profit-rises-25-to-dh17-billion-deposits-climb-23-1.500617811",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Middle East's best for premier banking 2026: Rakbank",
+      "publisher": "Euromoney",
+      "url": "https://www.euromoney.com/article/dg3dkgqe3rwwko84kocwkcscs/middle-easts-best-for-premier-banking-2026-rakbank/",
+      "doc_type": "News / awards",
+      "tier": 5,
+      "published": "2026-03-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "RAKBANK builds the future of wealth, one client at a time",
+      "publisher": "Gulf News (GN Focus)",
+      "url": "https://gulfnews.com/gn-focus/rakbank-builds-the-future-of-wealth-one-client-at-a-time-1.500109546",
+      "doc_type": "Sponsored feature (GN Focus)",
+      "tier": 5,
+      "published": "2025-04-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Infosys Finacle press release: RAKBANK core banking solution implementation",
+      "publisher": "Infosys / EdgeVerve",
+      "url": "https://www.infosys.com/newsroom/press-releases/Documents/2013/finacle-solution-implementation-RAKBANK.pdf",
+      "doc_type": "Vendor press release",
+      "tier": 2,
+      "published": "2013-01-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Regulator name for brokerage licence",
+      "detail": "The equities KFS (S14) says RAKBANK is licensed by the 'UAE Capital Market Authority (CMA)' (licence 20200000373). The protocol vocabulary uses SCA.",
+      "resolution": "Recorded 'SCA' in regulators (the federal securities regulator) and quoted the KFS wording in the brokerage detail.",
+      "source_ids": [
+        "S14"
+      ]
+    },
+    {
+      "field": "Shareholding date",
+      "detail": "IR ownership page shows the same holdings dated 31 Jul 2025 (S8); integrated report gives them at 31 Dec 2025 (S4).",
+      "resolution": "Used 31 Dec 2025 (later date, same percentages).",
+      "source_ids": [
+        "S8",
+        "S4"
+      ]
+    },
+    {
+      "field": "Group COO and CTO",
+      "detail": "2025 integrated report lists Michael Power (Group COO) and Saket Saith (Group CTDO) (S4 p.63); the official management page now lists Safwan Ghaleb as Group COO and Sanjeev Mulay as interim CTDO (S9).",
+      "resolution": "Used the official page as current; Saith recorded as Departed. No departure announcements found.",
+      "source_ids": [
+        "S4",
+        "S9"
+      ]
+    }
+  ],
+  "open_items": [
+    "ADX CDN (apigateway.adx.ae) returned a Cloudflare block; the identical attachments were read from RAKBANK's Euroland IR feed instead.",
+    "Q3 2026 results not yet published at 12 Oct 2026 (latest disclosure in the IR feed is 17 Sep 2026) (S5).",
+    "Lead check — Infosys Finacle: supported. The 2025 integrated report plans migration of Islamic banking core systems to Finacle in 2026 and cites Finacle awards; the 2013 Infosys implementation release was seen in search results only (403). Finacle is core banking, not a wealth platform.",
+    "Lead check — RAKBANK stakes in fintechs: no equity stake in any fintech found. Partnerships found instead: Bitpanda, Network International, AWS, Databricks, Microsoft.",
+    "Equities execution broker/custodian not named in the KFS or T&Cs ('Third Party Providers'). Launch date of Rakbank Digital Equities not published.",
+    "No named head of wealth, Elite or investments found on official pages; Elite and Select eligibility thresholds not published.",
+    "An executive-moves aggregator (12 Sep 2026) reports Tapas Kumar Mondal appointed EVP and CTO – Digital and AI; not on the official page and no RAKBANK release found. Michael Power (Group COO in the 2025 report) is no longer listed; no departure news found.",
+    "LinkedIn profiles for executives were not verified: searches did not return matching profiles."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B04",
+  "checked": "2026-10-12"
+}

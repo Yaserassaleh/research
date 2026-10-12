@@ -1,0 +1,2319 @@
+{
+  "id": "ae-enbd",
+  "name": "Emirates NBD",
+  "short_name": "ENBD",
+  "legal_name": "Emirates NBD Bank (P.J.S.C.)",
+  "name_ar": "بنك الإمارات دبي الوطني",
+  "country": "AE",
+  "hq_city": "Dubai",
+  "website": "https://www.emiratesnbd.com",
+  "linkedin_company": "https://www.linkedin.com/company/emirates-nbd",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "2007 (incorporated 16 July 2007 following the merger of Emirates Bank International (P.J.S.C.) and National Bank of Dubai (P.J.S.C.))",
+  "regulators": [
+    "CBUAE",
+    "UAE CMA (formerly SCA) - Emirates NBD Securities",
+    "DFSA - Emirates NBD Asset Management Ltd"
+  ],
+  "listed": true,
+  "exchange": "DFM",
+  "ticker": "EMIRATESNBD",
+  "parent_id": null,
+  "ownership_summary": "DFM-listed. The H1 2026 financial statements name Investment Corporation of Dubai (ICD), wholly owned by the Government of Dubai, as the Group's parent. Holders above 5% (ownership statistics as at 14 Jul 2026): ICD 40.9%, DH 7 LLC 14.8%, Capital Assets LLC 5.3%; free float 38.8%; foreign ownership 14.4% against a 40% limit. ENBD's 2 Aug 2026 DFM release describes it as 56% owned by the Dubai Government via ICD and Dubai Holding Group.",
+  "shareholders": [
+    {
+      "holder": "Investment Corporation of Dubai",
+      "pct": 40.9,
+      "as_of": "2026-07-14",
+      "source_ids": [
+        "S11"
+      ]
+    },
+    {
+      "holder": "DH 7 LLC",
+      "pct": 14.8,
+      "as_of": "2026-07-14",
+      "source_ids": [
+        "S11"
+      ]
+    },
+    {
+      "holder": "Capital Assets LLC",
+      "pct": 5.3,
+      "as_of": "2026-07-14",
+      "source_ids": [
+        "S11"
+      ]
+    }
+  ],
+  "government_link": "Yes - parent is Investment Corporation of Dubai, wholly owned by the Government of Dubai (H1 2026 financial statements, note 1); ENBD states it is 56% owned by the Dubai Government via ICD and Dubai Holding Group (DFM release, 2 Aug 2026).",
+  "group_structure": "Emirates NBD Bank (P.J.S.C.) is the DFM-listed parent. Main subsidiaries: Emirates Islamic Bank (100% since June 2025; profiled separately as ae-ei - its assets, deposits and profit are consolidated in ENBD's figures, so do not add EI to ENBD totals); DenizBank A.S. (Turkiye, 100%); Emirates NBD Egypt S.A.E. (100%); RBL Bank Ltd (India, 60% acquired and consolidated from 18 Jun 2026, with 40% non-controlling interest); Emirates NBD Asset Management Ltd (DIFC, DFSA-regulated); Emirates NBD Securities LLC (brokerage); Emirates NBD Capital P.S.C., Emirates NBD Capital (KSA) LLC and Emirates NBD Capital India (investment banking / asset management); Emirates NBD Global Services (shared services). Liv is the Group's digital lifestyle bank brand operated by Emirates NBD (captured in this record, not a separate licence). Operating segments: Corporate & Institutional Banking; Retail Banking & Wealth Management (includes private banking, wealth, broking and asset management); Global Markets & Treasury; DenizBank and RBL as separate segments.",
+  "subsidiaries": [
+    {
+      "name": "Emirates Islamic Bank (P.J.S.C.)",
+      "pct": 100,
+      "activity": "Islamic banking",
+      "linked_id": "ae-ei",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "DenizBank A.S.",
+      "pct": 100,
+      "activity": "Banking (Turkiye)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Emirates NBD Egypt S.A.E.",
+      "pct": 100,
+      "activity": "Banking (Egypt)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "RBL Bank Limited",
+      "pct": 60,
+      "activity": "Banking (India); acquired 18 Jun 2026 via preferential issue, consolidated as subsidiary",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "Emirates NBD Asset Management Limited",
+      "pct": 100,
+      "activity": "Asset management (DIFC, DFSA-regulated)",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S17"
+      ]
+    },
+    {
+      "name": "Emirates NBD Securities LLC",
+      "pct": 100,
+      "activity": "Brokerage services",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S26"
+      ]
+    },
+    {
+      "name": "Emirates NBD Capital P.S.C.",
+      "pct": 100,
+      "activity": "Investment services",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Emirates NBD Capital (KSA) LLC",
+      "pct": 100,
+      "activity": "Investment services (KSA)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Emirates NBD Capital India Private Limited",
+      "pct": 100,
+      "activity": "Asset management (India)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Emirates Funds LLC",
+      "pct": 100,
+      "activity": "Asset management",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Emirates Funds Managers (Jersey) Limited",
+      "pct": 100,
+      "activity": "Asset management (Jersey)",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Emirates Money Consumer Finance LLC",
+      "pct": 100,
+      "activity": "Consumer finance",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "name": "Emirates NBD Global Services LLC",
+      "pct": 100,
+      "activity": "Shared services",
+      "linked_id": null,
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "footprint": "As at Aug 2026 (post-RBL): presence in 13 countries - operations in UAE, Egypt, India, Turkiye, KSA, Singapore, UK, Austria, Germany, Russia and Bahrain, plus representative offices in China and Indonesia; 1,425 branches and 4,948 ATMs/SDMs (DFM release, 2 Aug 2026). International operations contributed ~36% of Group income. Pre-RBL (31 Dec 2025): 787 branches across 13 countries; Emirates Islamic runs 36 UAE branches.",
+  "customer_segments": "Mass retail; affluent (Priority Banking, with Signature tier by invitation; NRI Priority Banking); private banking (USD 5m+ AUM, UHNW families and family offices); business banking/SME; corporate and institutional (large corporates, multinationals, sovereigns, financial institutions incl. NBFIs, PSPs and asset managers). 25m+ active customers Group-wide as of Aug 2026 incl. RBL Bank.",
+  "business_lines": "Retail Banking & Wealth Management (cards - #1 issuer in MEA, personal lending, deposits, Priority and Private Banking, wealth management, Emirates NBD Securities brokerage, Emirates NBD Asset Management, consumer finance, Liv digital bank); Corporate & Institutional Banking (lending, transaction banking, trade, investment banking via Emirates NBD Capital - ECM/DCM); Global Markets & Treasury (FX, rates, credit, commodities, structured products); Islamic banking (Emirates Islamic plus Emirates NBD Islamic window); international banking in Turkiye (DenizBank), India (RBL Bank), Egypt, KSA, Singapore and UK.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 1322466,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated (includes RBL Bank from 18 Jun 2026)",
+      "definition": "Total assets, Group condensed consolidated interim statement of financial position (reviewed)",
+      "status": "Verified",
+      "locator": "PDF p.4 (statement p.2)",
+      "note": "RBL Bank added AED 74bn of assets (S4); ex-RBL asset growth ~11% YTD per S5.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 1164442,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, Group consolidated statement of financial position (audited)",
+      "status": "Verified",
+      "locator": "PDF p.7 (statement p.10)",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 892070,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated (includes RBL Bank)",
+      "definition": "'Customer deposits' line, statement of financial position; excludes 'Due to banks' (AED 82,169m); includes Islamic customer deposits",
+      "status": "Verified",
+      "locator": "PDF p.4 (statement p.2)",
+      "note": "RBL added AED 43bn of deposits (S4).",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 786024,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer deposits' line; excludes due to banks; includes Islamic deposits of AED 150,459m (note 17)",
+      "status": "Verified",
+      "locator": "PDF p.7; note 17 PDF p.22",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 746357,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated (includes RBL Bank)",
+      "definition": "'Loans and receivables' (net of expected credit losses of AED 24,919m); includes gross Islamic financing receivables of AED 173,265m",
+      "status": "Verified",
+      "locator": "PDF p.4; note 6 PDF p.14",
+      "note": "",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 632847,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans and receivables', net of ECL; includes Islamic financing receivables",
+      "status": "Verified",
+      "locator": "PDF p.7",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 771276,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated (includes RBL Bank)",
+      "definition": "'Gross loans and receivables' (conventional AED 598,011m + gross Islamic financing receivables AED 173,265m)",
+      "status": "Verified",
+      "locator": "note 6, PDF p.14",
+      "note": "RBL contributed AED 44bn (S4).",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 657771,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Gross loans and receivables' incl. Islamic financing",
+      "status": "Verified",
+      "locator": "note 6 comparative, PDF p.14",
+      "note": "",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 158902,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. non-controlling interests of AED 6,841m (mainly RBL); total shareholders' equity AED 152,061m",
+      "status": "Verified",
+      "locator": "PDF p.4",
+      "note": "",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 144819,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. NCI",
+      "status": "Verified",
+      "locator": "PDF p.7",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 49319,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', consolidated statement of income (net interest + net Islamic financing income + net fees + trading + other)",
+      "status": "Verified",
+      "locator": "PDF p.7 (statement p.11)",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 27885,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', six months ended 30 Jun 2026",
+      "status": "Verified",
+      "locator": "PDF p.5 (statement p.3)",
+      "note": "",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 23981,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit attributable to equity holders of the parent company (total profit for the year AED 24,007m)",
+      "status": "Verified",
+      "locator": "PDF p.7 (statement p.11)",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 12818,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit attributable to equity holders of the parent company (total profit for the period AED 12,850m)",
+      "status": "Verified",
+      "locator": "PDF p.5 (statement p.3)",
+      "note": "RBL contributed AED 49m profit from 18 Jun 2026.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 105,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group-wide",
+      "definition": "Issuer label 'AUM*' across the Group; footnote: 'AUM figures include asset under administration as well' - i.e. AUM plus AUA, not discretionary-only and not private-bank-only",
+      "status": "Verified",
+      "locator": "S4 p.2 and footnote",
+      "note": "RBWM AUM grew 29% YoY in H1 2026 (S5 p.12); CEO said double-digit UAE AUM growth since April (S7).",
+      "source_ids": [
+        "S4",
+        "S7"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 100,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group-wide",
+      "definition": "'AUM* across the Group grew to over USD 100 billion'; footnote: includes assets under administration (AUMA)",
+      "status": "Verified",
+      "locator": "S38 p.1-2",
+      "note": "Value is a floor ('over USD 100 billion'). RBWM AUMA grew 44% in 2025 (S9 p.26).",
+      "source_ids": [
+        "S38",
+        "S8"
+      ]
+    },
+    {
+      "metric": "third_party_funds_managed",
+      "value": 72610,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group (funds managed, not consolidated)",
+      "definition": "'Third party funds managed by the Group' (note 42 Fund management); funds not consolidated",
+      "status": "Verified",
+      "locator": "note 42, PDF p.31",
+      "note": "2024: AED 60,117m. Not labelled AUM; recorded separately.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "asset_manager_aum",
+      "value": 16,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2026-03-31",
+      "period_label": "31 Mar 2026",
+      "period_type": "point_in_time",
+      "scope": "Emirates NBD Asset Management Ltd (subsidiary only)",
+      "definition": "'Assets under management (AuM)' of Emirates NBD Asset Management, as stated on its website",
+      "status": "Verified",
+      "locator": "homepage and About Us",
+      "note": "Subset of Group AUM*; do not add.",
+      "source_ids": [
+        "S17",
+        "S18"
+      ]
+    },
+    {
+      "metric": "islamic_assets",
+      "value": 250,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Emirates Islamic plus Emirates NBD Islamic window",
+      "definition": "'combined Islamic assets exceeding AED 250 billion'",
+      "status": "Verified",
+      "locator": "S4 p.3",
+      "note": "Floor value ('exceeding').",
+      "source_ids": [
+        "S4",
+        "S7"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 25000000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-08",
+      "period_label": "Aug 2026",
+      "period_type": "point_in_time",
+      "scope": "Group incl. RBL Bank (~15m customers)",
+      "definition": "Active customers ('25+ million', 'over 25 million active customers')",
+      "status": "Verified",
+      "locator": "S6 p.7",
+      "note": "Floor value; jump vs FY2025 reflects RBL consolidation.",
+      "source_ids": [
+        "S6",
+        "S12"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 9800000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group (pre-RBL)",
+      "definition": "'Total active customers 9.8+mn'",
+      "status": "Verified",
+      "locator": "PDF p.3 and p.15",
+      "note": "Same report also says 'Over 9 million active customers' (p.15).",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    {
+      "metric": "enbd_x_active_users",
+      "value": 2400000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "ENBD X mobile app",
+      "definition": "'more than 2.4 million ENBD X active users'",
+      "status": "Conflicting sources",
+      "locator": "PDF p.15",
+      "note": "RBWM review in the same report says ENBD X provides 220+ services 'to 1.6 million customers as of year-end' (PDF p.26); scope difference (Group vs UAE retail) not explained.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    {
+      "metric": "digital_wealth_trading_volume",
+      "value": 40,
+      "unit": "billion",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Digital Wealth platform (ENBD X)",
+      "definition": "'Digital Wealth transactions surpassed AED 40 billion in trading volumes in 2025'",
+      "status": "Verified",
+      "locator": "p.3 CEO quote",
+      "note": "Floor value. H1 2026: Digital Wealth trading volumes doubled YoY (S5 p.12).",
+      "source_ids": [
+        "S38"
+      ]
+    },
+    {
+      "metric": "brokerage_and_am_fees",
+      "value": 144,
+      "unit": "million",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "Q2 2026",
+      "period_type": "duration",
+      "scope": "Group",
+      "definition": "'Brokerage and AM fees' component of fee and commission income (results presentation chart)",
+      "status": "Verified",
+      "locator": "PDF p.6",
+      "note": "Q1 2026: AED 191m; Q4 2025: 138m; Q3 2025: 164m; Q2 2025: 135m.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 35000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Group (pre-RBL)",
+      "definition": "'35k+ Employees across 108 nationalities'",
+      "status": "Verified",
+      "locator": "PDF p.4",
+      "note": "Floor value.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 1425,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-08",
+      "period_label": "Aug 2026",
+      "period_type": "point_in_time",
+      "scope": "Group incl. RBL Bank",
+      "definition": "Branches (plus 4,948 ATMs/SDMs)",
+      "status": "Verified",
+      "locator": "S12 p.2",
+      "note": "31 Dec 2025 (pre-RBL): 787 branches across 13 countries (S9 p.4).",
+      "source_ids": [
+        "S12",
+        "S6"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "AUA is not broken out from the combined AUM* figure; FY2025 note 43 (assets held in fiduciary capacity) gives no amount. S3, S4, S9."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "No private-banking or Priority client-asset figure; only growth rates (RBWM AUM +29% YoY H1 2026; AUMA +44% in 2025; international AUMA +106% in 2025). S5, S9."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "ENBD X active users and digital wealth volumes are disclosed, but not the number of investing/brokerage clients. S9, S38, S5, S6."
+    }
+  ],
+  "people": [
+    {
+      "name": "H.H. Sheikh Ahmed Bin Saeed Al Maktoum",
+      "name_ar": null,
+      "title": "Chairman, Non-executive Director",
+      "functions": [
+        "Chair",
+        "Board"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2011-06-25",
+      "appointed_note": "Board appointment date per CG Report 2025; Chairman of Emirates NBD Group since 2011.",
+      "previous_roles": "Chairman of Emirates NBD Group since 2011; President, Dubai Civil Aviation Authority; Chairman, Dubai Airports; Chairman & Chief Executive, Emirates Airline and Emirates Group; Chairman, Dubai Holding; Chairman, Supreme Fiscal Committee; Chairman, Supreme Council of Energy; Director, Investment Corporation of Dubai (CG Report 2025).",
+      "education": "Bachelor's degree in Political Science, University of Denver, USA",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as Chairman on official Board of Directors page, checked 2026-10-12 (S13); CG Report 2025 (S10). No change news found.",
+      "source_ids": [
+        "S13",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hesham Abdulla Al Qassim",
+      "name_ar": null,
+      "title": "Vice Chairman and Managing Director, Non-executive Director",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2011-06-25",
+      "appointed_note": "Board appointment date per CG Report 2025.",
+      "previous_roles": "Vice Chairman & MD, Emirates NBD; Chairman of Emirates Islamic Bank, Emirates NBD Egypt and DenizBank A.S.; CEO, Wasl Asset Management Group; Vice Chairman, Dubai Real Estate Corporation; Director, e& (CG Report 2025).",
+      "education": "Bachelor's degree in Banking and Finance; Master's degree in International Business Management and in Executive Leadership Development (institutions not stated)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official Board page checked 2026-10-12 (S13); quoted with this title in H1 2026 release, 23 Jul 2026 (S4) and DFM release, 2 Aug 2026 (S12).",
+      "source_ids": [
+        "S13",
+        "S10",
+        "S4",
+        "S12"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Shayne Nelson",
+      "name_ar": null,
+      "title": "Group Chief Executive Officer",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2013",
+      "appointed_note": "CG Report 2025 gives 'Year appointed: 2013'; official bio refers to a twelve-year tenure as Group CEO.",
+      "previous_roles": "Standard Chartered: CEO, Standard Chartered Private Bank (Singapore, three years before joining ENBD); Regional CEO Middle East & North Africa (Dubai, 2006-2010); CEO & MD, Standard Chartered Bank Malaysia Berhad; CRO Wholesale Banking (Singapore); earlier regional audit and credit roles; Chairman of Standard Chartered (Pakistan) and of the Saadiq Islamic Advisory Board. Earlier: Westpac, Head of Corporate & Institutional Banking, Western Australia. Current boards include Emirates Islamic, Emirates NBD Capital, DenizBank, Emirates NBD Global Services, Marsh Emirates Insurance Brokers, Nebras Open Finance and RBL Bank (non-executive, representing ENBD).",
+      "education": null,
+      "qualifications": "Graduate Member, Australian Institute of Company Directors; Associate Fellow, Australian Institute of Managers; Company Directors Course, AICD",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management team page checked 2026-10-12 (S1) and official bio (S14); quoted as Group CEO on H1 2026 call (23 Jul 2026, S7) and in DFM release (2 Aug 2026, S12). One Entrepreneur ME profile (28 Jul 2026, S37) uses past tense in its body but titles him Group CEO - see discrepancies. No departure announcement found. LinkedIn: no unambiguous profile found in search.",
+      "source_ids": [
+        "S1",
+        "S14",
+        "S10",
+        "S7",
+        "S12"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Patrick Sullivan",
+      "name_ar": null,
+      "title": "Group Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Group Finance",
+      "scope": "Group",
+      "appointed": "2020",
+      "appointed_note": "CG Report 2025 'Year appointed: 2020'.",
+      "previous_roles": "Standard Chartered: Group Financial Controller; CFO Standard Chartered China; Greater China Head of Finance, wholesale banking. Earlier PricewaterhouseCoopers, banking & capital markets (CG Report 2025).",
+      "education": "Bachelor of Business Studies, Massey University, New Zealand",
+      "qualifications": "Chartered Accountant (Chartered Accountants Australia and New Zealand)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management team page checked 2026-10-12 (S1); quoted as Group CFO in H1 2026 release (S4).",
+      "source_ids": [
+        "S1",
+        "S10",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Marwan Hadi",
+      "name_ar": null,
+      "title": "Group Head of Retail Banking and Wealth Management",
+      "functions": [
+        "Retail",
+        "Wealth",
+        "Affluent",
+        "Private banking"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Retail Banking and Wealth Management",
+      "scope": "Group (UAE, Egypt, KSA, UK, Singapore)",
+      "appointed": "2019",
+      "appointed_note": "CG Report 2025 'Year appointed: 2019' (joined ENBD as Head of Retail Banking for the UAE). Remit spans retail, business banking, private banking, consumer finance, asset management and brokerage.",
+      "previous_roles": "Emirates NBD: Head of Retail Banking UAE (from 2019), then Group Head RBWM. HSBC (~15 years): Head of Retail Banking and Wealth Management UAE; Managing Director, HSBC Middle East Finance Company; Head of Business Management, Commercial Banking (CG Report 2025).",
+      "education": "Master of International Business, University of Wollongong in Dubai",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/marwan-hadi-7395a610/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official management team page checked 2026-10-12 (S1); quoted with this title in ENBD-DFDF release of 10 Aug 2026 (S29). LinkedIn search snippet shows Marwan Hadi, Emirates NBD, University of Wollongong in Dubai (consistent with official bio; snippet headline shows an earlier retail title) (S35).",
+      "source_ids": [
+        "S1",
+        "S10",
+        "S29",
+        "S35"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammad Al Bastaki",
+      "name_ar": null,
+      "title": "Group Head of Private Banking and Wealth Management",
+      "functions": [
+        "Private banking",
+        "Wealth"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Private Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Title used in official release of 3 Dec 2025 (S15); trade press reported the appointment in an 18 Dec 2025 reshuffle (S32). ENBD Asset Management 'About us' page lists him as 'Group Head of Private Banking' (S18).",
+      "previous_roles": "CEO, Emirates NBD Capital (appointed May 2021); about 12 years at HSBC (S18).",
+      "education": "Bachelor's degree in Business Management, Higher Colleges of Technology, Dubai (S18)",
+      "qualifications": null,
+      "linkedin_url": "https://ae.linkedin.com/in/mohammad-albastaki-32114958",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official press release 3 Dec 2025 (S15) and official ENBD AM page checked 2026-10-12 (S18); not on Group Executive Committee page (S1). No departure news found. LinkedIn URL carried over from the original workbook (marked verified 2026-10-07); not re-verified in P1 (name search returned no profile), no contrary evidence.",
+      "source_ids": [
+        "S15",
+        "S18",
+        "S32"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Maurice Gravier",
+      "name_ar": null,
+      "title": "Group Chief Investment Officer, Wealth Management",
+      "functions": [
+        "Wealth",
+        "Investments / asset management"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Wealth Management - CIO Office",
+      "scope": "Group",
+      "appointed": "2018",
+      "appointed_note": "Speaker bio (self-supplied) on Milken Institute Global Conference 2026 page: CIO since 2018 (S40).",
+      "previous_roles": "2018- Group CIO Wealth Management, Emirates NBD; 2017 family office, Dubai (Executive Committee); 2010- Lombard Odier, Geneva (Investment Committee, head of equity management and strategy); 1998- Natixis Asset Management, Paris (equity CIO from 2007) (S40).",
+      "education": "ESCP Europe, graduated 1995 (S40)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official press release 2 Feb 2026 presenting 2026 Global Investment Outlook with this title (S16); Milken 2026 speaker page (S40). Not on Group Executive Committee page. No departure news found. LinkedIn: posts found, no profile verified.",
+      "source_ids": [
+        "S16",
+        "S40"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tariq Mushtaq Chaudhary",
+      "name_ar": null,
+      "title": "Group Head of Retail Banking & Wealth Management International (reported Dec 2025); ENBD AM page still shows Group Head of Wealth Management",
+      "functions": [
+        "Wealth",
+        "Retail"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Retail Banking and Wealth Management",
+      "scope": "International (reported) / Group wealth (ENBD AM page)",
+      "appointed": null,
+      "appointed_note": "Joined Emirates NBD in 2014 (S18).",
+      "previous_roles": "Standard Chartered and Citibank; 31+ years in banking (S18).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Conflicting sources",
+      "role_evidence": "Official ENBD Asset Management 'About us' page (undated, checked 2026-10-12) lists him as 'Group Head of Wealth Management, Emirates NBD', overseeing wealth businesses incl. ENBD AM (S18). Caproasia (18 Dec 2025) reports him appointed Group Head of RBWM International, with Raed Al Jaser as Head of Wealth Management (S32). No official ENBD release found.",
+      "source_ids": [
+        "S18",
+        "S32"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Raed Al Jaser",
+      "name_ar": null,
+      "title": "Head of Wealth Management",
+      "functions": [
+        "Wealth"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Wealth Management",
+      "scope": "Not stated",
+      "appointed": "2025-12",
+      "appointed_note": "Reported by Caproasia 18 Dec 2025 only (S32).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Single trade-press source (S32); not on any official ENBD page found. A LinkedIn search result (ae.linkedin.com/in/raedaljaser) shows reposts of Emirates NBD Wealth Management content but no explicit current title, so URL not recorded.",
+      "source_ids": [
+        "S32"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Michail Samawi",
+      "name_ar": null,
+      "title": "Senior Executive Officer, Emirates NBD Asset Management",
+      "functions": [
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Emirates NBD Asset Management Limited",
+      "business_unit": "Asset Management",
+      "scope": "Subsidiary (DIFC)",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Managing Director and KSA market leader, BNP Paribas Wealth Management; Head of Private Banking, Credit Suisse Saudi Arabia; 12+ years at Housing Bank (Jordan) (S18).",
+      "education": "Master's in law and accounting, London School of Economics (S18)",
+      "qualifications": "CFA charterholder",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official ENBD Asset Management management page checked 2026-10-12 (S18). No departure news found. A LinkedIn result 'Michail E. Samawi - CEO' did not show the employer, so not recorded.",
+      "source_ids": [
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Miguel Rio-Tinto",
+      "name_ar": null,
+      "title": "Group Chief Digital and Information Officer",
+      "functions": [
+        "Digital",
+        "Technology"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Technology and Digital",
+      "scope": "Group",
+      "appointed": "2017",
+      "appointed_note": "CG Report 2025 'Year appointed: 2017'.",
+      "previous_roles": "Head of Digital McKinsey's Iberian office; COO and CIO, Novo Banco; CIO, Banco Espirito Santo; board roles incl. Tranquilidade Insurance Group (CG Report 2025).",
+      "education": "MBA, INSEAD; MSc Information Technology, Instituto Superior Tecnico, Portugal",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management team page checked 2026-10-12 (S1); quoted with this title in Techstars partnership release, 6 Jul 2026 (S28). LinkedIn: only third-party posts found.",
+      "source_ids": [
+        "S1",
+        "S10",
+        "S28"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Neeraj Makin",
+      "name_ar": null,
+      "title": "Group Head - Strategy, Analytics & Venture Capital",
+      "functions": [
+        "Strategy",
+        "Innovation / partnerships"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Strategy, Analytics & Venture Capital",
+      "scope": "Group",
+      "appointed": "2008",
+      "appointed_note": "CG Report 2025 'Year appointed: 2008'. Heads the Group's corporate venture capital fund (Emirates NBD Innovation Fund, USD 100m) and the Advanced Analytics CoE.",
+      "previous_roles": "Previously led ENBD's international business (incl. acquisitions of BNP Paribas Egypt and DenizBank, expansion in India and KSA) (CG Report 2025).",
+      "education": "Bachelor's in Physics and Mathematics, Hemwati Nandan Bahuguna Garhwal University; MBA Finance, International Management Institute, India; Venture Capital & Private Equity Program, Columbia Business School",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/neerajmakin/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official management team page checked 2026-10-12 (S1); named in Techstars release 6 Jul 2026 (S28) and fintech partnerships page (S30). LinkedIn search result 'Neeraj Makin - Emirates NBD' with Columbia Business School (S36).",
+      "source_ids": [
+        "S1",
+        "S10",
+        "S9",
+        "S28",
+        "S30",
+        "S36"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sean Sarginson",
+      "name_ar": null,
+      "title": "Head of Group Innovation & Fintech Engagement",
+      "functions": [
+        "Innovation / partnerships"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Group Strategy / Innovation",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Named with this title on official Fintech & Digital Partnerships page, checked 2026-10-12 (S30); Singapore Fintech Festival speaker page shows same title (search result only). No departure news found.",
+      "source_ids": [
+        "S30"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nacira Alioua",
+      "name_ar": null,
+      "title": "Head of Fintech Engagement",
+      "functions": [
+        "Innovation / partnerships"
+      ],
+      "entity": "Emirates NBD Bank (P.J.S.C.)",
+      "business_unit": "Group Strategy / Innovation",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Named with this title on official Fintech & Digital Partnerships page, checked 2026-10-12 (S30). No departure news found.",
+      "source_ids": [
+        "S30"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Farid AlMulla",
+      "name_ar": null,
+      "title": "Chief Executive Officer, Emirates Islamic",
+      "functions": [
+        "Subsidiary CEO",
+        "Islamic / Shariah"
+      ],
+      "entity": "Emirates Islamic Bank (P.J.S.C.)",
+      "business_unit": "Emirates Islamic",
+      "scope": "Subsidiary (see ae-ei)",
+      "appointed": "2023-09-05",
+      "appointed_note": "CEO from 5 Sep 2023 (EI release); CG Report 2025 'Year appointed: 1991' refers to joining.",
+      "previous_roles": "Emirates Islamic: Head of Consumer Banking and Wealth Management (before CEO); Deputy Head RBWM; Head of Home Finance; Head of Distribution (CG Report 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official ENBD management team page checked 2026-10-12 (S1); member of Group Executive team; quoted as EI CEO in EI H1 2026 results (see ae-ei).",
+      "source_ids": [
+        "S1",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Wealth sits in Retail Banking & Wealth Management under Marwan Hadi, with a Group-wide AUM figure of USD 105bn at 30 Jun 2026 that explicitly includes assets under administration. Segments run from Priority Banking (AED 500k relationship balance, AED 50k salary or AED 3m home loan) and the invitation-only Signature tier to Private Banking (USD 5m+ AUM) offering advisory, execution, discretionary mandates (via Emirates NBD Asset Management and in-house London private banking), Lombard lending, trust/estate planning and an external asset manager desk. The ENBD X app's Digital Wealth platform (launched Oct 2023) offers 11,000+ global and UAE stocks and ETFs, 232+ mutual funds (ENBD AM, BlackRock, Fidelity, PIMCO with Morningstar ratings), fractional UAE government bonds and sukuk, retail sukuk and Emirates NBD gold; Liv X added crypto trading in Mar 2025 via Aquanow with Zodia custody. In 2025 ENBD added Private Assets Advisory & Execution, partnered with BlackRock for private credit and Shariah-compliant funds, and launched local-currency equity funds and DPM in KSA; digital wealth AUMA almost tripled and trading volumes grew fourfold, and H1 2026 digital wealth trading volumes doubled YoY. Group subsidiaries cover asset management (USD 16bn AUM, DIFC/Jersey/Luxembourg/Cayman funds), brokerage (Emirates NBD Securities: DFM, ADX, Nasdaq Dubai, Tadawul) and investment banking (Emirates NBD Capital).",
+    "segments": [
+      {
+        "name": "Priority Banking",
+        "tier": "Affluent",
+        "eligibility": "Any one of: monthly salary AED 50,000+; home loan AED 3m+; deposits and/or investments AED 500,000+. Salary/home-loan entrants must build and maintain AED 500,000 total relationship balance within 12 months.",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "name": "Signature (by Priority Banking)",
+        "tier": "Upper affluent / HNW",
+        "eligibility": "By invitation only, for the 'upper crust' of Priority Banking clientele; offers advisory, execution, Lombard lending, offshore booking centres, trust & estate planning (no published threshold).",
+        "source_ids": [
+          "S22"
+        ]
+      },
+      {
+        "name": "Private Banking",
+        "tier": "Private / HNW-UHNW",
+        "eligibility": "USD 5 million (or equivalent) and above in AUM with the bank (held by client, family or business).",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "name": "NRI Priority Banking",
+        "tier": "Affluent (non-resident Indians)",
+        "eligibility": "Not published on page checked.",
+        "source_ids": [
+          "S20"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Emirates NBD Private Banking (Group Head: Mohammad Al Bastaki). Threshold USD 5m AUM. Services: investment advisory, trade execution (equities, fixed income, futures, commodities, FX), discretionary portfolio management (via Emirates NBD Asset Management and in-house Private Banking in London), Lombard and real-estate lending incl. IPO financing, trust & estate planning, real estate advisory (UAE and Prime Central London), External Asset Management desk in Dubai, Next Gen programme (with PwC, INSEAD). Strategic agreement with DIFC Family Wealth Centre for UHNW families (3 Dec 2025). Awards: FT Best Private Bank 2025; Euromoney Private Banking. Platforms strengthened in Singapore and UK; onshore derivatives and structured investments activated in Singapore (2025).",
+      "source_ids": [
+        "S19",
+        "S15",
+        "S9"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Emirates NBD Asset Management Ltd (DIFC, DFSA-regulated; SEO Michail Samawi): AUM USD 16bn at 31 Mar 2026. Funds domiciled in DIFC (FundStar umbrella), Jersey, Luxembourg (Emirates NBD SICAV) and Cayman: MENA equities, fixed income/EM debt, global multi-asset, money market, Shariah-compliant funds (e.g. Emirates Global Sukuk Fund, Emirates Islamic Money Market Fund, Emirates Islamic Global Balanced Fund), CIO Signature Funds; segregated discretionary/non-discretionary mandates; ENBD REIT (Shariah-compliant, Nasdaq Dubai); co-managed funds with Jupiter AM and UTI International. Group third-party funds managed AED 72.6bn (31 Dec 2025). Also Emirates NBD Capital India (asset management) and KSA local-currency equity funds/DPM launched 2025.",
+      "source_ids": [
+        "S17",
+        "S18",
+        "S3",
+        "S9"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Emirates NBD Securities LLC (licensed by UAE Capital Market Authority, licence 604003): DFM, ADX, Nasdaq Dubai and Saudi Exchange (Tadawul) plus GCC markets; channels Securities Online, eBrokerMax and the Emirates NBD Securities app with digital account opening. Digital margin trading facility enhanced with higher limits (H1 2026). 2026 priority: 'most comprehensive access to GCC & presence country markets on Emirates NBD Securities'. Global equities brokerage is offered in-app via ENBD X Digital Wealth. (UAE SCA was reconstituted as the Capital Market Authority from 1 Jan 2026 per law-firm briefing, search result only.)",
+      "source_ids": [
+        "S26",
+        "S4",
+        "S9",
+        "S39"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "ENBD X Digital Wealth (launched Oct 2023): 11,000+ global and UAE stocks and ETFs (NYSE, Nasdaq, LSE, DFM, ADX, Nasdaq Dubai); 232+ mutual funds (from Jan 2024); fractional UAE government bonds and sukuk and GCC sovereign fixed income (2025); retail sukuk; Emirates NBD gold; no minimum balance; zero brokerage on DFM/ADX/Nasdaq Dubai and USD 2 minimum fee on global equities/ETFs (FAQ). ENBD X launched in KSA in 2025 and is planned for Egypt in 2026. Liv X (Liv digital bank) offers crypto trading since Mar 2025. Rewards Hub on ENBD X (H1 2026). Digital wealth AUMA almost tripled in 2025; trading volumes >AED 40bn in 2025 and doubled YoY in H1 2026.",
+      "source_ids": [
+        "S23",
+        "S24",
+        "S25",
+        "S8",
+        "S9",
+        "S38",
+        "S5",
+        "S27"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Investment advisory services for Private Banking; Priority Banking positioned as 'personalized wealth advisory' with relationship managers; Group CIO office (Maurice Gravier) publishes house views (Global Investment Outlook 2026) and CIO insight reports; 'Private Assets Advisory & Execution' introduced 2025; Strategic Report notes enhanced advisory in Egypt.",
+      "source_ids": [
+        "S19",
+        "S20",
+        "S16",
+        "S9"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary Portfolio Management for private clients via Emirates NBD Asset Management and in-house Private Banking in London; ENBD AM also runs segregated discretionary mandates (conventional and Shariah); DPM services launched in KSA in 2025.",
+      "source_ids": [
+        "S19",
+        "S18",
+        "S9"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo-advisor or in-app model/managed portfolio product found on ENBD X; documented app investing is self-directed (stocks, ETFs, funds, fractional bonds/sukuk, gold). A financial-wellbeing article on robo-advisors exists on the website but no product. Advisory multi-asset portfolios by risk profile appear on the private banking advisory page (search result only, not opened).",
+      "source_ids": [
+        "S23",
+        "S25",
+        "S24"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "232+ mutual funds on ENBD X (Jan 2024) from Emirates NBD Asset Management, BlackRock, Fidelity and PIMCO, with Morningstar risk and sustainability ratings; the FAQ also cites ENBD-managed funds curated by the in-house CIO team. Fund-platform technology provider not disclosed.",
+      "source_ids": [
+        "S24",
+        "S25"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "New structured credit, commodity and investment products introduced (H1 2026 and FY2025 releases); wealth offering expanded across structured products (2025); onshore derivatives and structured investment offerings activated in Singapore.",
+      "source_ids": [
+        "S4",
+        "S9",
+        "S38"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "'Introduced Private Assets Advisory & Execution, partnered with BlackRock for private credit and Shari'ah-compliant funds' (Strategic Report 2025, RBWM highlights); wealth offering expanded across private markets in 2025.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Via Emirates Islamic (ae-ei) and the ENBD Islamic window (combined Islamic assets >AED 250bn, H1 2026); ENBD AM Shariah-compliant funds and Shariah board; ENBD REIT (Shariah-compliant); retail and fractional sukuk on ENBD X; BlackRock Shariah-compliant funds partnership (2025).",
+      "source_ids": [
+        "S4",
+        "S18",
+        "S23",
+        "S9"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Structured products",
+      "Private markets / alternatives",
+      "Gold / precious metals",
+      "Crypto / digital assets",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "BlackRock",
+        "kind": "Product partner (funds; private credit)",
+        "what": "Funds on ENBD X digital wealth shelf (Jan 2024); partnership for private credit and Shariah-compliant funds (2025)",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S24",
+          "S9"
+        ]
+      },
+      {
+        "partner": "Fidelity",
+        "kind": "Product partner (funds)",
+        "what": "Funds on ENBD X digital wealth platform",
+        "date": "2024-01-11",
+        "status": "Live",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "partner": "PIMCO",
+        "kind": "Product partner (funds)",
+        "what": "Funds on ENBD X digital wealth platform",
+        "date": "2024-01-11",
+        "status": "Live",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "partner": "Morningstar",
+        "kind": "Data provider",
+        "what": "Fund risk and sustainability ratings shown on ENBD X fund listings",
+        "date": "2024-01-11",
+        "status": "Live",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "partner": "Aquanow",
+        "kind": "Execution / platform technology (crypto)",
+        "what": "VARA-licensed firm powering crypto trading on Liv X",
+        "date": "2025-03-06",
+        "status": "Live",
+        "source_ids": [
+          "S27"
+        ]
+      },
+      {
+        "partner": "Zodia Custody",
+        "kind": "Custody (digital assets)",
+        "what": "Custody for Liv X crypto (Standard Chartered affiliate)",
+        "date": "2025-03-06",
+        "status": "Live",
+        "source_ids": [
+          "S27"
+        ]
+      },
+      {
+        "partner": "Jupiter Asset Management; UTI International",
+        "kind": "Product partner (co-managed funds)",
+        "what": "Funds co-managed with Emirates NBD Asset Management",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "partner": "DIFC Family Wealth Centre",
+        "kind": "Ecosystem partner",
+        "what": "Strategic agreement for UHNW families: governance, succession, family-office structures, Next Gen programmes",
+        "date": "2025-12-03",
+        "status": "Announced",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "partner": "Techstars",
+        "kind": "Innovation / accelerator",
+        "what": "'Acceleration-to-Enterprise' partnership for agentic fintech startups in compliance, wealth management, SME banking and capital markets",
+        "date": "2026-07-06",
+        "status": "Announced",
+        "source_ids": [
+          "S28"
+        ]
+      },
+      {
+        "partner": "Dubai Future District Fund",
+        "kind": "Innovation / venture partner",
+        "what": "Pipeline, pilots and possible rollouts of fintech/AI solutions incl. WealthTech and digital assets",
+        "date": "2026-08-10",
+        "status": "Announced",
+        "source_ids": [
+          "S29"
+        ]
+      },
+      {
+        "partner": "PwC; Fireblocks",
+        "kind": "Innovation (digital assets)",
+        "what": "Founding members of ENBD's Digital Asset Lab (2023)",
+        "date": "2023",
+        "status": "Unclear",
+        "source_ids": [
+          "S30"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2023-10",
+        "what": "Launched Digital Wealth platform inside ENBD X: 11,000+ global and regional stocks/ETFs across 21 markets, three-step onboarding.",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "date": "2024-01-11",
+        "what": "Added 232+ mutual funds (ENBD AM, BlackRock, Fidelity, PIMCO) to ENBD X with Morningstar ratings.",
+        "source_ids": [
+          "S24"
+        ]
+      },
+      {
+        "date": "2025-03-06",
+        "what": "Liv launched crypto trading in the Liv X app with Aquanow (execution) and Zodia Custody.",
+        "source_ids": [
+          "S27"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Fractional UAE government bonds and sukuk made available to retail clients on ENBD X; Private Assets Advisory & Execution introduced; BlackRock partnership for private credit and Shariah funds; KSA local-currency equity funds and DPM; ENBD X launched in KSA; next-generation wealth management products platform implemented (international).",
+        "source_ids": [
+          "S8",
+          "S9"
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "what": "Bought out remaining Emirates Islamic minority; EI shares suspended and delisted from DFM; EI now 100% owned.",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025-12-03",
+        "what": "Private Banking strategic agreement with DIFC Family Wealth Centre for UHNW families.",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2026-02-02",
+        "what": "Group CIO Wealth Management published 2026 Global Investment Outlook ('Eyes Wide Open').",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "date": "2026-06-18",
+        "what": "Completed acquisition of 60% of RBL Bank (India) for INR 260.1bn (AED 10bn); consolidated from that date.",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2026-07-06",
+        "what": "Techstars partnership targeting agentic fintech incl. wealth management (Group CDIO Miguel Rio-Tinto, Neeraj Makin named).",
+        "source_ids": [
+          "S28"
+        ]
+      },
+      {
+        "date": "2026-07-23",
+        "what": "H1 2026: Group AUM* USD 105bn; RBWM AUM +29% YoY; digital wealth trading volumes doubled; digital margin trading facility upgraded; Rewards Hub on ENBD X.",
+        "source_ids": [
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "date": "2026-08-02",
+        "what": "Emirates NBD Egypt agreed to acquire HSBC Egypt's retail banking business (portfolio, branches, customers, staff), positioned as a retail and premium banking franchise; subject to approvals.",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "what": "Partnership with Dubai Future District Fund covering fintech/AI incl. WealthTech (Marwan Hadi quoted).",
+        "source_ids": [
+          "S29"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Stated 2026 priorities: 'Grow affluent and wealth management by expanding wealth assets, with a strong focus on the UAE'; 'Drive large-scale digital and data transformation across retail and wealth propositions and platforms'; scale wealth management across affluent and priority segments in international markets.",
+        "source_ids": [
+          "S9"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Stated 2026 priority to grow affluent and wealth management assets with a UAE focus and to drive 'large-scale digital and data transformation across retail and wealth propositions and platforms' (S9).",
+        "No robo-advisor or in-app model/managed portfolios found on ENBD X; app investing is self-directed (S23, S25).",
+        "Actively scouting wealth tech: Techstars programme lists wealth management as a focus area (Jul 2026, S28); DFDF partnership lists WealthTech (Aug 2026, S29); USD 100m Innovation Fund invests in fintechs (S9).",
+        "Private markets and alternatives are a recent build (Private Assets Advisory & Execution, BlackRock private credit, 2025) (S9).",
+        "New wealth markets via acquisitions: RBL Bank India (consolidated Jun 2026, S2) and HSBC Egypt retail business (agreed Aug 2026, S12); 2026 priority to scale affluent/priority wealth propositions internationally (S9).",
+        "Fast digital wealth growth: AUMA almost tripled in 2025, trading volumes >AED 40bn, doubled again in H1 2026 (S38, S5)."
+      ],
+      "barriers": [
+        "Large in-house stack: 100% cloud-native IT, own ENBD X digital wealth platform, in-house CIO office, own asset manager (USD 16bn AUM) and brokerage (S9, S17, S26).",
+        "Existing product partners on the shelf: BlackRock, Fidelity, PIMCO funds; Aquanow/Zodia for crypto (S24, S27).",
+        "ENBD's own Global Equities Digital Wealth FAQ compares ENBD X directly with Wio Invest (ARTA's live partner) (S25) - competitive sensitivity.",
+        "Group AUM figure combines AUM and AUA; no disclosed wealth-only AUM to size the opportunity (S4)."
+      ],
+      "incumbent_vendors": [
+        "Aquanow - crypto execution for Liv X (S27)",
+        "Zodia Custody - crypto custody (S27)",
+        "Morningstar - fund ratings data on ENBD X (S24)",
+        "BlackRock, Fidelity, PIMCO - fund product providers on ENBD X (S24)",
+        "Fireblocks, PwC - Digital Asset Lab founding members (S30)",
+        "Digital wealth platform / execution / custody technology vendor for ENBD X: not publicly disclosed"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Corporate Governance - Management Team",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/about-emirates-nbd/corporate-governance/management-team",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Group Condensed Consolidated Interim Financial Statements for the six months period ended 30 June 2026",
+      "publisher": "Emirates NBD Bank (P.J.S.C.)",
+      "url": "https://cdn.emiratesnbd.com/en/assets/file/ir/quarterly/2026/emirates_nbd_financial_statements_q2_2026_english.pdf",
+      "doc_type": "Reviewed interim financial statements (EY review report 22 Jul 2026)",
+      "tier": 1,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Financial Statements 2025 (Group consolidated, audited)",
+      "publisher": "Emirates NBD Bank (P.J.S.C.)",
+      "url": "https://cdn.emiratesnbd.com/en/assets/file/ir/quarterly/2025/emirates_nbd_financial_statements_q4_2025_english.pdf",
+      "doc_type": "Audited annual financial statements (auditor report 26 Jan 2026)",
+      "tier": 1,
+      "published": "2026-01-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Emirates NBD delivers record H1 pre-tax profit of AED 16.2 billion, up 5% YoY, and completed milestone acquisition of RBL Bank (press release PDF)",
+      "publisher": "Emirates NBD",
+      "url": "https://cdn.emiratesnbd.com/en/assets/file/ir/quarterly/2026/emiratesnbd_q2_2026_pressrelease_english.pdf",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Results Presentation First Half 2026",
+      "publisher": "Emirates NBD",
+      "url": "https://cdn.emiratesnbd.com/en/assets/file/ir/quarterly/2026/emirates_nbd_results_presentation_q2_2026_english.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Emirates NBD Investor Presentation Q2 2026",
+      "publisher": "Emirates NBD",
+      "url": "https://cdn.emiratesnbd.com/en/assets/file/ir/emiratesnbd_investor_presentation_2026_q2.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Emirates NBD H1 2026 Results Announcement Analyst Call and Webcast - transcript",
+      "publisher": "Emirates NBD",
+      "url": "https://cdn.emiratesnbd.com/en/assets/file/ir/emiratesnbd_analyst_meeting_transcript_q2_2026.pdf",
+      "doc_type": "Earnings call transcript",
+      "tier": 2,
+      "published": "2026-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Results Presentation FY 2025",
+      "publisher": "Emirates NBD",
+      "url": "https://cdn.emiratesnbd.com/en/assets/file/ir/quarterly/2025/emirates_nbd_results_presentation_q4_2025_english.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-01-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Strategic Report 2025 (and ESG summary)",
+      "publisher": "Emirates NBD Bank (P.J.S.C.)",
+      "url": "https://cdn.emiratesnbd.com/assets/pdf/strategic_report_2025.pdf",
+      "doc_type": "Annual report (strategic report)",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Corporate Governance Report 2025",
+      "publisher": "Emirates NBD Bank (P.J.S.C.)",
+      "url": "https://cdn.emiratesnbd.com/assets/pdf/cg_report_2025.pdf",
+      "doc_type": "Annual corporate governance report",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Ownership Statistics",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/investor-relations/integrated-reports/shareholder-information/ownership-statistics",
+      "doc_type": "Investor relations page",
+      "tier": 2,
+      "published": "2026-07-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Emirates NBD to Acquire Retail Banking Business of HSBC Egypt (press release filed on DFM)",
+      "publisher": "Dubai Financial Market / Emirates NBD",
+      "url": "https://feeds.dfm.ae/documents/2026/Aug/2/8342799e-4486-41a6-81a2-90ecc48204ba/Emirates%20NBD%20To%20Acquire%20Retail%20Banking%20Business%20Of.pdf",
+      "doc_type": "Exchange disclosure",
+      "tier": 1,
+      "published": "2026-08-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Board of Directors",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/about-emirates-nbd/corporate-governance/board-of-directors",
+      "doc_type": "Official board page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Shayne Nelson - Group CEO (profile)",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/about-emirates-nbd/corporate-governance/management-team/shaynenelson",
+      "doc_type": "Official biography",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Emirates NBD enters strategic agreement with DIFC to empower families and safeguard legacies",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/media-center/emirates-nbd-enters-strategic-agreement",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-12-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Emirates NBD Group Chief Investment Officer announces positive outlook for 2026",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/media-center/emirates-nbd-group-chief-investment-officer-announces-positive-outlook-for-2026",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-02-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Emirates NBD Asset Management (homepage)",
+      "publisher": "Emirates NBD Asset Management",
+      "url": "https://www.emiratesnbd.com/en/asset-management",
+      "doc_type": "Official subsidiary website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Emirates NBD Asset Management - About Us (management, investment team, Shari'a board, fund ranges)",
+      "publisher": "Emirates NBD Asset Management",
+      "url": "https://www.emiratesnbd.com/en/asset-management/about-us",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Private Banking",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/private-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Priority Banking UAE",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/priority-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Apply for Priority Banking (eligibility)",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/campaigns/prb-always-on",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Signature by Priority Banking",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/priority-banking/our-solutions/packages/signature",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Wealth",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/wealth",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Emirates NBD digital wealth platform offers choice of more than 232 mutual funds",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/media-center/emirates-nbd-digital-wealth-platform-offers-choice-of-more-than-232-mutual-funds",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-01-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Global Equities Digital Wealth - Frequently Asked Questions (ENBD X)",
+      "publisher": "Emirates NBD",
+      "url": "https://cdn.emiratesnbd.com/enbd/files/pdf/global_equities_digital_wealth_faqs.pdf",
+      "doc_type": "Official product FAQ (bilingual)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Emirates NBD Securities",
+      "publisher": "Emirates NBD Securities LLC",
+      "url": "https://www.emiratesnbdsecurities.com/en-sec/",
+      "doc_type": "Official subsidiary website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "Dubai's Emirates NBD launches crypto trading through digital arm",
+      "publisher": "Gulf News (Bloomberg)",
+      "url": "https://gulfnews.com/business/banking/dubai-s-emirates-nbd-launches-crypto-trading-through-digital-arm-1.500053868",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2025-03-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Techstars and Emirates NBD partner to accelerate enterprise-grade AI and FinTech solutions across the MENAT region",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/media-center/techstars-and-emirates-nbd-accelerate-ai-and-fintech-solutions",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "Emirates NBD collaborates with Dubai Future District Fund",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/media-center/emirates-nbd-collaborates-with-dubai-future-district-fund",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-08-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "Fintech & Digital Partnerships",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/innovation/fintech-and-digital-partnerships",
+      "doc_type": "Official innovation page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "Quarterly Results (investor relations)",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/investor-relations/financial-information/quarterly-results",
+      "doc_type": "Investor relations page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S32",
+      "title": "UAE Largest Banking Group Emirates NBD Senior Management Changes: Tariq Chaudhary, Raed Al Jaser, Mohammad Al Bastaki",
+      "publisher": "Caproasia",
+      "url": "https://www.caproasia.com/?p=63476",
+      "doc_type": "Trade news (private wealth)",
+      "tier": 5,
+      "published": "2025-12-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S33",
+      "title": "ADCB poaches Emirates NBD's digital chief Pedro Sousa Cardoso",
+      "publisher": "FinTech Futures",
+      "url": "https://www.fintechfutures.com/job-cuts-new-hires/adcb-poaches-emirates-nbd-s-digital-chief-pedro-sousa-cardoso",
+      "doc_type": "News article (seen in search results only; page returned HTTP 403)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S35",
+      "title": "Marwan Hadi - Emirates NBD (LinkedIn profile, search result snippet)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marwan-hadi-7395a610/",
+      "doc_type": "LinkedIn profile (search result only, not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S36",
+      "title": "Neeraj Makin - Emirates NBD (LinkedIn profile, search result snippet)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/neerajmakin/",
+      "doc_type": "LinkedIn profile (search result only, not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S37",
+      "title": "The Finance Frontier 2026: Shayne Nelson, Group CEO, Emirates NBD",
+      "publisher": "Entrepreneur Middle East",
+      "url": "https://mena.entrepreneur.com/finance/the-finance-frontier-2026-shayne-nelson-group-ceo-emirates-nbd",
+      "doc_type": "Media profile",
+      "tier": 5,
+      "published": "2026-07-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S38",
+      "title": "Emirates NBD delivered a record AED 29.8 billion profit before tax, up 10% (FY2025 press release PDF)",
+      "publisher": "Emirates NBD",
+      "url": "https://cdn.emiratesnbd.com/en/assets/file/ir/quarterly/2025/emiratesnbd_q4_2025_pressrelease_english.pdf",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": "2026-01-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S39",
+      "title": "UAE SCA renamed CMA and other landmark legislations",
+      "publisher": "Regulation Tomorrow (Norton Rose Fulbright)",
+      "url": "https://www.regulationtomorrow.com/2026/01/uae-sca-renamed-cma-and-other-landmark-legislations/",
+      "doc_type": "Law-firm briefing (seen in search results only)",
+      "tier": 5,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S40",
+      "title": "Maurice Gravier - Milken Institute Global Conference 2026 speaker profile",
+      "publisher": "Milken Institute",
+      "url": "https://milkeninstitute.org/events/global-conference-2026/speakers/maurice-gravier",
+      "doc_type": "Speaker biography (self-supplied)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Institution",
+      "original_value": "Emirates NBD",
+      "finding": "Confirmed",
+      "new_value": "Emirates NBD (legal name Emirates NBD Bank (P.J.S.C.))",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Country",
+      "original_value": "United Arab Emirates",
+      "finding": "Confirmed",
+      "new_value": "AE",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Institution type",
+      "original_value": "Listed universal banking group",
+      "finding": "Confirmed",
+      "new_value": "Universal / commercial bank; DFM-listed (EMIRATESNBD)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Assets (bn) [formula -> Size metrics 'ENBD::Total assets']",
+      "original_value": "1,322,466 AED million (=1,322.5bn)",
+      "finding": "Confirmed",
+      "new_value": "AED 1,322,466m at 30 Jun 2026 (reviewed interim statements)",
+      "materiality": "Material",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Currency",
+      "original_value": "AED",
+      "finding": "Confirmed",
+      "new_value": "AED",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Assets as of",
+      "original_value": "2026-06-30",
+      "finding": "Confirmed",
+      "new_value": "2026-06-30 (Q3 2026 not yet published as of 12 Oct 2026)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S31"
+      ]
+    },
+    {
+      "field": "Deposits (bn) [formula -> 'ENBD::Customer deposits']",
+      "original_value": "892,070 AED million",
+      "finding": "Confirmed",
+      "new_value": "AED 892,070m customer deposits at 30 Jun 2026",
+      "materiality": "Material",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Deposits as of",
+      "original_value": "2026-06-30",
+      "finding": "Confirmed",
+      "new_value": "2026-06-30",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Deposit measure",
+      "original_value": "Customer deposits",
+      "finding": "Confirmed",
+      "new_value": "'Customer deposits' line; excludes due to banks; includes Islamic deposits",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Chief executive",
+      "original_value": "Shayne Nelson",
+      "finding": "Confirmed",
+      "new_value": "Shayne Nelson, Group CEO (since 2013)",
+      "materiality": "Material",
+      "source_ids": [
+        "S1",
+        "S12"
+      ]
+    },
+    {
+      "field": "Wealth / investment arm",
+      "original_value": "Private Wealth Management and group asset management",
+      "finding": "Corrected",
+      "new_value": "No unit called 'Private Wealth Management' found. Wealth sits in the Retail Banking & Wealth Management segment (Group Head Marwan Hadi), with Emirates NBD Private Banking (Group Head Mohammad Al Bastaki), Group CIO Wealth Management, and subsidiaries Emirates NBD Asset Management Ltd (DFSA), Emirates NBD Securities LLC and Emirates NBD Capital.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S1",
+        "S15",
+        "S17",
+        "S26"
+      ]
+    },
+    {
+      "field": "Business focus",
+      "original_value": "Retail and wealth management, private banking, corporate/institutional, treasury, Islamic banking and digital Liv.",
+      "finding": "Updated",
+      "new_value": "Confirmed as listed; add international banking in Turkiye (DenizBank), India (RBL Bank, 60% from 18 Jun 2026), Egypt, KSA, Singapore, UK; brokerage and asset management subsidiaries; Liv is a digital bank brand operated by ENBD.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S12"
+      ]
+    },
+    {
+      "field": "Ownership",
+      "original_value": "Parent Investment Corporation of Dubai, wholly owned by Government of Dubai; DFM-listed.",
+      "finding": "Updated",
+      "new_value": "Confirmed (FS note 1). Detail: ICD holds 40.9% directly, DH 7 LLC 14.8%, Capital Assets LLC 5.3% (14 Jul 2026); ENBD describes itself as 56% owned by the Dubai Government via ICD and Dubai Holding Group (2 Aug 2026).",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "field": "Research coverage",
+      "original_value": "Substantive partnership / pipeline; leadership mapping discussion",
+      "finding": "Could not verify",
+      "new_value": "Internal relationship classification - not publicly verifiable; not researched.",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Last prior research",
+      "original_value": "2026-10-05",
+      "finding": "Updated",
+      "new_value": "Re-researched 2026-10-12 (batch P1).",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Relationship / opportunity",
+      "original_value": "Internal relationship note (not reproduced here)",
+      "finding": "Could not verify",
+      "new_value": "Internal CRM-type information - out of scope for public verification.",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Website",
+      "original_value": "https://www.emiratesnbd.com/",
+      "finding": "Confirmed",
+      "new_value": "https://www.emiratesnbd.com",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Company LinkedIn",
+      "original_value": "https://www.linkedin.com/company/emirates-nbd?etm_action=bbhome-featured",
+      "finding": "Confirmed",
+      "new_value": "https://www.linkedin.com/company/emirates-nbd (tracking parameter removed; company page seen in search results, ENBD homepage footer could not be read due to page length - no contrary evidence)",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Gaps / important distinctions: AUM/AUA groupwide",
+      "original_value": "AUM/AUA is groupwide, not private bank-only.",
+      "finding": "Confirmed",
+      "new_value": "Issuer footnote: 'AUM figures include asset under administration as well'; figure is 'across the Group'.",
+      "materiality": "Material",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "Gaps / important distinctions: RBL in H1 2026 assets",
+      "original_value": "H1 2026 assets include acquired RBL Bank; not an organic-only comparison.",
+      "finding": "Confirmed",
+      "new_value": "60% stake in RBL Bank acquired and consolidated from 18 Jun 2026; added AED 74bn assets, AED 44bn gross loans, AED 43bn deposits; ex-RBL asset growth ~11% YTD.",
+      "materiality": "Material",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "field": "Gaps / important distinctions: 'Karen' contact",
+      "original_value": "Karen in notes unverified surname; don't conflate with Tinuke.",
+      "finding": "Could not verify",
+      "new_value": "No public source identifies a 'Karen' in a relevant role; left as internal note.",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Source references (Research notes)",
+      "original_value": "S051, S052, S053, S054, S055",
+      "finding": "Updated",
+      "new_value": "Replaced by field-level sources S1-S40 in this file.",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Prior research source",
+      "original_value": "Private mailbox link (internal)",
+      "finding": "Could not verify",
+      "new_value": "Internal mailbox link - not opened (private); not reproduced.",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Assets (USD bn) / Deposits (USD bn) [formulas]",
+      "original_value": "Workbook USD conversion of AED values",
+      "finding": "Confirmed",
+      "new_value": "Underlying AED values confirmed; USD conversion is done centrally (not recomputed here).",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "AUM / AUA (USD bn) [formula -> 'ENBD::AUM including assets under administration']",
+      "original_value": "105 USD billion",
+      "finding": "Confirmed",
+      "new_value": "USD 105bn 'AUM*' across the Group at 30 Jun 2026 (includes AUA)",
+      "materiality": "Material",
+      "source_ids": [
+        "S4",
+        "S7"
+      ]
+    },
+    {
+      "field": "AUM / AUA measure",
+      "original_value": "AUM including assets under administration",
+      "finding": "Confirmed",
+      "new_value": "Issuer-labelled 'AUM*' with footnote that it includes AUA",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "AUM / AUA as of",
+      "original_value": "2026-06-30",
+      "finding": "Confirmed",
+      "new_value": "2026-06-30 (H1 2026 release, 23 Jul 2026)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "Size metrics: ENBD::Total assets",
+      "original_value": "1,322,466 AED million, 2026-06-30, Q2 2026 financial statements",
+      "finding": "Confirmed",
+      "new_value": "1,322,466 AED million (PDF p.4)",
+      "materiality": "Material",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Size metrics: ENBD::Customer deposits",
+      "original_value": "892,070 AED million, 2026-06-30",
+      "finding": "Confirmed",
+      "new_value": "892,070 AED million (PDF p.4)",
+      "materiality": "Material",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Size metrics: ENBD::AUM including assets under administration",
+      "original_value": "105 USD billion, 2026-06-30, H1 2026 results announcement",
+      "finding": "Confirmed",
+      "new_value": "105 USD billion",
+      "materiality": "Material",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "Size metrics: ENBD::Customers",
+      "original_value": "9,000,000 ('over 9 million', undated, company LinkedIn page)",
+      "finding": "Updated",
+      "new_value": "25+ million active customers Group-wide as of Aug 2026 incl. RBL Bank (~15m); pre-RBL 9.8+ million active customers at FY2025. LinkedIn is not an acceptable source for this metric.",
+      "materiality": "Material",
+      "source_ids": [
+        "S6",
+        "S12",
+        "S9"
+      ]
+    },
+    {
+      "field": "Person: Atinuke Odunowo (Tinuke) - Fintech Engagement Manager, Emirates NBD Digital",
+      "original_value": "Historical source only; current role unverified (business email held internally - not copied)",
+      "finding": "Could not verify",
+      "new_value": "No public source found. The official Fintech & Digital Partnerships page names Sean Sarginson (Head of Group Innovation & Fintech Engagement) and Nacira Alioua (Head of Fintech Engagement) as the fintech-engagement leads.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S30"
+      ]
+    },
+    {
+      "field": "Person: Marwan Hadi - Group Head of Retail Banking and Wealth Management",
+      "original_value": "Live official website, checked 2026-10-07; LinkedIn ae.linkedin.com/in/marwan-hadi-7395a610 (verified)",
+      "finding": "Confirmed",
+      "new_value": "Still listed 12 Oct 2026; quoted 10 Aug 2026. LinkedIn re-matched via search (same slug).",
+      "materiality": "Material",
+      "source_ids": [
+        "S1",
+        "S29",
+        "S35"
+      ]
+    },
+    {
+      "field": "Person: Maurice Gravier - Group Chief Investment Officer - Wealth Management",
+      "original_value": "Live official website, checked 2026-10-07; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Official title 'Group Chief Investment Officer, Wealth Management' (2 Feb 2026 release); in role since 2018. LinkedIn still not verified.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S16",
+        "S40"
+      ]
+    },
+    {
+      "field": "Person: Miguel Rio-Tinto - Group Chief Digital and Information Officer",
+      "original_value": "Live official website, checked 2026-10-07",
+      "finding": "Confirmed",
+      "new_value": "Listed on management page 12 Oct 2026; quoted in Techstars release 6 Jul 2026.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S28"
+      ]
+    },
+    {
+      "field": "Person: Mohammad Al Bastaki - Group Head - Private Banking and Wealth Management",
+      "original_value": "Live official website, checked 2026-10-07; LinkedIn ae.linkedin.com/in/mohammad-albastaki-32114958 (verified)",
+      "finding": "Confirmed",
+      "new_value": "Title confirmed in official release of 3 Dec 2025; ENBD AM page lists him as Group Head of Private Banking. Not on Group Executive Committee page. LinkedIn kept from original, not re-verified.",
+      "materiality": "Material",
+      "source_ids": [
+        "S15",
+        "S18"
+      ]
+    },
+    {
+      "field": "Person: Neeraj Makin - Group Head - Strategy, Analytics & Venture Capital",
+      "original_value": "Live official website, checked 2026-10-07; LinkedIn ae.linkedin.com/in/neerajmakin (verified)",
+      "finding": "Confirmed",
+      "new_value": "Listed on management page 12 Oct 2026; LinkedIn re-matched via search (www.linkedin.com/in/neerajmakin).",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1",
+        "S36"
+      ]
+    },
+    {
+      "field": "Person: Shayne Nelson - Group Chief Executive Officer",
+      "original_value": "Live official website, checked 2026-10-07; LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Listed 12 Oct 2026; quoted as Group CEO 2 Aug 2026. LinkedIn still not verified.",
+      "materiality": "Material",
+      "source_ids": [
+        "S1",
+        "S12"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "Emirates Islamic listing status",
+      "detail": "Batch brief describes Emirates Islamic as DFM-listed; ENBD FY2025 financial statements (note 47) state ENBD acquired the remaining 0.1% and EI 'has been de-listed from Dubai Financial Markets'; EI's own FY2025 statements give trading suspension on 10 Jun 2025.",
+      "resolution": "EI recorded as unlisted, 100%-owned subsidiary (see ae-ei).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "ENBD X user base",
+      "detail": "Strategic Report 2025 states 'more than 2.4 million ENBD X active users' (p.15) and, in the RBWM review, ENBD X serving '1.6 million customers as of year-end' (p.26).",
+      "resolution": "Recorded 2.4m with status 'Conflicting sources'; scope difference (Group vs UAE retail) likely but not stated.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    {
+      "field": "Active customers FY2025",
+      "detail": "Strategic Report shows '9.8+mn' total active customers and elsewhere 'Over 9 million active customers'.",
+      "resolution": "Used 9.8m (more specific); both consistent as floors.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    {
+      "field": "Shayne Nelson tenure wording",
+      "detail": "Entrepreneur ME (28 Jul 2026) body says he 'served as Group CEO of Emirates NBD for 12 years' (past tense) while headline and caption title him Group CEO.",
+      "resolution": "Official management page (12 Oct 2026) and DFM release (2 Aug 2026) list him as Group CEO; treated as wording, role 'Verified current'.",
+      "source_ids": [
+        "S37",
+        "S1",
+        "S12"
+      ]
+    },
+    {
+      "field": "Wealth management leadership titles",
+      "detail": "ENBD AM 'About us' (undated) lists Tariq Mushtaq Chaudhary as 'Group Head of Wealth Management' and Mohammad Al Bastaki as 'Group Head of Private Banking'; Caproasia (18 Dec 2025) reports Chaudhary moved to Group Head RBWM International, Raed Al Jaser named Head of Wealth Management and Al Bastaki Group Head of Private Banking & Wealth Management; ENBD release (3 Dec 2025) uses 'Group Head of Private Banking and Wealth Management' for Al Bastaki.",
+      "resolution": "Al Bastaki title taken from official release; Chaudhary 'Conflicting sources'; Al Jaser 'Requires verification'.",
+      "source_ids": [
+        "S18",
+        "S32",
+        "S15"
+      ]
+    },
+    {
+      "field": "Former digital lead for RBWM",
+      "detail": "Jan 2024 ENBD release names Pedro Sousa Cardoso as Chief Digital Officer, RBWM; FinTech Futures headlines (search results only, page blocked) report he stepped down and joined ADCB as CDO (around Oct 2025).",
+      "resolution": "Not listed as a current person; successor for RBWM digital not identified (open item).",
+      "source_ids": [
+        "S24",
+        "S33"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead from internal note (Sep 2026): 'Carlos Almeida, Head of Group Digital Wealth' - no public source found (searched name + Emirates NBD, digital wealth); not recorded as a person. Confirm internally or via LinkedIn.",
+    "Identify current head of digital for RBWM / Digital Wealth after Pedro Sousa Cardoso's departure (S33); no named successor found.",
+    "Raed Al Jaser (Head of Wealth Management) and Tariq Chaudhary's current title rest on one trade-press source (S32); seek an official ENBD announcement or org page.",
+    "Technology vendors behind ENBD X Digital Wealth (execution, custody, fund platform) are not publicly disclosed; check RFP/press coverage or ask in meetings.",
+    "Liv customer numbers and Liv X investing scope (beyond crypto) not found in 2025-26 sources.",
+    "Emirates NBD Securities leadership not named on its website; Emirates NBD Capital CEO (Hitesh Asarpota per Euromoney 2026, search result only) not verified on an official page.",
+    "Q3 2026 results not yet published (IR quarterly results page checked 12 Oct 2026, S31); add 30 Sep 2026 balance-sheet record when released.",
+    "Company LinkedIn: ENBD homepage footer could not be read (page too long for fetch); URL taken from search result and original workbook.",
+    "Strategic Report 2025 and CG Report 2025 publication dates not shown in the PDFs."
+  ],
+  "research_status": "Complete",
+  "researched_by": "P1",
+  "checked": "2026-10-12"
+}

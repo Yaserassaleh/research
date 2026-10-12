@@ -1,0 +1,1529 @@
+{
+  "id": "ae-wio",
+  "name": "Wio Bank",
+  "short_name": "Wio",
+  "legal_name": "Wio Bank PJSC",
+  "name_ar": null,
+  "country": "AE",
+  "hq_city": "Abu Dhabi",
+  "website": "https://wio.io/",
+  "linkedin_company": "https://www.linkedin.com/company/wiobank/",
+  "category": "Bank",
+  "type": "Digital bank",
+  "model": "Conventional",
+  "founded": "2022 (incorporated in Abu Dhabi as a PJSC on 23 Feb 2022; CBUAE commercial-bank licence announced 10 May 2022; Wio Business app launched 5 Sep 2022 and official launch 13 Sep 2022)",
+  "regulators": [
+    "CBUAE",
+    "SCA (renamed UAE Capital Market Authority from 1 Jan 2026) — PJSC governance; licences of affiliate Wio Securities LLC"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Unlisted PJSC with AED 2.3bn paid-in capital, owned at 31 Dec 2025 by Alpha Dhabi Holding (33.15%), ADQ / Abu Dhabi Developmental Holding Company (31.85%), Etisalat (e&, 25%) and First Abu Dhabi Bank (10%). Alpha Dhabi reports its interest through a 51% joint venture, WIO Holding Restricted Limited. On 30 Jan 2026 Abu Dhabi's Supreme Council for Financial and Economic Affairs consolidated ADQ's assets and investments under L'IMAD Holding, naming Wio Bank among the portfolio companies; no Wio disclosure of a change in the registered 31.85% holder was found (checked 12 Oct 2026).",
+  "shareholders": [
+    {
+      "holder": "Alpha Dhabi Holding PJSC (ADX-listed; held via 51%-owned JV WIO Holding Restricted Limited per Alpha Dhabi's accounts)",
+      "pct": 33.15,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "holder": "ADQ (Abu Dhabi Developmental Holding Company PJSC, shown as 'ADQ / ADDH PJSC'); ADQ assets consolidated under L'IMAD Holding by SCFEA resolution of 30 Jan 2026",
+      "pct": 31.85,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5",
+        "S18"
+      ]
+    },
+    {
+      "holder": "Etisalat PJSC (e&)",
+      "pct": 25,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "holder": "First Abu Dhabi Bank PJSC (FAB)",
+      "pct": 10,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "government_link": "Yes — Abu Dhabi state investors: ADQ held 31.85% at 31 Dec 2025, and ADQ's assets (Wio named) were consolidated under L'IMAD Holding (chaired by the Crown Prince of Abu Dhabi) on 30 Jan 2026. Other holders are Alpha Dhabi, e& and FAB. Checked 2026-10-12.",
+  "group_structure": "Single-entity bank: the FY2025 audited statements are not consolidated and show no subsidiaries. Wio Invest is run by a separate company, Wio Securities LLC (established Dec 2022, owned by ADQ Financial Services LLC, SCA licences 20200000072 for trading broker in international markets and 20200000165 for securities portfolio management). It is a sister company, not a Wio Bank subsidiary, so Wio Invest AUA is not in Wio Bank's balance sheet. Alpha Dhabi's notes show WIO Holding Restricted Limited (51% Alpha Dhabi) with 65% of Wio Bank's equity attributable to owners and 35% to non-controlling interests, which is consistent with Alpha Dhabi's 33.15% (51% x 65%) — our derivation, not a stated fact.",
+  "subsidiaries": [],
+  "footprint": "UAE only, digital-only (no branches). Registered office: Etihad Airways Centre, Abu Dhabi. 1 country of operation (Alpha Dhabi AR 2025). Checked 2026-10-12.",
+  "customer_segments": "Retail individuals (Wio Personal, about 252K customers end-2025, incl. Salary and Family propositions) and SMEs, start-ups and freelancers (Wio Business, about 121K customers end-2025); corporate clients via lending and supply-chain finance; partners via Banking-as-a-Service and embedded finance. No published affluent, premier or private-banking tier found.",
+  "business_lines": "Wio Personal (accounts, Saving Spaces, cards, personal loans, instalments, Wio Family from Nov 2025, creator accounts from Jan 2026); Wio Business (accounts, payments, payroll, business loans, SME cards, POS lending, supply-chain finance, multi-currency fixed deposits); embedded finance / BaaS (Magnati, TAMM, Network International, Xero integrations); investing through Wio Invest inside the Wio Personal app (operated by affiliate Wio Securities LLC: UAE and US stocks and ETFs, crypto via Fuze, Wio Wealth managed portfolios, iShares UCITS ETFs from Jun 2026); Loan Against Investments on ADX-listed shares with ADX (Jun 2026).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 68816711,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC",
+      "definition": "Total consolidated assets, Pillar 3 template LR1 (summary comparison of accounting assets vs leverage exposure), row 1",
+      "status": "Verified",
+      "locator": "Pillar 3 Q2 2026, section 5.1 LR1, p.14",
+      "note": "Regulatory disclosure; Wio publishes no H1 2026 interim financial statements (IR page checked 12 Oct 2026). Q3 2026 Pillar 3 not yet published.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 61076887,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC",
+      "definition": "Total assets, audited statement of financial position",
+      "status": "Verified",
+      "locator": "FY2025 financial statements, p.8",
+      "note": "31 Dec 2024: AED 37,354,676 thousand.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 57286792,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC",
+      "definition": "Customer deposits (current AED 18.43bn, savings AED 5.58bn, time AED 33.28bn; retail AED 41.98bn, corporate and SME AED 15.31bn); no due-to-banks line on the balance sheet",
+      "status": "Verified",
+      "locator": "FY2025 financial statements, p.8 and note 10",
+      "note": "Latest audited figure. Deposits at 30 Jun 2026 are not published (see disclosure_checks). Company release: AED 52bn in Sep 2025, up from AED 29bn in Sep 2024 (S9).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 5190172,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC",
+      "definition": "Loans, net values (gross carrying value of defaulted AED 55,855k plus non-defaulted AED 5,255,780k, less allowances), Pillar 3 template CR1",
+      "status": "Verified",
+      "locator": "Pillar 3 Q2 2026, section 7.1 CR1, p.19",
+      "note": "Regulatory credit-quality table, not the IFRS balance-sheet line. The ASRR 'total advances' measure was AED 6,666,608k (KM1 row 25, p.6), a different regulatory definition.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 3381085,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC",
+      "definition": "Loans and advances, net (gross loans and advances less allowance for impairment)",
+      "status": "Verified",
+      "locator": "FY2025 financial statements, p.8 and note 7",
+      "note": "Mix of gross loans: corporate AED 1,558m, SME AED 1,316m, retail AED 570m.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 3444374,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC",
+      "definition": "Gross loans and advances (term loans, credit cards, bills discounted)",
+      "status": "Verified",
+      "locator": "FY2025 financial statements, note 7",
+      "note": "",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 2975439,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC",
+      "definition": "Total equity, audited statement of financial position",
+      "status": "Verified",
+      "locator": "FY2025 financial statements, p.8",
+      "note": "Share capital AED 2,300,000k paid in Feb 2022.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 1245265,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Wio Bank PJSC",
+      "definition": "Total operating income (net interest income AED 662,502k plus net fee, commission and other income AED 583,081k, less investment loss AED 318k)",
+      "status": "Verified",
+      "locator": "FY2025 financial statements, p.9",
+      "note": "FY2024: AED 803,467k. Alpha Dhabi reports WIO Holding 'revenue' of AED 3,063,376k, which equals gross interest plus gross fee income (S6).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 621672,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Wio Bank PJSC",
+      "definition": "Profit after tax for the year (total; single entity with no non-controlling interests)",
+      "status": "Verified",
+      "locator": "FY2025 financial statements, p.9",
+      "note": "FY2024: AED 394,983k.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "cet1_ratio",
+      "value": 15.58,
+      "unit": "percent",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC",
+      "definition": "Common Equity Tier 1 ratio, Pillar 3 KM1 row 5",
+      "status": "Verified",
+      "locator": "Pillar 3 Q2 2026, KM1, p.5",
+      "note": "Down from 27.26% at 31 Dec 2025 as RWA rose from AED 10.4bn to AED 17.7bn; total capital ratio 16.05% against a 10.5% minimum plus 2.5% buffer.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 373000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "End 2025",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC (all segments)",
+      "definition": "Total customers: Wio Personal 252K plus Wio Business 121K (+59% YoY); not stated whether active or registered",
+      "status": "Verified",
+      "locator": "Alpha Dhabi AR 2025, pp.117-118; Wio FY2025 Directors' report, p.1",
+      "note": "Rounded. Wio's own Directors' report says 'over 250 thousand' personal and 'over 120 thousand' business customers.",
+      "source_ids": [
+        "S6",
+        "S3"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 370,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Wio Bank PJSC",
+      "definition": "Total employees (Emiratisation table)",
+      "status": "Conflicting sources",
+      "locator": "Corporate Governance Report 2025, section 10.4, p.21",
+      "note": "Alpha Dhabi AR 2025 gives 407 employees at end-2025 (p.117).",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "metric": "aua",
+      "value": 1,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-07-23",
+      "period_label": "Announced 23 Jul 2025 ('surpassed')",
+      "period_type": "point_in_time",
+      "scope": "Affiliate: Wio Securities LLC (Wio Invest) — owned by ADQ Financial Services LLC, not a Wio Bank subsidiary",
+      "definition": "Assets Under Administration on the Wio Invest platform (company label), reached in under two years of operations",
+      "status": "Verified",
+      "locator": "",
+      "note": "Unaudited company claim; lower bound ('surpassed'). Not part of Wio Bank's balance sheet. No later official AUA figure found.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "value": 4,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-07-23",
+      "period_label": "Year to date to 23 Jul 2025",
+      "period_type": "duration",
+      "scope": "Affiliate: Wio Securities LLC (Wio Invest)",
+      "definition": "Order volume year-to-date (company claim: 'more than USD 4 billion')",
+      "status": "Verified",
+      "locator": "",
+      "note": "Unaudited company claim; lower bound. Oct 2024 coverage cited 'over USD 2 billion' processed volume in 2024 to date (S22).",
+      "source_ids": [
+        "S8"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Wio Wealth managed-portfolio assets not disclosed: Wio Invest AUA release (S8), Wio Invest homepage (S13), iShares release (S15), Alpha Dhabi AR 2025 (S6)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "No Wio Invest user count in the Jul 2025 AUA release (S8), Oct 2025 deposits release (S9), Jun 2026 iShares release (S15) or the Wio Invest site (S13, S14)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not found after research",
+      "where_checked": "No affluent/private client asset measure in FY2025 statements (S3), CGR 2025 (S5) or Alpha Dhabi AR (S6)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Jayesh Patel",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Group",
+      "scope": "Bank",
+      "appointed": "2022-05",
+      "appointed_note": "Appointment announced 10 May 2022 after the CBUAE licence (S11). Entrepreneur ME (Jul 2026) says he assumed the role in 2020, i.e. during the pre-licence build phase (S17). Power of Attorney as CEO runs to May 2028 (S5).",
+      "previous_roles": "Senior strategic roles at Emirates NBD, where he led retail strategy and digital transformation and launched the digital bank Liv.; earlier Deloitte and IBM in the United States (S5, S17).",
+      "education": "BSc Civil Engineering, Southern Illinois University Edwardsville; MS Mechanical Engineering, University of Illinois; MBA, Tuck School of Business at Dartmouth (Entrepreneur ME profile, S17)",
+      "qualifications": null,
+      "linkedin_url": "https://ae.linkedin.com/in/jayesh-patel-984b5117",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Signed FY2025 statements as CEO (S3); CGR 2025 (S5); quoted as CEO of Wio Bank on 22 Jun 2026 (S16) and profiled as CEO on 29 Jul 2026 (S17). No departure news found. LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B07; no contrary evidence.",
+      "source_ids": [
+        "S3",
+        "S5",
+        "S11",
+        "S16",
+        "S17",
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "H.E. Mansour AlMulla",
+      "name_ar": null,
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2025-05",
+      "appointed_note": "Chairman appointment announced 15 May 2025, succeeding H.E. Salem Al Nuaimi (S10); CGR lists him as a member since Mar 2025 (S5).",
+      "previous_roles": "Deputy Group CEO of ADQ at appointment (May 2025, S10). Other roles per CGR 2025: Vice Chairman of Etihad; board member of Etihad Rail, AD Ports and Ammroc (S5).",
+      "education": "Business Administration, Portland State University (S5)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as Chairman on the official About page, checked 2026-10-12 (S1); signed FY2025 statements (S3).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Gaurav Ganwani",
+      "name_ar": null,
+      "title": "Acting General Manager, Wio Invest (Wio Securities LLC)",
+      "functions": [
+        "Brokerage",
+        "Wealth",
+        "Subsidiary CEO"
+      ],
+      "entity": "Wio Securities LLC (affiliate; owned by ADQ Financial Services LLC)",
+      "business_unit": "Wio Invest",
+      "scope": "Affiliate",
+      "appointed": null,
+      "appointed_note": "Titled Deputy General Manager at Wio Securities LLC on 23 Jul 2025 (S8) and Acting General Manager, Wio Invest in the Jun 2026 iShares release (S15). Date of the acting appointment not found.",
+      "previous_roles": "Deputy General Manager, Wio Securities LLC (2025) (S8).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://ae.linkedin.com/in/gaurav-ganwani",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as Acting General Manager, Wio Invest in the official Jun 2026 release (S15); no later change found. LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B07; no contrary evidence.",
+      "source_ids": [
+        "S8",
+        "S15",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Marwan Rashed BinHashim",
+      "name_ar": null,
+      "title": "General Manager, Wio Securities (as reported Oct 2024 and Jan 2025)",
+      "functions": [
+        "Brokerage",
+        "Subsidiary CEO"
+      ],
+      "entity": "Wio Securities LLC (affiliate)",
+      "business_unit": "Wio Invest",
+      "scope": "Affiliate",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Quoted as GM, Wio Securities in Oct 2024 (S22) and Jan 2025 (S21). By Jun 2026 Gaurav Ganwani is 'Acting General Manager, Wio Invest' (S15), which suggests he no longer holds the role, but no departure notice was found.",
+      "source_ids": [
+        "S21",
+        "S22",
+        "S15"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Prateek Vahie",
+      "name_ar": null,
+      "title": "Chief Commercial Officer",
+      "functions": [
+        "Strategy",
+        "Innovation / partnerships"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Commercial",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": "Senior Vice President – Head of Retail Assets, Emirates NBD; earlier National Bank of Dubai, ICICI Bank and GE Money (S5). Leads commercial vision, business development strategy, growth initiatives and strategic alliances (S5).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://ae.linkedin.com/in/prateek2007",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Requires verification",
+      "role_evidence": "Named in Corporate Governance Report 2025 (as of 31 Dec 2025; document dated Mar 2026) (S5). Wio publishes no management page; 2026 departure/appointment news could not be searched (B07 search budget exhausted). LinkedIn URL carried over from the original workbook (marked verified); not re-opened.",
+      "source_ids": [
+        "S5",
+        "S26"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mona Walid",
+      "name_ar": null,
+      "title": "Chief People Officer and Head of Strategic Partnerships",
+      "functions": [
+        "Innovation / partnerships",
+        "Other"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "People and Strategic Partnerships",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": "Leadership positions at MOHRE, MOFA, Etihad Airways, Emirates Airlines and HSBC Bank (S5).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://ae.linkedin.com/in/mona-walid-31a5907",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Requires verification",
+      "role_evidence": "Named with this exact title in CGR 2025 (as of 31 Dec 2025) (S5). No management page; 2026 news not searchable in B07. LinkedIn URL carried over from the original workbook (marked verified); not re-opened.",
+      "source_ids": [
+        "S5",
+        "S25"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Prakash Sunkara",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Finance",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": "Regional Finance Director for Europe, Elavon (U.S. Bancorp); earlier American Express and HSBC (S5).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Signed the FY2025 audited statements as CFO (S3) and named in CGR 2025 (S5). No 2026 check possible beyond these.",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yannick Janssen",
+      "name_ar": null,
+      "title": "Acting Chief Technology Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Technology",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Acting appointment; date not found.",
+      "previous_roles": "CEO of KeplerWorx; senior technology roles at AXA Gulf Insurance; earlier e&, Accenture, Dell and Air France (S5).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Named as Acting CTO in CGR 2025 (as of 31 Dec 2025) (S5). Whether a permanent CTO has since been named was not found.",
+      "source_ids": [
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Amina Taher",
+      "name_ar": null,
+      "title": "Chief Marketing Officer",
+      "functions": [
+        "Innovation / partnerships",
+        "Other"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Marketing",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": "Senior roles at Etihad Airways and Mubadala Investment Company; leads marketing, communications, brand and partnerships (S5).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named in CGR 2025 (as of 31 Dec 2025) (S5).",
+      "source_ids": [
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faisal Abushaar",
+      "name_ar": null,
+      "title": "Chief Risk Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Risk",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": "Group Chief Risk Officer, Abu Dhabi Islamic Bank; Chief Risk Officer UAE and Middle East, Standard Chartered Bank (S5).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named in CGR 2025 (as of 31 Dec 2025) (S5).",
+      "source_ids": [
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Eng. Hamad Al Ameri",
+      "name_ar": null,
+      "title": "Board member (Managing Director and Group CEO, Alpha Dhabi Holding)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2025-03",
+      "appointed_note": "Member since Mar 2025 per CGR; announced 15 May 2025 (S5, S10).",
+      "previous_roles": "Managing Director and Group CEO of Alpha Dhabi Holding since 2021 (S5).",
+      "education": "MBA, Canadian University in Dubai; BSc Civil Engineering, American University in Dubai (Alpha Dhabi AR 2025, S6)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as board member on the official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S6",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Jaap Kalkman",
+      "name_ar": null,
+      "title": "Board member (Chief Investment Officer, ADQ, per CGR 2025)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2025-03",
+      "appointed_note": "Member since Mar 2025 per CGR; announced 15 May 2025 (S5, S10).",
+      "previous_roles": "Chief Investment Officer of ADQ; board member of Etihad Airways; Chairman of Arcera (CGR 2025, S5).",
+      "education": "PhD in theoretical physics, University of Utrecht (S5)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as board member on the official About page, checked 2026-10-12 (S1). His ADQ title is as of 31 Dec 2025 and was not re-checked after the L'IMAD consolidation.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Samy Ben-Jaafar",
+      "name_ar": null,
+      "title": "Board member (Group Director, Sustainability, DCM and Financial Services Portfolio Management, Alpha Dhabi Holding)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Wio Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": "2025-03",
+      "appointed_note": "Member since Mar 2025 per CGR (S5).",
+      "previous_roles": "Manages Alpha Dhabi's banking platform including the Wio investment (Alpha Dhabi AR 2025, S6); 25+ years in banking, impact investing and renewable infrastructure investing; involved in launching the Green Climate Fund (S5).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as board member on the official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Wio Bank itself is a retail and SME digital bank with no private-banking or affluent tier. Investing is offered inside the Wio Personal app through Wio Invest, run by the sister company Wio Securities LLC (owned by ADQ Financial Services LLC; SCA/CMA broker and portfolio-management licences). Wio Invest offers 2,500+ UAE and US stocks and ETFs from USD 1, recurring orders, cashback AutoInvest, crypto through Fuze (VARA-regulated), and Wio Wealth managed portfolios (goal-based, AI-driven and thematic; launched by Jul 2025). It reported passing USD 1bn AUA and USD 4bn year-to-date order volume in Jul 2025. In Jun 2026 it added iShares UCITS ETFs and, with ADX, a digital Loan Against Investments on ADX-listed shares. Arta Finance announced Wio Invest as the first partner of its wealth-as-a-service offering in Oct 2024; public sources do not say which provider runs Wio Wealth.",
+    "segments": [
+      {
+        "name": "Wio Personal",
+        "tier": "Mass market / retail",
+        "eligibility": "No published balance threshold or wealth tier; about 252K customers end-2025",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "name": "Wio Business",
+        "tier": "SME",
+        "eligibility": "Start-ups, freelancers and SMEs; about 121K customers end-2025",
+        "source_ids": [
+          "S6",
+          "S12"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private-banking, premier or affluent proposition found on wio.io, in the FY2025 Directors' report, CGR 2025 or Alpha Dhabi's description of Wio.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S5",
+        "S6"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No Wio fund manager or own-branded funds found. Portfolio management is done by affiliate Wio Securities LLC under SCA licence 20200000165 (see discretionary).",
+      "source_ids": [
+        "S8",
+        "S13"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Wio Invest, operated by affiliate Wio Securities LLC (SCA licence 20200000072, trading broker in international markets): 2,500+ US (NYSE, NASDAQ) and UAE (ADX, DFM) stocks and ETFs, fractional investing from USD 1, market/limit/stop orders, instant settlement of sells. BHM Capital is the trading member for UAE markets. Fees: US 0.20% per order (min USD 0.50, max USD 4.95); ADX 15 bps; DFM 27.5 bps + AED 10; crypto 0.5% charged by Fuze.",
+      "source_ids": [
+        "S8",
+        "S13",
+        "S14"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Wio Invest is integrated into the Wio Personal app ('Invest' tab); in operation since about 2023 ('under two years of operations' at Jul 2025). Offers stocks and ETFs, recurring orders (weekly to quarterly), cashback AutoInvest, analyst ratings, crypto, Wio Wealth portfolios and, from Jun 2026, iShares UCITS ETFs (min USD 10).",
+      "source_ids": [
+        "S8",
+        "S13",
+        "S15",
+        "S22"
+      ]
+    },
+    "advisory": {
+      "present": "Not found after research",
+      "detail": "No human or personalised advice service found; the app shows third-party analyst ratings only.",
+      "source_ids": [
+        "S13",
+        "S22"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Wio Wealth managed portfolios ('portfolios built by experts', 'no manager needed'), run by Wio Securities LLC under its securities portfolio management licence; launched by Jul 2025 with zero fees until 31 Dec 2025. Manager/provider of the portfolios not named publicly.",
+      "source_ids": [
+        "S8",
+        "S13"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Wio Wealth offers goal-based portfolios for life milestones, AI-driven portfolios that 'adapt in real time' and thematic portfolios, all in the Wio Personal app.",
+      "source_ids": [
+        "S13",
+        "S8"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No mutual-fund shelf found. Fund exposure is through exchange-traded funds: US ETFs, Lunate Chimera ETFs on UAE exchanges (17 ETFs with recurring orders, Jan 2025) and Ireland-domiciled iShares UCITS ETFs (US, Europe, EM equities and bonds) from Jun 2026.",
+      "source_ids": [
+        "S13",
+        "S15",
+        "S21"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured products on wioinvest.io, in the support/pricing page or in 2025–2026 releases.",
+      "source_ids": [
+        "S13",
+        "S14",
+        "S15"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No private-markets product found on Wio pages. Arta's Oct 2024 announcement describes Arta's own suite (private investments, public-market strategies, structured products) but does not say these are offered to Wio clients.",
+      "source_ids": [
+        "S13",
+        "S19"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "Conventional bank; no Shariah-compliant investment products or Islamic portfolios found on wioinvest.io or in releases.",
+      "source_ids": [
+        "S13",
+        "S3"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "US/international equities",
+      "ETFs",
+      "Crypto / digital assets"
+    ],
+    "partners": [
+      {
+        "partner": "Arta Finance",
+        "kind": "Wealth-as-a-service platform",
+        "what": "Arta named Wio Invest as the first partner of its wealth-as-a-service offering, enabling Wio to offer 'advanced wealth management' (announcement only; public sources do not confirm go-live or name Arta as the Wio Wealth provider)",
+        "date": "2024-10-10",
+        "status": "Announced",
+        "source_ids": [
+          "S19",
+          "S20"
+        ]
+      },
+      {
+        "partner": "BlackRock (iShares)",
+        "kind": "Product partner (UCITS ETFs)",
+        "what": "Preferred partner for the launch of Ireland-domiciled UCITS ETFs on Wio Invest ('starting with BlackRock')",
+        "date": "2026-06",
+        "status": "Live",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "partner": "Fuze",
+        "kind": "Crypto execution / virtual-asset provider",
+        "what": "Powers crypto trading in Wio Invest (VARA-regulated); charges the 0.5% crypto fee",
+        "date": "2024-10-09",
+        "status": "Live",
+        "source_ids": [
+          "S13",
+          "S14",
+          "S22"
+        ]
+      },
+      {
+        "partner": "BHM Capital",
+        "kind": "Execution (UAE trading member)",
+        "what": "Trading member partnered with Wio for ADX/DFM market access",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "partner": "Lunate (Chimera ETFs)",
+        "kind": "Product partner (ETFs)",
+        "what": "Recurring AED orders into 17 Lunate Chimera ETFs listed on UAE markets",
+        "date": "2025-01-15",
+        "status": "Live",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "partner": "Abu Dhabi Securities Exchange (ADX)",
+        "kind": "Exchange / product partner",
+        "what": "Digital IPO subscriptions (Jul 2023) and digital Loan Against Investments on ADX-listed shares (Jun 2026)",
+        "date": "2026-06-22",
+        "status": "Live",
+        "source_ids": [
+          "S16",
+          "S7"
+        ]
+      },
+      {
+        "partner": "Mambu",
+        "kind": "Core banking technology",
+        "what": "Release title 'Wio Bank and Mambu bring digital banking services to the UAE' (Nov 2022) on Wio's press page; release not opened",
+        "date": "2022-11",
+        "status": "Unclear",
+        "source_ids": [
+          "S7"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2022-09-13",
+        "what": "Official launch as the region's first 'platform bank' (digital apps, embedded finance, BaaS); Wio Business launched 5 Sep 2022",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "date": "2024-10-09",
+        "what": "Wio Securities expanded Wio Invest to UAE stocks, ETFs, fractional shares, recurring orders, analyst ratings and crypto via Fuze",
+        "source_ids": [
+          "S22"
+        ]
+      },
+      {
+        "date": "2024-10-10",
+        "what": "Arta Finance announced Wio Invest as first partner of its wealth-as-a-service offering",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "date": "2025-01-15",
+        "what": "Recurring orders for Lunate Chimera ETFs ('first UAE broker' to offer this)",
+        "source_ids": [
+          "S21"
+        ]
+      },
+      {
+        "date": "2025-05-15",
+        "what": "H.E. Mansour AlMulla (then ADQ Deputy Group CEO) named Chairman with four new directors",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "date": "2025-07-23",
+        "what": "Wio Invest passed USD 1bn AUA and USD 4bn YTD order volume; Wio Wealth managed portfolios launched as its latest capability",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "what": "Customer deposits passed AED 50bn (AED 52bn Sep 2025); customer base +72% YoY",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2026-01-30",
+        "what": "SCFEA resolution consolidating ADQ's assets and investments, including Wio Bank, under L'IMAD Holding",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "date": "2026-06",
+        "what": "Wio Invest launched iShares UCITS ETFs (min USD 10) with BlackRock as preferred partner, 'starting with BlackRock'",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2026-06-22",
+        "what": "With ADX, launched a fully digital Loan Against Investments against ADX-listed shares in the Wio Personal app",
+        "source_ids": [
+          "S16"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Wio Invest shelf is UAE/US stocks and ETFs, crypto, ETF-based UCITS funds and in-house-branded Wio Wealth portfolios; no structured products, private-markets or Shariah-compliant products found (S13, S14, S15).",
+        "iShares launch was framed as 'starting with BlackRock', signalling more asset-manager partners (S15).",
+        "Wio Wealth managed portfolios (goal-based, AI-driven, thematic) launched by Jul 2025; the provider is not publicly named (S8, S13).",
+        "Large, fast-growing deposit base: AED 57.3bn customer deposits at 31 Dec 2025, about 252K personal customers; Jun 2026 Loan Against Investments shows a push to link banking and investing (S3, S6, S16)."
+      ],
+      "barriers": [
+        "Investing sits in a separate ADQ-owned company (Wio Securities LLC), so contracting and licensing run through that entity, not Wio Bank (S8, S15).",
+        "No affluent or private-banking tier: the bank serves mass retail and SMEs (S1, S6).",
+        "CET1 ratio fell from 27.26% (Dec 2025) to 15.58% (Jun 2026) as risk-weighted assets grew (S4).",
+        "Shareholder structure is changing: ADQ's assets were consolidated under L'IMAD in Jan 2026; two directors listed in the FY2025 report no longer appear on the board page (S1, S5, S18)."
+      ],
+      "incumbent_vendors": [
+        "Fuze — crypto trading in Wio Invest (S13, S14)",
+        "BHM Capital — UAE market trading member (S14)",
+        "BlackRock iShares — UCITS ETFs (S15)",
+        "Lunate — Chimera ETFs (S21)",
+        "Arta Finance — announced wealth-as-a-service partner, Oct 2024 (S19)",
+        "Mambu — 2022 release title on Wio press page (S7)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "About Us (board list, shareholder logos)",
+      "publisher": "Wio Bank",
+      "url": "https://wio.io/about-us",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Investor Relations (document list)",
+      "publisher": "Wio Bank",
+      "url": "https://wio.io/investor-relations",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Wio Bank PJSC Annual Financial Statements for the year ended 31 December 2025 (incl. Directors' report)",
+      "publisher": "Wio Bank",
+      "url": "https://assets.ctfassets.net/l65m9bcr2nac/56LENv4mQI2EurO46WheoZ/7cfaea4b00df18cc3529d8f1fbfe3117/ENFS_Wio_Bank_PJSC__Dec25_.pdf",
+      "doc_type": "Audited financial statements (Deloitte)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Wio Bank Pillar 3 Disclosures for the quarter ending 30 June 2026",
+      "publisher": "Wio Bank",
+      "url": "https://assets.ctfassets.net/l65m9bcr2nac/5dda7ptaGCwHCsIC0hhsJP/0d2f9747d686ee54afa2af804f9e2131/pillar-3-disclosures-Q2-2026.pdf",
+      "doc_type": "Regulatory disclosure (Pillar 3)",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Wio Bank Corporate Governance Report 2025 (as of 31 December 2025)",
+      "publisher": "Wio Bank",
+      "url": "https://assets.ctfassets.net/l65m9bcr2nac/2GuTrwtuegbh75V7vWrn6k/baa7c85e6ba6399a63c20c09a4f61499/Wio_Bank_Corporate_Governance_Report_2025.pdf",
+      "doc_type": "Corporate governance report",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Alpha Dhabi Holding Annual Report 2025 (Wio Bank section pp.116-118; JV note 10 pp.230, 277)",
+      "publisher": "Alpha Dhabi Holding PJSC",
+      "url": "https://alphadhabi.com/wp-content/uploads/2026/06/ADH-ARep-English-14_05_2025_4W.pdf",
+      "doc_type": "Shareholder annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Press (press release list)",
+      "publisher": "Wio Bank",
+      "url": "https://wio.io/press",
+      "doc_type": "Official press page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Wio Invest surpasses USD 1 billion in Assets Under Administration",
+      "publisher": "Wio Bank / Wio Securities LLC",
+      "url": "https://assets.ctfassets.net/l65m9bcr2nac/4agefojV1RzajNT0lFjbWI/92f2235512de06c43a0278f901598230/Wio_Invest_surpasses_USD_1_billion_in_Assets_Under_Administration.pdf",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-07-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Wio Bank surpasses AED 50 billion in deposits as digital banking adoption accelerates",
+      "publisher": "Wio Bank",
+      "url": "https://assets.ctfassets.net/l65m9bcr2nac/61ow0o4kqvtvAaaAfWoC8r/a284bb3df1d480a476a84c2f63906480/Wio_Bank_surpasses_AED_50_billion_in_deposits.pdf",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-10-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Wio Bank PJSC Announces new Chairman and Board Appointments",
+      "publisher": "Wio Bank",
+      "url": "https://assets.ctfassets.net/l65m9bcr2nac/4QseyIvpGbEPSZ08fcnMaM/6f9d7ff484c79b11014554cf4838bf52/15_May_Wio_Bank_PJSC_Announces_Appointments_to_Board_of_Directors_EN.pdf",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-05-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Wio Makes Senior Leadership Appointments Following UAE Central Bank License",
+      "publisher": "Wio Bank",
+      "url": "https://assets.ctfassets.net/l65m9bcr2nac/2oVPMgJ8vJzakOsvOObYCS/01d94d1f435ff16c4df616e53be7f33a/10052022_Wio_PRL_CB_License___Senior_Leadership_Final_EN.pdf",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2022-05-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Region's First Platform Bank Wio Bank PJSC Officially Launches in the UAE",
+      "publisher": "Wio Bank",
+      "url": "https://assets.ctfassets.net/l65m9bcr2nac/1yGDkhouL0aOhhLiL1Amww/6490935616d3ffc4490cc8be62119a71/Wio_Launch_Event_Press_Release_EN.pdf",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2022-09-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Wio | Invest (homepage incl. Wio Wealth, crypto, FAQ and regulatory footer)",
+      "publisher": "Wio Securities LLC",
+      "url": "https://wioinvest.io/",
+      "doc_type": "Official product website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Wio Invest support (markets, order types, pricing)",
+      "publisher": "Wio Securities LLC",
+      "url": "https://wioinvest.io/invest-support",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Wio Invest names iShares by BlackRock as its preferred partner for tax-efficient UCITS ETFs fund launch",
+      "publisher": "Wio (press release distributed via Zawya)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/wio-invest-names-ishares-by-blackrock-as-its-preferred-partner-for-tax-efficient-ucits-etfs-fund-launch-rpw0zr6b",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Wio and ADX launch first digital loan against investments",
+      "publisher": "Entrepreneur Middle East",
+      "url": "https://mena.entrepreneur.com/finance/wio-and-adx-launch-first-digital-loan-against-investments",
+      "doc_type": "News (linked from Wio press page)",
+      "tier": 5,
+      "published": "2026-06-22",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "The Finance Frontier 2026: Jayesh Patel, CEO, Wio Bank",
+      "publisher": "Entrepreneur Middle East",
+      "url": "https://mena.entrepreneur.com/finance/the-finance-frontier-2026-jayesh-patel-ceo-wio-bank",
+      "doc_type": "News / profile",
+      "tier": 5,
+      "published": "2026-07-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Supreme Council for Financial and Economic Affairs Issues Resolution to Consolidate the Assets and Investments of L'IMAD Holding and Abu Dhabi Developmental Holding Group",
+      "publisher": "Abu Dhabi Media Office",
+      "url": "https://www.mediaoffice.abudhabi/en/economy/supreme-council-for-financial-and-economic-affairs-issues-resolution-to-consolidate-the-assets-and-investments-of-limad-holding-and-abu-dhabi-developmental-holding-group/",
+      "doc_type": "Government press release",
+      "tier": 2,
+      "published": "2026-01-30",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Arta's Global Launch: A New Standard in Wealth Management",
+      "publisher": "Arta Finance",
+      "url": "https://artafinance.com/global/insights/artas-global-launch-a-new-standard-in-wealth-management",
+      "doc_type": "Partner press release / blog",
+      "tier": 2,
+      "published": "2024-10-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Arta Finance launches globally in Singapore, signs up Middle East firm",
+      "publisher": "FinanceAsia",
+      "url": "https://financeasia.com/article/arta-finance-launches-globally-in-singapore-signs-up-middle-east-firm/498884",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2024-10-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Wio Invest and Lunate collaborate to offer innovative investment options",
+      "publisher": "GCC Business News",
+      "url": "https://www.gccbusinessnews.com/wio-invest-lunate-offer-investment-options/",
+      "doc_type": "News (republished release)",
+      "tier": 5,
+      "published": "2025-01-15",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "Wio Securities expands investment offerings for its UAE customer base",
+      "publisher": "GCC Business News",
+      "url": "https://www.gccbusinessnews.com/wio-securities-expands-investment-options/",
+      "doc_type": "News (republished release)",
+      "tier": 5,
+      "published": "2024-10-09",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Jayesh Patel (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://ae.linkedin.com/in/jayesh-patel-984b5117",
+      "doc_type": "LinkedIn profile (carried over from original workbook)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Gaurav Ganwani (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://ae.linkedin.com/in/gaurav-ganwani",
+      "doc_type": "LinkedIn profile (carried over from original workbook)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Mona Walid (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://ae.linkedin.com/in/mona-walid-31a5907",
+      "doc_type": "LinkedIn profile (carried over from original workbook)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Prateek Vahie (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://ae.linkedin.com/in/prateek2007",
+      "doc_type": "LinkedIn profile (carried over from original workbook)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Institution type",
+      "original_value": "Licensed digital bank",
+      "finding": "Updated",
+      "new_value": "Digital bank; licensed by CBUAE as a commercial bank (PJSC incorporated 23 Feb 2022)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "field": "Total assets (Assets as of 2026-06-30)",
+      "original_value": "AED 68,816,711 thousand, 30 Jun 2026 (Pillar 3 Q2 2026)",
+      "finding": "Confirmed",
+      "new_value": "AED 68,816,711 thousand at 30 Jun 2026 (LR1 'Total consolidated assets', p.14); added audited 31 Dec 2025 figure AED 61,076,887 thousand",
+      "materiality": "Material",
+      "source_ids": [
+        "S4",
+        "S3"
+      ]
+    },
+    {
+      "field": "Customer deposits (as of 2025-12-31)",
+      "original_value": "AED 57,286,792 thousand, 31 Dec 2025",
+      "finding": "Confirmed",
+      "new_value": "AED 57,286,792 thousand (audited). Still no 30 Jun 2026 deposit figure published (Pillar 3 has no deposit line).",
+      "materiality": "Material",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "field": "Customers",
+      "original_value": "373,000 at 31 Dec 2025 (252k Personal; 121k Business), Alpha Dhabi AR",
+      "finding": "Confirmed",
+      "new_value": "373K (252K Personal, 121K Business), Alpha Dhabi AR 2025 pp.117-118; consistent with Wio Directors' report",
+      "materiality": "Minor",
+      "source_ids": [
+        "S6",
+        "S3"
+      ]
+    },
+    {
+      "field": "Assets under administration (Wio Invest)",
+      "original_value": "USD 1 billion, 23 Jul 2025, Wio Invest / Wio Securities LLC",
+      "finding": "Confirmed",
+      "new_value": "USD 1bn+ AUA (company claim, 23 Jul 2025), recorded with scope 'Affiliate: Wio Securities LLC'; owner confirmed as ADQ Financial Services LLC",
+      "materiality": "Material",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "field": "Arta partnership accounts",
+      "original_value": "43,800 accounts in first 14 months (as of 2026-09-22)",
+      "finding": "Removed",
+      "new_value": "Not recorded. Internal ARTA figure from an internal strategy note, not a Wio disclosure; excluded from metrics.",
+      "materiality": "Material",
+      "source_ids": []
+    },
+    {
+      "field": "Arta partnership AUM",
+      "original_value": "USD 98 million in first 14 months (as of 2026-09-22)",
+      "finding": "Removed",
+      "new_value": "Not recorded. Internal ARTA figure, not a Wio disclosure; excluded from metrics.",
+      "materiality": "Material",
+      "source_ids": []
+    },
+    {
+      "field": "Chief executive",
+      "original_value": "Jayesh Patel",
+      "finding": "Confirmed",
+      "new_value": "Jayesh Patel, CEO (appointment announced 10 May 2022; quoted as CEO Jun and Jul 2026)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S11",
+        "S16",
+        "S17"
+      ]
+    },
+    {
+      "field": "Wealth / investment arm",
+      "original_value": "Wio Wealth / Wio Invest offering. Wio Securities is separate from Wio Bank.",
+      "finding": "Confirmed",
+      "new_value": "Wio Invest is operated by Wio Securities LLC (est. Dec 2022, owned by ADQ Financial Services LLC; SCA licences 20200000072 and 20200000165); Wio Wealth managed portfolios sit under 'Invest' in the Wio Personal app",
+      "materiality": "Minor",
+      "source_ids": [
+        "S8",
+        "S13"
+      ]
+    },
+    {
+      "field": "Business focus",
+      "original_value": "Digital retail and SME banking; embedded finance and banking-as-a-service.",
+      "finding": "Confirmed",
+      "new_value": "Confirmed by launch release and Alpha Dhabi AR 2025",
+      "materiality": "Minor",
+      "source_ids": [
+        "S12",
+        "S6"
+      ]
+    },
+    {
+      "field": "Ownership",
+      "original_value": "At 31 Dec 2025: Alpha Dhabi 33.15%; ADQ/ADDH 31.85%; Etisalat 25%; FAB 10%.",
+      "finding": "Updated",
+      "new_value": "Percentages confirmed at 31 Dec 2025 (CGR 2025). Added: ADQ's assets, incl. Wio Bank, consolidated under L'IMAD Holding by SCFEA resolution of 30 Jan 2026; no Wio disclosure of a change in the registered holder found.",
+      "materiality": "Material",
+      "source_ids": [
+        "S5",
+        "S18"
+      ]
+    },
+    {
+      "field": "Website",
+      "original_value": "https://wio.io/",
+      "finding": "Confirmed",
+      "new_value": "https://wio.io/",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Company LinkedIn",
+      "original_value": "https://www.linkedin.com/company/wiobank/",
+      "finding": "Confirmed",
+      "new_value": "https://www.linkedin.com/company/wiobank/ (linked from the official About page)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Gaps / important distinctions (Gaurav Ganwani LinkedIn claim of USD 2bn+ AUA / 100k+ Invest users)",
+      "original_value": "Excluded from normalized metric; post date not established",
+      "finding": "Could not verify",
+      "new_value": "No official or press source for USD 2bn AUA or 100k users found; latest official AUA remains USD 1bn+ (Jul 2025)",
+      "materiality": "Material",
+      "source_ids": [
+        "S8",
+        "S15"
+      ]
+    },
+    {
+      "field": "Relationship / opportunity; Research coverage; Last prior research; Prior research source",
+      "original_value": "Live since July 2025; structured products expected end-October (Sep22 strategy); internal mailbox link",
+      "finding": "Could not verify",
+      "new_value": "Internal ARTA relationship notes, not public facts; not recorded in this file. Public sources show only the Oct 2024 Arta–Wio Invest announcement and no structured products on Wio Invest.",
+      "materiality": "Minor",
+      "source_ids": [
+        "S19",
+        "S13"
+      ]
+    },
+    {
+      "field": "Person: Gaurav Ganwani",
+      "original_value": "Deputy General Manager, Wio Securities LLC / Wio Invest (evidence 2025-07-23); LinkedIn https://ae.linkedin.com/in/gaurav-ganwani",
+      "finding": "Updated",
+      "new_value": "Acting General Manager, Wio Invest (Jun 2026 release). LinkedIn URL kept (no contrary evidence). Business email from prior work not copied.",
+      "materiality": "Material",
+      "source_ids": [
+        "S15",
+        "S8"
+      ]
+    },
+    {
+      "field": "Person: Jayesh Patel",
+      "original_value": "Chief Executive Officer, Wio Bank; LinkedIn https://ae.linkedin.com/in/jayesh-patel-984b5117",
+      "finding": "Confirmed",
+      "new_value": "CEO, Verified current (Jul 2026). LinkedIn URL kept (no contrary evidence).",
+      "materiality": "Minor",
+      "source_ids": [
+        "S5",
+        "S17"
+      ]
+    },
+    {
+      "field": "Person: Mona Walid",
+      "original_value": "Chief People Officer and Head of Strategic Partnerships (FY2025)",
+      "finding": "Confirmed",
+      "new_value": "Same title in CGR 2025 (as of 31 Dec 2025); 2026 status Requires verification",
+      "materiality": "Minor",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "field": "Person: Prateek Vahie",
+      "original_value": "Chief Commercial Officer (FY2025)",
+      "finding": "Confirmed",
+      "new_value": "Same title in CGR 2025 (as of 31 Dec 2025); 2026 status Requires verification",
+      "materiality": "Minor",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "field": "Person: Yannick Janssen",
+      "original_value": "Acting Chief Technology Officer (FY2025); LinkedIn not verified",
+      "finding": "Confirmed",
+      "new_value": "Acting CTO in CGR 2025; 2026 status Requires verification; LinkedIn not verified",
+      "materiality": "Minor",
+      "source_ids": [
+        "S5"
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "Employees",
+      "detail": "Wio CGR 2025 gives 370 total employees (Dec 2025); Alpha Dhabi AR 2025 gives 407 employees at end-2025.",
+      "resolution": "Recorded Wio's own figure (370) with status 'Conflicting sources'; the gap may reflect contractors or a different cut-off.",
+      "source_ids": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "field": "Board composition",
+      "detail": "FY2025 Directors' report and CGR 2025 list nine directors incl. Fadel Abdulbaqi Al Ali (Vice Chairman) and Masood M. Sharif Mahmood; the About page checked 12 Oct 2026 lists seven, without those two.",
+      "resolution": "Unresolved; no announcement of their departure found. They are not profiled.",
+      "source_ids": [
+        "S3",
+        "S5",
+        "S1"
+      ]
+    },
+    {
+      "field": "Jayesh Patel start date",
+      "detail": "Wio's 10 May 2022 release announces his appointment as CEO; Entrepreneur ME (Jul 2026) says he assumed the role in 2020.",
+      "resolution": "Used 2022-05 (official appointment after licence); 2020 likely refers to the pre-licence project.",
+      "source_ids": [
+        "S11",
+        "S17"
+      ]
+    },
+    {
+      "field": "Revenue definition",
+      "detail": "Alpha Dhabi AR shows WIO Holding 'revenue' AED 3,063,376k and a highlight '3.06 million Revenue in AED' (apparent typo for billion), while its bullet and Wio's statements give revenue/total operating income of about AED 1.25bn.",
+      "resolution": "Used Wio's audited 'Total operating income' AED 1,245,265k. ADH's AED 3.06bn equals gross interest income plus gross fee income.",
+      "source_ids": [
+        "S6",
+        "S3"
+      ]
+    },
+    {
+      "field": "Wio Securities regulator name",
+      "detail": "2025 releases cite the Securities and Commodities Authority (SCA); the Wio Invest site (2026) says 'UAE Capital Market Authority (CMA)'. CGR 2025 notes SCA's new name from 1 Jan 2026.",
+      "resolution": "Treated as the same regulator after renaming.",
+      "source_ids": [
+        "S8",
+        "S13",
+        "S5"
+      ]
+    },
+    {
+      "field": "Lead: L'imad and ADQ's 31.85% stake",
+      "detail": "Internal lead said L'imad 'absorbed ADQ's 31.85% Wio stake' around Jan 2026. The official release says the SCFEA consolidated ADQ's assets and investments under L'IMAD on 30 Jan 2026 and names Wio Bank; it does not describe a transfer of the Wio shareholding, and Wio's latest register (31 Dec 2025) still shows ADQ / ADDH.",
+      "resolution": "Recorded ADQ as holder at 31 Dec 2025 with the L'IMAD consolidation noted; the lead's wording is not supported as stated.",
+      "source_ids": [
+        "S18",
+        "S5"
+      ]
+    }
+  ],
+  "open_items": [
+    "B07 web-search budget was exhausted part-way through the batch, so 2026 departure/appointment news for executives named only in CGR 2025 (CFO, CCO, CPO, Acting CTO, CMO, CRO) was not searched; they are marked 'Requires verification'.",
+    "LinkedIn URLs for Jayesh Patel, Gaurav Ganwani, Mona Walid and Prateek Vahie are carried over from the original workbook (marked verified there) and were not re-opened.",
+    "Lead not confirmed: 'Arta Finance powers part of Wio Invest' — public sources only show Arta's Oct 2024 announcement of Wio Invest as its first wealth-as-a-service partner; no public source names the provider of Wio Wealth portfolios or confirms go-live.",
+    "Lead not confirmed: Gaurav Ganwani LinkedIn claim of USD 2bn+ AUA / 100k+ Invest users — not found in any official or press source; no Wio Invest user count is published.",
+    "Lead corrected: L'imad did not simply 'absorb ADQ's 31.85% stake'; ADQ's assets were consolidated under L'IMAD on 30 Jan 2026 (see discrepancies). Check Wio's 2026 AGM / CGR 2026 for the registered holder, and whether Wio Securities' owner ADQ Financial Services LLC moved too.",
+    "Deposits and profit at 30 Jun 2026 are not published (no interim statements; Pillar 3 has no deposit line). Q3 2026 Pillar 3 not yet on the IR page (checked 12 Oct 2026).",
+    "Confirm whether Fadel Abdulbaqi Al Ali and Masood M. Sharif Mahmood left the board in 2026 and whether a permanent CTO was appointed.",
+    "Marwan Rashed BinHashim (GM, Wio Securities in 2024–Jan 2025): current role unknown.",
+    "The Wio Bank–Mambu (Nov 2022) and Paymentology (Mar 2023) releases were seen only as titles on the press page; not opened."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B07",
+  "checked": "2026-10-12"
+}

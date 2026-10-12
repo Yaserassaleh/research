@@ -1,0 +1,872 @@
+{
+  "id": "ae-almasraf",
+  "name": "Al Masraf (Arab Bank for Investment and Foreign Trade)",
+  "short_name": "Al Masraf",
+  "legal_name": "Arab Bank for Investment and Foreign Trade PJSC",
+  "name_ar": null,
+  "country": "AE",
+  "hq_city": "Abu Dhabi",
+  "website": "https://www.almasraf.ae",
+  "linkedin_company": "https://www.linkedin.com/company/al-masraf/",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1976 (Union Decree No. 50 of 1976; joint venture of the UAE, Libya and Algeria)",
+  "regulators": [
+    "CBUAE"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Unlisted PJSC with three shareholders. The Emirates Investment Authority (EIA), the UAE federal government's sovereign wealth fund, holds 60.00%, Libyan Foreign Bank 29.30% and Banque Extérieure d'Algérie 10.70% (30 Jun 2026). EIA became majority owner on 6 Nov 2025 by buying 12.98% from Libyan Foreign Bank and 4.74% from Banque Extérieure d'Algérie (CBUAE-approved). Before that the split was 42.28% / 42.28% / 15.44% (31 Dec 2024).",
+  "shareholders": [
+    {
+      "holder": "Emirates Investment Authority (UAE federal sovereign wealth fund)",
+      "pct": 60.0,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "holder": "Libyan Foreign Bank",
+      "pct": 29.3,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "holder": "Banque Extérieure d'Algérie",
+      "pct": 10.7,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "government_link": "Yes: majority-owned (60%) by the Emirates Investment Authority, the only sovereign wealth fund of the UAE Federal Government (since 6 Nov 2025). The other 40% is held by Libyan and Algerian state banks. The bank calls itself 'the UAE's Federal Commercial Bank' (S4, S1, S9).",
+  "group_structure": "Single bank, no subsidiaries reported. Islamic banking runs through a window launched in 2015 under a CBUAE licence for Shari'ah-compliant activities (S1, S3). Five UAE branches and two representative offices.",
+  "subsidiaries": [],
+  "footprint": "UAE: 5 branches and 2 representative offices (30 Jun 2026), 50+ ATMs. Trade links with Libya and Algeria. Gross loans are 70% UAE, 16% GCC and 14% other (Jun 2026) (S1, S2, S3).",
+  "customer_segments": "Corporate and institutional (about 90% focus; trade finance, government-linked entities), SME/business banking, retail (salaried and self-employed), and an affluent 'Elite Banking' tier.",
+  "business_lines": "Corporate/wholesale banking and trade finance (AED 23bn of export LCs processed in 2025); Treasury & Investments (FX, rate hedging, bonds/sukuk trading and fixed-income custody); Retail & Business Banking (accounts, fixed deposits, personal, auto and home loans, cards, salary transfer); Elite Banking; Islamic window. Consumer gross loans were only AED 558m of AED 18.99bn at 30 Jun 2026 (S1). Consumer deposits exceeded AED 2bn and business banking deposits AED 1.4bn in 2025 (S3).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 27754602,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Total assets, condensed interim statement of financial position (reviewed by PwC)",
+      "status": "Verified",
+      "locator": "p.3 (PDF p.5, scanned page)",
+      "note": "31 Dec 2025: AED 26,664,816 thousand.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 17777060,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Customers' deposits; excludes due to banks (AED 2,563,053 thousand) and medium-term borrowings",
+      "status": "Verified",
+      "locator": "p.3 (PDF p.5)",
+      "note": "CASA 39% / time 61% (investor pack, S2).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 17819982,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Loans and advances, net of ECL; includes Islamic financing",
+      "status": "Verified",
+      "locator": "p.3 (PDF p.5); note 7 (PDF p.14)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 18992492,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Gross loans and advances and Islamic financing (Islamic financing AED 2,820,644 thousand; consumer segment AED 558,193 thousand)",
+      "status": "Verified",
+      "locator": "note 7 (PDF pp.14-15)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 4633072,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Total equity",
+      "status": "Verified",
+      "locator": "p.3 (PDF p.5)",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 903363,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Operating income (net interest and Islamic income, net fees, FX and other income), audited statement of profit or loss",
+      "status": "Verified",
+      "locator": "PDF p.11",
+      "note": "FY2024: AED 971,986 thousand. H1 2026: AED 446,279 thousand (S1).",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 301921,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Net profit for the year after tax",
+      "status": "Verified",
+      "locator": "PDF p.11",
+      "note": "FY2024: AED 234,349 thousand.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 205199,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Bank",
+      "definition": "Net profit for the period after taxation",
+      "status": "Verified",
+      "locator": "p.4 (PDF p.6)",
+      "note": "H1 2025: AED 102,602 thousand.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 5,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "UAE",
+      "definition": "Branches (plus two representative offices)",
+      "status": "Verified",
+      "locator": "Note 1",
+      "note": "",
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 audited statements (S4), annual report 2025 (S3), H1 2026 statements (S1) and investor pack (S2). The statements say fiduciary/custody assets are off balance sheet but give no amount in the sections read."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Elite Banking page (S6), annual report 2025 (S3)."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Annual report 2025 (S3), investor packs (S2)."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "Annual report 2025 (S3) text search; no total headcount found."
+    }
+  ],
+  "people": [
+    {
+      "name": "H.E. Mohamed Saif Al Suwaidi",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2026",
+      "appointed_note": "Vice Chairman in annual report 2025; Chairman on the website and signatory of the H1 2026 statements (24 Jul 2026).",
+      "previous_roles": "Director General, Abu Dhabi Fund for Development since 2008; board member of First Abu Dhabi Bank, Agthia Group and others (official bio).",
+      "education": "BSc Business Administration, California Baptist University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website board list checked 2026-10-12 (S5); signed H1 2026 statements as Chairman (S1).",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "H.E. Farhat Omar Ben Gadara",
+      "name_ar": null,
+      "title": "Vice Chairman (Chairman until 2026)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Website lists him as 'H.E. Farhat Omar Hamad, Vice Chairman'.",
+      "previous_roles": "Former Governor of the Central Bank of Libya; Chairman of Libya's National Oil Corporation; Chairman of Arab Banking Corporation International Bank (London); Vice Chairman of UniCredit (official bio).",
+      "education": "Master's in Money, Banking and Finance, Sheffield University; BA Economics, Benghazi University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website board list (S5); annual report 2025 (S3).",
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "H.E. Raja Mohammed Al Mazrouei",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board",
+        "Digital"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2019",
+      "appointed_note": "",
+      "previous_roles": "Managing Director, Etihad Credit Insurance; board member of Zand; former EVP, DIFC FinTech Hive (official bio).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website board list (S5); annual report 2025 (S3).",
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalaf Sultan Al Dhaheri",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Former Group COO, National Bank of Abu Dhabi, and GM & CRO, First Abu Dhabi Bank; Chairman, Abu Dhabi National Islamic Finance (official bio).",
+      "education": "Bachelor's in Accounting, UAE University; MBA, Zayed University",
+      "qualifications": "CPA (California)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website board list (S5); annual report 2025 (S3).",
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "H.E. Fahad Abdul Qader Al Qassim",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2026",
+      "appointed_note": "Not on the annual report 2025 board; listed on the website (checked 2026-10-12). Probably joined after the Nov 2025 ownership change.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website board list (S5).",
+      "source_ids": [
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Suhail Hilal Almansoori",
+      "name_ar": null,
+      "title": "Board member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2026",
+      "appointed_note": "Not on the annual report 2025 board; listed on the website (checked 2026-10-12).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website board list (S5).",
+      "source_ids": [
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fuad Mohamed",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date and biography not published in the documents opened.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website management list (S5); signed H1 2026 statements on 24 Jul 2026 (S1); CEO message in annual report 2025 (S3). News check not possible (search budget exhausted).",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmad Yousuf",
+      "name_ar": null,
+      "title": "Chief Retail Banking Officer",
+      "functions": [
+        "Retail",
+        "Affluent"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Retail Banking",
+      "scope": "Group",
+      "appointed": "2026",
+      "appointed_note": "Listed as Head of Treasury & Investments in the annual report 2025; Chief Retail Banking Officer on the website (checked 2026-10-12).",
+      "previous_roles": "Head of Treasury & Investments, Al Masraf (annual report 2025).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website management list (S5); earlier title in annual report 2025 (S3).",
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Moataz Khalil",
+      "name_ar": null,
+      "title": "Chief Wholesale Banking Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Wholesale Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website management list (S5); annual report 2025 (S3).",
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hitesh Thakkar",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website management list (S5); annual report 2025 (S3).",
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Rohit Kumar",
+      "name_ar": null,
+      "title": "Chief Risk Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Risk",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website management list (S5); annual report 2025 (S3).",
+      "source_ids": [
+        "S5",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Muna Harib Al Muhairi",
+      "name_ar": null,
+      "title": "Head of Marketing & Customer Experience",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Arab Bank for Investment and Foreign Trade PJSC",
+      "business_unit": "Marketing",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Not in the annual report 2025 executive list.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Website management list (S5).",
+      "source_ids": [
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Al Masraf is a corporate and trade-finance bank (about 90% corporate focus; consumer loans 3% of gross loans) that became majority-owned by the UAE federal sovereign wealth fund EIA in Nov 2025. Its affluent tier, Elite Banking, needs AED 1m in combined deposits and investments (self-employed) or AED 80,000 monthly salary. It offers a dedicated RM and a 'diverse investment product suite' and 'wealth management services', but no specific products are named. Treasury & Investments offers bonds and sukuk, secondary trading, fixed-income custody and FX; FX spot is open to all segments, forwards and swaps are not for individuals. No funds platform, brokerage, digital investing or discretionary service was found. The 2025 report mentions a 'multi-product investment platform' only as a treasury execution tool.",
+    "segments": [
+      {
+        "name": "Elite Banking",
+        "tier": "Affluent",
+        "eligibility": "Self-employed: combined deposits and investments of 1 million or more (currency not stated); salaried: monthly salary of at least AED 80,000",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "name": "Personal Banking",
+        "tier": "Mass market",
+        "eligibility": "Salary-transfer and self-employed customers (accounts, loans, cards)",
+        "source_ids": [
+          "S8"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private banking unit; Elite Banking is the top tier.",
+      "source_ids": [
+        "S6",
+        "S3"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset management entity or own funds. 'Funds management' in the treasury segment refers to managing the bank's own portfolio.",
+      "source_ids": [
+        "S4",
+        "S3"
+      ]
+    },
+    "brokerage": {
+      "present": "Unclear",
+      "detail": "Treasury makes markets in regional bonds and sukuk, executes secondary trades and offers fixed-income custody; no equity brokerage found. Target client segments for fixed income are not stated.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "Mobile/online banking supports accounts, payments, cards and digital account opening; no investing features found. Enhanced mobile banking is a 2026 programme.",
+      "source_ids": [
+        "S6",
+        "S3"
+      ]
+    },
+    "advisory": {
+      "present": "Unclear",
+      "detail": "Elite page promises 'Wealth Management Services' and an investment product suite through a dedicated RM, with no detail; the 2025 report mentions training to build 'frontline advisory capabilities'.",
+      "source_ids": [
+        "S6",
+        "S3"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S6",
+        "S7"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S6",
+        "S8"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No third-party fund shelf shown.",
+      "source_ids": [
+        "S6",
+        "S7"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "Only FX and interest-rate hedging (forwards and swaps not for individuals).",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "None found. A Mastercard x Stake card offer (credit toward a first real-estate investment on Stake) is a card promotion, not a bank product.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Unclear",
+      "detail": "Islamic window since 2015 with personal accounts, cards and finance; sukuk are offered by Treasury, but no Islamic wealth product for individuals was found.",
+      "source_ids": [
+        "S3",
+        "S7",
+        "S8"
+      ]
+    },
+    "asset_classes": [
+      "Bonds",
+      "Sukuk"
+    ],
+    "partners": [
+      {
+        "partner": "Finneva Information Technologies",
+        "kind": "Fintech (supply chain finance platform)",
+        "what": "Supply chain financing platform for corporate clients, signed at GTR MENA 2025",
+        "date": "2025",
+        "status": "Announced",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Lexzur (App4Legal)",
+        "kind": "Technology (AI legal automation)",
+        "what": "AI-driven legal automation",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Digideed",
+        "kind": "Technology (lead generation)",
+        "what": "Supports lead generation initiatives",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-11-06",
+        "what": "Emirates Investment Authority raised its stake to 60% (buying 12.98% from Libyan Foreign Bank and 4.74% from Banque Extérieure d'Algérie), CBUAE-approved",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Delivered UAE PASS authentication, AANI payments, digitised AML risk scoring; launched a 'Future Makers' digital programme; Treasury roadmap includes a modern treasury management system and a multi-product investment platform",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Programmes running into 2026: enhanced mobile banking, digital trade journeys, open finance, core banking modernisation and end-to-end corporate lending transformation; strategy statement: 'UAE's Federal Commercial Bank', corporate-led, backed by retail and SME growth plans",
+        "source_ids": [
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Board and management reshuffle after the ownership change: Mohamed Saif Al Suwaidi became Chairman; two new directors; Ahmad Yousuf moved to Chief Retail Banking Officer",
+        "source_ids": [
+          "S5",
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Elite Banking (AED 1m balances or AED 80k monthly salary) advertises a 'diverse investment product suite' and wealth services but names no products, platform or partners (S6).",
+        "New federal majority owner (EIA, Nov 2025) and a reshuffled board and management, with a new Chief Retail Banking Officer, point to a strategy reset where retail and SME growth plans 'back' the corporate agenda (S4, S5).",
+        "Open finance, enhanced mobile banking and core banking modernisation are 2026 programmes, so new integrations are being planned (S3)."
+      ],
+      "barriers": [
+        "Retail is tiny: consumer gross loans AED 558m of AED 19bn (Jun 2026); consumer deposits about AED 2bn (2025) (S1, S3).",
+        "Strategy is explicitly corporate and trade-finance led (S3, S4).",
+        "Only five branches; no digital investing features in the app (S1, S8)."
+      ],
+      "incumbent_vendors": [
+        "Finneva: supply chain finance platform (S3)",
+        "Lexzur/App4Legal: AI legal automation (S3)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Condensed interim financial information for the six-month period ended 30 June 2026",
+      "publisher": "Arab Bank for Investment and Foreign Trade PJSC",
+      "url": "https://www.almasraf.ae/pdf/Al%20Masraf%20FS-Q2%202026%20-signed.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-24",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "H1 2026 Investor Pack",
+      "publisher": "Al Masraf",
+      "url": "https://www.almasraf.ae/pdf/H1%202026%20Investor%20Pack.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Al Masraf Annual Report 2025",
+      "publisher": "Al Masraf",
+      "url": "https://www.almasraf.ae/pdf/Al%20Masraf%20Annual%20Report%202025%20En.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Annual financial statements for the year ended 31 December 2025 (incl. Directors' report)",
+      "publisher": "Arab Bank for Investment and Foreign Trade PJSC",
+      "url": "https://www.almasraf.ae/pdf/Al%20Masraf%20Annual%20FS-%2031.12.2025%20-%20signed.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "About Us: Board of Directors and Management Team",
+      "publisher": "Al Masraf",
+      "url": "https://www.almasraf.ae/about-us",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Elite Banking: Eligibility and Benefits",
+      "publisher": "Al Masraf",
+      "url": "https://www.almasraf.ae/elite-banking/eligibility-and-benefits",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Treasury & Investments",
+      "publisher": "Al Masraf",
+      "url": "https://www.almasraf.ae/corporate-banking/treasury-investments",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Al Masraf homepage (personal products, offers, menus and official social links)",
+      "publisher": "Al Masraf",
+      "url": "https://www.almasraf.ae/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Emirates Investment Authority homepage",
+      "publisher": "Emirates Investment Authority",
+      "url": "https://www.eia.gov.ae/",
+      "doc_type": "Official website (shareholder)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Investor Relations (document list)",
+      "publisher": "Al Masraf",
+      "url": "https://www.almasraf.ae/investor-relations",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Chairman / Vice Chairman",
+      "detail": "Annual report 2025 names Farhat Omar Ben Gadara as Chairman and Mohamed Saif Al Suwaidi as Vice Chairman (S3); the website and the H1 2026 statements show Al Suwaidi as Chairman and Farhat Omar (Hamad) as Vice Chairman (S5, S1).",
+      "resolution": "Used the 2026 sources; the change follows EIA taking 60% in Nov 2025.",
+      "source_ids": [
+        "S3",
+        "S5",
+        "S1"
+      ]
+    },
+    {
+      "field": "Ahmad Yousuf title",
+      "detail": "Head of Treasury & Investments in annual report 2025 (S3); Chief Retail Banking Officer on the website (S5).",
+      "resolution": "Used the website title as current.",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    }
+  ],
+  "open_items": [
+    "Lead corrected: the controlling shareholder is the Emirates Investment Authority, the UAE federal sovereign wealth fund (60% since 6 Nov 2025), not an Abu Dhabi government entity. The rest is held by Libyan Foreign Bank (29.3%) and Banque Extérieure d'Algérie (10.7%).",
+    "Web search budget ran out before this institution, so no news check was possible for leadership changes, the CEO's appointment date or biography, the new directors' backgrounds, or LinkedIn profiles.",
+    "Elite Banking investment products, and the provider behind them, are not named on the website. The 1 million threshold has no currency stated.",
+    "Fiduciary/custody assets amount and staff headcount not located in the sections read of the FY2025 statements and annual report.",
+    "Arabic legal name not captured from an opened source."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B06",
+  "checked": "2026-10-12"
+}

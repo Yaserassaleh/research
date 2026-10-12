@@ -1,0 +1,1522 @@
+{
+  "id": "sa-snb",
+  "name": "Saudi National Bank",
+  "short_name": "SNB",
+  "legal_name": "The Saudi National Bank (a Saudi Joint Stock Company)",
+  "name_ar": "البنك الأهلي السعودي",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://www.alahli.com",
+  "linkedin_company": "https://www.linkedin.com/company/snbalahli",
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1953 as National Commercial Bank (NCB) by Royal Decree (website; the FS cite a registration certificate authenticated by Royal Decree dated 15 May 1950); SNB formed 1 April 2021 by the merger of NCB and Samba Financial Group",
+  "regulators": [
+    "SAMA",
+    "CMA"
+  ],
+  "listed": true,
+  "exchange": "Tadawul",
+  "ticker": "1180",
+  "parent_id": null,
+  "ownership_summary": "Listed on the Saudi Exchange (ticker 1180). The Public Investment Fund held 2,234,257,917 shares (37.2%) at 1 Jan and 31 Dec 2025; no other 5%+ holder is listed in AR 2025. Share capital SAR 60bn.",
+  "shareholders": [
+    {
+      "holder": "Public Investment Fund (PIF)",
+      "pct": 37.2,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "government_link": "Yes - the Public Investment Fund holds 37.2% (31 Dec 2025); the Vice-Chairman is a PIF Deputy Governor (AR 2025).",
+  "group_structure": "Parent bank with significant subsidiaries (30 Jun 2026): SNB Capital Company (100%; CMA-licensed wealth, asset management, investment banking and brokerage; profiled separately as sa-snb-capital), SNB Capital Dubai Inc. (100%, Cayman; PE and real estate), SNB Capital Real Estate Investment Company (100%), Eastgate MENA Direct Equity L.P. (100%, Cayman PE fund), Türkiye Finans Katılım Bankası (67.03%, Turkish participation bank), Samba Bank Limited (84.51%, Pakistan, listed on PSX), NEO Company (100%, consumer microfinance; NEO lifestyle digital bank launched 2024), Al-Ghad Financial Company 'Digital Ventures' (100%, POS), Itqan (100%, recruitment), REDCO (100%), SNB Market(s), SNB Global and SNB Funding (Cayman). Double counting: SNB Capital is fully consolidated and forms the 'Capital Market' segment; do not add sa-snb-capital metrics to this record.",
+  "subsidiaries": [
+    {
+      "name": "SNB Capital Company (SNBC)",
+      "pct": 100.0,
+      "activity": "Wealth management, asset management, investment banking and brokerage (CMA licence 37-06046)",
+      "linked_id": "sa-snb-capital",
+      "source_ids": [
+        "S2",
+        "S18"
+      ]
+    },
+    {
+      "name": "Türkiye Finans Katılım Bankası A.Ş. (TFKB)",
+      "pct": 67.03,
+      "activity": "Participation (Islamic) bank, Turkey",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "Samba Bank Limited (SBL)",
+      "pct": 84.51,
+      "activity": "Commercial bank, Pakistan (listed on PSX)",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "NEO Company",
+      "pct": 100.0,
+      "activity": "Consumer microfinancing; NEO lifestyle digital banking app (launched 2024)",
+      "linked_id": null,
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "name": "Al-Ghad Financial Company (Digital Ventures)",
+      "pct": 100.0,
+      "activity": "Sale of POS equipment and devices",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "SNB Capital Dubai Inc.",
+      "pct": 100.0,
+      "activity": "Cayman exempt company sourcing PE and real-estate opportunities across emerging markets",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "Eastgate MENA Direct Equity L.P.",
+      "pct": 100.0,
+      "activity": "Cayman private equity fund (MENA direct equity), managed by SNB Capital Dubai Inc.",
+      "linked_id": null,
+      "source_ids": [
+        "S2",
+        "S18"
+      ]
+    },
+    {
+      "name": "Itqan Quality for Business Solutions Company",
+      "pct": 100.0,
+      "activity": "Recruitment services (formerly AlAhli Esnad)",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "footprint": "KSA: 489 branches, 22 retail service centres and 91 QuickPay remittance centres (30 Jun 2026); 3,771 ATMs. Overseas wholesale branches in Bahrain, UAE (Downtown Dubai), Qatar and Singapore; subsidiaries in Turkey (TFKB, 224 branches) and Pakistan (SBL, 77 branches); offices in Shanghai and Seoul; 'presence in 9 countries' (2Q26 presentation). Beirut branch closure in progress.",
+  "customer_segments": "Retail: mass, affluent (Wessam Gold, Wessam Platinum), Elite and Private Banking clients, plus micro-businesses; NEO digital bank customers. Wholesale: MSMEs, large corporates, government and financial institutions. Capital-markets clients via SNB Capital. International via TFKB and SBL.",
+  "business_lines": "Four segments: Retail (lending, deposits, cards, private banking; Shariah-compliant), Wholesale (corporate, MSME, treasury, investments), Capital Market (SNB Capital: wealth management, asset management, investment banking, local and international brokerage) and International (TFKB, SBL). Digital ventures: NEO lifestyle digital bank and POS business.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 1244688218,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed interim consolidated statement of financial position (reviewed)",
+      "status": "Verified",
+      "locator": "S2 PDF p.4",
+      "note": "Matches the original workbook (SAR 1,244.688bn).",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "total_assets",
+      "value": 1210031553,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, audited consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "S3 PDF p.9",
+      "note": "Extra record (FY2025 year-end).",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 698169934,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits: current and call 470,241,744; time 201,629,826; others (mainly margins) 26,298,364 (SAR '000). Excludes due to banks, central banks and other financial institutions (146,639,934) and debt securities/term loans. Shariah-compliant deposits SAR 537,076m.",
+      "status": "Verified",
+      "locator": "S2 PDF p.4 and note 9 (PDF p.34)",
+      "note": "Matches the original workbook (SAR 698.17bn). S5 slide 4 prints 689bn, slide 15 prints 698bn (see discrepancies).",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 636094377,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits, audited consolidated statement of financial position",
+      "status": "Verified",
+      "locator": "S3 PDF p.9",
+      "note": "Extra record.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 739562568,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Financing and advances, net': net of ECL allowance (7,521,621), including purchased or originated credit-impaired (898,029). Includes Shariah-compliant financing (mainly Murabaha, Tawarruq, Ijara) of SAR 613,919m.",
+      "status": "Verified",
+      "locator": "S2 PDF p.4; note 6.1 (PDF p.21)",
+      "note": "",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "net_loans",
+      "value": 729310906,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Financing and advances, net', audited statement of financial position",
+      "status": "Verified",
+      "locator": "S3 PDF p.9",
+      "note": "Extra record.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "metric": "gross_loans",
+      "value": 746186160,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total financing and advances before ECL allowance and POCI adjustment (performing 741,172,288 + non-performing 5,013,872)",
+      "status": "Verified",
+      "locator": "S2 note 6.1 (PDF p.21)",
+      "note": "",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "total_equity",
+      "value": 214860351,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity incl. Additional Tier 1 capital (23,152,684) and non-controlling interests (525,620); equity attributable to shareholders of the Bank 191,182,047",
+      "status": "Verified",
+      "locator": "S2 PDF p.4",
+      "note": "31 Dec 2025: 203,827,248 (S3).",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 39194570,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', consolidated statement of income",
+      "status": "Verified",
+      "locator": "S3 PDF p.10",
+      "note": "FY2024: 36,033,109.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 25013279,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net income for the year attributable to equity holders of the Bank (total net income 24,991,561)",
+      "status": "Verified",
+      "locator": "S3 PDF p.10",
+      "note": "FY2024: 21,192,995 (+18%).",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "value": 20233004,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', condensed interim consolidated statement of income",
+      "status": "Verified",
+      "locator": "S2 PDF p.5",
+      "note": "H1 2025: 19,121,905. Extra record.",
+      "source_ids": [
+        "S2",
+        "S7"
+      ]
+    },
+    {
+      "metric": "net_profit",
+      "value": 13028814,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net income for the period attributable to equity holders of the Bank (total net income 13,042,232)",
+      "status": "Verified",
+      "locator": "S2 PDF p.5",
+      "note": "H1 2025: 12,159,147 (+7%).",
+      "source_ids": [
+        "S2",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 262976815,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Subsidiary: SNB Capital (asset management division); also recorded in sa-snb-capital",
+      "definition": "Assets under management of the asset management division, SNB Capital consolidated financial statements note 29 (fiduciary assets)",
+      "status": "Verified",
+      "locator": "S25 note 29 (PDF p.42)",
+      "note": "The bank's FY2025 FS note 40 labels SAR 294,272m as 'assets under management', but SNB Capital's note 29 shows that total is all fiduciary assets: AM-division AUM 262,977m + securities-division AUM 2,012m + brokerage cash 29,283m. 2024 AM-division AUM: 238,574m.",
+      "source_ids": [
+        "S25",
+        "S3"
+      ]
+    },
+    {
+      "metric": "aum",
+      "value": 279,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-03-31",
+      "period_label": "1Q 2026",
+      "period_type": "point_in_time",
+      "scope": "Subsidiary: SNB Capital",
+      "definition": "'Asset Management (AUMs)' on the market-position slide: SNB SAR 279bn of a KSA total of SAR 1,286bn (22%, rank #1)",
+      "status": "Verified",
+      "locator": "S5 slide 6",
+      "note": "Rounded. The slide footnote dates AUM to 1Q 2026.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "customers",
+      "value": 15.0,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "'Customers' (investor presentation); not stated whether active or total, or retail only",
+      "status": "Verified",
+      "locator": "S5 slide 4 (footnote 5: as of 31/12/2025)",
+      "note": "NEO digital bank customers reported separately (see neo_customers).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "neo_customers",
+      "value": 1.9,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "1H 2026 (approx.)",
+      "period_type": "point_in_time",
+      "scope": "NEO (SNB lifestyle digital bank)",
+      "definition": "'SNB NEO customers' (~1.9mn), strategy KPI; 2027 target shown as '<5 mn', 2024 baseline 1mn",
+      "status": "Verified",
+      "locator": "S5 slide 13",
+      "note": "AR 2025: more than 1.5 million onboarded customers in 2025.",
+      "source_ids": [
+        "S5",
+        "S4"
+      ]
+    },
+    {
+      "metric": "employees",
+      "value": 15130,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "2Q 2026",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Group employees incl. Itqan (2,904, recruitment subsidiary). Components shown: SNB 7,524; TFKB 3,106; Samba Bank 1,152; SNB Capital 444",
+      "status": "Verified",
+      "locator": "S5 slide 4",
+      "note": "Exact date not printed; slide is in the 2Q 2026 presentation.",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "metric": "branches",
+      "value": 489,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank, KSA",
+      "definition": "Branches in KSA (plus 22 retail service centres and 91 QuickPay remittance centres) and four overseas branches (Bahrain, UAE, Qatar, Singapore)",
+      "status": "Verified",
+      "locator": "S2 note 1.1 (PDF p.9)",
+      "note": "31 Dec 2025: 481 branches.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "private_banking_financing_gross",
+      "value": 37724513,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Retail segment: Private banking",
+      "definition": "Gross 'Private banking' financing and advances (performing 37,349,359 + non-performing 375,154)",
+      "status": "Verified",
+      "locator": "S2 note 6.1 (PDF p.21)",
+      "note": "31 Dec 2025: 31,923,703 (+18% YTD). Loans only; private-banking client assets are not disclosed.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "metric": "capital_markets_segment_operating_income",
+      "value": 997011,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Capital Market segment (SNB Capital)",
+      "definition": "Total operating income of the 'Capital Market' segment (wealth management, asset management, investment banking, brokerage); income before zakat 656,061",
+      "status": "Verified",
+      "locator": "S2 note 18 (PDF p.39); S5 slide 45",
+      "note": "H1 2025: 1,171,452 (-15%).",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "metric": "capital_markets_segment_operating_income",
+      "value": 2422,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Capital Market segment (SNB Capital)",
+      "definition": "Total operating income of the Capital Markets segment; net income before zakat 1,731m",
+      "status": "Verified",
+      "locator": "S4 PDF p.21 (Capital Markets table)",
+      "note": "FY2024: 2,282m.",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Private-banking/affluent client assets not given in AR 2025 Retail review (S4 PDF pp.18-19), H1 2026 FS (S2) or 2Q26 investor presentation (S5). Only SNB Capital fiduciary assets are disclosed (see sa-snb-capital)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "No count of bank customers with investment/brokerage accounts in S2, S4, S5, S6. SNB Capital claims 'more than 2.3 million clients' (see sa-snb-capital)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Saeed Mohammed AlGhamdi",
+      "name_ar": "سعيد بن محمد الغامدي",
+      "title": "Chairman of the Board (non-executive); Chairman of the Executive Committee",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "The Saudi National Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2023-03",
+      "appointed_note": "Chairman since March 2023 (official bio). Previously SNB MD and Group CEO Apr 2021-Mar 2023.",
+      "previous_roles": "2023- Chairman SNB; 2021-2023 MD & Group CEO SNB; 2018-2021 Chairman NCB; 2013-2018 CEO and board member NCB; earlier senior roles at Al Rajhi Bank (from 1991); career began 1987 at the Ministry of Defense and Aviation. Past chair of NCB Capital, TFKB and SIMAH. Current: Chairman Jabal Omar and Manga Productions.",
+      "education": "BSc Computer Science and Engineering, King Fahd University of Petroleum and Minerals (1987)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page checked 2026-10-12 (S1); signed H1 2026 FS as Chairman (S2); AR 2025 (S4).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yazeed Abdulrahman AlHumied",
+      "name_ar": "يزيد بن عبدالرحمن الحميّد",
+      "title": "Vice-Chairman of the Board (non-executive); Nomination & Remuneration Committee member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "The Saudi National Bank",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Spelled 'Yazed' on the official leadership page.",
+      "previous_roles": "Current: Deputy Governor and Head of MENA Investments, Public Investment Fund (PIF); Vice-Chairman STC and Saudi Tadawul Group Holding; Chairman SAFE; other boards per AR 2025.",
+      "education": "Bachelor's in Business Administration (Accounting), King Saud University (2004)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page checked 2026-10-12 (S1); AR 2025 board list (S4).",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tareq Abdulrahman Alsadhan",
+      "name_ar": null,
+      "title": "Group Chief Executive Officer; Board member (executive)",
+      "functions": [
+        "Group CEO"
+      ],
+      "entity": "The Saudi National Bank",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2024-05",
+      "appointed_note": "Term started 1 May 2024, replacing acting CEO Talal Al Khereiji (S22).",
+      "previous_roles": "2024- Group CEO SNB; previously CEO Riyad Bank; Acting Director General, Zakat, Tax and Customs Authority; Deputy Governor for Supervision, SAMA; CEO, KPMG Saudi Arabia. Board/committee roles incl. PIF Audit and Compliance Committee (AR 2025).",
+      "education": "Bachelor's in Administrative Sciences (Accounting), King Saud University (1997); Postgraduate Diploma in International Trade, University of Edinburgh (2006); Master's in Executive Business Administration ('National DuPont University, France' as printed, 2007)",
+      "qualifications": "SOCPA fellowship (2000); AICPA (California) fellowship (2004); IMD Board of Directors diploma (2023)",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Signed H1 2026 FS as Group CEO (S2, review dated 29 Jul 2026); led 2Q26 earnings call on 5 Aug 2026 (S6). Executive tab of S1 not server-rendered. LinkedIn not checked: web-search budget exhausted.",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S6",
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fawaz Abdullah Al Thumairi",
+      "name_ar": "فواز بن عبدالله الثميري",
+      "title": "Deputy Chief Executive Officer",
+      "functions": [
+        "Deputy CEO",
+        "Treasury"
+      ],
+      "entity": "The Saudi National Bank",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2026-09-03",
+      "appointed_note": "Appointed Deputy CEO effective 3 Sep 2026 (S21); Head, Treasury Business Group from 2022. Successor in Treasury not found.",
+      "previous_roles": "2026- Deputy CEO SNB; 2022-2026 Group Head of Treasury Business; earlier Head of Global Transaction Banking (trade finance, cash management, digital channels), Head of Principal Strategy, Head of Trading and Head of Derivatives Trading at NCB (from 2012); Samba Financial Group treasury from 2008. Chairman of the board of Türkiye Finans Katılım Bankası.",
+      "education": "Bachelor's in Management Information Systems, King Fahd University of Petroleum & Minerals (2008)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official leadership page lists him as Deputy CEO, checked 2026-10-12 (S1); Al Eqtisadiah, 3 Sep 2026 (S21).",
+      "source_ids": [
+        "S1",
+        "S21",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saud Abdulaziz Bajbair",
+      "name_ar": null,
+      "title": "Head, Retail Business Group",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "The Saudi National Bank",
+      "business_unit": "Retail Business Group",
+      "scope": "Group",
+      "appointed": "2022",
+      "appointed_note": "AR 2025: appointed Head, Retail Business Group in 2022. Also Vice Chairman of SNB Capital's board (S24).",
+      "previous_roles": "Previously Head, Retail Network Group and Head, Retail Strategy & Analytics (SNB); at NCB: Head of Branch Banking, Consumer Finance, Real Estate & Personal Finance divisions, Quality and Customer Care, Performance Development Unit. Boards: SNB Capital, Arabian Shield Insurance, SIMAH, Itqan.",
+      "education": "Bachelor's in Systems Engineering, King Fahd University of Petroleum & Minerals (2000)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as Head of Retail Business Group at the Private Banking World Legend Mastercard launch, Aug 2026 (S19); AR 2025 (S4). Retail segment serves individuals and private banking customers (S2 note 18). LinkedIn not checked (search budget exhausted).",
+      "source_ids": [
+        "S19",
+        "S4",
+        "S24",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hussein Hassan Eid",
+      "name_ar": null,
+      "title": "Group Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "The Saudi National Bank",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2025",
+      "appointed_note": "AR 2025: appointed Group CFO in 2025.",
+      "previous_roles": "Previously CFO, Sela Company; Deputy Group CFO and CFO Wholesale, Head of Financial Accounting & Control, and other finance roles at NCB. Chairs SNB Capital's Audit Committee.",
+      "education": "Master's in Accounting, King Abdulaziz University (2008)",
+      "qualifications": "AICPA (2012); ACCA Diploma in IFRS (2010); CMA, IMA (2008)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Signed H1 2026 FS (S2); spoke on 5 Aug 2026 earnings call (S6); AR 2025 (S4).",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nasser Sulaiman Al Fraih",
+      "name_ar": null,
+      "title": "Head, Corporate Business Group",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "The Saudi National Bank",
+      "business_unit": "Corporate Business Group",
+      "scope": "Group",
+      "appointed": "2024",
+      "appointed_note": "AR 2025: appointed in 2024.",
+      "previous_roles": "Previously Head, Institutional and International (SNB); Head of Treasury Sales and other treasury sales roles at NCB; non-executive board member, Samba Bank Limited. Member, SNB Capital Board Risk Committee.",
+      "education": "Master's in Engineering Management, George Washington University (2005); Bachelor's in Business Information Technology, Virginia Tech (2003); Harvard Advanced Management Program (2016)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed in AR 2025 executive management (S4). Executive tab of the official page not server-rendered (S1); 2025-2026 news search not possible (search budget exhausted).",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saleh Mohammed Saleh",
+      "name_ar": null,
+      "title": "Head, Group Shared Services (Group Chief Operating Officer)",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "The Saudi National Bank",
+      "business_unit": "Group Shared Services",
+      "scope": "Group",
+      "appointed": "2023",
+      "appointed_note": "AR 2025: appointed Head, Group Shared Services (GCOO) in 2023.",
+      "previous_roles": "Previously Chief Technology Officer of SNB and of NCB; Chief Information Officer, NCB; Head of IT Projects PMO, NCB.",
+      "education": "MBA, University of Phoenix (2006); Bachelor's in Computer Engineering, King Fahd University of Petroleum & Minerals (1996); IMD, Harvard and Stanford executive programmes",
+      "qualifications": "PMP, Project Management Institute (2007)",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed in AR 2025 executive management (S4); not re-confirmed on the current official page or in 2026 news.",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mazen Mohammed Khalefah",
+      "name_ar": null,
+      "title": "Acting Head, Group Strategy and Innovation",
+      "functions": [
+        "Strategy",
+        "Innovation / partnerships"
+      ],
+      "entity": "The Saudi National Bank",
+      "business_unit": "Group Strategy and Innovation",
+      "scope": "Group",
+      "appointed": "2025",
+      "appointed_note": "AR 2025 lists him as Acting Head; bio says appointed Head, Group Strategy and Innovation in 2025.",
+      "previous_roles": "Previously Chief Human Capital Officer, Riyad Bank; HR General Manager and Senior Advisor to the Governor, SAMA; Head of Learning & Talent, SABB; roles at Bank Albilad and NCB.",
+      "education": "Bachelor's in Engineering, King Abdulaziz University (2004); IMD certificates incl. Leading Digital Business Transformation (2023) and Board diploma (2024)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed in AR 2025 executive management as Acting Head (S4); current status not confirmed.",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Rashed Ibrahim Sharif",
+      "name_ar": "راشد بن إبراهيم شريف",
+      "title": "Board member (non-executive), SNB; Chief Executive Officer and Board member, SNB Capital",
+      "functions": [
+        "Board",
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "The Saudi National Bank / SNB Capital Company",
+      "business_unit": "Board; SNB Capital",
+      "scope": "Group / subsidiary",
+      "appointed": "2021-02",
+      "appointed_note": "SNB Capital CEO since February 2021 (S24). Profiled in full in sa-snb-capital.",
+      "previous_roles": "Previously Vice-Chairman NCB; Head of Local Holding Investments, PIF (2017-2020); CEO Riyad Capital; Head of Listing, CMA (2006-2013). Boards incl. AviLease, Tonomus; chairs CMA Capital Market Institutions Committee.",
+      "education": "MBA, Prince Sultan University (2009); Bachelor's in Finance, King Fahd University of Petroleum and Minerals (1998)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "On SNB official board list checked 2026-10-12 (S1) and AR 2025 (S4); SNB Capital leadership page lists him as CEO (S24).",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saleh Alfuraih",
+      "name_ar": null,
+      "title": "Chief Executive Officer, SNB digital venture and payments unit (as reported March 2024)",
+      "functions": [
+        "Digital",
+        "Subsidiary CEO"
+      ],
+      "entity": "The Saudi National Bank (digital ventures)",
+      "business_unit": "Digital ventures and payments",
+      "scope": "Group",
+      "appointed": "2024-03",
+      "appointed_note": "Named CEO of a new entity to expand digital banking and payments (S23). Which SNB entity he leads now (NEO Company or Al-Ghad Financial Company 'Digital Ventures') is not confirmed.",
+      "previous_roles": "Previously fintech lead at Cenomi (2021-2023); KSA country manager, Noon; earlier at Bank Albilad and Al Rajhi Bank (S23).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Only source is EnterpriseAM, 12 Mar 2024 (S23); not on AR 2025 executive list; no 2025-2026 confirmation found.",
+      "source_ids": [
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "SNB runs wealth through two layers. In the bank, Retail serves mass, affluent and private clients with Shariah-compliant products: Wessam Gold (from SAR 100k relationship), Wessam Platinum (SAR 500k; dedicated RM and wealth manager), the Elite Program (SAR 1.5m) and SNB Private Banking (threshold not published; dedicated RM, concierge, mutual funds, local and international trading, Khayrat). Private-banking gross financing reached SAR 37.7bn at 30 Jun 2026 (+18% YTD), and in Aug 2026 SNB launched the World Legend Mastercard for private-banking clients. Investment products are made and executed by the 100% subsidiary SNB Capital (asset-management AUM SAR 263.0bn at end-2025; 279bn and #1 with 22% share at 1Q26; #1 broker with 14% of H1 2026 value traded), whose apps (SNB Capital app, AlAhli Tadawul) sit outside the SNB Mobile banking app. The 2025-27 strategy calls for a 'differentiated value proposition in HNW and Affluent' and an 'SNB Capital fee focus', and AR 2025 says a robo-advisory platform is being added to Wealth Management.",
+    "segments": [
+      {
+        "name": "Wessam Gold",
+        "tier": "Mass affluent",
+        "eligibility": "Monthly salary SAR 20,000+, or customer financial relationship SAR 100,000+, or direct deposit SAR 250,000+",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "name": "Wessam Platinum",
+        "tier": "Affluent",
+        "eligibility": "Monthly salary SAR 40,000+, or customer financial relationship SAR 500,000+, or direct deposit SAR 1,000,000+; dedicated RM and 'an experienced wealth manager'",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "name": "Elite Program",
+        "tier": "Affluent / HNW",
+        "eligibility": "Customer financial relationship SAR 1,500,000+ (3-month average incl. funds, Khayrat, gold, local shares and investment cash), or direct deposit SAR 2,500,000, or monthly salary SAR 75,000+",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "name": "SNB Private Banking",
+        "tier": "HNW",
+        "eligibility": "Not published; dedicated RM, 24/7 concierge, private banking branches",
+        "source_ids": [
+          "S9",
+          "S11"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "SNB Private Banking ('Retail Private Banking'): dedicated RM, customised investment strategy, local and international trading, diversified mutual funds, Khayrat, FX and credit facilities to support investment activity, 24/7 concierge, private-banking branches. Gross private-banking financing SAR 37.7bn at 30 Jun 2026. World Legend Mastercard for private-banking clients launched Aug 2026 with Mastercard (includes access to economic forums with Bloomberg). The brand 'AlAhli Private' was not found.",
+      "source_ids": [
+        "S9",
+        "S10",
+        "S11",
+        "S2",
+        "S19"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Through SNB Capital (100%, CMA-licensed): asset-management-division AUM SAR 262,977m at 31 Dec 2025; SAR 279bn at 1Q26 (22% of KSA, #1). Mostly Shariah-compliant public funds (equity, sukuk, money market, multi-asset, MSCI Islamic index funds, REITs, waqf funds), private real-estate funds and SNB Capital (DIFC) private funds. See sa-snb-capital.",
+      "source_ids": [
+        "S25",
+        "S5",
+        "S4"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Through SNB Capital: local trading (AlAhli Tadawul online and mobile, IVR, VIP lounges) and international trading via Alahlitadawul.com registration; #1 by H1 2026 value traded (SAR 175bn, 14%); international brokerage nearly USD 8bn traded in 2025 (+44%). The bank website links 'AlAhli Tadawul' and 'AlAhli Capital' for brokerage.",
+      "source_ids": [
+        "S16",
+        "S5",
+        "S4"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Investing is in separate SNB Capital channels (SNB Capital app, AlAhli Tadawul, SNB Capital Global apps). In the SNB Mobile banking app, investment-type features found are the Gold Account (also on AlAhliOnline) and Khayrat AlAhli (product page in the business-banking section: minimum 100,000, or 25,000 via SNB Mobile); no in-app securities or fund trading found on the SNB Mobile page. Retail digital sales share 78% (2025) and 93% digitally active customers.",
+      "source_ids": [
+        "S17",
+        "S15",
+        "S14",
+        "S4"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Private Banking Investment: investment advice and customised strategy from a dedicated RM. Wessam Platinum includes an 'experienced wealth manager'. SNB Capital provides investment advisory and wealth managers' coverage (see sa-snb-capital).",
+      "source_ids": [
+        "S10",
+        "S12"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Through SNB Capital's Discretionary Portfolio Management service (see sa-snb-capital). No bank-level discretionary mandate found.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Through SNB Capital: Idikhari goal-based savings platform in the SNB Capital app recommends one Shariah-compliant fund per plan (three multi-asset risk funds or a money-market fund) and automates contributions. AR 2025: 'Asset Management is a core contributor to the robo-advisory platform which is being added to the portfolio of Wealth Management services'. No robo or model-portfolio service in the SNB Mobile app found.",
+      "source_ids": [
+        "S4",
+        "S17"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "Private banking offers 'diversified mutual funds'; the range found is SNB Capital's own funds. No third-party fund shelf or platform provider found on SNB or SNB Capital pages.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Shariah-compliant 'Structured Investment Products' built on structured AlKhairaat, giving exposure to FX, precious metals and Shariah-compliant equity indices; an enhanced deposit alternative to structured deposits; Elite members get custom Khayrat products 'with capital protection possibility'.",
+      "source_ids": [
+        "S3",
+        "S13"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Through SNB Capital: private real-estate funds, SNB Capital (DIFC) private funds (private credit, PE, aviation, GP stakes), Eastgate MENA Direct Equity L.P. (100% group subsidiary), and a Feb 2026 Investcorp partnership covering alternatives. See sa-snb-capital.",
+      "source_ids": [
+        "S2",
+        "S18",
+        "S4"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Retail Banking offers 'a comprehensive suite of Shariah-compliant products'; Shariah-compliant deposits SAR 537bn of 698bn (30 Jun 2026); Khayrat AlAhli commodity-Murabaha deposits; Shariah-compliant structured products; SNB Capital's public funds are all Shariah-compliant. Shariah Committee established 1996.",
+      "source_ids": [
+        "S4",
+        "S2",
+        "S14",
+        "S3"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Sukuk",
+      "Structured products",
+      "Private markets / alternatives",
+      "Gold / precious metals",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Mastercard",
+        "kind": "Card / premium proposition",
+        "what": "SNB World Legend Mastercard for private-banking clients (first in MENA); includes access to global economic forums in partnership with Bloomberg",
+        "date": "2026-08-19",
+        "status": "Live",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "partner": "Moyasar",
+        "kind": "Payments fintech",
+        "what": "Strategic partnership for online payments, e-commerce and merchant acquiring",
+        "date": "2026-08-02",
+        "status": "Announced",
+        "source_ids": [
+          "S20"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2024-05-01",
+        "what": "Tareq Alsadhan (ex-CEO Riyad Bank) took office as Group CEO",
+        "source_ids": [
+          "S22"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "2025-2027 strategy: 'Deliver differentiated value proposition in HNW and Affluent', develop new fee streams and an 'SNB Capital fee focus'; leverage AI, analytics and open banking; grow NEO",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "AR 2025: robo-advisory platform being added to Wealth Management services (SNB Capital)",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-08-05",
+        "what": "Group CEO announced scaling of an Enterprise AI Program (AI operating model, data foundations, AI for customer journeys and employee workflows); 21 AI & data use cases at 1H26 vs >30 target for 2027",
+        "source_ids": [
+          "S6",
+          "S5"
+        ]
+      },
+      {
+        "date": "2026-08-19",
+        "what": "Launched World Legend Mastercard for private-banking clients",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "date": "2026-09-03",
+        "what": "Fawaz Al Thumairi appointed Deputy CEO 'to strengthen executive leadership and the operating model'",
+        "source_ids": [
+          "S21",
+          "S1"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Strategy 2025-27 targets a 'differentiated value proposition in HNW and Affluent' and mid-teens banking-fee CAGR; 1H26 banking-fee growth was 3% YoY (S4, S5 slide 12).",
+        "AR 2025 says a robo-advisory platform is being added to SNB Capital's Wealth Management services; today's Idikhari maps each plan to a single in-house fund (S4; see sa-snb-capital).",
+        "Capital Markets segment income fell 15% YoY in H1 2026 and securities fees fell 32%, on lower brokerage volumes (S5 slide 45).",
+        "Private-banking financing up 18% YTD to SAR 37.7bn and a new private-banking card (Aug 2026) show investment in the HNW franchise; private-banking client assets are not disclosed (S2, S19).",
+        "SNB Mobile app pages show no securities or fund investing; investing sits in separate SNB Capital apps (S17).",
+        "Enterprise AI Program being scaled across customer journeys and employee workflows (Aug 2026) (S6)."
+      ],
+      "barriers": [
+        "Products are made in-house: SNB Capital is KSA's largest asset manager (AM-division AUM SAR 263.0bn) with its own fund range and private funds (S25, S5).",
+        "Retail offering is Shariah-compliant; any product must fit SNB's Shariah governance (S4).",
+        "SNB Capital already uses Interactive Brokers and GTN for global trading and signed an MoU with Mala'a for digital planning/robo services (see sa-snb-capital)."
+      ],
+      "incumbent_vendors": [
+        "Interactive Brokers - global trading for SNB Capital clients; Saudi market access for IBKR clients since Oct 2024 (see sa-snb-capital)",
+        "GTN - 'SNB Capital Global (GTN)' trading app and commission schedule (see sa-snb-capital)",
+        "Mala'a Technologies - MoU for digital financial planning and robo-advisory (see sa-snb-capital)",
+        "BNY Mellon - global sub-custodian for SNB Capital (see sa-snb-capital)",
+        "Mastercard - private-banking World Legend card (S19)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Leadership - Our Values and Goals (Board of Directors; Executive Top Management)",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/about-us/who-we-are/leadership",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Unaudited condensed interim consolidated financial information for the six months ended 30 June 2026 (reviewed by PwC and Deloitte)",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/-/media/project/snb/snb-web/about-us/02-1-Investor-Relations/Financial-Information/Financial-Statements/English/SNB-2Q-2026-Financials-English.pdf?view=1",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/-/media/project/snb/snb-web/about-us/02-1-Investor-Relations/Financial-Information/Financial-Statements/English/SNB-YE-2025-Financials-English.pdf?view=1",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "SNB Annual Report 2025",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/-/jssmedia/project/snb/snb-web/about-us/02-9-previous-annual-reports/annual-reports-pdfs-en/snb-annual-report-2025-en.pdf?view=1",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "2Q 2026 Investor Presentation (August 2026)",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/-/media/Project/SNB/SNB-Web/About-us/02-1-Investor-Relations/financial-information/Investor-Presentations/Documents/English/SNB-2Q-2026-Investor-Presentation.pdf?view=1",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "SNB 2Q 2026 Earnings Call transcript (5 August 2026)",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/-/jssmedia/project/snb/snb-web/about-us/02-1-investor-relations/financial-information/earnings-call-transcript/english/SNB-2Q-2026-Earnings-Call-Transcript.pdf?view=1",
+      "doc_type": "Earnings call transcript",
+      "tier": 2,
+      "published": "2026-08-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "SNB 2Q 2026 Earnings Release",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/-/jssmedia/project/snb/snb-web/about-us/02-1-investor-relations/financial-information/earnings-release/english/SNB-2Q-2026-Earnings-Release.pdf?view=1",
+      "doc_type": "Results press release",
+      "tier": 2,
+      "published": "2026-07-21",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Financial Reports (IR financial information page)",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/about-us/investor-relations/financial-information",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Private Banking",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/private-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Private Banking Investment",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/private-banking/investment",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Private Banking Benefits",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/private-banking/benefits",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Wessam AlAhli (Wessam Platinum and Wessam Gold)",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/personal-banking/accounts-and-deposits/al-wessam-accounts",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Elite Program",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/personal-banking/elite-program",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Khayrat AlAhli",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/business/investments/khayrat-alahli",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Personal Gold Account",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/personal-banking/accounts-and-deposits/gold-accounts",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "International Brokerage (AlAhli Capital / Alahlitadawul.com)",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/business/investments/international-brokerage",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "SNB Mobile (mobile app services)",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/personal-banking/digital-banking/mobile-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "SNB Subsidiaries",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/pages/about-us/who-we-are/subsidiaries",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "SNB Group launches the first World Legend Mastercard in the Middle East and North Africa region",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/news/snb-group-launches-the-first-world-legend-mastercard-in-the-middle-east-and-north-africa-region",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-08-19",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "SNB Group Enters into a Strategic Partnership with Moyasar",
+      "publisher": "Saudi National Bank",
+      "url": "https://www.alahli.com/en/news/snb-group-enters-into-a-strategic-partnership-with-moyasar",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-08-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "مجموعة البنك الأهلي السعودي تعين فواز الثميري نائبا للرئيس التنفيذي",
+      "publisher": "Al Eqtisadiah",
+      "url": "https://www.aleqt.com/الأخبار/مجموعة-البنك-الأهلي-السعودي-تعين-فواز-الثميري-نائبا-للرئيس-التنفيذي-13821",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2026-09-03",
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S22",
+      "title": "Saudi National Bank appoints Tareq Abdulrahman Al Sadhan as new CEO",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/markets/saudi-national-bank-appoints-tareq-abdulrahman-al-sadhan-as-new-ceo-1.1711703871618",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2024-03-29",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "SNB names Saleh Alfuraih as CEO of digital venture and payment unit",
+      "publisher": "EnterpriseAM",
+      "url": "https://enterpriseam.com/ksa/2024/03/12/snb-names-saleh-alfuraih-as-ceo-of-digital-venture-and-payment-unit/",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2024-03-12",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Leadership (Board of Directors; Executive Team; CEO message)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/leadership",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "SNB Capital Company consolidated financial statements for the year ended 31 December 2025",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/documents/529288/0/SNBC+Signed+FS+-+31+Dec+25+%281%29.pdf/9e794cf6-f9e6-ce23-b95f-82dc87cfdc86?t=1774881938856",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Institution",
+      "original_value": "Saudi National Bank",
+      "finding": "Confirmed",
+      "new_value": "The Saudi National Bank (SNB)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Country",
+      "original_value": "Saudi Arabia",
+      "finding": "Confirmed",
+      "new_value": "SA",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Institution type",
+      "original_value": "Banking group with Sharia-compliant products",
+      "finding": "Updated",
+      "new_value": "Universal / commercial bank; model Conventional with Islamic window/subsidiary (Shariah-compliant deposits SAR 537bn of 698bn; TFKB participation bank)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "field": "Assets (bn) / Assets as of",
+      "original_value": "SAR 1,244.688bn as of 2026-06-30 (formula from Size metrics)",
+      "finding": "Confirmed",
+      "new_value": "SAR 1,244,688,218 thousand at 30 Jun 2026 (reviewed interim FS)",
+      "materiality": "Material",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Deposits (bn) / Deposits as of / Deposit measure",
+      "original_value": "SAR 698.17bn customer deposits as of 2026-06-30",
+      "finding": "Confirmed",
+      "new_value": "SAR 698,169,934 thousand customers' deposits at 30 Jun 2026",
+      "materiality": "Material",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Size metrics source URL",
+      "original_value": "Saudi Exchange issuer announcement anId=96886 (H1 2026 results, 21 July)",
+      "finding": "Could not verify",
+      "new_value": "Saudi Exchange page returned HTTP 403; values verified instead from the H1 2026 FS on SNB IR",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S8"
+      ]
+    },
+    {
+      "field": "Chief executive",
+      "original_value": "Tareq Abdulrahman Al Sadhan",
+      "finding": "Confirmed",
+      "new_value": "Tareq Abdulrahman Alsadhan, Group CEO since 1 May 2024",
+      "materiality": "Material",
+      "source_ids": [
+        "S2",
+        "S6",
+        "S22"
+      ]
+    },
+    {
+      "field": "Management: Tareq Al Sadhan LinkedIn",
+      "original_value": "Not verified / not researched",
+      "finding": "Could not verify",
+      "new_value": "linkedin_url null, 'Not verified' (web-search budget exhausted)",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Wealth / investment arm",
+      "original_value": "SNB Capital",
+      "finding": "Confirmed",
+      "new_value": "SNB Capital Company, 100% subsidiary (profiled as sa-snb-capital)",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2",
+        "S25"
+      ]
+    },
+    {
+      "field": "Business focus",
+      "original_value": "Full-service banking and investment management",
+      "finding": "Confirmed",
+      "new_value": "FS: 'full range of banking and investment management services'",
+      "materiality": "Minor",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "field": "Ownership",
+      "original_value": "Not refreshed",
+      "finding": "Updated",
+      "new_value": "PIF 37.2% (2,234,257,917 shares) at 31 Dec 2025",
+      "materiality": "Material",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "field": "Website",
+      "original_value": "https://www.alahli.com",
+      "finding": "Confirmed",
+      "new_value": "https://www.alahli.com",
+      "materiality": "Minor",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "field": "Company LinkedIn",
+      "original_value": "https://www.linkedin.com/company/snbalahli",
+      "finding": "Confirmed",
+      "new_value": "Linked from the official website footer",
+      "materiality": "Minor",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "field": "AUM / AUA (USD bn) and measure",
+      "original_value": "Not found",
+      "finding": "Updated",
+      "new_value": "SNB Capital AM-division AUM SAR 262,977m (31 Dec 2025); SAR 279bn (1Q26). The bank's note 40 labels total fiduciary assets (SAR 294,272m) as AUM; not used as AUM.",
+      "materiality": "Material",
+      "source_ids": [
+        "S25",
+        "S5",
+        "S3"
+      ]
+    },
+    {
+      "field": "Relationship / opportunity",
+      "original_value": "Researched as Saudi's largest bank by assets; compared with FAB.",
+      "finding": "Confirmed",
+      "new_value": "Largest KSA bank by assets (26% share; #4 in GCC) at 2Q26",
+      "materiality": "Minor",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "field": "Gaps / important distinctions ('SMB' label in another meeting)",
+      "original_value": "SMB label in other meeting is plausible transcription error but leadership under SMB not safely attributed.",
+      "finding": "Removed",
+      "new_value": "Nothing attributed to 'SMB'; no person or fact from that note carried into this record",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Source references / Prior research source",
+      "original_value": "S061; Granola meeting note (notes.granola.ai)",
+      "finding": "Could not verify",
+      "new_value": "Internal note and missing source register; replaced by primary sources S1-S25",
+      "materiality": "Minor",
+      "source_ids": []
+    },
+    {
+      "field": "Assets (USD bn) / Deposits (USD bn)",
+      "original_value": "Formulas (broken #REF! in original)",
+      "finding": "Removed",
+      "new_value": "Values kept in SAR; USD conversion is done centrally",
+      "materiality": "Minor",
+      "source_ids": []
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "AUM",
+      "detail": "Bank FY2025 FS note 40 calls SAR 294,272m 'assets under management'. SNB Capital FS note 29 breaks that total into AM-division AUM 262,977m, securities-division AUM 2,012m and brokerage cash 29,283m ('total fiduciary assets'). SNB Capital's leadership page claims 'over SAR 275 billion' AUM at Dec 2025; its AR 2025 says 263bn; the bank's 2Q26 presentation shows 279bn at 1Q26.",
+      "resolution": "Recorded AM-division AUM (SAR 262,977m) for 31 Dec 2025 and the labelled 279bn for 1Q26. The 275bn website claim is not used.",
+      "source_ids": [
+        "S3",
+        "S25",
+        "S24",
+        "S5"
+      ]
+    },
+    {
+      "field": "Customer deposits (2Q26 presentation)",
+      "detail": "Slide 4 prints 'Total Customers' Deposits 689bn'; slide 15 and the FS show SAR 698bn.",
+      "resolution": "Used the FS figure; slide 4 looks like a transposition.",
+      "source_ids": [
+        "S5",
+        "S2"
+      ]
+    },
+    {
+      "field": "Founded",
+      "detail": "Website timeline: NCB born by Royal Decree in 1953 (licence Royal Decree 3737 dated 26/12/1953). FS note 1: registration certificate authenticated by Royal Decree dated 28 Rajab 1369H (15 May 1950).",
+      "resolution": "Both recorded in 'founded'.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "open_items": [
+    "Saudi Exchange (Tadawul) announcement and ownership pages returned HTTP 403; shareholder data is as at 31 Dec 2025 (AR 2025).",
+    "Web-search budget (shared across agents) ran out mid-research: LinkedIn checks for the CEO and other heads, Argaam checks and 2025-2026 departure-news searches were not done. Al Fraih, Saleh Mohammed Saleh and Mazen Khalefah are therefore 'Requires verification'.",
+    "Head of Private Banking, head of affluent/Wessam, Chief Digital/Information Officer and the new Head of Treasury (after Al Thumairi became Deputy CEO on 3 Sep 2026) not identified.",
+    "Official leadership page: executive tab and four of eleven board members (AlSaggaf, Kurdi, AlYahya, Alsadhan) are not in the server-rendered HTML; confirm the 2026 board composition in a browser.",
+    "Private Banking eligibility threshold is not published on alahli.com.",
+    "Lead 'AlAhli Private' not found on SNB or SNB Capital sites; SNB uses 'SNB Private Banking' / 'Retail Private Banking'. Lead 'Tadawul app names' confirmed as AlAhli Tadawul (online and mobile), SNB Capital app, SNB Capital Global Pro and SNB Capital Global (GTN) (see sa-snb-capital).",
+    "No 2025-2026 wealth-tech vendor contract found at bank level; wealth-tech partners found are at SNB Capital (IBKR, GTN, Mala'a MoU, BNY Mellon).",
+    "Saleh Alfuraih's current role (digital venture/payments CEO, 2024) and the CEO of NEO Company not confirmed.",
+    "Q3 2026 results not yet published on the IR page as of 12 Oct 2026; add the 30 Sep 2026 balance-sheet record when released."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B10",
+  "checked": "2026-10-12"
+}
