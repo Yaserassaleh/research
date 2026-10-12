@@ -357,18 +357,21 @@
    "entity": "Boubyan Bank K.S.C.P.",
    "business_unit": "Board of Directors",
    "scope": "Group",
-   "appointed": "2009",
-   "appointed_note": "Board member since 2009 (S2, S4); date elected Chairman not found in sources opened (search result says he succeeded the late Mahmoud Yousef Al-Fulaij).",
-   "previous_roles": "Vice Chairman, First Investment Company; Chairman, First Finance (Qatar); Director, Wethaq Takaful Insurance; Chairman, Orient Holding and Orient Education Services; Director, Mabanee. Current: Vice Chairman, Awtad Real Estate (S4).",
-   "education": "Bachelor's degree in Economics, Kuwait University",
+   "appointed": "2020",
+   "appointed_note": "Board member since 2009 (S2, S4). Chairman since 2020, after Chairman Mahmoud Yousef Al-Fulaij's death (announced 12 Aug 2020, S38); AR 2020 lists him as Chairman (S39). Exact date not found (bank news item 404). Re-elected for 2025-2027 (S4 p.26).",
+   "previous_roles": "Vice Chairman, First Investment Company; Chairman, First Finance (Qatar); Director, Wethaq Takaful Insurance Company; Chairman, Orient Holding Company; Chairman, Orient Education Services Company; Director, Mabanee Company (S2, S4 p.20). Current other roles: Chairman of Boubyan's Board Governance Committee (S4 p.23); Vice Chairman, Awtad Real Estate Company (Kuwait).",
+   "education": "Bachelor's degree, Economics, Kuwait University",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official Board page checked 2026-10-12 (S2); AR 2025 (S4).",
+   "role_evidence": "Board page checked 2026-10-12 (S2); AR 2025 bio and committee table (S4 pp.20-23); quoted as Chairman on H1 2026 results, 20 Jul 2026 (S36). No departure news.",
    "source_ids": [
     "S2",
-    "S4"
+    "S4",
+    "S36",
+    "S38",
+    "S39"
    ],
    "checked": "2026-10-12"
   },
@@ -383,18 +386,22 @@
    "entity": "Boubyan Bank K.S.C.P.",
    "business_unit": "Group",
    "scope": "Group",
-   "appointed": "2009-08",
-   "appointed_note": "Joined Boubyan August 2009; board member since 2010 (S4).",
-   "previous_roles": "25+ years at National Bank of Kuwait incl. Deputy Chief Executive Officer and General Manager - Consumer Banking Group. Current: Chairman, Bank of London and The Middle East (UK) (S1, S4).",
-   "education": "Bachelor's degree in Accounting, University of Alexandria; executive programmes at Harvard, Wharton, Stanford",
+   "appointed": "2013-05",
+   "appointed_note": "CEO of Boubyan from August 2009 (S1, S4); Vice Chairman & CEO from May 2013 (S37); board member since 2010 (S2). Date the title became 'Group CEO' not stated.",
+   "previous_roles": "2009- Chief Executive Officer, Boubyan Bank (Vice Chairman & CEO from May 2013; now Vice Chairman and Group CEO); 1980 (S32; CBK 2018 bio: 1985, S37)-2009 National Bank of Kuwait, latterly Deputy Chief Executive Officer (2008-2009) and General Manager - Consumer Banking Group. Current other roles: Non-executive Chairman, BLME Holdings Limited / Bank of London and The Middle East plc (UK) (S1, S32, S33); Board member, Kuwait Banking Association and Kuwait Institute of Banking Studies (S32); chairs Boubyan's Board Executive Committee (S4 p.23).",
+   "education": "Bachelor's degree, Accounting, University of Alexandria; executive management development programmes at Harvard, Wharton and Stanford",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not verified",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); quoted in H1 2026 results coverage (search); no departure news found.",
+   "role_evidence": "Executive Management and Board pages checked 2026-10-12 (S1, S2); AR 2025 (S4 p.26); quoted as Vice Chairman and Group CEO on H1 2026 results, 20 Jul 2026 (S36). No 2025-2026 departure news (EN/AR); role-based LinkedIn search returned no profile.",
    "source_ids": [
     "S1",
-    "S4"
+    "S2",
+    "S4",
+    "S32",
+    "S36",
+    "S37"
    ],
    "checked": "2026-10-12"
   },
@@ -412,17 +419,21 @@
    "business_unit": "Consumer, Private and Digital Banking",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Joined Boubyan December 2011; date of current title not stated.",
-   "previous_roles": "23 years at NBK in retail banking leadership roles in Kuwait and London. Current: Chairman, Boubyan Capital; Director, BLME (S1, S4).",
-   "education": "Bachelor's degree in Finance, Kuwait University; executive programmes at Harvard Business School and INSEAD",
+   "appointed_note": "Joined December 2011 (S1). Already 'Chief Executive Officer - Private, Consumer & Digital Banking' in AR 2020 (S39 p.30); appointment date not stated in any source opened.",
+   "previous_roles": "2011- Boubyan Bank (joined December 2011), currently CEO - Consumer, Private and Digital Banking; before Boubyan 23 years at National Bank of Kuwait in retail-banking leadership roles in Kuwait and London (S1, S4 p.26). Current other roles: Chairman, Boubyan Capital Investment Company (S31); Deputy Chairman and Non-executive Director, BLME Holdings Limited (board member since June 2021; Audit and Nominations & Remuneration Committees) (S32, S33); Chairman, BB2 Digital and Technology Services Limited.",
+   "education": "Bachelor's degree, Finance, Kuwait University; executive development programmes at Harvard Business School and INSEAD",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not verified",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 lists him as 'Chief Executive Officer' without scope (S4).",
+   "role_evidence": "Executive Management page checked 2026-10-12 (S1); AR 2025 lists him as 'Chief Executive Officer' (S4 p.26); Boubyan Capital board (Chairman) and BLME board (Deputy Chairman) pages checked 2026-10-12 (S31, S32). No departure news; role-based LinkedIn search returned no profile.",
    "source_ids": [
     "S1",
-    "S4"
+    "S4",
+    "S31",
+    "S32",
+    "S33",
+    "S39"
    ],
    "checked": "2026-10-12"
   },
@@ -439,14 +450,14 @@
    "business_unit": "Private and Consumer Banking",
    "scope": "Kuwait",
    "appointed": "2021",
-   "appointed_note": "Joined Boubyan 2021.",
-   "previous_roles": "General Manager - Private Banking and Retail Finance, Kuwait Finance House; earlier Deloitte (Kuwait) and Kuwait Investment Authority. Board Director, Boubyan Takaful (S1, S4).",
-   "education": "Bachelor's degree in Accounting and MBA, Kuwait University",
-   "qualifications": "Chartered accountant (State of Kuwait)",
+   "appointed_note": "Joined Boubyan in 2021 (S1, S4); the sources do not state whether he joined in the current title.",
+   "previous_roles": "2021- Deputy CEO - Private and Consumer Banking, Boubyan Bank; General Manager - Private Banking and Retail Finance, Kuwait Finance House; earlier Deloitte (Kuwait) and Kuwait Investment Authority (S1, S4 p.27). Current other roles: Board Director, Boubyan Takaful Insurance Company.",
+   "education": "Bachelor's degree, Accounting, Kuwait University; MBA, Kuwait University; executive development programmes",
+   "qualifications": "Chartered accountant, State of Kuwait",
    "linkedin_url": null,
    "linkedin_status": "Not verified",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "role_evidence": "Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.27). No departure news; role-based LinkedIn search returned no profile.",
    "source_ids": [
     "S1",
     "S4"
@@ -467,17 +478,20 @@
    "business_unit": "Corporate Banking, Financial Control, Treasury and Legal",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Joined Boubyan October 2012.",
-   "previous_roles": "18 years at NBK (Financial Control, Corporate Banking; last role Head of Domestic Corporate Banking); 7+ years Regional Manager, National Bank of Abu Dhabi (Kuwait branch). Current: Chairman, Boubyan Takaful; Director, BLME (S1, S4).",
-   "education": "Bachelor's degree in Finance, Kuwait University",
+   "appointed_note": "Joined October 2012 (S1). Already 'Chief Executive Officer' in AR 2020 (S39 p.6); appointment date not stated.",
+   "previous_roles": "2012- Boubyan Bank (joined October 2012), currently CEO - Corporate Banking, Financial Control, Treasury and Legal Affairs; Regional Manager, National Bank of Abu Dhabi - Kuwait branch (over 7 years, to 2012); 18 years at National Bank of Kuwait in Financial Control and Corporate Banking, last as Head of Domestic Corporate Banking (S1, S4 p.26, S32). Current other roles: Chairman, Boubyan Takaful Insurance Company (S1); Non-executive Director, BLME Holdings Limited (since June 2020; Audit and Nominations & Remuneration Committees; director of Walbrook Asset Finance Limited).",
+   "education": "Bachelor's degree, Finance, Kuwait University; executive management development programmes",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 lists him as 'Chief Executive Officer' (S4).",
+   "role_evidence": "Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.26); BLME board page (S32); quoted as CEO in July-August 2026 Kuwait Times and Al Jarida coverage seen in search results. No departure news.",
    "source_ids": [
     "S1",
-    "S4"
+    "S4",
+    "S32",
+    "S33",
+    "S39"
    ],
    "checked": "2026-10-12"
   },
@@ -492,14 +506,14 @@
    "business_unit": "Corporate Banking",
    "scope": "Kuwait",
    "appointed": null,
-   "appointed_note": "Joined Boubyan 2012; title changed from 'Group General Manager - Corporate Banking Group' (AR 2025) to 'Chief Corporate Banking Officer' (website); date not stated.",
-   "previous_roles": "Managerial and executive positions at Kuwait Finance House; several positions at Boubyan. Board Director, Boubyan Takaful (S4).",
+   "appointed_note": "Joined 2012 (S1); title changed from 'Group General Manager - Corporate Banking Group' (AR 2025, S4) to 'Chief Corporate Banking Officer' (website, S1), date not stated. Bio cites unnamed professional certifications.",
+   "previous_roles": "2012- Boubyan Bank (several positions; Group General Manager - Corporate Banking Group per AR 2025, now Chief Corporate Banking Officer); earlier managerial and executive positions at Kuwait Finance House (S1, S4 p.27). Current other roles: Board Director, Boubyan Takaful Insurance Company.",
    "education": "Bachelor's degree, Kuwait University; General Management Program, Harvard Business School",
    "qualifications": null,
    "linkedin_url": "https://kw.linkedin.com/in/ali-al-ansari-19983281",
    "linkedin_status": "Verified (profile/search match)",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1). LinkedIn URL carried from original research (marked verified 2026-10-07); not re-opened in B23, no contrary evidence.",
+   "role_evidence": "Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.27). LinkedIn URL carried from original research (marked verified 2026-10-07); not re-opened, no contrary evidence.",
    "source_ids": [
     "S1",
     "S4"
@@ -518,18 +532,20 @@
    "entity": "Boubyan Capital Investment Company K.S.C. (Closed)",
    "business_unit": "Boubyan Capital",
    "scope": "Subsidiary",
-   "appointed": null,
-   "appointed_note": "Joined Boubyan Capital November 2013; was Executive Director - Asset Management & Brokerage Division in March 2021 (S16); date of CEO appointment not stated.",
-   "previous_roles": "Executive Director - Asset Management & Brokerage, Boubyan Capital (2021); senior positions at Global Investment House and NBK Capital (S11, S16).",
-   "education": "Bachelor's degree in Management Information Systems, University of Massachusetts; Executive MBA, London Business School; Program for Leadership Development, Harvard Business School",
+   "appointed": "2022-11",
+   "appointed_note": "CEO appointment announced 24 Nov 2022 (S34); Deputy CEO from October 2021 (S34); Executive Director in March 2021 (S16); joined November 2013 (S11). Al Rai, 15 Jul 2026, and Forbes ME 2026 (seen in search) say CEO since 2022 (S35).",
+   "previous_roles": "2022- Chief Executive Officer, Boubyan Capital Investment Company; 2021-2022 Deputy Chief Executive Officer, Boubyan Capital (from October 2021); 2021 Executive Director - Asset Management & Brokerage Division, Boubyan Capital; 2013- Boubyan Capital (joined November 2013); earlier senior positions at Global Investment House and NBK Capital (now NBK Wealth).",
+   "education": "Bachelor's degree, Management Information Systems, University of Massachusetts; Executive MBA, London Business School; Program for Leadership Development, Harvard Business School",
    "qualifications": null,
    "linkedin_url": "https://kw.linkedin.com/in/badria-al-humaidhi-9ab55310",
    "linkedin_status": "Verified (profile/search match)",
    "role_status": "Verified current",
-   "role_evidence": "Boubyan Capital Executive Management page checked 2026-10-12 (S11). LinkedIn URL carried from original research (marked verified 2026-10-07); not re-opened in B23.",
+   "role_evidence": "Boubyan Capital Executive Management page checked 2026-10-12 (S11); named CEO in the company's 15 Jul 2026 release (S35). LinkedIn URL carried from original research (marked verified 2026-10-07); not re-opened.",
    "source_ids": [
     "S11",
-    "S16"
+    "S16",
+    "S34",
+    "S35"
    ],
    "checked": "2026-10-12"
   },
@@ -545,14 +561,14 @@
    "business_unit": "Digital Group",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Joined Boubyan May 2011.",
-   "previous_roles": "14+ years in IT positions at Kuwait Finance House; 28+ years in banking IT and fintech (S4).",
-   "education": "Graduate of Ain Shams University; executive programmes at London Business School",
+   "appointed_note": "Joined Boubyan May 2011 (S1); date of appointment as Chief Digital Officer not stated.",
+   "previous_roles": "2011- Boubyan Bank (joined May 2011), currently Chief Digital Officer; earlier over 14 years in IT positions at Kuwait Finance House ('over 28 years' in banking IT and fintech per official bio) (S1, S4 p.28).",
+   "education": "Graduate of Ain Shams University (degree and field not stated); executive management development programmes at London Business School",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not verified",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "role_evidence": "Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.28). No departure news; role-based LinkedIn search (CDO) returned no profile.",
    "source_ids": [
     "S1",
     "S4"
@@ -572,13 +588,13 @@
    "scope": "Group",
    "appointed": null,
    "appointed_note": "Joined Boubyan February 2016; AR 2025 title 'Chief Data Officer', website now 'Chief AI & Data Officer'.",
-   "previous_roles": "Head of Technical Development Department, Civil Service Commission (Kuwait) (S4).",
-   "education": "Bachelor's degree in Electrical Engineering, Kuwait University; Master's in Computer Communications, Gulf University (Bahrain)",
+   "previous_roles": "2016- Boubyan Bank (joined February 2016), Chief Data Officer (AR 2025), now Chief AI & Data Officer (website); earlier Head of Technical Development Department, Civil Service Commission (Kuwait) and national government IT projects (S1, S4 p.28).",
+   "education": "Bachelor's degree, Electrical Engineering, Kuwait University; Master's degree, Computer Communications, Gulf University (Bahrain); executive management development programmes at Wharton and Chicago Booth",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "role_evidence": "Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.28).",
    "source_ids": [
     "S1",
     "S4"
@@ -597,13 +613,13 @@
    "scope": "Group",
    "appointed": "2025-04-22",
    "appointed_note": "Appointed effective 22 Apr 2025 after CBK approval (S8); joined Boubyan 2019.",
-   "previous_roles": "Deputy Head of Financial Advisory Services, National Investments Company (private placements, M&A) (S4).",
-   "education": "Bachelor's degree in Industrial and Management Systems Engineering, Kuwait University",
+   "previous_roles": "2025- Chief Strategy Officer, Boubyan Bank (effective 22 Apr 2025 after CBK approval; joined Boubyan 2019); earlier Deputy Head of Financial Advisory Services Department, National Investments Company (private placements and M&A) (S1, S4 p.28, S8).",
+   "education": "Bachelor's degree, Industrial and Management Systems Engineering, Kuwait University; leadership and strategy certificates incl. Harvard Business School and the Duke University Strategic Program",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Boursa disclosure (S8); official Executive Management page checked 2026-10-12 (S1).",
+   "role_evidence": "Boursa disclosure 22 Apr 2025 (S8); Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.28).",
    "source_ids": [
     "S8",
     "S1",
@@ -622,18 +638,20 @@
    "business_unit": "Operations / Administration",
    "scope": "Group",
    "appointed": "2019-01",
-   "appointed_note": "Joined January 2019; assumed responsibilities of the Administration Group from 13 Mar 2025 after Waleed Al-Yaqout retired (S9).",
-   "previous_roles": "Head of Off-site Supervision Department, Central Bank of Kuwait; Executive Manager (Corporate Banking), First Abu Dhabi Bank Kuwait; Senior Manager, NBK. Vice-Chairman, Boubyan Capital (S1, S4).",
-   "education": "Bachelor's degree in Accounting, American University in Cairo; MBA, Maastricht School of Management (Kuwait)",
+   "appointed_note": "Joined January 2019 (S1); COO in AR 2020 (S39 p.30), whether he joined in this title is not stated. Took over the Administration Group from 13 Mar 2025 after Waleed Al-Yaqout retired (S9).",
+   "previous_roles": "2019- Chief Operating Officer, Boubyan Bank (also responsible for the Administration Group since 13 Mar 2025, S9); before 2019 Head of Off-site Supervision Department, Central Bank of Kuwait; earlier Executive Manager - Corporate Banking, First Abu Dhabi Bank (Kuwait) and Senior Manager, National Bank of Kuwait (S1, S4 p.27). Current other roles: Vice Chairman, Boubyan Capital Investment Company.",
+   "education": "Bachelor's degree, Accounting, American University in Cairo; MBA, Maastricht School of Management (Kuwait); executive management development programmes at Harvard",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); disclosure 13 Mar 2025 (S9).",
+   "role_evidence": "Executive Management page checked 2026-10-12 (S1); disclosure 13 Mar 2025 (S9); AR 2025 (S4 p.27); Boubyan Capital board page (S31).",
    "source_ids": [
     "S1",
     "S9",
-    "S4"
+    "S4",
+    "S31",
+    "S39"
    ],
    "checked": "2026-10-12"
   },
@@ -649,16 +667,17 @@
    "scope": "Group",
    "appointed": null,
    "appointed_note": "Joined Boubyan 2005.",
-   "previous_roles": "External auditor at Deloitte & Touche and Ernst & Young; roles at Kuwait Finance House and Gulf Investment House. Board Director, Boubyan Capital (S4).",
-   "education": "MBA in Finance, Manchester Business School",
-   "qualifications": "CPA; CIA",
+   "previous_roles": "2005- Boubyan Bank (joined 2005), currently Group Chief Financial Officer; earlier roles at Kuwait Finance House and Gulf Investment House; career began as external auditor at Deloitte & Touche and then Ernst & Young (S1, S4 p.27). Current other roles: Board member, Boubyan Capital Investment Company.",
+   "education": "MBA, Finance, Manchester Business School",
+   "qualifications": "CPA (Certified Public Accountant); CIA (Certified Internal Auditor)",
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "role_evidence": "Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.27); Boubyan Capital board page (S31).",
    "source_ids": [
     "S1",
-    "S4"
+    "S4",
+    "S31"
    ],
    "checked": "2026-10-12"
   },
@@ -673,14 +692,14 @@
    "business_unit": "Information Technology",
    "scope": "Group",
    "appointed": "2023-03",
-   "appointed_note": "",
-   "previous_roles": "Head of IT Strategy & Planning, Central Bank of Kuwait; earlier AGM - IT Group at Boubyan; IT Director, Dasman Diabetes Institute; Zain (S4).",
-   "education": "BSc Computer Engineering, Florida Institute of Technology",
+   "appointed_note": "Re-joined Boubyan March 2023 as CIO (S1, S4); earlier AGM - IT Group at Boubyan.",
+   "previous_roles": "2023- Chief Information Officer, Boubyan Bank (re-joined March 2023); before that Head of IT Strategy & Planning, Central Bank of Kuwait; earlier Assistant General Manager - Information Technology Group, Boubyan Bank; Information Technology Director, Dasman Diabetes Institute (KFAS); Mobile Telecommunications Company (Zain) (S1, S4 p.28).",
+   "education": "BSc, Computer Engineering, Florida Institute of Technology; executive leadership development programmes at Harvard",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "role_evidence": "Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.28).",
    "source_ids": [
     "S1",
     "S4"
@@ -698,17 +717,19 @@
    "entity": "Bank of London and The Middle East plc",
    "business_unit": "BLME (incl. Nomo)",
    "scope": "Subsidiary (UK)",
-   "appointed": null,
-   "appointed_note": "Interim appointment; date not stated.",
-   "previous_roles": "23 years in financial services incl. periods in UAE and Lebanon; focus on strategic change and digital platforms (S21).",
+   "appointed": "2026",
+   "appointed_note": "Between April 2026 (FY2025 report approved 8 Apr 2026 still signed by CEO Andrew Ball, with Ball and Simon Gibbons the executive directors at 31 Dec 2025, S33) and October 2026 (leadership pages list him as Interim CEO, S21, S32). No announcement found.",
+   "previous_roles": "2026- Interim Chief Executive Officer and Executive Director, Bank of London and The Middle East plc / BLME Holdings Limited; Chief Operating and Customer Officer, C. Hoare & Co; Global Head of Digital Transformation and Agile Deployment, HSBC ('23 years' experience' incl. the UAE and Lebanon; no years given). Current other roles: University of Birmingham Business Advisory Board; Non-Executive Director of a Sport England governing body (S21).",
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "BLME 'Our People' page checked 2026-10-12 (S21); no news coverage found by search.",
+   "role_evidence": "BLME 'Our People' and 'The Board' pages checked 2026-10-12 (S21, S32); FY2025 statements (S33) still name Andrew Ball - see appointed_note; BLME's news page stops in 2023.",
    "source_ids": [
-    "S21"
+    "S21",
+    "S32",
+    "S33"
    ],
    "checked": "2026-10-12"
   },
@@ -731,7 +752,7 @@
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Quoted with this title in the Nomo-Allfunds press release (S19; Hubbis coverage dated 24 Sep 2026, S20). Not on BLME leadership page.",
+   "role_evidence": "Quoted with this title in the Nomo-Allfunds release (S19; Hubbis 24 Sep 2026, S20). Not on BLME leadership pages (S21, S32). Career and education not published.",
    "source_ids": [
     "S19",
     "S20"
@@ -750,15 +771,16 @@
    "business_unit": "BLME Capital",
    "scope": "Subsidiary (KSA)",
    "appointed": null,
-   "appointed_note": "Joined BLME February 2022; BLME Capital launched May 2023.",
-   "previous_roles": "Wealth management roles before BLME (detail truncated on page) (S23).",
-   "education": null,
+   "appointed_note": "Joined BLME February 2022 to lead the securities company; BLME Capital launched May 2023 (S21, S23). Date of appointment as CEO not stated.",
+   "previous_roles": "2022- CEO, BLME Capital Company (Riyadh) (joined BLME February 2022; BLME Capital launched May 2023); Executive Director, Wealth Management, EFG Bank; Vice President, Wealth Management, Deutsche Bank (Riyadh); Head of Business Development, Corporate Banking Group, Banque Saudi Fransi; senior positions at Samba Financial Group and Saudi Hollandi Bank ('15 years' before BLME; no years given).",
+   "education": "MBA, University of Essex (UK)",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "BLME Capital Company page checked 2026-10-12 (S23).",
+   "role_evidence": "BLME 'Our People' and BLME Capital pages checked 2026-10-12 (S21, S23).",
    "source_ids": [
+    "S21",
     "S23"
    ],
    "checked": "2026-10-12"
@@ -1339,6 +1361,105 @@
    "accessed": "2026-10-12",
    "language": "en",
    "note": "Seen in search results only (not opened)"
+  },
+  {
+   "id": "S31",
+   "title": "Boubyan Capital - Board of Directors",
+   "publisher": "Boubyan Capital Investment Company",
+   "url": "https://boubyancapital.com/who-we-are/board-of-directors/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S32",
+   "title": "BLME - The Board (BLME Holdings board biographies)",
+   "publisher": "Bank of London and The Middle East plc",
+   "url": "https://www.blme.com/about-us/the-board/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S33",
+   "title": "BLME Holdings Limited - Annual Report and Financial Statements 31 Dec 2025 (board-approved 8 Apr 2026)",
+   "publisher": "BLME Holdings Limited",
+   "url": "https://www.blme.com/media/jc2p2qd3/blme-holdings-financial-statements-31-december-2025.pdf",
+   "doc_type": "Annual report (UK subsidiary)",
+   "tier": 1,
+   "published": "2026-04-08",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S34",
+   "title": "Boubyan Capital appoints Badria Al-Humaidhi as CEO (Arabic)",
+   "publisher": "Al Jarida",
+   "url": "https://www.aljarida.com/article/5539",
+   "doc_type": "News article - CEO appointment",
+   "tier": 5,
+   "published": "2022-11-24",
+   "accessed": "2026-10-12",
+   "language": "ar"
+  },
+  {
+   "id": "S35",
+   "title": "Boubyan Capital CEO in Forbes ME Top 50 Asset Managers 2026 (company release, Arabic)",
+   "publisher": "Al Rai",
+   "url": "https://www.alraimedia.com/article/1772896",
+   "doc_type": "News article (company release)",
+   "tier": 5,
+   "published": "2026-07-15",
+   "accessed": "2026-10-12",
+   "language": "ar"
+  },
+  {
+   "id": "S36",
+   "title": "Boubyan Bank reports net profits of KD 54.7 million for H1 2026",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/46766/business/boubyan-bank-reports-net-profits-of-kd-547-million-for-h1-2026/amp",
+   "doc_type": "News article (results release)",
+   "tier": 5,
+   "published": "2026-07-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S37",
+   "title": "IFSB Annual Meetings 2018 - speaker bio: Adel Al-Majed, Vice Chairman and CEO, Boubyan Bank",
+   "publisher": "Central Bank of Kuwait (event site)",
+   "url": "https://cbk.gov.kw/ifsb2018/speaker/almajed/index.html",
+   "doc_type": "Official biography (regulator-hosted event page)",
+   "tier": 4,
+   "published": "2018",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S38",
+   "title": "Death of Boubyan Chairman Mahmoud Al-Fulaij; Al-Fouzan joins board (Arabic)",
+   "publisher": "Mubasher",
+   "url": "https://www.mubasher.info/news/3680922/",
+   "doc_type": "News item",
+   "tier": 5,
+   "published": "2020-08-12",
+   "accessed": "2026-10-12",
+   "language": "ar"
+  },
+  {
+   "id": "S39",
+   "title": "Boubyan Bank Annual Report 2020",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/media/filer_public/b8/04/b804ca93-4de9-4417-8ec1-305b41f42cf6/view_report.pdf",
+   "doc_type": "Annual report - board and executive management",
+   "tier": 1,
+   "published": "2021",
+   "accessed": "2026-10-12",
+   "language": "en"
   }
  ],
  "original_reconciliation": [
@@ -1669,6 +1790,27 @@
     "S20"
    ],
    "resolution": "Recorded as partnership publicised Sep 2026 (Hubbis 24 Sep 2026); Nomo Investments launch date unknown."
+  },
+  {
+   "field": "Adel Al-Majed - NBK start year",
+   "detail": "BLME board bio (S32): NBK 1980-2009; CBK/IFSB 2018 bio (S37): 'since 1985'; Boubyan pages: 'more than 25 years' (S1).",
+   "source_ids": [
+    "S1",
+    "S32",
+    "S37"
+   ],
+   "resolution": "Both years recorded; unresolved."
+  },
+  {
+   "field": "BLME chief executive",
+   "detail": "BLME 'Our People'/'The Board' pages (S21, S32) show Paul Szumilewicz as Interim CEO; the FY2025 statements approved 8 Apr 2026 (S33) name Andrew Ball as CEO; the BLME Capital page (S23) still carries an older board list (Ball CEO, Chris Power CFO/COO) and one 'Our People' bio still quotes 'CEO Andrew Ball'.",
+   "source_ids": [
+    "S21",
+    "S23",
+    "S32",
+    "S33"
+   ],
+   "resolution": "Current leadership pages used; the change occurred after 8 Apr 2026, date unknown."
   }
  ],
  "open_items": [
@@ -1677,12 +1819,12 @@
   "Lead check: Nomo-Allfunds is a partnership in which Nomo's own discretionary portfolios use Allfunds Nextportfolio; it was publicised in Sep 2026 (Hubbis 24 Sep 2026), but the exact '22 Sep' date and the Nomo Investments launch date were not confirmed.",
   "Boubyan Invest robo-advisory (launched Mar 2021) - current availability not confirmed; Boubyan Capital homepage still shows a 2022 client-agreement amendment notice.",
   "Nomo launch year (2021) rests on a search result (S30); Boubyan's own Nomo launch press page returned 404.",
-  "BLME CEO is shown as 'Interim'; appointment date and permanent CEO search not found.",
   "Global Trading Network relationship inferred only from the brokerage login domain - confirm with Boubyan Capital.",
-  "LinkedIn not verified for most executives; two URLs (Al-Ansari, Al-Humaidhi) carried from original research without re-opening.",
-  "Date Abdulaziz Al-Shaya became Chairman not confirmed from an opened source.",
   "Three Boursa disclosure forms (S8, S9, S10) are scanned images and were read visually.",
-  "Ticker symbol 'BOUBYAN' / code 109 taken from Boursa disclosure file naming and Kamco listing seen in search results."
+  "Ticker symbol 'BOUBYAN' / code 109 taken from Boursa disclosure file naming and Kamco listing seen in search results.",
+  "People pass X10 (2026-10-12): Al-Shaya's exact 2020 election date as Chairman not found (bank news item 404; Al-Anba PDFs have no text). Dates of the divisional CEO titles (Al-Tuwaijri, Al-Saleh - both already CEOs in AR 2020) and of the CDO/CIO/Chief AI & Data posts are not stated anywhere opened.",
+  "BLME: Szumilewicz's interim-CEO appointment (after 8 Apr 2026) and Andrew Ball's departure have no dated announcement; BLME's news page stops in 2023. The BLME Capital page (S23) carries a stale board list naming Jabra Ghandour as 'Head of Global Wealth Management and Investments at Boubyan Bank' - not on Boubyan's official pages; lead only.",
+  "LinkedIn: role-based searches (Group CEO; CEO Consumer/Private/Digital; Deputy CEO Private & Consumer; CDO) returned no profiles; name-based look-ups not permitted; Al-Nusef, Al-Khuzam, Al-Ghunaim, Szumilewicz, Green, Al Muhtadi not searched (budget); carried URLs not re-opened. Education unpublished for Szumilewicz and Green; Shehab's degree field not stated."
  ],
  "research_status": "Complete",
  "researched_by": "B23",
