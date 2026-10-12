@@ -12,8 +12,9 @@ Model entry (depth expected for a decision-maker): `research/institutions/kw-kfh
 ## 1. Order of work for each institution (efficient: one document covers many people)
 1. Open the official leadership pages (board, executive management, Shariah board, subsidiary boards/management)
    and the latest annual report's governance section ("Board of Directors", "Executive Management", "Corporate
-   Governance Report"), which usually carry each person's education, career and appointment date. Large PDFs:
-   `python3 -E tools/pdftext.py "<pdf url>" --grep "Executive Management|Board of Directors|qualification|holds a" --context 1500`.
+   Governance Report"), which usually carry each person's education, career and appointment date. Read pages and
+   PDFs with `python3 -E tools/pdftext.py "<url>"`; for large PDFs add
+   `--grep "Executive Management|Board of Directors|qualification|holds a" --context 1500`.
    Arabic annual reports and Saudi Exchange / Boursa Kuwait / ADX / DFM / QSE / Bahrain Bourse / MSX
    board-appointment announcements are good sources too (they often state qualifications and experience).
 2. For each person, compare the file with the official text and fill or correct every field (§2).
@@ -97,14 +98,18 @@ Your institutions (edit only the people of these files, plus the sources, discre
 edits need):
 <- id — name (n people, k decision-makers)>
 
-Decision-makers first at full depth, then board, Shariah and other members. Use WebFetch for official pages and
-PDFs, `python3 -E tools/pdftext.py` for large PDFs, WebSearch for appointment/departure news by institution and
-role. The search tool declines name-based look-ups of individuals: do not work around that. Never solve CAPTCHAs,
-bypass bot checks or log in. Open each institution's leadership pages and annual-report governance section once
-and use them for everyone; budget about 6 tool calls per decision-maker and 2 per other person.
+Decision-makers first at full depth, then board, Shariah and other members. READING WEB PAGES: the built-in
+WebFetch tool cannot resolve hosts in this environment, so do not use it. Read every page and PDF with
+`python3 -E tools/pdftext.py "<url>"` (run from the project folder; it prints the page text and lists any LinkedIn
+links on the page; add `--grep "<regex>" --context 1500` for long documents or `--pages 1-15` for PDFs) or with
+`curl -sSL "<url>"`. A site that answers 403/406 is bot-protected: record it in open_items and move on. Use
+WebSearch for appointment/departure news by institution and role. The search tool declines name-based look-ups
+of individuals: do not work around that. Never solve CAPTCHAs, bypass bot checks or log in. Open each
+institution's leadership pages and annual-report governance section once and use them for everyone; budget about
+6 tool calls per decision-maker and 2 per other person.
 
-If WebFetch fails on every site you try (no web access in this environment), stop at once without editing any
-file and reply "NO WEB ACCESS".
+If pdftext.py and curl fail with network errors on every site you try, stop at once without editing any file and
+reply "NO WEB ACCESS".
 
 Write each institution file as soon as it is complete and validate it (JSON, source references, vocabularies).
 Then write research/people_pass/<BATCH>.md and reply in ≤120 words.

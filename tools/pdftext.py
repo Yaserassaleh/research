@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 """Fetch a public PDF (or HTML page) and print its text, with PDF page numbers.
 
-For reports over WebFetch's 10 MB limit. Downloads are cached in $PDF_CACHE (default: a temp folder).
+The way to read web pages in the cloud session (the built-in WebFetch tool cannot resolve hosts there; this
+script goes through the session proxy), and for reports over WebFetch's 10 MB limit on the Mac. Downloads are
+cached in $PDF_CACHE (default: a temp folder).
 
 Usage:
+  python3 -E tools/pdftext.py "<url>"                                   # whole page / document
   python3 -E tools/pdftext.py "<url>" --grep "total assets|customers' deposits" --context 600
   python3 -E tools/pdftext.py "<url>" --pages 1-15
 
@@ -14,6 +17,7 @@ Rebuilt on 12 Oct 2026 in the cloud session (the original script was not transfe
 """
 import argparse
 import hashlib
+import html
 import os
 import re
 import shutil
@@ -86,12 +90,18 @@ def pdf_pages(data):
 
 
 def html_text(data):
+    """Readable text of an HTML page; LinkedIn profile/company links found on the page are listed at the end."""
     t = data.decode("utf-8", "replace")
-    t = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", t)
+    links = sorted(set(re.findall(r'href="(https?://[a-z]*\.?linkedin\.com/(?:in|company)/[^"#?]+)', t, re.I)))
+    t = re.sub(r"(?is)<(script|style|noscript|svg)[^>]*>.*?</\1>", " ", t)
+    t = re.sub(r"(?i)<br\s*/?>|</(p|div|li|tr|h[1-6]|section|article|td|th)>", "\n", t)
     t = re.sub(r"(?s)<[^>]+>", " ", t)
-    t = re.sub(r"&nbsp;|&#160;", " ", t)
-    t = re.sub(r"&amp;", "&", t)
-    return re.sub(r"[ \t\r\f\v]+", " ", t)
+    t = html.unescape(t).replace(" ", " ")
+    t = re.sub(r"[ \t\r\f\v]+", " ", t)
+    t = re.sub(r"\n\s*\n+", "\n", t).strip()
+    if links:
+        t += "\n[LinkedIn links on this page: " + " ".join(links) + "]"
+    return t
 
 
 def document_pages(url, cache=None):
