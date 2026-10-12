@@ -4,6 +4,7 @@
   python3 tools/people_pass.py plan       # write research/people_pass/plan.json (batches X01…, ARTA-score order)
   python3 tools/people_pass.py baseline   # snapshot coverage to research/people_pass/baseline.json
   python3 tools/people_pass.py coverage   # print coverage now vs the baseline
+  python3 tools/people_pass.py linkedin-plan  # write research/people_pass/linkedin_plan.json (batches L01…)
 
 One pass per institution group: each agent reads a group's documents once and covers decision-makers (key ARTA
 contact functions and chairs) first at full depth, then board, Shariah and other members. Parent and subsidiary
@@ -83,6 +84,26 @@ def plan():
         print(f"  {b['batch']} ({b['people']} people, {b['decision_makers']} decision-makers): {', '.join(b['ids'])}")
 
 
+def linkedin_plan(per_batch=6):
+    """Batches L01… for the LinkedIn pass: institutions in ARTA-score order, about six per batch."""
+    insts = load_all()
+    db_path = os.path.join(ROOT, "exports", "database.json")
+    score = {}
+    if os.path.exists(db_path):
+        score = {i["id"]: i["score"]["total"] for i in json.load(open(db_path, encoding="utf-8"))["institutions"]}
+    order = sorted(insts, key=lambda i: -score.get(i, 0))
+    out = []
+    for n in range(0, len(order), per_batch):
+        ids = order[n:n + per_batch]
+        out.append({"batch": f"L{n // per_batch + 1:02d}", "ids": ids,
+                    "decision_makers": sum(1 for i in ids for p in insts[i]["people"] if is_decision_maker(p))})
+    os.makedirs(OUT_DIR, exist_ok=True)
+    json.dump({"batches": out}, open(os.path.join(OUT_DIR, "linkedin_plan.json"), "w"), indent=1)
+    print(f"{len(out)} LinkedIn batches")
+    for b in out:
+        print(f"  {b['batch']} ({b['decision_makers']} decision-makers): {', '.join(b['ids'])}")
+
+
 def stats(insts):
     s = Counter()
     for iid, d in insts.items():
@@ -97,7 +118,6 @@ def stats(insts):
                 s[(g, "linkedin_verified")] += (p.get("linkedin_status") or "").startswith("Verified")
                 s[(g, "verified_current")] += p.get("role_status") == "Verified current"
                 s[(g, "departed")] += p.get("role_status") == "Departed"
-                s[(g, "rechecked")] += (p.get("checked") or "") > "2026-10-12"
     return {f"{g}.{k}": v for (g, k), v in s.items()}
 
 
@@ -109,7 +129,7 @@ def coverage():
         n = now.get(f"{g}.people", 0)
         print(f"{g}: {n} people (baseline {base.get(f'{g}.people', '-')})")
         for k in ("education", "career_with_years", "qualifications", "appointed", "linkedin_verified",
-                  "verified_current", "departed", "rechecked"):
+                  "verified_current", "departed"):
             v, b = now.get(f"{g}.{k}", 0), base.get(f"{g}.{k}")
             print(f"  {k:20} {v:5} ({v / n:5.0%})" + (f"   baseline {b}" if b is not None else ""))
 
@@ -118,6 +138,8 @@ def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "coverage"
     if cmd == "plan":
         plan()
+    elif cmd == "linkedin-plan":
+        linkedin_plan()
     elif cmd == "baseline":
         os.makedirs(OUT_DIR, exist_ok=True)
         json.dump(stats(load_all()), open(os.path.join(OUT_DIR, "baseline.json"), "w"), indent=1)

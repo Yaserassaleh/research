@@ -114,3 +114,56 @@ reply "NO WEB ACCESS".
 Write each institution file as soon as it is complete and validate it (JSON, source references, vocabularies).
 Then write research/people_pass/<BATCH>.md and reply in ≤120 words.
 ```
+
+## 7. LinkedIn pass (second wave; runs on an institution after its people-pass batch is done)
+
+Goal: a verified LinkedIn URL for as many decision-makers as possible without name-based look-ups, which the
+search tool declines. LinkedIn pages themselves cannot be opened (the site answers 999 to automated reads; never
+log in), so every match comes from what a search result shows.
+
+1. Read the institution file's `people` (names, titles, functions). Decision-makers first, then chairs and
+   other board members if budget remains.
+2. Run role-based searches restricted to LinkedIn: WebSearch with `allowed_domains: ["linkedin.com"]` and a
+   query of the form `<institution name> <role phrase>` — never a person's name. Role phrases to cycle through:
+   "chief executive officer", "deputy chief executive officer", "chairman board of directors", "head of retail
+   banking consumer banking", "private banking wealth management", "head of asset management chief investment
+   officer", "brokerage securities capital markets", "chief digital officer technology", "strategy innovation
+   partnerships", "chief financial officer", "chief operating officer", plus each profiled subsidiary's name
+   (e.g. "<capital arm> chief executive"). Add one search per still-unmatched decision-maker using the person's
+   exact official title plus the institution (still no name). Budget: 12–16 searches for a bank, 6–10 for a
+   small firm or capital arm.
+3. A result is a match ONLY if the result title or snippet shows (a) the same person's name as in the file
+   (transliteration variants allowed: Al/Al-/El, Mohammed/Mohammad, hyphen/space, initials, honorifics), (b) the
+   institution or its profiled subsidiary as the current employer, and (c) a title in the same function as the
+   file's current title. A profile that shows an older title at the same institution still counts if no other
+   employer is shown as current. A similar name, a different employer, or a title in another function is NOT a
+   match: leave `linkedin_url` null. When in doubt, do not record.
+4. Record a match: `linkedin_url` = the profile URL as returned (keep the country subdomain, drop tracking
+   parameters); `linkedin_status` = "Verified (profile/search match)"; add a source
+   `{"id": "S<n>", "title": "<Name> - LinkedIn", "publisher": "LinkedIn", "url": "<profile url>",
+   "doc_type": "LinkedIn profile (search result)", "tier": 4, "published": null, "accessed": "<today>",
+   "language": "en", "note": "Seen in search results only"}` and add that id to the person's `source_ids`.
+   If a result shows the person with a different current employer or a later title, do NOT change
+   `role_status` on that alone: add an `open_items` line "LinkedIn search result shows <name> as <title> at
+   <employer>; verify against official sources".
+5. Decision-makers searched for and not found: set `linkedin_status` to "Not verified" if it was "Not checked".
+   Change nothing else in the person record. Keep existing verified URLs.
+6. Validate the file (JSON, source references, vocabularies). Write `research/people_pass/<BATCH>.md` with, per
+   institution, searches run / matches recorded / decision-makers not found. Reply in ≤100 words.
+
+### LinkedIn-pass prompt template (batches L01… in research/people_pass/linkedin_plan.json; max 6 agents at once)
+
+```
+You are doing the LinkedIn pass of ARTA's GCC executive deep-dive. Today is <DATE>. Batch id: <BATCH>.
+Project folder: <ROOT> (do not run git or any build tool).
+
+FIRST read research/PEOPLE_DEEP_DIVE.md section 7 (binding) and protocol §2 of research/RESEARCH_PROTOCOL.md
+(LinkedIn and privacy rules). Your institutions (edit only linkedin_url, linkedin_status, source_ids of people,
+plus sources and open_items):
+<- id — name>
+
+Use WebSearch with allowed_domains ["linkedin.com"] and institution + role queries only; never put a person's
+name in a query and never try to open LinkedIn pages. Do not use WebFetch. Match results to the roster by name,
+current employer and function exactly as section 7 says; when in doubt record nothing.
+Validate each file, write research/people_pass/<BATCH>.md, reply in ≤100 words.
+```

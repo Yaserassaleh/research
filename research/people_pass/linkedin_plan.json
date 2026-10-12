@@ -1,0 +1,196 @@
+{
+ "batches": [
+  {
+   "batch": "L01",
+   "ids": [
+    "ae-enbd",
+    "kw-kfh",
+    "ae-fab",
+    "qa-qnb",
+    "qa-mar",
+    "ae-dib"
+   ],
+   "decision_makers": 65
+  },
+  {
+   "batch": "L02",
+   "ids": [
+    "kw-markaz",
+    "sa-albilad",
+    "sa-aljazira",
+    "sa-jadwa",
+    "om-bankmuscat",
+    "bh-gib"
+   ],
+   "decision_makers": 60
+  },
+  {
+   "batch": "L03",
+   "ids": [
+    "kw-nbk",
+    "ae-ajman",
+    "qa-qib",
+    "ae-adcb",
+    "qa-cbq",
+    "ae-cbd"
+   ],
+   "decision_makers": 48
+  },
+  {
+   "batch": "L04",
+   "ids": [
+    "ae-mashreq",
+    "kw-burgan",
+    "om-nbo",
+    "sa-alinma",
+    "sa-anb",
+    "sa-bsf"
+   ],
+   "decision_makers": 57
+  },
+  {
+   "batch": "L05",
+   "ids": [
+    "qa-dukhan",
+    "kw-kib",
+    "sa-alrajhi",
+    "om-bankdhofar",
+    "sa-riyad",
+    "sa-anb-capital"
+   ],
+   "decision_makers": 55
+  },
+  {
+   "batch": "L06",
+   "ids": [
+    "bh-alsalam",
+    "qa-lesha",
+    "bh-kfhbahrain",
+    "kw-warba",
+    "om-sohar",
+    "bh-nbb"
+   ],
+   "decision_makers": 61
+  },
+  {
+   "batch": "L07",
+   "ids": [
+    "intl-hsbc",
+    "sa-saib",
+    "sa-snb",
+    "qa-dohabank",
+    "sa-albilad-capital",
+    "ae-ei"
+   ],
+   "decision_makers": 58
+  },
+  {
+   "batch": "L08",
+   "ids": [
+    "ae-adib",
+    "bh-bbk",
+    "kw-boubyan",
+    "sa-sab",
+    "ae-shuaa",
+    "ae-bos"
+   ],
+   "decision_makers": 50
+  },
+  {
+   "batch": "L09",
+   "ids": [
+    "qa-ahlibank",
+    "kw-abk",
+    "kw-gulfbank",
+    "ae-nbf",
+    "qa-qiib",
+    "intl-scb"
+   ],
+   "decision_makers": 58
+  },
+  {
+   "batch": "L10",
+   "ids": [
+    "bh-bankabc",
+    "sa-aljazira-capital",
+    "qa-qinvest",
+    "kw-kic",
+    "ae-arqaam",
+    "ae-rakbank"
+   ],
+   "decision_makers": 37
+  },
+  {
+   "batch": "L11",
+   "ids": [
+    "sa-alistithmar-capital",
+    "sa-snb-capital",
+    "kw-cbk",
+    "sa-alinma-capital",
+    "sa-alrajhi-capital",
+    "sa-riyad-capital"
+   ],
+   "decision_makers": 48
+  },
+  {
+   "batch": "L12",
+   "ids": [
+    "ae-wio",
+    "kw-kamco",
+    "sa-bsf-capital",
+    "ae-sib",
+    "sa-sahm",
+    "ae-cbi"
+   ],
+   "decision_makers": 35
+  },
+  {
+   "batch": "L13",
+   "ids": [
+    "ae-zand",
+    "ae-eib",
+    "sa-derayah",
+    "sa-sab-invest",
+    "intl-citi",
+    "om-oab"
+   ],
+   "decision_makers": 43
+  },
+  {
+   "batch": "L14",
+   "ids": [
+    "bh-bisb",
+    "ae-almasraf",
+    "ae-sarwa",
+    "ae-uab",
+    "sa-d360",
+    "bh-khaleeji"
+   ],
+   "decision_makers": 38
+  },
+  {
+   "batch": "L15",
+   "ids": [
+    "ae-intlsecurities",
+    "sa-stcbank",
+    "ae-stashaway",
+    "ae-alramz",
+    "ae-nbq",
+    "sa-visionbank"
+   ],
+   "decision_makers": 33
+  },
+  {
+   "batch": "L16",
+   "ids": [
+    "om-ubhar",
+    "ae-financehouse",
+    "ae-mbank",
+    "ae-baraka",
+    "ae-investbank",
+    "ae-ruya"
+   ],
+   "decision_makers": 21
+  }
+ ]
+}
