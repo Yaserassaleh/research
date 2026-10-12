@@ -14,5 +14,13 @@
   "change": "Restored 46 institution files from exports/database.json (build 18:40) with tools/restore_from_db.py",
   "reason": "The files were not transferred when the project moved to the cloud session (GitHub web upload stopped at 100 files). The 18:40 build carried every field except source 'note' values (e.g. 'Seen in search results only') and disclosure checks for metrics that also have a value; those are lost for these files. A rebuild reproduces the 18:40 database for them exactly.",
   "by": "Central QA"
+ },
+ {
+  "date": "2026-10-12",
+  "institution_id": "sa-jadwa",
+  "field": "group_structure",
+  "change": "Removed Iqbal Khan from the current board list; added his Q3 2025 resignation and Dr Sadek Wahba's Q4 2025 appointment",
+  "reason": "People pass X08 found the change in the Annual Report 2025 (S1); agents may not edit group_structure",
+  "by": "Central QA"
  }
 ]
