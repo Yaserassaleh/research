@@ -1,669 +1,1524 @@
 {
-  "id": "sa-jadwa",
-  "name": "Jadwa Investment",
-  "short_name": "Jadwa",
-  "legal_name": "Jadwa Investment Company (Saudi closed joint stock company)",
-  "name_ar": "شركة جدوى للاستثمار",
-  "country": "SA",
-  "hq_city": "Riyadh",
-  "website": "https://www.jadwa.com",
-  "linkedin_company": "https://www.linkedin.com/company/jadwainvestment",
-  "category": "Non-bank",
-  "type": "Asset & wealth manager",
-  "model": "Islamic",
-  "founded": "2006 (incorporated 21 Aug 2006 and licensed by the CMA the same day; business commenced 19 Feb 2007)",
-  "regulators": ["CMA", "DFSA (Jadwa Investment (DIFC) Limited)"],
-  "listed": false,
-  "exchange": null,
-  "ticker": null,
-  "parent_id": null,
-  "ownership_summary": "Unlisted Saudi closed joint stock company with SAR 1.0bn paid-up capital (100,000,000 shares of SAR 10). The FY2025 annual report states that after a 2022 buy-back of 10% of its shares from 'the sole foreign investor' the company is 100% owned by Saudi shareholders; those treasury shares (SAR 170.5m at 31 Dec 2025) were allocated to the employee share plan. The individual shareholders and their percentages are not disclosed in the sources opened (checked 2026-10-12).",
-  "shareholders": [],
-  "government_link": "No government shareholding disclosed in company materials (checked 2026-10-12): the FY2025 annual report says only that the firm is owned by Saudi shareholders. Government-related entities are among its clients (S1 p.6, S2).",
-  "group_structure": "Jadwa Investment Company (Riyadh) is the operating parent and holds the CMA licence. Wholly owned subsidiaries: Jadwa Investment (DIFC) Limited (DFSA-licensed), and four Cayman Islands entities used for international advisory and fund structures. It manages the listed Jadwa REIT Saudi Fund and Jadwa REIT Al Haramain Fund (both on the Saudi Exchange). Board (S4, S1 p.7): Adib Alzamil (Chairman), Abdulaziz Alsubeaei (Vice Chairman), Abdulrahman Al-Ruwaita, Chris Masterson (independent), Khalid Al-Khowaiter (independent), Iqbal Khan (independent), Michael Powell (independent; chairs the Investment Committee), Dr Sadek Wahba (independent), Tariq Al-Sudairy (Managing Director & CEO). Shariah Board (S5): Dr Abdullah Al-Mutlaq (Chairman), Dr Mohamed Elgari, Bader Al-Omar, Dr Ahmed Al-Gaidy. The Executive Management Committee also includes the Chief Economist (Toby Iles), the General Legal Counsel and Corporate Secretary (Naif Abuhaimed) and the Head of Human Resources (Naif Al-Mutairi) (S3). Board committees: Audit and Risk, Compliance, Investment, Remuneration and Compensation (S1 p.33).",
-  "subsidiaries": [
-    {"name": "Jadwa Investment (DIFC) Limited", "pct": 100, "activity": "DFSA-licensed: advising on financial products, arranging credit and advising on credit, arranging deals in investments, managing assets (Dubai)", "linked_id": null, "source_ids": ["S1", "S6"]},
-    {"name": "Jadwa International Alternative Investment Management", "pct": 100, "activity": "Investment advisory services (Cayman Islands)", "linked_id": null, "source_ids": ["S1"]},
-    {"name": "Jadwa Investment Management Company", "pct": 100, "activity": "Advisory services to international funds managed by Jadwa (Cayman Islands)", "linked_id": null, "source_ids": ["S1"]},
-    {"name": "Jadwa International PE Fund GP Limited", "pct": 100, "activity": "General partner entity, international private equity fund (Cayman Islands)", "linked_id": null, "source_ids": ["S1"]},
-    {"name": "Jadwa International Listed Equities SPC", "pct": 100, "activity": "International listed-equities fund structure (Cayman Islands)", "linked_id": null, "source_ids": ["S1"]}
-  ],
-  "footprint": "Headquartered in Riyadh (moved to a new head office at Laysen Valley, Tower 8, in 2025) with 'three regional offices' (S1, S2). The offices are not named on the official pages opened; a LinkedIn company snippet seen in search results lists Jeddah, Al-Khobar and Dubai (S22). DFSA-licensed subsidiary in Dubai (DIFC). Brokerage reaches Tadawul, ADX, DFM, NASDAQ Dubai, Bahrain Bourse, Boursa Kuwait, Muscat Stock Exchange and Qatar Stock Exchange (S9). Signed a State Street MoU for Oman on 1 Jun 2026 (S18).",
-  "customer_segments": "Government-related entities, local and international institutional investors, family offices, non-profit endowments, corporates and 'private wealth investors' (FY2025 annual report). Multi-asset funds and some products are restricted to qualified investors (S11). No published minimums or wealth tiers.",
-  "business_lines": "Public markets (Saudi, GCC, MENA, developed and emerging equity; sukuk and fixed income; money market; segregated mandates/DPMs); private equity (GCC Diversified PE Fund, GCC Private Equity Fund I, international PE co-investment funds, mezzanine); real estate (private development and income funds, plus listed REITs Jadwa REIT Saudi and Jadwa REIT Al Haramain); private credit (GCC Diversified Private Credit Fund, mezzanine commodity-murabaha funds, international structured credit); multi-asset funds and a multi-asset discretionary account and fund platform; investment advisory (non-discretionary and discretionary/fiduciary, multi-manager funds for institutions and family offices); dealing/brokerage; investment banking advisory (IPO, M&A, privatisation - stated as not a main activity); economic research. All offerings are Shariah-compliant.",
-  "metrics": [
-    {
-      "metric": "total_assets",
-      "value": 2307811356,
-      "unit": "unit",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total assets, audited consolidated statement of financial position (amount in Saudi Arabian Riyals as printed)",
-      "status": "Verified",
-      "source_ids": ["S1"],
-      "locator": "PDF p.39; five-year table p.34",
-      "note": "SAR 2,166,315,311 at 31 Dec 2024. No 30 Jun 2026 statements found: Jadwa publishes annual statements only on its site (interim statements found only for the two REITs)."
-    },
-    {
-      "metric": "total_equity",
-      "value": 1739474202,
-      "unit": "unit",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total equity (share capital SAR 1,000,000,000; retained earnings; share award payment plan reserve; less treasury shares). No non-controlling interest line.",
-      "status": "Verified",
-      "source_ids": ["S1"],
-      "locator": "PDF p.39",
-      "note": "SAR 1,618,541,106 at 31 Dec 2024."
-    },
-    {
-      "metric": "operating_income",
-      "value": 761057154,
-      "unit": "unit",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "FY2025",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "'Total operating income': fees from services (net) 693.4m, special commission income 26.1m, dividend income 57.4m, fair-value change on FVTPL investments (35.5m) and realised gains 19.7m; before operating expenses",
-      "status": "Verified",
-      "source_ids": ["S1"],
-      "locator": "PDF p.40 (income statement); p.34",
-      "note": "SAR 806,633,617 in FY2024. Annual report headline 'total revenues 762.17m' (CEO statement, PDF p.17/19) differs slightly from the statement line; 735.50m is described as 'operating revenues'."
-    },
-    {
-      "metric": "fee_and_commission_income",
-      "value": 693364726,
-      "unit": "unit",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "FY2025",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "'Fees from services, net' (management, performance, advisory and other fees)",
-      "status": "Verified",
-      "source_ids": ["S1"],
-      "locator": "PDF p.40, note 19",
-      "note": "SAR 720,223,370 in FY2024. The annual report says recurring revenues grew 24% in 2025."
-    },
-    {
-      "metric": "net_profit",
-      "value": 262717529,
-      "unit": "unit",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "FY2025",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "'Net income for the year after zakat'; the statement of financial position shows no non-controlling interest, so it is wholly attributable to shareholders",
-      "status": "Verified",
-      "source_ids": ["S1"],
-      "locator": "PDF p.40",
-      "note": "SAR 246,491,304 in FY2024; income before zakat SAR 294,520,130. Narrative figure 'net income of 261.62 million' equals total comprehensive income (after a SAR 1.1m remeasurement loss); the five-year table rounds to 262m."
-    },
-    {
-      "metric": "aum",
-      "value": 100.99,
-      "unit": "billion",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025 (year-end)",
-      "period_type": "point_in_time",
-      "scope": "Group (assets under management)",
-      "definition": "Total assets under management (issuer label), excluding assets under advisement; discretionary/non-discretionary split not stated",
-      "status": "Verified",
-      "source_ids": ["S1", "S2", "S17"],
-      "locator": "PDF p.19 ('100.99 billion', +18.34%), p.22; chart p.8 (101.0)",
-      "note": "Overview page shows 100.9 billion (undated). Euromoney: SAR 101bn. Public markets AUM SAR 66.2bn (p.9). AUM crossed SAR 100bn for the first time in 2025."
-    },
-    {
-      "metric": "assets_under_advisement",
-      "value": 17.26,
-      "unit": "billion",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group (advisory mandates)",
-      "definition": "Assets under advisement (issuer label); not counted in AUM. Fiduciary management mandates are SAR 10.14bn (within the advisory/fiduciary mandate base)",
-      "status": "Verified",
-      "source_ids": ["S1", "S2"],
-      "locator": "PDF p.22, p.24",
-      "note": "SAR 9.87bn of new and expanded advisory and fiduciary mandates won in 2025. Multi-manager and multi-asset funds portfolio SAR 12.57bn (p.24)."
-    },
-    {
-      "metric": "wealth_client_assets",
-      "value": 118.24,
-      "unit": "billion",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group (all clients: institutional, family office, private wealth)",
-      "definition": "'Total client assets under management and advisement' (issuer label) = AUM 100.99bn + assets under advisement 17.26bn. Not split between institutional and private wealth clients.",
-      "status": "Verified",
-      "source_ids": ["S1", "S8"],
-      "locator": "PDF p.17, p.18, p.19, p.22",
-      "note": "Homepage shows 118.2bn (undated). See discrepancies for other undated or rounded figures (102.7bn, 'more than 115bn', 'more than SAR 110bn')."
-    },
-    {
-      "metric": "wealth_client_assets",
-      "value": 110,
-      "unit": "billion",
-      "currency": "SAR",
-      "period_end": "2026-01-14",
-      "period_label": "'More than' figure, press release of 14 Jan 2026",
-      "period_type": "point_in_time",
-      "scope": "Group (client assets)",
-      "definition": "'More than SAR 110 billion (USD 30 billion) in client assets' (press-release boilerplate); lower bound only, not a dated balance",
-      "status": "Requires verification",
-      "source_ids": ["S13"],
-      "locator": "Boilerplate, 'About Jadwa Investment'",
-      "note": "Lower bound; consistent with the SAR 118.24bn at Dec 2025."
-    },
-    {
-      "metric": "aum_real_estate",
-      "value": 26,
-      "unit": "billion",
-      "currency": "SAR",
-      "period_end": "2026-07",
-      "period_label": "'About SR26 billion' as reported 6 Jul 2026",
-      "period_type": "point_in_time",
-      "scope": "Segment: real estate (development and income funds incl. listed REITs)",
-      "definition": "Real estate assets under management (Arab News label); company target SAR 50bn within five years",
-      "status": "Requires verification",
-      "source_ids": ["S16"],
-      "locator": "Article text",
-      "note": "Secondary news source; as-of date not stated in the article. A search summary dated the figure to May 2026 (from a company LinkedIn post and an Asharq Bloomberg interview, not opened)."
-    },
-    {
-      "metric": "trading_orders_executed",
-      "value": 302465,
-      "unit": "unit",
-      "currency": null,
-      "period_end": "2025-12-31",
-      "period_label": "FY2025",
-      "period_type": "duration",
-      "scope": "Group (dealing services to investment management clients)",
-      "definition": "Trading orders executed ('over 302,465'); negotiated deals worth more than SAR 4.98bn in aggregate. Total trading value not disclosed.",
-      "status": "Verified",
-      "source_ids": ["S1"],
-      "locator": "PDF p.24 (Dealing)",
-      "note": "Not a brokerage-client metric; no client or account counts disclosed."
-    }
-  ],
-  "disclosure_checks": [
-    {"metric": "customers", "status": "Not publicly disclosed", "where_checked": "FY2025 annual report (S1), overview page (S2), homepage (S8), press release of 14 Jan 2026 (S13), Argaam interview 2024 (S15). Only research subscriptions (7,652) and client-asset totals are given."},
-    {"metric": "investing_users", "status": "Not publicly disclosed", "where_checked": "FY2025 annual report (S1) and brokerage page (S9): no app-user, account or investing-client count."},
-    {"metric": "employees", "status": "Not publicly disclosed", "where_checked": "FY2025 annual report (S1) and official pages (S2, S3): no headcount found. A LinkedIn company snippet in search results shows a '51-200' band, not used."},
-    {"metric": "aua", "status": "Not publicly disclosed", "where_checked": "FY2025 annual report (S1 p.33: securities custody is licensed but 'not among the firm's main activities'); no custody/administration figure found."},
-    {"metric": "customer_deposits", "status": "Not publicly disclosed", "where_checked": "Not applicable: non-bank asset manager with no deposit-taking (S1 statement of financial position, PDF p.39)."},
-    {"metric": "interim_financials_2026", "status": "Not found after research", "where_checked": "Annual reports page (S1 listing), announcements page (S14): only the REIT funds publish interim statements; no H1 2026 or Q3 2026 statements for Jadwa Investment Company found."}
-  ],
-  "people": [
-    {
-      "name": "Adib Alzamil",
-      "name_ar": null,
-      "title": "Chairman",
-      "functions": ["Chair"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Board",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Appointment date not found. The Chairman's statement in the FY2025 annual report is signed by him.",
-      "previous_roles": "CEO and board member of Zamil Group; previously Managing Director of Finance & Investment at Zamil Group, Managing Director of Zamil Industrial Investment Company and Managing Director of Zamil Air Conditioners. Chairs United Carton Industries and Fajr Capital.",
-      "education": "Bachelor's in business administration, Portland State University (USA)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Board of Directors page (S4) and FY2025 annual report board page and Chairman's statement (S1 p.7, p.17); no departure news seen in searches; checked 2026-10-12.",
-      "source_ids": ["S4", "S1"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Abdulaziz Alsubeaei",
-      "name_ar": null,
-      "title": "Vice Chairman",
-      "functions": ["Board"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Board",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Board and Executive Committee member of Mohammed Alsubeaei & Sons Investment Company (MASIC).",
-      "education": "Bachelor's in business administration, King Saud University (KSA)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Board of Directors page (S4) and FY2025 annual report (S1 p.7); checked 2026-10-12.",
-      "source_ids": ["S4", "S1"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Tariq Al-Sudairy",
-      "name_ar": null,
-      "title": "Managing Director & CEO",
-      "functions": ["CEO", "Board"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Group",
-      "scope": "Group",
-      "appointed": "2014",
-      "appointed_note": "Forbes Middle East says he has led Jadwa since 2014; Jadwa's own bio says he joined in 2011 and does not give the date he became CEO. He chairs the Executive Management Committee.",
-      "previous_roles": "Joined Jadwa in 2011; before that Senior Vice President at Amwal AlKhaleej, Manager at McKinsey & Company and Consultant at Lexecon Inc. Also on the boards of Saudi Aramco Base Oil Company (Luberef) and The Financial Academy (per Jadwa's page).",
-      "education": "MBA, Harvard Business School (USA); bachelor's degree with honours in economics, Williams College (USA)",
-      "qualifications": null,
-      "linkedin_url": "https://www.linkedin.com/in/tariq-al-sudairy-335233/",
-      "linkedin_status": "Verified (profile/search match)",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team and Board pages (S3, S4); quoted as CEO in the 14 Jan 2026 press release (S13), State Street MoU report of 3 Jun 2026 (S18) and Forbes Middle East Top 50 Asset Managers 2026 (No. 6, published 9 Jul 2026, S19). A search for 2026 appointments found no change at the top. LinkedIn search result shows the same name, Jadwa Investment and a Harvard Business School entry (S23).",
-      "source_ids": ["S3", "S4", "S13", "S18", "S19", "S23"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Ghannam Al-Ghannam",
-      "name_ar": null,
-      "title": "Head of Private and Institutional Client Investments",
-      "functions": ["Wealth", "Private banking"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Private and Institutional Client Investments",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined Jadwa in 2012; date of appointment as head not found. Gave the June 2024 Argaam interview with this title.",
-      "previous_roles": "Senior Investment Advisor for private clients, HSBC Saudi Arabia, before joining Jadwa in 2012. Oversees client relationship development and servicing across all offices; member of the Executive Management Committee.",
-      "education": "MIS, Ohio University (USA); bachelor's degree, Toledo University (USA)",
-      "qualifications": "Certified financial planner (per Jadwa page)",
-      "linkedin_url": "https://www.linkedin.com/in/ghannam-al-ghannam-4361a596/",
-      "linkedin_status": "Verified (profile/search match)",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team page (S3); Argaam interview, 9 Jun 2024 (S15). LinkedIn search result shows the same name, Jadwa Investment, University of Toledo and the same unit title (S25); the visible activity was about two years old, so the title was not re-confirmed after 2024 beyond the official page.",
-      "source_ids": ["S3", "S15", "S25"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Faisal Al-Rayes",
-      "name_ar": null,
-      "title": "Head of Asset Management and Chief Investment Officer",
-      "functions": ["Investments / asset management"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Asset Management",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined Jadwa in 2010. A 2015 Private Banker International article quotes a different person (Zaheeruddin Khalid) as head of asset management and CIO, so the current holder took the role later; date not found.",
-      "previous_roles": "Research Analyst at Gabelli Asset Management; Investment Analyst at the General Organization for Social Insurance (GOSI). Oversees public equity, fixed income, money market and multi-asset funds and portfolios.",
-      "education": "MS in investment management, Cass Business School (UK); bachelor's in business administration, University of Oregon (USA)",
-      "qualifications": "CFA charterholder",
-      "linkedin_url": "https://www.linkedin.com/in/faisal-alrayes-cfa-a2703569/",
-      "linkedin_status": "Verified (profile/search match)",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team page (S3). LinkedIn search result shows 'Faisal Alrayes, CFA', Jadwa Investment and Cass Business School, matching the official bio (S24); the snippet shows no title.",
-      "source_ids": ["S3", "S24", "S20"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Abdullah Al Zouman",
-      "name_ar": null,
-      "title": "Managing Director, Multi-Asset Solutions",
-      "functions": ["Wealth", "Investments / asset management"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Multi-Asset Solutions",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Euromoney (17 Jun 2026) lists him among 2025-26 hires/titles; start date not found.",
-      "previous_roles": null,
-      "education": null,
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
-      "role_status": "Requires verification",
-      "role_evidence": "Named with this title in Euromoney, 17 Jun 2026 (S17); not listed on the official Management Team page (S3). A LinkedIn search result shows an 'Abdullah Al Zouman, CWM' at Jadwa Investment but no title, so it was not matched.",
-      "source_ids": ["S17"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Ghanem Al-Ghanem",
-      "name_ar": null,
-      "title": "Head of Investment Advisory",
-      "functions": ["Investments / asset management"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Investment Advisory",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined Jadwa in 2016; date of appointment as head not found.",
-      "previous_roles": "Investment Analyst at the Saudi Arabian Monetary Authority (SAMA); Financial Analyst at KPMG. Oversees the advisory practice (institutions, endowments, family offices).",
-      "education": "MBA and MS, Drexel University (USA); advanced certificate in portfolio management, New York University (USA); bachelor's in quantitative methods, King Saud University (KSA)",
-      "qualifications": "CFA charterholder; Financial Risk Manager (FRM)",
-      "linkedin_url": "https://www.linkedin.com/in/ghanem-alghanem-cfa-frm-a617b240/",
-      "linkedin_status": "Verified (profile/search match)",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team page (S3). LinkedIn search result shows 'Ghanem Alghanem, CFA, FRM' at Jadwa Investment, matching the official credentials (S28).",
-      "source_ids": ["S3", "S28"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Haitham Al-Ghannam",
-      "name_ar": null,
-      "title": "Head of Real Estate and Alternative Investments",
-      "functions": ["Investments / asset management"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Real Estate and Alternative Investments",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined Jadwa in 2014; date of appointment as head not found.",
-      "previous_roles": "Head of Product Development in Asset Management, Swicorp, before joining Jadwa in 2014. Oversees private real estate funds, listed REIT funds and private credit offerings (per the Management Team page; a dedicated Head of Private Credit, Fidaa Haddad, is named in 2026).",
-      "education": "MBA, Esade Business School (Spain); bachelor's degree, King Saud University (KSA)",
-      "qualifications": "CFA charterholder",
-      "linkedin_url": "https://www.linkedin.com/in/haithamalghannam/",
-      "linkedin_status": "Verified (profile/search match)",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team page (S3); quoted with this title in Arab News, 6 Jul 2026 (S16). LinkedIn search result shows 'Haitham Alghannam, CFA' at Jadwa Investment (S26).",
-      "source_ids": ["S3", "S16", "S26"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Elie Elkhoury",
-      "name_ar": null,
-      "title": "Head of Private Equity",
-      "functions": ["Investments / asset management"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Private Equity",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined Jadwa in 2013; date of appointment as head not found.",
-      "previous_roles": "Vice President, Investment Banking, Citigroup Global Markets Limited, before joining Jadwa in 2013. Oversees private equity, mezzanine financing and investment banking advisory (IPO, M&A, privatisation).",
-      "education": "MBA in finance and strategy, ESSEC Business School (France); bachelor's in civil engineering, American University of Beirut (Lebanon)",
-      "qualifications": null,
-      "linkedin_url": "https://www.linkedin.com/in/elie-elkhoury-87b78219/",
-      "linkedin_status": "Verified (profile/search match)",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team page (S3). LinkedIn search result shows 'Elie Elkhoury - Managing Director, Private Equity - Jadwa Investment' (S27).",
-      "source_ids": ["S3", "S27"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Fidaa Haddad",
-      "name_ar": null,
-      "title": "Managing Director & Head of Private Credit",
-      "functions": ["Investments / asset management"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Private Credit",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Start date not found.",
-      "previous_roles": null,
-      "education": null,
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
-      "role_status": "Verified current",
-      "role_evidence": "Quoted with this title in Jadwa's press release of 14 Jan 2026 (S13) and named in Euromoney, 17 Jun 2026 (S17). Not on the official Management Team page (S3), which lists Executive Management Committee members only. LinkedIn search returned no matching profile.",
-      "source_ids": ["S13", "S17"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Abdullah Al-Eisa",
-      "name_ar": null,
-      "title": "Chief Operating Officer",
-      "functions": ["Operations", "Technology", "Brokerage"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Operations",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined Jadwa in 2007; date of appointment as COO not found.",
-      "previous_roles": "General Manager of Remote Banking at Bank Albilad; General Manager of Jeel Internet Solutions; National Technology Group; Saudi Arabian Monetary Agency (SAMA). Oversees administration and premises, brokerage, information technology and investment operations.",
-      "education": "Bachelor's degree, King Saud University (KSA)",
-      "qualifications": "Certified Information System Auditor (CISA)",
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team page (S3). A LinkedIn search found an 'Abdullah Aleisa' at Jadwa Investment, but its education (University of Detroit Mercy) differs from the official bio, so it was not used.",
-      "source_ids": ["S3"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Abdullah Al Kharsan",
-      "name_ar": null,
-      "title": "Head of Brokerage and Administration (per LinkedIn search snippet)",
-      "functions": ["Brokerage", "Operations"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Brokerage and Administration",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
-      "education": null,
-      "qualifications": null,
-      "linkedin_url": "https://www.linkedin.com/in/abdullah-al-kharsan-b3221219/",
-      "linkedin_status": "Verified (profile/search match)",
-      "role_status": "Requires verification",
-      "role_evidence": "Only evidence is a LinkedIn search result titled 'Abdullah Al Kharsan - Head of Brokerage and Administration - Jadwa Investment' (S29); not on any official page, where the COO is said to oversee brokerage. The profile identity is matched (name, employer, title); the title could be outdated.",
-      "source_ids": ["S29"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Amer Afiouni",
-      "name_ar": null,
-      "title": "Chief Strategy Officer and Head of International Investments and Partnerships",
-      "functions": ["Strategy", "Innovation / partnerships"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Strategy; International Investments and Partnerships",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined Jadwa in 2015; date of appointment as CSO not found.",
-      "previous_roles": "Partner at McKinsey & Company; Managing Partner of CDC Systems Middle East; IT consultant at Compagnie Generale d'Informatique and IBM companies.",
-      "education": "MBA, INSEAD (France); bachelor's degrees, Ecole Polytechnique",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team page (S3); checked 2026-10-12.",
-      "source_ids": ["S3"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Farhan Hussain",
-      "name_ar": null,
-      "title": "Chief Financial Officer",
-      "functions": ["Finance"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Finance",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined Jadwa in 2009; date of appointment as CFO not found.",
-      "previous_roles": "Finance and Treasury Manager, Amlak Finance; Senior Engagement Auditor, Ernst & Young; Assistant Manager, Deloitte & Touche.",
-      "education": "Bachelor's degree, University of Karachi (Pakistan)",
-      "qualifications": "Cost and Management Accountant (UK); Chartered Accountant (Pakistan); Certified Islamic Public Accountant (AAOIFI, Bahrain)",
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team page (S3); checked 2026-10-12.",
-      "source_ids": ["S3"],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Bader Al-Omar",
-      "name_ar": null,
-      "title": "Head of Shariah Compliance",
-      "functions": ["Islamic / Shariah"],
-      "entity": "Jadwa Investment Company",
-      "business_unit": "Shariah Compliance",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined Jadwa in 2008. Also a member of the Shariah Board.",
-      "previous_roles": "Head of Shariah Audit, Al-Rajhi Bank, before joining Jadwa in 2008.",
-      "education": "Master's degree in law, Dar Al Uloom University (KSA); bachelor's degree, Imam Muhammad bin Saud Islamic University (KSA)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Management Team and Shariah Board pages (S3, S5); checked 2026-10-12.",
-      "source_ids": ["S3", "S5"],
-      "checked": "2026-10-12"
-    }
-  ],
-  "capabilities": {
-    "wealth_summary": "Jadwa is a CMA-licensed, wholly Shariah-compliant manufacturer of investment products. At 31 Dec 2025 it had SAR 100.99bn of AUM plus SAR 17.26bn under advisement (SAR 118.24bn in total). Clients are mainly government entities, institutions, family offices and endowments, with 'private wealth investors' served by a Private and Institutional Client Investments unit that uses relationship managers, a client service call centre (added 2025), a web portal and a mobile app. The shelf is its own: public equity, sukuk and money-market funds, segregated mandates, multi-asset funds (2023) with a multi-asset discretionary account and fund platform, private equity, real estate and private credit blind-pool funds, and multi-manager funds that use third-party managers. The 2025 annual report states a goal of broadening client reach through partnerships with commercial banks and fintech platforms, without naming them.",
-    "segments": [
-      {"name": "Private wealth investors", "tier": "HNW", "eligibility": "No published minimum or wealth threshold; served through the Private and Institutional Client Investments unit and relationship managers", "source_ids": ["S1", "S3", "S9"]},
-      {"name": "Qualified investors (multi-asset and private funds)", "tier": "HNW", "eligibility": "'Investors: Qualified' on the Saudi Concentrated Balanced/Growth and Global Balanced/Growth multi-asset funds; threshold not published", "source_ids": ["S11"]},
-      {"name": "Institutional, government-related entities, family offices and endowments", "tier": "Institutional", "eligibility": "Advisory and fiduciary mandates (SAR 17.26bn advisory; SAR 10.14bn fiduciary mandates at Dec 2025)", "source_ids": ["S1", "S10"]}
-    ],
-    "private_banking": {
-      "present": "Yes",
-      "detail": "Not a bank. A Private and Institutional Client Investments unit (head: Ghannam Al-Ghannam) handles client relationship development and servicing across all offices; clients include private wealth investors, dedicated relationship managers and, since 2025, a dedicated client service call centre and an upgraded coverage model. No wealth tiers or minimums published.",
-      "source_ids": ["S1", "S3", "S9"]
-    },
-    "asset_management": {
-      "present": "Yes",
-      "detail": "Core business. AUM SAR 100.99bn at 31 Dec 2025 (public markets AUM SAR 66.2bn). Moody's reaffirmed its MQ1 investment-manager quality rating (highest on its scale) per the annual report. In 2025 all Saudi and GCC public equity strategies outperformed their benchmarks by 1.87 to 11.76 percentage points; Asset Manager of the Year at the Saudi Tadawul Group forum (company claim). Real estate AUM about SAR 26bn (Jul 2026, news). Private equity invested capital SAR 10.7bn and real estate invested capital SAR 34.2bn cumulative (company figures, annual report p.9).",
-      "source_ids": ["S1", "S2", "S16"]
-    },
-    "brokerage": {
-      "present": "Yes",
-      "detail": "Jadwa is CMA-licensed for dealing and offers brokerage across Tadawul, ADX, DFM, NASDAQ Dubai, Bahrain Bourse, Boursa Kuwait, Muscat and Qatar exchanges via phone, web portal and mobile app, plus IPO and rights-issue subscription on Tadawul. Direct online trading is described for Tadawul. In 2025 it executed over 302,465 orders and negotiated deals above SAR 4.98bn, mainly for its investment management clients. Core trading system and omnibus account were upgraded in 2025 (vendor not named). Overseen by the COO.",
-      "source_ids": ["S9", "S1", "S15", "S3"]
-    },
-    "digital_investing": {
-      "present": "Yes",
-      "detail": "Corporate website, online account opening, web portal, mobile app, online subscription platform and online KYC update were unveiled over 2022-2024; 2025 added online registration, open banking capabilities, instant IBAN verification, real-time deposits and real-time online FX rates and transfers. The app lets clients view investments, download statements, subscribe to and redeem funds, transfer money and trade on Tadawul in real time (Argaam, Jun 2024). Relationship managers remain the main service model. No app-user numbers published; platform vendor not named.",
-      "source_ids": ["S1", "S15", "S9", "S8"]
-    },
-    "advisory": {
-      "present": "Yes",
-      "detail": "Investment advisory practice for institutions, endowments, family offices and corporates: strategic asset allocation, investment policy, manager selection, operational set-up and monitoring; both non-discretionary and discretionary advisory. Advisory mandates SAR 17.26bn and fiduciary mandates SAR 10.14bn at Dec 2025; SAR 9.87bn of new and expanded mandates won in 2025. Best Performing Endowment Fund award from the General Authority of Awqaf (company claim). Also advisory on investment banking (IPO, M&A, privatisation) but 'not among the firm's main activities'.",
-      "source_ids": ["S1", "S10", "S3"]
-    },
-    "discretionary": {
-      "present": "Yes",
-      "detail": "Segregated mandates (DPMs) in sukuk/fixed income and public equity; a Shariah-compliant fiduciary platform with access to external fund managers; and a multi-asset discretionary account and fund platform offering tailored asset allocation, priority allocation to Jadwa funds and reduced investment minimums (annual report). Fiduciary management mandates SAR 10.14bn at Dec 2025.",
-      "source_ids": ["S1", "S10", "S11"]
-    },
-    "model_portfolios_robo": {
-      "present": "Unclear",
-      "detail": "No robo-advisor or digital model-portfolio service found. Equivalent risk-profile products exist as fund wrappers: Global and Saudi Concentrated Conservative, Balanced and Growth multi-asset funds (launched 2023; Balanced/Growth restricted to qualified investors), plus the multi-asset discretionary account and fund platform.",
-      "source_ids": ["S11", "S1"]
-    },
-    "funds_platform": {
-      "present": "Yes",
-      "detail": "Multi-manager and multi-asset funds that invest through external managers across liquid and illiquid assets (portfolio SAR 12.57bn at Dec 2025): e.g. Developed Markets Passive Equity (2020), Emerging Markets Quantitative Equity (2020), International Sukuk Fund (2020), Multi-Manager International Private Equity Fund (2021), International Structured Credit Fund (2020). These are Jadwa-branded wrappers over third-party managers. No open third-party funds shelf or platform provider found. A 2015 Allfunds distribution agreement exists for offshore distribution of Jadwa funds (historical).",
-      "source_ids": ["S10", "S1", "S20"]
-    },
-    "structured_products": {
-      "present": "Not found after research",
-      "detail": "No structured notes or capital-protected products found in the annual report or product pages. 'Structured corporate credit' (Jadwa International Structured Credit Fund) is a private credit fund, not a structured product.",
-      "source_ids": ["S1", "S12"]
-    },
-    "private_markets": {
-      "present": "Yes",
-      "detail": "Private equity: Jadwa GCC Diversified Private Equity Fund (first regional blind-pool, SAR 1.3bn after second close in 2025; third close expected H1 2026), Jadwa GCC Private Equity Fund I, international PE co-investment funds (Co-investment Fund 3 now 9% deployed in 14 investments). Real estate: 26 funds active in 2025, two new local funds (SAR 960m), up to SAR 10bn of Makkah development funds announced Jul 2026. Private credit: Jadwa GCC Diversified Private Credit Fund (target up to SAR 750m, first close over SAR 300m, announced 14 Jan 2026; offered to institutional and private wealth investors), mezzanine murabaha funds, international structured credit and real-asset debt funds. 13 PE and private credit blind-pool funds launched to date.",
-      "source_ids": ["S1", "S13", "S16", "S12", "S31"]
-    },
-    "islamic_wealth": {
-      "present": "Yes",
-      "detail": "Whole firm is Shariah-compliant. Shariah Board: Dr Abdullah Al-Mutlaq (Chairman), Dr Mohamed Elgari, Bader Al-Omar, Dr Ahmed Al-Gaidy; in-house Shariah compliance team ran 110 research studies in 2025. Euromoney named it Middle East's best Islamic fund manager 2026 (company and press claim). Sukuk funds, murabaha/liquidity funds, Shariah-compliant REITs.",
-      "source_ids": ["S5", "S1", "S17", "S6"]
-    },
-    "asset_classes": ["Local equities", "GCC equities", "US/international equities", "Mutual funds", "Money market funds", "Sukuk", "Private markets / alternatives", "Private credit", "Real estate funds", "Listed REITs"],
-    "partners": [
-      {"partner": "State Street", "kind": "Asset servicing / custody (Oman)", "what": "MoU signed at the Oman Capital Market Conference to develop services for institutional clients in Oman, focused on asset servicing and global custody, plus training and thought leadership", "date": "2026-06-01", "status": "MoU / pilot", "source_ids": ["S18"]},
-      {"partner": "Lendo and JeelPay", "kind": "Fintech borrower platforms (private credit)", "what": "Jadwa GCC Diversified Private Credit Fund provides financing against loan books originated by Lendo (short-term corporate digital lending) and JeelPay (study-now-pay-later)", "date": "2026-01-14", "status": "Live", "source_ids": ["S13", "S1"]},
-      {"partner": "Zood Real Estate, Mohammad Al-Habib Holding, First Avenue Real Estate Development, Al-Majdiah, Rikaz", "kind": "Real estate development partners", "what": "Partners in two Makkah real estate development funds worth up to SAR 10bn combined", "date": "2026-07-06", "status": "Announced", "source_ids": ["S16"]},
-      {"partner": "Commercial banks and fintech platforms (not named)", "kind": "Distribution / client reach", "what": "Annual report says the firm continued to expand its network of partnerships with commercial banks and fintech platforms to broaden client reach; no named partners found", "date": "2025", "status": "Unclear", "source_ids": ["S1"]},
-      {"partner": "Allfunds Bank", "kind": "International fund distribution platform", "what": "Distribution agreement to offer Jadwa Shariah-compliant public equity and fixed income funds in Allfunds' 33-country network; 2015 article, current status not verified", "date": "2015-09-14", "status": "Unclear", "source_ids": ["S20"]},
-      {"partner": "Jada Fund of Funds", "kind": "Institutional investor in a Jadwa fund", "what": "Search-result summary says Jada invested in Jadwa GCC Private Equity Fund I (fund target SAR 1.5bn, hard cap SAR 2.0bn); page not opened", "date": "2024-12", "status": "Announced", "source_ids": ["S30"]}
-    ],
-    "initiatives": [
-      {"date": "2025", "what": "Moved head office to Laysen Valley, Riyadh; introduced a dedicated client service call centre and upgraded client coverage model", "source_ids": ["S1"]},
-      {"date": "2025", "what": "Launched Jadwa Developed Markets Core Equity Fund (second active developed-markets equity strategy); multi-asset discretionary and fund platform enhanced", "source_ids": ["S1"]},
-      {"date": "2025", "what": "Digital client interface enhancements: online registration, open banking capabilities, instant IBAN verification, real-time deposits, online FX rates and transfers; core trading system and omnibus account upgraded (35 additional processes automated)", "source_ids": ["S1"]},
-      {"date": "2025", "what": "Second close of Jadwa GCC Diversified Private Equity Fund to SAR 1.3bn; two more investments (Makhazen Alenaya majority stake, PetroApp minority stake); fund 57% deployed across five investments", "source_ids": ["S1"]},
-      {"date": "2025", "what": "Launched Jadwa Al-Khair and Jadwa Al-Majdiah Real Estate Fund 3 (SAR 960m aggregate commitments); eight funds completed 28 acquisitions worth SAR 2.34bn", "source_ids": ["S1"]},
-      {"date": "2025-12-31", "what": "AUM crossed SAR 100bn for the first time (SAR 100.99bn, +18.34%); SAR 9.87bn of new advisory and fiduciary mandates", "source_ids": ["S1"]},
-      {"date": "2026-01-14", "what": "Launched Jadwa GCC Diversified Private Credit Fund (target up to SAR 750m; first close over SAR 300m), first regional blind-pool private credit vehicle, for institutional and private wealth investors", "source_ids": ["S13"]},
-      {"date": "2026-06-01", "what": "Signed MoU with State Street on asset servicing and global custody for institutional clients in Oman", "source_ids": ["S18"]},
-      {"date": "2026-06-17", "what": "Euromoney named Jadwa Middle East's best Islamic fund manager 2026; article lists 12 real estate funds launched, Managed Volatility and Core Equity developed-markets strategies and new private credit and multi-asset hires", "source_ids": ["S17"]},
-      {"date": "2026-07-06", "what": "Announced two Makkah real estate development funds worth up to SAR 10bn; real estate AUM about SAR 26bn with a SAR 50bn five-year target", "source_ids": ["S16"]},
-      {"date": "2026-08-17", "what": "Q2 2026 dividends announced for Jadwa REIT Saudi Fund and Jadwa REIT Al Haramain Fund; H1 2026 REIT statements published 11 Aug 2026", "source_ids": ["S14"]}
-    ],
-    "evidence_for_arta": {
-      "opportunities": [
-        "States a strategy of expanding partnerships with commercial banks and fintech platforms to broaden client reach, with no partners named (FY2025 annual report, S1 p.21).",
-        "Wants private wealth clients to diversify through blind-pool PE and private credit funds and says multi-asset offerings carry reduced minimums; 13 blind-pool funds launched, including the Jan 2026 private credit fund aimed at private wealth investors (S1, S13).",
-        "Uses third-party GPs and managers for international exposure (multi-manager and co-investment funds, SAR 12.57bn at Dec 2025), which shows an existing sourcing model for outside alternatives and funds (S10, S1).",
-        "No robo-advisor, model-portfolio app or structured-products offering found; digital channel is a client portal and app for its own funds and Tadawul trading (S1, S9, S15).",
-        "Growth intent in real estate (SAR 26bn to SAR 50bn target) and private credit points to a larger own-product shelf that needs distribution (S16, S13)."
-      ],
-      "barriers": [
-        "Shariah-only manufacturer: any partner product would need Shariah Board approval, and the firm's own funds dominate the shelf (S5, S1, S6).",
-        "Built and iterated its own digital stack (web portal, app, online account opening, KYC, subscription platform) in 2022-2025 and upgraded its core trading system in 2025 (S1).",
-        "Relationship-manager led, institution-weighted client base; no published wealth tiers, client numbers or retail digital onboarding metrics (S1, S3).",
-        "Not a bank: no deposits, and securities custody is licensed but not a main activity, so it may rely on third parties for custody and asset servicing (S1 p.33, S18)."
-      ],
-      "incumbent_vendors": []
-    }
+ "id": "sa-jadwa",
+ "name": "Jadwa Investment",
+ "short_name": "Jadwa",
+ "legal_name": "Jadwa Investment Company (Saudi closed joint stock company)",
+ "name_ar": "شركة جدوى للاستثمار",
+ "country": "SA",
+ "hq_city": "Riyadh",
+ "website": "https://www.jadwa.com",
+ "linkedin_company": "https://www.linkedin.com/company/jadwainvestment",
+ "category": "Non-bank",
+ "type": "Asset & wealth manager",
+ "model": "Islamic",
+ "founded": "2006 (incorporated 21 Aug 2006 and licensed by the CMA the same day; business commenced 19 Feb 2007)",
+ "regulators": [
+  "CMA",
+  "DFSA (Jadwa Investment (DIFC) Limited)"
+ ],
+ "listed": false,
+ "exchange": null,
+ "ticker": null,
+ "parent_id": null,
+ "ownership_summary": "Unlisted Saudi closed joint stock company with SAR 1.0bn paid-up capital (100,000,000 shares of SAR 10). The FY2025 annual report states that after a 2022 buy-back of 10% of its shares from 'the sole foreign investor' the company is 100% owned by Saudi shareholders; those treasury shares (SAR 170.5m at 31 Dec 2025) were allocated to the employee share plan. The individual shareholders and their percentages are not disclosed in the sources opened (checked 2026-10-12).",
+ "shareholders": [],
+ "government_link": "No government shareholding disclosed in company materials (checked 2026-10-12): the FY2025 annual report says only that the firm is owned by Saudi shareholders. Government-related entities are among its clients (S1 p.6, S2).",
+ "group_structure": "Jadwa Investment Company (Riyadh) is the operating parent and holds the CMA licence. Wholly owned subsidiaries: Jadwa Investment (DIFC) Limited (DFSA-licensed), and four Cayman Islands entities used for international advisory and fund structures. It manages the listed Jadwa REIT Saudi Fund and Jadwa REIT Al Haramain Fund (both on the Saudi Exchange). Board (S4, S1 p.7): Adib Alzamil (Chairman), Abdulaziz Alsubeaei (Vice Chairman), Abdulrahman Al-Ruwaita, Chris Masterson (independent), Khalid Al-Khowaiter (independent), Iqbal Khan (independent), Michael Powell (independent; chairs the Investment Committee), Dr Sadek Wahba (independent), Tariq Al-Sudairy (Managing Director & CEO). Shariah Board (S5): Dr Abdullah Al-Mutlaq (Chairman), Dr Mohamed Elgari, Bader Al-Omar, Dr Ahmed Al-Gaidy. The Executive Management Committee also includes the Chief Economist (Toby Iles), the General Legal Counsel and Corporate Secretary (Naif Abuhaimed) and the Head of Human Resources (Naif Al-Mutairi) (S3). Board committees: Audit and Risk, Compliance, Investment, Remuneration and Compensation (S1 p.33).",
+ "subsidiaries": [
+  {
+   "name": "Jadwa Investment (DIFC) Limited",
+   "pct": 100,
+   "activity": "DFSA-licensed: advising on financial products, arranging credit and advising on credit, arranging deals in investments, managing assets (Dubai)",
+   "linked_id": null,
+   "source_ids": [
+    "S1",
+    "S6"
+   ]
   },
-  "sources": [
-    {"id": "S1", "title": "Jadwa Investment Annual Report 2025 (incl. audited consolidated financial statements)", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/sites/default/files/2026-05/Jadwa-Annual-Report-V6.5.1-27APR_EN-WEB.pdf", "doc_type": "Annual report with audited financial statements", "tier": 1, "published": "2026-05", "accessed": "2026-10-12", "language": "en", "note": "PDF opened and text-extracted (60 pages); page numbers are PDF pages. File sits in the May 2026 upload folder; file name indicates a 27 Apr version."},
-    {"id": "S2", "title": "Overview (By the numbers)", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/overview", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Undated figures: AUM 100.9bn, advisement 17.3bn, 2025 value creation 4.3bn; licences CMA and DFSA."},
-    {"id": "S3", "title": "Management Team", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/management-team", "doc_type": "Official leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S4", "title": "Board of Directors", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/board-of-directors", "doc_type": "Official leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S5", "title": "Shariah Board", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/shariah-board", "doc_type": "Official leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S6", "title": "Corporate information (English)", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/corporate-information", "doc_type": "Official regulatory/corporate information page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Incorporation 21 Aug 2006, CR 1010228782, paid-up capital SAR 1.000bn, CMA licence 06034-37 with activities listed. The Arabic version (https://www.jadwa.com/ar/corporate-information) was also opened and gives the Arabic name."},
-    {"id": "S7", "title": "Our firm", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/our-firm", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Shows 'SAR 102.7 billion in client assets under management and advisement' (undated; conflicts with other pages, see discrepancies)."},
-    {"id": "S8", "title": "Jadwa Investment homepage", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Shows '118.2 billion, Client assets' (undated)."},
-    {"id": "S9", "title": "Brokerage", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/brokerage", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S10", "title": "Investment advisory", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/investment-advisory", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S11", "title": "Multi-asset offerings", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/multi-asset-offerings", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S12", "title": "Private credit", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/private-credit", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S13", "title": "Jadwa Investment Launches SAR 750m GCC-Focused Private Credit Fund", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/node/27469", "doc_type": "Company press release", "tier": 2, "published": "2026-01-14", "accessed": "2026-10-12", "language": "en", "note": "Opened on jadwa.com. The Business Wire copy returned 403 and was not used."},
-    {"id": "S14", "title": "Announcements (regulatory and fund notices)", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/announcements", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Latest items are REIT notices dated 11 and 17 Aug 2026; no Jadwa Investment Company interim statements listed."},
-    {"id": "S15", "title": "Jadwa Investment to Argaam: More than SAR 85 billion in client assets.. and we have launched a new mobile app", "publisher": "Argaam", "url": "https://www.argaam.com/en/article/articledetail/id/1733590", "doc_type": "News interview", "tier": 5, "published": "2024-06-09", "accessed": "2026-10-12", "language": "en", "note": "Interview with Ghannam Al-Ghannam; client assets 'more than SAR 85bn' at end of Q1 2024."},
-    {"id": "S16", "title": "Jadwa, Ladun expand Makkah real estate ambitions with multibillion-dollar plans", "publisher": "Arab News", "url": "https://www.arabnews.com/node/2649831/business-economy", "doc_type": "News", "tier": 5, "published": "2026-07-06", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S17", "title": "Middle East's best Islamic fund manager 2026: Jadwa Investment", "publisher": "Euromoney", "url": "https://www.euromoney.com/article/d0wvntafg7c40gkcswo8804wk/banking/middle-easts-best-islamic-fund-manager-2026-jadwa-investment/", "doc_type": "News / award feature", "tier": 5, "published": "2026-06-17", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S18", "title": "State Street, Jadwa Investment collaborate to support growth of Oman's capital markets", "publisher": "FX News Group", "url": "https://fxnewsgroup.com/forex-news/institutional/state-street-jadwa-investment-collaborate-to-support-growth-of-omans-capital-markets/", "doc_type": "News (company release)", "tier": 5, "published": "2026-06-03", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S19", "title": "Tariq Al-Sudairy - The Middle East's Top 50 Asset Managers 2026 (No. 6)", "publisher": "Forbes Middle East", "url": "https://www.forbesmiddleeast.com/lists/top-50-asset-managers-2026/tariq-al-sudairy/", "doc_type": "News / ranking list", "tier": 5, "published": "2026-07-09", "accessed": "2026-10-12", "language": "en", "note": "Reports AUM of USD 25bn at end-2025 (+18%); not used as a metric because it is a converted figure."},
-    {"id": "S20", "title": "Jadwa Investment signs distribution deal with Allfunds Bank", "publisher": "Private Banker International", "url": "https://www.privatebankerinternational.com/news/jadwa-investment-signs-distribution-deal-with-allfunds-bank-140915-4669465/", "doc_type": "News", "tier": 5, "published": "2015-09-14", "accessed": "2026-10-12", "language": "en", "note": "Historical; names Zaheeruddin Khalid as then head of asset management and CIO."},
-    {"id": "S21", "title": "Jadwa organizational structure 2024", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/themes/custom/jadwa/assets/pdf/JADWA%20l%20Org%20Structure%20l%202024-EN.pdf", "doc_type": "Official organisation chart", "tier": 2, "published": "2024", "accessed": "2026-10-12", "language": "en", "note": "Opened to check for digital/technology leadership: no Head of Digital or Technology shown; units report to the CEO."},
-    {"id": "S22", "title": "Jadwa Investment (LinkedIn company page)", "publisher": "LinkedIn", "url": "https://www.linkedin.com/company/jadwainvestment", "doc_type": "LinkedIn company page (search-result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only; the snippet matches Jadwa's official description. The official site does not link to it, so it is recorded as a search-result match."},
-    {"id": "S23", "title": "Tariq Al-Sudairy - Jadwa Investment (LinkedIn)", "publisher": "LinkedIn", "url": "https://www.linkedin.com/in/tariq-al-sudairy-335233/", "doc_type": "LinkedIn profile (search-result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only."},
-    {"id": "S24", "title": "Faisal Alrayes, CFA - Jadwa Investment (LinkedIn)", "publisher": "LinkedIn", "url": "https://www.linkedin.com/in/faisal-alrayes-cfa-a2703569/", "doc_type": "LinkedIn profile (search-result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only; snippet shows Jadwa Investment and Cass Business School."},
-    {"id": "S25", "title": "Ghannam AL-Ghannam - Jadwa Investment (LinkedIn)", "publisher": "LinkedIn", "url": "https://www.linkedin.com/in/ghannam-al-ghannam-4361a596/", "doc_type": "LinkedIn profile (search-result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only."},
-    {"id": "S26", "title": "Haitham Alghannam, CFA - Jadwa Investment (LinkedIn)", "publisher": "LinkedIn", "url": "https://www.linkedin.com/in/haithamalghannam/", "doc_type": "LinkedIn profile (search-result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only."},
-    {"id": "S27", "title": "Elie Elkhoury - Managing Director, Private Equity - Jadwa Investment (LinkedIn)", "publisher": "LinkedIn", "url": "https://www.linkedin.com/in/elie-elkhoury-87b78219/", "doc_type": "LinkedIn profile (search-result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only."},
-    {"id": "S28", "title": "Ghanem Alghanem, CFA, FRM - Jadwa Investment (LinkedIn)", "publisher": "LinkedIn", "url": "https://www.linkedin.com/in/ghanem-alghanem-cfa-frm-a617b240/", "doc_type": "LinkedIn profile (search-result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only."},
-    {"id": "S29", "title": "Abdullah Al Kharsan - Head of Brokerage and Administration - Jadwa Investment (LinkedIn)", "publisher": "LinkedIn", "url": "https://www.linkedin.com/in/abdullah-al-kharsan-b3221219/", "doc_type": "LinkedIn profile (search-result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only."},
-    {"id": "S30", "title": "jadwa signing (Jada Fund of Funds)", "publisher": "Jada Fund of Funds", "url": "https://jada.com.sa/en/jadwa-signing", "doc_type": "Company page (search result)", "tier": 5, "published": "2024-12", "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only; page not opened. The date and fund details come from the search tool's summary."},
-    {"id": "S31", "title": "Private equity", "publisher": "Jadwa Investment", "url": "https://www.jadwa.com/en/private-equity", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Notes the International PE Fund platform invests in partnership with leading international private equity firms."}
+  {
+   "name": "Jadwa International Alternative Investment Management",
+   "pct": 100,
+   "activity": "Investment advisory services (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S1"
+   ]
+  },
+  {
+   "name": "Jadwa Investment Management Company",
+   "pct": 100,
+   "activity": "Advisory services to international funds managed by Jadwa (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S1"
+   ]
+  },
+  {
+   "name": "Jadwa International PE Fund GP Limited",
+   "pct": 100,
+   "activity": "General partner entity, international private equity fund (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S1"
+   ]
+  },
+  {
+   "name": "Jadwa International Listed Equities SPC",
+   "pct": 100,
+   "activity": "International listed-equities fund structure (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S1"
+   ]
+  }
+ ],
+ "footprint": "Headquartered in Riyadh (moved to a new head office at Laysen Valley, Tower 8, in 2025) with 'three regional offices' (S1, S2). The offices are not named on the official pages opened; a LinkedIn company snippet seen in search results lists Jeddah, Al-Khobar and Dubai (S22). DFSA-licensed subsidiary in Dubai (DIFC). Brokerage reaches Tadawul, ADX, DFM, NASDAQ Dubai, Bahrain Bourse, Boursa Kuwait, Muscat Stock Exchange and Qatar Stock Exchange (S9). Signed a State Street MoU for Oman on 1 Jun 2026 (S18).",
+ "customer_segments": "Government-related entities, local and international institutional investors, family offices, non-profit endowments, corporates and 'private wealth investors' (FY2025 annual report). Multi-asset funds and some products are restricted to qualified investors (S11). No published minimums or wealth tiers.",
+ "business_lines": "Public markets (Saudi, GCC, MENA, developed and emerging equity; sukuk and fixed income; money market; segregated mandates/DPMs); private equity (GCC Diversified PE Fund, GCC Private Equity Fund I, international PE co-investment funds, mezzanine); real estate (private development and income funds, plus listed REITs Jadwa REIT Saudi and Jadwa REIT Al Haramain); private credit (GCC Diversified Private Credit Fund, mezzanine commodity-murabaha funds, international structured credit); multi-asset funds and a multi-asset discretionary account and fund platform; investment advisory (non-discretionary and discretionary/fiduciary, multi-manager funds for institutions and family offices); dealing/brokerage; investment banking advisory (IPO, M&A, privatisation - stated as not a main activity); economic research. All offerings are Shariah-compliant.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 2307811356,
+   "unit": "unit",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, audited consolidated statement of financial position (amount in Saudi Arabian Riyals as printed)",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.39; five-year table p.34",
+   "note": "SAR 2,166,315,311 at 31 Dec 2024. No 30 Jun 2026 statements found: Jadwa publishes annual statements only on its site (interim statements found only for the two REITs)."
+  },
+  {
+   "metric": "total_equity",
+   "value": 1739474202,
+   "unit": "unit",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity (share capital SAR 1,000,000,000; retained earnings; share award payment plan reserve; less treasury shares). No non-controlling interest line.",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.39",
+   "note": "SAR 1,618,541,106 at 31 Dec 2024."
+  },
+  {
+   "metric": "operating_income",
+   "value": 761057154,
+   "unit": "unit",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total operating income': fees from services (net) 693.4m, special commission income 26.1m, dividend income 57.4m, fair-value change on FVTPL investments (35.5m) and realised gains 19.7m; before operating expenses",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.40 (income statement); p.34",
+   "note": "SAR 806,633,617 in FY2024. Annual report headline 'total revenues 762.17m' (CEO statement, PDF p.17/19) differs slightly from the statement line; 735.50m is described as 'operating revenues'."
+  },
+  {
+   "metric": "fee_and_commission_income",
+   "value": 693364726,
+   "unit": "unit",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Fees from services, net' (management, performance, advisory and other fees)",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.40, note 19",
+   "note": "SAR 720,223,370 in FY2024. The annual report says recurring revenues grew 24% in 2025."
+  },
+  {
+   "metric": "net_profit",
+   "value": 262717529,
+   "unit": "unit",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Net income for the year after zakat'; the statement of financial position shows no non-controlling interest, so it is wholly attributable to shareholders",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.40",
+   "note": "SAR 246,491,304 in FY2024; income before zakat SAR 294,520,130. Narrative figure 'net income of 261.62 million' equals total comprehensive income (after a SAR 1.1m remeasurement loss); the five-year table rounds to 262m."
+  },
+  {
+   "metric": "aum",
+   "value": 100.99,
+   "unit": "billion",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025 (year-end)",
+   "period_type": "point_in_time",
+   "scope": "Group (assets under management)",
+   "definition": "Total assets under management (issuer label), excluding assets under advisement; discretionary/non-discretionary split not stated",
+   "status": "Verified",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S17"
+   ],
+   "locator": "PDF p.19 ('100.99 billion', +18.34%), p.22; chart p.8 (101.0)",
+   "note": "Overview page shows 100.9 billion (undated). Euromoney: SAR 101bn. Public markets AUM SAR 66.2bn (p.9). AUM crossed SAR 100bn for the first time in 2025."
+  },
+  {
+   "metric": "assets_under_advisement",
+   "value": 17.26,
+   "unit": "billion",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group (advisory mandates)",
+   "definition": "Assets under advisement (issuer label); not counted in AUM. Fiduciary management mandates are SAR 10.14bn (within the advisory/fiduciary mandate base)",
+   "status": "Verified",
+   "source_ids": [
+    "S1",
+    "S2"
+   ],
+   "locator": "PDF p.22, p.24",
+   "note": "SAR 9.87bn of new and expanded advisory and fiduciary mandates won in 2025. Multi-manager and multi-asset funds portfolio SAR 12.57bn (p.24)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "value": 118.24,
+   "unit": "billion",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group (all clients: institutional, family office, private wealth)",
+   "definition": "'Total client assets under management and advisement' (issuer label) = AUM 100.99bn + assets under advisement 17.26bn. Not split between institutional and private wealth clients.",
+   "status": "Verified",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "locator": "PDF p.17, p.18, p.19, p.22",
+   "note": "Homepage shows 118.2bn (undated). See discrepancies for other undated or rounded figures (102.7bn, 'more than 115bn', 'more than SAR 110bn')."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "value": 110,
+   "unit": "billion",
+   "currency": "SAR",
+   "period_end": "2026-01-14",
+   "period_label": "'More than' figure, press release of 14 Jan 2026",
+   "period_type": "point_in_time",
+   "scope": "Group (client assets)",
+   "definition": "'More than SAR 110 billion (USD 30 billion) in client assets' (press-release boilerplate); lower bound only, not a dated balance",
+   "status": "Requires verification",
+   "source_ids": [
+    "S13"
+   ],
+   "locator": "Boilerplate, 'About Jadwa Investment'",
+   "note": "Lower bound; consistent with the SAR 118.24bn at Dec 2025."
+  },
+  {
+   "metric": "aum_real_estate",
+   "value": 26,
+   "unit": "billion",
+   "currency": "SAR",
+   "period_end": "2026-07",
+   "period_label": "'About SR26 billion' as reported 6 Jul 2026",
+   "period_type": "point_in_time",
+   "scope": "Segment: real estate (development and income funds incl. listed REITs)",
+   "definition": "Real estate assets under management (Arab News label); company target SAR 50bn within five years",
+   "status": "Requires verification",
+   "source_ids": [
+    "S16"
+   ],
+   "locator": "Article text",
+   "note": "Secondary news source; as-of date not stated in the article. A search summary dated the figure to May 2026 (from a company LinkedIn post and an Asharq Bloomberg interview, not opened)."
+  },
+  {
+   "metric": "trading_orders_executed",
+   "value": 302465,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group (dealing services to investment management clients)",
+   "definition": "Trading orders executed ('over 302,465'); negotiated deals worth more than SAR 4.98bn in aggregate. Total trading value not disclosed.",
+   "status": "Verified",
+   "source_ids": [
+    "S1"
+   ],
+   "locator": "PDF p.24 (Dealing)",
+   "note": "Not a brokerage-client metric; no client or account counts disclosed."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "customers",
+   "status": "Not publicly disclosed",
+   "where_checked": "FY2025 annual report (S1), overview page (S2), homepage (S8), press release of 14 Jan 2026 (S13), Argaam interview 2024 (S15). Only research subscriptions (7,652) and client-asset totals are given."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "FY2025 annual report (S1) and brokerage page (S9): no app-user, account or investing-client count."
+  },
+  {
+   "metric": "employees",
+   "status": "Not publicly disclosed",
+   "where_checked": "FY2025 annual report (S1) and official pages (S2, S3): no headcount found. A LinkedIn company snippet in search results shows a '51-200' band, not used."
+  },
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "FY2025 annual report (S1 p.33: securities custody is licensed but 'not among the firm's main activities'); no custody/administration figure found."
+  },
+  {
+   "metric": "customer_deposits",
+   "status": "Not publicly disclosed",
+   "where_checked": "Not applicable: non-bank asset manager with no deposit-taking (S1 statement of financial position, PDF p.39)."
+  },
+  {
+   "metric": "interim_financials_2026",
+   "status": "Not found after research",
+   "where_checked": "Annual reports page (S1 listing), announcements page (S14): only the REIT funds publish interim statements; no H1 2026 or Q3 2026 statements for Jadwa Investment Company found."
+  }
+ ],
+ "people": [
+  {
+   "name": "Adib Alzamil",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Board",
+   "scope": "Group",
+   "appointed": "2013-02",
+   "appointed_note": "Elected Chairman in February 2013, succeeding HRH Prince Faisal bin Salman (EMEA Finance, 27 Feb 2013, S32). Non-executive Chairman in the AR 2025 governance section; attended all four 2025 board meetings (S1 PDF p.28); signs the Chairman's statement (S1 p.17).",
+   "previous_roles": "CEO and board member, Zamil Group (official bio, S4); earlier Managing Director of Finance & Investment, Zamil Group (the post he held in 2013, S32); Managing Director, Zamil Industrial Investment Company; Managing Director, Zamil Air Conditioners (S4; years not given). Current other roles: Chairman, United Carton Industries Co.; Chairman, Fajr Capital; board member, Zamil Industrial Investment Company and Zamil Group Holding Company (S4); board member, Sanabil Investment (S1 PDF p.29). In 2013 he also sat on the boards of Bank Albilad, Methanol Chemical Company and Dana Gas (S32; current status not verified).",
+   "education": "Bachelor's degree, Business Administration, Portland State University (USA)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Board of Directors page checked 2026-10-12 (S4); AR 2025 board list, 2025 meetings table and other-memberships table (S1 PDF pp.7, 28-29) and Chairman's statement (S1 p.17); 2013 appointment notice (S32). English and Arabic searches for 2026 Jadwa board or CEO changes found none.",
+   "source_ids": [
+    "S4",
+    "S1",
+    "S32"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulaziz Alsubeaei",
+   "name_ar": null,
+   "title": "Vice Chairman",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Board",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found. Non-executive Vice Chairman in the AR 2025 governance section; chairs the Compliance Committee and sits on the Remuneration and Nomination Committee; attended all four 2025 board meetings (S1 PDF pp.28, 30).",
+   "previous_roles": "Board and Executive Committee member, Mohammed Alsubeaei & Sons Investment Company (MASIC) (S4). Current other roles (S4; S1 PDF p.29): board member, Fajr Capital; Chairman, MASIC Logistics (Mawref Logistics Solutions); Vice Chairman, Saudi Mechanical Industries Co.; Chairman, THARA Investment Company, AID Medical, TATRA Global, Almalfa Tourism Company and MeemAin for Education; board member of about a dozen further companies and public bodies listed in the AR 2025 (including Farabi Petrochemicals, Alimony Fund, Imam Saud ibn Abdulaziz Reserve, Real Estate General Authority, National Center for Family Business and the Saudi Centre for Commercial Arbitration).",
+   "education": "Bachelor's degree, Business Administration, King Saud University (KSA)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Board of Directors page checked 2026-10-12 (S4); AR 2025 board list, committee tables and other memberships (S1 PDF pp.7, 28-30).",
+   "source_ids": [
+    "S4",
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Tariq Al-Sudairy",
+   "name_ar": null,
+   "title": "Managing Director & CEO",
+   "functions": [
+    "CEO",
+    "Board"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2014-05",
+   "appointed_note": "Appointed Managing Director & CEO in May 2014, succeeding Ahmed Al Khateeb (TradeArabia, 11 May 2014, S33 — seen in search results only); joined Jadwa in 2011 (S3). Forbes Middle East also dates his leadership to 2014 (S19). Executive director on the Board; member of the Compliance, Investment and Remuneration & Nomination Committees; chairs the Executive Management Committee (S1 PDF pp.28, 30; S3).",
+   "previous_roles": "2014– Managing Director & CEO, Jadwa Investment; 2011–2014 Jadwa Investment, latterly Head of Private Equity and Investment Banking (S33, S35); before 2011 Senior Vice President, Amwal AlKhaleej; Manager, McKinsey & Company; Consultant, Lexecon Inc. (S3; years not given). Current other roles: Chairman, Saudi Mechanical Industries Company; board member, Saudi Aramco Base Oil Company (Luberef); trustee, The Financial Academy; board member, Abdulrahman Al-Sudairy Foundation, Arena SNK Studios and Riyadh Schools (S3; S1 PDF p.29).",
+   "education": "MBA, Harvard Business School (USA); BA with honours, Economics, Williams College (USA)",
+   "qualifications": null,
+   "linkedin_url": "https://www.linkedin.com/in/tariq-al-sudairy-335233/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team and Board pages checked 2026-10-12 (S3, S4); AR 2025 lists him as executive director and he signs the CEO statement (S1 PDF pp.17-21, 28); quoted as CEO in the 14 Jan 2026 release (S13), the State Street MoU report of 3 Jun 2026 (S18) and Forbes Middle East Top 50 Asset Managers 2026 (S19). English and Arabic searches for 2026 CEO changes found none. LinkedIn search-result match (S23) kept from the original pass; no contrary evidence.",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S1",
+    "S13",
+    "S18",
+    "S19",
+    "S23",
+    "S33",
+    "S35"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ghannam Al-Ghannam",
+   "name_ar": null,
+   "title": "Head of Private and Institutional Client Investments",
+   "functions": [
+    "Wealth",
+    "Private banking"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Private and Institutional Client Investments",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Jadwa in 2012 (S3); date of appointment as head not found. Held this title in the Jun 2024 Argaam interview (S15) and on the Management Team page in Oct 2026 (S3).",
+   "previous_roles": "2012– Jadwa Investment, now Head of Private and Institutional Client Investments (client relationship development and servicing across all offices; Executive Management Committee member); before 2012 Senior Investment Advisor for private clients, HSBC Saudi Arabia (S3; years not given).",
+   "education": "MIS (master's), Ohio University (USA); bachelor's degree, University of Toledo (USA)",
+   "qualifications": "Certified financial planner (per the official bio; awarding body not stated)",
+   "linkedin_url": "https://www.linkedin.com/in/ghannam-al-ghannam-4361a596/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team page checked 2026-10-12 (S3); Argaam interview 9 Jun 2024 (S15). LinkedIn search-result match (S25) kept from the original pass. Institution-level searches found no 2025–2026 change in this post.",
+   "source_ids": [
+    "S3",
+    "S15",
+    "S25"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faisal Al-Rayes",
+   "name_ar": null,
+   "title": "Head of Asset Management and Chief Investment Officer",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Asset Management",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Jadwa in 2010 (S3); date of appointment as head not found. A 2015 article names Zaheeruddin Khalid as head of asset management and CIO (S20), so the current holder took the role after 2015. Annual reports carry no executive roster.",
+   "previous_roles": "2010– Jadwa Investment, now Head of Asset Management and Chief Investment Officer (funds and portfolios across public equity, fixed income, money market and multi-asset; Executive Management Committee member); before 2010 Research Analyst, Gabelli Asset Management; Investment Analyst, General Organization for Social Insurance (GOSI) (S3; years not given).",
+   "education": "MS Investment Management, Cass Business School, City University London (UK); Bachelor's degree, Business Administration, University of Oregon (USA)",
+   "qualifications": "CFA charterholder",
+   "linkedin_url": "https://www.linkedin.com/in/faisal-alrayes-cfa-a2703569/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team page checked 2026-10-12 (S3). LinkedIn search-result match (S24) kept from the original pass (snippet shows Jadwa Investment and Cass Business School, no title). No 2025–2026 change news found in institution-level searches.",
+   "source_ids": [
+    "S3",
+    "S24",
+    "S20"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Al Zouman",
+   "name_ar": null,
+   "title": "Managing Director, Multi-Asset Solutions",
+   "functions": [
+    "Wealth",
+    "Investments / asset management"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Multi-Asset Solutions",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Euromoney's award write-up of 17 Jun 2026 (S17) describes his recruitment as Managing Director, Multi-Asset Solutions as part of the firm's 2025 talent build-out; start date not found. No Jadwa release found; the Management Team page lists Executive Management Committee members only (S3).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Named with this title only in Euromoney, 17 Jun 2026 (S17, opened). Not on the official Management Team page (S3) or in the AR 2025 governance section (S1), neither of which lists managing directors below the committee level. A role-based search on 2026-10-12 returned no official source. A LinkedIn search result for an 'Abdullah Al Zouman, CWM' at Jadwa shows no title, so it was not matched.",
+   "source_ids": [
+    "S17",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ghanem Al-Ghanem",
+   "name_ar": null,
+   "title": "Head of Investment Advisory",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Investment Advisory",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Jadwa in 2016 (as an associate, per Arab News, S34); date of appointment as head not found. Arab News (Jan 2022) titled him 'managing director and head of investment advisory services'; the official page uses 'Head of Investment Advisory' (S3).",
+   "previous_roles": "2016– Jadwa Investment, now Head of Investment Advisory (investment advisory services for institutions, endowments and family offices; Executive Management Committee member); before 2016 Investment Analyst, Saudi Arabian Monetary Authority (SAMA); Financial Analyst, KPMG (S3; S34; years not given). Current other roles: board member, CFA Society Saudi Arabia (S34, search result only).",
+   "education": "MBA and MS, Drexel University (USA); Advanced Certificate in Portfolio Management, New York University (USA); Bachelor's degree, Quantitative Methods, King Saud University (KSA)",
+   "qualifications": "CFA charterholder; Financial Risk Manager (FRM)",
+   "linkedin_url": "https://www.linkedin.com/in/ghanem-alghanem-cfa-frm-a617b240/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team page checked 2026-10-12 (S3); Arab News Who's Who, Jan 2022 (S34, search result only). LinkedIn search-result match (S28) kept from the original pass.",
+   "source_ids": [
+    "S3",
+    "S28",
+    "S34"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Haitham Al-Ghannam",
+   "name_ar": null,
+   "title": "Head of Real Estate and Alternative Investments",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Real Estate and Alternative Investments",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Jadwa in 2014 (S3); date of appointment as head not found. Page header reads 'Head of Real Estate and Alternative Investments'; the bio text says 'Head of Real Estate and Alternatives' (S3).",
+   "previous_roles": "2014– Jadwa Investment, now Head of Real Estate and Alternative Investments (private real estate funds, listed REIT funds and private credit offerings; Executive Management Committee member); before 2014 Head of Product Development, Asset Management, Swicorp (S3; years not given). A dedicated Managing Director & Head of Private Credit (Fidaa Haddad) is named from Jan 2026 (S13).",
+   "education": "MBA, Esade Business School (Spain); bachelor's degree, King Saud University (KSA)",
+   "qualifications": "CFA charterholder",
+   "linkedin_url": "https://www.linkedin.com/in/haithamalghannam/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team page checked 2026-10-12 (S3); quoted with this title in Arab News, 6 Jul 2026 (S16). LinkedIn search-result match (S26) kept from the original pass.",
+   "source_ids": [
+    "S3",
+    "S16",
+    "S26"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Elie Elkhoury",
+   "name_ar": null,
+   "title": "Head of Private Equity",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Private Equity",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Jadwa in 2013 (S3); date of appointment as head not found. The LinkedIn search result (S27) titles him Managing Director, Private Equity; the official page uses 'Head of Private Equity'.",
+   "previous_roles": "2013– Jadwa Investment, now Head of Private Equity (private equity and mezzanine financing, plus investment banking advisory on IPO, M&A and privatisation mandates; Executive Management Committee member); before 2013 Vice President, Investment Banking, Citigroup Global Markets Limited (S3; years not given).",
+   "education": "MBA, Finance and Strategy, ESSEC Business School (France); Bachelor's degree, Civil Engineering, American University of Beirut (Lebanon)",
+   "qualifications": null,
+   "linkedin_url": "https://www.linkedin.com/in/elie-elkhoury-87b78219/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team page checked 2026-10-12 (S3). LinkedIn search-result match (S27) kept from the original pass.",
+   "source_ids": [
+    "S3",
+    "S27"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Fidaa Haddad",
+   "name_ar": null,
+   "title": "Managing Director & Head of Private Credit",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Private Credit",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Euromoney (17 Jun 2026, S17) lists the recruitment as Managing Director and Head of Private Credit among the firm's 2025 hires; quoted with the title in Jadwa's release of 14 Jan 2026 (S13). Start date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted with this title in Jadwa's own press release of 14 Jan 2026 (S13) and named in Euromoney, 17 Jun 2026 (S17). Not on the official Management Team page (S3), which lists Executive Management Committee members only. Role-based search on 2026-10-12 found January 2026 coverage (Gulf News, Business Wire, Enterprise AM) using the same title and no later change. LinkedIn: no matching profile seen.",
+   "source_ids": [
+    "S13",
+    "S17",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Al-Eisa",
+   "name_ar": null,
+   "title": "Chief Operating Officer",
+   "functions": [
+    "Operations",
+    "Technology",
+    "Brokerage"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Operations",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Jadwa in 2007 (S3); date of appointment as COO not found.",
+   "previous_roles": "2007– Jadwa Investment, Chief Operating Officer (administration and premises, brokerage, information technology and investment operations; Executive Management Committee member); before 2007 General Manager of Remote Banking, Bank Albilad; General Manager, Jeel Internet Solutions; National Technology Group; Saudi Arabian Monetary Agency (SAMA) (S3; years not given).",
+   "education": "Bachelor's degree, King Saud University (KSA)",
+   "qualifications": "Certified Information Systems Auditor (CISA)",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team page checked 2026-10-12 (S3). A LinkedIn search result for an 'Abdullah Aleisa' at Jadwa shows a different university (University of Detroit Mercy) and was not used.",
+   "source_ids": [
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Al Kharsan",
+   "name_ar": null,
+   "title": "Head of Brokerage and Administration (per LinkedIn search snippet)",
+   "functions": [
+    "Brokerage",
+    "Operations"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Brokerage and Administration",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": "https://www.linkedin.com/in/abdullah-al-kharsan-b3221219/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Requires verification",
+   "role_evidence": "Only evidence is a LinkedIn search result titled 'Abdullah Al Kharsan - Head of Brokerage and Administration - Jadwa Investment' (S29). Not on any official page: the Management Team page says the COO oversees brokerage (S3), and the 2024 organisation chart shows no separate brokerage head (S21). A role-based search ('Jadwa Investment' 'Head of Brokerage') on 2026-10-12 returned no official or news source. Identity matched (name, employer, title); the title may be outdated.",
+   "source_ids": [
+    "S29",
+    "S3",
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Amer Afiouni",
+   "name_ar": null,
+   "title": "Chief Strategy Officer and Head of International Investments and Partnerships",
+   "functions": [
+    "Strategy",
+    "Innovation / partnerships"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Strategy; International Investments and Partnerships",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Jadwa in 2015 (S3); date of appointment as CSO not found. 'International Investments & Partnerships' is listed as a department in the AR 2025 internal-audit scope (S1 PDF p.33).",
+   "previous_roles": "2015– Jadwa Investment, Chief Strategy Officer and Head of International Investments and Partnerships (strategic initiatives, business growth and capability building; Executive Management Committee member); before 2015 Partner, McKinsey & Company; Managing Partner, CDC Systems Middle East; IT consultant, Compagnie Generale d'Informatique and IBM companies (S3; years not given).",
+   "education": "MBA, INSEAD (France); bachelor's degrees, Ecole Polytechnique (as stated in the official bio)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team page checked 2026-10-12 (S3); AR 2025 (S1 PDF p.33). No change news found in institution-level searches.",
+   "source_ids": [
+    "S3",
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Farhan Hussain",
+   "name_ar": null,
+   "title": "Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Finance",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Jadwa in 2009 (S3); date of appointment as CFO not found. A 2014 note reports Abdulaziz Al-Arifi appointed CFO that year (search result only, not opened), so the current holder took the post later.",
+   "previous_roles": "2009– Jadwa Investment, Chief Financial Officer (financial reporting, budgeting, balance-sheet investment and liquidity management; Executive Management Committee member); before 2009 Finance and Treasury Manager, Amlak Finance; Senior Engagement Auditor, Ernst & Young; Assistant Manager, Deloitte & Touche (S3; years not given).",
+   "education": "Bachelor's degree, University of Karachi (Pakistan)",
+   "qualifications": "Cost and Management Accountant (UK); Chartered Accountant (Pakistan); Certified Islamic Public Accountant (AAOIFI, Bahrain) — as listed in the official bio",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team page checked 2026-10-12 (S3).",
+   "source_ids": [
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Bader Al-Omar",
+   "name_ar": null,
+   "title": "Head of Shariah Compliance",
+   "functions": [
+    "Islamic / Shariah"
+   ],
+   "entity": "Jadwa Investment Company",
+   "business_unit": "Shariah Compliance",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Jadwa in 2008 (S3). Member of the Shariah Board (S5; S1 PDF p.36). Titled 'Head of the Shariah Group' in the 2019 annual report (S36).",
+   "previous_roles": "2008– Jadwa Investment, Head of Shariah Compliance (Shariah control and research; Executive Management Committee member; Shariah Board member); before 2008 Head of Shariah Audit, Al Rajhi Bank (S3; years not given).",
+   "education": "Master's degree, Law, Dar Al Uloom University (KSA); bachelor's degree, Imam Muhammad bin Saud Islamic University (KSA)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Management Team and Shariah Board pages checked 2026-10-12 (S3, S5); AR 2025 Shariah Board listing (S1 PDF p.36); AR 2019 (S36).",
+   "source_ids": [
+    "S3",
+    "S5",
+    "S1",
+    "S36"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Jadwa is a CMA-licensed, wholly Shariah-compliant manufacturer of investment products. At 31 Dec 2025 it had SAR 100.99bn of AUM plus SAR 17.26bn under advisement (SAR 118.24bn in total). Clients are mainly government entities, institutions, family offices and endowments, with 'private wealth investors' served by a Private and Institutional Client Investments unit that uses relationship managers, a client service call centre (added 2025), a web portal and a mobile app. The shelf is its own: public equity, sukuk and money-market funds, segregated mandates, multi-asset funds (2023) with a multi-asset discretionary account and fund platform, private equity, real estate and private credit blind-pool funds, and multi-manager funds that use third-party managers. The 2025 annual report states a goal of broadening client reach through partnerships with commercial banks and fintech platforms, without naming them.",
+  "segments": [
+   {
+    "name": "Private wealth investors",
+    "tier": "HNW",
+    "eligibility": "No published minimum or wealth threshold; served through the Private and Institutional Client Investments unit and relationship managers",
+    "source_ids": [
+     "S1",
+     "S3",
+     "S9"
+    ]
+   },
+   {
+    "name": "Qualified investors (multi-asset and private funds)",
+    "tier": "HNW",
+    "eligibility": "'Investors: Qualified' on the Saudi Concentrated Balanced/Growth and Global Balanced/Growth multi-asset funds; threshold not published",
+    "source_ids": [
+     "S11"
+    ]
+   },
+   {
+    "name": "Institutional, government-related entities, family offices and endowments",
+    "tier": "Institutional",
+    "eligibility": "Advisory and fiduciary mandates (SAR 17.26bn advisory; SAR 10.14bn fiduciary mandates at Dec 2025)",
+    "source_ids": [
+     "S1",
+     "S10"
+    ]
+   }
   ],
-  "original_reconciliation": [],
-  "discrepancies": [
-    {"field": "Client assets / AUM headline figure", "detail": "Official pages show different undated totals: homepage 118.2bn 'client assets' (S8); overview AUM 100.9bn + advisement 17.3bn (S2); 'Our firm' page SAR 102.7bn 'under management and advisement' (S7); annual report 'more than 115 billion' on the profile page but 118.24bn in the statements and business overview (S1 p.6 vs p.17, p.22); press release 'more than SAR 110bn' (S13).", "source_ids": ["S1", "S2", "S7", "S8", "S13"], "resolution": "Used the annual report: AUM 100.99bn, advisement 17.26bn, total 118.24bn at 31 Dec 2025. The 102.7bn on the 'Our firm' page looks like an older year-end figure but is unverified."},
-    {"field": "FY2025 net income", "detail": "Statements show net income after zakat SAR 262,717,529; the CEO statement and highlights say 261.62m, which equals total comprehensive income after a SAR 1.1m remeasurement loss.", "source_ids": ["S1"], "resolution": "Recorded SAR 262,717,529 as net_profit from the income statement."},
-    {"field": "Total revenue FY2025", "detail": "Narrative 'total revenues of 762.17 million' vs statement 'Total operating income' SAR 761,057,154 (762.17m is probably operating income plus other income, 0.67m + 0.44m, plus rounding; not reconciled).", "source_ids": ["S1"], "resolution": "Recorded the statement line as operating_income."},
-    {"field": "CEO tenure", "detail": "Jadwa bio says Tariq Al-Sudairy joined in 2011; Forbes Middle East says he has led Jadwa since 2014.", "source_ids": ["S3", "S19"], "resolution": "Recorded 2014 as the CEO start with the note; no conflict on the current role."},
-    {"field": "Abdullah Al-Eisa title", "detail": "A third-party search summary listed 'Abdullah Al Eisa' as Head of Treasury in a 2025 aggregator profile, while Jadwa's page lists him as COO.", "source_ids": ["S3"], "resolution": "Used the official page (COO); the aggregator was not opened or cited."}
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Not a bank. A Private and Institutional Client Investments unit (head: Ghannam Al-Ghannam) handles client relationship development and servicing across all offices; clients include private wealth investors, dedicated relationship managers and, since 2025, a dedicated client service call centre and an upgraded coverage model. No wealth tiers or minimums published.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S9"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Core business. AUM SAR 100.99bn at 31 Dec 2025 (public markets AUM SAR 66.2bn). Moody's reaffirmed its MQ1 investment-manager quality rating (highest on its scale) per the annual report. In 2025 all Saudi and GCC public equity strategies outperformed their benchmarks by 1.87 to 11.76 percentage points; Asset Manager of the Year at the Saudi Tadawul Group forum (company claim). Real estate AUM about SAR 26bn (Jul 2026, news). Private equity invested capital SAR 10.7bn and real estate invested capital SAR 34.2bn cumulative (company figures, annual report p.9).",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S16"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Jadwa is CMA-licensed for dealing and offers brokerage across Tadawul, ADX, DFM, NASDAQ Dubai, Bahrain Bourse, Boursa Kuwait, Muscat and Qatar exchanges via phone, web portal and mobile app, plus IPO and rights-issue subscription on Tadawul. Direct online trading is described for Tadawul. In 2025 it executed over 302,465 orders and negotiated deals above SAR 4.98bn, mainly for its investment management clients. Core trading system and omnibus account were upgraded in 2025 (vendor not named). Overseen by the COO.",
+   "source_ids": [
+    "S9",
+    "S1",
+    "S15",
+    "S3"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Corporate website, online account opening, web portal, mobile app, online subscription platform and online KYC update were unveiled over 2022-2024; 2025 added online registration, open banking capabilities, instant IBAN verification, real-time deposits and real-time online FX rates and transfers. The app lets clients view investments, download statements, subscribe to and redeem funds, transfer money and trade on Tadawul in real time (Argaam, Jun 2024). Relationship managers remain the main service model. No app-user numbers published; platform vendor not named.",
+   "source_ids": [
+    "S1",
+    "S15",
+    "S9",
+    "S8"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Investment advisory practice for institutions, endowments, family offices and corporates: strategic asset allocation, investment policy, manager selection, operational set-up and monitoring; both non-discretionary and discretionary advisory. Advisory mandates SAR 17.26bn and fiduciary mandates SAR 10.14bn at Dec 2025; SAR 9.87bn of new and expanded mandates won in 2025. Best Performing Endowment Fund award from the General Authority of Awqaf (company claim). Also advisory on investment banking (IPO, M&A, privatisation) but 'not among the firm's main activities'.",
+   "source_ids": [
+    "S1",
+    "S10",
+    "S3"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "Segregated mandates (DPMs) in sukuk/fixed income and public equity; a Shariah-compliant fiduciary platform with access to external fund managers; and a multi-asset discretionary account and fund platform offering tailored asset allocation, priority allocation to Jadwa funds and reduced investment minimums (annual report). Fiduciary management mandates SAR 10.14bn at Dec 2025.",
+   "source_ids": [
+    "S1",
+    "S10",
+    "S11"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Unclear",
+   "detail": "No robo-advisor or digital model-portfolio service found. Equivalent risk-profile products exist as fund wrappers: Global and Saudi Concentrated Conservative, Balanced and Growth multi-asset funds (launched 2023; Balanced/Growth restricted to qualified investors), plus the multi-asset discretionary account and fund platform.",
+   "source_ids": [
+    "S11",
+    "S1"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Multi-manager and multi-asset funds that invest through external managers across liquid and illiquid assets (portfolio SAR 12.57bn at Dec 2025): e.g. Developed Markets Passive Equity (2020), Emerging Markets Quantitative Equity (2020), International Sukuk Fund (2020), Multi-Manager International Private Equity Fund (2021), International Structured Credit Fund (2020). These are Jadwa-branded wrappers over third-party managers. No open third-party funds shelf or platform provider found. A 2015 Allfunds distribution agreement exists for offshore distribution of Jadwa funds (historical).",
+   "source_ids": [
+    "S10",
+    "S1",
+    "S20"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "No structured notes or capital-protected products found in the annual report or product pages. 'Structured corporate credit' (Jadwa International Structured Credit Fund) is a private credit fund, not a structured product.",
+   "source_ids": [
+    "S1",
+    "S12"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "Private equity: Jadwa GCC Diversified Private Equity Fund (first regional blind-pool, SAR 1.3bn after second close in 2025; third close expected H1 2026), Jadwa GCC Private Equity Fund I, international PE co-investment funds (Co-investment Fund 3 now 9% deployed in 14 investments). Real estate: 26 funds active in 2025, two new local funds (SAR 960m), up to SAR 10bn of Makkah development funds announced Jul 2026. Private credit: Jadwa GCC Diversified Private Credit Fund (target up to SAR 750m, first close over SAR 300m, announced 14 Jan 2026; offered to institutional and private wealth investors), mezzanine murabaha funds, international structured credit and real-asset debt funds. 13 PE and private credit blind-pool funds launched to date.",
+   "source_ids": [
+    "S1",
+    "S13",
+    "S16",
+    "S12",
+    "S31"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Whole firm is Shariah-compliant. Shariah Board: Dr Abdullah Al-Mutlaq (Chairman), Dr Mohamed Elgari, Bader Al-Omar, Dr Ahmed Al-Gaidy; in-house Shariah compliance team ran 110 research studies in 2025. Euromoney named it Middle East's best Islamic fund manager 2026 (company and press claim). Sukuk funds, murabaha/liquidity funds, Shariah-compliant REITs.",
+   "source_ids": [
+    "S5",
+    "S1",
+    "S17",
+    "S6"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "US/international equities",
+   "Mutual funds",
+   "Money market funds",
+   "Sukuk",
+   "Private markets / alternatives",
+   "Private credit",
+   "Real estate funds",
+   "Listed REITs"
   ],
-  "open_items": [
-    "Shareholders and percentages not disclosed: the annual report says 100% Saudi-owned after a 2022 buy-back of 10% from 'the sole foreign investor' (not named). Search results mention a 2008 Khazanah Nasional announcement of a 10% stake; the link to the 2022 buy-back is unconfirmed. Check the Ministry of Commerce register or CMA filings.",
-    "CMA register not checked: cma.gov.sa returned 'The requested URL was rejected' (bot protection, not bypassed). Licence 06034-37 and activities are from Jadwa's own corporate information page (S6) and the annual report. DFSA public register for Jadwa Investment (DIFC) Limited not checked.",
-    "Business Wire copy of the 14 Jan 2026 release returned 403; the jadwa.com copy was used (S13).",
-    "No 30 Jun 2026 or 30 Sep 2026 financial statements for Jadwa Investment Company found; the FY2025 audited statements are the latest. Auditor name not extracted. The Pillar III 2025 disclosure PDF (https://www.jadwa.com/sites/default/files/2026-03/Jadwa_Pillar-3%202025%20En%20for%20website.pdf) was downloaded but not used for metrics.",
-    "No technology or wealth-platform vendor named anywhere (app, web portal, core trading system, omnibus account). No Head of Digital identified; the 2024 org chart (S21) shows none and the COO oversees IT and brokerage.",
-    "A LinkedIn search result titled 'Jad Desphy - CEO - Jadwa Investment' appeared repeatedly. It was not corroborated by any official or news source, which name Tariq Al-Sudairy as Managing Director & CEO; probably an unrelated or stale profile. Not recorded as a person.",
-    "LinkedIn not verified for Abdullah Al-Eisa, Abdullah Al Zouman and Fidaa Haddad; not checked for Alzamil, Alsubeaei, Afiouni, Hussain and Al-Omar. Abdullah Al Kharsan's title (Head of Brokerage and Administration) rests on a search snippet only.",
-    "Abdullah Al Zouman (MD, Multi-Asset Solutions) and Fidaa Haddad (MD, Head of Private Credit) are not on the official Management Team page; Haddad is confirmed by Jadwa's own Jan 2026 release.",
-    "Named distribution partners (banks, fintechs) behind the 'partnerships with commercial banks and fintech platforms' statement were not found; the 2015 Allfunds agreement has no current-status evidence. Argaam interview (Jun 2024) mentions in-person service by relationship managers; no app-user figures.",
-    "Real estate AUM of about SAR 26bn rests on Arab News (6 Jul 2026), with no stated as-of date; the Jadwa LinkedIn post and Asharq Bloomberg interview behind it were not opened.",
-    "Jadwa has not published a regulated fund-distribution or retail-platform channel list; whether public funds are sold through third-party banks was not found."
+  "partners": [
+   {
+    "partner": "State Street",
+    "kind": "Asset servicing / custody (Oman)",
+    "what": "MoU signed at the Oman Capital Market Conference to develop services for institutional clients in Oman, focused on asset servicing and global custody, plus training and thought leadership",
+    "date": "2026-06-01",
+    "status": "MoU / pilot",
+    "source_ids": [
+     "S18"
+    ]
+   },
+   {
+    "partner": "Lendo and JeelPay",
+    "kind": "Fintech borrower platforms (private credit)",
+    "what": "Jadwa GCC Diversified Private Credit Fund provides financing against loan books originated by Lendo (short-term corporate digital lending) and JeelPay (study-now-pay-later)",
+    "date": "2026-01-14",
+    "status": "Live",
+    "source_ids": [
+     "S13",
+     "S1"
+    ]
+   },
+   {
+    "partner": "Zood Real Estate, Mohammad Al-Habib Holding, First Avenue Real Estate Development, Al-Majdiah, Rikaz",
+    "kind": "Real estate development partners",
+    "what": "Partners in two Makkah real estate development funds worth up to SAR 10bn combined",
+    "date": "2026-07-06",
+    "status": "Announced",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "partner": "Commercial banks and fintech platforms (not named)",
+    "kind": "Distribution / client reach",
+    "what": "Annual report says the firm continued to expand its network of partnerships with commercial banks and fintech platforms to broaden client reach; no named partners found",
+    "date": "2025",
+    "status": "Unclear",
+    "source_ids": [
+     "S1"
+    ]
+   },
+   {
+    "partner": "Allfunds Bank",
+    "kind": "International fund distribution platform",
+    "what": "Distribution agreement to offer Jadwa Shariah-compliant public equity and fixed income funds in Allfunds' 33-country network; 2015 article, current status not verified",
+    "date": "2015-09-14",
+    "status": "Unclear",
+    "source_ids": [
+     "S20"
+    ]
+   },
+   {
+    "partner": "Jada Fund of Funds",
+    "kind": "Institutional investor in a Jadwa fund",
+    "what": "Search-result summary says Jada invested in Jadwa GCC Private Equity Fund I (fund target SAR 1.5bn, hard cap SAR 2.0bn); page not opened",
+    "date": "2024-12",
+    "status": "Announced",
+    "source_ids": [
+     "S30"
+    ]
+   }
   ],
-  "research_status": "Complete",
-  "researched_by": "B18",
-  "checked": "2026-10-12"
+  "initiatives": [
+   {
+    "date": "2025",
+    "what": "Moved head office to Laysen Valley, Riyadh; introduced a dedicated client service call centre and upgraded client coverage model",
+    "source_ids": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Launched Jadwa Developed Markets Core Equity Fund (second active developed-markets equity strategy); multi-asset discretionary and fund platform enhanced",
+    "source_ids": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Digital client interface enhancements: online registration, open banking capabilities, instant IBAN verification, real-time deposits, online FX rates and transfers; core trading system and omnibus account upgraded (35 additional processes automated)",
+    "source_ids": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Second close of Jadwa GCC Diversified Private Equity Fund to SAR 1.3bn; two more investments (Makhazen Alenaya majority stake, PetroApp minority stake); fund 57% deployed across five investments",
+    "source_ids": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Launched Jadwa Al-Khair and Jadwa Al-Majdiah Real Estate Fund 3 (SAR 960m aggregate commitments); eight funds completed 28 acquisitions worth SAR 2.34bn",
+    "source_ids": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2025-12-31",
+    "what": "AUM crossed SAR 100bn for the first time (SAR 100.99bn, +18.34%); SAR 9.87bn of new advisory and fiduciary mandates",
+    "source_ids": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2026-01-14",
+    "what": "Launched Jadwa GCC Diversified Private Credit Fund (target up to SAR 750m; first close over SAR 300m), first regional blind-pool private credit vehicle, for institutional and private wealth investors",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2026-06-01",
+    "what": "Signed MoU with State Street on asset servicing and global custody for institutional clients in Oman",
+    "source_ids": [
+     "S18"
+    ]
+   },
+   {
+    "date": "2026-06-17",
+    "what": "Euromoney named Jadwa Middle East's best Islamic fund manager 2026; article lists 12 real estate funds launched, Managed Volatility and Core Equity developed-markets strategies and new private credit and multi-asset hires",
+    "source_ids": [
+     "S17"
+    ]
+   },
+   {
+    "date": "2026-07-06",
+    "what": "Announced two Makkah real estate development funds worth up to SAR 10bn; real estate AUM about SAR 26bn with a SAR 50bn five-year target",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "date": "2026-08-17",
+    "what": "Q2 2026 dividends announced for Jadwa REIT Saudi Fund and Jadwa REIT Al Haramain Fund; H1 2026 REIT statements published 11 Aug 2026",
+    "source_ids": [
+     "S14"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "States a strategy of expanding partnerships with commercial banks and fintech platforms to broaden client reach, with no partners named (FY2025 annual report, S1 p.21).",
+    "Wants private wealth clients to diversify through blind-pool PE and private credit funds and says multi-asset offerings carry reduced minimums; 13 blind-pool funds launched, including the Jan 2026 private credit fund aimed at private wealth investors (S1, S13).",
+    "Uses third-party GPs and managers for international exposure (multi-manager and co-investment funds, SAR 12.57bn at Dec 2025), which shows an existing sourcing model for outside alternatives and funds (S10, S1).",
+    "No robo-advisor, model-portfolio app or structured-products offering found; digital channel is a client portal and app for its own funds and Tadawul trading (S1, S9, S15).",
+    "Growth intent in real estate (SAR 26bn to SAR 50bn target) and private credit points to a larger own-product shelf that needs distribution (S16, S13)."
+   ],
+   "barriers": [
+    "Shariah-only manufacturer: any partner product would need Shariah Board approval, and the firm's own funds dominate the shelf (S5, S1, S6).",
+    "Built and iterated its own digital stack (web portal, app, online account opening, KYC, subscription platform) in 2022-2025 and upgraded its core trading system in 2025 (S1).",
+    "Relationship-manager led, institution-weighted client base; no published wealth tiers, client numbers or retail digital onboarding metrics (S1, S3).",
+    "Not a bank: no deposits, and securities custody is licensed but not a main activity, so it may rely on third parties for custody and asset servicing (S1 p.33, S18)."
+   ],
+   "incumbent_vendors": []
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Jadwa Investment Annual Report 2025 (incl. audited consolidated financial statements)",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/sites/default/files/2026-05/Jadwa-Annual-Report-V6.5.1-27APR_EN-WEB.pdf",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": "2026-05",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "PDF opened and text-extracted (60 pages); page numbers are PDF pages. File sits in the May 2026 upload folder; file name indicates a 27 Apr version. People pass X08 used the corporate-governance section (PDF pp.28-31: board composition, 2025 meetings, other memberships, committee seats) and the Shariah Board page (PDF p.36)."
+  },
+  {
+   "id": "S2",
+   "title": "Overview (By the numbers)",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/overview",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated figures: AUM 100.9bn, advisement 17.3bn, 2025 value creation 4.3bn; licences CMA and DFSA."
+  },
+  {
+   "id": "S3",
+   "title": "Management Team",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/management-team",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S4",
+   "title": "Board of Directors",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/board-of-directors",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S5",
+   "title": "Shariah Board",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/shariah-board",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S6",
+   "title": "Corporate information (English)",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/corporate-information",
+   "doc_type": "Official regulatory/corporate information page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Incorporation 21 Aug 2006, CR 1010228782, paid-up capital SAR 1.000bn, CMA licence 06034-37 with activities listed. The Arabic version (https://www.jadwa.com/ar/corporate-information) was also opened and gives the Arabic name."
+  },
+  {
+   "id": "S7",
+   "title": "Our firm",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/our-firm",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Shows 'SAR 102.7 billion in client assets under management and advisement' (undated; conflicts with other pages, see discrepancies)."
+  },
+  {
+   "id": "S8",
+   "title": "Jadwa Investment homepage",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Shows '118.2 billion, Client assets' (undated)."
+  },
+  {
+   "id": "S9",
+   "title": "Brokerage",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/brokerage",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S10",
+   "title": "Investment advisory",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/investment-advisory",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S11",
+   "title": "Multi-asset offerings",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/multi-asset-offerings",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S12",
+   "title": "Private credit",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/private-credit",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S13",
+   "title": "Jadwa Investment Launches SAR 750m GCC-Focused Private Credit Fund",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/node/27469",
+   "doc_type": "Company press release",
+   "tier": 2,
+   "published": "2026-01-14",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened on jadwa.com. The Business Wire copy returned 403 and was not used."
+  },
+  {
+   "id": "S14",
+   "title": "Announcements (regulatory and fund notices)",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/announcements",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Latest items are REIT notices dated 11 and 17 Aug 2026; no Jadwa Investment Company interim statements listed."
+  },
+  {
+   "id": "S15",
+   "title": "Jadwa Investment to Argaam: More than SAR 85 billion in client assets.. and we have launched a new mobile app",
+   "publisher": "Argaam",
+   "url": "https://www.argaam.com/en/article/articledetail/id/1733590",
+   "doc_type": "News interview",
+   "tier": 5,
+   "published": "2024-06-09",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Interview with Ghannam Al-Ghannam; client assets 'more than SAR 85bn' at end of Q1 2024."
+  },
+  {
+   "id": "S16",
+   "title": "Jadwa, Ladun expand Makkah real estate ambitions with multibillion-dollar plans",
+   "publisher": "Arab News",
+   "url": "https://www.arabnews.com/node/2649831/business-economy",
+   "doc_type": "News",
+   "tier": 5,
+   "published": "2026-07-06",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S17",
+   "title": "Middle East's best Islamic fund manager 2026: Jadwa Investment",
+   "publisher": "Euromoney",
+   "url": "https://www.euromoney.com/article/d0wvntafg7c40gkcswo8804wk/banking/middle-easts-best-islamic-fund-manager-2026-jadwa-investment/",
+   "doc_type": "News / award feature",
+   "tier": 5,
+   "published": "2026-06-17",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S18",
+   "title": "State Street, Jadwa Investment collaborate to support growth of Oman's capital markets",
+   "publisher": "FX News Group",
+   "url": "https://fxnewsgroup.com/forex-news/institutional/state-street-jadwa-investment-collaborate-to-support-growth-of-omans-capital-markets/",
+   "doc_type": "News (company release)",
+   "tier": 5,
+   "published": "2026-06-03",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": null
+  },
+  {
+   "id": "S19",
+   "title": "Tariq Al-Sudairy - The Middle East's Top 50 Asset Managers 2026 (No. 6)",
+   "publisher": "Forbes Middle East",
+   "url": "https://www.forbesmiddleeast.com/lists/top-50-asset-managers-2026/tariq-al-sudairy/",
+   "doc_type": "News / ranking list",
+   "tier": 5,
+   "published": "2026-07-09",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Reports AUM of USD 25bn at end-2025 (+18%); not used as a metric because it is a converted figure."
+  },
+  {
+   "id": "S20",
+   "title": "Jadwa Investment signs distribution deal with Allfunds Bank",
+   "publisher": "Private Banker International",
+   "url": "https://www.privatebankerinternational.com/news/jadwa-investment-signs-distribution-deal-with-allfunds-bank-140915-4669465/",
+   "doc_type": "News",
+   "tier": 5,
+   "published": "2015-09-14",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Historical; names Zaheeruddin Khalid as then head of asset management and CIO."
+  },
+  {
+   "id": "S21",
+   "title": "Jadwa organizational structure 2024",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/themes/custom/jadwa/assets/pdf/JADWA%20l%20Org%20Structure%20l%202024-EN.pdf",
+   "doc_type": "Official organisation chart",
+   "tier": 2,
+   "published": "2024",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened to check for digital/technology leadership: no Head of Digital or Technology shown; units report to the CEO."
+  },
+  {
+   "id": "S22",
+   "title": "Jadwa Investment (LinkedIn company page)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/company/jadwainvestment",
+   "doc_type": "LinkedIn company page (search-result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only; the snippet matches Jadwa's official description. The official site does not link to it, so it is recorded as a search-result match."
+  },
+  {
+   "id": "S23",
+   "title": "Tariq Al-Sudairy - Jadwa Investment (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/tariq-al-sudairy-335233/",
+   "doc_type": "LinkedIn profile (search-result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  },
+  {
+   "id": "S24",
+   "title": "Faisal Alrayes, CFA - Jadwa Investment (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/faisal-alrayes-cfa-a2703569/",
+   "doc_type": "LinkedIn profile (search-result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only; snippet shows Jadwa Investment and Cass Business School."
+  },
+  {
+   "id": "S25",
+   "title": "Ghannam AL-Ghannam - Jadwa Investment (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/ghannam-al-ghannam-4361a596/",
+   "doc_type": "LinkedIn profile (search-result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  },
+  {
+   "id": "S26",
+   "title": "Haitham Alghannam, CFA - Jadwa Investment (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/haithamalghannam/",
+   "doc_type": "LinkedIn profile (search-result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  },
+  {
+   "id": "S27",
+   "title": "Elie Elkhoury - Managing Director, Private Equity - Jadwa Investment (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/elie-elkhoury-87b78219/",
+   "doc_type": "LinkedIn profile (search-result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  },
+  {
+   "id": "S28",
+   "title": "Ghanem Alghanem, CFA, FRM - Jadwa Investment (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/ghanem-alghanem-cfa-frm-a617b240/",
+   "doc_type": "LinkedIn profile (search-result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  },
+  {
+   "id": "S29",
+   "title": "Abdullah Al Kharsan - Head of Brokerage and Administration - Jadwa Investment (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/abdullah-al-kharsan-b3221219/",
+   "doc_type": "LinkedIn profile (search-result match)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  },
+  {
+   "id": "S30",
+   "title": "jadwa signing (Jada Fund of Funds)",
+   "publisher": "Jada Fund of Funds",
+   "url": "https://jada.com.sa/en/jadwa-signing",
+   "doc_type": "Company page (search result)",
+   "tier": 5,
+   "published": "2024-12",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only; page not opened. The date and fund details come from the search tool's summary."
+  },
+  {
+   "id": "S31",
+   "title": "Private equity",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/en/private-equity",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Notes the International PE Fund platform invests in partnership with leading international private equity firms."
+  },
+  {
+   "id": "S32",
+   "title": "Jadwa: Adib Alzamil (Appointments)",
+   "publisher": "EMEA Finance",
+   "url": "https://www.emeafinance.com/live/actual/appointments/2294-jadwa-adib-alzamil-1857",
+   "doc_type": "News — appointment notice",
+   "tier": 5,
+   "published": "2013-02-27",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened. Says Jadwa appointed Adib Alzamil chairman, replacing HRH Prince Faisal bin Salman; then MD Finance & Investments at Zamil Group and on the boards of Sanabil, Bank Albilad, Fajr Capital, Methanol Chemical Company and Dana Gas (2013)."
+  },
+  {
+   "id": "S33",
+   "title": "Jadwa Investment names new CEO",
+   "publisher": "TradeArabia",
+   "url": "https://www.tradearabia.com/news/BANK_257844.html",
+   "doc_type": "News — appointment notice",
+   "tier": 5,
+   "published": "2014-05-11",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only: the page returned the site's listing without the article text. Snippet: Tariq Al Sudairy appointed Managing Director & CEO replacing Ahmed Al Khateeb; previously head of private equity and investment banking at Jadwa."
+  },
+  {
+   "id": "S34",
+   "title": "Who's Who: Ghanem Al-Ghanem, managing director and head of investment advisory services at Jadwa Investment",
+   "publisher": "Arab News",
+   "url": "https://arabnews.com/node/2000616",
+   "doc_type": "News — executive profile",
+   "tier": 5,
+   "published": "2022-01-10",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page answered 403). Snippet: joined Jadwa as an associate in 2016; earlier SAMA and KPMG Saudi Arabia; part-time teaching; board member, CFA Society Saudi Arabia."
+  },
+  {
+   "id": "S35",
+   "title": "Jadwa Investment names new chief for private equity and investment banking",
+   "publisher": "Arab News",
+   "url": "https://www.arabnews.com/node/592846",
+   "doc_type": "News — appointment notice",
+   "tier": 5,
+   "published": "2014-06-27",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only. Snippet: Saad Al-Saif appointed Managing Director and Head of Private Equity and Investment Banking, the unit Tariq Al-Sudairy led before becoming CEO."
+  },
+  {
+   "id": "S36",
+   "title": "Jadwa Investment Annual Report 2019",
+   "publisher": "Jadwa Investment",
+   "url": "https://www.jadwa.com/sites/default/files/2021-12/20200330_Annual-Report-2019-EN-1.pdf",
+   "doc_type": "Annual report — Shariah Board listing",
+   "tier": 1,
+   "published": "2020-03",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened (PDF, 96 pages). Shariah Board page (PDF p.44) titles Bader Al-Omar 'Head of the Shariah Group' and Dr Ahmad Al-Gaidy 'Head of Shariah Research at Jadwa Investment'. No executive roster."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Client assets / AUM headline figure",
+   "detail": "Official pages show different undated totals: homepage 118.2bn 'client assets' (S8); overview AUM 100.9bn + advisement 17.3bn (S2); 'Our firm' page SAR 102.7bn 'under management and advisement' (S7); annual report 'more than 115 billion' on the profile page but 118.24bn in the statements and business overview (S1 p.6 vs p.17, p.22); press release 'more than SAR 110bn' (S13).",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S7",
+    "S8",
+    "S13"
+   ],
+   "resolution": "Used the annual report: AUM 100.99bn, advisement 17.26bn, total 118.24bn at 31 Dec 2025. The 102.7bn on the 'Our firm' page looks like an older year-end figure but is unverified."
+  },
+  {
+   "field": "FY2025 net income",
+   "detail": "Statements show net income after zakat SAR 262,717,529; the CEO statement and highlights say 261.62m, which equals total comprehensive income after a SAR 1.1m remeasurement loss.",
+   "source_ids": [
+    "S1"
+   ],
+   "resolution": "Recorded SAR 262,717,529 as net_profit from the income statement."
+  },
+  {
+   "field": "Total revenue FY2025",
+   "detail": "Narrative 'total revenues of 762.17 million' vs statement 'Total operating income' SAR 761,057,154 (762.17m is probably operating income plus other income, 0.67m + 0.44m, plus rounding; not reconciled).",
+   "source_ids": [
+    "S1"
+   ],
+   "resolution": "Recorded the statement line as operating_income."
+  },
+  {
+   "field": "CEO tenure",
+   "detail": "Jadwa bio says Tariq Al-Sudairy joined in 2011; Forbes Middle East says he has led Jadwa since 2014.",
+   "source_ids": [
+    "S3",
+    "S19"
+   ],
+   "resolution": "Recorded 2014 as the CEO start with the note; no conflict on the current role."
+  },
+  {
+   "field": "Abdullah Al-Eisa title",
+   "detail": "A third-party search summary listed 'Abdullah Al Eisa' as Head of Treasury in a 2025 aggregator profile, while Jadwa's page lists him as COO.",
+   "source_ids": [
+    "S3"
+   ],
+   "resolution": "Used the official page (COO); the aggregator was not opened or cited."
+  },
+  {
+   "field": "Board composition (Iqbal Khan)",
+   "detail": "The Board of Directors web page (S4, checked 2026-10-12) still lists Iqbal Khan as an Independent Director, while the AR 2025 governance section says he resigned in the third quarter of 2025 and that Dr Sadek Wahba joined in the fourth quarter of 2025 (S1 PDF p.28). The AR 2025 board page (p.7) shows eight members without Khan.",
+   "source_ids": [
+    "S4",
+    "S1"
+   ],
+   "resolution": "Used the annual report (tier 1): Khan is treated as departed from the board. He is not a person record in this file; the group_structure board list still names him and should be corrected centrally."
+  },
+  {
+   "field": "Ghanem Al-Ghanem title",
+   "detail": "Official page: 'Head of Investment Advisory' (S3). Arab News Who's Who, Jan 2022: 'managing director and head of investment advisory services' (S34, search result only). LinkedIn snippet carries no title (S28).",
+   "source_ids": [
+    "S3",
+    "S34"
+   ],
+   "resolution": "Used the official page title; the 'managing director' grade is noted in appointed_note."
+  }
+ ],
+ "open_items": [
+  "Shareholders and percentages not disclosed: the annual report says 100% Saudi-owned after a 2022 buy-back of 10% from 'the sole foreign investor' (not named). Search results mention a 2008 Khazanah Nasional announcement of a 10% stake; the link to the 2022 buy-back is unconfirmed. Check the Ministry of Commerce register or CMA filings.",
+  "CMA register not checked: cma.gov.sa returned 'The requested URL was rejected' (bot protection, not bypassed). Licence 06034-37 and activities are from Jadwa's own corporate information page (S6) and the annual report. DFSA public register for Jadwa Investment (DIFC) Limited not checked.",
+  "Business Wire copy of the 14 Jan 2026 release returned 403; the jadwa.com copy was used (S13).",
+  "No 30 Jun 2026 or 30 Sep 2026 financial statements for Jadwa Investment Company found; the FY2025 audited statements are the latest. Auditor name not extracted. The Pillar III 2025 disclosure PDF (https://www.jadwa.com/sites/default/files/2026-03/Jadwa_Pillar-3%202025%20En%20for%20website.pdf) was downloaded but not used for metrics.",
+  "No technology or wealth-platform vendor named anywhere (app, web portal, core trading system, omnibus account). No Head of Digital identified; the 2024 org chart (S21) shows none and the COO oversees IT and brokerage.",
+  "A LinkedIn search result titled 'Jad Desphy - CEO - Jadwa Investment' appeared repeatedly. It was not corroborated by any official or news source, which name Tariq Al-Sudairy as Managing Director & CEO; probably an unrelated or stale profile. Not recorded as a person.",
+  "LinkedIn (people pass X08, 2026-10-12): the seven search-result matches from the original pass were kept (Al-Sudairy, Ghannam Al-Ghannam, Al-Rayes, Ghanem Al-Ghanem, Haitham Al-Ghannam, Elkhoury, Al Kharsan); none newly verified — the search tool declines name-based look-ups and jadwa.com pages carry no LinkedIn links. Not verified: Al-Eisa, Al Zouman, Haddad. Not checked: Alzamil, Alsubeaei, Afiouni, Hussain, Al-Omar. Al Kharsan's title still rests on a search snippet only.",
+  "Abdullah Al Zouman (MD, Multi-Asset Solutions) and Fidaa Haddad (MD, Head of Private Credit) are not on the official Management Team page; Haddad is confirmed by Jadwa's own Jan 2026 release.",
+  "Named distribution partners (banks, fintechs) behind the 'partnerships with commercial banks and fintech platforms' statement were not found; the 2015 Allfunds agreement has no current-status evidence. Argaam interview (Jun 2024) mentions in-person service by relationship managers; no app-user figures.",
+  "Real estate AUM of about SAR 26bn rests on Arab News (6 Jul 2026), with no stated as-of date; the Jadwa LinkedIn post and Asharq Bloomberg interview behind it were not opened.",
+  "Jadwa has not published a regulated fund-distribution or retail-platform channel list; whether public funds are sold through third-party banks was not found.",
+  "People pass X08: Arab News Who's Who on Ghanem Al-Ghanem (S34) answered 403 and the TradeArabia 2014 CEO article (S33) returned no article text, so both are recorded from search snippets only.",
+  "People pass X08: the Board page (S4) still lists Iqbal Khan although AR 2025 records his Q3 2025 resignation and Dr Sadek Wahba's Q4 2025 arrival; the group_structure board list in this file should be updated centrally (not a people field).",
+  "People pass X08: appointment dates as head for the Executive Management Committee members (Al-Rayes, Ghannam Al-Ghannam, Ghanem Al-Ghanem, Haitham Al-Ghannam, Elkhoury, Al-Eisa, Afiouni, Hussain, Al-Omar) are not published; only joining years appear in the official bios, and the 2019–2025 annual reports carry no executive roster. Searches for 2025–2026 Jadwa appointment news (English and Arabic) returned only the Euromoney mention of the Haddad and Al Zouman hires."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B18",
+ "checked": "2026-10-12"
 }
