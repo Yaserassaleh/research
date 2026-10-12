@@ -1,0 +1,429 @@
+{
+ "batches": [
+  {
+   "batch": "X01",
+   "ids": [
+    "ae-ei",
+    "ae-enbd"
+   ],
+   "people": 24,
+   "decision_makers": 18
+  },
+  {
+   "batch": "X02",
+   "ids": [
+    "bh-kfhbahrain",
+    "kw-kfh"
+   ],
+   "people": 26,
+   "decision_makers": 21
+  },
+  {
+   "batch": "X03",
+   "ids": [
+    "ae-fab",
+    "qa-qnb"
+   ],
+   "people": 30,
+   "decision_makers": 20
+  },
+  {
+   "batch": "X04",
+   "ids": [
+    "qa-mar",
+    "ae-dib"
+   ],
+   "people": 30,
+   "decision_makers": 20
+  },
+  {
+   "batch": "X05",
+   "ids": [
+    "kw-markaz"
+   ],
+   "people": 16,
+   "decision_makers": 13
+  },
+  {
+   "batch": "X06",
+   "ids": [
+    "sa-albilad-capital",
+    "sa-albilad"
+   ],
+   "people": 21,
+   "decision_makers": 13
+  },
+  {
+   "batch": "X07",
+   "ids": [
+    "sa-aljazira-capital",
+    "sa-aljazira"
+   ],
+   "people": 27,
+   "decision_makers": 16
+  },
+  {
+   "batch": "X08",
+   "ids": [
+    "sa-jadwa",
+    "om-bankmuscat"
+   ],
+   "people": 31,
+   "decision_makers": 24
+  },
+  {
+   "batch": "X09",
+   "ids": [
+    "bh-gib"
+   ],
+   "people": 16,
+   "decision_makers": 11
+  },
+  {
+   "batch": "X10",
+   "ids": [
+    "kw-boubyan",
+    "kw-nbk"
+   ],
+   "people": 33,
+   "decision_makers": 25
+  },
+  {
+   "batch": "X11",
+   "ids": [
+    "ae-ajman",
+    "qa-qib",
+    "ae-adcb"
+   ],
+   "people": 27,
+   "decision_makers": 18
+  },
+  {
+   "batch": "X12",
+   "ids": [
+    "qa-cbq",
+    "ae-cbd"
+   ],
+   "people": 29,
+   "decision_makers": 17
+  },
+  {
+   "batch": "X13",
+   "ids": [
+    "ae-mashreq"
+   ],
+   "people": 15,
+   "decision_makers": 11
+  },
+  {
+   "batch": "X14",
+   "ids": [
+    "kw-burgan",
+    "kw-kamco"
+   ],
+   "people": 26,
+   "decision_makers": 17
+  },
+  {
+   "batch": "X15",
+   "ids": [
+    "om-nbo"
+   ],
+   "people": 12,
+   "decision_makers": 9
+  },
+  {
+   "batch": "X16",
+   "ids": [
+    "sa-alinma-capital",
+    "sa-alinma"
+   ],
+   "people": 29,
+   "decision_makers": 14
+  },
+  {
+   "batch": "X17",
+   "ids": [
+    "sa-anb-capital",
+    "sa-anb"
+   ],
+   "people": 32,
+   "decision_makers": 20
+  },
+  {
+   "batch": "X18",
+   "ids": [
+    "sa-bsf-capital",
+    "sa-bsf",
+    "qa-dukhan"
+   ],
+   "people": 30,
+   "decision_makers": 20
+  },
+  {
+   "batch": "X19",
+   "ids": [
+    "kw-kib"
+   ],
+   "people": 13,
+   "decision_makers": 9
+  },
+  {
+   "batch": "X20",
+   "ids": [
+    "sa-alrajhi-capital",
+    "sa-alrajhi"
+   ],
+   "people": 37,
+   "decision_makers": 20
+  },
+  {
+   "batch": "X21",
+   "ids": [
+    "om-bankdhofar"
+   ],
+   "people": 11,
+   "decision_makers": 8
+  },
+  {
+   "batch": "X22",
+   "ids": [
+    "sa-riyad-capital",
+    "sa-riyad"
+   ],
+   "people": 37,
+   "decision_makers": 18
+  },
+  {
+   "batch": "X23",
+   "ids": [
+    "bh-alsalam",
+    "qa-lesha"
+   ],
+   "people": 25,
+   "decision_makers": 20
+  },
+  {
+   "batch": "X24",
+   "ids": [
+    "kw-warba",
+    "om-sohar"
+   ],
+   "people": 29,
+   "decision_makers": 19
+  },
+  {
+   "batch": "X25",
+   "ids": [
+    "bh-bisb",
+    "bh-nbb"
+   ],
+   "people": 27,
+   "decision_makers": 21
+  },
+  {
+   "batch": "X26",
+   "ids": [
+    "intl-hsbc"
+   ],
+   "people": 14,
+   "decision_makers": 14
+  },
+  {
+   "batch": "X27",
+   "ids": [
+    "sa-alistithmar-capital",
+    "sa-saib"
+   ],
+   "people": 25,
+   "decision_makers": 14
+  },
+  {
+   "batch": "X28",
+   "ids": [
+    "sa-snb-capital",
+    "sa-snb"
+   ],
+   "people": 31,
+   "decision_makers": 17
+  },
+  {
+   "batch": "X29",
+   "ids": [
+    "qa-dohabank",
+    "ae-adib"
+   ],
+   "people": 24,
+   "decision_makers": 17
+  },
+  {
+   "batch": "X30",
+   "ids": [
+    "bh-bbk"
+   ],
+   "people": 13,
+   "decision_makers": 8
+  },
+  {
+   "batch": "X31",
+   "ids": [
+    "sa-sab-invest",
+    "sa-sab"
+   ],
+   "people": 29,
+   "decision_makers": 17
+  },
+  {
+   "batch": "X32",
+   "ids": [
+    "ae-shuaa",
+    "ae-bos"
+   ],
+   "people": 23,
+   "decision_makers": 14
+  },
+  {
+   "batch": "X33",
+   "ids": [
+    "qa-ahlibank",
+    "kw-abk"
+   ],
+   "people": 31,
+   "decision_makers": 26
+  },
+  {
+   "batch": "X34",
+   "ids": [
+    "kw-gulfbank",
+    "ae-nbf"
+   ],
+   "people": 23,
+   "decision_makers": 14
+  },
+  {
+   "batch": "X35",
+   "ids": [
+    "qa-qiib",
+    "intl-scb"
+   ],
+   "people": 25,
+   "decision_makers": 18
+  },
+  {
+   "batch": "X36",
+   "ids": [
+    "bh-bankabc",
+    "qa-qinvest",
+    "kw-kic"
+   ],
+   "people": 25,
+   "decision_makers": 19
+  },
+  {
+   "batch": "X37",
+   "ids": [
+    "ae-arqaam",
+    "ae-rakbank"
+   ],
+   "people": 22,
+   "decision_makers": 8
+  },
+  {
+   "batch": "X38",
+   "ids": [
+    "kw-cbk",
+    "ae-wio",
+    "ae-sib"
+   ],
+   "people": 32,
+   "decision_makers": 20
+  },
+  {
+   "batch": "X39",
+   "ids": [
+    "sa-sahm",
+    "ae-cbi",
+    "ae-zand"
+   ],
+   "people": 31,
+   "decision_makers": 13
+  },
+  {
+   "batch": "X40",
+   "ids": [
+    "ae-eib",
+    "sa-derayah"
+   ],
+   "people": 24,
+   "decision_makers": 14
+  },
+  {
+   "batch": "X41",
+   "ids": [
+    "intl-citi",
+    "om-oab"
+   ],
+   "people": 24,
+   "decision_makers": 17
+  },
+  {
+   "batch": "X42",
+   "ids": [
+    "ae-almasraf",
+    "ae-sarwa",
+    "ae-uab"
+   ],
+   "people": 30,
+   "decision_makers": 14
+  },
+  {
+   "batch": "X43",
+   "ids": [
+    "sa-d360",
+    "bh-khaleeji",
+    "ae-intlsecurities"
+   ],
+   "people": 29,
+   "decision_makers": 17
+  },
+  {
+   "batch": "X44",
+   "ids": [
+    "sa-stcbank",
+    "ae-stashaway"
+   ],
+   "people": 26,
+   "decision_makers": 17
+  },
+  {
+   "batch": "X45",
+   "ids": [
+    "ae-alramz",
+    "ae-nbq"
+   ],
+   "people": 21,
+   "decision_makers": 12
+  },
+  {
+   "batch": "X46",
+   "ids": [
+    "sa-visionbank",
+    "om-ubhar",
+    "ae-financehouse"
+   ],
+   "people": 31,
+   "decision_makers": 13
+  },
+  {
+   "batch": "X47",
+   "ids": [
+    "ae-mbank",
+    "ae-baraka",
+    "ae-investbank",
+    "ae-ruya"
+   ],
+   "people": 26,
+   "decision_makers": 11
+  }
+ ]
+}
