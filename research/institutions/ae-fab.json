@@ -454,7 +454,7 @@
     {
       "name": "H.H. Sheikh Tahnoon bin Zayed Al Nahyan",
       "name_ar": null,
-      "title": "Chairman of the Board",
+      "title": "Chairman of the Board (Independent Non-Executive Director)",
       "functions": [
         "Chair"
       ],
@@ -462,40 +462,42 @@
       "business_unit": "Board",
       "scope": "Group",
       "appointed": "2017-03-31",
-      "appointed_note": "Non-executive member from 31 Mar 2017 per board page; Deputy Ruler of Abu Dhabi.",
-      "previous_roles": null,
+      "appointed_note": "Non-Executive Member from 31/03/2017 and FAB Chairman per the board page (S3); Annual Report 2025 lists him as 'Chairman, Independent Non-Executive Director' (S38, p.182).",
+      "previous_roles": "Current other roles: Deputy Ruler of Abu Dhabi; National Security Advisor of the United Arab Emirates; Chairman of the Artificial Intelligence and Advanced Technology Council; Chairman of ADIA, IHC, MGX and G42; member of the Board of the Supreme Council for Financial and Economic Affairs (S38, p.182).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official Board of Directors page, checked 2026-10-12 (S3).",
+      "role_evidence": "Official Board of Directors page, checked 2026-10-12 (S3); Annual Report 2025 board biography (S38, pp.182-183). FAB's individual 'View full bio' pages returned an 'Under Maintenance' page on 2026-10-12. Board member: no news check required.",
       "source_ids": [
-        "S3"
+        "S3",
+        "S38"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "H.E. Sheikh Mohamed bin Saif Al Nahyan",
       "name_ar": null,
-      "title": "Vice Chairman; Chairman of the Board Management Committee and the Board Remuneration and Nomination Committee",
+      "title": "Vice Chairman (Independent Non-Executive Director); Chairman of the Board Management Committee and the Board Remuneration and Nomination Committee",
       "functions": [
         "Board"
       ],
       "entity": "First Abu Dhabi Bank PJSC",
       "business_unit": "Board",
       "scope": "Group",
-      "appointed": "2017-03-31",
-      "appointed_note": "Non-executive member from 31 Mar 2017.",
-      "previous_roles": null,
-      "education": null,
+      "appointed": "2017-03",
+      "appointed_note": "Non-Executive Member from 31/03/2017 (S3); 'Vice Chairman of the Board of First Abu Dhabi Bank PJSC since March 2017' (S38, p.183).",
+      "previous_roles": "More than 20 years in family business, real estate and investment; manages a number of projects across the UAE and abroad (S38 wording). Current other roles: Chairman of Abu Dhabi National Insurance Company PJSC (ADNIC) and member of its board Risk Management Committee (S38, p.183).",
+      "education": "Degree in international economics and history, American University of Paris (S38)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official Board of Directors page, checked 2026-10-12 (S3).",
+      "role_evidence": "Official Board of Directors page, checked 2026-10-12 (S3); Annual Report 2025 board biography (S38, p.183).",
       "source_ids": [
-        "S3"
+        "S3",
+        "S38"
       ],
       "checked": "2026-10-12"
     },
@@ -510,19 +512,20 @@
       "business_unit": "Group",
       "scope": "Group",
       "appointed": "2021-01",
-      "appointed_note": "Group CEO since January 2021; first female CEO of a UAE-based bank.",
-      "previous_roles": "Deputy Group CEO and Group Head of Personal Banking, FAB (before 2021); earlier roles at First Gulf Bank, Citibank and AW Rostamani Group (S33). Boards: Buna (Arab Monetary Fund payments platform), Institute of International Finance, IMD, US-UAE Business Council executive board; member, International Advisory Council of China's NFRA (S2).",
-      "education": "BSc Business Administration and MSc Information Management, George Washington University (S2)",
+      "appointed_note": "Group CEO since January 2021 (S2, S38 p.198; AR 2025 timeline p.11). First female CEO of a UAE-based bank (S2).",
+      "previous_roles": "2021- Group Chief Executive Officer, First Abu Dhabi Bank; before 2021 Deputy Group CEO and Group Head of Personal Banking, FAB (S2, S38); earlier senior roles at First Gulf Bank, Citibank and AW Rostamani Group (2023 official biography, S33). Current other roles: boards of Buna (Arab Monetary Fund cross-border payment platform), the Institute of International Finance and the International Institute for Management Development (IMD); executive board of the US-UAE Business Council; member of the International Advisory Council of China's National Financial Regulatory Administration; previously Chair of the Principals Group of the Net-Zero Banking Alliance and Chairwoman of the Global Council on Clean Energy (S2, S38). Appointed Chevalier of the Legion d'honneur (France) (S2).",
+      "education": "Bachelor's degree in Business Administration and Master's degree in Information Management, George Washington University (S2, S38)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12; quoted as Group CEO in H1 2026 results release, 23 Jul 2026 (S6). No departure news found.",
+      "role_evidence": "Official Senior Management (Group EXCO) page checked 2026-10-12 (S1); EXCO biography PDF (S2); Annual Report 2025 senior management biography (S38, p.198); quoted as Group CEO in the H1 2026 results release of 23 Jul 2026 (S6). 2026 CEO rankings (Forbes Middle East, Gulf Business) seen in search results only. No 2025-2026 departure news found. Role-based LinkedIn search returned no profile.",
       "source_ids": [
         "S1",
         "S2",
         "S6",
-        "S33"
+        "S33",
+        "S38"
       ],
       "checked": "2026-10-12"
     },
@@ -537,22 +540,26 @@
         "Wealth"
       ],
       "entity": "First Abu Dhabi Bank PJSC",
-      "business_unit": "Personal, Business, Wealth & Privileged Client Banking Group (PBW&PCBG)",
+      "business_unit": "Personal, Business, Wealth & Privileged Client Banking Group (PBW&PCBG) - includes Global Private Banking; AR 2025 bio: 'overseeing the integration of consumer and private banking operations' (S38)",
       "scope": "Group",
-      "appointed": "2025",
-      "appointed_note": "Group Head of PBW&PCB since 2025 per FAB Suisse governance page; joined FAB in 2008 (S25).",
-      "previous_roles": "Group Head of Consumer Banking (UAE) (S2, S33); earlier Head of Elite Banking (S33). Chairperson of FAB Suisse and FAB Islamic; board member of FABMISR, ADNIC, APEX Investment, MAIR Group, Wio Bank and Zoud; Visa council member and Mastercard MENA Executive Council member (S2).",
-      "education": "BSc Mathematics, UAE University (Al Ain); executive programmes at National University of Singapore and Harvard Business School (S2)",
+      "appointed": "2025-04",
+      "appointed_note": "Promotion to Group Head of Personal, Wealth, Business and Privileged Client banking reported on 11 Apr 2025 (S42, citing Zawya); the division was created in FAB's March 2025 reorganisation into four divisions (S43); FAB Suisse governance page: 'since 2025' (S25). Group Head of Consumer Banking Group UAE from 8 Sep 2021 (S39). Joined FAB in 2008 (S25).",
+      "previous_roles": "2025- Group Head of Personal, Business, Wealth and Privileged Client Banking Group, FAB (S1, S42); 2021-2025 Group Head of Consumer Banking Group UAE, FAB (appointed 8 Sep 2021, S39); earlier Head of Elite Banking and other leadership positions in FAB's consumer banking business; joined FAB in 2008 after working for Emirates Bank (S25). Current other roles: Chair of the Board of Directors and of the Remuneration Committee, FAB Private Bank (Suisse) SA (S25); Chairperson of FAB Islamic (First Abu Dhabi Islamic Finance); board member of FABMISR, Abu Dhabi National Insurance Company (ADNIC), APEX Investment, MAIR Group, Wio Bank and Zoud (National Financial Wellbeing & Sustainability Initiative); Council Member for Visa; member of the Mastercard MENA Executive Council; committee member, Sheikha Fatima Fund for Women Refugees (S2, S38).",
+      "education": "BSc Mathematics, UAE University, Al Ain; Stanford-NUS Executive Programme in International Management, National University of Singapore; 'Making Corporate Boards More Effective' programme, Harvard Business School (S2, S25, S38)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official senior management page (S1), EXCO biography (S2) and FAB Suisse governance page (S25), checked 2026-10-12. No departure news found. LinkedIn search returned only FAB company pages.",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.198); FAB Suisse governance page (S25). Appointment coverage: Finance Middle East 11 Apr 2025 (S42). No 2025-2026 departure news found. Role-based LinkedIn searches returned only FAB job postings and company pages.",
       "source_ids": [
         "S1",
         "S2",
         "S25",
-        "S33"
+        "S33",
+        "S38",
+        "S39",
+        "S42",
+        "S43"
       ],
       "checked": "2026-10-12"
     },
@@ -567,19 +574,21 @@
       "entity": "First Abu Dhabi Bank PJSC",
       "business_unit": "Finance",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joining date not stated in the official biography; responsibilities include group finance, treasury, investor relations and strategy.",
-      "previous_roles": "CFO, ABN AMRO (from Jun 2021); Group CFO, Hellenic Bank; CFO roles at ING (ING Direct, ING Retail Banking Direct and International, ING Commercial Bank) (S2).",
-      "education": "BSc Accounting, University of South Africa; MBA, University of Cape Town (S2)",
-      "qualifications": "Chartered Accountant (SA) (S2)",
+      "appointed": "2023-05-01",
+      "appointed_note": "Appointment announced 26 Jan 2023, effective 1 May 2023, reporting to the Group CEO; succeeded James Burdett (retired); Karim Karoui was interim GCFO (S40).",
+      "previous_roles": "2023- Group Chief Financial Officer, FAB (responsible for Group-wide finance, treasury, investor relations and strategy) (S40, S2); Jun 2021-2023 CFO, ABN AMRO; Group CFO, Hellenic Bank; almost 20 years at ING incl. CFO of ING Direct, ING Retail Banking Direct and International, and ING Commercial Bank (S2, S40).",
+      "education": "BSc Accounting, University of South Africa; MBA (finance, markets and strategy), University of Cape Town (S2, S40)",
+      "qualifications": "Chartered Accountant (South Africa) (S2)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12; quoted in H1 2026 release (S6).",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.199); quoted in the H1 2026 results release (S6). No departure news found.",
       "source_ids": [
         "S1",
         "S2",
-        "S6"
+        "S6",
+        "S38",
+        "S40"
       ],
       "checked": "2026-10-12"
     },
@@ -593,19 +602,21 @@
       "entity": "First Abu Dhabi Bank PJSC",
       "business_unit": "Investment Banking & Markets (IB&M)",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Exact start date not on official pages; Bloomberg reported FAB in talks to hire him in Feb 2025 (S36), so he joined after that.",
-      "previous_roles": "Citi: Vice Chairman of Investment Banking for Europe and the Middle East; Head of Corporate Banking and Investment Banking, Citibank Europe Plc. Earlier Bank of America Merrill Lynch (Greece, Cyprus, south-east Europe) and Credit Suisse (S2).",
-      "education": "BSc Business Economics, Queen Mary & Westfield College, University of London; MPhil Finance, Robinson College, Cambridge (S2)",
+      "appointed": "2025",
+      "appointed_note": "Reuters (via AGBI, 6 Mar 2025) reported FAB was hiring him as head of investment banking in a reorganisation into four divisions incl. 'investment banking and markets' (S43); Bloomberg had reported talks on 25 Feb 2025 (S36). Exact start date not on official pages; listed on the EXCO page and in the Annual Report 2025 (S1, S38).",
+      "previous_roles": "2025- Group Head of Investment Banking & Markets, FAB (S1, S38); Citi: Vice Chairman of Investment Banking for Europe and the Middle East, and Head of Corporate Banking and Investment Banking, Citibank Europe Plc (continental Europe, Middle East and Africa); earlier investment banking leadership roles at Bank of America Merrill Lynch (Greece and Cyprus, then south-east Europe); began career at Credit Suisse (telecoms, then country coverage) (S2, S38).",
+      "education": "BSc (First Class Honours) Business Economics, Queen Mary & Westfield College, University of London; MPhil (Merit) Finance, Robinson College, University of Cambridge (S2)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12.",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.200). Hiring reported Feb-Mar 2025 (S36, S43).",
       "source_ids": [
         "S1",
         "S2",
-        "S36"
+        "S36",
+        "S38",
+        "S43"
       ],
       "checked": "2026-10-12"
     },
@@ -619,20 +630,25 @@
       "entity": "First Abu Dhabi Bank PJSC",
       "business_unit": "Wholesale Banking (WB)",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Joined FAB in 2021 (S25); previously Group Head of Investment Banking (2023 bios, S33).",
-      "previous_roles": "Group Head of Investment Banking, FAB; HSBC: Deputy Chairman and CEO Middle East, North Africa and Turkey, Group General Manager, CEO HSBC Australia and HSBC Korea (S2, S33). Vice Chairman of FAB Capital Saudi Arabia; board member of FAB Suisse; Chairman of Global Climate Finance Centre (S2).",
-      "education": "Institut d'Etudes Politiques de Paris; La Sorbonne; Paris Nanterre University (S2)",
+      "appointed": "2025",
+      "appointed_note": "Moved from Group Head of Investment Banking to lead the new Wholesale Banking division in the March 2025 reorganisation (S43, S44). Group Head of Investment Banking Group from 8 Sep 2021 (S39), still in that role on 2 Jun 2023 (S41). Joined FAB in 2021 (S25).",
+      "previous_roles": "2025- Group Head of Wholesale Banking, FAB (also oversees Global Transaction Banking) (S2, S38); 2021-2025 Group Head of Investment Banking Group, FAB (appointed 8 Sep 2021, S39), and for a period also ran the International Banking division (S25); over 30 years at HSBC Group: Deputy Chairman and CEO Middle East, North Africa and Turkey and Group General Manager (boards of HSBC Egypt, HSBC Middle East, HSBC Turkey and HSBC Saudi Arabia); CEO HSBC Australia; CEO HSBC Korea; Global Head of Multinationals (London); Middle East Regional Head of Corporate & Investment Bank; Senior General Manager, wholesale banking, Egypt (S25, S2). Current other roles: Vice Chairman, FAB Capital Saudi Arabia; member of the Board of Directors and of the Remuneration Committee, FAB Private Bank (Suisse) SA (S25); Chairman, Global Climate Finance Centre (Abu Dhabi); trustee, Universite Paris II Assas; Conseiller du Commerce Exterieur de la France (appointed by decree, 2001) (S2).",
+      "education": "Institut d'Etudes Politiques de Paris; BA History & Law, Paris Nanterre University; Master's in Law, La Sorbonne University, Paris (S25, S2)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior management page (S1), EXCO biography (S2) and FAB Suisse governance page (S25), checked 2026-10-12.",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.199); FAB Suisse governance page (S25). Division change reported 6 Mar 2025 (S43, S44).",
       "source_ids": [
         "S1",
         "S2",
         "S25",
-        "S33"
+        "S33",
+        "S38",
+        "S39",
+        "S41",
+        "S43",
+        "S44"
       ],
       "checked": "2026-10-12"
     },
@@ -647,19 +663,22 @@
       "entity": "First Abu Dhabi Bank PJSC",
       "business_unit": "Technology & Transformation",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Start date not stated on official pages.",
-      "previous_roles": "Group Chief Transformation Officer, Standard Chartered; 11 years at Accenture (London, Singapore); 17 years at Credit Suisse (Singapore, Switzerland) in technology and operations leadership (S2).",
-      "education": "BSc Computing Science, Aston University (S2)",
+      "appointed": "2025",
+      "appointed_note": "Appointment reported by Zawya (S46; page undated, body paywalled); Finance Middle East on 11 Apr 2025 says he was appointed 'earlier this year' (S42). Start date not stated on official pages.",
+      "previous_roles": "2025- Group Chief Technology & Transformation Officer, FAB (S1, S38); Group Chief Transformation Officer, Standard Chartered Bank; 11 years at Accenture (London, Singapore) in technology consulting and digital transformation; 17 years at Credit Suisse (Singapore, Switzerland) in technology and operations leadership roles (S2, S38).",
+      "education": "Bachelor's degree in Computing Science, Aston University (S2)",
       "qualifications": null,
       "linkedin_url": "https://ae.linkedin.com/in/divyesh-vithlani-2268448",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12. LinkedIn search result titled 'Divyesh Vithlani - First Abu Dhabi Bank (FAB)' (S32; name and current employer match; profile not opened).",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.200). LinkedIn URL from the earlier search-result match (S32; name and current employer; profile not opened). Appointment coverage: S42, S46.",
       "source_ids": [
         "S1",
         "S2",
-        "S32"
+        "S32",
+        "S38",
+        "S42",
+        "S46"
       ],
       "checked": "2026-10-12"
     },
@@ -674,17 +693,18 @@
       "business_unit": "Operations",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Official site title 'Group Chief Operations Officer' (S1); biography 'Group Chief Operating Officer' (S2). Also oversees marketing and communications.",
-      "previous_roles": "Global COO for Corporate, Commercial & Institutional Banking and for Europe & Americas, Standard Chartered; Senior Managing Director for Technology, Bear Stearns; former NED at SMBC Bank International; advisory board member, Fenergo Group (S2).",
-      "education": "First-class honours degree in mathematics, Heriot-Watt University (S2)",
+      "appointed_note": "Official page title 'Group Chief Operations Officer' (S1); biography and Annual Report 2025: 'Group Chief Operating Officer' (S2, S38). Start date not stated in official sources and not found in 2024-2025 appointment coverage checked (S42-S44). Also oversees marketing and communications.",
+      "previous_roles": "Group Chief Operating Officer, FAB (S1, S38); Global Chief Operating Officer for Corporate, Commercial & Institutional Banking and for the Europe & Americas region, Standard Chartered; Senior Managing Director for Technology, Bear Stearns (structured equity products) (S2, S38). Current other roles: Advisory Board member, Fenergo Group; formerly Non-Executive Director and Chair of the Remuneration Committee, SMBC Bank International (UK) (S2).",
+      "education": "First-Class Honours degree in Mathematics (specialisation in Fluid Mechanics and Computer Science), Heriot-Watt University (S2)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12.",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.202).",
       "source_ids": [
         "S1",
-        "S2"
+        "S2",
+        "S38"
       ],
       "checked": "2026-10-12"
     },
@@ -698,18 +718,21 @@
       "entity": "First Abu Dhabi Bank PJSC",
       "business_unit": "International",
       "scope": "Group (international franchise)",
-      "appointed": null,
-      "appointed_note": "Official site title 'Group Head of International Banking' (S1); biography 'Group Head of International' (S2).",
-      "previous_roles": "Citi, nearly three decades; most recently CEO and Banking Head for the North Africa, Levant and Central Asia cluster (S2).",
+      "appointed": "2025",
+      "appointed_note": "Bloomberg (via Enterprise AM, 28 Feb 2025) reported FAB planned to appoint him head of its international franchise (S45); Enterprise AM on 6 Mar 2025 said he had recently joined (S44). Official page title 'Group Head of International Banking' (S1); biography and Annual Report 2025: 'Group Head of International' (S2, S38).",
+      "previous_roles": "2025- Group Head of International, FAB (S1, S38, S44); nearly three decades at Citi, most recently CEO and Banking Head for the North Africa, Levant and Central Asia cluster (nine countries incl. Egypt, Turkiye and Kazakhstan); earlier Citi executive roles in Pakistan, Tanzania, Nigeria, the USA, Japan and the UAE (S2, S38).",
       "education": "LLB, University of London (S2)",
-      "qualifications": "Fellow, ICAEW and ICAP (S2)",
+      "qualifications": "Fellow, Institute of Chartered Accountants in England & Wales (ICAEW); Fellow, Institute of Chartered Accountants of Pakistan (ICAP) (S2)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior management page (S1) and EXCO biography (S2), checked 2026-10-12.",
+      "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.201). Joining reported Feb-Mar 2025 (S44, S45).",
       "source_ids": [
         "S1",
-        "S2"
+        "S2",
+        "S38",
+        "S44",
+        "S45"
       ],
       "checked": "2026-10-12"
     },
@@ -725,14 +748,14 @@
       "business_unit": "Private banking (Switzerland)",
       "scope": "Subsidiary: FAB Private Bank (Suisse) SA",
       "appointed": null,
-      "appointed_note": "Joined the bank in March 2019; CEO start date not stated.",
-      "previous_roles": null,
-      "education": null,
+      "appointed_note": "Joined FAB Private Bank (Suisse) SA in March 2019 (S25); date of appointment as CEO not stated; no appointment announcement found in role-based searches.",
+      "previous_roles": "2019- FAB Private Bank (Suisse) SA (joined Mar 2019; currently Chief Executive Officer and member of the Executive Management Committee); four years at BankMed (Suisse) as Head of Private Banking, then CEO; 11 years at CA Indosuez in Geneva, Doha (set up the office) and Dubai (heading the GCC representative offices); seven years at BNP Paribas (Geneva, Bahrain); two years at Saudi Investment Bank (Riyadh); four years at NBK (London) (S25).",
+      "education": "Business administration degree, American University of Beirut; MBA, City University, London (S25)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "FAB Suisse corporate governance page (Executive Management Committee), checked 2026-10-12 (S25). Page is undated.",
+      "role_evidence": "FAB Private Bank (Suisse) SA corporate governance page (Executive Management Committee), checked 2026-10-12 (S25); the page is undated but carries 31 Dec 2025 Pillar 3 disclosures. Role-based searches (2025-2026) found no CEO change and no LinkedIn profile.",
       "source_ids": [
         "S25"
       ],
@@ -748,15 +771,15 @@
       "entity": "FAB Private Bank (Suisse) SA",
       "business_unit": "Private banking coverage (Switzerland)",
       "scope": "Subsidiary: FAB Private Bank (Suisse) SA",
-      "appointed": null,
-      "appointed_note": "Joined the bank in 2018.",
-      "previous_roles": null,
-      "education": null,
-      "qualifications": null,
+      "appointed": "2018",
+      "appointed_note": "Joined FAB Private Bank (Suisse) SA in 2018 on transfer from FAB in the UAE (S25); date of appointment as Head of Private Banking Coverage not stated separately.",
+      "previous_roles": "2018- Head of Private Banking Coverage and member of the Executive Management Committee, FAB Private Bank (Suisse) SA; 15 years at First Abu Dhabi Bank/NBAD in the UAE incl. Head of Private Banking & Key Clients for Abu Dhabi, Head of Trade Execution Desk and Head of Investments; earlier eight years in other roles in Lebanon and the UAE (S25).",
+      "education": "MBA, Geneva Business School (S25)",
+      "qualifications": "Banking diplomas from the Chartered Institute for Securities & Investment (CISI) and the Emirates Institute for Banking & Financial Studies (S25)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "FAB Suisse corporate governance page, checked 2026-10-12 (S25). Page is undated.",
+      "role_evidence": "FAB Private Bank (Suisse) SA corporate governance page, checked 2026-10-12 (S25); page undated.",
       "source_ids": [
         "S25"
       ],
@@ -765,7 +788,7 @@
     {
       "name": "Gareth Nicholson",
       "name_ar": null,
-      "title": "Chief Investment Officer, FAB Asset Management (per press headline)",
+      "title": "Chief Investment Officer and Head of Investments, FAB Asset Management (per trade press)",
       "functions": [
         "Investments / asset management"
       ],
@@ -773,18 +796,19 @@
       "business_unit": "Asset management / investments",
       "scope": "Group",
       "appointed": "2026-02",
-      "appointed_note": "Hire reported 10 Jan 2026 (S28); IFN Investor headline 4 Feb 2026 'FAB Asset Management appoints new chief investment officer' (S29, article paywalled).",
-      "previous_roles": "Chief Investment Officer, Nomura International Wealth Management; earlier Deutsche Asset Management and other investment roles (S28).",
+      "appointed_note": "Hire reported 10 Jan 2026 (S28); IFN Investor headline 4 Feb 2026 'FAB Asset Management appoints new chief investment officer' (S29; article paywalled, search snippet gives 'CIO and head of investments as of February 2026').",
+      "previous_roles": "Chief Investment Officer, Nomura International Wealth Management; earlier Deutsche Asset Management and other investment roles (S28, trade press).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Requires verification",
-      "role_evidence": "Only trade-press sources (S28 opened; S29 headline only). Not named on FAB's official pages or on the ADGM FSRA register entry for FAB Asset Management Limited (no approved persons listed, S20).",
+      "role_evidence": "Only trade-press sources (S28 opened; S29 opened but paywalled beyond the headline). Not named on FAB's Senior Management page (S1), in the Annual Report 2025 (S38) or on the ADGM FSRA register entry for FAB Asset Management Limited (S20). Role-based search for a FAB Asset Management CEO/CIO announcement on an official source found none.",
       "source_ids": [
+        "S20",
         "S28",
         "S29",
-        "S20"
+        "S38"
       ],
       "checked": "2026-10-12"
     },
@@ -800,19 +824,20 @@
       "scope": "Group",
       "appointed": "2023-02",
       "appointed_note": "Appointed Feb 2023 with an EXCO seat (S35); left for Emirates Investment Bank, appointment reported 4 Feb 2026 (S27) and described by Gulf Business on 22 Jul 2026 (S26).",
-      "previous_roles": "CEO Private Banking, Edmond de Rothschild; CEO Private Banking, Union Bancaire Privée; senior roles at BNP Paribas wealth management (S33).",
+      "previous_roles": "2023-2026 Group Head of Global Private Banking, FAB; CEO Private Banking, Edmond de Rothschild; CEO Private Banking, Union Bancaire Privee; senior roles at BNP Paribas wealth management (S33, S35). Current other roles: CEO, Emirates Investment Bank (from 2026) (S26, S27).",
       "education": "Emlyon Business School (S33)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Departed",
-      "role_evidence": "Not on FAB's current senior management page (S1). Gulf Business (22 Jul 2026) calls him the newly appointed CEO of Emirates Investment Bank who joined from FAB, where he was group head of global private banking (S26). Successor at FAB not found.",
+      "role_evidence": "Not on FAB's current Senior Management page (S1) nor among the senior management in the Annual Report 2025 (S38). Gulf Business (22 Jul 2026) calls him the newly appointed CEO of Emirates Investment Bank who joined from FAB (S26). No successor with the title Group Head of Global Private Banking appears on the EXCO page; the AR 2025 biography of Futoon Al Mazrouei says her group oversees the integration of consumer and private banking operations (S38).",
       "source_ids": [
         "S1",
         "S26",
         "S27",
         "S33",
-        "S35"
+        "S35",
+        "S38"
       ],
       "checked": "2026-10-12"
     }
@@ -1503,6 +1528,107 @@
       "published": null,
       "accessed": "2026-10-12",
       "language": "en"
+    },
+    {
+      "id": "S38",
+      "title": "FAB Annual Report 2025 (Board of Directors biographies pp.182-187; Senior Management biographies pp.198-203)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/-/media/fab-uds/about-fab/investor-relations/reports-and-presentations/quarterly-and-annual-reports/2025/fab-annual-report-2025-en.pdf?view=1",
+      "doc_type": "Annual report - Board and Executive Management biographies",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "191-page PDF read with tools/pdftext.py; printed page numbers are PDF pages 92-102 (report pages 182-203)."
+    },
+    {
+      "id": "S39",
+      "title": "FAB appoints Heads of Investment Banking and Consumer Banking Groups",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/about-fab/group/in-the-media/20210809-fab-appoints-heads-of-investment-banking",
+      "doc_type": "Press release (appointments)",
+      "tier": 2,
+      "published": "2021-09-08",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S40",
+      "title": "FAB Appoints Lars Kramer as Group Chief Financial Officer",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/about-fab/group/in-the-media/fab-appoints-lars-kramer-as-group-chief-financial-officer",
+      "doc_type": "Press release (appointment)",
+      "tier": 2,
+      "published": "2023-01-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S41",
+      "title": "FAB Appoints Two New Executives (Sameh Al Qubaisi, Eric Shehadeh; Martin Tricaud continues as Group Head of Investment Banking)",
+      "publisher": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com/en-ae/about-fab/group/in-the-media/fab-appoints-two-new-executives",
+      "doc_type": "Press release (appointments)",
+      "tier": 2,
+      "published": "2023-06-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S42",
+      "title": "First Abu Dhabi Bank reshuffles executive committee amid leadership changes",
+      "publisher": "Finance Middle East (ITP Media)",
+      "url": "https://www.financemiddleeast.com/banking-and-insurance/first-abu-dhabi-bank-reshuffles-executive-committee-amid-leadership-changes/",
+      "doc_type": "News (citing Zawya)",
+      "tier": 5,
+      "published": "2025-04-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S43",
+      "title": "First Abu Dhabi Bank plans major restructuring",
+      "publisher": "AGBI (Reuters report)",
+      "url": "https://agbi.com/banking-finance/2025/03/first-abu-dhabi-bank-plans-major-restructuring",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-03-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S44",
+      "title": "FAB restructures and brings in new leadership",
+      "publisher": "Enterprise AM (UAE)",
+      "url": "https://enterpriseam.com/uae/2025/03/06/fab-restructures-and-brings-in-new-leadership/",
+      "doc_type": "News (citing Bloomberg)",
+      "tier": 5,
+      "published": "2025-03-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S45",
+      "title": "First Abu Dhabi Bank taps Omar Hafeez as head of its international franchise",
+      "publisher": "Enterprise AM (UAE)",
+      "url": "https://enterpriseam.com/uae/2025/02/28/first-abu-dhabi-bank-taps-omar-hafeez-as-head-of-its-international-franchise/",
+      "doc_type": "News (citing Bloomberg)",
+      "tier": 5,
+      "published": "2025-02-28",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S46",
+      "title": "First Abu Dhabi Bank appoints Divyesh Vithlani as CTTO",
+      "publisher": "Zawya",
+      "url": "https://www.zawya.com/en/business/banking-and-insurance/first-abu-dhabi-bank-appoints-divyesh-vithlani-as-ctto-ksde03dm",
+      "doc_type": "News",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Opened; only the first paragraph is visible without a Zawya account and the page shows no date. Finance Middle East (S42) places the appointment in early 2025."
     }
   ],
   "original_reconciliation": [
@@ -1676,18 +1802,50 @@
         "S26",
         "S27"
       ]
+    },
+    {
+      "field": "Chair of FAB Private Bank (Suisse) SA",
+      "detail": "Annual Report 2025 senior-management biography says Martin Tricaud 'serves as Chairman of FAB Suisse' (S38, p.199); the FAB Suisse corporate governance page (S25) and the current EXCO biographies (S2) show Futoon Al Mazrouei as Chair of the Board and Tricaud as a board member.",
+      "source_ids": [
+        "S38",
+        "S25",
+        "S2"
+      ],
+      "resolution": "Recorded the current pages (S25, S2): Al Mazrouei Chair, Tricaud member; the change appears to post-date the AR 2025 text."
+    },
+    {
+      "field": "Futoon Al Mazrouei executive education",
+      "detail": "EXCO biography: executive programmes at the National University of Singapore and Harvard Business School (S2); FAB Suisse page: 'Executive Program in International Management at Stanford Graduate School of Business in Singapore' (S25); Annual Report 2025: 'Stanford-NUS Executive Programme in International Management from the National University of Singapore' and the HBS 'Making corporate boards more effective' programme (S38).",
+      "source_ids": [
+        "S2",
+        "S25",
+        "S38"
+      ],
+      "resolution": "Same programme described differently; recorded the Annual Report 2025 wording."
+    },
+    {
+      "field": "Keith Macdonald title",
+      "detail": "Official Senior Management page: 'Group Chief Operations Officer' (S1); EXCO biography and Annual Report 2025: 'Group Chief Operating Officer' (S2, S38).",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S38"
+      ],
+      "resolution": "Recorded the biography/annual-report title (wording only)."
     }
   ],
   "open_items": [
     "Lead 'relationship between FAB and Alpheya' NOT established: Alpheya is not among FAB's subsidiaries or associates at 30 Jun 2026 (S4); no FAB or Alpheya release linking them was found; Semafor (Dec 2025) names Lunate and BNY as Alpheya's backers and no FAB link (S30). Do not state a FAB–Alpheya relationship without new evidence.",
     "Lead 'RM AI tool with Microsoft showcased' NOT verified: no FAB, Microsoft or press source found describing a relationship-manager or wealth AI tool. Evidence only for group-wide Copilot rollout and 4,800+ internal agents (S9) and the 2024 Microsoft partnership (S23).",
     "Lead 'IBM as integrator': IBM Consulting confirmed as digital-transformation/hybrid-cloud partner from Apr 2022 (S24); no 2025–2026 IBM–FAB announcement found, and no wealth-specific IBM work found.",
-    "Current Group Head of Global Private Banking after Michel Longhini's departure not found; FAB Securities head and FAB Asset Management CEO not found.",
-    "Gareth Nicholson's exact title and reporting line need confirmation on an official FAB source (only trade press).",
     "FAB's shareholding in Wio Bank not verified in this batch (Wio's About page shows shareholders as logos only); Futoon Al Mazrouei sits on Wio's board (S2).",
     "FY2025 annual report PDF exceeded the 10 MB fetch limit; UAE-only branch count, retail customer numbers and any wealth KPIs in the annual report were not read.",
     "Elite and Private Banking eligibility thresholds not published on the pages checked.",
-    "Web search budget was exhausted mid-batch; LinkedIn checks for Futoon Al Mazrouei and Gareth Nicholson returned no matching profile and were not retried."
+    "People pass X03 (2026-10-12): no executive with the title Group Head of Global Private Banking appears on the EXCO page (S1) or in the Annual Report 2025 (S38) after Michel Longhini's departure; the AR 2025 biography of Futoon Al Mazrouei says her group oversees 'the integration of consumer and private banking operations'. FAB Securities head and FAB Asset Management CEO still not found on official pages.",
+    "Gareth Nicholson (FAB Asset Management CIO) is known only from trade press (S28, S29); not in the AR 2025 or on the EXCO page; title and reporting line unconfirmed.",
+    "FAB's individual board-member biography pages ('View full bio' links on S3) returned an 'Under Maintenance' page on 2026-10-12; board education and career were taken from the Annual Report 2025 (S38) instead.",
+    "No official FAB source states the start dates of Divyesh Vithlani, Linos Lekkas, Omar Hafeez or Keith Macdonald, nor Fouad Hamiyeh's date of appointment as CEO of FAB Suisse; dates recorded come from press reports (S42-S46) or are left null. Zawya articles are paywalled beyond the first paragraph.",
+    "LinkedIn (people pass X03): role-based searches returned no profile for Hana Al Rostamani, Futoon Al Mazrouei or Fouad Hamiyeh; name-based look-ups are not permitted in this environment. Divyesh Vithlani's URL kept from the earlier search-result match (S32)."
   ],
   "research_status": "Complete",
   "researched_by": "B01",

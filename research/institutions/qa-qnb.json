@@ -640,18 +640,22 @@
       "entity": "Qatar National Bank (Q.P.S.C.)",
       "business_unit": "Board of Directors",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Appointment date not stated on sources checked.",
-      "previous_roles": null,
+      "appointed": "2021-11-29",
+      "appointed_note": "QNB announced on 29 Nov 2021 that the Board had elected him Chairman, as a Qatar Investment Authority representative (S39, seen in search results only); re-elected Chairman for the 2022-2024 term after the AGM of 13 Feb 2022 (S30); chaired the AGM for FY2025 in Feb 2026 (S32). Re-election for the 2025-2027 term appears only in an aggregator (not cited).",
+      "previous_roles": "Oct 2021- Minister of Finance, State of Qatar; Nov 2018-Oct 2021 Minister of Commerce and Industry; Jul 2013-2018 Group Chief Executive Officer, QNB Group; more than 30 years in Qatar's banking and financial sectors (S31 wording). Current other roles: Chairman, Qatar Development Bank; member, Supreme Council for Economic Affairs and Investment; board member, Qatar Investment Authority and QatarEnergy (S31).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Listed as Chairman on official Board of Directors page, checked 2026-10-12 (S2); signed the 30 Sep 2026 interim statements as Chairman on 8 Oct 2026 (S4).",
+      "role_evidence": "Official Board of Directors page (S2) read in a browser earlier on 2026-10-12 (B19; qnb.com blocked to scripted requests in this pass); signed the 30 Sep 2026 interim statements as Chairman on 8 Oct 2026 (S4); addressed the Feb 2026 AGM as QNB Group Chairman (S32); Milken Institute 2026 speaker biography lists him as QNB Chairman (S31).",
       "source_ids": [
         "S2",
-        "S4"
+        "S4",
+        "S30",
+        "S31",
+        "S32",
+        "S39"
       ],
       "checked": "2026-10-12"
     },
@@ -666,19 +670,20 @@
       "business_unit": "Group",
       "scope": "Group",
       "appointed": "2018-11",
-      "appointed_note": "Appointed Group CEO in November 2018 per QNB Türkiye board biography (S21).",
-      "previous_roles": "Joined QNB in 1996; Group CEO since Nov 2018; Chairperson of QNB Bank A.S. (Türkiye) board; chairs the boards of QNB Capital and QNB Suisse (S21).",
+      "appointed_note": "Appointed Group CEO in November 2018 (S21, S34).",
+      "previous_roles": "Nov 2018- Group Chief Executive Officer, QNB Group; before that Executive General Manager and Chief Business Officer, QNB Group; joined QNB in 1996 (S21). Current other roles: Chairperson of the Board, QNB Bank A.S. (Turkiye); Chairperson, QNB Capital and QNB (Suisse) SA; board member, Ooredoo, Qatar Airways and Qatar Stock Exchange (S21, S34).",
       "education": "Bachelor's degree in Business Administration, Eastern Washington University (S21)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); signed 30 Sep 2026 interim statements (S4); quoted as Group CEO in 11 Oct 2026 release (S23). No departure news found.",
+      "role_evidence": "Official Executive Management page (S1) read in a browser session earlier on 2026-10-12 (batch B19); qnb.com and its mirror hosts returned HTTP 403 to scripted requests in this pass, so the page could not be re-read; signed the 30 Sep 2026 interim statements (S4); quoted as Group CEO in the 11 Oct 2026 release (S23); QNB Turkiye board page biography current as of 2026 (S21); Forbes Middle East Top 100 CEOs 2026, Aug 2026 (S34). No departure news found.",
       "source_ids": [
         "S1",
         "S4",
         "S21",
-        "S23"
+        "S23",
+        "S34"
       ],
       "checked": "2026-10-12"
     },
@@ -693,18 +698,19 @@
       "business_unit": "Business Division",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Joined QNB in 2005; Vice Chairperson of QNB Bank A.S. (Türkiye) and of Housing Bank for Trade and Finance; board member, QNB Capital (S21).",
-      "education": "BS Aviation Management, Florida Institute of Technology; diploma in Business Management, University of Glamorgan (S21)",
+      "appointed_note": "Appointment date as Group Chief Business Officer not stated; joined QNB in 2005 (S21).",
+      "previous_roles": "2005- QNB Group (joined 2005), currently Group Chief Business Officer; before QNB, 20 years in finance and corporate banking positions at financial institutions in Qatar and abroad (S21). Current other roles: Vice Chairperson of the Board, QNB Bank A.S. (Turkiye) (S21); Vice Chairman, Housing Bank for Trade and Finance (Jordan), as QNB's representative (S21, S38); board member, QNB Capital (S21).",
+      "education": "BS Aviation Management, Florida Institute of Technology; Diploma in Business Management, University of Glamorgan, Wales (S21)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); Annual Report 2025 (S8).",
+      "role_evidence": "Official Executive Management page (S1) read in a browser session earlier on 2026-10-12 (batch B19); qnb.com and its mirror hosts returned HTTP 403 to scripted requests in this pass, so the page could not be re-read; Annual Report 2025 (S8); QNB Turkiye board page biography (S21, checked 2026-10-12); HBTF board page lists him as Vice Chairman representing QNB (S38).",
       "source_ids": [
         "S1",
         "S8",
-        "S21"
+        "S21",
+        "S38"
       ],
       "checked": "2026-10-12"
     },
@@ -720,17 +726,18 @@
       "business_unit": "Group Retail Banking (incl. QNB First / First Plus premium banking per S8)",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Ran Group IT until 2021; retail appointment date not stated.",
-      "previous_roles": "Joined QNB in 2003; General Manager, Group IT Department 2010-2021; now SEVP Retail Banking; board member, QNB Bank A.S. (Türkiye) (S21).",
+      "appointed_note": "General Manager of Group IT until 2021 (S21); date of appointment to Group Retail Banking not stated in the sources opened.",
+      "previous_roles": "Senior Executive Vice President, Group Retail Banking, QNB (current); 2010-2021 General Manager, Group Information Technology Department; 2009-2010 Assistant General Manager, Development & User Services; 2007-2009 Executive Manager, Development and User Services; 2005-2007 E-Business Manager; 2003-2005 systems analyst, QNB (joined 2003); from 1998 Information Systems, Ministry of Interior, Qatar (S21). Current other roles: board member, QNB Bank A.S. (Turkiye) (S21).",
       "education": "Diploma in Computer Information Technology, Qatar University (2001) (S21)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); QNB Türkiye board biography (S21). No departure news found.",
+      "role_evidence": "Official Executive Management page (S1) read in a browser session earlier on 2026-10-12 (batch B19); qnb.com and its mirror hosts returned HTTP 403 to scripted requests in this pass, so the page could not be re-read; QNB Turkiye board page biography (S21); quoted as 'Senior Executive Vice President of Group Retail Banking at QNB Group' on 27 Jul 2026 (S33). No departure news found.",
       "source_ids": [
         "S1",
-        "S21"
+        "S21",
+        "S33"
       ],
       "checked": "2026-10-12"
     },
@@ -748,14 +755,14 @@
       "business_unit": "Group Asset and Wealth Management (private banking, asset management, brokerage and custody per S8)",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "A 2023 QNB release (seen in search results only, S28) named Adel Khashabi as SEVP Group AWM; Al-Sada was quoted for Group AWM by Oct 2024 (S22). Exact appointment date not found.",
-      "previous_roles": "Quoted as 'QNB Group Asset and Wealth Management' in Oct 2024 release (S22). No official biography found.",
+      "appointed_note": "A Nov 2023 QNB release (seen in search results only, S28) named Adel Khashabi as SEVP Group AWM; Al-Sada was quoted for Group AWM by Oct 2024 (S22). Exact appointment date not found.",
+      "previous_roles": "Senior Executive Vice President, Group Asset and Wealth Management, QNB (quoted in that capacity in Oct 2024, S22). No official biography found (qnb.com blocked to scripted requests; QNB Turkiye board page does not list him).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); no departure news found in 2025-2026 searches.",
+      "role_evidence": "Official Executive Management page (S1) read in a browser session earlier on 2026-10-12 (batch B19); qnb.com and its mirror hosts returned HTTP 403 to scripted requests in this pass, so the page could not be re-read; Oct 2024 release quote (S22). Role-based searches for 2025-2026 (QNB asset and wealth management / private banking head) found no appointment or departure news and no newer quote. Dec 2025 Gulf Times private-banking article names no executive.",
       "source_ids": [
         "S1",
         "S22"
@@ -773,14 +780,14 @@
       "business_unit": "Group Corporate and Institutional Banking",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
+      "appointed_note": "No official biography or appointment date found (qnb.com blocked to scripted requests in this pass).",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1).",
+      "role_evidence": "Official Executive Management page (S1) read in a browser session earlier on 2026-10-12 (batch B19); qnb.com and its mirror hosts returned HTTP 403 to scripted requests in this pass, so the page could not be re-read. Role-based news search (QNB corporate and institutional banking SEVP, 2026) found no change.",
       "source_ids": [
         "S1"
       ],
@@ -797,14 +804,14 @@
       "business_unit": "Group Treasury and Financial Institutions",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Joined QNB Group in 2000; Deputy Chairperson, Mansour Bank; board and audit committee member, QNB Bank A.S. (Türkiye) (S21).",
-      "education": "Bachelor's in Business Administration, Qatar University; executive programmes incl. Harvard (S21)",
+      "appointed_note": "Joined QNB Group in 2000 (S21); appointment date as SEVP not stated.",
+      "previous_roles": "2000- QNB Group (joined 2000), currently Senior Executive Vice President - Group Treasury & Financial Institutions, after over 25 years in Group Treasury and Financial Institutions and Operations (S21 wording). Current other roles: Deputy Chairperson, Mansour Bank (Iraq); member of the Board of Directors and Audit Committee, QNB Bank A.S. (Turkiye) (S21).",
+      "education": "Bachelor's degree in Business Administration, University of Qatar; executive programmes incl. Qatar Executive Leaders Program 2017-2018 (Doha and Harvard), IIF Future Leaders and HEC Leading on Boards (S21)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); quoted in 12 Oct 2026 release (S24).",
+      "role_evidence": "Official Executive Management page (S1) read in a browser session earlier on 2026-10-12 (batch B19); qnb.com and its mirror hosts returned HTTP 403 to scripted requests in this pass, so the page could not be re-read; QNB Turkiye board page biography (S21); quoted in the 12 Oct 2026 release (S24).",
       "source_ids": [
         "S1",
         "S21",
@@ -823,14 +830,14 @@
       "business_unit": "Operations Division",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
+      "appointed_note": "No official biography or appointment date found (qnb.com blocked to scripted requests in this pass).",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1); Annual Report 2025 (S8).",
+      "role_evidence": "Official Executive Management page (S1) read in a browser session earlier on 2026-10-12 (batch B19); qnb.com and its mirror hosts returned HTTP 403 to scripted requests in this pass, so the page could not be re-read; Annual Report 2025 (S8). Role-based news search (QNB Group Chief Operating Officer, 2026) found no change.",
       "source_ids": [
         "S1",
         "S8"
@@ -848,16 +855,17 @@
       "business_unit": "Group Information Technology (Operations Division)",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
+      "appointed_note": "No official biography or appointment date found (qnb.com blocked to scripted requests in this pass).",
+      "previous_roles": "Senior Executive Vice President - Group Information Technology, QNB (S1). Current other roles: board member, Housing Bank for Trade and Finance (Jordan), as a QNB representative (S38).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1).",
+      "role_evidence": "Official Executive Management page (S1) read in a browser session earlier on 2026-10-12 (batch B19); qnb.com and its mirror hosts returned HTTP 403 to scripted requests in this pass, so the page could not be re-read; HBTF board page (checked 2026-10-12) lists 'Mrs. Maryam Mohd Al-Kuwari' as a QNB representative (S38). Role-based news search found no 2025-2026 change.",
       "source_ids": [
-        "S1"
+        "S1",
+        "S38"
       ],
       "checked": "2026-10-12"
     },
@@ -872,17 +880,18 @@
       "business_unit": "Financial Division",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Joined QNB in 1997 from Bank of Jordan; board member HBTF, QNB Bank A.S. and QNB Capital; chairs QNB International Holdings (Luxembourg) (S21).",
-      "education": "Master's in Accounting, California State University (S21)",
-      "qualifications": "California CPA (1989) (S21)",
+      "appointed_note": "Joined QNB in 1997 (S21); appointment date as Group CFO not stated.",
+      "previous_roles": "1997- QNB (joined 1997 from Bank of Jordan), currently Group Chief Financial Officer; almost 30 years in banking (S21). Current other roles: board member, Housing Bank for Trade and Finance (Jordan), as QNB's representative (S21, S38); board member, QNB Bank A.S. (Turkiye) and QNB Capital LLC; Chairperson, Qatar International Holdings LLC (Luxembourg) (S21).",
+      "education": "Master's degree in Accounting, California State University (S21)",
+      "qualifications": "Passed the Certified Public Accountant examination, State of California (1989) (S21)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official Executive Management page, checked 2026-10-12 (S1).",
+      "role_evidence": "Official Executive Management page (S1) read in a browser session earlier on 2026-10-12 (batch B19); qnb.com and its mirror hosts returned HTTP 403 to scripted requests in this pass, so the page could not be re-read; QNB Turkiye board page biography (S21); HBTF board page (S38).",
       "source_ids": [
         "S1",
-        "S21"
+        "S21",
+        "S38"
       ],
       "checked": "2026-10-12"
     },
@@ -897,17 +906,17 @@
       "business_unit": "Strategy and Business Development",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Joined QNB Group in 2007; board member, IBTech; former board member, QNB Financial Services (S21).",
+      "appointed_note": "Joined QNB Group in 2007 (S21); appointment date to the EVP role not stated.",
+      "previous_roles": "2007- QNB Group (joined 2007); currently Executive Vice President, Strategy and Business Development, and Lead of the Falcon transformation programme; previously Assistant General Manager, Strategy and Business Development (S21). Current other roles: board member, IBTech (QNB Turkiye technology subsidiary); former board member, QNB Financial Services (S21).",
       "education": "Virginia Commonwealth University (degree not specified) (S21)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Requires verification",
-      "role_evidence": "Title taken from QNB Türkiye board biography (undated, checked 2026-10-12, S21). Not listed on the QNB Group executive page (EVP level); Annual Report 2025 org chart shows 'EVP Financial Strategy and Business Planning' (S8), so the exact current title is unconfirmed.",
+      "role_evidence": "Title from the QNB Turkiye board page biography, checked 2026-10-12 and worded as current in 2026 (S21). Not listed on the QNB Group executive page (S1, EVP level); Annual Report 2025 organisation chart shows 'EVP Financial Strategy and Business Planning' without a name (S8). Role-based searches (QNB strategy EVP / Falcon programme, 2026) found no source naming her, so the exact current Group title is unconfirmed.",
       "source_ids": [
-        "S21",
-        "S8"
+        "S8",
+        "S21"
       ],
       "checked": "2026-10-12"
     },
@@ -923,14 +932,14 @@
       "business_unit": "QNBFS (brokerage subsidiary)",
       "scope": "Subsidiary: QNB Financial Services",
       "appointed": null,
-      "appointed_note": "Appointment date not found; a 2023 news item seen in search results only named 'Abdullah Al Sada' as QNBFS CEO (S28).",
+      "appointed_note": "Appointment date not found; a June 2023 Peninsula article (search snippet only) named 'Abdullah Al Sada' as QNBFS CEO (S28). qnbfs.com returns HTTP 403 to scripted requests.",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Listed under Subsidiaries on official Executive Management page, checked 2026-10-12 (S1). Name search found no news coverage.",
+      "role_evidence": "Listed as 'CEO - QNB Financial Services' under Subsidiaries on the official Executive Management page, read in a browser earlier on 2026-10-12 (S1; qnb.com/qnbfs.com blocked to scripted requests in this pass). Role-based searches (QNB Financial Services CEO, 2025-2026) found no appointment or departure news and no LinkedIn profile.",
       "source_ids": [
         "S1"
       ],
@@ -948,14 +957,14 @@
       "business_unit": "Swiss private bank (offshore private banking hub)",
       "scope": "Subsidiary: QNB (Suisse) SA",
       "appointed": null,
-      "appointed_note": "",
+      "appointed_note": "Appointment date not found. A finews.ch report (search results only, c.2016) named Khaled Suleiman as CEO of QNB Banque Privee (Suisse) from Oct 2015; a Swiss register aggregator (lead only, not cited) shows a management change published in June 2025.",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Listed under Subsidiaries on official Executive Management page, checked 2026-10-12 (S1).",
+      "role_evidence": "Listed as 'CEO - QNB Switzerland' under Subsidiaries on the official Executive Management page, read in a browser earlier on 2026-10-12 (S1; qnb.com blocked to scripted requests in this pass; QNB Suisse pages sit on the same host). Role-based searches (QNB Suisse CEO, 2025-2026) found no appointment news and no LinkedIn profile.",
       "source_ids": [
         "S1"
       ],
@@ -972,24 +981,25 @@
       "business_unit": "Investment banking subsidiary",
       "scope": "Subsidiary: QNB Capital",
       "appointed": "2014-07",
-      "appointed_note": "QNB release 'QNB Capital appoints Mira Al Attiyah as CEO' (3 Jul 2014) seen in search results only (S29).",
-      "previous_roles": null,
+      "appointed_note": "QNB release 'QNB Capital appoints Mira Al Attiyah as CEO' (3 Jul 2014) seen in search results only (S29); Forbes Middle East (Feb 2025): 'joined QNB Capital as its CEO in 2014' (S35).",
+      "previous_roles": "2014- Chief Executive Officer, QNB Capital LLC (investment banking arm of QNB Group, est. 2008); previously Assistant Undersecretary for Trade Affairs, Ministry of Commerce and Industry (Qatar), and senior positions at the Ministry and at the Supreme Council of Information and Communication Technology (ictQATAR) (S35).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Listed under Subsidiaries on official Executive Management page, checked 2026-10-12 (S1).",
+      "role_evidence": "Listed under Subsidiaries on the official Executive Management page, read in a browser earlier on 2026-10-12 (S1; host blocked to scripted requests in this pass); Forbes Middle East 100 Most Powerful Businesswomen 2025 profile, 17 Feb 2025 (S35); a Mar 2025 QNB Capital award release quoting her as CEO was seen in search results only. No departure news found.",
       "source_ids": [
         "S1",
-        "S29"
+        "S29",
+        "S35"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Ömür Tan",
       "name_ar": null,
-      "title": "CEO - QNB Türkiye (General Manager, QNB Bank A.S.)",
+      "title": "CEO (General Manager) and Member of the Board of Directors, QNB Bank A.S. (QNB Turkiye)",
       "functions": [
         "Subsidiary CEO"
       ],
@@ -998,13 +1008,13 @@
       "scope": "Subsidiary: QNB Bank A.S. (Türkiye)",
       "appointed": "2022-01",
       "appointed_note": "Appointed CEO of QNB Bank A.S. in January 2022 (S21).",
-      "previous_roles": "Joined Finansbank in 1998; CEO since Jan 2022; chairs QNB Factoring and IBTech boards; Vice Chairperson, QNB eSolutions (S21).",
-      "education": "BA Statistics, Hacettepe University; MBA, Bilgi University (S21)",
+      "previous_roles": "Jan 2022- CEO (General Manager) and Board Member, QNB Bank A.S.; 2014-2022 Chairperson, Vice Chairperson or Board Member at QNB eSolutions, QNB Factoring, QNB Leasing and QNB Invest; 2011- Executive Vice President, Corporate and Commercial Banking (Project Finance, Cash Management and Foreign Trade Finance), Finansbank; from 1998 Finansbank corporate branches incl. Corporate Branch Manager, Head Office Key Account Management Group Manager and Group Manager Corporate Banking; 1995 management trainee, Yapi ve Kredi Bankasi (S21). Current other roles: Chairperson, QNB Factoring; Vice Chairperson, QNB eSolutions; board member, IBTech (S21).",
+      "education": "BA Statistics, Hacettepe University; MBA, Istanbul Bilgi University (S21)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official QNB Group Executive Management page (S1) and QNB Türkiye board page (S21), checked 2026-10-12.",
+      "role_evidence": "QNB Turkiye Board of Directors page with biographies, checked 2026-10-12 (S21: 'General Manager (CEO) and Member of the Board'); official QNB Group Executive Management page (S1, read earlier on 2026-10-12). No departure news found.",
       "source_ids": [
         "S1",
         "S21"
@@ -1014,7 +1024,7 @@
     {
       "name": "Cumhur Türkmen",
       "name_ar": null,
-      "title": "CEO - Enpara Bank",
+      "title": "General Manager (CEO) and Member of the Board of Directors, Enpara Bank A.S.",
       "functions": [
         "Subsidiary CEO",
         "Digital"
@@ -1023,16 +1033,18 @@
       "business_unit": "Enpara (digital bank, Türkiye)",
       "scope": "Subsidiary: Enpara Bank A.S.",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
-      "education": null,
+      "appointed_note": "General Manager and board member 'since the establishment' of Enpara Bank A.S. (S36); Enpara Bank obtained its BDDK deposit-bank operating licence in August 2024 (S36, S37). Exact appointment date not stated.",
+      "previous_roles": "General Manager and Board Member, Enpara Bank A.S. (since the bank's establishment); from 2015 Enpara.com Digital Banking Director, then Deputy General Manager (QNB Finansbank / QNB Bank A.S.); founding manager of Enpara.com (digital bank launched 2012); 2010-2015 Unit Manager, Business Development and Strategy Office, and Group Manager, CEO Office, QNB Finansbank; 2000-2010 Software Engineer and Project/Portfolio Manager, IBTech A.S. (QNB Finansbank's technology company); 1997 Software Engineer, Sabanci Holding (S36). Current other roles: member of Enpara Bank's Credit Committee, Technology and IS Strategy Committee and Risk Committee (S36).",
+      "education": "Mathematical Engineering, Yildiz Technical University (S36)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Listed under Subsidiaries on official Executive Management page, checked 2026-10-12 (S1).",
+      "role_evidence": "Enpara Bank official Senior Management page, checked 2026-10-12 (S36); Forbes Turkiye profile of 1 Oct 2026 names him General Manager (S37); official QNB Group Executive Management page (S1, read earlier on 2026-10-12). No departure news found.",
       "source_ids": [
-        "S1"
+        "S1",
+        "S36",
+        "S37"
       ],
       "checked": "2026-10-12"
     }
@@ -1607,6 +1619,118 @@
       "published": "2014-07-03",
       "accessed": "2026-10-12",
       "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "QNB recasts its board for 2022-24",
+      "publisher": "Gulf Times",
+      "url": "https://www.gulf-times.com/story/709877/qnb-recasts-its-board-for-2022-24",
+      "doc_type": "News (board election after the 13 Feb 2022 AGM)",
+      "tier": 5,
+      "published": "2022-02-14",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "Speaker biography: His Excellency Ali bin Ahmed Al Kuwari, Minister of Finance, Qatar (Global Conference 2026)",
+      "publisher": "Milken Institute",
+      "url": "https://milkeninstitute.org/events/global-conference-2026/speakers/ali-al-kuwari",
+      "doc_type": "Official biography elsewhere (speaker-provided)",
+      "tier": 4,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page states that speakers provide their own biographies."
+    },
+    {
+      "id": "S32",
+      "title": "QNB shareholders approve 37.5% dividend for H2 2025",
+      "publisher": "Qatar Tribune",
+      "url": "https://www.qatar-tribune.com/article/219882/business/qnb-shareholders-approve-375-dividend-for-h2-2025",
+      "doc_type": "News (AGM for FY2025)",
+      "tier": 5,
+      "published": "2026-02",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S33",
+      "title": "QNB unveils QNB First premium branch in Msheireb",
+      "publisher": "Qatar Tribune",
+      "url": "https://www.qatar-tribune.com/article/246034/business/qnb-unveils-qnb-first-premium-branch-in-msheireb",
+      "doc_type": "News (quotes SEVP Group Retail Banking)",
+      "tier": 5,
+      "published": "2026-07-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S34",
+      "title": "The Middle East's Top 100 CEOs 2026 - Abdulla Mubarak Al-Khalifa, Group CEO, QNB Group",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-100-ceos-2026/abdulla-mubarak-al-khalifa/",
+      "doc_type": "News / ranking profile",
+      "tier": 5,
+      "published": "2026-08-06",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S35",
+      "title": "The Middle East's 100 Most Powerful Businesswomen 2025 - Mira Al-Attiyah, CEO, QNB Capital",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/100-most-powerful-businesswomen-2025/mira-al-attiyah/",
+      "doc_type": "News / ranking profile",
+      "tier": 5,
+      "published": "2025-02-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S36",
+      "title": "Ust Yonetim (Senior Management) - Enpara Bank A.S.",
+      "publisher": "Enpara Bank",
+      "url": "https://www.enpara.com/hakkimizda/ust-yonetim",
+      "doc_type": "Official subsidiary leadership page with biographies",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "tr"
+    },
+    {
+      "id": "S37",
+      "title": "Enpara Bank bagimsiz banka statusuyle yeni urun alanlarina giriyor",
+      "publisher": "Forbes Turkiye",
+      "url": "https://www.forbes.com.tr/para-yatirim/enpara-bank-bagimsiz-banka-statusuyle-yeni-urun-alanlarina-giriyor",
+      "doc_type": "News / interview with Enpara Bank General Manager",
+      "tier": 5,
+      "published": "2026-10-01",
+      "accessed": "2026-10-12",
+      "language": "tr"
+    },
+    {
+      "id": "S38",
+      "title": "Board of Directors - Housing Bank for Trade and Finance",
+      "publisher": "Housing Bank for Trade and Finance (Jordan)",
+      "url": "https://hbtf.com/en/board-of-director",
+      "doc_type": "Official board page of a QNB associate (lists QNB representatives)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S39",
+      "title": "QNB Group announcement: Board of Directors elects H.E. Ali Ahmed Al Kuwari as Chairman (29 Nov 2021)",
+      "publisher": "QNB Group",
+      "url": "https://jobs.qnb.com/sites/qnb/qnbglobal/en/ennews29nov2021news",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2021-11-29",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (qnb.com and mirror hosts return HTTP 403 to scripted requests)."
     }
   ],
   "original_reconciliation": [
@@ -1760,17 +1884,28 @@
         "S21",
         "S8"
       ]
+    },
+    {
+      "field": "Enpara Bank status within QNB Group",
+      "detail": "Enpara Bank's own site describes it as a subsidiary (istiraki) of Qatar National Bank (Q.P.S.C.) licensed by the BDDK in Aug 2024 (S36); Forbes Turkiye (1 Oct 2026) describes Enpara as having separated from QNB Bank A.S. a year earlier into independent-bank status (S37).",
+      "source_ids": [
+        "S36",
+        "S37"
+      ],
+      "resolution": "Both are consistent with Enpara being a direct QNB Group subsidiary rather than a unit of QNB Bank A.S.; the subsidiaries table (99.88% per FY2025 statements, S5) was not changed in the people pass - re-check ownership in the next metrics pass."
     }
   ],
   "open_items": [
-    "qnb.com, qnbfs.com and other QNB hosts return Cloudflare 403 to WebFetch/curl; official pages and the Annual Report 2025 were read in an interactive browser session instead. The Q2/Q3 2026 investor presentations were not reviewed.",
-    "LinkedIn: no matching profiles found for Al-Khalifa, Al-Sada (AWM), Al-Malki or Al-Sulaiti in searches; all set to 'Not verified'. Abu Hijleh and Maryam Al-Kuwari not separately searched.",
-    "No official biographies or appointment dates for Abdulla Hashim Al-Sada, Khalid Ahmed Al-Sada, Maha Al-Sulaiti, Ghadeer Abu Hijleh, Maryam Al-Kuwari, Ali Rashid Al-Mohannadi or Cumhur Türkmen.",
     "Check whether the QNBFS integrated multi-market retail trading platform (expected 2026, S8) has launched, and its technology vendor.",
     "Private Banking AUM value, QNB Suisse AUM, and QNB First Plus / QNB Private eligibility thresholds are not published on the pages checked; QNB Suisse's own Swiss annual report not reviewed.",
     "Brief lead 'QNB Asset Management' as an entity: no separate asset-management legal entity appears in the FY2025 subsidiary list (S5); asset management is a division of Group AWM. QNB Capital LLC is investment banking.",
     "Ghadeer Abu Hijleh: a 2011 NBAD release (search results only) names a person of that name as NBAD Head of Private Banking for Abu Dhabi and Al Ain; not confirmed to be the same person, so not recorded as prior career.",
-    "Group wealth AUM across subsidiaries (e.g. QNB Türkiye, QNB Egypt private banking) not disclosed in consolidated terms; Annual Report notes QNB Türkiye QNB First and Private Banking AUM 'rising sharply' without values."
+    "Group wealth AUM across subsidiaries (e.g. QNB Türkiye, QNB Egypt private banking) not disclosed in consolidated terms; Annual Report notes QNB Türkiye QNB First and Private Banking AUM 'rising sharply' without values.",
+    "qnb.com, qnbfs.com and QNB mirror hosts (jobs.qnb.com, qnb.com.eg) return Cloudflare HTTP 403 to scripted requests (re-confirmed in the people pass on 2026-10-12); the official Executive Management/Board pages and the Annual Report 2025 were read in an interactive browser session earlier the same day (B19) and could not be re-read. Qatar MoF, GCO and Hukoomi pages (chairman biography) also returned 403. The Q2/Q3 2026 investor presentations were not reviewed.",
+    "People pass X03: no official biography or appointment date found for Abdulla Hashim Al-Sada, Khalid Ahmed Al-Sada, Maha Al-Sulaiti, Ghadeer Abu Hijleh, Maryam Al-Kuwari or Ali Rashid Al-Mohannadi; the QNB Turkiye board page (S21) supplied bios for Al-Khalifa, Al-Neama, Al-Malki, Al-Naimi, Mari, Al-Mutawa and Tan only.",
+    "Chairman Ali bin Ahmed Al-Kuwari: education (search summaries cite Eastern Washington University and Seattle Pacific University) not confirmed in any source opened; left null.",
+    "LinkedIn (people pass X03): role-based searches surfaced no LinkedIn profile for any QNB executive; name-based look-ups are not permitted in this environment; all key people remain 'Not verified' or 'Not checked'.",
+    "QNB (Suisse) SA CEO: a Swiss register aggregator (lead only) shows a management change published June 2025 and finews.ch (c.2016) named Khaled Suleiman as CEO from Oct 2015; Ghadeer Abu Hijleh's appointment date and biography remain unknown."
   ],
   "research_status": "Complete",
   "researched_by": "B19",
