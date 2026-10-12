@@ -1,0 +1,1382 @@
+{
+  "id": "sa-albilad-capital",
+  "name": "Albilad Capital",
+  "short_name": "Albilad Capital",
+  "legal_name": "Albilad Investment Company (a Saudi Closed Joint Stock Company), trading as Albilad Capital",
+  "name_ar": "البلاد المالية (شركة البلاد للاستثمار)",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://www.albilad-capital.com",
+  "linkedin_company": "https://www.linkedin.com/company/albilad-capital",
+  "category": "Bank-owned investment subsidiary",
+  "type": "Asset & wealth manager",
+  "model": "Not applicable",
+  "founded": "2007 (registered as a limited liability company 20 Nov 2007, CR 1010240489; CMA letter 2-38-2007 dated 22 Jul 2007; CMA licence 08100-37 dated 14 Aug 2007). Converted to a closed joint stock company on 10 Jul 2017. Forbes Middle East and company press releases say 'established in 2008'.",
+  "regulators": [
+    "CMA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": "sa-albilad",
+  "ownership_summary": "100% owned by Bank Albilad. Share capital SAR 500m (raised from SAR 200m during 2024). Paid SAR 150m of dividends to the parent in 2024.",
+  "shareholders": [
+    {
+      "holder": "Bank Albilad",
+      "pct": 100.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S14",
+        "S15"
+      ]
+    }
+  ],
+  "government_link": "Indirect at most: PIF was the anchor investor in the Albilad MSCI Saudi Equity ETF (Oct 2025), but holds no stake in the company. The parent has no government shareholder above 5% (see sa-albilad).",
+  "group_structure": "100% subsidiary of Bank Albilad (sa-albilad), consolidated by the parent and reported inside its 'Investment banking and brokerage' segment (FY2025 operating income SAR 433.0m; the segment was within SAR 1m of Albilad Capital's own FY2024 operating income of SAR 404.0m). Never add this record's figures to sa-albilad. The parent AR calls Albilad Capital 'the Bank's investments and capital-markets arm, critical to wealth management, fund performance, and corporate finance execution'. Its only external financing is two short-term SAR 50m murabaha facilities from Saudi National Bank (AR 2025).",
+  "subsidiaries": [],
+  "footprint": "Saudi Arabia, head office in Riyadh. The sources opened name no branch network. International trading is offered through the Albilad Global app; Albilad Capital ETFs are listed on the Saudi Exchange and the firm cites a 52% share of GCC ETF market capitalisation (Oct 2025).",
+  "customer_segments": "Retail and affluent investors (public funds from SAR 5,000, ETFs, brokerage), discretionary portfolio clients, institutions and government (sukuk primary dealer, IPO and sukuk mandates), developers and real estate sponsors (fund structuring), foreign investors via ETFs.",
+  "business_lines": "FY2024 audited operating income SAR 404.0m: asset management SAR 146.1m, securities services (custody) SAR 107.0m, brokerage net SAR 92.3m, special commission (margin lending) SAR 38.4m, advisory SAR 15.0m. Lines: 7 listed ETFs (Saudi equity, US equity and tech, Hong Kong China, gold, sovereign sukuk), public mutual funds (12 listed), discretionary portfolio management, real estate and hospitality funds, brokerage (Saudi and international, online Murabaha margin, single stock options), investment banking (IPO and sukuk mandates), securities custody, research (monthly market reports).",
+  "metrics": [
+    {
+      "metric": "aum",
+      "value": 10.35,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-12-31",
+      "period_label": "2025 (as stated by Forbes Middle East)",
+      "period_type": "point_in_time",
+      "scope": "Albilad Capital, as stated in the Forbes Middle East Top 50 Asset Managers 2026 profile",
+      "definition": "'AUM' of USD 10.35bn in 2025 per Forbes; the profile gives no exact date or discretionary split",
+      "status": "Requires verification",
+      "source_ids": [
+        "S21"
+      ],
+      "locator": "Profile page",
+      "note": "No company-published total AUM found. Components published by the company: real estate approaching SAR 21bn (Nov 2025) and ETF segment about SAR 6bn (Oct 2025). Forbes figure is in USD as printed."
+    },
+    {
+      "metric": "real_estate_aum",
+      "value": 21,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-11-18",
+      "period_label": "Nov 2025 (CEO statement, 18 Nov 2025)",
+      "period_type": "point_in_time",
+      "scope": "Real estate assets managed by Albilad Capital",
+      "definition": "CEO said the company manages real estate assets 'approaching 21 billion SAR'",
+      "status": "Verified",
+      "source_ids": [
+        "S8"
+      ],
+      "locator": "Cityscape announcement",
+      "note": "Rounded, company statement. Included in total AUM."
+    },
+    {
+      "metric": "etf_aum",
+      "value": 6,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2025-10-26",
+      "period_label": "26 Oct 2025 (press release)",
+      "period_type": "point_in_time",
+      "scope": "Albilad Capital ETFs",
+      "definition": "'Approximately SAR 6 billion in assets under management in this segment' (ETFs), per the release on the listing of the Albilad MSCI Saudi Equity ETF",
+      "status": "Verified",
+      "source_ids": [
+        "S9"
+      ],
+      "locator": "News item 26 Oct 2025",
+      "note": "Approximate. The sovereign sukuk ETF alone had net assets of SAR 65.8m at end-2025 (S18)."
+    },
+    {
+      "metric": "etf_market_share_saudi",
+      "value": 64,
+      "unit": "percent",
+      "currency": null,
+      "period_end": "2025-10-26",
+      "period_label": "26 Oct 2025 (press release)",
+      "period_type": "point_in_time",
+      "scope": "Albilad Capital ETFs as share of Saudi ETF market capitalisation",
+      "definition": "'64% of the total Saudi ETF market cap, and 52% of the total GCC ETF market cap'",
+      "status": "Verified",
+      "source_ids": [
+        "S9"
+      ],
+      "locator": "News item 26 Oct 2025",
+      "note": "Parent AR 2025 says above 70% local and about 53% regional share (S15 PDF p.63); an undated 2024 release said 70% of Saudi ETFs and 60% of ETF unit holders (S12). Different measures or dates."
+    },
+    {
+      "metric": "aua",
+      "value": 50,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-11-10",
+      "period_label": "10 Nov 2025 (State Street press release)",
+      "period_type": "point_in_time",
+      "scope": "Albilad Capital",
+      "definition": "'Manages over USD 50 billion in assets under custody and/or administration' as written in the State Street release copy",
+      "status": "Verified",
+      "source_ids": [
+        "S22"
+      ],
+      "locator": "Press release text",
+      "note": "Lower bound, USD as printed. Appears in State Street's release, not in Albilad Capital's own copy (S7, which gives no figure). Securities services income was SAR 107.0m in FY2024."
+    },
+    {
+      "metric": "etf_count",
+      "value": 7,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-10-26",
+      "period_label": "26 Oct 2025",
+      "period_type": "point_in_time",
+      "scope": "ETFs listed in the Saudi market",
+      "definition": "Albilad MSCI Saudi Equity ETF is 'Albilad Capital's seventh ETF in the Saudi market'; the website lists 7 ETFs",
+      "status": "Verified",
+      "source_ids": [
+        "S9",
+        "S3"
+      ],
+      "locator": "S9 text; S3 ETF list",
+      "note": "Sukuk, MSCI US Equity, Gold, MSCI US Tech, MSCI Saudi Growth, CSOP MSCI Hong Kong China, MSCI Saudi Equity."
+    },
+    {
+      "metric": "fund_count",
+      "value": 12,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Website, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "Public mutual funds shown on the website",
+      "definition": "12 public mutual funds listed on the 'Public Mutual Funds' page, which also has a 'View More' link (so the list may be incomplete)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "Public Mutual Funds page",
+      "note": "Excludes ETFs, private and real estate funds. No fund AUM on the page."
+    },
+    {
+      "metric": "digital_share_of_trading_turnover",
+      "value": 76,
+      "unit": "percent",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Albilad Capital brokerage",
+      "definition": "Share of trading turnover executed via web and mobile (AR 2025 subsidiaries page, '76% of trading turnover via web&mobile')",
+      "status": "Verified",
+      "source_ids": [
+        "S15"
+      ],
+      "locator": "S15 PDF pp.63-64",
+      "note": "The AR highlight prints it as '+76%'; the detail page prints '76% of trading turnover via web&mobile'."
+    },
+    {
+      "metric": "total_assets",
+      "value": 1189280953,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2024-12-31",
+      "period_label": "31 Dec 2024",
+      "period_type": "point_in_time",
+      "scope": "Albilad Investment Company, audited",
+      "definition": "Total assets (SAR as printed; includes margin lending receivable 354,748,725 and FVSI investments 346,987,625)",
+      "status": "Verified",
+      "source_ids": [
+        "S14"
+      ],
+      "locator": "S14 PDF p.5",
+      "note": "Latest standalone statement found. FY2025 statements were not found on the website (guessed URL returned 404) and no interim statements are published. 31 Dec 2023: 1,025,695,752."
+    },
+    {
+      "metric": "total_equity",
+      "value": 959332805,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2024-12-31",
+      "period_label": "31 Dec 2024",
+      "period_type": "point_in_time",
+      "scope": "Albilad Investment Company",
+      "definition": "Total shareholder's equity (share capital 500,000,000; statutory reserve 78,691,765; retained earnings 387,428,720)",
+      "status": "Verified",
+      "source_ids": [
+        "S14"
+      ],
+      "locator": "S14 PDF p.5",
+      "note": "Latest available."
+    },
+    {
+      "metric": "operating_income",
+      "value": 403964244,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2024-12-31",
+      "period_label": "FY2024",
+      "period_type": "duration",
+      "scope": "Albilad Investment Company",
+      "definition": "'Total operating income' = total revenue 401,814,222 + other income 2,150,022",
+      "status": "Verified",
+      "source_ids": [
+        "S14"
+      ],
+      "locator": "S14 PDF p.6",
+      "note": "Latest standalone year found. FY2023: 300,838,511 (+34%)."
+    },
+    {
+      "metric": "net_profit",
+      "value": 186917646,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2024-12-31",
+      "period_label": "FY2024",
+      "period_type": "duration",
+      "scope": "Albilad Investment Company",
+      "definition": "'Net income for the year' (after zakat; income before zakat 207,686,274); single shareholder",
+      "status": "Verified",
+      "source_ids": [
+        "S14"
+      ],
+      "locator": "S14 PDF pp.7-8",
+      "note": "Latest available."
+    },
+    {
+      "metric": "asset_management_fees",
+      "value": 146087514,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2024-12-31",
+      "period_label": "FY2024",
+      "period_type": "duration",
+      "scope": "Albilad Investment Company",
+      "definition": "'Income from asset management services'",
+      "status": "Verified",
+      "source_ids": [
+        "S14"
+      ],
+      "locator": "S14 PDF p.6",
+      "note": "FY2023: 105,937,490 (+38%). 36% of FY2024 operating income."
+    },
+    {
+      "metric": "brokerage_commission_income",
+      "value": 92324402,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2024-12-31",
+      "period_label": "FY2024",
+      "period_type": "duration",
+      "scope": "Albilad Investment Company",
+      "definition": "'Income from brokerage services, net'",
+      "status": "Verified",
+      "source_ids": [
+        "S14"
+      ],
+      "locator": "S14 PDF p.6",
+      "note": "FY2023: 83,536,409 (+11%)."
+    },
+    {
+      "metric": "securities_services_income",
+      "value": 106962997,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2024-12-31",
+      "period_label": "FY2024",
+      "period_type": "duration",
+      "scope": "Albilad Investment Company",
+      "definition": "'Income from securities services' (custody and related services)",
+      "status": "Verified",
+      "source_ids": [
+        "S14"
+      ],
+      "locator": "S14 PDF p.6",
+      "note": "FY2023: 63,689,026 (+68%). Context for the 2025 State Street agreement."
+    },
+    {
+      "metric": "parent_segment_operating_income",
+      "value": 432976,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank Albilad 'Investment banking and brokerage' segment (proxy; not Albilad Capital standalone)",
+      "definition": "Segment total operating income; segment income before zakat 238,858",
+      "status": "Verified",
+      "source_ids": [
+        "S17"
+      ],
+      "locator": "S17 PDF p.63",
+      "note": "FY2024 segment: 404,939 versus Albilad Capital's own 403,964, so a close proxy. Only FY2025 data point."
+    },
+    {
+      "metric": "parent_segment_operating_income",
+      "value": 189105,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Bank Albilad 'Investment banking and brokerage' segment (proxy; not Albilad Capital standalone)",
+      "definition": "Segment total operating income, six months; segment income before zakat 87,923",
+      "status": "Verified",
+      "source_ids": [
+        "S16"
+      ],
+      "locator": "S16 PDF p.36",
+      "note": "H1 2025: 234,740 (-19.4%); income before zakat H1 2025: 135,764 (-35.2%)."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "Company website pages (S1-S5), news items (S6-S13), FS 2024 (S14), parent AR 2025 (S15)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "App Store listings (S24-S27, only a rating count); parent AR 2025 (S15)"
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "FS 2024 (S14); parent AR 2025 (S15); website. A LinkedIn search summary showed a 201-500 size band, not recorded as a metric."
+    },
+    {
+      "metric": "aum_30_jun_2026",
+      "status": "Not publicly disclosed",
+      "where_checked": "Website news (S5) and fund pages (S2, S3) give no total; no interim or FY2025 standalone statements found on the website; parent H1 2026 FS give only segment income (S16)"
+    },
+    {
+      "metric": "discretionary_aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Asset management page (S1); parent AR (S15); FS 2024 (S14)"
+    },
+    {
+      "metric": "brokerage_market_share",
+      "status": "Not publicly disclosed",
+      "where_checked": "Parent AR 2025 (S15) gives digital share of turnover but no brokerage value traded or share; website (S4)"
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "Website (S1, S4) lists no wealth management unit or balances"
+    }
+  ],
+  "people": [
+    {
+      "name": "Zaid bin Mohammed Al-Mufarih",
+      "name_ar": null,
+      "title": "Chief Executive Officer and Board Member",
+      "functions": [
+        "CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Albilad Investment Company (Albilad Capital)",
+      "business_unit": "Executive Management",
+      "scope": "Subsidiary",
+      "appointed": "2018",
+      "appointed_note": "'Assumed his current role in 2018' per Forbes Middle East 2026; chairs the Albilad Capital fund boards (FY2025 fund report). Spelled Almufarih, Al-Mufarih, Al-Mufraih across sources.",
+      "previous_roles": "Previously held roles at the Capital Market Authority (Forbes ME). A fund-board biography calls him 'Country Chief Financial Officer' with more than 15 years in the financial markets, with leadership positions in banking and financial services in the Kingdom. Ranked 15th in Forbes Middle East Top 50 Asset Managers 2026.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/zaid-almufarih-ab35661a/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as CEO in Albilad Capital's own releases of 26 Oct, 10 Nov, 18 Nov and 1 Dec 2025 (S9, S7, S8, S6); Forbes ME 2026 list (S21); fund board report FY2025 (S18). LinkedIn search result 'Zaid Almufarih - Albilad Capital البلاد المالية'; profile not opened (S36). No departure news found.",
+      "source_ids": [
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S18",
+        "S21",
+        "S36"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ihsan bin Abbas Bafakih",
+      "name_ar": null,
+      "title": "Chairman of the Board (per Albilad Capital board CV)",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Albilad Investment Company (Albilad Capital)",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": "2023-04",
+      "appointed_note": "Chairman 'since April 2023' per the board CV (file metadata dated 12 Dec 2023).",
+      "previous_roles": "25+ years in banking, investment and real estate services. Governor of the State Properties General Authority; member of the Investment Committee of the Royal Commission for Makkah City and Holy Sites and of the Events Investment Fund Council Executive Committee; board and committee roles at Kidana Company. Previously led business sectors at HSBC Saudi Arabia, Saudi National Bank and the Saudi Authority for Industrial Cities and Technology Zones.",
+      "education": "Bachelor's in Business Administration, University of Westminster (Salt Lake City, USA)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Conflicting sources",
+      "role_evidence": "The company's board CV (undated, Dec 2023 metadata) names him Chairman and AlOnaizan Vice Chairman (S19, S20). An executive directory seen in search results (not opened) lists him as current Chairman, updated 3 Jun 2026 (S30). The parent's board page (Oct 2026) says AlOnaizan is Chairman of Albilad Capital (S29).",
+      "source_ids": [
+        "S19",
+        "S20",
+        "S29",
+        "S30"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulaziz Mohammed AlOnaizan",
+      "name_ar": null,
+      "title": "Vice Chairman (per Albilad Capital board CV); Chairman of Albilad Capital (per the parent's board page); Chairman of Bank Albilad",
+      "functions": [
+        "Board",
+        "Chair"
+      ],
+      "entity": "Albilad Investment Company (Albilad Capital)",
+      "business_unit": "Board of Directors",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Became Chairman of Bank Albilad on 1 Jun 2026 after stepping down as bank CEO. Role at Albilad Capital differs by source. Full profile in sa-albilad.",
+      "previous_roles": "CEO of Bank Albilad from 2016 to Apr 2026; 35+ years in banking; chairs Enjaz Payment Services; board roles at ZATCA advisory board, REDF, HRDF and Buna (board CV).",
+      "education": "Bachelor's in Quantitative Methods, King Saud University (1987, board CV); executive education at INSEAD Singapore and IESE",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Conflicting sources",
+      "role_evidence": "Albilad Capital board CV calls him Vice Chairman and Executive Committee member (S20); the parent's board page, checked 2026-10-12, says he is Chairman of Albilad Capital (S29). Which is current is not confirmed.",
+      "source_ids": [
+        "S20",
+        "S29"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Haytham Sulaiman Al-Suhaimi",
+      "name_ar": null,
+      "title": "Board Member; Vice President / Chief Business Development Officer, Business Development",
+      "functions": [
+        "Board",
+        "Innovation / partnerships"
+      ],
+      "entity": "Albilad Investment Company (Albilad Capital)",
+      "business_unit": "Business Development",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Non-independent member of the Albilad Capital fund boards. Also a non-executive director of Bank Albilad.",
+      "previous_roles": "Albilad Capital (financial analyst in investment banking, private equity and business development); Jadwa Investment (from 2015); SAPIN UAE (management roles)",
+      "education": "Master's in Investment and Financial Risks, University of Westminster",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Bank Albilad board page checked 2026-10-12 lists him as Chief Business Development Officer at Albilad Capital (S29); FY2025 fund board report calls him Member of the Board and Vice President of Business Development (S18)",
+      "source_ids": [
+        "S18",
+        "S29"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Alaqeel",
+      "name_ar": null,
+      "title": "Chief Investment Officer (per LinkedIn search summary)",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Albilad Investment Company (Albilad Capital)",
+      "business_unit": "Asset Management",
+      "scope": "Subsidiary",
+      "appointed": "2020-08",
+      "appointed_note": "A LinkedIn search summary said he became CIO in August 2020 after serving as Head of Equities and then Head of Asset Management. Not confirmed on an official page.",
+      "previous_roles": "Head of Equities and Head of Asset Management at Albilad Capital before becoming CIO (search summary, not opened)",
+      "education": null,
+      "qualifications": "CFA, CMT (shown in the profile name)",
+      "linkedin_url": "https://www.linkedin.com/in/abdullah-alaqeel-cfa/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Requires verification",
+      "role_evidence": "LinkedIn search result 'Abdullah Alaqeel, CFA, CMT - Albilad Capital البلاد المالية' (name and employer match); the title and dates come from the search summary only (S31). No official page names the CIO or head of asset management.",
+      "source_ids": [
+        "S31"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Motasim Alouthah",
+      "name_ar": null,
+      "title": "Chief Operating Officer (per LinkedIn search summary)",
+      "functions": [
+        "Operations",
+        "Technology"
+      ],
+      "entity": "Albilad Investment Company (Albilad Capital)",
+      "business_unit": "Operations, Procurement, Data Management, Administration Services",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Director and Head of Operations, Al Rajhi Capital; Head of Asset Management Operations, Riyad Capital; Vice President, Securities Services Operations, Albilad Capital; about 8 years at HSBC Saudi Arabia (search summary of profile text)",
+      "education": "MBA, Al Yamamah University; bachelor's in Administrative Science, King Abdulaziz University",
+      "qualifications": null,
+      "linkedin_url": "https://sa.linkedin.com/in/alouthah",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Requires verification",
+      "role_evidence": "LinkedIn search result 'Motasim Alouthah, MBA'; search summaries of the profile text give COO at Albilad Capital. Profile fetch returned HTTP 999 (S32). No official page names the COO.",
+      "source_ids": [
+        "S32"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saleh AlBatah",
+      "name_ar": null,
+      "title": "Head of Brokerage (per executive directory)",
+      "functions": [
+        "Brokerage"
+      ],
+      "entity": "Albilad Investment Company (Albilad Capital)",
+      "business_unit": "Brokerage",
+      "scope": "Subsidiary",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "An executive-directory profile seen in search results lists him as Head of Brokerage, updated 3 Jun 2026; the page returned HTTP 403 when opened and no official source names the brokerage head (S33).",
+      "source_ids": [
+        "S33"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Albilad Capital is Bank Albilad's licensed investment arm and the product engine behind the bank's investment offer. It manages a large ETF franchise (7 ETFs; about SAR 6bn and 64% of Saudi ETF market cap in Oct 2025), real estate funds (assets managed approaching SAR 21bn in Nov 2025), 12 listed public mutual funds, and discretionary portfolios, and offers Saudi and international brokerage with online Murabaha margin and single stock options. Forbes Middle East cites USD 10.35bn of AUM for 2025 (unverified). FY2024 operating income was SAR 404m (asset management SAR 146m, custody SAR 107m, brokerage SAR 92m); the parent's segment data suggest SAR 433m in FY2025 and a 19% fall in H1 2026. Product strategy leans on third-party partners: KraneShares (2023 MoU), CSOP (Hong Kong China ETF), State Street (Nov 2025 securities-services agreement) and Asset Management One (Dec 2025 MoU for a Japan equity ETF due by end-2026). The distribution side is digital: 76% of turnover through web and mobile, a new Albilad-Capital Saudi trading app (2026), Albilad Global apps for international markets, and distribution through the Madkhol app (Jan 2026). No wealth management or advisory page, model portfolios or structured products were found.",
+    "segments": [],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private banking unit at Albilad Capital; Private Banking is run by the parent bank (see sa-albilad). The asset management page lists discretionary portfolios with no minimum.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "7 ETFs (sovereign sukuk 9403, MSCI US Equity, Gold, MSCI US Tech, MSCI Saudi Growth, CSOP MSCI Hong Kong China, MSCI Saudi Equity), about SAR 6bn ETF AUM and 64% Saudi ETF market cap (Oct 2025); 12 listed public mutual funds (Saudi Equity Income, GCC Equity Income, SAR Murabaha, Kuwait Equity, Diversified SAR, Fund of REIT, Ensan Endowment, Multi-Assets Balanced, Pure Saudi Equity, Freestyle Saudi Equity, Sukuk, King Faisal University Endowment); real estate and hospitality funds (Makkah Vision, Qurtubah Square, Hittin, Albilad Real Estate Fund II, Albilad Hospitality Fund I). Minimum subscription SAR 5,000 on the Saudi Equity Income Fund. Approved as market maker for three ETFs from 21 Sep 2026.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S9",
+        "S8",
+        "S15",
+        "S23"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Local and international trading, online Murabaha, trading packages, single stock options, public subscription (IPO) services; brokerage income SAR 92.3m net in FY2024; margin lending receivable SAR 354.7m at end-2024; 76% of turnover via web and mobile in 2025. Apps: Albilad-Capital (Saudi equities, funds, ETFs, IPOs, margin; 2026), Albilad Tadawul (older Saudi app) and Albilad Global / Global Lite (Shariah-compliant stocks, ETFs and options on international markets). Commissions not published on the page opened.",
+      "source_ids": [
+        "S4",
+        "S14",
+        "S15",
+        "S24",
+        "S25",
+        "S26",
+        "S27"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "New 'Albilad-Capital' app (App Store, copyright 2026; account opening, Saudi equities, mutual funds and ETFs, IPO subscription, margin, P&L and average cost reports). Older 'Albilad Tadawul' app (v3.0.4, June 2024, 2.1 stars from 68 ratings). 'Albilad Global' and 'Global Lite' for international markets. AR 2025 adds conditional orders, biometric login, buying-power calculator and a 'Super App' in beta with streamlined mobile onboarding and KYC. Funds are also offered inside the Madkhol app (announced Jan 2026).",
+      "source_ids": [
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S15",
+        "S28"
+      ]
+    },
+    "advisory": {
+      "present": "Unclear",
+      "detail": "CMA licence covers advising and FY2024 income included SAR 15.0m of advisory fees (investment banking side). No retail or wealth advisory service is described on the pages opened.",
+      "source_ids": [
+        "S14",
+        "S1"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Discretionary Portfolio Management is listed on the asset management page; no minimum, mandate types or fee published; DPM AUM not disclosed.",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo-advisor or model portfolio product found on the website, in the App Store listings or in AR 2025. Multi-Assets Balanced Fund is the closest risk-profiled option.",
+      "source_ids": [
+        "S2",
+        "S24"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "Own funds and ETFs only. No third-party fund shelf found; third-party involvement is as ETF sub-advisers or index providers (CSOP, MSCI, Ideal Ratings) and distribution partner Madkhol.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S12",
+        "S28"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured products on the product pages opened (asset management, brokerage).",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Real estate assets managed approaching SAR 21bn (CEO, Nov 2025): Makkah Vision Real Estate Fund (about SAR 11bn, with Thakher and the Royal Commission for Makkah as sponsor; launched May 2025), Albilad Real Estate Fund II (SAR 4.4bn, Qurtubah, Riyadh), Albilad Hospitality Fund I (Mövenpick Riyadh, about SAR 1bn), Albilad Tourism Fund with the Tourism Development Fund (Rixos Murjana), and a Tilal MoU for a SAR 1.2bn Al Khobar project.",
+      "source_ids": [
+        "S8",
+        "S13",
+        "S5"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Funds and ETFs are described as complying with Albilad Capital's Shariah Committee: sovereign sukuk ETF, Shariah-screened MSCI ETFs, Murabaha and sukuk funds, Shariah-compliant global stocks, ETFs and options in Albilad Global, planned Shariah-compliant Japan equity ETF. Whether the whole firm is Shariah-only is not stated (model left 'Not applicable').",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S6",
+        "S25"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Sukuk",
+      "Gold / precious metals",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "State Street Corporation",
+        "kind": "Securities services / post-trade technology",
+        "what": "Strategic co-operation agreement signed 29 Oct 2025 in Riyadh: State Street supports Albilad Capital's securities services offering; joint work on post-trade services, technology, and ETF capabilities to attract foreign direct investment. 'First step' in a longer relationship.",
+        "date": "2025-11-10",
+        "status": "Announced",
+        "source_ids": [
+          "S7",
+          "S22"
+        ]
+      },
+      {
+        "partner": "Asset Management One (Mizuho Group, Japan)",
+        "kind": "Product partner",
+        "what": "MoU signed 1 Dec 2025 in Tokyo to launch the first Shariah-compliant Japanese equities ETF on Tadawul, targeted before the end of 2026",
+        "date": "2025-12-01",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "partner": "KraneShares",
+        "kind": "Product partner",
+        "what": "MoU at the Financial Sector Conference 2023 to launch ETFs on emerging markets, China and carbon/climate assets in Saudi Arabia; no resulting ETF identified",
+        "date": "2023",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "partner": "CSOP Asset Management (Hong Kong)",
+        "kind": "Product partner",
+        "what": "Partner on the Albilad CSOP MSCI Hong Kong China Equity ETF, the sixth Albilad ETF",
+        "date": "2024",
+        "status": "Live",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "partner": "Public Investment Fund (PIF)",
+        "kind": "Anchor investor",
+        "what": "Anchor investor in the Albilad MSCI Saudi Equity ETF listed 26 Oct 2025 (amount not disclosed)",
+        "date": "2025-10-26",
+        "status": "Live",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "partner": "Madkhol Capital",
+        "kind": "Distribution",
+        "what": "Albilad Capital investment products to be offered inside the Madkhol Capital app",
+        "date": "2026-01-19",
+        "status": "Announced",
+        "source_ids": [
+          "S28"
+        ]
+      },
+      {
+        "partner": "Ministry of Finance / National Debt Management Center",
+        "kind": "Distribution primary dealer",
+        "what": "Appointed distribution primary dealer for local government sukuk; submits monthly primary-market subscriptions for clients",
+        "date": "2024-07-11",
+        "status": "Live",
+        "source_ids": [
+          "S11",
+          "S5"
+        ]
+      },
+      {
+        "partner": "DirectFN",
+        "kind": "Execution / platform technology",
+        "what": "The copyright line of the 'Albilad Tadawul' iOS app reads 'Copyright 2019 DirectFN'; not announced anywhere opened, so the role is inferred",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S27"
+        ]
+      },
+      {
+        "partner": "IB Exchange Corp.",
+        "kind": "Execution / platform technology",
+        "what": "The 'Albilad Global' iOS app copyright notice names IB Exchange Corp.; no announcement found and the executing broker for international trades is not named",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S25"
+        ]
+      },
+      {
+        "partner": "Real estate sponsors and developers",
+        "kind": "Product partners",
+        "what": "Thakher Company and the Royal Commission for Makkah City and Holy Sites (Makkah Vision fund); Safa Investment and Rasf Investment (Qurtubah fund); Tilal Real Estate (Al Khobar MoU, 25hours hotel brand); AlMutawir (Laysen Valley fund); Tourism Development Fund (Rixos Murjana)",
+        "date": "2025-11-18",
+        "status": "Live",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "partner": "Bank Albilad (parent)",
+        "kind": "Distribution",
+        "what": "Bank site links to Albilad Capital for investments; the parent consolidates it and funds it only through related-party balances and an SNB murabaha line",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S15",
+          "S14"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2024-01-31",
+        "what": "Listed the Albilad MSCI Saudi Growth ETF",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2024-07-11",
+        "what": "Signed with the Ministry of Finance and National Debt Management Center to act as distribution primary dealer for local government sukuk",
+        "source_ids": [
+          "S11",
+          "S5"
+        ]
+      },
+      {
+        "date": "2024-09-18",
+        "what": "Announced the sixth ETF, the Albilad CSOP MSCI Hong Kong China Equity ETF",
+        "source_ids": [
+          "S12",
+          "S5"
+        ]
+      },
+      {
+        "date": "2024-11-03",
+        "what": "Albilad Hospitality Fund I acquired the Mövenpick Hotel and Residences, Riyadh, for close to SAR 1bn",
+        "source_ids": [
+          "S13",
+          "S5"
+        ]
+      },
+      {
+        "date": "2025-05-05",
+        "what": "Launched the Makkah Vision Real Estate Fund",
+        "source_ids": [
+          "S5"
+        ]
+      },
+      {
+        "date": "2025-10-26",
+        "what": "Listed the Albilad MSCI Saudi Equity ETF (seventh ETF) with PIF as anchor investor",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2025-11-10",
+        "what": "Signed a strategic co-operation agreement with State Street for securities services and post-trade capabilities",
+        "source_ids": [
+          "S7",
+          "S22"
+        ]
+      },
+      {
+        "date": "2025-11-18",
+        "what": "Announced agreements above SAR 16bn at Cityscape: Makkah Vision fund (about SAR 11bn), Albilad Real Estate Fund II (SAR 4.4bn) and a Tilal MoU (about SAR 1.2bn)",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2025-12-01",
+        "what": "Signed an MoU with Asset Management One to list a Shariah-compliant Japanese equities ETF on Tadawul before end-2026",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Parent AR 2025 lists: new ETF and multi-asset platform goal of becoming a 'Global Shariah ETF Manager', King Faisal University Endowment Fund, sole lead manager of the Umm Al Qura IPO, joint bookrunner on PIF USD 1.25bn sukuk, 'Super App' beta with streamlined onboarding and KYC",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2026-01-19",
+        "what": "Madkhol Capital announced it will offer Albilad Capital's products in its app",
+        "source_ids": [
+          "S28"
+        ]
+      },
+      {
+        "date": "2026-06",
+        "what": "Published the new 'Albilad-Capital' Saudi trading app on the App Store (copyright 2026; first release 13 Jun 2026 per an app-data aggregator)",
+        "source_ids": [
+          "S24",
+          "S34"
+        ]
+      },
+      {
+        "date": "2026-09-21",
+        "what": "Tadawul approved Albilad Capital as market maker for three ETFs (sovereign sukuk, MSCI Saudi Growth, MSCI Saudi Equity), effective 21 Sep 2026",
+        "source_ids": [
+          "S23"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Product shelf is built through partners: KraneShares MoU (2023), CSOP (2024), State Street agreement and Asset Management One MoU (both late 2025), showing a pattern of signing international product and infrastructure partners (S10, S12, S7, S6)",
+        "Stated ambition to be a 'Global Shariah ETF Manager' and to scale an ETF and multi-asset platform (S15 PDF p.63)",
+        "Distributes through a third-party app (Madkhol, Jan 2026), so it is open to external distribution channels (S28)",
+        "No robo, model portfolio, structured product or third-party fund shelf found; wealth management and advisory are not described on the website (S1, S2, S4)",
+        "Digital is the main channel: 76% of trading turnover via web and mobile and a new Saudi trading app in June 2026 (S15, S24)",
+        "Parent segment income fell 19.4% in H1 2026 (SAR 189.1m vs 234.7m), which may increase interest in new revenue lines (S16 PDF p.36)"
+      ],
+      "barriers": [
+        "Dominant in-house ETF franchise: 64% of Saudi ETF market cap and seven ETFs, with established index and product partners (MSCI, CSOP, KraneShares, State Street, Asset Management One) (S9, S3)",
+        "Several apps already run by different technology stacks (DirectFN, IB Exchange Corp.) and a new app was just launched in 2026 (S24, S25, S27)",
+        "Funds and ETFs must comply with Albilad Capital's own Shariah Committee (S1)",
+        "Real estate is a big in-house book (assets approaching SAR 21bn), limiting scope for third-party private markets products (S8)",
+        "Board leadership unclear (conflicting chairman evidence) and parent changed CEO and Chair on 1 Jun 2026 (S29, S19)"
+      ],
+      "incumbent_vendors": [
+        "State Street: securities services and post-trade agreement announced Nov 2025 (S7, S22)",
+        "DirectFN: copyright line of the Albilad Tadawul app (inferred) (S27)",
+        "IB Exchange Corp.: copyright line of the Albilad Global app (inferred) (S25)",
+        "MSCI and Ideal Ratings: index providers for ETFs (S9, S18)",
+        "CSOP Asset Management and KraneShares: ETF product partners (S12, S10)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Asset Management (services: funds, DPM, public mutual funds, ETFs)",
+      "publisher": "Albilad Capital",
+      "url": "http://www.albilad-capital.com/En/AssetManagement",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Public Mutual Funds (12 funds listed)",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/assetmanagement/pmf",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "ETFs (7 ETFs listed; sukuk ETF detail)",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/assetmanagement/etf",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": "2026-10-05",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Brokerage (local and international trading, options, packages)",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/Brokerage/Pages/default.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "News (list of company announcements, 2023 to Sep 2026)",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/news/Pages/default.aspx",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": "2026-09-17",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Strategic Partnership Between Albilad Capital and Japan's Asset Management One",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/news/Pages/new20.aspx",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-12-01",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Albilad Capital and State Street Sign Strategic Agreement",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/news/Pages/new17.aspx",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-11-10",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Albilad Capital Signs Agreements Exceeding 16 Billion SAR at Cityscape Global Exhibition",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/news/Pages/new18.aspx",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-11-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "PIF anchors newly listed Albilad MSCI Saudi Equity Exchange Traded Fund",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/news/Pages/new16.aspx",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-10-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Albilad Capital and KraneShares",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/news/Pages/new3.aspx",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2023-03-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Albilad Capital signs an agreement with the Ministry of Finance",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/news/Pages/new5.aspx",
+      "doc_type": "Press release (date from the news list)",
+      "tier": 2,
+      "published": "2024-07-11",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "The sixth Exchange Traded Fund (ETF) from Albilad Capital (CSOP MSCI Hong Kong China)",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/news/Pages/new6.aspx",
+      "doc_type": "Press release (date from the news list)",
+      "tier": 2,
+      "published": "2024-09-18",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Albilad Capital Acquires Mövenpick Hotel",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/en/news/Pages/new9.aspx",
+      "doc_type": "Press release (date from the news list)",
+      "tier": 2,
+      "published": "2024-11-03",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "Albilad Investment Company financial statements and independent auditor's report for the year ended 31 December 2024",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/FinancialReports/Financial%20statements%20for%20Albilad%20Capital%20(Year%20Ended%2031%20December%202024).pdf",
+      "doc_type": "Audited financial statements (PwC; report dated 23 Mar 2025)",
+      "tier": 1,
+      "published": "2025-03-23",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Bank Albilad Annual Report 2025 (subsidiaries pages 63-64, structure p.38)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/annual-report-2025/pdf/bab-en.pdf",
+      "doc_type": "Parent annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Bank Albilad interim condensed consolidated financial statements, six months ended 30 June 2026",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/downloads/about/financial-results/BAB%20Q2%20-%202026%20English%20FS.pdf",
+      "doc_type": "Parent reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Bank Albilad consolidated financial statements for the year ended 31 December 2025 (note 30 segments)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/downloads/about/financial-results/BAB%20YE%20-%202025%20English%20FS.pdf",
+      "doc_type": "Parent audited financial statements",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Albilad Saudi Sovereign Sukuk ETF: Annual Report to Unitholders 2025 (fund board, NAV, expenses)",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/FundRepDocs/Sukuk%20ETF%20-%20Merged%20EN.pdf",
+      "doc_type": "Fund annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "H.E. Mr. Ihsan bin Abbas Bafakih, Chairman of the Board (board CV)",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/BODCVs/BODCVs/Ihsan%20Chairman%20EN.pdf",
+      "doc_type": "Official board biography (undated; file metadata Dec 2023)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S20",
+      "title": "Mr. Abdulaziz Mohammed Alonaizan, Vice Chairman of the Board (board CV)",
+      "publisher": "Albilad Capital",
+      "url": "https://www.albilad-capital.com/BODCVs/BODCVs/Alonaizan%20VC%20EN.pdf",
+      "doc_type": "Official board biography (undated; file metadata Dec 2023)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Top 50 Asset Managers 2026: Zaid Almufarih",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-50-asset-managers-2026/zaid-almufarih/",
+      "doc_type": "Ranking profile",
+      "tier": 5,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S22",
+      "title": "State Street and Albilad Capital Sign Strategic Agreement (Business Wire release, copy on Stockwatch)",
+      "publisher": "State Street Corporation via Business Wire",
+      "url": "https://www.stockwatch.com/News/Item/U-b20251109322490-U!STT-20251109/U/STT",
+      "doc_type": "Vendor press release (copy)",
+      "tier": 2,
+      "published": "2025-11-10",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "The Business Wire original returned HTTP 403; this copy was opened"
+    },
+    {
+      "id": "S23",
+      "title": "Tadawul approves Albilad Capital as market maker for three ETFs",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1937848",
+      "doc_type": "Financial news",
+      "tier": 5,
+      "published": "2026-09-20",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Albilad-Capital / Trade with Albilad Capital (App Store listing)",
+      "publisher": "Apple App Store (seller: Albilad Investment Company)",
+      "url": "https://apps.apple.com/us/app/-/id6738024868",
+      "doc_type": "Official app listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Albilad Global (App Store listing)",
+      "publisher": "Apple App Store (seller: Albilad Investment Company)",
+      "url": "https://apps.apple.com/us/app/-/id6464270496",
+      "doc_type": "Official app listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S26",
+      "title": "Global Lite (App Store listing)",
+      "publisher": "Apple App Store (seller: Albilad Investment Company)",
+      "url": "https://apps.apple.com/us/app/-/id6748305941",
+      "doc_type": "Official app listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S27",
+      "title": "Albilad Tadawul (App Store listing)",
+      "publisher": "Apple App Store (seller: AL BILAD BANK; copyright DirectFN)",
+      "url": "https://apps.apple.com/us/app/-/id874950312",
+      "doc_type": "Official app listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Madkhol concludes multiple deals to strengthen solutions for individuals, businesses",
+      "publisher": "Sharikat Mubasher",
+      "url": "https://sharikatmubasher.com/news/article/21529316/madkhol-concludes-multiple-deals-to-strengthen-solutions-for-individuals-businesses?lang=en",
+      "doc_type": "News report",
+      "tier": 5,
+      "published": "2026-01-19",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S29",
+      "title": "Board of Directors",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/about/Pages/board-of-directors.aspx",
+      "doc_type": "Official leadership page (parent)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "Ihsan Bafakih - Biography",
+      "publisher": "The Official Board",
+      "url": "https://www.theofficialboard.com/biography/ihsan-bafakih-75e21",
+      "doc_type": "Executive directory (aggregator)",
+      "tier": 5,
+      "published": "2026-06-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only; not opened. Last-update date taken from the search summary"
+    },
+    {
+      "id": "S31",
+      "title": "Abdullah Alaqeel, CFA, CMT - Albilad Capital البلاد المالية (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/abdullah-alaqeel-cfa/",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only"
+    },
+    {
+      "id": "S32",
+      "title": "Motasim Alouthah, MBA (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://sa.linkedin.com/in/alouthah",
+      "doc_type": "LinkedIn search result (profile not opened; HTTP 999)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only"
+    },
+    {
+      "id": "S33",
+      "title": "Saleh AlBatah - Biography",
+      "publisher": "The Official Board",
+      "url": "https://www.theofficialboard.com/biography/saleh-albatah-36g16",
+      "doc_type": "Executive directory (aggregator)",
+      "tier": 5,
+      "published": "2026-06-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only; opening it returned HTTP 403. Last-update date taken from the search summary"
+    },
+    {
+      "id": "S34",
+      "title": "Albilad-Capital (app-data aggregator page, first released 13 Jun 2026)",
+      "publisher": "MWM Intelligence (mwm.ai)",
+      "url": "https://mwm.ai/apps/albilad-capital/6738024868",
+      "doc_type": "App-data aggregator (used only for the release date)",
+      "tier": 5,
+      "published": "2026-06-13",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S35",
+      "title": "Albilad Capital (LinkedIn company page)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/company/albilad-capital",
+      "doc_type": "LinkedIn search result (page not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only; name matches; not linked from the official site pages opened (their social links were template placeholders)"
+    },
+    {
+      "id": "S36",
+      "title": "Zaid Almufarih - Albilad Capital البلاد المالية (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/zaid-almufarih-ab35661a/",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Albilad Capital chairman",
+      "detail": "The company's board CVs name Ihsan Bafakih Chairman (since April 2023) and Abdulaziz AlOnaizan Vice Chairman; the parent's board page (Oct 2026) says AlOnaizan is 'Chairman of Albilad Capital'. An executive directory seen in search results still lists Bafakih as Chairman (updated 3 Jun 2026). The CVs are undated (Dec 2023 file metadata); AlOnaizan became bank Chairman on 1 Jun 2026.",
+      "source_ids": [
+        "S19",
+        "S20",
+        "S29",
+        "S30"
+      ],
+      "resolution": "Both recorded with role_status 'Conflicting sources'. Unresolved; check the Albilad Capital board page or a Tadawul/CMA filing."
+    },
+    {
+      "field": "ETF market share",
+      "detail": "Oct 2025 release: 64% of Saudi ETF market cap and 52% of GCC. Parent AR 2025: above 70% local and about 53% regional. An undated 2024 release: 70% of Saudi ETFs and 60% of ETF unit holders.",
+      "source_ids": [
+        "S9",
+        "S15",
+        "S12"
+      ],
+      "resolution": "Recorded the dated Oct 2025 release (64%) as the metric and the others in notes. Different measures or dates."
+    },
+    {
+      "field": "AUM",
+      "detail": "Forbes ME gives USD 10.35bn (2025). Company statements give real estate approaching SAR 21bn (about USD 5.6bn) and ETFs about SAR 6bn (about USD 1.6bn). State Street's release cites over USD 50bn in assets under custody and/or administration (a different measure). No company-published total AUM.",
+      "source_ids": [
+        "S21",
+        "S8",
+        "S9",
+        "S22"
+      ],
+      "resolution": "Forbes AUM recorded as 'Requires verification'; component figures and AUA recorded separately."
+    },
+    {
+      "field": "Years of establishment",
+      "detail": "Registered 20 Nov 2007 (FS); CMA licence date 14 Aug 2007; releases and Forbes say 2008.",
+      "source_ids": [
+        "S14",
+        "S18",
+        "S21"
+      ],
+      "resolution": "Used the FS date for registration and noted 2008 as the commonly stated year. Minor."
+    },
+    {
+      "field": "Fund-board description of CEO",
+      "detail": "A fund board biography calls the CEO 'Country Chief Financial Officer' with 15+ years in markets, which does not match his CEO role elsewhere (likely a drafting error in the fund report).",
+      "source_ids": [
+        "S18"
+      ],
+      "resolution": "Used press releases and Forbes ME for the title. Minor."
+    }
+  ],
+  "open_items": [
+    "No FY2025 or interim standalone financial statements found on albilad-capital.com (FY2024 is the latest; a guessed FY2025 URL returned 404). Metrics are FY2024. FY2025 and H1 2026 income are shown only as the parent's segment proxy. Re-check the website's financial reports and the parent's Q3 2026 statements in late Oct 2026.",
+    "No company-published total AUM, discretionary AUM, client numbers, investing users or headcount found. Forbes USD 10.35bn is unverified; State Street's USD 50bn+ is assets under custody and/or administration, not AUM.",
+    "The company website is a thin landing page: About, management, board, wealth management and financial-reports pages were not found, so people come from fund reports, board CVs, press releases, LinkedIn search results and an executive directory. Only the CEO, Chairman and board member Al-Suhaimi have documentary support; the CIO, COO and Head of Brokerage are 'Requires verification'.",
+    "Chairman of Albilad Capital: conflicting evidence (see discrepancies). Whether the AlOnaizan board CV is current is unknown.",
+    "Technology vendors for the Saudi trading app, Albilad Tadawul (DirectFN copyright line) and Albilad Global (IB Exchange Corp. copyright line) are inferred from App Store listings only; the new Albilad-Capital app lists no vendor. State Street agreement scope is described differently by Albilad Capital (post-trade services) and State Street (support for the securities services offering).",
+    "Whether the KraneShares MoU (2023) produced any listed ETF is not shown; the planned Japan equity ETF with Asset Management One is due by end-2026 and not yet listed per the ETF page.",
+    "Brokerage commission schedule, margin terms and IPO details were not on the brokerage page opened; the Albilad Global and Trading Packages sub-pages were not opened. The public fund list may be longer than 12 ('View More').",
+    "Leads checked: wealth/private propositions (none at the capital arm; parent has Private Banking); digital investing in the bank app (only Wakala in the bank app; investing in Albilad Capital apps); REITs (Fund of REIT fund listed; no REIT launch found); robo/model portfolios (not found); partnerships 2025-2026 (State Street, Asset Management One, PIF anchor, Madkhol).",
+    "Saudi Exchange pages, the CMA register, and Business Wire (HTTP 403) were not used directly; the LinkedIn company page and Zaid Almufarih's profile are search-result matches only."
+  ],
+  "research_status": "Partial",
+  "researched_by": "R5",
+  "checked": "2026-10-12"
+}

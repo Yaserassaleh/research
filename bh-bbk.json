@@ -1,0 +1,1376 @@
+{
+ "id": "bh-bbk",
+ "name": "BBK (Bank of Bahrain and Kuwait)",
+ "short_name": "BBK",
+ "legal_name": "Bank of Bahrain and Kuwait B.S.C.",
+ "name_ar": "بنك البحرين والكويت",
+ "country": "BH",
+ "hq_city": "Manama",
+ "website": "https://www.bbkonline.com",
+ "linkedin_company": null,
+ "category": "Bank",
+ "type": "Universal / commercial bank",
+ "model": "Conventional",
+ "founded": "1971 (incorporated by Amiri Decree in March 1971; CR 1234 dated 16 March 1971)",
+ "regulators": [
+  "CBB (conventional retail banking licence)",
+  "Bahrain Bourse (listed issuer)",
+  "Overseas branches: Kuwait and India (local regulators not identified in sources)"
+ ],
+ "listed": true,
+ "exchange": "Bahrain Bourse",
+ "ticker": "BBK",
+ "parent_id": null,
+ "ownership_summary": "Listed on Bahrain Bourse (BBK). Largest holders at 31 Dec 2025: Social Insurance Organisation (Bahrain, 32.97% = Pension Fund Commission 19.27% + GOSI 13.70%), Fincorp W.L.L. (Bahrain, 26.19%), Kuwait Investment Authority (19.20%); public 21.64%. Bahrain Mumtalakat is not named as a BBK shareholder in the AR or the Bourse list. A non-binding MoU for a potential merger with NBB was signed on 2 Nov 2025; BBK said on 21 Jul 2026 that talks were continuing.",
+ "shareholders": [
+  {
+   "holder": "Social Insurance Organisation (GOSI, Civil Pension Fund and Military Pension Fund), Bahrain",
+   "pct": 32.97,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S5",
+    "S7"
+   ]
+  },
+  {
+   "holder": "Fincorp W.L.L., Bahrain (ultimate ownership not established)",
+   "pct": 26.19,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S5",
+    "S7"
+   ]
+  },
+  {
+   "holder": "Kuwait Investment Authority, State of Kuwait",
+   "pct": 19.2,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S5",
+    "S7"
+   ]
+  },
+  {
+   "holder": "Public (2,798 shareholders under 1% each)",
+   "pct": 21.64,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S5"
+   ]
+  }
+ ],
+ "government_link": "Yes - Social Insurance Organisation (Bahrain social-security funds, 32.97%) and Kuwait Investment Authority (State of Kuwait, 19.20%) are state-linked holders (as of 31 Dec 2025); in the board listed in AR 2025 (before post-AGM changes) two directors were nominated by SIO and one by KIA. Fincorp W.L.L. (26.19%): ownership not established from sources opened; no source links it to Mumtalakat.",
+ "group_structure": "BBK (listed) with subsidiaries CrediMax B.S.C. (c) (100%, credit card operations), Invita Company W.L.L. (100%, business process outsourcing; share purchase agreement to sell it to Silah Gulf B.S.C. signed, completion subject to formalities at 30 Jun 2026), and, via CrediMax, Global Payment Services W.L.L. (70% effective) and 973LABS W.L.L. (100%). Branches in Kuwait and India and representative offices in Turkiye and UAE. Brokerage is run as an in-house desk (no separate brokerage entity found). The potential merger with NBB (bh-nbb) is not completed, so NBB and BBK figures must not be added; NBB's consolidated figures include BisB, not BBK.",
+ "subsidiaries": [
+  {
+   "name": "CrediMax B.S.C. (c)",
+   "pct": 100.0,
+   "activity": "Credit card operations / payments (also holds Global Payment Services 70% effective and 973LABS)",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Invita Company W.L.L.",
+   "pct": 100.0,
+   "activity": "Business process outsourcing; sale to Silah Gulf B.S.C. agreed, pending completion",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S3"
+   ]
+  }
+ ],
+ "footprint": "Bahrain: 17 retail branches, BBKPLUS digital branches, 3 BBKLite branches and 77 ATMs (Nov 2025); overseas branches in Kuwait and India; representative offices in Turkiye and UAE. 1,355 employees (2025).",
+ "customer_segments": "Retail (mass market incl. approx 75,000 customers added from HSBC Bahrain's retail portfolio in Nov 2025, expatriates), premium (Al Wajaha), private banking and wealth (BBK Privé), SMEs, corporates, financial institutions, international banking (India, Kuwait).",
+ "business_lines": "Retail banking; Wholesale banking (corporate, SME, financial institutions); International banking (Kuwait and India branches); Investment, treasury and other activities (money market, trading, investment advisory and funds management); BBK Privé private banking and wealth management; CrediMax (cards); Invita (BPO, being sold).",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 4931.8,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS, interim consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.3 (scanned page, read visually); S6 p.2",
+   "note": "BBK reports BHD millions to one decimal."
+  },
+  {
+   "metric": "total_assets",
+   "value": 4974.3,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 PDF p.8 (scanned, read visually)",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 2877.6,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customers' deposits'; excludes deposits and amounts due to banks and other financial institutions (BHD 433.7m), repo borrowings (472.4m) and term borrowings (401.9m)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.3; S6 p.2",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 2853.5,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customers' deposits' (audited); includes about BHD 256.5m of deposits assumed with the HSBC Bahrain retail portfolio on 27 Nov 2025",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.8 and p.84",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 2363.5,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances to customers' as printed (note 6); gross/ECL split not read",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.3; S6 p.2",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 2358.5,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances to customers' (audited); includes BHD 54.5m acquired from HSBC Bahrain",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.8 and p.84",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 626.5,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity incl. non-controlling interests BHD 2.8m; equity attributable to owners of the Bank BHD 623.7m",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.3",
+   "note": "Down from BHD 660.4m at 31 Dec 2025 after dividends and fair-value reserve movements."
+  },
+  {
+   "metric": "operating_income",
+   "value": 160.3,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL OPERATING INCOME' (net interest income 117.2 + fee and commission income net 22.1 + investment and other income 21.0)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S5"
+   ],
+   "locator": "S4 PDF p.9 (scanned, read visually)",
+   "note": "2024: BHD 163.9m."
+  },
+  {
+   "metric": "operating_income",
+   "value": 93.0,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL OPERATING INCOME', six months to 30 Jun 2026 (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.4 (scanned, read visually)",
+   "note": "H1 2025: BHD 79.8m; fee and commission income net BHD 11.1m vs 9.9m."
+  },
+  {
+   "metric": "net_profit",
+   "value": 80.0,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to owners of the Bank (record); total net profit BHD 80.7m",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S5"
+   ],
+   "locator": "S4 PDF p.9 (scanned, read visually); S5 p.5",
+   "note": "2024: BHD 72.0m."
+  },
+  {
+   "metric": "net_profit",
+   "value": 42.5,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to owners of the Bank, six months to 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6",
+    "S14"
+   ],
+   "locator": "S3 PDF p.4; S6 p.1",
+   "note": "Total profit BHD 42.9m; H1 2025 BHD 38.6m (+10.1%); Q2 2026 BHD 16.4m vs 17.5m."
+  },
+  {
+   "metric": "fiduciary_assets",
+   "value": 260.4,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "'Fiduciary assets - funds under management' held in a fiduciary capacity, measured at cost (notes to FY2025 statements); issuer wording is 'Funds under management'",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.82",
+   "note": "2024: BHD 202.6m (+28.5%). Recorded separately from AUM because the note is a fiduciary-assets disclosure carried at cost."
+  },
+  {
+   "metric": "employees",
+   "value": 1355,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "Number of employees (five-year financial highlights)",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "S5 PDF p.4",
+   "note": "2024: 1,261."
+  },
+  {
+   "metric": "customers_acquired_hsbc_bahrain_retail",
+   "value": 75000,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-11-27",
+   "period_label": "27 Nov 2025",
+   "period_type": "point_in_time",
+   "scope": "Bahrain retail",
+   "definition": "Approximate number of HSBC Bahrain retail customers transferred to BBK (AR 2025: 'approximately 75,000')",
+   "status": "Verified",
+   "source_ids": [
+    "S5",
+    "S25"
+   ],
+   "locator": "S5 PDF p.9",
+   "note": "Not a total customer count; HSBC corporate and private banking in Bahrain were excluded from the transfer (press, S24)."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 (S5), FY2025 and H1 2026 statements (S4, S3), results disclosure (S6), BBK wealth pages (S15-S18). Only 'funds under management' of BHD 260.4m in the fiduciary-assets note (recorded as fiduciary_assets)."
+  },
+  {
+   "metric": "aua",
+   "status": "Not found after research",
+   "where_checked": "S4, S5."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "S3, S4, S5, S6; no Privé or Al Wajaha client-asset figure."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S5, S6, S13; only the approx 75,000 HSBC Bahrain customers added in 2025 is stated."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "S5, S13, S15-S20."
+  },
+  {
+   "metric": "branches",
+   "status": "Not found after research",
+   "where_checked": "Group total not stated; the Nov 2025 completion release (S25) gives 17 retail branches, 3 BBKLite branches and 77 ATMs in Bahrain; overseas branches in Kuwait and India."
+  }
+ ],
+ "people": [
+  {
+   "name": "Tariq Jaleel AlSaffar",
+   "name_ar": null,
+   "title": "Chairperson (Independent)",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2023-03",
+   "appointed_note": "Director since 28 Mar 2023; date elected Chairperson not found.",
+   "previous_roles": "26 years' experience in investment and business, owning, managing and starting up various business sectors (S5).",
+   "education": "Bachelor degree, Western Australian College of Advanced Education (Business Marketing & Entrepreneurship); diploma, Columbia University leadership development programme",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Board page checked 2026-10-12 (S2); signed the 30 Jun 2026 statements as Chairperson (S3); AR 2025 director biography (S5); Bourse key-persons list (S8).",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S5",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulla Jehad AlZain",
+   "name_ar": null,
+   "title": "Deputy Chairperson",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found. AR 2025 (Apr 2026) and the FY2025 statements (signed Feb 2026) list Khalid Hussain Taqi as Deputy Chairperson; the website and the Bourse key-persons list now show AlZain, so the post appears to have changed after the 31 Mar 2026 AGM (inference, not confirmed).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Board page checked 2026-10-12 (S2); Bourse key-persons list (S8). Not in AR 2025 board section (S5).",
+   "source_ids": [
+    "S2",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Yaser Alsharifi",
+   "name_ar": null,
+   "title": "Group Chief Executive",
+   "functions": [
+    "Group CEO",
+    "CEO",
+    "Board"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2024",
+   "appointed_note": "Joined BBK in 2024 per the official page; exact CEO start date not found.",
+   "previous_roles": "32 years in the financial services industry (employers before BBK not stated on the sources opened) (S1, S5).",
+   "education": "Bachelor's in Business Administration, University of Massachusetts Amherst (1994)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page checked 2026-10-12 (S1); signed the 30 Jun 2026 statements (S3); quoted on the HSBC transfer (S25) and at the 31 Mar 2026 AGM (S21); Bourse key-persons list (S8). A LinkedIn search returned posts naming him but no own-profile match.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S21",
+    "S25",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Abdulla",
+   "name_ar": null,
+   "title": "Group Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Group Finance",
+   "scope": "Group",
+   "appointed": "2001",
+   "appointed_note": "Joined BBK in 2001.",
+   "previous_roles": "34 years in finance (S1).",
+   "education": null,
+   "qualifications": "Certified Public Accountant (AICPA; Delaware State Board of Accountancy, 2001)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page (S1); Bourse key-persons list as Mohammed Abdulla Isa Ghuloom (S8).",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Aqeel Ghaith",
+   "name_ar": null,
+   "title": "Chief Private Banking Officer",
+   "functions": [
+    "Private banking",
+    "Wealth"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "BBK Privé (Private Banking)",
+   "scope": "Group",
+   "appointed": "2025",
+   "appointed_note": "Joined BBK in 2025. A Bahrain Bourse filing seen in search results named Aqeel Mohammed Ghaith as Bahrain Islamic Bank's Chief Corporate & Institutional Banking Officer from 6 Aug 2024 - likely the same person (name match only).",
+   "previous_roles": "26 years' banking experience (S1).",
+   "education": "MSc Finance, Boston University (2000)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page checked 2026-10-12 (S1); Bourse key-persons list as 'Chief Private Banking Officer' (S8); AR 2025 (S5). LinkedIn search returned no match.",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S8",
+    "S27"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmed Taqi",
+   "name_ar": null,
+   "title": "Chief Retail Banking Officer",
+   "functions": [
+    "Retail",
+    "Affluent"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Retail Banking (incl. Al Wajaha)",
+   "scope": "Group",
+   "appointed": "2014",
+   "appointed_note": "Joined BBK in 2014.",
+   "previous_roles": "24 years' banking experience across local and international banks (S1, S5).",
+   "education": "MBA, University of Glamorgan (2012); Master of Applied Business Research, Swiss Business School (2023)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page (S1); AR 2025 (S5); Bourse key-persons list as Ahmed Abdulqader Saleh Taqi (S8). LinkedIn search not run (search quota).",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Al Rayes",
+   "name_ar": null,
+   "title": "Chief Treasury & Investments Officer",
+   "functions": [
+    "Treasury",
+    "Investments / asset management",
+    "Brokerage"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Treasury & Investments",
+   "scope": "Group",
+   "appointed": "2013",
+   "appointed_note": "Joined BBK in 2013.",
+   "previous_roles": "18 years' banking experience (S1).",
+   "education": "Master of Business in Finance, University of Otago (2008)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page (S1); Bourse key-persons list as Mohamed Ahmed Noor AlRayes (S8). LinkedIn search not run (search quota).",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Nadeem Al Kooheji",
+   "name_ar": null,
+   "title": "Chief Wholesale Banking Officer",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Wholesale Banking",
+   "scope": "Group",
+   "appointed": "1999",
+   "appointed_note": "Joined BBK in 1999.",
+   "previous_roles": "28 years in banking and 12 years in audit (S1).",
+   "education": "BBA, University of Texas at Austin (1988)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page (S1); Bourse key-persons list (S8).",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Salman Al Hasan",
+   "name_ar": null,
+   "title": "Chief International Banking Officer",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "International Banking (Kuwait and India branches)",
+   "scope": "Group",
+   "appointed": "2013",
+   "appointed_note": "Joined BBK in 2013.",
+   "previous_roles": "23 years' banking experience (S1).",
+   "education": "MSc Finance, DePaul University (2013)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page (S1); Bourse key-persons list (S8).",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Simone Carminati",
+   "name_ar": null,
+   "title": "Group Chief Corporate & Business Development Officer",
+   "functions": [
+    "Strategy",
+    "Innovation / partnerships"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Corporate & Business Development",
+   "scope": "Group",
+   "appointed": "2014",
+   "appointed_note": "Joined BBK in 2014.",
+   "previous_roles": "33 years' experience including 17 in banking (S1).",
+   "education": "Master's in International Relations, University of Kent (1998); MSc Accounting and Finance, De Montfort University (2017)",
+   "qualifications": "FCMA, CGMA",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page (S1); Bourse key-persons list (S8).",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Alaali",
+   "name_ar": null,
+   "title": "Group Chief Strategy & Transformation Officer",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Strategy & Transformation",
+   "scope": "Group",
+   "appointed": "2024",
+   "appointed_note": "Joined BBK in 2024. Bourse key-persons list titles him 'Chief Strategy & Sustainability Officer'.",
+   "previous_roles": "19 years' experience in strategy and transformation (S1).",
+   "education": "MBA, University of Illinois (2015)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page (S1); Bourse key-persons list as Mohamed Kadhem Ahmed Al Aali (S8).",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Vidhu Mittal",
+   "name_ar": null,
+   "title": "Group Chief Information Officer",
+   "functions": [
+    "Technology",
+    "Digital"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Information Technology",
+   "scope": "Group",
+   "appointed": "2006",
+   "appointed_note": "Joined BBK in 2006.",
+   "previous_roles": "32 years as a technology professional (S1).",
+   "education": "MBA, University of Strathclyde (2002)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BBK Executive Management page (S1); Bourse key-persons list (S8).",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hassaan Burshaid",
+   "name_ar": null,
+   "title": "Group Chief Operating Officer",
+   "functions": [
+    "Operations"
+   ],
+   "entity": "Bank of Bahrain and Kuwait B.S.C.",
+   "business_unit": "Operations",
+   "scope": "Group",
+   "appointed": "1998",
+   "appointed_note": "Joined BBK in 1998 (AR 2025).",
+   "previous_roles": "31 years' experience in human resources (AR 2025).",
+   "education": "MBA and MS Human Resources Management, DePaul University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed in AR 2025 (S5) but absent from the current website executive page (S1) and the Bourse key-persons list (S8). The Bourse announcements listing shows 'Resignation in Executive Management' (1 Oct 2026), 'Appointment in Executive Management' (4 Oct 2026) and '(Corrective announcement): Resignation of Group Chief Operating Officer' (5 Oct 2026) (S12; detail pages not opened).",
+   "source_ids": [
+    "S5",
+    "S1",
+    "S8",
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "BBK Privé is BBK's private banking and wealth management segment: a dedicated Private Banker, Privé lounge, investment advisory and long-term planning, brokerage in Bahrain and GCC stocks and fixed income (foreign-currency bonds and sukuk limited to accredited investors), mutual funds (equity, bond and balanced; USD 10,000 minimum; 'top-rated fund managers', not named), ETFs, global real-estate deals and unnamed alternatives, plus estate/tax planning and insurance. Al Wajaha is the premium retail tier (salary BD 4,000+ or deposits BD 100,000+). In 2025 BBK hired a Chief Private Banking Officer (Aqeel Ghaith), said it is 'advancing its private banking proposition' for HNW clients with 'more bespoke and differentiated wealth solutions', and gave Privé clients T-bills and bonds through BBK Mobile. It acquired HSBC Bahrain's retail portfolio (approx 75,000 customers, completed 27 Nov 2025; HSBC private banking excluded) and holds funds under management of BHD 260.4m (fiduciary note, +28.5% in 2025). No AUM, robo or discretionary product was found; digital strategy centres on the ARRAY Innovation centre, open-banking work with Tarabut and a Google Cloud Universal Ledger core-banking pilot (July 2026).",
+  "segments": [
+   {
+    "name": "Al Wajaha",
+    "tier": "Affluent / premium",
+    "eligibility": "Salary of at least BD 4,000 transferred to BBK, or total deposits of at least BD 100,000 (as published).",
+    "source_ids": [
+     "S17"
+    ]
+   },
+   {
+    "name": "BBK Privé",
+    "tier": "Private / HNW",
+    "eligibility": "No threshold published; dedicated Private Banker and Privé lounge.",
+    "source_ids": [
+     "S15",
+     "S16"
+    ]
+   },
+   {
+    "name": "Mutual funds",
+    "tier": "Investors",
+    "eligibility": "Minimum subscription USD 10,000 (USD or EUR funds); contact a Financial Advisor.",
+    "source_ids": [
+     "S18"
+    ]
+   },
+   {
+    "name": "Accredited investors (foreign-currency bonds and sukuk)",
+    "tier": "Private / HNW",
+    "eligibility": "Foreign-currency bonds and sukuk limited to Accredited Investors; no threshold stated.",
+    "source_ids": [
+     "S16"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "BBK Privé: dedicated Private Banker, Privé lounge at Head Office, advisory, brokerage, mutual funds, ETFs, alternatives, portfolio monitoring, lending against financial assets; head: Aqeel Ghaith (Chief Private Banking Officer, joined 2025). AR 2025 says BBK is expanding the offer for HNW clients.",
+   "source_ids": [
+    "S15",
+    "S16",
+    "S1",
+    "S5"
+   ]
+  },
+  "asset_management": {
+   "present": "Unclear",
+   "detail": "No separate asset-management subsidiary found. The 'Investment, treasury and other activities' segment includes investment advisory services and funds management (note 3), and the FY2025 note reports funds under management of BHD 260.4m held fiduciarily; fund products offered are third-party.",
+   "source_ids": [
+    "S3",
+    "S4"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "In-house brokerage desk (Bourse key-persons list names a Brokerage Desk manager and senior brokerage officer); Privé offers equity brokerage in Bahrain and GCC stocks and fixed income. A 31 Jan 2018 agreement with Mubasher Financial Services provided online trading via Bahrain Trade (search result only); current platform not confirmed.",
+   "source_ids": [
+    "S16",
+    "S8",
+    "S22"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "AR 2025: BBK Privé clients have digital access to T-bills and bonds through BBK Mobile for portfolio management. No in-app equities, funds or model-portfolio features found; eKey 2.0 launched on BBK Mobile in Jul 2026.",
+   "source_ids": [
+    "S5",
+    "S13"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Investment advisory and long-term financial planning for Privé and Al Wajaha clients; Financial Advisors handle mutual-fund and bond enquiries (the bonds page offers bond investment assistance for companies and individuals).",
+   "source_ids": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S20"
+   ]
+  },
+  "discretionary": {
+   "present": "Unclear",
+   "detail": "Privé page lists portfolio management ('ongoing monitoring and adjustment of exposures against agreed return objectives'); no discretionary mandate terms found.",
+   "source_ids": [
+    "S15"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No model portfolios or robo-advisory found.",
+   "source_ids": [
+    "S15",
+    "S16",
+    "S5"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Third-party mutual funds (equity, bond, balanced; USD/EUR; daily NAV; minimum USD 10,000; 'top-rated fund managers' unnamed) and ETFs; platform provider not named.",
+   "source_ids": [
+    "S18",
+    "S15"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "No structured products found on BBK wealth pages; Treasury page lists FX, hedging and liquidity investment solutions only.",
+   "source_ids": [
+    "S15",
+    "S19"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "Privé lists global real-estate deals and 'other alternative options'; no named funds or managers.",
+   "source_ids": [
+    "S15"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Not found after research",
+   "detail": "BBK is a conventional retail bank; no Shari'a-compliant investment range found on wealth pages (Privé fixed income mentions sukuk; CrediMax issues Shari'a-compliant cards).",
+   "source_ids": [
+    "S16",
+    "S25"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "ETFs",
+   "Mutual funds",
+   "Bonds",
+   "Sukuk",
+   "Private markets / alternatives"
+  ],
+  "partners": [
+   {
+    "partner": "ARRAY Innovation",
+    "kind": "Technology / innovation centre",
+    "what": "Innovation Center to build AI-driven digital capabilities (AR 2025); July 2026 pilot of Google Cloud Universal Ledger in core banking; digital ledger showcase Oct 2026",
+    "date": "2026-07-09",
+    "status": "MoU / pilot",
+    "source_ids": [
+     "S5",
+     "S13"
+    ]
+   },
+   {
+    "partner": "Tarabut",
+    "kind": "Open banking / digital assets",
+    "what": "Collaboration to support open banking and explore digital-asset and tokenisation frameworks (AR 2025)",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "partner": "Property Finder",
+    "kind": "Digital mortgage distribution",
+    "what": "Exclusive banking partner delivering an integrated digital mortgage experience",
+    "date": "2026-08-30",
+    "status": "Live",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "partner": "Mubasher Financial Services",
+    "kind": "Online trading platform (Bahrain Trade)",
+    "what": "Agreement for BBK clients to trade on Bahrain Bourse online via Bahrain Trade; current status not confirmed",
+    "date": "2018-01-31",
+    "status": "Unclear",
+    "source_ids": [
+     "S22"
+    ]
+   },
+   {
+    "partner": "HSBC Bank Middle East (Bahrain branch)",
+    "kind": "Portfolio acquisition",
+    "what": "Transfer of the retail (consumer) banking portfolio, approx 75,000 customers, loans, deposits, cards and staff; completed 27 Nov 2025",
+    "date": "2025-11-27",
+    "status": "Live",
+    "source_ids": [
+     "S4",
+     "S25",
+     "S5",
+     "S24"
+    ]
+   },
+   {
+    "partner": "Visa",
+    "kind": "Card and lifestyle partner",
+    "what": "Airport lounge access and promotions for Al Wajaha and Privé",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S16",
+     "S17"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2025-11-02",
+    "what": "Non-binding MoU with NBB for reciprocal due diligence and negotiation of a potential merger; both banks appointed a multinational strategy and management consulting firm as joint adviser.",
+    "source_ids": [
+     "S9",
+     "S4"
+    ]
+   },
+   {
+    "date": "2025-11-27",
+    "what": "Completed transfer of HSBC Middle East Bahrain retail (consumer) business: assets acquired BHD 251.3m (loans 54.5m), deposits assumed BHD 256.5m, goodwill and intangibles BHD 33.9m (provisional).",
+    "source_ids": [
+     "S4",
+     "S25"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Aqeel Ghaith joined as Chief Private Banking Officer; Innovation Center with ARRAY Innovation and Tarabut open-banking/digital-assets collaboration established.",
+    "source_ids": [
+     "S1",
+     "S5"
+    ]
+   },
+   {
+    "date": "2026-03-31",
+    "what": "At the AGM the Group CEO called the NBB merger a top priority and said completion in 2026 was still possible (press).",
+    "source_ids": [
+     "S21"
+    ]
+   },
+   {
+    "date": "2026-04-26",
+    "what": "Received NBB's proposal on key merger terms including an exchange ratio; board review followed. On 21 Jul 2026 BBK stated discussions were continuing.",
+    "source_ids": [
+     "S11",
+     "S10",
+     "S3"
+    ]
+   },
+   {
+    "date": "2026-07-09",
+    "what": "Announced with ARRAY Innovation a pilot of Google Cloud Universal Ledger in BBK's core banking (news listing title).",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2026-07-29",
+    "what": "H1 2026 results: attributable profit BHD 42.5m (+10.1%); interim dividend 7.5 fils; investment and other income +66% to BHD 18.6m; Invita sale to Silah Gulf pending.",
+    "source_ids": [
+     "S6",
+     "S3"
+    ]
+   },
+   {
+    "date": "2026-08-06",
+    "what": "CBB approved purchase of treasury shares; daily 'Purchase of Treasury Shares' notices followed from Aug to Oct 2026 (titles only).",
+    "source_ids": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2026-10-05",
+    "what": "Executive-management resignation, appointment and 'Resignation of Group Chief Operating Officer' (corrective) notices filed 1-5 Oct 2026 (titles only; content not read).",
+    "source_ids": [
+     "S12"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "AR 2025 says BBK is 'advancing its private banking proposition' with 'more bespoke and differentiated wealth solutions' for HNW clients, under a new Chief Private Banking Officer (S5 p.9, S1).",
+    "Wealth shelf evidenced is third-party mutual funds (unnamed managers), ETFs, brokerage and bonds; no model portfolios, structured products or discretionary mandates found (S15, S16, S18).",
+    "Added approx 75,000 HSBC Bahrain retail customers (expatriate-heavy) in Nov 2025, with 'wealth management solutions' promised to them (S25).",
+    "Innovation agenda is partner-led (ARRAY Innovation, Tarabut) and BBK Mobile already offers T-bills and bonds to Privé clients (S5)."
+   ],
+   "barriers": [
+    "Merger with NBB under negotiation (MoU 2 Nov 2025; talks continuing 21 Jul 2026); platform and vendor decisions for the combined bank are uncertain (S9, S10).",
+    "Group COO resignation and executive-management changes disclosed 1-5 Oct 2026 (titles only) (S12).",
+    "Conventional bank with no Shari'a wealth range found (S16).",
+    "Core-banking and digital build is aligned with ARRAY Innovation / Google Cloud pilot (S13)."
+   ],
+   "incumbent_vendors": [
+    "ARRAY Innovation - innovation centre and Google Cloud Universal Ledger core-banking pilot (S5, S13)",
+    "Tarabut - open banking (S5)",
+    "Mubasher Financial Services - Bahrain Trade online trading agreement, 2018; current status unconfirmed (S22)",
+    "Visa - cards/lifestyle (S16, S17)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Executive Management (18 executives with qualifications)",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/executive-management",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/board-of-directors",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "BBK - Interim Condensed Consolidated Financial Statements 30 June 2026 (reviewed by Ernst & Young)",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/wp-content/uploads/2026/07/BBK-FS-30-June-2026-7.5fils.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-07-29",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "PDF pages 3-4 (statement of financial position, profit or loss) are scanned images with no text layer; figures were read visually. Board authorisation 29 Jul 2026."
+  },
+  {
+   "id": "S4",
+   "title": "BBK - Consolidated Financial Statements 31 December 2025 (audited by Ernst & Young)",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/wp-content/uploads/2026/02/BBK-Annual-FS-2025-Signed.pdf",
+   "doc_type": "Audited financial statements",
+   "tier": 1,
+   "published": "2026-02",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "PDF pages 8-9 are scanned images; figures read visually."
+  },
+  {
+   "id": "S5",
+   "title": "Annual Report 2025 (spread edition)",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/wp-content/uploads/2026/04/BBK-2025-Annual-Report-English-Spread.pdf",
+   "doc_type": "Annual report",
+   "tier": 1,
+   "published": "2026-04",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "BBK discloses its financial results for the half year ended 30 June 2026",
+   "publisher": "BBK via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/NewAttachments/30072026075056/30072026075056_File1.pdf",
+   "doc_type": "Exchange disclosure (results announcement)",
+   "tier": 1,
+   "published": "2026-07-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Major Shareholders - BBK",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/BBK/MajorShareholder.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated issuer-provided list: Fincorp W.L.L. 26.19%, SIO (Pension Fund Commission) 19.27%, KIA 19.20%, SIO (GOSI) 13.70%."
+  },
+  {
+   "id": "S8",
+   "title": "List of Key Persons - BBK",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/BBK/Keyperson.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated issuer-provided list; also names Clifford Chance LLP as external consultant and Kfintech as share registrar."
+  },
+  {
+   "id": "S9",
+   "title": "Disclosure of Material Information - NBB and BBK sign MoU (2 Nov 2025)",
+   "publisher": "National Bank of Bahrain via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/NewAttachments/02112025161828/02112025161828_File1.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2025-11-02",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Follow-up Disclosure on the potential Merger with NBB (21 Jul 2026)",
+   "publisher": "BBK via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/NewAttachments/21072026074510/21072026074510_File1.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-07-21",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Refers to a previous BBK disclosure of 21 Jun 2026, not read."
+  },
+  {
+   "id": "S11",
+   "title": "Disclosure of Material Information - NBB proposal on key merger terms (30 Apr 2026)",
+   "publisher": "National Bank of Bahrain via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/NewAttachments/30042026114003/30042026114003_File1.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-04-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Company Announcements - BBK (listing filtered to BBK, titles and times)",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/EN/NEWS%20AND%20EVENTS/COMPANYANNOUNCEMENTS",
+   "doc_type": "Exchange announcements listing",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Listing read in the built-in browser; detail pages show a Cloudflare human-verification check and were not opened or bypassed. Titles include Oct 2026 executive-management notices and Aug-Oct treasury-share purchases."
+  },
+  {
+   "id": "S13",
+   "title": "News (2026 items, 1 Jun - 12 Oct)",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/news",
+   "doc_type": "Official news page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Quarterly results and press releases",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/quarterly-results-and-press-release",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "Wealth Management - BBK Privé",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/wealth-management",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "BBK Privé (private banking segment)",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/bbk-prive/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Al Wajaha",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/al-wajaha/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "Mutual Funds",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/mutual-funds",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "Treasury and Investment",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/treasury-and-investment",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "Bonds",
+   "publisher": "BBK",
+   "url": "https://www.bbkonline.com/bonds",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S21",
+   "title": "BBK-NBB merger 'on track for completion this year'",
+   "publisher": "TradeArabia",
+   "url": "https://www.tradearabia.com/News/413506/BBK-NBB-merger-%E2%80%98on-track-for-completion-this-year%E2%80%99/BANK",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-04-01",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S22",
+   "title": "BBK Signs an Agreement with Mubasher Financial Services to Provide 'Bahrain Trade' Platform",
+   "publisher": "Arab Federation of Exchanges",
+   "url": "https://archive.arab-exchanges.org/?p=18085",
+   "doc_type": "News item",
+   "tier": 5,
+   "published": "2018-01-31",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened)."
+  },
+  {
+   "id": "S24",
+   "title": "HSBC offloads Bahrain retail banking operations to BBK",
+   "publisher": "FinTech Futures",
+   "url": "https://www.fintechfutures.com/m-a/hsbc-offloads-bahrain-retail-banking-operations-to-bbk",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); search summary says HSBC corporate and private banking in Bahrain were excluded."
+  },
+  {
+   "id": "S25",
+   "title": "BBK successfully completes the transfer of HSBC Middle East, Bahrain Retail (Consumer) Business to BBK",
+   "publisher": "BBK via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/NewAttachments/30112025191800/30112025191800_File2.pdf",
+   "doc_type": "Exchange disclosure / press release",
+   "tier": 1,
+   "published": "2025-11-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S27",
+   "title": "BisB announcement - appointment of Chief Corporate & Institutional Banking Officer (7 Aug 2024)",
+   "publisher": "Bahrain Islamic Bank via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/File%20Attachments/07082024074958/07082024074958_File1.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2024-08-07",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); snippet named Aqeel Mohammed Ghaith, effective 6 Aug 2024."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Mumtalakat as BBK shareholder (lead)",
+   "detail": "The research brief expected Mumtalakat among BBK's holders. Neither the AR 2025 shareholder table nor the Bourse major-shareholder list names Mumtalakat; they list SIO, Fincorp W.L.L. and KIA.",
+   "source_ids": [
+    "S5",
+    "S7"
+   ],
+   "resolution": "Lead not supported; no Mumtalakat link recorded. Fincorp W.L.L.'s ultimate owner is not established."
+  },
+  {
+   "field": "Deputy Chairperson",
+   "detail": "AR 2025 and the FY2025 statements show Khalid Hussain Taqi; the website and Bourse key-persons list show Abdulla Jehad AlZain.",
+   "source_ids": [
+    "S5",
+    "S4",
+    "S2",
+    "S8"
+   ],
+   "resolution": "Website and Bourse list (more recent) used; likely a post-AGM (31 Mar 2026) change, not confirmed."
+  },
+  {
+   "field": "Board composition",
+   "detail": "AR 2025 board section (Apr 2026) lists directors who are not on the current website (e.g. Khalid Hussain Taqi, Khalid Nasser Al Shamsi, Dana Aqeel Raees, Naser Khalid Al Raee, Nour Nael Al Jassim); the website lists ten members incl. Mohamed Abdulhakeem Abdulmalek, Major General Ghanem Al Fodhala, Nada AlMojil and Sara Nooruddin.",
+   "source_ids": [
+    "S5",
+    "S2",
+    "S8"
+   ],
+   "resolution": "Current website/Bourse list used for the board; AR used only for director bios of the Chairperson."
+  },
+  {
+   "field": "Group COO",
+   "detail": "AR 2025 lists Hassaan Burshaid as Group COO; the website and Bourse key-persons list do not; Bourse listing shows a COO resignation notice on 5 Oct 2026.",
+   "source_ids": [
+    "S5",
+    "S1",
+    "S8",
+    "S12"
+   ],
+   "resolution": "Marked 'Requires verification'."
+  },
+  {
+   "field": "Chief Strategy title",
+   "detail": "Website: 'Group Chief Strategy & Transformation Officer'; Bourse list: 'Chief Strategy & Sustainability Officer'.",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "resolution": "Website title used."
+  },
+  {
+   "field": "Potential double counting with NBB",
+   "detail": "NBB and BBK are separate listed banks pending a merger that has not been agreed in binding form.",
+   "source_ids": [
+    "S9",
+    "S10"
+   ],
+   "resolution": "Treat as independent institutions."
+  }
+ ],
+ "open_items": [
+  "Merger status after 21 Jul 2026 not confirmed; BBK's 21 Jun 2026 disclosure and the 23 Aug, 23 Sep and 27 Sep 2026 material-information notices (titles only) were not read. No exchange ratio or definitive agreement found.",
+  "Oct 2026 executive-management resignation (1 Oct), appointment (4 Oct) and Group COO resignation (5 Oct, corrective) notices: names not read (Cloudflare check on Bahrain Bourse detail pages; not bypassed). Hassaan Burshaid's status unverified.",
+  "BBK treasury-share purchase programme (CBB approval 6 Aug 2026, daily notices to 11 Oct 2026) seen as titles only.",
+  "Q3 2026 results not yet published at 12 Oct 2026.",
+  "Wealth fund managers, brokerage platform and any digital-investing vendor are not named; Mubasher/Bahrain Trade link rests on a 2018 search result. A search summary mentioned a BBK partnership with Binance Bahrain around Gateway Gulf 2025, but no source page was opened, so it is not recorded.",
+  "Fincorp W.L.L. (26.19%) ultimate ownership not established; the 'Mumtalakat' lead is not supported.",
+  "LinkedIn: not verified for any BBK executive (CEO and private banking head searched; Privé head name match with a 2024 BisB appointment is name-only).",
+  "Chairperson and Deputy Chairperson appointment dates, and the CEO's pre-BBK career, were not found on opened sources.",
+  "Gross/net split of 'Loans and advances to customers' not read; branch count for the whole group not stated (Bahrain: 17 retail + 3 BBKLite at Nov 2025)."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B27",
+ "checked": "2026-10-12"
+}

@@ -1,0 +1,1163 @@
+{
+ "id": "kw-kib",
+ "name": "Kuwait International Bank",
+ "short_name": "KIB",
+ "legal_name": "Kuwait International Bank K.S.C.P.",
+ "name_ar": null,
+ "country": "KW",
+ "hq_city": "Kuwait City",
+ "website": "https://www.kib.com.kw",
+ "linkedin_company": null,
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "1973 (incorporated 13 May 1973 as Kuwait Real Estate Bank; licensed to operate as an Islamic bank from 1 Jul 2007; listed on Boursa Kuwait since 1984)",
+ "regulators": [
+  "CBK",
+  "CMA Kuwait (KIB Invest; listed issuer)"
+ ],
+ "listed": true,
+ "exchange": "Boursa Kuwait (Premier Market)",
+ "ticker": "KIB (Boursa Kuwait code not confirmed from a source opened)",
+ "parent_id": null,
+ "ownership_summary": "Listed on Boursa Kuwait. Bukhamseen Group Holding and its affiliates hold 37.38% at 30 Jun 2026 (1H 2026 investor presentation). At 31 Dec 2024 the major holders were Bukhamseen Group 37.17%, the Public Institution for Social Security 6.51% and the Kuwait Investment Authority 5.46% (AR 2024); a 2026 update for the other holders was not found.",
+ "shareholders": [
+  {
+   "holder": "Bukhamseen Group Holding and its affiliates",
+   "pct": 37.38,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "holder": "Bukhamseen Group Holding, subsidiaries, associates and allied parties (earlier data point)",
+   "pct": 37.17,
+   "as_of": "2024-12-31",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "holder": "Public Institution for Social Security (PIFSS)",
+   "pct": 6.51,
+   "as_of": "2024-12-31",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "holder": "Kuwait Investment Authority",
+   "pct": 5.46,
+   "as_of": "2024-12-31",
+   "source_ids": [
+    "S6"
+   ]
+  }
+ ],
+ "government_link": "Partial - Public Institution for Social Security (6.51%) and Kuwait Investment Authority (5.46%) held stakes above 5% at 31 Dec 2024 (AR 2024); no controlling government holding. 2026 positions not confirmed.",
+ "group_structure": "Subsidiaries (31 Dec 2025): Al Dawli Takaful Insurance Company KSCC (KIB Takaful) 73.6%; Al Dawli Invest Investment Company KSCC (KIB Invest) 99.9%; KIB Mubader Business Incubator Center 99%; Innovatech Center for Computer Integrated Services (digital solutions; ownership not captured). KIB Invest is not profiled separately, so its details are recorded here. KIB's board and chairman have links to Warba Insurance and Arab Investment Company but these are not group subsidiaries on the evidence found.",
+ "subsidiaries": [
+  {
+   "name": "Al Dawli Invest Investment Company K.S.C.C. (KIB Invest)",
+   "pct": 99.9,
+   "activity": "Islamic investment: asset management, fund and portfolio management, advisory, sukuk arranging",
+   "linked_id": null,
+   "source_ids": [
+    "S3",
+    "S12"
+   ]
+  },
+  {
+   "name": "Al Dawli Takaful Insurance Company K.S.C.C. (KIB Takaful)",
+   "pct": 73.6,
+   "activity": "Shariah-compliant insurance",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "KIB Mubader Business Incubator Center W.L.L.",
+   "pct": 99.0,
+   "activity": "Business support / incubator",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  }
+ ],
+ "footprint": "Kuwait only: 19 local branches (31 Dec 2025) and 141 ATMs (H1 2026); International Banking Department present (no overseas branches found).",
+ "customer_segments": "Retail (salary, Kids, Youth, Al Dirwaza prize account), Premium and Black affluent packages, SMEs (KIB Mubader), corporate and real estate clients, institutions.",
+ "business_lines": "Islamic retail banking (Murabaha, Musawama via PayTally, Ijara, Tawarruq, credit cards, Wakala deposits), wholesale and corporate banking, real estate finance and management, treasury, international banking, KIB Invest (asset management and sukuk arranging) and KIB Takaful.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 4595593,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank, KIB Invest, KIB Takaful and other subsidiaries)",
+   "definition": "'TOTAL ASSETS', interim condensed consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "locator": "S2 PDF p.7 (printed p.5); S4 (KD 4.60bn)",
+   "note": ""
+  },
+  {
+   "metric": "total_assets",
+   "value": 4639241,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL ASSETS' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.7 comparative",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 3291645,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Depositors' accounts'; excludes 'Due to banks' (KD 261,954k), 'Due to financial institutions' (KD 366,396k) and 'Sukuk issued' (KD 91,908k)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "locator": "S2 PDF p.7; S4 (KD 3.29bn, +16% year on year)",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 3218039,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Depositors' accounts' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.7 comparative",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 3452635,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing receivables' as presented on the statement of financial position (Islamic financing; shown as one line, understood to be net of provisions - the provisions note was not read)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "locator": "S2 PDF p.7; S4 (financing portfolio KD 3.45bn, +12%)",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 3319169,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing receivables' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.7 comparative",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 475526,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL EQUITY' incl. Perpetual Tier 1 Sukuk (KD 92,400k) and non-controlling interests (KD 3,863k); equity attributable to shareholders KD 379,263k",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.7",
+   "note": "31 Dec 2025: KD 479,074k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 101526,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL OPERATING INCOME' (net financing income plus fees, FX, investment and other income), consolidated statement of profit or loss",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.9",
+   "note": "FY2024: KD 91,371k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 51130,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL OPERATING INCOME', six months ended 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "locator": "S2 PDF p.5",
+   "note": "H1 2025: KD 46,287k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 30102,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Profit for the year attributable to shareholders of the Bank (total profit KD 30,455k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.9",
+   "note": "FY2024: KD 23,078k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 17541,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Profit for the period attributable to shareholders of the Bank, six months (total KD 17,664k)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S7"
+   ],
+   "locator": "S2 PDF p.5",
+   "note": "H1 2025: KD 14,836k (+18%)."
+  },
+  {
+   "metric": "fees_and_commissions",
+   "value": 12198,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Fees and commission income', six months ended 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "locator": "S2 PDF p.5",
+   "note": "H1 2025: KD 9,349k (+30%); FY2025: KD 21,032k (S3)."
+  },
+  {
+   "metric": "employees",
+   "value": 833,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Bank (staff employed)",
+   "definition": "'employed 833 staff as at 31 December 2025'",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.14 (note 1)",
+   "note": "31 Dec 2024: 764."
+  },
+  {
+   "metric": "branches",
+   "value": 19,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Kuwait",
+   "definition": "'19 local branches'",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.14 (note 1)",
+   "note": "ATMs: 141 at H1 2026 (S8)."
+  },
+  {
+   "metric": "atms",
+   "value": 141,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "point_in_time",
+   "scope": "Kuwait",
+   "definition": "ATM network size reported by Retail Banking",
+   "status": "Verified",
+   "source_ids": [
+    "S8"
+   ],
+   "locator": "S8",
+   "note": "H1 2025: 125."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "1H 2026 and YE2025 call materials (S4, S5), FY2025 statements (S3), AR 2024 (S6), Kuwait Times H1 2026 (S7), press items on KIB Invest (S12-S14): no AUM for KIB Invest."
+  },
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "S3 text pages, S4, S5."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "S4, S5, S7, S10, S11: no client-asset figure."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S3, S4, S5, S8 (no customer count)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "S4, S8, S12-S14: no investor counts."
+  }
+ ],
+ "people": [
+  {
+   "name": "Sheikh Mohammed Jarrah Al-Sabah",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2010",
+   "appointed_note": "Joined the Board in 2007; elected Chairman in 2010 (S1).",
+   "previous_roles": "Chairman of the Union of Arab Banks until May 2022 and still a board and executive committee member; board member of the World Union of Arab Bankers and Kuwait Banking Association; Vice Chairman, Warba Insurance; formerly Chairman and Managing Director of Commercial Bank of Kuwait and General Manager, Arab International Insurance (Bahrain) (S1).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); signed the 30 Jun 2026 statements (S2); quoted as Chairman in H1 2026 results (S7) and the 5 Sep 2026 Sukuk release (S9).",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S7",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Raed Jawad Bukhamseen",
+   "name_ar": null,
+   "title": "Vice Chairman and Chief Executive Officer",
+   "functions": [
+    "CEO",
+    "Board"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2010",
+   "appointed_note": "Joined the KIB board in 2010 (S1); date of CEO appointment not stated on the pages read.",
+   "previous_roles": "20+ years in banking, real estate and investment. Chairman of EGBank and of Arab Investment Company; former board member of Bukhamseen Group Holding, Boursa Kuwait, Warba Insurance, Layan Real Estate (Dubai), Souk Al-Salmiah Real Estate and Credit One Kuwait Holding (S1).",
+   "education": "Bachelor of Business Administration, Boston University (1999)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); quoted as Vice Chairman and CEO on 5 Sep 2026 (S9) and in Kuwait Times 26 Jul 2026 (S7). Note: the 29 Jul 2026 earnings call (S4) was led by Jassim Al-Abdulhadi styled 'Acting CEO' and the 30 Jun 2026 statements are signed by the Chairman and the Deputy CEO (S2); no leave or departure announcement found.",
+   "source_ids": [
+    "S1",
+    "S7",
+    "S9",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Said El Saka",
+   "name_ar": null,
+   "title": "Deputy Chief Executive Officer",
+   "functions": [
+    "Deputy CEO",
+    "Finance"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Executive Management",
+   "scope": "Group",
+   "appointed": "2016-05",
+   "appointed_note": "Joined KIB Aug 2014 as GM Financial Control & Planning; Deputy CEO from May 2016; Acting CEO Sep 2015 to Sep 2018 (S1).",
+   "previous_roles": "33+ years in finance incl. 22 in Islamic banking; former Chairman of the AAOIFI Accounting and Auditing Standards Board; member of IFSB technical groups (S1).",
+   "education": "Bachelor of Commerce in Accounting, Ain Shams University (1990)",
+   "qualifications": "CPA (1995); CIA (1998)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); signed the 30 Jun 2026 statements as Deputy CEO (S2).",
+   "source_ids": [
+    "S1",
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Jassim Al-Abdulhadi",
+   "name_ar": null,
+   "title": "General Manager, Real Estate Department; styled Acting Chief Executive Officer on the 29 Jul 2026 earnings call",
+   "functions": [
+    "Other",
+    "CEO"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Real Estate Department",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "With KIB since 1997 (S1); acting-CEO arrangement date not found.",
+   "previous_roles": "Entire banking career at KIB; corporate finance, particularly real estate (S1).",
+   "education": "Bachelor's in accounting and auditing, Kuwait University; programmes at Harvard Business School, Kuwait Institute of Banking Studies and Euromoney",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 lists him as GM Real Estate (S1); the 29 Jul 2026 call transcript lists him as 'Acting Chief Executive Officer' and he gave the CEO remarks (S4). Acting role not otherwise announced in sources found.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Othman Tawfiqi",
+   "name_ar": null,
+   "title": "General Manager, Retail Banking Department",
+   "functions": [
+    "Retail",
+    "Affluent"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Retail Banking Department",
+   "scope": "Kuwait",
+   "appointed": "2018",
+   "appointed_note": "Joined KIB in 2018 (S1).",
+   "previous_roles": "Held Assistant GM Retail Banking, Head of Product and Business Development and Head of Delivery Channels at Al Ahli Bank of Kuwait; Call Center manager at NBK (S1).",
+   "education": "Bachelor's in marketing, Kuwait University (2004); Harvard Business School, Columbia Business School and Stanford executive programmes",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); Retail Banking H1 2026 results release (S8) quotes his deputy.",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Nawaf Al-Khrayef",
+   "name_ar": null,
+   "title": "Deputy General Manager, Retail Banking",
+   "functions": [
+    "Retail",
+    "Digital"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Retail Banking Department",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted with this title in KIB's press release of 29 Aug 2026 (S8); not on the executive page.",
+   "source_ids": [
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Atef El-Shareef",
+   "name_ar": null,
+   "title": "General Manager, Digital Transformation and Innovation Department",
+   "functions": [
+    "Digital",
+    "Technology",
+    "Innovation / partnerships"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Digital Transformation and Innovation",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined KIB as GM Digital Transformation and Innovation; date not stated.",
+   "previous_roles": "20+ years; NBK Consumer Banking Group MIS (from 2001, Senior Manager 2007, Executive Director 2009); AGM at Boubyan Bank (3 years); Chief Digital Officer, Warba Bank from 2015 (S1).",
+   "education": "Master's in information systems management, University of Atlanta (Alabama), 2001; BSc Electrical and Electronic Engineering, Middle East Technical University (1999); McKinsey and Chicago Booth executive programmes",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1). A search result from Feb 2024 gives the earlier title 'General Manager of Digital Innovation and Data Intelligence'.",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Al-Duwailah",
+   "name_ar": null,
+   "title": "General Manager, Treasury Department",
+   "functions": [
+    "Treasury"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Treasury",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); no biography matched to this name on the page.",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hesham Al Mubaraki",
+   "name_ar": null,
+   "title": "General Manager, Wholesale Banking",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Wholesale Banking",
+   "scope": "Kuwait",
+   "appointed": "2019",
+   "appointed_note": "Joined KIB in 2019 as Deputy GM Wholesale Banking, later GM (S1).",
+   "previous_roles": "22+ years in corporate banking: Bank of Kuwait & Middle East / Ahli United Bank (2001), Boubyan Bank (2005), KFH Deputy GM Local Real Estate Financing (2013) (S1).",
+   "education": "Bachelor's in finance, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Abdulrahman Alasousi",
+   "name_ar": null,
+   "title": "General Manager - Financial Control and Planning Department (CFO)",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Financial Control and Planning",
+   "scope": "Group",
+   "appointed": "2026-06",
+   "appointed_note": "Appointment as GM Financial Control and Planning dated June 2026 per search summary of S16 (not opened).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); presented as GM Financial Control and Planning / CFO on the 29 Jul 2026 call (S4); appointment release seen in search results (S16).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Jamal Al-Barrak",
+   "name_ar": null,
+   "title": "Chief Executive Officer, KIB Invest (Al Dawli Invest Investment Company)",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management"
+   ],
+   "entity": "Al Dawli Invest Investment Company K.S.C.C. (KIB Invest)",
+   "business_unit": "KIB Invest",
+   "scope": "Subsidiary",
+   "appointed": "2024-11",
+   "appointed_note": "Named at the 11 Nov 2024 launch announcement; appointment date not stated.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Named as KIB Invest CEO in Al-Rai article of 11 Nov 2024 at the launch (S12). Not on the KIB executive page; no later confirmation found.",
+   "source_ids": [
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Anwar Jawad Bukhamseen",
+   "name_ar": null,
+   "title": "Board Member, KIB; Chairman, KIB Invest",
+   "functions": [
+    "Board",
+    "Investments / asset management"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Board of Directors / KIB Invest",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment dates not found.",
+   "previous_roles": "Chairman of Warba Insurance; Executive Director, Bukhamseen Group Holding; Vice Chairman, Kuwait Insurance Federation; Qatar First Bank board 2008-2018 (S6 AR 2024 board bio).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board list checked 2026-10-12 (S1); named as KIB Invest chairman in Al-Rai 11 Nov 2024 (S12).",
+   "source_ids": [
+    "S1",
+    "S12",
+    "S6"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sheikh Dr. Khalid Mathkour Al-Mathkour",
+   "name_ar": null,
+   "title": "Chairman of the Shari'ah Supervisory Board",
+   "functions": [
+    "Islamic / Shariah"
+   ],
+   "entity": "Kuwait International Bank K.S.C.P.",
+   "business_unit": "Shari'ah Supervisory Board",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "KIB is a fully Shariah-compliant bank (Islamic since 1 Jul 2007) with a banking-led affluent tier and a newly built investment arm. Affluent tiers are the Black package (total deposits of KD 100,000+ or monthly salary of KD 3,000+; dedicated relationship manager, priority service) and a Premium package (benefits only; threshold not shown), with no private banking unit found. Investment activity sits in Al Dawli Invest Investment Company (KIB Invest, 99.9% owned, launched Nov 2024) which offers asset and portfolio management, funds and advisory; its first product is the Al Dawli Invest Islamic KD Money Market Fund (launched 2025, weekly dealing, USD and EUR strategies planned) and it acts as joint lead manager on sukuk (USD 1bn Islamic Development Bank, USD 700m FAB, USD 2.75bn Saudi Real Estate Refinance Co, 2026). No AUM, brokerage, robo or managed-portfolio offer was found. KIB Mobile adds investment-deposit and card journeys; investment deposits opened in-app doubled in H1 2026. Strategy 2024-2028 aims to 'revitalise the core' and expand client propositions in priority segments through targeted partnerships and digital initiatives.",
+  "segments": [
+   {
+    "name": "Black package",
+    "tier": "Affluent",
+    "eligibility": "Total deposits of KD 100,000 or more, or monthly salary of KD 3,000 or more (as published).",
+    "source_ids": [
+     "S10"
+    ]
+   },
+   {
+    "name": "Premium package",
+    "tier": "Mass affluent",
+    "eligibility": "Threshold not shown on the page; benefits include Visa Signature card, priority service, concierge and travel insurance.",
+    "source_ids": [
+     "S11"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Not found after research",
+   "detail": "No private banking unit; the highest tier found is the Black package with a dedicated relationship manager (S10).",
+   "source_ids": [
+    "S10",
+    "S11",
+    "S1"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Al Dawli Invest Investment Company K.S.C.C. (KIB Invest), 99.9% owned, Islamic investment company launched Nov 2024 with asset management, fund and portfolio management and investment advisory services; first product the Al Dawli Invest Islamic KD Money Market Fund (reported launch Feb 2025 per IFN, Apr 2025 per Albawaba; open-ended, weekly dealing; USD and EUR strategies planned). AUM not disclosed.",
+   "source_ids": [
+    "S12",
+    "S14",
+    "S3"
+   ]
+  },
+  "brokerage": {
+   "present": "Not found after research",
+   "detail": "No securities brokerage or trading platform for KIB or KIB Invest found; the Al-Rai launch article lists asset management, funds, portfolios and advisory only (S12).",
+   "source_ids": [
+    "S12",
+    "S17"
+   ]
+  },
+  "digital_investing": {
+   "present": "Not found after research",
+   "detail": "KIB Mobile lets customers open accounts, investment deposits (doubled year on year in H1 2026), instant credit cards and Visa-based services; no securities, funds or portfolios in the app were found.",
+   "source_ids": [
+    "S8",
+    "S17"
+   ]
+  },
+  "advisory": {
+   "present": "Unclear",
+   "detail": "KIB Invest says it offers investment advisory (S12); licence and client offer not described. Redesigned 'phygital' branches act as 'financial advisory points' per an executive interview (S19).",
+   "source_ids": [
+    "S12",
+    "S19"
+   ]
+  },
+  "discretionary": {
+   "present": "Unclear",
+   "detail": "KIB Invest cites 'fund and portfolio management' (S12) but no discretionary portfolio product or terms were found.",
+   "source_ids": [
+    "S12"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No robo or model portfolio offer found.",
+   "source_ids": [
+    "S12",
+    "S17"
+   ]
+  },
+  "funds_platform": {
+   "present": "Unclear",
+   "detail": "Only KIB Invest's own money market fund found; no third-party fund shelf or platform provider named.",
+   "source_ids": [
+    "S14",
+    "S12"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "No structured products found.",
+   "source_ids": [
+    "S12",
+    "S17"
+   ]
+  },
+  "private_markets": {
+   "present": "Not found after research",
+   "detail": "No private-markets or alternatives offer found for clients (KIB has a Real Estate Department and publishes real estate research, S1, but no client investment vehicle found).",
+   "source_ids": [
+    "S1",
+    "S12"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Fully Shariah-compliant group: Al Dawli Invest Islamic KD Money Market Fund, Wakala deposits, KIB Invest sukuk arranging (IsDB USD 1bn, FAB USD 700m, SRC USD 2.75bn), KIB's own USD 500m senior sukuk (Sep 2026).",
+   "source_ids": [
+    "S14",
+    "S7",
+    "S9",
+    "S15"
+   ]
+  },
+  "asset_classes": [
+   "Mutual funds"
+  ],
+  "partners": [],
+  "initiatives": [
+   {
+    "date": "2024-11-11",
+    "what": "Launched KIB Invest (Al Dawli Invest) as Islamic investment arm: asset management, fund and portfolio management, advisory; Chairman Anwar Bukhamseen, CEO Jamal Al-Barrak.",
+    "source_ids": [
+     "S12",
+     "S13"
+    ]
+   },
+   {
+    "date": "2025-02",
+    "what": "Al Dawli Invest Islamic KD Money Market Fund launched (IFN: 2 Feb 2025; Albawaba release dated 27 Apr 2025); USD and EUR strategies planned.",
+    "source_ids": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "YE2025 call: progress on digital and operational transformation and on 'selectively leveraging partnerships and digital channels'; operating expenses up 13% to KD 59.6m mainly on digital initiatives and staff costs.",
+    "source_ids": [
+     "S5",
+     "S3"
+    ]
+   },
+   {
+    "date": "2026-04-08",
+    "what": "Fitch affirmed KIB at 'A', Stable.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2026-06",
+    "what": "Abdullah Al-Asousi appointed General Manager of Financial Control and Planning (search summary).",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "date": "2026-07-07",
+    "what": "KIB Invest joint lead manager on the USD 2.75bn Saudi Real Estate Refinance Company sukuk; earlier in H1 2026 JLM on a USD 1bn Islamic Development Bank sukuk and participant in a USD 700m FAB sukuk.",
+    "source_ids": [
+     "S15",
+     "S7"
+    ]
+   },
+   {
+    "date": "2026-07-29",
+    "what": "H1 2026 call: second phase of Strategy 2024-2028 with focus on 'expand our client propositions' across priority segments, digital capabilities and 'targeted partnerships and digital initiatives'; call led by Jassim Al-Abdulhadi as Acting CEO.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2026-08-29",
+    "what": "Retail Banking reported H1 2026 digital results: accounts opened via KIB Mobile doubled year on year, investment deposit openings doubled, instant credit card issuance, ATM network 141 machines.",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2026-09-05",
+    "what": "Priced inaugural USD 500 million five-year senior unsecured Sukuk under a USD 1.5bn programme (settlement 10 Sep 2026).",
+    "source_ids": [
+     "S9"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Strategy 2024-2028 (second phase) targets expanding client propositions in priority segments and 'targeted partnerships and digital initiatives' for revenue diversification (S4).",
+    "Investment arm is new (Nov 2024) with a single in-house money market fund and a stated plan to add USD and EUR strategies and 'innovative investment products' (S12, S14); no managed portfolios, third-party fund shelf, brokerage or private-markets offer found.",
+    "Fee and commission income grew 30% in H1 2026 and KIB Mobile investment-deposit openings doubled, indicating digital demand (S2, S8); Black package clients (KD 100,000+) get service benefits but no investment product (S10)."
+   ],
+   "barriers": [
+    "Islamic-only: any shelf must be Shariah-screened and approved by the Shari'ah Supervisory Board (S1).",
+    "Leadership in transition on the evidence: earnings call led by an Acting CEO while the official site lists the CEO (S4, S1).",
+    "Digital investment is retail-banking led and focused on payments, onboarding and financing journeys (S8); KIB Invest is small and focused on sukuk arranging and one fund (S7, S14).",
+    "Latest annual report posted is AR 2024; no vendor or platform commitments for wealth are disclosed."
+   ],
+   "incumbent_vendors": []
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "About KIB - Directors & Board Members and Management Team",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/en/home/Personal/about-us.html",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Biographies for board and executive team are embedded in the page."
+  },
+  {
+   "id": "S2",
+   "title": "KIB - Interim Condensed Consolidated Financial Information 30 June 2026 (unaudited, reviewed)",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/dam/jcr:c5e72db9-db4a-431a-9c2d-db79502fba0b/FS_2Q%202026_E.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-07-23",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Statement of financial position (PDF p.7) is an image page; figures read visually. Signed by the Chairman and Deputy CEO."
+  },
+  {
+   "id": "S3",
+   "title": "KIB - Consolidated Financial Statements 31 December 2025 (audited)",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/dam/jcr:12a698bd-fecd-4617-87e6-94af2bb86160/FS%20YE%202025%20E.pdf",
+   "doc_type": "Audited financial statements",
+   "tier": 1,
+   "published": "2026-01-08",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "2Q/1H 2026 Earnings Call transcript and investor presentation (Boursa Kuwait disclosure)",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/dam/jcr:f44a769c-7cf1-4af3-8e15-2e14d8947eb2/Boursa%20Kuwait_Earnings%20call_Disclosure_2Q&%23039;2026_E.pdf",
+   "doc_type": "Exchange disclosure - earnings call and investor presentation",
+   "tier": 1,
+   "published": "2026-07-29",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "YE 2025 Earnings Call transcript and investor presentation",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/dam/jcr:9922a2c8-c46d-40a5-bf8a-0bb1d3fee105/KIB%20Earnings%20Call%20transcript-YE2025%20E.pdf",
+   "doc_type": "Earnings call transcript and investor presentation",
+   "tier": 2,
+   "published": "2026-02",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "KIB Annual Report 2024",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/dam/jcr:7deafa96-1fa0-4c1a-97a6-4fc8a712bb42/KIB%20Annual%20Report%202024-EN.pdf",
+   "doc_type": "Annual report",
+   "tier": 1,
+   "published": "2025",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Latest annual report listed on the Annual Reports page at 12 Oct 2026 (AR 2025 not listed)."
+  },
+  {
+   "id": "S7",
+   "title": "KIB Group reports net profit of KD 17.5 million for H1 of 2026",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/47096/business/kib-group-reports-net-profit-of-kd-175-million-for-h1-of-2026/amp",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-07-26",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "KIB announces Retail Banking Department's key digital achievements during H1 2026",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/en/home/Personal/news/news-403.html",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-08-29",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "KIB successfully prices its inaugural USD500 million five-year senior unsecured Sukuk issuance",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/en/home/Personal/news/news-405.html",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-09-05",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Black Package (eligibility and benefits)",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/en/home/Personal/Bank/accounts/Black-Package.html",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "PREMIUM Package (benefits)",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/en/home/Personal/Bank/accounts/KIB-PREMIUM-Package.html",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "KIB expands its services and launches Al Dawli Invest (KIB Invest)",
+   "publisher": "Al-Rai",
+   "url": "https://www.alraimedia.com/ampArticle/1707830",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2024-11-11",
+   "accessed": "2026-10-12",
+   "language": "ar"
+  },
+  {
+   "id": "S13",
+   "title": "KIB Invest to drive Shariah product innovation (headline and date only; body behind login)",
+   "publisher": "IFN Investor",
+   "url": "https://ifninvestor.com/kib-invest-to-drive-shariah-product-innovation/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2024-11-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "KIB Invest launches Islamic KD Money Market Fund",
+   "publisher": "Albawaba (press release)",
+   "url": "https://www.albawaba.com/index%2Ephp/business/pr/kib-invest-launches-islamic-kd-money-1603908",
+   "doc_type": "Press release",
+   "tier": 5,
+   "published": "2025-04-27",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page returned 403); IFN Investor snippet in the same search gives 2 Feb 2025 as launch date."
+  },
+  {
+   "id": "S15",
+   "title": "KIB Invest participates as joint lead manager in the issuance of USD 2.75bn sukuk for the Saudi Real Estate Refinance Company",
+   "publisher": "Zawya (press release)",
+   "url": "https://www.zawya.com/en/press-release/companies-news/kib-invest-participates-as-joint-lead-manager-in-the-issuance-of-2.75bln-in-sukuk-for-the-saudi-real-estate-refinance-company-404215",
+   "doc_type": "Press release",
+   "tier": 5,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened)."
+  },
+  {
+   "id": "S16",
+   "title": "KIB appoints Abdullah Al-Asousi as General Manager of Financial Control and Planning",
+   "publisher": "Albawaba (press release)",
+   "url": "https://www.albawaba.com/business/pr/kib-appoints-abdullah-al-asousi-general-1629345",
+   "doc_type": "Press release",
+   "tier": 5,
+   "published": "2026-06",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); search summary dates the appointment June 2026."
+  },
+  {
+   "id": "S17",
+   "title": "KIB homepage (English)",
+   "publisher": "Kuwait International Bank",
+   "url": "https://www.kib.com.kw/en/home/Personal.html",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "Kuwait International Bank embarked on a massive digital transformation (interview with Khatija Iffath)",
+   "publisher": "ebankIT",
+   "url": "https://blog.ebankit.com/blog-press/kuwait-international-bank-embarked-on-a-massive-digital-transformation",
+   "doc_type": "Vendor blog interview",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated; does not state which ebankIT products KIB uses, so no vendor relationship is recorded."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Chief executive",
+   "detail": "Official page (checked 2026-10-12), Kuwait Times (26 Jul 2026) and KIB's 5 Sep 2026 Sukuk release name Raed Jawad Bukhamseen as Vice Chairman and CEO; the 29 Jul 2026 earnings-call transcript lists Jassim Al-Abdulhadi (GM Real Estate on the site) as 'Acting Chief Executive Officer', and the 30 Jun 2026 statements are signed by the Chairman and Deputy CEO.",
+   "source_ids": [
+    "S1",
+    "S7",
+    "S9",
+    "S4",
+    "S2"
+   ],
+   "resolution": "Bukhamseen recorded as current CEO (most recent official statement, 5 Sep 2026); acting arrangement flagged for confirmation."
+  },
+  {
+   "field": "El-Shareef title",
+   "detail": "Website: GM Digital Transformation and Innovation Department; a Feb 2024 search result: GM Digital Innovation and Data Intelligence Department.",
+   "source_ids": [
+    "S1"
+   ],
+   "resolution": "Website title used as more recent."
+  }
+ ],
+ "open_items": [
+  "Confirm via Boursa Kuwait disclosures whether Jassim Al-Abdulhadi was appointed Acting CEO (29 Jul 2026 call) or covered temporarily for CEO Raed Bukhamseen, who is quoted as CEO on 5 Sep 2026.",
+  "AR 2025 not yet posted on the Annual Reports page at 12 Oct 2026; ownership above 5% is from AR 2024 (31 Dec 2024) apart from the 37.38% Bukhamseen Group figure at 30 Jun 2026 from the 1H 2026 presentation. PIFSS and KIA 2026 stakes unconfirmed.",
+  "KIB Invest: AUM, licences (brokerage not evidenced), current CEO (Jamal Al-Barrak named Nov 2024 only) and fund launch date (IFN 2 Feb 2025 vs Albawaba 27 Apr 2025) unconfirmed. The Albawaba page returned 403 and the IFN article is behind a login.",
+  "Financing receivables note (gross financing, provisions) not read; the figure is the line on the statement of financial position.",
+  "Boursa Kuwait code and Arabic name not confirmed from sources opened (left null / unconfirmed).",
+  "Premium package threshold not shown on its page; Black package thresholds are as published (undated).",
+  "LinkedIn not verified for any person (CEO search returned only unrelated profiles; no profile match for the digital head). Company LinkedIn not recorded.",
+  "No Chief Executive of the retail or wealth line beyond the GM Retail Banking (Othman Tawfiqi) and Deputy GM (Nawaf Al-Khrayef); no private banking or wealth head exists on the evidence found.",
+  "Q3 2026 results not yet published at 12 Oct 2026; add when released. Abdullah Al-Asousi appointment date (June 2026) rests on a search summary; ebankIT interview does not confirm a vendor relationship."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B26",
+ "checked": "2026-10-12"
+}

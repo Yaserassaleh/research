@@ -1,0 +1,1312 @@
+{
+  "id": "om-bankdhofar",
+  "name": "BankDhofar",
+  "short_name": "BankDhofar",
+  "legal_name": "Bank Dhofar SAOG",
+  "name_ar": "بنك ظفار ش.م.ع.ع",
+  "country": "OM",
+  "hq_city": "Muscat",
+  "website": "https://www.bankdhofar.com",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1990 (began operations as Bank Dhofar Al Omani Al Fransi; later renamed BankDhofar. FSA register shows establishment date 14 Jan 1990)",
+  "regulators": [
+    "CBO",
+    "FSA Oman"
+  ],
+  "listed": true,
+  "exchange": "MSX",
+  "ticker": "BKDB",
+  "parent_id": null,
+  "ownership_summary": "Listed on the Muscat Stock Exchange (ticker BKDB, taken from the bank's own IR page link to the MSX snapshot). At 31 Dec 2025 the holders above 5% were Eng. Abdul Hafidh Al Ojaili and his companies 24.99%, Dhofar International Development & Investment Holding Co SAOG 23.30%, Social Protection Fund 10.75%, Yousuf bin Alawi bin Abdullah and his companies 9.76%, and Sheikh Mustahail Ahmed Al-Ma'ashani and his companies 7.45%; others 23.75%. The June 2026 investor presentation says government and Omani protection funds own about 28%.",
+  "shareholders": [
+    {
+      "holder": "Eng. Abdul Hafidh Salim Rajab Al Ojaili and his companies",
+      "pct": 24.99,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "holder": "Dhofar International Development & Investment Holding Company SAOG",
+      "pct": 23.3,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "holder": "Social Protection Fund",
+      "pct": 10.75,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "holder": "Yousuf bin Alawi bin Abdullah and his companies",
+      "pct": 9.76,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "holder": "Sheikh Mustahail Ahmed Al-Ma'ashani and his companies",
+      "pct": 7.45,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "holder": "Others",
+      "pct": 23.75,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "government_link": "Partly. The Social Protection Fund holds 10.75% (31 Dec 2025, S2). The June 2026 presentation says 'Government & Omani Protection funds' own c.28% of share capital and cites high probability of government support given systemic importance (S3). The FSA register (undated) also lists the Civil Service Pension Fund 10.07% and Ministry of Defense Pension Fund 5.25% (S14). The largest holders are private (the chairman's group and a listed holding company).",
+  "group_structure": "Single listed bank with a domestic Islamic banking window, Dhofar Islamic (formerly Maisarah Islamic Banking services; allocated capital OMR 70m; 31 Islamic branches at 30 Jun 2026) (S1 note 1, S2 note 1). No subsidiaries are disclosed in the statements opened. Asset management, corporate financial advisory and proprietary investment sit in the Investment Banking division (S2 p.48). The bank acquired the assets and liabilities of Bank of Baroda's Oman branch on 1 Apr 2025 (S2 note 1.2).",
+  "subsidiaries": [],
+  "footprint": "Oman only. 145 branches at 30 Jun 2026 (114 conventional and 31 Islamic), 353 ATMs, 188 CDM/CCDMs and 5 multi-function kiosks, with 12% market share in assets, loans and deposits (S1 note 1, S3 slides 6, 8).",
+  "customer_segments": "Retail mass, Ladies and Youth lifestyle propositions, Al Riadah Priority (affluent), Al Rifaa Privilege, Private Banking (HNW/UHNW, launched June 2024), Numo SME, corporate, government and GREs, Islamic (Dhofar Islamic), and NRI customers added with the Bank of Baroda Oman integration.",
+  "business_lines": "Segments in the June 2026 presentation: Retail Banking, Corporate Banking, Treasury/Investments/Financial Institutions, and Dhofar Islamic (revenue split 24/40/17/19 per the investor presentation). Retail includes Al Riadah, Al Rifaa, Private Banking and Retail Wealth Management (the last two set up in June 2024). Investment Banking has three departments: Asset Management, Corporate Financial Advisory and Proprietary Investment (S2 p.48, p.53).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 6079316,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Total assets, interim condensed statement of financial position (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "locator": "S1 PDF p.6 (printed p.4)",
+      "note": "Statement page is an image; read visually. Presentation: OMR 6.08bn."
+    },
+    {
+      "metric": "total_assets",
+      "value": 5390751,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Total assets, statement of financial position (audited, KPMG)",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S1"
+      ],
+      "locator": "S2 PDF p.73 (five-year table); S1 comparative column",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 4489119,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Deposits from customers (conventional) OMR 3,573,913k plus Islamic customers deposits OMR 915,206k. Excludes due to banks (OMR 519,373k), sukuk and subordinated loans.",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.6",
+      "note": "Sum computed by us. Board report: OMR 4.49bn."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 4116829,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Customer deposits: conventional OMR 3,249,572k plus Islamic OMR 867,257k; excludes due to banks",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S1"
+      ],
+      "locator": "S2 PDF p.70 and p.73",
+      "note": ""
+    },
+    {
+      "metric": "net_loans",
+      "value": 4584828,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Loans, advances and financing to customers (conventional) OMR 3,643,674k plus Islamic financing receivables OMR 941,154k, as presented (net of expected credit losses). Excludes loans and financing to banks (OMR 436,069k).",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.6",
+      "note": "Sum computed by us. Board report: OMR 4.58bn."
+    },
+    {
+      "metric": "net_loans",
+      "value": 4176548,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Net loans, advances and financing (conventional OMR 3,344,653k plus Islamic OMR 831,895k)",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S1"
+      ],
+      "locator": "S2 PDF p.73",
+      "note": ""
+    },
+    {
+      "metric": "gross_loans",
+      "value": 4.81,
+      "unit": "billion",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Gross loans in the 'Evolution of Gross loans' slide (conventional and Islamic); Islamic financing is 20% of the book",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slide 21",
+      "note": "Rounded presentation figure. Gross loans, advances and financing at 31 Dec 2025: OMR 4,387,255k (S2 PDF p.70)."
+    },
+    {
+      "metric": "total_equity",
+      "value": 781807,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Total equity including Perpetual Tier 1 capital securities (OMR 155,500k); equity attributable to equity holders OMR 626,307k",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.6",
+      "note": ""
+    },
+    {
+      "metric": "operating_income",
+      "value": 169784,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "'Operating income': net interest income OMR 95,050k, net income from Islamic financing and investment activities OMR 22,885k, net fees and commission income OMR 35,852k and other operating income OMR 15,997k",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.133 (printed p.135)",
+      "note": "Narrative gives OMR 169.78m (+11.08%)."
+    },
+    {
+      "metric": "operating_income",
+      "value": 94089,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "'Operating income', interim condensed statement of comprehensive income (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.7",
+      "note": "H1 2025: OMR 84,457k (+11.4%)."
+    },
+    {
+      "metric": "net_profit",
+      "value": 51051,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Profit for the period (year). There are no subsidiaries or non-controlling interests, so this is also profit attributable to shareholders. Profit before tax OMR 58,420k.",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.133",
+      "note": "FY2024: OMR 43,609k (+17.06%)."
+    },
+    {
+      "metric": "net_profit",
+      "value": 27263,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Bank (incl. Islamic window)",
+      "definition": "Profit for the period (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.7",
+      "note": "H1 2025: OMR 23,665k (+15.2%)."
+    },
+    {
+      "metric": "total_assets",
+      "value": 1142.3,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Dhofar Islamic window",
+      "definition": "Total assets of the Dhofar Islamic window as stated in the board report (included in the bank-level total above, not additive)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.4",
+      "note": "Board report figure. June 2025: OMR 999.23m."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 915.21,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Dhofar Islamic window",
+      "definition": "Total customer deposits of the Dhofar Islamic window (included in the bank-level figure above; statement shows Islamic customers deposits OMR 915,206k)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.4 and p.6",
+      "note": ""
+    },
+    {
+      "metric": "gross_loans",
+      "value": 981.06,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Dhofar Islamic window",
+      "definition": "Gross financing portfolio of the Dhofar Islamic window (+21.18% on June 2025)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.4; S3 slide 20",
+      "note": ""
+    },
+    {
+      "metric": "customers",
+      "value": 831,
+      "unit": "thousand",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (all segments)",
+      "definition": "'Total Customers: 831K' by CIF number: conventional retail 661K, conventional corporate/SME 55K, Dhofar Islamic 113K. The source does not say whether these are active or registered.",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slide 6",
+      "note": "Customer-number (CIF) count, not necessarily active customers."
+    },
+    {
+      "metric": "employees",
+      "value": 1780,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "Employees (note 1)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.12, note 1",
+      "note": "30 Jun 2025: 1,783."
+    },
+    {
+      "metric": "branches",
+      "value": 145,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Oman",
+      "definition": "Branches: 114 conventional and 31 Islamic",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.12; S3 slide 6",
+      "note": "The FY2025 annual report five-year table shows 146 full-service branches at 31 Dec 2025 (S2 PDF p.73)."
+    },
+    {
+      "metric": "fiduciary_funds_managed",
+      "value": 70.09,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank (Discretionary Portfolio Management only)",
+      "definition": "Aggregate funds managed off balance sheet under fiduciary activities 'as a part of the Discretionary Portfolio Management portfolio' (note 28). It is not labelled AUM and excludes the bank's mutual funds.",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.202, note 28",
+      "note": "31 Dec 2024: OMR 44.56m. Recorded under a custom key because the bank does not label it AUM."
+    },
+    {
+      "metric": "fiduciary_funds_managed",
+      "value": 9726,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Dhofar Islamic window",
+      "definition": "'Funds under management' held under Wakala agreements with customers (window note 38, fiduciary asset)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.380, note 38",
+      "note": "31 Dec 2024: OMR 2,400k."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 annual report (S2), H1 2026 statements (S1), Q2 2026 investor presentation (S3), asset management page (S9), wealth pages (S7, S8). Only the fiduciary figures (OMR 70.09m discretionary; OMR 9.7m Dhofar Islamic Wakala) are disclosed, recorded separately."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "S1, S2, S3, private banking and wealth pages (S7, S8, S11). No private banking or wealth balances found."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "S1, S2, S3, electronic channels page (S15). No investing client numbers."
+    },
+    {
+      "metric": "aua",
+      "status": "Not found after research",
+      "where_checked": "S2 (no custody figure), FSA register (S14) lists no Custodian activity. The private wealth page mentions 'independent custody' without naming the custodian (S8)."
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "status": "Not found after research",
+      "where_checked": "S2, S3, FSA register (S14): Bank Dhofar is not licensed for Brokerage."
+    }
+  ],
+  "people": [
+    {
+      "name": "Eng. Abdul Hafidh Salim Rajab Al Ojaili",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "BankDhofar SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not stated in sources opened. Chairs the Board Executive Committee.",
+      "previous_roles": "Promoter shareholder of Bank Dhofar, Dhofar International Development & Investment Holding Co. SAOG, Dhofar Power Company SAOC and Oman Aviation Services Co. SAOG (board page). The FSA register lists a past post as Minister of Agriculture, period shown as 1989 (S14).",
+      "education": "Master's degree in mechanical engineering (board page; institution not stated)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page lists him as Chairman (S6, checked 2026-10-12). He signed the H1 2026 statements as Chairman (S1 p.6). FSA register lists him as Chairman (S14). No change news found.",
+      "source_ids": [
+        "S6",
+        "S1",
+        "S2",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmed Said Mohammed Al Mahrezi",
+      "name_ar": null,
+      "title": "Deputy Chairman of the Board of Directors",
+      "functions": [
+        "Board"
+      ],
+      "entity": "BankDhofar SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Chairs the Board Nomination & Remuneration Committee and sits on the Risk and Audit Committees.",
+      "previous_roles": "Over 36 years of public-sector experience in law, finance, investment and administration (board page). FSA register shows Civil Service Pension Fund employment (S14).",
+      "education": "Master of International Business Law (board page)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page lists him as Deputy Chairman (S6, checked 2026-10-12). The FSA register lists him as a board member (S14).",
+      "source_ids": [
+        "S6",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Karumathil Gopakumar",
+      "name_ar": null,
+      "title": "Acting Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "BankDhofar SAOG",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2021-11",
+      "appointed_note": "Joined as Deputy CEO in November 2021 (S5, S2 p.39). The date he became Acting CEO is not stated in official sources opened; a third-party profile (not cited) gives 5 Sep 2024.",
+      "previous_roles": "Joined BankDhofar as Deputy CEO in Nov 2021. Over 31 years across wholesale and retail banking, treasury and FI, investment banking, asset management, private banking, financial control and operations; previously held leadership positions at banks in Oman.",
+      "education": "MBA, IMD Lausanne",
+      "qualifications": "Chartered Accountant, Cost Accountant and Company Secretary (India); member CIMA (London), ACI, Corporate Treasurers (London)",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Management page (S5, checked 2026-10-12) and MSX administration listing (S18) show him as Acting CEO. He signed the FY2025 and H1 2026 statements as Acting CEO (S2 p.132, S1 p.6). No news of a permanent CEO appointment found.",
+      "source_ids": [
+        "S5",
+        "S2",
+        "S1",
+        "S18",
+        "S13"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Amor Said Mohamed Al Amri",
+      "name_ar": null,
+      "title": "Chief Islamic Banking Officer",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "BankDhofar SAOG (Dhofar Islamic)",
+      "business_unit": "Dhofar Islamic",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Over two decades in Islamic and conventional banking; has led strategic and transformation initiatives (management page). No earlier posts stated.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management page (S5, checked 2026-10-12); FY2025 annual report lists him in the Dhofar Islamic management (S2 p.260, p.39).",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmed Said Salim Al Ibrahim",
+      "name_ar": null,
+      "title": "Chief Retail & Government Banking Officer",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "BankDhofar SAOG",
+      "business_unit": "Retail & Government Banking",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "Date of the move to the retail and government role not found.",
+      "previous_roles": "29 years in banking and finance (management page).",
+      "education": "MBA, University of Hull (UK); Bachelor's in Mass Communication, Sultan Qaboos University; Executive Leadership Program, London Business School",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Conflicting sources",
+      "role_evidence": "The live management page (checked 2026-10-12) shows this title, but his bio text says he 'currently serves as the Chief Corporate Services Officer'. The FY2025 annual report (Jan 2026) lists him as Chief Corporate Services Officer (S2 p.17). The titles of Al Ibrahim and Al Lawati appear to have been swapped in 2026; no announcement found.",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Amjad Iqbal Hassan Al Lawati",
+      "name_ar": null,
+      "title": "Chief Corporate Services Officer",
+      "functions": [
+        "Retail",
+        "Other"
+      ],
+      "entity": "BankDhofar SAOG",
+      "business_unit": "Corporate Services (previously Retail Banking)",
+      "scope": "Oman",
+      "appointed": "2022-08",
+      "appointed_note": "Joined as Chief Retail Banking Officer in August 2022.",
+      "previous_roles": "27 years in retail banking at GCC banks (management page).",
+      "education": "Bachelor's in Business Information Systems, Lincolnshire & Humberside University (UK)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Conflicting sources",
+      "role_evidence": "The live management page (checked 2026-10-12) shows this title, but his bio says he joined as Chief Retail Banking Officer in Aug 2022 and the FY2025 annual report lists him as Chief Retail Banking Officer (S2 p.17). Press releases quote him as Chief Retail Banking Officer (search results only). Possible 2026 swap with Al Ibrahim; no announcement found.",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mallikarjuna Korisepati",
+      "name_ar": null,
+      "title": "Chief Wholesale Banking Officer",
+      "functions": [
+        "Corporate / wholesale",
+        "Treasury",
+        "Investments / asset management"
+      ],
+      "entity": "BankDhofar SAOG",
+      "business_unit": "Wholesale Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not stated.",
+      "previous_roles": "27 years in treasury, capital markets, investments, corporate and SME banking, syndications and global financial institutions at global banks (management page).",
+      "education": "Advanced Management Program, Harvard Business School; MBA, SP Jain Institute (Mumbai); B.Tech, IIT Kharagpur",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management page (S5, checked 2026-10-12); FY2025 annual report management list (S2 p.17). The reporting line of Asset Management and Investment Banking to him is not stated.",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tariq Saleh Mohamed Taha",
+      "name_ar": null,
+      "title": "Chief Information Officer",
+      "functions": [
+        "Technology",
+        "Digital"
+      ],
+      "entity": "BankDhofar SAOG",
+      "business_unit": "Information Technology",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Over 23 years in banking, telecom and oil and gas; previously Chief Retail Banking Officer and Digital Banking & Information Officer at BankDhofar (management page).",
+      "education": "PhD in Management (Research), Abdul Malik Sa'adi University (Morocco); Master of Management in IT, University of Ballarat (Australia); HND Computer Science, College of Banking & Financial Studies (Oman)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management page (S5, checked 2026-10-12); FY2025 annual report (S2 p.17).",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Vikesh Mirani",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "BankDhofar SAOG",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2021-09",
+      "appointed_note": "Joined in September 2021.",
+      "previous_roles": "Previously CFO at Al Masraf (UAE) and MD & Group CFO at Techcom Bank (Vietnam); over 25 years at HSBC, Standard Chartered, ABN AMRO and Emirates NBD (management page).",
+      "education": "Bachelor of Commerce (Honours) in Accounting",
+      "qualifications": "ACA (ICAEW and ICAI)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Management page (S5, checked 2026-10-12); FY2025 annual report (S2 p.17).",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohsin Shaik Bin Sehu Mohamed",
+      "name_ar": null,
+      "title": "Head of Investment Banking & Capital Markets (Dhofar Islamic)",
+      "functions": [
+        "Investments / asset management",
+        "Islamic / Shariah"
+      ],
+      "entity": "BankDhofar SAOG (Dhofar Islamic)",
+      "business_unit": "Dhofar Islamic",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "Not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed in the Dhofar Islamic management list in the FY2025 annual report (S2 PDF p.260). Not on the live executive page (which lists only the 11 chief officers); no later check possible.",
+      "source_ids": [
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bilal Faiz Muhammad Al Raiisi",
+      "name_ar": null,
+      "title": "AGM & Head of Retail Banking (Dhofar Islamic)",
+      "functions": [
+        "Retail",
+        "Islamic / Shariah"
+      ],
+      "entity": "BankDhofar SAOG (Dhofar Islamic)",
+      "business_unit": "Dhofar Islamic",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "Not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed in the Dhofar Islamic management list in the FY2025 annual report (S2 PDF p.260). Not on the live executive page; no later check possible.",
+      "source_ids": [
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "BankDhofar built its wealth franchise recently: Private Banking and Retail Wealth Management were both launched in June 2024. The affluent tiers are Al Riadah Priority (salary of 3,000, savings balance of 30,000 or fixed deposit of 250,000 as published, currency not stated) and Al Rifaa Privilege. Private Banking asks for an investment portfolio of at least 400,000 and offers onshore and offshore planning, offshore booking centres in Switzerland, Singapore and the UAE, structured products, alternatives (private credit and equity, hedge funds, real estate, precious metals), a multi-broker and independent-custody model, and asset-backed lending through partners. Retail wealth starts from OMR 1,000 and covers mutual funds, bonds and sukuk and model portfolios built with BlackRock. BlackRock was announced as a partner on 13 Oct 2025, described as the first arrangement of its kind in Oman. In-house Asset Management runs a Money Market Fund, a Shariah-compliant GCC Equity Fund and discretionary Portfolio Management Services. Total AUM is not published; fiduciary discretionary funds were OMR 70.09m at 31 Dec 2025. The website describes no digital wealth platform, and the next-generation mobile app was in pilot in H1 2026.",
+    "segments": [
+      {
+        "name": "Retail Wealth Management",
+        "tier": "Retail wealth",
+        "eligibility": "Individual retail clients; 'minimum investment amount as low as OMR 1000' (product minimums vary).",
+        "source_ids": [
+          "S7",
+          "S2"
+        ]
+      },
+      {
+        "name": "Al Rifaa Privilege Banking",
+        "tier": "Mass affluent",
+        "eligibility": "Not published on the pages opened.",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "name": "Al Riadah Priority Banking",
+        "tier": "Affluent",
+        "eligibility": "Salary account plus one of: monthly salary of 3,000 or more; minimum monthly average savings balance of 30,000; or fixed deposit of 250,000. Currency not stated on the page. A fee of 21 per month applies if criteria are no longer met.",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "name": "Private Banking",
+        "tier": "HNW",
+        "eligibility": "Clients must be able to establish an investment portfolio of at least 400,000 (or local currency equivalent); currency not stated. Targets HNW and UHNW individuals, family businesses, corporates and government entities.",
+        "source_ids": [
+          "S8",
+          "S11",
+          "S2"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Private Banking officially launched June 2024 for HNW and UHNW clients, with dedicated relationship managers, investment advisors and product specialists. Services: wealth and business succession planning, trust, foundation and family office structuring, onshore and offshore investing, offshore booking centres in Switzerland, Singapore and the UAE, consolidated global custody, asset-backed lending through partners, metal cards. No head of private banking is named in the sources opened.",
+      "source_ids": [
+        "S2",
+        "S8",
+        "S11",
+        "S13"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "BankDhofar Asset Management sits in the Investment Banking division (with Corporate Financial Advisory and Proprietary Investment); not a separate legal entity. Funds: Bank Dhofar Money Market Fund (minimum 1,000, daily liquidity, prospectus Nov 2025), Bank Dhofar GCC Equity Fund (Shariah compliant), plus Portfolio Management Services in fixed income, equity and real estate. FSA register activities: Investment Manager, Portfolio Management, Fund Administration, Issue Management, Investment Advice & Research, Marketing non-Omani Securities. AUM not disclosed. Clients: institutions, UHNW and retail.",
+      "source_ids": [
+        "S9",
+        "S14",
+        "S2"
+      ]
+    },
+    "brokerage": {
+      "present": "Unclear",
+      "detail": "The FSA register lists no Brokerage activity for Bank Dhofar (S14). The private wealth page describes a 'multi-broker approach and independent custody for equities and bonds' without naming brokers or a custodian (S8). No MSX brokerage arm is mentioned in the annual report.",
+      "source_ids": [
+        "S14",
+        "S8"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "The website describes no digital wealth platform or in-app investing (S7, S15). Digital onboarding runs through the Intilaqa app. The H1 2026 board report says the bank entered the pilot phase of a next-generation mobile banking application with 'expanded service capabilities'; no investment features are described (S1).",
+      "source_ids": [
+        "S7",
+        "S15",
+        "S1",
+        "S17"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Relationship managers assess risk tolerance and goals and recommend products; ongoing advice, market insights and portfolio reviews are offered (S7, S8). The bank holds an FSA 'Investment Advice & Research' activity (S14).",
+      "source_ids": [
+        "S7",
+        "S8",
+        "S14"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Portfolio Management Services with customised strategies by goals, risk tolerance and horizon, across fixed income, equity and real estate; no minimum stated (S9). Fiduciary note: OMR 70.09m of funds managed under Discretionary Portfolio Management at 31 Dec 2025 (S2). FSA Portfolio Management activity (S14).",
+      "source_ids": [
+        "S9",
+        "S2",
+        "S14"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Yes",
+      "detail": "Model Portfolios 'built with BlackRock' are listed in the retail wealth offer in the FY2025 annual report, and the chairman's message says the BlackRock partnership gave customers 'first-of-its-kind model portfolios' (S2 p.9, p.53). The 13 Oct 2025 announcement describes a globally diversified portfolio across asset classes and customised strategies but does not mention model portfolios by name (S13). No robo-advice found.",
+      "source_ids": [
+        "S2",
+        "S13"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Private wealth page: access to 'over 150,000 funds', including Shariah-compliant mutual funds and ETFs. Retail wealth offers mutual funds, bonds and sukuk. The platform or fund distribution provider is not named.",
+      "source_ids": [
+        "S8",
+        "S7"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Private wealth page lists structured products with capital protection and enhanced yields. Issuers not named.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Alternatives listed on the private wealth page: hedge funds, private credit and equity, real estate and precious metals, with asset-backed lending through external partners. Managers not named.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Bank Dhofar GCC Equity Fund (Shariah compliant) with minimum 1,000 (S9); Shariah-compliant mutual funds, ETFs and sukuk through private wealth (S8); Dhofar Islamic advertises 'Integrated Islamic Wealth Solutions' (S3). Dhofar Islamic Wakala funds under management were OMR 9.7m at 31 Dec 2025 (S2). Dhofar Islamic has 113K customers and its own Shariah Supervisory Board of five scholars (S3, S2 p.310).",
+      "source_ids": [
+        "S9",
+        "S8",
+        "S3",
+        "S2",
+        "S12"
+      ]
+    },
+    "asset_classes": [
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Sukuk",
+      "Structured products",
+      "Private markets / alternatives",
+      "Gold / precious metals"
+    ],
+    "partners": [
+      {
+        "partner": "BlackRock",
+        "kind": "Product partner (investment strategies, model portfolios)",
+        "what": "Global investment strategies, diversified portfolios and advisory for HNW, affluent and corporate clients; model portfolios built with BlackRock per the annual report. Described as the first such arrangement in Oman.",
+        "date": "2025-10-13",
+        "status": "Live",
+        "source_ids": [
+          "S13",
+          "S2"
+        ]
+      },
+      {
+        "partner": "Infosys Finacle",
+        "kind": "Core banking and digital banking technology",
+        "what": "Three-phase modernisation completed in 2021: Finacle 11 core banking, treasury and payments, Finacle Online Banking (retail and corporate), Finacle Digital Engagement Hub, and over 1,100 RESTful APIs; no wealth module named. The bank's 2026 materials describe a further consolidation of conventional and Islamic cores.",
+        "date": "2021-09-01",
+        "status": "Live",
+        "source_ids": [
+          "S20",
+          "S3"
+        ]
+      },
+      {
+        "partner": "Mastercard",
+        "kind": "Cards partner",
+        "what": "Strategic partnership to re-card the debit and credit portfolio to Mastercard (World Elite, World Legend)",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S2",
+          "S1"
+        ]
+      },
+      {
+        "partner": "MetLife",
+        "kind": "Bancassurance alliance (per investor presentation)",
+        "what": "Listed with BlackRock and Mastercard among strategic alliances; scope not described",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Bank of Baroda",
+        "kind": "Correspondent banking and cross-sell relationship",
+        "what": "Strategic relationship after the Oman branch transfer, for correspondent banking and cross-selling across both banks' customers",
+        "date": "2025-04-01",
+        "status": "Live",
+        "source_ids": [
+          "S2"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2023-05",
+        "what": "Board resolved to make a takeover offer for 100% of Ahli Bank (up to 25% cash, balance in new BankDhofar shares; exchange ratio 1.2910), replacing an April 2023 merger proposal that Ahli's board rejected. Competing OMINVEST-led offer. No completion found.",
+        "source_ids": [
+          "S16",
+          "S19"
+        ]
+      },
+      {
+        "date": "2024-06",
+        "what": "Private Banking officially launched and Retail Wealth Management established (mutual funds, bonds/sukuk, model portfolios built with BlackRock)",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025-04-01",
+        "what": "Completed acquisition of the assets and liabilities of Bank of Baroda's Oman branch (business transfer agreement dated 27 Jan 2025), adding NRI customers",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "what": "Announced partnership with BlackRock to offer global investment strategies and wealth solutions to HNW, affluent and corporate clients",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Strategic partnership with Mastercard; re-carding of Visa cards to Mastercard; domestic Maal debit card launched",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "H1 2026: pilot phase of a next-generation mobile banking application, merchant portal for acquiring customers, POS Financing and SME service desks",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2026-06-30",
+        "what": "H1 2026 results: net profit OMR 27.26m (+15.2%); fees and other income +34.5%; Dhofar Islamic financing +21.2%",
+        "source_ids": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Retail Wealth Management only started in June 2024 and lists funds, bonds/sukuk and BlackRock-built model portfolios from OMR 1,000, yet the website describes no digital wealth platform or in-app investing (S2 p.53, S7, S15).",
+        "The H1 2026 board report says a next-generation mobile app entered pilot, and the Q2 2026 presentation describes a unified Digital Hub and a consolidated conventional and Islamic core, which creates a build window for embedded wealth (S1, S3 slide 15).",
+        "Dhofar Islamic (113K customers, financing +21%, deposits +14%) advertises Integrated Islamic Wealth Solutions, while only one named Shariah fund (GCC Equity) appears on the asset management page (S3, S9).",
+        "Private Banking lists private credit, private equity, hedge funds and real estate via partners, with no managers named, so the alternatives shelf appears to be arranged externally (S8).",
+        "The bank has shown willingness to take a named global partner for wealth products (BlackRock, Oct 2025) and treats partnerships as a transformation pillar (S13, S3 slide 15)."
+      ],
+      "barriers": [
+        "BlackRock is already the named model-portfolio partner (S2 p.53, S13), so a model-portfolio or managed-solution pitch competes with an incumbent.",
+        "In-house Asset Management holds six FSA activities and runs its own money market, Shariah equity and discretionary offers (S9, S14).",
+        "No FSA brokerage or custody licence; the bank relies on unnamed brokers and custodians ('multi-broker approach and independent custody'), so any execution capability would be sourced externally (S14, S8).",
+        "The CEO seat is held on an acting basis, the Dhofar Islamic report says the bank is changing its core banking system, and the 2021 Finacle estate exposes 1,100+ APIs, so integration choices are tied to a platform change in progress (S5, S2 p.250, S20)."
+      ],
+      "incumbent_vendors": [
+        "BlackRock: model portfolios and global investment strategies (S13, S2)",
+        "Infosys Finacle: core, treasury, payments, online banking and Digital Engagement Hub with 1,100+ APIs, completed 2021; no wealth module named (S20)",
+        "Unnamed multi-broker and independent custodian for equities and bonds (S8)",
+        "Mastercard: cards (S2)",
+        "MetLife: strategic alliance listed in the investor presentation, scope unclear (S3)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "BankDhofar SAOG: Unaudited interim condensed financial statements for the six-month period ended 30 June 2026",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/sjobz0ce/bd-fs-q2-2026-eng.pdf",
+      "doc_type": "Interim financial statements (IR site copy)",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "PDF pages 5-6 (acknowledgement and statement of financial position) are images and were read visually. Printed page numbers are two lower than PDF page numbers."
+    },
+    {
+      "id": "S2",
+      "title": "BankDhofar Annual Report 2025 (incl. audited financial statements, governance, Dhofar Islamic report)",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/wdhpzdib/annual-report-eng-26-v5.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read with tools/pdftext.py; page numbers are PDF pages (printed numbers are two higher). Financial statements authorised 25 Jan 2026."
+    },
+    {
+      "id": "S3",
+      "title": "Investor Presentation as at 30 June 2026",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/xxvjzekb/ir-presentation-q2-2026-final.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S4",
+      "title": "Investor Relations: Financial Reports",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/about-us/investor-relations/financial-reports/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists FY2025 year-end, Q1 2026 and Q2 2026 statements and presentations. No Q3 2026 documents on 12 Oct 2026."
+    },
+    {
+      "id": "S5",
+      "title": "Management Team",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/about-us/overview/management-team/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "11 executives. Bio text for Al Ibrahim and Al Lawati is out of step with their titles."
+    },
+    {
+      "id": "S6",
+      "title": "Board of Directors",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/about-us/overview/board-of-directors/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Nine non-executive directors."
+    },
+    {
+      "id": "S7",
+      "title": "Wealth Management (retail)",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/wealth-management/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S8",
+      "title": "Private Wealth Management",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/private-wealth-management/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S9",
+      "title": "Asset Management",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/asset-management/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S10",
+      "title": "Al Riadah Priority Banking",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/priority/accounts/al-riadah/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S11",
+      "title": "Private Banking account page",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/priority/accounts/private-banking/",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S12",
+      "title": "Dhofar Islamic (Islamic banking window of BankDhofar)",
+      "publisher": "Dhofar Islamic",
+      "url": "https://www.dhofarislamic.com/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Wealth Management section listed but with no detail."
+    },
+    {
+      "id": "S13",
+      "title": "BankDhofar partners with BlackRock to transform wealth management in Oman",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/news/bankdhofar-partners-with-blackrock-to-transform-wealth-management-in-oman/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2025-10-13",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Times of Oman, Oman Observer and Zawya republished it (seen in search results only, not cited)."
+    },
+    {
+      "id": "S14",
+      "title": "Licensed & Accredited: Bank Dhofar SAOG (Companies working in the field of securities)",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/DisplayCompanyDetails?companyType=6&companyId=37&selectedCompanyType=6",
+      "doc_type": "Regulator register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "FSA registration 05/08/2015, licence expiry 31/12/2027, status Active. Shareholder figures in the register are undated and older than the annual report. Staff list: no data. Opened with curl (WebFetch fails on the site certificate)."
+    },
+    {
+      "id": "S15",
+      "title": "Electronic Channels",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/electronic-channels/",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S16",
+      "title": "Ominvest, Bank Dhofar spice up rival offers for Ahli Bank",
+      "publisher": "Oman Observer",
+      "url": "https://www.omanobserver.om/article/1137684/business/economy/ominvest-bank-dhofar-spice-up-rival-offers-for-ahli-bank",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-05-24",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S17",
+      "title": "BankDhofar News",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/news/",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Latest items 22 Sep to 12 Oct 2026; none about wealth, asset management, private banking or leadership changes."
+    },
+    {
+      "id": "S20",
+      "title": "BankDhofar achieves digital transformation success with Infosys Finacle",
+      "publisher": "Gulf News (press release)",
+      "url": "https://gulfnews.com/business/banking/bankdhofar-achieves-digital-transformation-success-with-infosys-finacle-1.1630501307686",
+      "doc_type": "News / press release",
+      "tier": 5,
+      "published": "2021-09-01",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S19",
+      "title": "Oman's Ahli Bank board rejects merger offer from Bank Dhofar",
+      "publisher": "BNN Bloomberg (Bloomberg)",
+      "url": "https://www.bnnbloomberg.ca/oman-s-ahli-bank-board-rejects-merger-offer-from-bank-dhofar-1.1906630",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-04-12",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (page not opened)."
+    },
+    {
+      "id": "S18",
+      "title": "MSX snapshot: Bank Dhofar (BKDB)",
+      "publisher": "Muscat Stock Exchange",
+      "url": "https://www.msx.om/snapshot.aspx?s=BKDB&se=4",
+      "doc_type": "Exchange company page",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Administration section lists the Acting CEO and Acting Chief Internal Auditor. The news section was empty when opened."
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Titles of Ahmed Al Ibrahim and Amjad Al Lawati",
+      "detail": "The FY2025 annual report (Jan 2026) lists Ahmed Al Ibrahim as Chief Corporate Services Officer and Amjad Al Lawati as Chief Retail Banking Officer. The live management page (12 Oct 2026) shows Al Ibrahim as Chief Retail & Government Banking Officer and Al Lawati as Chief Corporate Services Officer, but each bio still describes the other role.",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "resolution": "Used the live page titles, flagged both as Conflicting sources. No announcement found. Retail (which includes wealth and private banking) therefore appears to have a new head in 2026."
+    },
+    {
+      "field": "Branch count",
+      "detail": "The FY2025 annual report five-year table shows 146 full-service branches at 31 Dec 2025, while the H1 2026 statements and presentation show 145 branches (114 conventional and 31 Islamic).",
+      "source_ids": [
+        "S2",
+        "S1",
+        "S3"
+      ],
+      "resolution": "Recorded 145 at 30 Jun 2026 from the interim statements."
+    },
+    {
+      "field": "Model portfolios",
+      "detail": "The annual report says retail wealth offers Model Portfolios built with BlackRock, but the 13 Oct 2025 BlackRock announcement does not mention model portfolios.",
+      "source_ids": [
+        "S2",
+        "S13"
+      ],
+      "resolution": "Both recorded. Model portfolios marked Yes on the strength of the annual report; product details not published."
+    }
+  ],
+  "open_items": [
+    "Lead check: 'Maisarah Islamic window' is the former name. The FY2025 annual report says the window is 'Dhofar Islamic (formerly Maisarah Islamic Banking services)' (S2 note 1). The rebrand date was not found; the annual report's Basel text still says 'Maisarah entity' in one place.",
+    "Lead check: relationship with Ubhar Capital is not supported. No Bank Dhofar shareholding in Ubhar Capital or joint deal was found in the annual report, the FSA register or search results, consistent with om-ubhar.json (owners are Jabreen Capital/OMINVEST and Arab Bank (Switzerland)). The only link is indirect: OMINVEST (Ubhar's controlling group) led a rival 2023 bid for Ahli Bank against Bank Dhofar (S16).",
+    "Merger check 2024-2026: no merger involving Bank Dhofar was found other than the completed acquisition of Bank of Baroda's Oman branch (1 Apr 2025). In 2023 Bank Dhofar proposed to merge with Ahli Bank (rejected by Ahli's board, April 2023; S19) and then made a takeover offer in May 2023 against a competing OMINVEST-led offer (S16); neither is recorded as completed and Ahli Bank still files its own results (see om-ahlibank). The July 2026 Bank Nizwa proposal to buy Alizz Islamic Bank from Oman Arab Bank does not involve Bank Dhofar.",
+    "The date Gopakumar became Acting CEO and the reason are not in official sources opened. A third-party profile (Simply Wall St, not cited) gives 5 Sep 2024. Check MSX disclosures for the announcement and any permanent CEO appointment.",
+    "No named head of Private Banking, Retail Wealth Management or Asset Management was found. The live page lists only 11 chief officers; the annual report names Dhofar Islamic heads (two included as Requires verification).",
+    "BlackRock partnership: which BlackRock products, platform and technology are used, and the start date for clients, are not published. The announcement states no minimum or eligibility.",
+    "Al Rifaa Privilege eligibility, and the currency of the Al Riadah and Private Banking thresholds, are not stated on the pages opened (OMR is likely but not confirmed).",
+    "Q3 2026 results were not published on the IR page on 12 Oct 2026. Re-check late October.",
+    "LinkedIn search for the Acting CEO returned no matching profile; other people were not checked.",
+    "Ticker BKDB is taken from the IR page's link to the MSX snapshot; the MSX page itself showed no news items."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B31",
+  "checked": "2026-10-12"
+}

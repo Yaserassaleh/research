@@ -1,0 +1,1570 @@
+{
+ "id": "bh-gib",
+ "name": "Gulf International Bank",
+ "short_name": "GIB",
+ "legal_name": "Gulf International Bank B.S.C.",
+ "name_ar": "بنك الخليج الدولي",
+ "country": "BH",
+ "hq_city": "Manama",
+ "website": "https://www.gib.com",
+ "linkedin_company": "https://www.linkedin.com/company/gulfintlbank/",
+ "category": "Bank",
+ "type": "Wholesale bank",
+ "model": "Conventional with Islamic window/subsidiary",
+ "founded": "1975 (incorporated by Amiri Decree Law No. 30 dated 24 Nov 1975)",
+ "regulators": [
+  "CBB (local conventional wholesale bank and conventional retail bank branch)",
+  "SAMA (Gulf International Bank - Saudi Arabia)",
+  "CMA (GIB Capital, licence 07078-37)",
+  "UK PRA (Gulf International Bank (UK) Ltd)"
+ ],
+ "listed": false,
+ "exchange": null,
+ "ticker": null,
+ "parent_id": null,
+ "ownership_summary": "Unlisted. Owned by GCC governments; Saudi Arabia's Public Investment Fund (PIF) holds 97.226% and is the ultimate parent (S3, S4). PIF also directly owns 50% of the Saudi subsidiary, Gulf International Bank - Saudi Arabia (S5 note 44).",
+ "shareholders": [
+  {
+   "holder": "Public Investment Fund (Kingdom of Saudi Arabia)",
+   "pct": 97.226,
+   "as_of": "2026-06",
+   "source_ids": [
+    "S3",
+    "S7"
+   ]
+  },
+  {
+   "holder": "Kuwait Investment Authority",
+   "pct": 0.73,
+   "as_of": "2026-06",
+   "source_ids": [
+    "S3",
+    "S7"
+   ]
+  },
+  {
+   "holder": "Qatar Holding LLC (shown as Qatar Investment Authority in S7)",
+   "pct": 0.73,
+   "as_of": "2026-06",
+   "source_ids": [
+    "S3",
+    "S7"
+   ]
+  },
+  {
+   "holder": "Bahrain Mumtalakat Holding Company",
+   "pct": 0.438,
+   "as_of": "2026-06",
+   "source_ids": [
+    "S3",
+    "S7"
+   ]
+  },
+  {
+   "holder": "Oman Investment Authority",
+   "pct": 0.438,
+   "as_of": "2026-06",
+   "source_ids": [
+    "S3",
+    "S7"
+   ]
+  },
+  {
+   "holder": "Ministry of Finance, United Arab Emirates",
+   "pct": 0.438,
+   "as_of": "2026-06",
+   "source_ids": [
+    "S3",
+    "S7"
+   ]
+  }
+ ],
+ "government_link": "Yes - 97.226% held by PIF (Saudi sovereign wealth fund); remaining shares held by KIA, Qatar Holding, Mumtalakat, OIA and UAE Ministry of Finance (S3, checked 2026-10-12).",
+ "group_structure": "Gulf International Bank B.S.C. (Bahrain) is the parent. Material subsidiaries (S5 note 43): Gulf International Bank - Saudi Arabia C.J.S.C. (50% GIB, 50% PIF; converted from GIB's Saudi branch on 3 Apr 2019; fully consolidated with PIF's half shown as non-controlling interest; runs wholesale banking and the meem digital retail bank in KSA); Gulf International Bank (UK) Limited (100%, asset management and treasury, trades as GIB Asset Management); GIB Markets Limited (Cayman, 100%, treasury-related). GIB Capital C.J.S.C. (Riyadh, CMA-licensed investment bank, asset manager and broker; single-shareholder company) is described in AR 2025 as GIB Saudi Arabia's subsidiary (S6 p.4). The June 2026 presentation also shows GIB KSA Markets Limited and Dar Enjaz Gulf Real Estate Company (S7 p.4). None of these subsidiaries has its own file; their details are recorded here. Group figures are in USD.",
+ "subsidiaries": [
+  {
+   "name": "Gulf International Bank - Saudi Arabia C.J.S.C. (GIB Saudi Arabia; incl. meem retail)",
+   "pct": 50.0,
+   "activity": "Wholesale commercial and retail banking (KSA); other 50% owned by PIF",
+   "linked_id": null,
+   "source_ids": [
+    "S5",
+    "S7"
+   ]
+  },
+  {
+   "name": "GIB Capital C.J.S.C.",
+   "pct": 100.0,
+   "activity": "Investment banking, asset management, brokerage, custody (KSA; CMA licence 07078-37)",
+   "linked_id": null,
+   "source_ids": [
+    "S6",
+    "S7",
+    "S13"
+   ]
+  },
+  {
+   "name": "Gulf International Bank (UK) Limited (GIB Asset Management)",
+   "pct": 100.0,
+   "activity": "Asset management and treasury services (London, New York)",
+   "linked_id": null,
+   "source_ids": [
+    "S5",
+    "S25"
+   ]
+  },
+  {
+   "name": "GIB Markets Limited",
+   "pct": 100.0,
+   "activity": "Treasury-related (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "name": "GIB KSA Markets Limited",
+   "pct": 100.0,
+   "activity": "Not described (shown in group structure chart)",
+   "linked_id": null,
+   "source_ids": [
+    "S7"
+   ]
+  },
+  {
+   "name": "Dar Enjaz Gulf Real Estate Company",
+   "pct": 100.0,
+   "activity": "Real estate (shown in group structure chart)",
+   "linked_id": null,
+   "source_ids": [
+    "S7"
+   ]
+  }
+ ],
+ "footprint": "Bahrain (HQ, Manama; meem retail branch), Saudi Arabia (GIB Saudi Arabia HQ Al Khobar; branches Riyadh and Jeddah; GIB Capital Riyadh), UAE (Abu Dhabi branch, Dubai representative office), Oman (Muscat branch), UK (London), USA (New York branch) (S6 p.4, S7 p.4, S8). FS note 1: subsidiaries, branches and representative offices in seven countries; 1,306 staff at 30 Jun 2026 (S4). H1 2026 gross income: KSA 57%, other GCC 33%, international 10% (S7 p.4).",
+ "customer_segments": "Corporates, financial institutions, governments and sovereign-linked entities (core); retail in KSA through meem targeting upper-mass and emerging-affluent customers (segments meem Smart, Prime, Elite); institutional and qualified private clients for wealth advisory; institutional and international investors for GIB UK asset management (S7, S9, S21-S23, S25).",
+ "business_lines": "Wholesale banking (corporate, project and structured finance, syndications, global transaction banking), Treasury and global markets, Investment banking (GIB Capital), Asset management (GIB Capital in KSA; GIB (UK) Ltd), Wealth management (Stanhope partnership; GIB Capital wealth management) and digital retail banking (meem, KSA and Bahrain) (S7 p.4). Revenue mix H1 2026: wholesale banking 45%, treasury 25%, retail 4%, investment banking 5%, financial markets 4%, special assets 16%, HQ 1% (S7 p.17). Self-described as a 'pan-GCC universal bank' (S6); type set to Wholesale bank because wholesale and treasury dominate revenue.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 45906.4,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "Total assets, condensed interim consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.4 (statement p.1)",
+   "note": "Down from USD 51,821.4m at 31 Dec 2025; year-end figure was inflated by transitory UK cash-management client deposits (S8)."
+  },
+  {
+   "metric": "total_assets",
+   "value": 51821.4,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "Total assets, consolidated statement of financial position (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "locator": "S5 PDF p.8",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 28627.5,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "'Deposits from customers'; excludes deposits from banks (USD 1,315.8m) and securities sold under repurchase agreements (USD 4,177.7m)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.4",
+   "note": "Per S7 p.24, GIB UK accounts for 53% of customer deposits at Jun 2026."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 36094.7,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "'Deposits from customers' (audited); excludes deposits from banks (USD 1,901.7m)",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "S5 PDF p.8",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 15780.1,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "'Loans and advances' carrying amount on the statement of financial position (note 9; net of ECL allowances)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.4",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 16552.4,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "'Loans and advances' (audited, note 11)",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "S5 PDF p.8",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 4264.6,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "Total equity incl. non-controlling interest (USD 1,586.3m, of which AT1 USD 500.0m); equity attributable to shareholders of the Bank USD 2,678.3m",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.4",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 758.4,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "'Total operating income' (net interest income + net fees + trading + FX + other income), consolidated statement of income (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "locator": "S5 PDF p.9",
+   "note": "FY2024: USD 716.2m."
+  },
+  {
+   "metric": "net_profit",
+   "value": 169.1,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "Net income attributable to shareholders of the Bank (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "locator": "S5 PDF p.9",
+   "note": "Total net income incl. non-controlling interest: USD 215.7m. FY2024 attributable: USD 134.8m."
+  },
+  {
+   "metric": "operating_income",
+   "value": 366.2,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "'Total operating income', six months ended 30 Jun 2026 (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.5",
+   "note": "H1 2025: USD 373.3m."
+  },
+  {
+   "metric": "net_profit",
+   "value": 50.7,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "Net income attributable to shareholders of the Bank, six months ended 30 Jun 2026 (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.5",
+   "note": "Total net income USD 62.1m; H1 2025 attributable USD 92.2m. Decline attributed to provisions and geopolitical disruption incl. closure of the Strait of Hormuz (S7 p.14)."
+  },
+  {
+   "metric": "aum",
+   "value": 16.5,
+   "unit": "billion",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "2025 (year-end)",
+   "period_type": "point_in_time",
+   "scope": "Subsidiary: GIB Capital (KSA)",
+   "definition": "Assets under management of GIB Capital, as stated in the Group CEO's statement (+61% year on year)",
+   "status": "Verified",
+   "source_ids": [
+    "S6"
+   ],
+   "locator": "S6 PDF p.12",
+   "note": "GIB Capital's website still shows '+SAR12 Billion' AUM (stale; S20). Group-level AUM is not disclosed."
+  },
+  {
+   "metric": "fiduciary_assets",
+   "value": 10211.5,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "Funds held in trust or in a fiduciary capacity (note 18), off balance sheet - not labelled AUM",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.26",
+   "note": "31 Dec 2025: USD 7,174.4m (S5 note 39). Fee income from fiduciary activities FY2025: USD 26.0m (S5)."
+  },
+  {
+   "metric": "employees",
+   "value": 1306,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (GIB B.S.C. and subsidiaries, incl. 50%-owned GIB Saudi Arabia fully consolidated)",
+   "definition": "Total number of staff (note 1)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.9",
+   "note": "31 Dec 2025: 1,354."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "Group AUM and GIB (UK) Ltd/GIB Asset Management AUM not found in H1 2026 statements (S4), FY2025 statements (S5), AR 2025 (S6), June 2026 investor presentation (S7) or gibam.com (S25, S29). Only GIB Capital AUM (SAR 16.5bn, 2025) and group fiduciary assets are disclosed."
+  },
+  {
+   "metric": "customers",
+   "status": "Not publicly disclosed",
+   "where_checked": "meem customer numbers not found in AR 2025 (S6), June 2026 presentation (S7), meem site (S23) or About meem page (S24). GIB UK reported a 20% rise in client numbers without a figure (S6 p.12)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "GIB Capital site (S13, S19, S20) and AR 2025 (S6)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 (S6), June 2026 presentation (S7), Stanhope release (S9)."
+  },
+  {
+   "metric": "branches",
+   "status": "Not found after research",
+   "where_checked": "AR 2025 (S6) and presentation (S7) list cities, not a branch count."
+  }
+ ],
+ "people": [
+  {
+   "name": "Abdulaziz bin Abdulrahman Al-Arifi",
+   "name_ar": null,
+   "title": "Chairman of the Board",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Gulf International Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2026-03-31",
+   "appointed_note": "Appointed Chairman on 31 Mar 2026, succeeding H.E. Fahad Alsaif whose resignation was accepted the same day (AR 2025 board page, S6 p.5). Signed the H1 2026 statements as Chairman (S4).",
+   "previous_roles": "Current: Governor, National Development Fund (KSA); Vice Chairman, Matarat Holding. Previously CEO, Private Sector Partnership Reinforcement Program (Shareek); Advisor to the General Secretariat of the Council of Ministers; Assistant Minister, Ministry of Transport and Logistic Services; CFO, Jadwa Investment; Head of Treasury, National Shipping Company of Saudi Arabia; Head of Finance and Investment, Capital Market Authority (S2).",
+   "education": "MBA, Stanford Graduate School of Business; BBA, Babson College",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S2); AR 2025 (S6); signatory of H1 2026 statements approved 6 Aug 2026 (S4).",
+   "source_ids": [
+    "S2",
+    "S4",
+    "S6"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dr. Najem bin Abdullah Al Zaid",
+   "name_ar": null,
+   "title": "Vice-Chairman",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Gulf International Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2021-11",
+   "appointed_note": "Vice-Chairman since the board term starting 10 Nov 2021 (confirmed 28 Nov 2021, S31); still Vice-Chairman on the current Board page (S2) and AR 2025 (S6).",
+   "previous_roles": "Current: Vice Minister of Justice (KSA); Chairman, Saudi Electricity Company; Board and Board Risk Committee member, Gulf International Bank - Saudi Arabia; PIF Audit Committee member. Previously founding partner, ZS&R (in association with Hogan Lovells); Chief Governance and Legal Officer, Al Rajhi Bank Group; Commissioner and Board Member, Saudi Capital Market Authority; Counsel, Islamic Development Bank Group (S2).",
+   "education": "Doctor of Juridical Science, George Washington University Law School; LLM, University of Minnesota Law School; High Diploma in Law, Institute of Public Administration; BA Islamic Jurisprudence & Law, Umm AlQura University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S2); signed FY2025 statements as Vice Chairman (S5).",
+   "source_ids": [
+    "S2",
+    "S5",
+    "S31"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulaziz A. Al-Helaissi",
+   "name_ar": null,
+   "title": "Group Chief Executive Officer & Board Member",
+   "functions": [
+    "Group CEO",
+    "Board"
+   ],
+   "entity": "Gulf International Bank B.S.C.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2016-02",
+   "appointed_note": "Joined GIB in February 2016 (S2). Also Chairman of Gulf International Bank (UK) Limited, Vice Chairman of Gulf International Bank - Saudi Arabia and board member of GIB Capital (S2).",
+   "previous_roles": "2013-2016 Deputy Governor for Supervision, Saudi Central Bank (SAMA); earlier Senior Country Officer and Managing Director Saudi Arabia, and Head of Global Corporate Banking MENA, JP Morgan Chase; General Manager Central Province, Saudi British Bank; past boards incl. Tadawul and King Fahd Causeway Authority. Member of the IIF Global Board and co-chair of its Emerging Markets Advisory Council (S2).",
+   "education": "BA Economics, University of Texas at Austin",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management and Board pages checked 2026-10-12 (S1, S2); signed H1 2026 statements as Group CEO (S4); no departure news found (search 12 Oct 2026).",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sara Abdulhadi",
+   "name_ar": null,
+   "title": "Chief Executive Officer, GIB B.S.C.",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Gulf International Bank B.S.C.",
+   "business_unit": "GIB B.S.C. (Bahrain-level bank incl. Abu Dhabi, Oman, London, New York branches)",
+   "scope": "Entity: GIB B.S.C.",
+   "appointed": "2024-03-03",
+   "appointed_note": "Appointed CEO of GIB in Bahrain effective 3 Mar 2024 (S11); joined GIB Nov 2019 as Group Chief Investment and Treasury Officer (S11, S28). Quoted as CEO of GIB B.S.C. in the Stanhope wealth partnership release (S9).",
+   "previous_roles": "2019-2024 Group Chief Investment and Treasury Officer, GIB; previously Saudi British Bank: Deputy Treasurer; Head of Balance Sheet Management and Investment; Senior Investment Dealer; Strategic Planning Manager (S28). 21+ years in global markets (S1).",
+   "education": "MSc Investment Management, Bayes (Cass) Business School, City University London; BSc Accounting, King Saud University; Advanced Management Program, Harvard Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page checked 2026-10-12 (S1); AR 2025 CEO statement (S6 p.13); no departure news found.",
+   "source_ids": [
+    "S1",
+    "S6",
+    "S11",
+    "S28"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Khaled Abbas",
+   "name_ar": null,
+   "title": "Chief Executive Officer, GIB Saudi Arabia",
+   "functions": [
+    "Subsidiary CEO"
+   ],
+   "entity": "Gulf International Bank - Saudi Arabia C.J.S.C.",
+   "business_unit": "GIB Saudi Arabia (incl. meem retail)",
+   "scope": "Subsidiary: GIB Saudi Arabia",
+   "appointed": "2024-03-03",
+   "appointed_note": "Effective 3 Mar 2024 (S11).",
+   "previous_roles": "Joined GIB Oct 2018 as UAE Country Head (Dubai rep office, Abu Dhabi branch); 2019-2024 Group Wholesale Banking Head (S11). 28 years' regional banking in KSA, Bahrain and UAE (S12).",
+   "education": "BSc Business Studies, Lebanese American University; YMP, INSEAD; Leadership Development Programme, Darden (University of Virginia); AMP, Harvard Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "GIB Saudi Arabia Management page checked 2026-10-12 (S12); AR 2025 (S6 p.6).",
+   "source_ids": [
+    "S6",
+    "S11",
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Katherine Garrett-Cox CBE",
+   "name_ar": null,
+   "title": "Chief Executive Officer, GIB (UK) Ltd (GIB Asset Management)",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management"
+   ],
+   "entity": "Gulf International Bank (UK) Limited",
+   "business_unit": "GIB (UK) Ltd / GIB Asset Management",
+   "scope": "Subsidiary: GIB (UK) Ltd",
+   "appointed": "2017-10-02",
+   "appointed_note": "Appointed Managing Director and CEO of GIB UK effective 2 Oct 2017, subject to PRA approval (S26).",
+   "previous_roles": "Previously CIO and CEO, Alliance Trust PLC; CIO and Executive Director, Morley Fund Management (now Aviva Investors); CIO, Aberdeen Asset Management PLC; Supervisory Board member, Deutsche Bank AG (as of 2017) (S26).",
+   "education": null,
+   "qualifications": "CBE (2014)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed as CEO, GIB (UK) Ltd in AR 2025 (S6 p.6) and as CEO on gibam.com 'People spotlight' checked 2026-10-12 (S29).",
+   "source_ids": [
+    "S6",
+    "S26",
+    "S29"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Osamah Mohammed Shaker",
+   "name_ar": null,
+   "title": "Chief Executive Officer and Board Member, GIB Capital",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management",
+    "Brokerage"
+   ],
+   "entity": "GIB Capital C.J.S.C.",
+   "business_unit": "GIB Capital",
+   "scope": "Subsidiary: GIB Capital",
+   "appointed": "2016-06",
+   "appointed_note": "Joined GIB Capital as CEO and Board Member in June 2016 (S15).",
+   "previous_roles": "Previously Director General of Banking Control, SAMA; Senior Advisor to the Deputy Governor for Supervision, SAMA; 16+ years at Saudi British Bank / HSBC Saudi Arabia incl. Managing Director - Head of Investments and MD - Head of Financial Markets; faculty member, Institute of Public Administration (S15).",
+   "education": "Bachelor of Administrative Sciences (Quantitative Methods), King Saud University; MSc Statistics, Colorado State University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "GIB Capital Senior Management page checked 2026-10-12 (S14, S15); AR 2025 (S6 p.6); quoted in Stanhope release (S9).",
+   "source_ids": [
+    "S6",
+    "S9",
+    "S14",
+    "S15"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hussain AlQahtani",
+   "name_ar": null,
+   "title": "Head of Brokerage and Wealth Management, GIB Capital",
+   "functions": [
+    "Wealth",
+    "Brokerage"
+   ],
+   "entity": "GIB Capital C.J.S.C.",
+   "business_unit": "Brokerage and Wealth Management",
+   "scope": "Subsidiary: GIB Capital",
+   "appointed": "2024",
+   "appointed_note": "Joined GIB Capital in 2024 as Head of Brokerage and subsequently appointed Head of Wealth Management; exact dates not given (S17).",
+   "previous_roles": "Previously Head of Sales, Al Rajhi Capital (investment products, portfolios, Murabaha, DPM, funds, HNW relationships); 2004-2019 HSBC Saudi Arabia / SAB Invest incl. Senior Area Manager - Central Province, Wealth Product Distribution (S17).",
+   "education": "High School Diploma",
+   "qualifications": "CME-1 and CME-3 certificates",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "GIB Capital Senior Management page and bio checked 2026-10-12 (S14, S17).",
+   "source_ids": [
+    "S14",
+    "S17"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulhadi M Shahadah",
+   "name_ar": null,
+   "title": "Head of Asset Management, GIB Capital",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "GIB Capital C.J.S.C.",
+   "business_unit": "Asset Management",
+   "scope": "Subsidiary: GIB Capital",
+   "appointed": "2016-11",
+   "appointed_note": "Joined GIB Capital as Head of Asset Management in November 2016 (S16).",
+   "previous_roles": "Previously Managing Director - Head of Asset Management, HSBC Saudi Arabia; Chief Investment Officer, Head of Discretionary Portfolio Management, HSBC Saudi Arabia; international brokerage at Saudi British Bank and Banque Saudi Fransi; 28 years' investment experience (S16).",
+   "education": "BSc Finance, King Saud University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "GIB Capital Senior Management page and bio checked 2026-10-12 (S14, S16).",
+   "source_ids": [
+    "S14",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sami AlRowaithey",
+   "name_ar": null,
+   "title": "Chief Retail Banking Officer (GIB Saudi Arabia / meem)",
+   "functions": [
+    "Retail",
+    "Digital"
+   ],
+   "entity": "Gulf International Bank - Saudi Arabia C.J.S.C.",
+   "business_unit": "Retail Banking (meem)",
+   "scope": "Subsidiary: GIB Saudi Arabia",
+   "appointed": "Not found",
+   "appointed_note": "Appointment date not found; listed on the current GIB Saudi Arabia management page (S12).",
+   "previous_roles": "Previously Chief Digital Officer at Alinma Bank and at Samba Financial Group; executive roles at The Saudi National Bank and Alawwal Bank; board memberships at Saudi Financial Technology and Adaptive TechSoft (S12).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "GIB Saudi Arabia Management page checked 2026-10-12 (S12); a news search (12 Oct 2026) found no appointment or departure news.",
+   "source_ids": [
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Meshari Al-Mogbel",
+   "name_ar": null,
+   "title": "Group Chief Treasury and Investment Officer",
+   "functions": [
+    "Treasury"
+   ],
+   "entity": "Gulf International Bank B.S.C.",
+   "business_unit": "Group Treasury and Investment",
+   "scope": "Group",
+   "appointed": "Not found",
+   "appointed_note": "Appointment date not found; role previously held by Sara Abdulhadi until Mar 2024 (S11).",
+   "previous_roles": "More than two decades in global markets and investments (S1); 20 years of banking experience in treasury and investment (S12).",
+   "education": "BSc Applied Medical Sciences, King Saud University; Senior Executive Program, London Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management pages checked 2026-10-12 (S1, S12).",
+   "source_ids": [
+    "S1",
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sulaiman Balghonaim",
+   "name_ar": null,
+   "title": "Group Chief Wholesale Banking Officer",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Gulf International Bank B.S.C.",
+   "business_unit": "Group Wholesale Banking",
+   "scope": "Group",
+   "appointed": "Not found",
+   "appointed_note": "Appointment date not found; Khaled Abbas held the Group Wholesale Banking Head role until Mar 2024 (S11).",
+   "previous_roles": "Around 18 years in corporate banking, financial institutions and global transaction banking (S1).",
+   "education": "BSc Finance and Economics, King Fahd University of Petroleum and Minerals",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management pages checked 2026-10-12 (S1, S12).",
+   "source_ids": [
+    "S1",
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mushari AlOtaibi",
+   "name_ar": null,
+   "title": "Group Chief Operating Officer",
+   "functions": [
+    "Operations"
+   ],
+   "entity": "Gulf International Bank B.S.C.",
+   "business_unit": "Group Operations",
+   "scope": "Group",
+   "appointed": "Not found",
+   "appointed_note": "",
+   "previous_roles": "Over 33 years in back office operations, human resources, retail banking and wealth management (S1).",
+   "education": "High Performers Leadership Programme, INSEAD; Finance for Non-Finance Executives, London Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management pages checked 2026-10-12 (S1, S12).",
+   "source_ids": [
+    "S1",
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Marwan Abiad",
+   "name_ar": null,
+   "title": "Group Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Gulf International Bank B.S.C.",
+   "business_unit": "Group Finance",
+   "scope": "Group",
+   "appointed": "Not found",
+   "appointed_note": "",
+   "previous_roles": "42 years across banking, finance, insurance, risk management and operations (S1).",
+   "education": "BBA and MBA, American University of Beirut",
+   "qualifications": "CPA; CFA; FRM",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sukhwinder Nijjar",
+   "name_ar": null,
+   "title": "Group Chief Transformation Officer",
+   "functions": [
+    "Strategy",
+    "Technology"
+   ],
+   "entity": "Gulf International Bank B.S.C.",
+   "business_unit": "Group Transformation",
+   "scope": "Group",
+   "appointed": "Not found",
+   "appointed_note": "",
+   "previous_roles": "Over 26 years of international banking in business development, strategic planning and operational risk across the UK, Asia and the Middle East (S1).",
+   "education": "BSc Economics and Accounting, City University London",
+   "qualifications": "FCCA (Fellow, Association of Chartered Certified Accountants)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Al-Thbiti",
+   "name_ar": null,
+   "title": "Chief Information Officer, GIB Saudi Arabia",
+   "functions": [
+    "Technology"
+   ],
+   "entity": "Gulf International Bank - Saudi Arabia C.J.S.C.",
+   "business_unit": "Information Technology",
+   "scope": "Subsidiary: GIB Saudi Arabia",
+   "appointed": "Not found",
+   "appointed_note": "",
+   "previous_roles": "More than 17 years of experience (S12).",
+   "education": "BSc Computer Engineering, King Saud University; EMBA, IE Business School; INSEAD digital leadership program; LBS banker leadership program",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "GIB Saudi Arabia Management page checked 2026-10-12 (S12).",
+   "source_ids": [
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "GIB is mainly a wholesale and treasury bank (retail was 4% of H1 2026 revenue) and is now building wealth. Its June 2026 presentation lists Wealth Management and Digital Retail Banking (meem) among six core lines. Strategy aims include 'Scaling the private banking proposition by leveraging the Group's international footprint' and KSA retail 'focused on lucrative upper-mass and emerging-affluent segments' (S7). In April 2025 GIB signed a partnership with London-based Stanhope Capital Group to offer advisory, OCIO and discretionary wealth services to institutional and qualified private clients in the GCC, with alternatives and Sharia-compliant products (S9). In KSA, GIB Capital (CMA-licensed) runs asset management with AUM of SAR 16.5bn in 2025, up 61%. It also runs Saudi-market brokerage with margin lending and an e-trade app, and a brokerage and wealth management unit led by Hussain AlQahtani (S6, S14, S17, S19). GIB (UK) Ltd (GIB Asset Management) manages GCC equity and fixed-income strategies and indexation for international investors (S25). The meem app offers accounts, cards, financing and Murabaha deposits; no in-app investing was found (S23, S24).",
+  "segments": [
+   {
+    "name": "meem Elite",
+    "tier": "Affluent",
+    "eligibility": "Active meem OnePack account; 'Up to SAR 25,000 salary' (as printed); average balance SAR 200,000+ over last 3 months, or deposit SAR 1,000,000 or a SAR 250,000 Murabaha deposit; dedicated Relationship Manager (page updated 23 Aug 2026)",
+    "source_ids": [
+     "S21"
+    ]
+   },
+   {
+    "name": "meem Prime",
+    "tier": "Emerging affluent",
+    "eligibility": "Active meem OnePack account; 'Up to SAR 10,000 salary' (as printed); average balance SAR 50,000+ over last 3 months, or deposit SAR 100,000 or a SAR 50,000 Murabaha deposit",
+    "source_ids": [
+     "S22"
+    ]
+   },
+   {
+    "name": "meem Smart",
+    "tier": "Mass retail",
+    "eligibility": "Listed as a meem segment; criteria page not opened",
+    "source_ids": [
+     "S23"
+    ]
+   },
+   {
+    "name": "Wealth advisory with Stanhope Capital",
+    "tier": "Private / HNW and institutional",
+    "eligibility": "Institutional and qualified private clients in the GCC; no threshold published by GIB",
+    "source_ids": [
+     "S9"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Private banking is named as a business line, and strategy aims to scale it using GIB's international footprint ('Bespoke banking and lifestyle solutions with diversified global investment access') (S7 pp.7, 9). The client-facing service found is the Stanhope Capital partnership (advisory, OCIO, discretionary) for qualified private clients (S9). No private-banking product page, threshold or named head was found.",
+   "source_ids": [
+    "S7",
+    "S9"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "GIB Capital (Riyadh): public equity portfolios (passive, active, multi-factor), fixed income and money market (sukuk, bonds, structured products), local Shariah-compliant, GCC and MENA public funds, and alternatives (real estate, VC, PE, credit). AUM SAR 16.5bn in 2025 (+61%). The GIB Opportunistic MENA Equity Fund won two Lipper awards (S6 p.12, S18). GIB (UK) Ltd / GIB Asset Management (London, New York): GCC strategies and equity and fixed-income indexation for international investors, 100+ employees, AUM not disclosed (S25). The 2026 plan is to 'Broaden product mix' and 'Scale UK distribution for GIB Capital funds' (S7 p.10).",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S18",
+    "S25"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "GIB Capital brokerage serves institutional and retail investors on the Saudi market (Tadawul), with margin lending against portfolio collateral and online trading via etrade.gibcapital.com. AR 2025 reports stronger brokerage performance on margin lending use and digital account-opening and fund-transaction improvements (S6 p.12, S19).",
+   "source_ids": [
+    "S6",
+    "S19",
+    "S20"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Limited to GIB Capital's 'GIBC Tadawul' mobile app and e-trade portal for Saudi equities and funds (S20, S19). meem's KSA app offers OnePack, multi-currency accounts, cards, financing and Murabaha deposits; no in-app securities or fund investing was found (S23, S24).",
+   "source_ids": [
+    "S19",
+    "S20",
+    "S23",
+    "S24"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Stanhope partnership: advisory, outsourced CIO and discretionary wealth advisory for institutional and qualified private clients; platform covers equities, fixed income, hedge funds, PE and real estate, with Sharia-compliant expertise (S9). GIB Capital's CMA licence covers advising (S13).",
+   "source_ids": [
+    "S9",
+    "S13"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "GIB Capital's licensed activities include managing clients' portfolios, and it offers tailored equity portfolios (S13, S18). Stanhope partnership includes discretionary wealth advisory (S9).",
+   "source_ids": [
+    "S9",
+    "S13",
+    "S18"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No robo-advice or model-portfolio product found on meem, GIB Capital or GIB sites (S18-S24).",
+   "source_ids": [
+    "S18",
+    "S23"
+   ]
+  },
+  "funds_platform": {
+   "present": "Unclear",
+   "detail": "GIB Capital distributes its own public funds (S18). No third-party funds shelf on meem or GIB Capital was found. Stanhope's platform gives clients access to global managers (S9).",
+   "source_ids": [
+    "S9",
+    "S18"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "GIB Capital fixed-income strategies may invest in structured products (S18). Treasury offers hedging and structured treasury products to corporates (S6). No retail structured-note shelf found.",
+   "source_ids": [
+    "S6",
+    "S18"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "GIB Capital alternatives cover real estate, venture capital, private equity and credit (S18). Stanhope platform: 'access to top-quartile buyout and venture capital managers' as a core part of the offer (S9).",
+   "source_ids": [
+    "S9",
+    "S18"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "GIB Capital offers local Shariah-compliant funds and sukuk strategies and has a Shariah Supervisory Committee (S18, S13). meem is a Shariah-compliant digital retail bank (Murabaha deposits) (S6, S24). Stanhope offering includes 'strong expertise in Sharia-compliant products' (S9).",
+   "source_ids": [
+    "S6",
+    "S9",
+    "S13",
+    "S18",
+    "S24"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "Mutual funds",
+   "Bonds",
+   "Sukuk",
+   "Structured products",
+   "Private markets / alternatives",
+   "Real estate funds"
+  ],
+  "partners": [
+   {
+    "partner": "Stanhope Capital Group",
+    "kind": "Wealth advisory / OCIO / discretionary partner",
+    "what": "Agreement to offer advisory, OCIO and discretionary wealth advisory to institutional and qualified private clients in the GCC, incl. alternatives",
+    "date": "2025-04-29",
+    "status": "Announced",
+    "source_ids": [
+     "S9",
+     "S10",
+     "S6"
+    ]
+   },
+   {
+    "partner": "Tarabut",
+    "kind": "Open banking platform (strategic investment)",
+    "what": "GIB made a strategic investment in Tarabut, described as MENA's first and largest regulated open banking platform",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "partner": "Qarar",
+    "kind": "Credit decisioning / analytics (cloud)",
+    "what": "Automated credit decisioning and analytics through Qarar cloud-based services",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S6"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2014-07",
+    "what": "meem retail banking soft-launched in Saudi Arabia; began operations in Bahrain in March 2018",
+    "source_ids": [
+     "S24"
+    ]
+   },
+   {
+    "date": "2024-03-03",
+    "what": "Khaled Abbas appointed CEO GIB Saudi Arabia and Sara Abdulhadi CEO GIB B.S.C., taking both roles from the Group CEO",
+    "source_ids": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2025-04-29",
+    "what": "Strategic partnership with Stanhope Capital Group for GCC wealth advisory (advisory, OCIO, discretionary); asset and wealth management described as 'a key pillar of our growth'",
+    "source_ids": [
+     "S9",
+     "S10"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "GIB Capital AUM reached SAR 16.5bn (+61%); 'GiBi' internal AI large-language-model proof of concept; strategic investment in Tarabut",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2026-03-31",
+    "what": "H.E. Abdulaziz Al-Arifi appointed Chairman, succeeding H.E. Fahad Alsaif",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2026-06",
+    "what": "June 2026 investor presentation sets a five-year 'acceleration' strategy (Phase 1 H2 2026). It includes scaling private banking, KSA retail aimed at upper-mass and emerging-affluent customers, and retail partnerships 'via embedded-Finance, Non-bank Financial Institutions and Fintech'.",
+    "source_ids": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2026-07-14",
+    "what": "GIB B.S.C. established a US$3bn Certificate of Deposit Programme",
+    "source_ids": [
+     "S27",
+     "S7"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "The June 2026 strategy targets 'Scaling the private banking proposition by leveraging the Group's international footprint', and 'Wealth Management' is listed as a core business line (S7 pp.4, 9).",
+    "KSA retail (meem) targets 'upper-mass and emerging-affluent segments' and plans 'Partnerships via embedded-Finance, Non-bank Financial Institutions and Fintech' (S7 pp.9-10). The meem app shows no in-app investing; it offers accounts, cards, financing and Murabaha deposits only (S23, S24).",
+    "The meem Elite tier (SAR 200k+ average balance, dedicated RM) exists, but no investment product is attached to it (S21).",
+    "Asset management aims to 'Broaden product mix' and 'Scale UK distribution for GIB Capital funds' (S7 p.10). GIB Capital AUM grew 61% to SAR 16.5bn in 2025 (S6)."
+   ],
+   "barriers": [
+    "Wealth advisory, OCIO and discretionary services for qualified private and institutional clients are already partnered with Stanhope Capital (since Apr 2025) (S9).",
+    "In-house asset management and brokerage sit at GIB Capital (KSA) and GIB (UK) Ltd (S18, S19, S25).",
+    "Retail is small: 4% of H1 2026 revenue (S7 p.17). H1 2026 net income fell 45% because of provisions and Gulf geopolitical disruption, and Phase 1 of the strategy is described as a 'disrupted start' (S7 pp.12, 14).",
+    "meem is Shariah-compliant, so investment products would need Shariah screening (S24)."
+   ],
+   "incumbent_vendors": [
+    "Stanhope Capital Group - wealth advisory/OCIO partner (S9)",
+    "Tarabut - open banking (strategic investment) (S6)",
+    "Qarar - cloud credit decisioning (S6)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Management",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/management",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/board-directors",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "GIB Shareholders",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/shareholders",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "Gulf International Bank B.S.C. - Condensed Interim Consolidated Financial Statements for the six months ended 30 June 2026 (reviewed by KPMG Fakhro)",
+   "publisher": "Gulf International Bank B.S.C.",
+   "url": "https://www.gib.com/sites/default/files/gib_fs_-_q2_30.06.2026_-_signed_0.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-08-06",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Gulf International Bank B.S.C. - Consolidated Financial Statements 31 December 2025 (audited, KPMG Fakhro)",
+   "publisher": "Gulf International Bank B.S.C.",
+   "url": "https://www.gib.com/sites/default/files/gib_fs_ye_31.12.2025_-_signed.pdf",
+   "doc_type": "Audited financial statements",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "GIB B.S.C. Annual Report 2025",
+   "publisher": "Gulf International Bank B.S.C.",
+   "url": "https://www.gib.com/sites/default/files/gib_bsc_ar2025-english_5mb.pdf",
+   "doc_type": "Annual report",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Gulf International Bank B.S.C. Investor Presentation June 2026",
+   "publisher": "Gulf International Bank B.S.C.",
+   "url": "https://www.gib.com/sites/default/files/gib_investor_presentation_q2_2026_-_final_v2__0.pdf",
+   "doc_type": "Investor presentation",
+   "tier": 2,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "GIB celebrates 50 years of progress with 25% increase in net income attributable to shareholders of the Bank (FY2025 results)",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/gib-celebrates-50-years-progress-25-increase-net-income-attributable-shareholders-bank",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-02-26",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "GIB Group and Stanhope Capital Group announce strategic partnership to offer wealth advisory services in the GCC region",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/gib-group-and-stanhope-capital-group-announce-strategic-partnership-offer-wealth-advisory-services",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2025-04-29",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Stanhope Capital expands in Saudi Arabia via strategic GIB partnership",
+   "publisher": "Mubasher",
+   "url": "https://www.sharikatmubasher.com/news/article/21482145/stanhope-capital-expands-in-saudi-arabia-via-strategic-gib-partnership?lang=en",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-04-29",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (used for the announcement date)"
+  },
+  {
+   "id": "S11",
+   "title": "Gulf International Bank announces new senior leadership appointments in Saudi Arabia and Bahrain",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/gulf-international-bank-announces-new-senior-leadership-appointments-saudi-arabia-and-bahrain",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2024",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "GIB Saudi Arabia - Management",
+   "publisher": "Gulf International Bank - Saudi Arabia",
+   "url": "https://www.gib.com/ksa/en/ksa-management",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "About GIB Capital",
+   "publisher": "GIB Capital",
+   "url": "https://www.gibcapital.com/about-us/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "GIB Capital - Senior Management",
+   "publisher": "GIB Capital",
+   "url": "https://www.gibcapital.com/about-us/executive-management/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "Osamah Mohammed Shaker - biography",
+   "publisher": "GIB Capital",
+   "url": "https://www.gibcapital.com/executive-management/osamah-mohammed-shaker/",
+   "doc_type": "Official biography",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "Abdulhadi M Shahadah - biography",
+   "publisher": "GIB Capital",
+   "url": "https://www.gibcapital.com/executive-management/abdulhadi-m-shahadah/",
+   "doc_type": "Official biography",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Hussain AlQahtani - biography",
+   "publisher": "GIB Capital",
+   "url": "https://www.gibcapital.com/executive-management/hussain-alqahtani/",
+   "doc_type": "Official biography",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "GIB Capital - Asset Management",
+   "publisher": "GIB Capital",
+   "url": "https://www.gibcapital.com/asset-managment/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "GIB Capital - Brokerage",
+   "publisher": "GIB Capital",
+   "url": "https://www.gibcapital.com/brokerage/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "GIB Capital homepage",
+   "publisher": "GIB Capital",
+   "url": "https://www.gibcapital.com/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S21",
+   "title": "meem Elite",
+   "publisher": "meem (Gulf International Bank - Saudi Arabia)",
+   "url": "https://meem.com.sa/meem-elite/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": "2026-08-23",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S22",
+   "title": "meem Prime",
+   "publisher": "meem (Gulf International Bank - Saudi Arabia)",
+   "url": "https://meem.com.sa/meem-prime/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": "2026-08-23",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S23",
+   "title": "meem Digital Banking - Kingdom of Saudi Arabia (homepage; sa.meem.com redirects here)",
+   "publisher": "meem (Gulf International Bank - Saudi Arabia)",
+   "url": "https://meem.com.sa/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S24",
+   "title": "About meem",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/about-meem",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S25",
+   "title": "Who we are - GIB Asset Management",
+   "publisher": "Gulf International Bank (UK) Ltd",
+   "url": "https://gibam.com/who-are-we",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S26",
+   "title": "GIB appoints Katherine Garrett-Cox as Managing Director and Chief Executive Officer of its UK subsidiary",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/gib-appoints-katherine-garrett-cox-managing-director-and-chief-executive-officer-its-uk-subsidiary",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2017",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S27",
+   "title": "Press Releases (2026 list)",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/press-releases",
+   "doc_type": "Official press release list",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S28",
+   "title": "Gulf International Bank appoints Sara Abdulhadi as Group Chief Investment and Treasury Officer",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/gulf-international-bank-appoints-sara-abdulhadi-group-chief-investment-and-treasury-officer",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2019-12-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S29",
+   "title": "GIB Asset Management homepage",
+   "publisher": "Gulf International Bank (UK) Ltd",
+   "url": "https://gibam.com/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S30",
+   "title": "Gulf International Bank homepage",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S31",
+   "title": "Gulf International Bank announces new Chairman and Directors (2021 board)",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/gulf-international-bank-announces-new-chairman-and-directors",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2021-11",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S32",
+   "title": "Financial Statements (IR list)",
+   "publisher": "Gulf International Bank",
+   "url": "https://www.gib.com/en/financial-statements",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  }
+ ],
+ "original_reconciliation": [
+  {
+   "field": "Institution",
+   "original_value": "Gulf International Bank",
+   "finding": "Confirmed",
+   "new_value": "Gulf International Bank (legal name Gulf International Bank B.S.C.)",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Management: Abdulaziz A. Al-Helaissi - Group Chief Executive Officer and Board Member (Role status: Verified current; LinkedIn Not verified)",
+   "original_value": "Group Chief Executive Officer and Board Member; Function CEO; scope Group / bank",
+   "finding": "Confirmed",
+   "new_value": "Group Chief Executive Officer & Board Member since Feb 2016; also Chairman GIB (UK) Ltd, Vice Chairman GIB Saudi Arabia. LinkedIn still not verified.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Management: Meshari Al-Mogbel - Group Chief Treasury and Investment Officer",
+   "original_value": "Group Chief Treasury and Investment Officer; Function Investment; scope Group / bank",
+   "finding": "Confirmed",
+   "new_value": "Group Chief Treasury and Investment Officer (current on S1 and S12). This is a treasury and balance-sheet investment role, not asset management, so the function is recorded as Treasury.",
+   "source_ids": [
+    "S1",
+    "S12"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Management: Sara Abdulhadi - Chief Executive Officer, GIB B.S.C.",
+   "original_value": "Chief Executive Officer, GIB B.S.C.; Function CEO; scope Group / bank",
+   "finding": "Corrected",
+   "new_value": "Title confirmed; effective 3 Mar 2024. Scope corrected to the GIB B.S.C. (Bahrain-level bank) entity rather than Group: the Group CEO is Al-Helaissi.",
+   "source_ids": [
+    "S1",
+    "S11"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Management: Sulaiman Balghonaim - Group Chief Wholesale Banking Officer",
+   "original_value": "Group Chief Wholesale Banking Officer; Function Corporate; scope Group / bank",
+   "finding": "Confirmed",
+   "new_value": "Group Chief Wholesale Banking Officer (S1, S12)",
+   "source_ids": [
+    "S1",
+    "S12"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Size metric: Total assets (GIB::Total assets)",
+   "original_value": "USD 45.9064 billion as of 2026-06-30, consolidated group",
+   "finding": "Confirmed",
+   "new_value": "USD 45,906.4 million at 30 Jun 2026 (reviewed interim statement, PDF p.4)",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Size metric: Customer deposits (GIB::Customer deposits)",
+   "original_value": "USD 28.6275 billion as of 2026-06-30, consolidated group",
+   "finding": "Confirmed",
+   "new_value": "USD 28,627.5 million 'Deposits from customers' at 30 Jun 2026 (PDF p.4); excludes deposits from banks",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "banks_row",
+   "original_value": "null (no bank-level row in original workbook)",
+   "finding": "Updated",
+   "new_value": "Full profile added: ownership, FY2025 income, subsidiaries, wealth capabilities, 16 people",
+   "source_ids": [
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "materiality": "Material"
+  }
+ ],
+ "discrepancies": [
+  {
+   "field": "GIB Capital ownership chain",
+   "detail": "AR 2025 calls GIB Capital the 'Riyadh-based subsidiary' of GIB Saudi Arabia (S6 p.4). The June 2026 group chart shows GIB Capital at 100% without a clear parent line (S7 p.4). FS note 43 does not list GIB Capital among material subsidiaries, though FS note 13 calls it a Saudi Arabian subsidiary (S5).",
+   "source_ids": [
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "resolution": "Recorded as a 100% single-shareholder company within the group; the direct parent (GIB B.S.C. or GIB Saudi Arabia) and so GIB's effective economic interest (100% or 50%) are unresolved."
+  },
+  {
+   "field": "GIB Capital AUM",
+   "detail": "AR 2025 gives AUM of SAR 16.5bn in 2025 (S6 p.12); the GIB Capital homepage still shows '+SAR12 Billion' (S20).",
+   "source_ids": [
+    "S6",
+    "S20"
+   ],
+   "resolution": "Used the AR 2025 figure; the website figure appears stale."
+  },
+  {
+   "field": "Qatar shareholder name",
+   "detail": "Shareholders page lists 'Qatar Holding LLC' (S3); the June 2026 presentation chart labels it 'Qatar Investment Authority' (S7).",
+   "source_ids": [
+    "S3",
+    "S7"
+   ],
+   "resolution": "Used Qatar Holding LLC (a QIA entity) from the official shareholders page."
+  }
+ ],
+ "open_items": [
+  "Q3 2026 (30 Sep 2026) statements not yet on the GIB Financial Statements page at 12 Oct 2026 (latest: Q2 2026) (S32); add when published.",
+  "Group AUM and GIB (UK) Ltd AUM not disclosed; only GIB Capital AUM (SAR 16.5bn, 2025) and fiduciary assets (USD 10.2bn) are available.",
+  "Stanhope partnership: no evidence found of a launched product, client numbers or booking entity after the April 2025 announcement, so status is kept as Announced.",
+  "No named head of private banking or wealth at group or GIB Saudi Arabia level was found; Hussain AlQahtani (GIB Capital) is the only named wealth head.",
+  "LinkedIn profiles not verified: searches for Al-Helaissi, Sami AlRowaithey, Osamah Shaker and Hussain AlQahtani returned no matching profiles. The other people were not checked to save search budget.",
+  "Appointment dates not found for Meshari Al-Mogbel, Sulaiman Balghonaim, Sami AlRowaithey and other Group officers.",
+  "meem Bahrain's current product set was not checked separately; the gib.com footer still describes a CBB-licensed conventional retail bank branch.",
+  "meem Elite and Prime eligibility pages say 'Up to SAR 25,000 / 10,000 salary', which may be a wording error for a minimum salary; recorded as printed."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B29a",
+ "checked": "2026-10-12"
+}

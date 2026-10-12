@@ -1,0 +1,715 @@
+{
+  "id": "qa-qinvest",
+  "name": "QInvest",
+  "short_name": "QInvest",
+  "legal_name": "QInvest LLC",
+  "name_ar": null,
+  "country": "QA",
+  "hq_city": "Doha",
+  "website": "https://www.qinvest.com",
+  "linkedin_company": "https://www.linkedin.com/company/qinvest-llc",
+  "category": "Non-bank",
+  "type": "Investment bank / alternatives manager",
+  "model": "Islamic",
+  "founded": "2007 (incorporated April 2007 and licensed by the Qatar Financial Centre Authority, per QIC's Oct 2022 release and the LinkedIn company page)",
+  "regulators": [
+    "QFCRA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Unlisted QFC company. Qatar Islamic Bank (QIB) holds 49% and accounts for it as an associate: QIB's board approved a plan on 31 Dec 2024 to dispose of part of its stake, the sale completed in 2025, QIB lost control and its holding fell from 65.62% (31 Dec 2024) to 49% (31 Dec 2025). The buyer(s) of the 16.62% and the identity of the other 51% shareholders were not found. Older company descriptions (QIC release, Oct 2022) say shareholders include QIB, other institutional investors and high-net-worth individuals. parent_id is left null because QIB does not control QInvest and equity-accounts it.",
+  "shareholders": [
+    {
+      "holder": "Qatar Islamic Bank (Q.P.S.C.)",
+      "pct": 49.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4"
+      ]
+    }
+  ],
+  "government_link": "No direct government shareholder disclosed (checked 2026-10-12). Indirect only: the 49% holder, QIB, is partly owned by Qatar Investment Authority (see qa-qib.json). The QIB Group page and the 2021 appointment release name the chairman as Sheikh Jassim bin Hamad bin Jassim bin Jaber Al Thani, who is also QIB's chairman per the QIB Annual Report 2025 (S4).",
+  "group_structure": "Not consolidated by QIB since 2025 (equity-accounted associate), so QInvest assets, revenue and AUM must not be added to qa-qib. qa-qib records QInvest only as an associate; QInvest's metrics, people and capabilities are in this file. Three divisions per its own descriptions: Investment Banking, Asset Management, Principal Investments (real estate, credit, equity). Joint venture: Epicure Islamic Investment Management LLC (QFCRA-regulated Islamic asset manager), 51% QIC via Epicure Holdings LLC and 49% QInvest, established Oct 2022. QIB CEO Bassel Gamal and QIB Chairman sit on the QInvest board (QIB Annual Report 2025).",
+  "subsidiaries": [
+    {
+      "name": "Epicure Islamic Investment Management LLC (joint venture)",
+      "pct": 49.0,
+      "activity": "Shari'a-compliant asset management (QFCRA-authorised); 51% owned by QIC through Epicure Holdings LLC",
+      "linked_id": null,
+      "source_ids": [
+        "S9",
+        "S10"
+      ]
+    }
+  ],
+  "footprint": "Headquartered in Doha (West Bay, Tornado Tower, per the LinkedIn company page). The LinkedIn page also mentions an office in Istanbul and affiliates in India and the UK (undated). QIC's Oct 2022 release says activities span the Middle East, Europe, Turkey, the UK and the USA.",
+  "customer_segments": "Institutional and corporate clients (investment banking, sukuk and debt capital markets arranging, M&A advisory) and investors in its funds and principal investments. No retail or mass-affluent offer found; no published HNW or wealth-client segment (checked 2026-10-12).",
+  "business_lines": "Investment Banking (advisory, M&A, equity and debt capital markets, sukuk); Asset Management; Principal Investments (real estate, credit and equity). It acted as joint lead manager and bookrunner on QIB's USD sukuk (mandate 3 Jun 2025) and, per Forbes Middle East, on QIB's USD 750m sukuk and Dukhan Bank's USD 800m five-year sukuk in 2024.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 5996149,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "QInvest LLC (100% basis, as disclosed in QIB's associates note)",
+      "definition": "Total assets of QInvest LLC as shown in note 12 (Investment in associates) of QIB's audited FY2025 consolidated financial statements",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "locator": "FY2025 statements PDF p.73 (note 12); Annual Report 2025 p.123",
+      "note": "QIB's disclosure of its associate, not QInvest's own statements (not found online). Total liabilities KAR 4,377,324 thousand (QAR 4,377,324 thousand), implying equity of about QAR 1,618.8m (derived). Not consolidated in QIB's own total assets. 30 Jun 2026 figure not disclosed (QIB's interim statements give no associate detail)."
+    },
+    {
+      "metric": "operating_income",
+      "value": 62812,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "QInvest LLC (100% basis, as disclosed in QIB's associates note)",
+      "definition": "'Total revenue' of QInvest LLC as shown in QIB's FY2025 note 12",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "locator": "FY2025 statements PDF p.73 (note 12); Annual Report 2025 p.123",
+      "note": "Associate-note label 'Total revenue'; no breakdown by division. Recorded as operating_income for consistency; definition is not the same as a net operating income line."
+    },
+    {
+      "metric": "net_profit",
+      "value": -13635,
+      "unit": "thousand",
+      "currency": "QAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "QInvest LLC (100% basis, as disclosed in QIB's associates note)",
+      "definition": "'Net (loss)/profit' of QInvest LLC as shown in QIB's FY2025 note 12 (total net result, not stated as attributable to owners)",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "locator": "FY2025 statements PDF p.73 (note 12); Annual Report 2025 p.123",
+      "note": "Net loss of QAR 13.6m. QIB's share of the result is shown as a loss of QAR 6,671 thousand (49% basis from reclassification)."
+    },
+    {
+      "metric": "aum",
+      "value": 2,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2024-12-31",
+      "period_label": "2024 (year-end not stated)",
+      "period_type": "point_in_time",
+      "scope": "QInvest and affiliate companies",
+      "definition": "Assets under management of 'QInvest and affiliate companies' as reported by Forbes Middle East (Top 40 Asset Managers 2025); discretionary/non-discretionary split not given",
+      "status": "Requires verification",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "Forbes ME list entry no. 36",
+      "note": "Secondary source (tier 5), not an issuer label. Forbes says up 8% on 2023. No QInvest-published AUM figure found for 2025 or 2026 (website offline). Includes affiliates, so may include assets of the Epicure joint venture; not checked."
+    },
+    {
+      "metric": "paid_up_capital",
+      "value": 538934029,
+      "unit": "unit",
+      "currency": "USD",
+      "period_end": "2026-10-12",
+      "period_label": "Undated (LinkedIn About text, read 12 Oct 2026)",
+      "period_type": "point_in_time",
+      "scope": "QInvest LLC",
+      "definition": "Paid-up capital as stated in the LinkedIn company description (authorised capital USD 1 billion)",
+      "status": "Requires verification",
+      "source_ids": [
+        "S11"
+      ],
+      "locator": "LinkedIn company page, About",
+      "note": "Undated company self-description; QIC's Oct 2022 release also gives authorised capital of USD 1 billion. Not tied to a balance sheet."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "For 2025 and 2026: qinvest.com (placeholder page only, S5), QIB Annual Report 2025 (S4), QIB H1 2026 statements (S3). Only the Forbes ME 2024 figure (S6) was found."
+    },
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "qinvest.com placeholder (S5); LinkedIn company page (S11); QIB FY2025 statements and annual report (S2, S4)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "No retail or app-based investing product found (S5, S9, S10, S11)."
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "S2, S4, S5, S11."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "No wealth-client business or balances described in S9, S10, S11 or S4."
+    },
+    {
+      "metric": "customer_deposits",
+      "status": "Not publicly disclosed",
+      "where_checked": "Not applicable in the usual sense: QInvest is an investment bank / asset manager; no deposit figure in QIB's associate note (S2, S4)."
+    },
+    {
+      "metric": "net_loans",
+      "status": "Not publicly disclosed",
+      "where_checked": "QIB's associate note gives only total assets, liabilities, revenue and net result (S2 p.73)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Sheikh Jassim bin Hamad bin Jassim bin Jaber Al Thani",
+      "name_ar": null,
+      "title": "Chairman",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "QInvest LLC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not found. Named as QInvest chairman in July 2021 (S7).",
+      "previous_roles": "QIB Annual Report 2025 describes him as QIB's Chairman (board member since June 2004, Chairman since April 2005 per the qa-qib file), also Chairman of QInvest, Milaha and Damaan Islamic Insurance (Beema), Vice Chairman of QTerminals, and a member of the Credit Suisse board from April 2010 to April 2017.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "QIB Group page lists him as QInvest chairman (S1, read 2026-10-12); QIB Annual Report 2025 director biography states he is Chairman of QInvest (S4). No departure news found.",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hussein Fakhreddine",
+      "name_ar": null,
+      "title": "Acting Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "QInvest LLC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2021-07",
+      "appointed_note": "Appointed Co-CEO (with Hussain Abdulla) in July 2021 (S7, release dated 26 Jul 2021). Co-CEO Abdulla resigned effective 26 May 2024 (S8). The 'Acting' designation appears in Forbes ME 2025 and on the QIB Group page; the date it began was not found.",
+      "previous_roles": "2021- Co-CEO then Acting CEO, QInvest; earlier in investment banking at Emirates NBD and at Al Shall (Kuwait) per Forbes ME; the 2021 release cites 22+ years of combined experience at QInvest with his co-CEO.",
+      "education": "MSc in Finance, George Washington University, Washington DC, and American University of Beirut (as stated in the Jul 2021 release; the split between the two is not stated)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "QIB Group page lists 'Acting Chief Executive Officer' for QInvest (S1, read 2026-10-12); Forbes ME Top 40 Asset Managers 2025 lists Acting CEO (S6). Searches for a permanent CEO appointment in 2025-2026 found none. LinkedIn search returned no profile matching name plus QInvest.",
+      "source_ids": [
+        "S1",
+        "S6",
+        "S7",
+        "S8",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hussain Abdulla",
+      "name_ar": null,
+      "title": "Former Co-Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "QInvest LLC",
+      "business_unit": "Group",
+      "scope": "Group",
+      "appointed": "2021-07",
+      "appointed_note": "Co-CEO from July 2021; resignation accepted by the board, effective 26 May 2024 (Qatar Tribune, 27 May 2024).",
+      "previous_roles": "BA in Banking and Financial Studies, University of Qatar, and 22+ years of combined experience at QInvest with Fakhreddine, per the 2021 release.",
+      "education": "BA in Banking and Financial Studies, University of Qatar (S7)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "Qatar Tribune, 27 May 2024 (S8).",
+      "source_ids": [
+        "S7",
+        "S8"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bassel Gamal",
+      "name_ar": null,
+      "title": "Board Member (QIB Group Chief Executive Officer)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "QInvest LLC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Board appointment date not found. Group CEO of QIB since February 2013.",
+      "previous_roles": "Group CEO, Qatar Islamic Bank since Feb 2013; Chairman of QIB-UK (QIB Annual Report 2025). Full biography in qa-qib.json.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "QIB Annual Report 2025 executive biography states he is a Board Member of QInvest (S4, PDF p.29).",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "QInvest LLC is a Doha-based, QFCRA-authorised Islamic investment bank in which Qatar Islamic Bank holds 49% after a partial sale in 2025. Its stated divisions are Investment Banking, Asset Management and Principal Investments (real estate, credit and equity). Forbes Middle East put AUM of QInvest and affiliates at USD 2bn in 2024, but QInvest has published no AUM for 2025 or 2026 and its own website currently shows only a 'new website coming soon' page. It is an institutional dealmaker rather than a wealth distributor: it arranges sukuk (joint lead manager on QIB's 2025 USD sukuk mandate and, per Forbes, on QIB and Dukhan Bank deals in 2024), and it holds 49% of Epicure Islamic Investment Management with Qatar Insurance Company. No retail channel, app, brokerage, advisory-to-individuals or HNW proposition was found. The CEO post is held on an acting basis (Hussein Fakhreddine) since Co-CEO Hussain Abdulla's resignation in May 2024.",
+    "segments": [],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private banking or wealth-client proposition described in QIC's Oct 2022 release, the Gulf Times Apr 2022 report or the LinkedIn company page (three divisions listed, none for private clients). A search snippet of a third-party profile mentions 'private client services' but the page was not opened.",
+      "source_ids": [
+        "S9",
+        "S10",
+        "S11"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Asset Management division. AUM USD 2bn for 'QInvest and affiliate companies' in 2024 (Forbes ME, secondary). 49% of Epicure Islamic Investment Management LLC (Shari'a-compliant, QFCRA-regulated; QIC's Epicure Investment Management supplies the asset-management expertise, QInvest the infrastructure, market reach and Islamic product experience; QIC cited USD 7bn+ managed at Epicure in 2022). A QIB director biography refers to 'several asset management funds at QInvest'; fund names and sizes were not found.",
+      "source_ids": [
+        "S6",
+        "S9",
+        "S10",
+        "S4"
+      ]
+    },
+    "brokerage": {
+      "present": "Not found after research",
+      "detail": "No brokerage or execution service found on QIB's pages, QIC's release or LinkedIn. A third-party snippet lists brokerage among its activities but was not verified.",
+      "source_ids": [
+        "S10",
+        "S11"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "No app, portal or digital investing channel found. qinvest.com shows only a placeholder page stating a new website is coming (observed 2026-10-12).",
+      "source_ids": [
+        "S5"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Institutional investment-banking advisory: LinkedIn lists advisory, M&A, ECM, DCM and sukuk as specialties; the Jul 2021 release says the co-CEOs would work on strategic transactions in the Middle East and Turkey. Not advisory to individual investors.",
+      "source_ids": [
+        "S11",
+        "S7"
+      ]
+    },
+    "discretionary": {
+      "present": "Unclear",
+      "detail": "Asset Management division exists but whether it runs discretionary client mandates was not described in any opened source.",
+      "source_ids": [
+        "S10"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No model-portfolio or robo service found.",
+      "source_ids": [
+        "S5",
+        "S11"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No third-party fund shelf or platform found.",
+      "source_ids": [
+        "S5",
+        "S11"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured products found; sukuk arranging for issuers is a capital-markets activity, not a client product.",
+      "source_ids": [
+        "S11",
+        "S12"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Principal Investments division focused on real estate, credit and equity; LinkedIn lists private equity, real estate and funds among specialties. Specific current funds or deal sizes were not found.",
+      "source_ids": [
+        "S9",
+        "S10",
+        "S11"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "The whole firm is Shari'a-compliant ('Qatar's first Islamic Investment Bank' in the QIB Annual Report 2025); 49% of Epicure Islamic Investment Management; sukuk arranging.",
+      "source_ids": [
+        "S4",
+        "S10",
+        "S12"
+      ]
+    },
+    "asset_classes": [
+      "Sukuk",
+      "Private markets / alternatives"
+    ],
+    "partners": [
+      {
+        "partner": "Qatar Insurance Company (QIC)",
+        "kind": "Joint venture (Islamic asset management)",
+        "what": "Epicure Islamic Investment Management LLC: QIC 51% through Epicure Holdings LLC, QInvest 49%; QFCRA-regulated",
+        "date": "2022-10-04",
+        "status": "Unclear",
+        "source_ids": [
+          "S9",
+          "S10"
+        ]
+      },
+      {
+        "partner": "Qatar Islamic Bank (QIB)",
+        "kind": "Shareholder (49%) and sukuk issuer client",
+        "what": "49% shareholder; QInvest is joint lead manager/bookrunner on QIB's USD 5-year RegS sukuk mandate announced 3 Jun 2025",
+        "date": "2025-06-03",
+        "status": "Live",
+        "source_ids": [
+          "S1",
+          "S2",
+          "S12"
+        ]
+      },
+      {
+        "partner": "Damaan Islamic Insurance Co (Beema)",
+        "kind": "Investment (stake purchase)",
+        "what": "Special purpose vehicles funded by QInvest bought part of QIB's 13.75% stake in Beema; QIB retains 5% (page lead only; terms undisclosed)",
+        "date": "2026-07",
+        "status": "Announced",
+        "source_ids": [
+          "S13"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2022-10-04",
+        "what": "QIC and QInvest announced the establishment of Epicure Islamic Investment Management LLC (QIC 51%, QInvest 49%)",
+        "source_ids": [
+          "S10",
+          "S9"
+        ]
+      },
+      {
+        "date": "2024-05-26",
+        "what": "Co-CEO Hussain Abdulla's resignation took effect; Hussein Fakhreddine later shown as Acting CEO",
+        "source_ids": [
+          "S8",
+          "S6"
+        ]
+      },
+      {
+        "date": "2024-12-31",
+        "what": "QIB's board approved a plan to partially dispose of its stake in QInvest; QInvest classified as held for sale",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Partial sale completed; QIB lost control and QInvest became a 49% associate (65.62% at 31 Dec 2024). QIB's cash flow statement shows QAR 162,988 thousand proceeds from the sale of the investment in the held-for-sale subsidiary",
+        "source_ids": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "date": "2025-06-03",
+        "what": "Named joint lead manager and joint bookrunner in QIB's USD 5-year RegS senior unsecured sukuk mandate (QIB Sukuk Ltd, USD 5bn programme)",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "date": "2026-07",
+        "what": "SPVs funded by QInvest acquired part of QIB's 13.75% stake in Beema (QIB keeps 5%); date of sale agreement not shown on the page opened",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "what": "qinvest.com displayed 'A New Digital Experience ... Our new website will be available soon' (website under reconstruction on the check date)",
+        "source_ids": [
+          "S5"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Asset Management and Principal Investments (real estate, credit, equity) are in-house; USD 2bn AUM for QInvest and affiliates in 2024 (S6, S11).",
+        "Shareholding and leadership are in transition: QIB cut its stake from 65.62% to 49% in 2025 and the CEO post has been acting (S2, S1, S6).",
+        "Epicure Islamic Investment Management joint venture with QIC is a Shari'a-compliant asset-management vehicle with USD 7bn+ managed at the QIC arm (2022 figure) (S9, S10).",
+        "Already arranges sukuk for QIB and Dukhan Bank, so it has Gulf institutional distribution relationships (S12, S6)."
+      ],
+      "barriers": [
+        "No retail, HNW or digital investing channel found; it is an institutional investment bank (S5, S9, S10, S11).",
+        "Website is a placeholder, so no current product, AUM or management pages could be read (S5).",
+        "Fully Islamic firm: every product must be Shari'a-compliant (S4).",
+        "Shareholder base after the 2025 sale is unclear, so decision-makers are uncertain (S2)."
+      ],
+      "incumbent_vendors": []
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "QIB Group (lists QInvest as associate; Chairman and Acting CEO named)",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/qib-group",
+      "doc_type": "Official institution page (owner's site)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page opened. Says QIB owns 49%, established 2007, licensed by Qatar Financial Centre; Chairman Sheikh Jassim bin Hamad bin Jassim bin Jaber Al Thani; Acting CEO Hussein Fakhreddine."
+    },
+    {
+      "id": "S2",
+      "title": "Qatar Islamic Bank (Q.P.S.C.) Consolidated Financial Statements 31 December 2025",
+      "publisher": "Qatar Islamic Bank via Qatar Stock Exchange disclosure",
+      "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QIBK&reportEndDate=2025-12-31&lang=1",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "PDF opened (88 pages). Notes: p.16 (group structure, QInvest 65.62% to nil as subsidiary), p.73 (note 12 associates, QInvest 49%, 100%-basis total assets, liabilities, revenue and net result), p.14 (sale proceeds)."
+    },
+    {
+      "id": "S3",
+      "title": "Qatar Islamic Bank (Q.P.S.C.) Interim Condensed Consolidated Financial Statements 30 June 2026",
+      "publisher": "Qatar Islamic Bank via Qatar Stock Exchange disclosure",
+      "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QIBK&reportEndDate=2026-06-30&lang=1",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "PDF opened (28 pages). Note 21 (p.28): board approved partial disposal on 31 Dec 2024; QInvest 'authorised by QFCRA to conduct various banking activities'; classified as associate after loss of control."
+    },
+    {
+      "id": "S4",
+      "title": "QIB Annual Report 2025",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/-/media/project/qib/files/annual-reports/en/qib---annual-report-2025-english.pdf?rev=e5ea1a44acba4b088f35828fa8bc1e3d",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "PDF opened (140 pages). PDF p.21 (Chairman biography: Chairman of QInvest, 'Qatar's first Islamic Investment Bank'), p.22, p.29 (Group CEO is a QInvest Board Member), p.68 and p.123 (QInvest reclassified as associate; note 12 figures)."
+    },
+    {
+      "id": "S5",
+      "title": "QInvest | A New Digital Experience",
+      "publisher": "QInvest",
+      "url": "https://www.qinvest.com/",
+      "doc_type": "Official website (placeholder page)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Opened in the browser pane (WebFetch failed on the site certificate). Shows only 'We are currently reimagining the QInvest website ... Our new website will be available soon' and contact details (switchboard, info@, IR@, Media@). Old URLs such as /about-us/qinvest-profile return 404."
+    },
+    {
+      "id": "S6",
+      "title": "Hussein Fakhreddine - Top 40 Asset Managers 2025 (No. 36)",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-40-asset-managers-2025/hussein-fakhreddine/",
+      "doc_type": "News / ranking list",
+      "tier": 5,
+      "published": "2025",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Opened in the browser pane. Gives designation 'Acting CEO', 'assumed his current role in 2021', 2024 AUM of USD 2 billion for QInvest and affiliates (up 8%), 2024 sukuk roles, prior employers."
+    },
+    {
+      "id": "S7",
+      "title": "QInvest appoints new co-chief executives",
+      "publisher": "Gulf Times",
+      "url": "https://www.gulf-times.com/story/697238/qinvest-appoints-new-co-chief-executives",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-07-26",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page opened via fetch. Names Hussain Abdulla and Hussein Fakhreddine; Tamim al-Kuwari resigned; chairman Sheikh Jassim bin Hamad bin Jassim al-Thani."
+    },
+    {
+      "id": "S8",
+      "title": "QInvest's board of directors accept Co-CEO Abdulla's resignation",
+      "publisher": "Qatar Tribune",
+      "url": "https://www.qatar-tribune.com/article/124688/business/qinvests-board-of-directors-accept-co-ceo-abdullas-resignation",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2024-05-27",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page opened via fetch. Resignation effective Sunday 26 May 2024; no successor named."
+    },
+    {
+      "id": "S9",
+      "title": "QIC, QInvest join hands to establish Islamic asset management firm",
+      "publisher": "Gulf Times",
+      "url": "https://gulf-times.com/story/714327/QIC-QInvest-join-hands-to-establish-Islamic-asset-management-firm",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2022-04-10",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page opened via fetch. Describes QInvest's three divisions."
+    },
+    {
+      "id": "S10",
+      "title": "QIC and QInvest LLC announce the establishment of Epicure Islamic Investment Management LLC",
+      "publisher": "Qatar Insurance Company (QIC Group)",
+      "url": "https://qic-group.com/?p=4922",
+      "doc_type": "Company press release (partner)",
+      "tier": 2,
+      "published": "2022-10-04",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page opened via fetch. Ownership split QIC 51% / QInvest 49%; QInvest described as 'the leading investment bank in Qatar'; Hussain Abdulla and Hussein Fakhreddine named Co-CEOs (as of Oct 2022); authorised capital USD 1bn."
+    },
+    {
+      "id": "S11",
+      "title": "QInvest LLC (LinkedIn company page)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/company/qinvest-llc",
+      "doc_type": "LinkedIn company page",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page opened via fetch (public About text). Provides incorporation April 2007, Doha West Bay address, three divisions, specialties, 51-200 employees, authorised capital USD 1bn and paid-up capital USD 538,934,029. Undated text; the website does not link the page (site is a placeholder), so the company page is a search-and-fetch match by name and description."
+    },
+    {
+      "id": "S12",
+      "title": "Qatar Islamic Bank - US$ 5-year RegS Sukuk - Mandate Announcement",
+      "publisher": "The Group (Qatar) news report of the QIB announcement",
+      "url": "https://www.thegroup.com.qa/groupdownload/newsreport//NEWS202506041001591180.html",
+      "doc_type": "Mandate announcement (news report)",
+      "tier": 5,
+      "published": "2025-06-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page opened via fetch. Lists QInvest among 13 joint lead managers and joint bookrunners. Whether the deal priced was not checked."
+    },
+    {
+      "id": "S13",
+      "title": "Qatar Islamic Bank partially exits 13.75% stake in Daaman Islamic",
+      "publisher": "Zawya",
+      "url": "https://www.zawya.com/en/capital-markets/equities/qatar-islamic-bank-partially-exits-13.75-stake-in-daaman-islamic-399094",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page opened but only the lead is visible (sign-up wall); no article date shown. Lead says the stake went to SPVs funded by QInvest and QIB retains 5%. Date of July 2026 comes from search-result summaries (sale agreement 9 Jul, listing 12 Jul 2026); consistent with QIB holding 18.75% at 31 Dec 2025 (S2)."
+    }
+  ],
+  "original_reconciliation": [
+    {
+      "field": "Chief executive",
+      "original_value": "Hussein Fakhreddine, acting CEO (as given in the batch brief from the original workbook; no extract file exists for this id)",
+      "finding": "Confirmed",
+      "new_value": "Hussein Fakhreddine, Acting Chief Executive Officer (QIB Group page and Forbes ME 2025). Co-CEO since July 2021; Co-CEO Hussain Abdulla resigned effective 26 May 2024; no permanent CEO appointment found.",
+      "source_ids": [
+        "S1",
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "materiality": "Minor"
+    },
+    {
+      "field": "QIB ownership",
+      "original_value": "QIB owns 49% as an associate (as given in the batch brief)",
+      "finding": "Confirmed",
+      "new_value": "49.00% at 31 Dec 2025 (reclassified from a 65.62% subsidiary after a partial sale in 2025). Consistent with qa-qib.json.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "materiality": "Minor"
+    }
+  ],
+  "discrepancies": [
+    {
+      "field": "QIB ownership of QInvest",
+      "detail": "Older web sources and a search snippet of QIB's network page give 65.62% (QIB's own 31 Dec 2024 position); older press reports give 35% to 45%. QIB's FY2025 statements and Group page give 49%.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "resolution": "Used 49% at 31 Dec 2025 from audited statements; the 65.62% figure is the pre-sale 2024 position."
+    },
+    {
+      "field": "QIC stake labelled 'QInvest LLC'",
+      "detail": "An aggregator item (MarketScreener / S&P Capital IQ, dated 10/09/2022) reports QIC 'completed the acquisition of 51% stake in QInvest LLC, Investment Arm'. QIC's own release describes a 51% stake in the Epicure joint venture, not in QInvest.",
+      "source_ids": [
+        "S10"
+      ],
+      "resolution": "Read as a mislabel of the Epicure JV; not used."
+    },
+    {
+      "field": "Co-CEO vs Acting CEO",
+      "detail": "Oct 2022 release names two co-CEOs; Forbes ME 2025 and the QIB Group page name Fakhreddine as Acting CEO.",
+      "source_ids": [
+        "S10",
+        "S6",
+        "S1"
+      ],
+      "resolution": "Consistent with Abdulla's departure in May 2024; used Acting CEO as the current title."
+    }
+  ],
+  "open_items": [
+    "QInvest's own website (qinvest.com) is a 'coming soon' placeholder, so leadership, products, AUM and annual reports could not be read from the issuer. Re-check when the new site launches.",
+    "No QInvest-published financial statements, AUM or management list found. Financials come from QIB's associate note (100% basis, FY2025 only); 30 Jun 2026 figures are not available.",
+    "Identity of the buyer(s) of the 16.62% stake sold by QIB in 2025 and of the other 51% shareholders not found.",
+    "Only four people recorded (chair, acting CEO, departed co-CEO, QIB's CEO as board member). No heads of investment banking, asset management or principal investments found. LinkedIn People tab not checked; no profile match found for Fakhreddine.",
+    "QFCRA public register (eservices.qfc.qa) not checked, so regulated activities are unverified. QIB's H1 2026 statements say QFCRA authorises QInvest 'to conduct various banking activities'.",
+    "Epicure Islamic Investment Management: current status, AUM and leadership not checked (only the Oct 2022 formation release).",
+    "Zawya Beema article is behind a sign-up wall and undated on fetch; the first Zawya URL returned by search (cnj1o5tp) returned 404.",
+    "A search summary suggested Q Invest is on the Feb 2026 QIB sukuk mandate list; the opened Zawya page did not list banks, so only the 3 Jun 2025 mandate is recorded.",
+    "Arabic name not verified from a source; left null. Batch brief lead (acting CEO Hussein Fakhreddine, QIB 49%) was confirmed."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B22",
+  "checked": "2026-10-12"
+}

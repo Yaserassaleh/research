@@ -1,0 +1,1391 @@
+{
+ "id": "bh-bankabc",
+ "name": "Bank ABC",
+ "short_name": "Bank ABC",
+ "legal_name": "Arab Banking Corporation (B.S.C.)",
+ "name_ar": "المؤسسة العربية المصرفية (ش.م.ب)",
+ "country": "BH",
+ "hq_city": "Manama",
+ "website": "https://www.bank-abc.com",
+ "linkedin_company": "https://www.linkedin.com/company/bankabc/",
+ "category": "Bank",
+ "type": "Wholesale bank",
+ "model": "Conventional with Islamic window/subsidiary",
+ "founded": "1980 (incorporated in Bahrain under Amiri Decree Law No. 2 as Arab Banking Corporation B.S.C.)",
+ "regulators": [
+  "CBB (conventional wholesale bank licence; ila Bank operates as a retail branch)",
+  "Central Bank of Brazil - BACEN (Banco ABC Brasil)",
+  "Local central banks/regulators of subsidiaries in Jordan, Egypt, Algeria, Tunisia, UK and France (not individually verified)"
+ ],
+ "listed": true,
+ "exchange": "Bahrain Bourse",
+ "ticker": "ABC",
+ "parent_id": null,
+ "ownership_summary": "Listed on Bahrain Bourse since 1990 (trading code ABC). The Central Bank of Libya is the majority shareholder and ultimate parent with 59.37%, after buying ADIA's 17.72% stake in 2010. The Kuwait Investment Authority holds 29.69%, and others below 5% hold 10.94% (AR 2025).",
+ "shareholders": [
+  {
+   "holder": "Central Bank of Libya",
+   "pct": 59.37,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S5",
+    "S3"
+   ]
+  },
+  {
+   "holder": "Kuwait Investment Authority",
+   "pct": 29.69,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "holder": "Other shareholders with less than 5% each (incl. free float)",
+   "pct": 10.94,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S5"
+   ]
+  }
+ ],
+ "government_link": "Yes - controlled by the Central Bank of Libya (59.37%), with the Kuwait Investment Authority holding 29.69% (AR 2025, S5 p.106).",
+ "group_structure": "Arab Banking Corporation (B.S.C.) is the listed Bahraini parent and runs wholesale banking from Manama with branches in New York, DIFC (Dubai) and Singapore, plus a rep office in Tripoli. Principal subsidiaries at 31 Dec 2025 (S4 note 21): ABC International Bank plc (UK, 100%), ABC SA (France, 100%), ABC Islamic Bank (E.C.) (Bahrain, 100%), Bank ABC Jordan (87.0%), Banco ABC Brasil S.A. (63.5%), ABC Algeria (88.9%), Bank ABC Egypt (99.6%), ABC Tunisie (100%) and Arab Financial Services B.S.C. (c) (AFS, cards and fintech, 98.0%). ila Bank is Bank ABC's digital mobile-only bank. In Bahrain it is a retail branch of the parent ('ila Bank - Retail Branch'), and the H1 2026 statements describe it as a banking space within retail consumer banking. A 2025 project to carve it out as a separate subsidiary is under way (S5). ila also runs in Jordan through Bank ABC Jordan. None of these units has its own file, so all are recorded here.",
+ "subsidiaries": [
+  {
+   "name": "Banco ABC Brasil S.A.",
+   "pct": 63.5,
+   "activity": "Corporate and middle-market commercial banking and treasury, Brazil (BACEN-regulated)",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "name": "ABC International Bank plc",
+   "pct": 100.0,
+   "activity": "Banking, UK (London; European network)",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "ABC SA",
+   "pct": 100.0,
+   "activity": "Banking, France",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "ABC Islamic Bank (E.C.) (Bank ABC Islamic)",
+   "pct": 100.0,
+   "activity": "Islamic wholesale banking, Bahrain",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Arab Banking Corporation (ABC) - Jordan (incl. ila Jordan app; ABC Investments)",
+   "pct": 87.0,
+   "activity": "Retail, corporate and investment banking, Jordan",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "name": "Arab Banking Corporation - Egypt [S.A.E.]",
+   "pct": 99.6,
+   "activity": "Retail and corporate banking, Egypt",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "ABC Algeria",
+   "pct": 88.9,
+   "activity": "Retail and corporate banking incl. alburaq Islamic window, Algeria",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "name": "ABC Tunisie",
+   "pct": 100.0,
+   "activity": "Banking, Tunisia",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Arab Financial Services Company B.S.C. (c) (AFS)",
+   "pct": 98.0,
+   "activity": "Card processing, merchant acquiring and fintech services",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "name": "ila Bank (Bahrain retail branch of Bank ABC; carve-out into a subsidiary in progress)",
+   "pct": 100.0,
+   "activity": "Digital mobile-only retail bank, Bahrain",
+   "linked_id": null,
+   "source_ids": [
+    "S3",
+    "S5",
+    "S9"
+   ]
+  }
+ ],
+ "footprint": "Presence in 15 countries covering 25+ markets (S9). GCC: Bahrain (HQ, Bank ABC Islamic, ila Bank, AFS) and UAE (DIFC branch). Elsewhere: Jordan, Egypt, Algeria, Tunisia, Libya (rep office), UK, France, Germany, Italy, Türkiye, USA, Brazil and Singapore. AR 2025 retail branch counts: Cairo 52, Algiers 24, Amman 19, Tunis 17. In the GCC, retail is offered only through ila in Bahrain (S5 p.10, S3 note 1).",
+ "customer_segments": "Corporates, financial institutions and sovereign entities (wholesale, Islamic wholesale, trade and transaction banking). Middle-market corporates in Brazil. Retail and SME customers in Jordan, Egypt, Algeria and Tunisia. Digital mass and mass-affluent retail through ila (Bahrain, Jordan), including the ila Premium tier and Gulf Air card targeting the affluent segment (S5, S16).",
+ "business_lines": "Operating segments (S3 note 9): MENA subsidiaries (retail, corporate and treasury in North Africa and Levant); International wholesale banking (corporate and structured finance, trade finance, Islamic banking, syndications); Group treasury (Bahrain HO, New York, London); ABC Brasil; Others (Head Office, AFS and ila Bank). Group Treasury & Financial Markets includes Capital Markets, Financial Markets, Asset Management & Custody and Corporate Treasury (S5 p.17). Self-described as offering 'a leading universal banking proposition' (S5 p.9). Type set to Wholesale bank because of the CBB licence and the revenue mix.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 46911,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "Total assets, interim consolidated statement of financial position (reviewed by EY)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S11"
+   ],
+   "locator": "S3 PDF p.3",
+   "note": "Down 6% from USD 49,912m at 31 Dec 2025 (S6)."
+  },
+  {
+   "metric": "total_assets",
+   "value": 49912,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "Total assets (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.11",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 24787,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "'Deposits from customers'; excludes deposits from banks (USD 4,390m), certificates of deposit (USD 381m) and repos (USD 7,605m)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 26491,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "'Deposits from customers' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.11",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 21533,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "'Loans and advances' (net carrying amount, note 5)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.3",
+   "note": "Up 4% vs YE2025 (S6)."
+  },
+  {
+   "metric": "net_loans",
+   "value": 20661,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "'Loans and advances' (audited, note 9)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.11",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 5283,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "Total equity incl. non-controlling interests (USD 578m) and perpetual tier-1 capital (USD 590m); equity attributable to shareholders of the parent USD 4,115m",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 1410,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "'Total operating income' (net interest income + other operating income), consolidated statement of profit or loss (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.12",
+   "note": "FY2024: USD 1,339m. By geography FY2025: Bahrain 398, Europe 177, Brasil 486, Other 349 (S4 PDF p.87)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 257,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "Profit attributable to shareholders of the parent (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.12",
+   "note": "Total profit incl. non-controlling interests USD 327m; FY2024 attributable USD 285m."
+  },
+  {
+   "metric": "operating_income",
+   "value": 697,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "'Total operating income', six months ended 30 Jun 2026 (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.4",
+   "note": "H1 2025: USD 666m (+5%)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 111,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "Profit attributable to shareholders of the parent, six months ended 30 Jun 2026 (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.4",
+   "note": "H1 2025: USD 152m (-27%), mainly higher ECL provisions amid the Middle East conflict (S6)."
+  },
+  {
+   "metric": "fiduciary_assets",
+   "value": 24395,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Arab Banking Corporation B.S.C. and subsidiaries incl. 63.5%-owned Banco ABC Brasil)",
+   "definition": "'Funds under management' held in a fiduciary capacity, off balance sheet (note 30 'Fiduciary assets') - not labelled AUM by the issuer",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.88",
+   "note": "31 Dec 2024: USD 19,586m. Not split by entity; not disclosed in the H1 2026 interim statements."
+  },
+  {
+   "metric": "total_assets",
+   "value": 11681,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Subsidiary: Banco ABC Brasil S.A. (63.5% owned)",
+   "definition": "Summarised total assets of Banco ABC Brasil (material partly-owned subsidiary note 21.3, before inter-company eliminations)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.51",
+   "note": "Included in group total; do not add."
+  },
+  {
+   "metric": "net_profit",
+   "value": 50.3,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Subsidiary: Bank ABC Islamic (ABC Islamic Bank (E.C.))",
+   "definition": "Net profit for the year after tax, as stated in the Bank ABC Islamic results headline",
+   "status": "Verified",
+   "source_ids": [
+    "S12"
+   ],
+   "locator": "Press release list headline",
+   "note": "Rounded figure from a press-release headline; included in group profit."
+  },
+  {
+   "metric": "employees",
+   "value": 5000,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-10",
+   "period_label": "Oct 2026 (website)",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "'more than 5,000 professionals' (Who We Are page)",
+   "status": "Verified",
+   "source_ids": [
+    "S9"
+   ],
+   "locator": "Who We Are page",
+   "note": "Rounded lower bound from website; date of figure not stated."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "No figure labelled AUM in H1 2026 statements (S3), FY2025 statements (S4), AR 2025 (S5) or the H1 2026 release (S6). FY2025 note 30 gives 'Funds under management' held in a fiduciary capacity (USD 24,395m), recorded as fiduciary_assets."
+  },
+  {
+   "metric": "customers",
+   "status": "Not publicly disclosed",
+   "where_checked": "ila and group retail customer numbers not given in AR 2025 (S5), which says only that ila 'expanded its customer base', nor in the H1 2026 release (S6) or ila About Us/News (S18, S19)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "ila product pages (S13, S14) and news (S15, S19)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not found after research",
+   "where_checked": "AR 2025 (S5), H1 2026 statements (S3); no wealth or private-banking client asset figure exists."
+  },
+  {
+   "metric": "branches",
+   "status": "Not found after research",
+   "where_checked": "AR 2025 gives city-level retail branch counts (Cairo 52, Algiers 24, Amman 19, Tunis 17) but no group total (S5 p.10)."
+  }
+ ],
+ "people": [
+  {
+   "name": "H.E. Naji Belgasem (Naji Mohammed Issa Belgasem)",
+   "name_ar": null,
+   "title": "Chairman (Non-Executive, Non-Independent)",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "Not found",
+   "appointed_note": "Chairman date not found; signed FY2025 and H1 2026 statements as Chairman (S4, S3).",
+   "previous_roles": "Governor, Central Bank of Libya (appointed Oct 2024); previously Director of the Research and Statistics Department and of the Banking and Monetary Supervision Department, CBL; Libya's Governor to the IMF; board roles at the Arab Monetary Fund, Moamalat Financial Services and National Commercial Bank; member, Board of Trustees of the Libyan Investment Authority (S5 p.34).",
+   "education": "Master's degree in International Banking and Finance, University of Bedfordshire (as laid out in AR 2025 board bios)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Board page (S2) and Bahrain Bourse key-person list (S8) checked 2026-10-12; quoted as Chairman in the H1 2026 results release (S6).",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S5",
+    "S6",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulaziz Fahad Alhudaib",
+   "name_ar": null,
+   "title": "Deputy Chairman (Non-Executive, Non-Independent)",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "Not found",
+   "appointed_note": "",
+   "previous_roles": "Acting Executive Director, Planning and Senior Management Support Sector, Kuwait Investment Authority; previously Director of Strategy and Planning and Head of the Risk Management and Performance Measurement Unit at KIA; Chairman, Kuwait Flour Mills & Bakeries; board member, Banco ABC Brasil (S5 p.34).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Board page (S2) and Bahrain Bourse key-person list (S8) checked 2026-10-12; signed H1 2026 statements as Deputy Chairman (S3).",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S5",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Paul H. Jennings",
+   "name_ar": null,
+   "title": "Group Chief Executive Officer",
+   "functions": [
+    "Group CEO"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2026-08-05",
+   "appointed_note": "Appointment announced 12 May 2026, effective 5 Aug 2026, after Board and CBB approval (S7). Succeeds Acting Group CEO Brendon Hopkins (acting from 1 Feb 2026).",
+   "previous_roles": "CEO, British Arab Commercial Bank, London (at time of appointment); previously Managing Director & CEO, ABC International Bank plc (Bank ABC's London subsidiary) (S7). Search results report 21 years at ABC International Bank, 1999-2020 (S24, search only).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page checked 2026-10-12 (S1); Bahrain Bourse key-person list (S8); signed H1 2026 statements as Group CEO (S3).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S7",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Brendon Hopkins",
+   "name_ar": null,
+   "title": "Executive Advisor (Acting Group CEO 1 Feb - Aug 2026)",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2026-02-01",
+   "appointed_note": "Acting Group CEO from 1 Feb 2026 until Paul Jennings took office on 5 Aug 2026; to stay with the bank 'in an advisory capacity' (S7). Listed as 'Executive Advisor' by Bahrain Bourse (S8). Joined Bank ABC in 2014 as Group CFO (S5).",
+   "previous_roles": "2014- Group CFO, Bank ABC (also oversaw strategy, M&A, tax, communications, IR); director, Banco ABC Brasil; previously Standard Chartered (CEO Europe; Group Head of Strategy, Western Hemisphere); Deloitte; Guardian Royal Exchange (S5 p.36).",
+   "education": "MBA, Henley Management College; BSc (Hons) Industrial Mathematics, University of Birmingham",
+   "qualifications": "Chartered Accountant (ICAEW); Chartered Tax Adviser (CIOT)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Departed",
+   "role_evidence": "No longer acting Group CEO since 5 Aug 2026 (S7); now Executive Advisor (S8).",
+   "source_ids": [
+    "S5",
+    "S7",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Almaraj",
+   "name_ar": null,
+   "title": "Group Chief Retail & Digital Banking Officer and ila Bank CEO",
+   "functions": [
+    "Retail",
+    "Digital"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Group Retail & Digital Banking; ila Bank",
+   "scope": "Group (retail in Bahrain, Jordan, Egypt, Algeria, Tunisia) and ila Bank",
+   "appointed": "2020-02",
+   "appointed_note": "Appointed ila Bank CEO (announced 11 Feb 2020) after serving as ila COO (S20). Group Chief Retail & Digital Banking Officer date not found.",
+   "previous_roles": "Joined Bank ABC 2015; COO of ila Bank; helped set up Bank ABC's DIFC office and Debt Capital Markets practice; director, Bank ABC Jordan; previously Senior Associate, Perella Weinberg Partners, New York (M&A and restructuring) (S5 p.36).",
+   "education": "B.S. Finance and Accounting, Wharton School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page (S1) and Bahrain Bourse key-person list (S8) checked 2026-10-12; AR 2025 (S5). LinkedIn search 12 Oct 2026 found no matching profile.",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S8",
+    "S20"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Nada Tarada",
+   "name_ar": null,
+   "title": "Head of Business and Customer, ila Bank Bahrain",
+   "functions": [
+    "Retail",
+    "Digital"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "ila Bank",
+   "scope": "Bahrain (ila Bank)",
+   "appointed": "Not found",
+   "appointed_note": "Quoted in this role at the Sep 2024 Government Securities launch (S15).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Bahrain Bourse key-person list (S8, undated but post-May 2026); ila news (S15).",
+   "source_ids": [
+    "S8",
+    "S15"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Cian Bracken",
+   "name_ar": null,
+   "title": "Chief Operating Officer, ila Bank Bahrain",
+   "functions": [
+    "Operations",
+    "Digital"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "ila Bank",
+   "scope": "Bahrain (ila Bank)",
+   "appointed": "Not found",
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Bahrain Bourse key-person list (S8, undated but post-May 2026).",
+   "source_ids": [
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Christopher Wilmot",
+   "name_ar": null,
+   "title": "Group Chief Treasury & Financial Markets Officer",
+   "functions": [
+    "Treasury",
+    "Investments / asset management"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Group Treasury & Financial Markets (incl. Asset Management & Custody)",
+   "scope": "Group",
+   "appointed": "2016-06",
+   "appointed_note": "Joined Bank ABC June 2016 with global responsibility for Corporate Treasury, Financial Markets, Capital Markets and Asset Management (S5 p.36).",
+   "previous_roles": "Previously First Gulf Bank (Abu Dhabi); Group Treasurer, Ahli United Bank (Bahrain); Group Treasurer, Saudi Hollandi Bank (ABN Amro Group); board member, ABC Islamic; nearly 40 years in treasury, investment and financial markets (S5 p.36).",
+   "education": "MBA, University of Strathclyde Business School (as laid out in AR 2025 bios)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page (S1) and Bahrain Bourse key-person list (S8) checked 2026-10-12.",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Karim El Sherif",
+   "name_ar": null,
+   "title": "Head of Asset Management",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Group Treasury & Financial Markets - Asset Management",
+   "scope": "Group",
+   "appointed": "Not found",
+   "appointed_note": "Spelled 'Karim El Sharif' in the AR 2025 group directory (S5 p.217) and 'Karim El Sherif' by Bahrain Bourse (S8).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Bahrain Bourse key-person list (S8) and AR 2025 group directory (S5).",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hammad Hassan",
+   "name_ar": null,
+   "title": "Acting Group Chief Wholesale Banking Officer & MD of Bank ABC Islamic",
+   "functions": [
+    "Corporate / wholesale",
+    "Islamic / Shariah",
+    "Subsidiary CEO"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Wholesale Banking; Bank ABC Islamic",
+   "scope": "Group",
+   "appointed": "2026",
+   "appointed_note": "Appointed Acting Group Chief Wholesale Banking Officer 'earlier in 2026'; CEO of ABC Islamic and Group Head of Islamic Banking since 2017 (S5 p.36).",
+   "previous_roles": "Joined Bank ABC Islamic 2005 as Head of Coverage; 2017- CEO ABC Islamic and Group Head of Islamic Banking; board of IIFM; previously 11+ years with Citigroup and Samba Financial Group (S5 p.36).",
+   "education": "MBA, Lahore University of Management Sciences; BSc Electrical Engineering, University of Engineering & Technology, Pakistan (as laid out in AR 2025 bios)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page (S1) and Bahrain Bourse key-person list (S8) checked 2026-10-12.",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dr. Yousif Almas",
+   "name_ar": null,
+   "title": "Group Chief Digitisation Officer",
+   "functions": [
+    "Digital",
+    "Innovation / partnerships"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Group Innovation and Digital",
+   "scope": "Group",
+   "appointed": "Not found",
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page checked 2026-10-12 (S1); AR 2025 org chart and directory ('Group Innovation and Digital') (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Suresh Padmanabhan",
+   "name_ar": null,
+   "title": "Acting Group Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Group Finance",
+   "scope": "Group",
+   "appointed": "2026",
+   "appointed_note": "Acting CFO since Brendon Hopkins became acting Group CEO (Feb 2026); exact date not stated (S5).",
+   "previous_roles": "Joined Bank ABC 2001; responsible for financial planning, regulatory reporting, balance sheet management and tax; Chairman, Arab Financial Services Company (Bahrain) and director, AFS UAE; previously Ernst & Young (S5 p.36).",
+   "education": null,
+   "qualifications": "Chartered Accountant (ICAI); CFA charterholder",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page checked 2026-10-12 (S1); Bahrain Bourse lists him as Head of Group Finance (S8).",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ismail Mokhtar",
+   "name_ar": null,
+   "title": "Group Chief Operating Officer",
+   "functions": [
+    "Operations",
+    "Technology"
+   ],
+   "entity": "Arab Banking Corporation (B.S.C.)",
+   "business_unit": "Group Operations, IT, Cyber Security, Corporate Services",
+   "scope": "Group",
+   "appointed": "2019-08",
+   "appointed_note": "Group COO since Aug 2019 (S5 p.37).",
+   "previous_roles": "25+ years at Bank ABC: Deputy GM and COO, Bank ABC Tunisia; Regional COO MENA (2018); director, Bank ABC Jordan; earlier Treasury Department, Banque Nationale Agricole (Tunisia) (S5 p.37).",
+   "education": "Master's degree in Management, Economics, Sciences and Management University, Tunisia",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Rajeev Adrian",
+   "name_ar": null,
+   "title": "Chief Executive Officer & Managing Director, ABC International Bank plc (UK)",
+   "functions": [
+    "Subsidiary CEO"
+   ],
+   "entity": "ABC International Bank plc",
+   "business_unit": "Europe (London, Paris, Frankfurt, Milan, Istanbul)",
+   "scope": "Subsidiary: ABC International Bank plc",
+   "appointed": "Not found",
+   "appointed_note": "Shown in the AR 2025 organisational chart (S5 p.17); not on the group Management page (which lists group officers only).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "AR 2025 organisational chart only (S5); no 2026 confirmation found.",
+   "source_ids": [
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Bank ABC is a wholesale-led group (CBB conventional wholesale licence) with no private banking or wealth management franchise found in the GCC. Asset Management & Custody sits within Group Treasury & Financial Markets (Head of Asset Management Karim El Sherif). Funds under management held in a fiduciary capacity were USD 24.4bn at end-2025, with no split by entity (S4, S5, S8). In the GCC, retail investing runs only through ila Bank (Bahrain), the group's mobile-only bank (launched 2019). Its in-app 'Investments' tab offers Bahrain Government Securities (T-bills, development bonds and sukuk, connected directly to the CBB, launched Sep 2024, now from a BHD 1,000 bid, no custody fee) and digital Gold & Silver Investment Accounts (from 0.010oz gold / 1oz silver, with a suitability questionnaire). It also offers fixed deposits and Shari'a-compliant alburaq Wakala investments (S13-S15, S17). ila is moving upmarket through ila Premium and the 2025 Gulf Air co-branded card ('expanding its presence in the affluent segment'), and is being carved out as a standalone digital bank (S5, S16). No funds, equities, model portfolios or advisory were found in ila.",
+  "segments": [
+   {
+    "name": "ila Premium",
+    "tier": "Mass affluent (digital)",
+    "eligibility": "Upgrade in-app to the ila World Debit Card; benefits incl. higher interest rates, up to 50% lower fees, lounge access; no balance threshold published on the page",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "name": "ila Classic",
+    "tier": "Mass retail (digital)",
+    "eligibility": "No minimum balance; 'no required income threshold to open an account'",
+    "source_ids": [
+     "S16",
+     "S18"
+    ]
+   },
+   {
+    "name": "ila Black / ila White / ila Gulf Air credit cards",
+    "tier": "Affluent (cards)",
+    "eligibility": "Card products; AR 2025 says the Gulf Air co-brand marks 'expanding its presence in the affluent segment'; criteria not reviewed",
+    "source_ids": [
+     "S5",
+     "S21"
+    ]
+   },
+   {
+    "name": "Bank ABC Jordan 'Ultimate'",
+    "tier": "Premium (Jordan, non-GCC)",
+    "eligibility": "Launched 2025; criteria not found",
+    "source_ids": [
+     "S5"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Not found after research",
+   "detail": "No private banking unit, product or head was found in AR 2025 (S5), the group management list (S1), the Bahrain Bourse key-person list (S8) or ila pages.",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S8"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Asset Management & Custody unit within Group Treasury & Financial Markets (Group Chief Treasury & FM Officer Christopher Wilmot; Head of Asset Management Karim El Sherif) (S5 p.17, S8). Funds under management held in fiduciary capacity: USD 24,395m at 31 Dec 2025, up from USD 19,586m (S4 note 30). The product range and the share in Banco ABC Brasil were not found.",
+   "source_ids": [
+    "S4",
+    "S5",
+    "S8"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Only outside the GCC: 'ABC Investments' at Bank ABC Jordan 'delivered strong profitability and expanded its regional presence' (S5 p.56). No GCC equity brokerage found; ila offers government securities and precious metals only (S13, S14).",
+   "source_ids": [
+    "S5",
+    "S13",
+    "S14"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "ila Bank app (Bahrain) 'Investments' tab: (1) Bahrain Government Securities (T-bills 3/6/12 months, bonds, Islamic sukuk) bought directly in-app through a direct CBB connection, launched 8 Sep 2024 with a BHD 10,000 minimum, now 'minimum BHD 1,000 bid', no custody fee; (2) Gold & Silver Investment Accounts with live prices and portfolio tracking (unallocated, no physical delivery), launch date not found (AR 2025 mentions a 2025 rollout of precious-metals capabilities in Financial Markets). Also fixed deposits, alburaq Wakala, Al Kanz prize-linked savings and Jamiyah (S13-S15, S17, S21, S5 p.52).",
+   "source_ids": [
+    "S5",
+    "S13",
+    "S14",
+    "S15",
+    "S17",
+    "S21"
+   ]
+  },
+  "advisory": {
+   "present": "Not found after research",
+   "detail": "No investment advisory service for individuals found.",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  "discretionary": {
+   "present": "Unclear",
+   "detail": "The group manages USD 24.4bn of funds in a fiduciary capacity (S4), but no discretionary portfolio service for individual clients was found.",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "None in ila (S21) or group materials (S5).",
+   "source_ids": [
+    "S5",
+    "S21"
+   ]
+  },
+  "funds_platform": {
+   "present": "Not found after research",
+   "detail": "No mutual fund shelf in ila or on Bank ABC sites.",
+   "source_ids": [
+    "S21"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "Financial Markets provides FX, derivatives and hedging solutions to corporates and institutions (S5 p.52); no retail structured products found.",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  "private_markets": {
+   "present": "Not found after research",
+   "detail": "No private-markets products for clients found.",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "ila alburaq (Islamic digital proposition launched 2023) offers Wakala investments in BHD/USD (BHD 500 to 1,000,000 tiers) and Islamic personal finance, under a Shari'a Supervisory Board. Islamic government sukuk are available in-app. Bank ABC Islamic serves wholesale clients (S5, S14, S17).",
+   "source_ids": [
+    "S5",
+    "S14",
+    "S17"
+   ]
+  },
+  "asset_classes": [
+   "Bonds",
+   "Sukuk",
+   "Gold / precious metals"
+  ],
+  "partners": [
+   {
+    "partner": "Temenos",
+    "kind": "Core banking platform",
+    "what": "ila Bank completed its core banking migration to Temenos",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "partner": "Gulf Air",
+    "kind": "Co-branded credit card",
+    "what": "ila Gulf Air co-branded Mastercard credit card aimed at the affluent segment",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S5",
+     "S19"
+    ]
+   },
+   {
+    "partner": "Central Bank of Bahrain (government securities platform)",
+    "kind": "Securities issuance connectivity",
+    "what": "ila directly connected to CBB to let customers bid for government T-bills, bonds and sukuk in-app",
+    "date": "2024-09-08",
+    "status": "Live",
+    "source_ids": [
+     "S15"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2019",
+    "what": "Launched ila Bank, a digital mobile-only bank in Bahrain; expanded to Jordan in 2022; ila alburaq (digital Islamic) launched in 2023",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2024-09-08",
+    "what": "ila launched in-app investment in Bahrain Government Securities (T-bills, bonds, sukuk) with a direct CBB link",
+    "source_ids": [
+     "S15"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "ila completed its Temenos core migration, launched the Gulf Air co-branded card and started a carve-out into a standalone subsidiary. Financial Markets rolled out precious-metals capabilities, and ila now offers Gold & Silver Investment Accounts.",
+    "source_ids": [
+     "S5",
+     "S13"
+    ]
+   },
+   {
+    "date": "2025-05",
+    "what": "Bank ABC Egypt Blue App launched using ila technology; similar launches planned in Algeria and Tunisia in 2026",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2026-02-01",
+    "what": "Brendon Hopkins (Group CFO) became Acting Group CEO",
+    "source_ids": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2026-05-12",
+    "what": "Paul Jennings appointed Group CEO, effective 5 Aug 2026",
+    "source_ids": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2026",
+    "what": "ila launched alburaq Islamic Personal Finance (fully digital, Shari'a-compliant)",
+    "source_ids": [
+     "S19"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "ila's in-app 'Investments' tab offers only government securities and gold/silver; no funds, equities, model portfolios or advisory were found (S13, S14, S21).",
+    "ila is pushing into the affluent segment (Gulf Air co-brand, ila Premium) and is being carved out as a standalone digital bank 'ready for further expansion' with a 'regional growth strategy' (S5 pp.30, 45, 57).",
+    "The group reuses ila's technology across MENA retail (Egypt Blue App 2025; Algeria and Tunisia planned 2026), so a product added to ila could be reused across five retail markets (S5 p.53).",
+    "A new Group CEO took office in Aug 2026 after a period of acting leadership; strategy may be reset (S7)."
+   ],
+   "barriers": [
+    "Wholesale-led group with no private banking or wealth franchise found; GCC retail is limited to ila in Bahrain (S3 note 1, S5).",
+    "Several C-suite roles are acting (CFO, Wholesale, Credit & Risk), and H1 2026 attributable profit fell 27% on conflict-related provisions (S1, S6).",
+    "ila runs on Temenos core banking, so integrations must fit that stack (S5).",
+    "The ila alburaq customer base needs Shari'a-compliant products (S17)."
+   ],
+   "incumbent_vendors": [
+    "Temenos - ila core banking (S5)",
+    "Mastercard - ila debit and credit cards (S16)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Management (senior management list)",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/en/AboutABC/Management/senior-management",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Page renders by script; read in the built-in browser"
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/en/AboutABC/Management/Pages/Directors.aspx",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "Arab Banking Corporation (B.S.C.) - Interim Condensed Consolidated Financial Statements 30 June 2026 (reviewed)",
+   "publisher": "Arab Banking Corporation (B.S.C.)",
+   "url": "https://www.bank-abc.com/en/ShareholderRelations/Financial%20Reports/Bank-ABC-FS-Q2-2026.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-08-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "Arab Banking Corporation (B.S.C.) - Consolidated Financial Statements 31 December 2025 (audited)",
+   "publisher": "Arab Banking Corporation (B.S.C.)",
+   "url": "https://www.bank-abc.com/en/ShareholderRelations/Financial%20Reports/Bank-ABC-FS-YE-2025-Eng.pdf",
+   "doc_type": "Audited financial statements",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Bank ABC Group Annual Report 2025",
+   "publisher": "Arab Banking Corporation (B.S.C.)",
+   "url": "https://www.bank-abc.com/en/ShareholderRelations/Annual%20Reports/Annual-Report-2025.pdf",
+   "doc_type": "Annual report",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Bank ABC announces results for the period ended 30 June 2026",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/en/Media%20Relations/PressRelease/Pages/Bank-ABC-announces-results-for-the-period-ended-30-June-2026.aspx",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-08-12",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser"
+  },
+  {
+   "id": "S7",
+   "title": "Bank ABC Appoints Paul Jennings as Group Chief Executive Officer",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/en/Media%20Relations/PressRelease/paul-jennings-group-ceo",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-05-12",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser"
+  },
+  {
+   "id": "S8",
+   "title": "List of Key Persons - Arab Banking Corporation (ABC)",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/ABC/Keyperson.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated; lists Paul Henry Jennings as Group CEO, so updated after May 2026"
+  },
+  {
+   "id": "S9",
+   "title": "Who We Are",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/en/AboutABC/snapshot",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Shareholder information",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/en/ShareholderRelations/shareholder-info",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser"
+  },
+  {
+   "id": "S11",
+   "title": "Half Year Financial Results 30 June 2026 (Reviewed) - financial highlights",
+   "publisher": "Arab Banking Corporation (B.S.C.)",
+   "url": "https://www.bank-abc.com/en/ShareholderRelations/Financial%20Highlights/FinancialHighlights-Q2-FH-2026-Eng.pdf",
+   "doc_type": "Published financial highlights",
+   "tier": 1,
+   "published": "2026-08-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Our News (press release list)",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/en/Media%20Relations/PressRelease",
+   "doc_type": "Official press release list",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser"
+  },
+  {
+   "id": "S13",
+   "title": "Gold & Silver Investment Accounts",
+   "publisher": "ila Bank (Bank ABC)",
+   "url": "https://www.ilabank.com/GoldandSilver",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Government Securities",
+   "publisher": "ila Bank (Bank ABC)",
+   "url": "https://www.ilabank.com/GovernmentSecurities",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "ila Bank launches first-of-its-kind investment solution for Government Securities",
+   "publisher": "ila Bank (Bank ABC)",
+   "url": "https://ilabank.com/news/ila-Bank-launches-firstofitskind-investment-solution-for-Government-Securities",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2024-09-08",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "ila Premium",
+   "publisher": "ila Bank (Bank ABC)",
+   "url": "https://www.ilabank.com/Premium",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Wakala Investments (alburaq)",
+   "publisher": "ila Bank (Bank ABC)",
+   "url": "https://www.ilabank.com/Wakala",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "About Us",
+   "publisher": "ila Bank (Bank ABC)",
+   "url": "https://www.ilabank.com/AboutUs",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "ila News",
+   "publisher": "ila Bank (Bank ABC)",
+   "url": "https://www.ilabank.com/News",
+   "doc_type": "Official press release list",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "ila Bank Bahrain appoints Chief Executive Officer",
+   "publisher": "ila Bank (Bank ABC)",
+   "url": "https://ilabank.com/news/ila-Bank-Bahrain-appoints-Chief-Executive-Officer",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2020-02-11",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S21",
+   "title": "ila Bank homepage (product menu, Jordan site, social links)",
+   "publisher": "ila Bank (Bank ABC)",
+   "url": "https://www.ilabank.com/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S22",
+   "title": "Bank ABC homepage",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/en",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S23",
+   "title": "Bank ABC Arabic homepage",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/ar",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "ar"
+  },
+  {
+   "id": "S24",
+   "title": "Paul Jennings returns to Bank ABC as group CEO",
+   "publisher": "FinTech Futures",
+   "url": "https://www.fintechfutures.com/job-cuts-new-hires/paul-jennings-returns-to-bank-abc-as-group-ceo",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-05",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only"
+  },
+  {
+   "id": "S25",
+   "title": "Financial Results (IR list)",
+   "publisher": "Bank ABC",
+   "url": "https://www.bank-abc.com/en/ShareholderRelations/financial-results",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser"
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "ila Bank legal status",
+   "detail": "H1 2026 statements describe ila as a 'digital, mobile-only banking space ... within its retail consumer banking services' (S3 note 1), and AR 2025 lists 'ila Bank - Retail Branch' (S5). The H1 2026 results release calls ila Bank Bank ABC's 'digital subsidiary' (S6).",
+   "source_ids": [
+    "S3",
+    "S5",
+    "S6"
+   ],
+   "resolution": "Treated as a retail branch with a carve-out in progress; the release wording is likely informal. Re-check for a CBB licence or subsidiary announcement."
+  },
+  {
+   "field": "Senior management changes since AR 2025",
+   "detail": "AR 2025 org chart and directory list Sedjwick Joseph (Group Chief Credit & Risk Officer) and Jafar Abdullatif (Acting Group Chief Auditor). The current Management page lists Patrick Abi Habib (Acting Group Chief Credit & Risk Officer) and Marek Michalski (Group Chief Auditor) (S1, S5, S8).",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S8"
+   ],
+   "resolution": "Used the current website and Bahrain Bourse list; those roles are not profiled here."
+  },
+  {
+   "field": "Government securities minimum in ila",
+   "detail": "Launch release (Sep 2024) states a minimum investment of BHD 10,000 (S15). The current product page says 'minimum BHD 1,000 bid' (S14).",
+   "source_ids": [
+    "S14",
+    "S15"
+   ],
+   "resolution": "Current page used; the minimum appears to have been lowered."
+  },
+  {
+   "field": "Head of Asset Management name spelling",
+   "detail": "'Karim El Sharif' (AR 2025 directory) vs 'Karim El Sherif' (Bahrain Bourse key-person list).",
+   "source_ids": [
+    "S5",
+    "S8"
+   ],
+   "resolution": "Used the Bahrain Bourse spelling."
+  }
+ ],
+ "open_items": [
+  "Q3 2026 statements not yet on the Bank ABC Financial Results page at 12 Oct 2026 (latest: Q2 2026) (S25).",
+  "Launch date of ila Gold & Silver Investment Accounts not found (live on site Oct 2026).",
+  "No customer numbers for ila (Bahrain/Jordan) or group retail.",
+  "Split of the USD 24.4bn funds under management (fiduciary) by entity and product (Bahrain vs Banco ABC Brasil) not disclosed.",
+  "Banco ABC Brasil CEO and wealth/asset-management activities in Brazil not researched (outside GCC focus).",
+  "ila carve-out: no CBB licence or completion announcement found as of 12 Oct 2026.",
+  "LinkedIn not verified for Almaraj (search found no profile); not checked for the others to save search budget.",
+  "Rajeev Adrian (CEO, ABC International Bank plc) is only confirmed by the AR 2025 org chart."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B29a",
+ "checked": "2026-10-12"
+}

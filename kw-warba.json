@@ -1,0 +1,1637 @@
+{
+ "id": "kw-warba",
+ "name": "Warba Bank",
+ "short_name": "Warba",
+ "legal_name": "Warba Bank K.S.C.P.",
+ "name_ar": "بنك وربة",
+ "country": "KW",
+ "hq_city": "Kuwait City",
+ "website": "https://www.warbabank.com",
+ "linkedin_company": "https://www.linkedin.com/company/warba-bank",
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "2010 (incorporated 17 Feb 2010 by Amiri Decree No. 289/2009; registered with CBK as an Islamic bank on 7 Apr 2010)",
+ "regulators": [
+  "CBK",
+  "CMA Kuwait (investment management: fund management, discretionary and non-discretionary portfolio management, custody)"
+ ],
+ "listed": true,
+ "exchange": "Boursa Kuwait",
+ "ticker": null,
+ "parent_id": null,
+ "ownership_summary": "Kuwaiti public shareholding company listed on Boursa Kuwait. Current shareholder percentages were not found: the IR factsheet loads dynamically and was not readable. The Kuwait Investment Authority appoints at least one board member (Mishari F. AlMusallam, from 27 Mar 2025, per the FY2025 annual report). Since 8 Apr 2025 Warba has owned Warba Strategy Company S.P.C., which holds 32.75% of Gulf Bank K.S.C.P. A potential merger into a single Sharia-compliant bank is under study: CBK acknowledged it on 15 Jun 2025, and Gulf Bank said on 24 May 2026 that due diligence was nearing completion.",
+ "shareholders": [],
+ "government_link": "Yes - the Kuwait Investment Authority appoints at least one board member (Mishari F. AlMusallam, KIA investment manager, appointed by KIA from 27 Mar 2025). The KIA stake percentage was not verified in B25.",
+ "group_structure": "Warba Bank K.S.C.P. consolidates its wholly owned subsidiary Warba Strategy Company S.P.C. (formerly Al Ghanem Trading Company W.L.L., acquired 8 Apr 2025 for KWD 498.2m, incl. assumed debt of KWD 267.3m) and SPVs. Warba Strategy holds 32.75% of Boursa-listed Gulf Bank K.S.C.P., which is equity-accounted as an associate (carrying amount KWD 508.5m at 30 Jun 2026). Joint ventures are carried at KWD 127.3m. Investment management (Warba Investment Management / Warba Asset Management) is a department of the bank, not a separate legal entity. DOUBLE COUNTING: Warba's total assets include only the equity-accounted Gulf Bank stake, not Gulf Bank's balance sheet. If Gulf Bank is profiled, do not add any share of its assets or deposits to Warba. If the merger proceeds, the combined entity would replace both.",
+ "subsidiaries": [
+  {
+   "name": "Warba Strategy Company S.P.C. (formerly Al Ghanem Trading Company W.L.L.)",
+   "pct": 100.0,
+   "activity": "Holding company; owns 32.75% of Gulf Bank K.S.C.P. (associate)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  }
+ ],
+ "footprint": "Kuwait only. 21 branches at end-2025 after opening Shamiya and Saad Al-Abdullah, with 154+ ATMs (FY2025 annual report). Royal Banking is served at dedicated branches (Al-Rayah Tower, Kaifan, Adaliya, Avenues, Salmiya, Jaber Al-Ali, Jaber Al-Ahmad). Head office: Al-Raya Tower, Omar Ibn Al-Khattab Street, Kuwait City.",
+ "customer_segments": "Retail (incl. youth 'Wave Banking' and the SiDi digital wallet for migrant workers), Royal Banking (upper affluent), Private Banking, SME ('Beyond' business banking), corporate, and investment-management clients (corporate and retail).",
+ "business_lines": "Islamic retail banking (financing, cards, savings), corporate banking, treasury, investment banking (structured and securitisation finance, syndication, debt capital markets / sukuk, financial institutions) and investment management. Investment management has two departments: Portfolio & Fund Management (discretionary mandates and funds incl. Islamic money market funds, an Islamic income/private credit fund, equipment leasing and real estate funds) and Fiduciary Services (non-discretionary portfolio management and custody), plus real estate and direct investment teams.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 6188481,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, interim condensed consolidated statement of financial position (unaudited; reviewed by KPMG and EY)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "total_assets",
+   "value": 6027046,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, audited comparative as restated in the H1 2026 statements (PPA for Gulf Bank stake finalised)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 PDF p.3; S4 PDF p.112",
+   "note": "As originally published in the FY2025 annual report: KWD 6,028,206k."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 3589839,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Depositors' accounts'; excludes due to banks and other financial institutions (KWD 1,357,145k) and sukuk issued (KWD 157,863k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 3510073,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Depositors' accounts'; excludes due to banks and other FIs (KWD 1,299,061k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 4263172,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing receivables' (Islamic financing; carrying amount net of provisions)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 4007489,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing receivables'",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 972929,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity incl. Perpetual Tier 1 Sukuk KWD 152,595k; equity attributable to shareholders of the Bank KWD 820,334k",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 109294,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Net operating income' (net finance income + net investment income + net fees and commissions + other income + FX), consolidated statement of profit or loss (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.152",
+   "note": ""
+  },
+  {
+   "metric": "net_profit",
+   "value": 49621,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Net profit for the year' (no non-controlling interests shown; EPS 11.46 fils)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.152",
+   "note": "As originally published; the H1 2026 statements restated 2025 comparatives for the Gulf Bank PPA (S3)."
+  },
+  {
+   "metric": "operating_income",
+   "value": 59151,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Net operating income', interim condensed consolidated statement of profit or loss",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4",
+   "note": "H1 2025 (restated): KWD 48,932k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 24183,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Net profit for the period'",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4",
+   "note": "H1 2025 (restated): KWD 20,334k."
+  },
+  {
+   "metric": "aum",
+   "value": 715,
+   "unit": "million",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Warba Investment Management (bank department)",
+   "definition": "Issuer-labelled 'total Assets Under Management of approximately KWD 715 million (USD 2.34 billion)', covering both discretionary mandates and funds (PFMD) and non-discretionary and custody services (FSD). Not a discretionary-only AUM.",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.47 (report p.46)",
+   "note": "Rounded. The figure equals the 31 Dec 2025 fiduciary-assets note (KWD 714,979k, S3), so it appears to share the fiduciary perimeter. The report also cites +~33% YoY."
+  },
+  {
+   "metric": "fiduciary_assets",
+   "value": 860450,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "'Assets held in a trust or fiduciary capacity' (off balance sheet; note 18). Not labelled AUM by the issuer.",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.28 (note 18)",
+   "note": "31 Dec 2025: KWD 714,979k; 30 Jun 2025: KWD 620,946k. Management fees from these assets were KWD 1,666k in H1 2026."
+  },
+  {
+   "metric": "branches",
+   "value": 21,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "point_in_time",
+   "scope": "Bank (Kuwait)",
+   "definition": "Total number of branches after opening Shamiya and Saad Al-Abdullah in 2025",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.50",
+   "note": "An International Finance article of 4 Sep 2026 says 20 branches (S9)."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "No issuer-labelled AUM for 30 Jun 2026: the H1 2026 statements give only fiduciary assets (S3), and the H1 2026 results release was not found. The latest labelled AUM is ~KWD 715m at 31 Dec 2025 (S4)."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "FY2025 annual report (S4), H1 2026 statements (S3), official pages (S1, S6, S7)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "Private and Royal Banking pages (S6, S7); FY2025 annual report retail section (S4)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "Investment Management pages (S5); the digital trading platform is marked 'Coming Soon'."
+  }
+ ],
+ "people": [
+  {
+   "name": "Hamad Musaed Al-Sayer",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Board of Directors",
+   "scope": "Bank",
+   "appointed": "2022-03",
+   "appointed_note": "Board Vice-Chairman from 2019; Chairman since March 2022.",
+   "previous_roles": "Board Member, Kuwait Chamber of Commerce and Industry (since Mar 2022); CEO, One Franchising Holding Company (since Jul 2021); CEO, Al-Sayer Franchising General Trading and Contracting (2003-2021); corporate finance, National Bank of Kuwait (1998-2003); past chair/board roles at Al-Dhow Investment, United Securities Brokerage (Egypt), Al-Roeya Securities (Oman), FIMBank (Malta) (FY2025 annual report).",
+   "education": "Bachelor's in Finance, Seattle University (1997); MBA, Maastricht University (2006)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed as Chairman on official About page fetched 2026-10-12 (S1); signed H1 2026 statements as Chairman (S3).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Shaheen Hamad Al-Ghanem",
+   "name_ar": null,
+   "title": "Chief Executive Officer",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Executive Management",
+   "scope": "Bank",
+   "appointed": "2016",
+   "appointed_note": "Joined Warba in March 2014 as Deputy CEO for Investment and Treasury; CEO since 2016 (FY2025 annual report).",
+   "previous_roles": "Kuwait Finance House 2001-2014 (General Manager International Banking Department 2012; Acting Chief Investment Officer 2013); Assistant CFO, The International Investor Company (1999); oil sector 1988-1999 (FY2025 annual report).",
+   "education": "MBA, Maastricht University; Bachelor's in Accounting, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official About page (Executive Management tab), fetched 2026-10-12 (S1); signed H1 2026 statements as CEO (S3). LinkedIn search returned no profile.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Anwar Bader Al Ghaith",
+   "name_ar": null,
+   "title": "Deputy CEO of Digital Transformation & Operations",
+   "functions": [
+    "Deputy CEO",
+    "Digital",
+    "Operations"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Executive Management",
+   "scope": "Bank",
+   "appointed": "2026-04",
+   "appointed_note": "Named to this role in an April 2026 restructuring, pending regulatory approvals at the time (press release of 12 Apr 2026, seen in search results only). Joined Warba in October 2020. The FY2025 annual report titled him Deputy CEO, Support Services & Treasury.",
+   "previous_roles": "Central Bank of Kuwait: Executive Director Organization & Administration, Executive Director IT & Banking Operations, Acting Head Foreign Operations; Head of Operations Division, Gulf Investment Corporation (2015); Kuwait Finance House 2001-2014 (Operations Department Manager 2005, COO 2011-2014); the annual report says he 'assumed the role of Acting Chief Executive Officer' in 2014; tax inspector, Ministry of Finance (1997) (FY2025 annual report).",
+   "education": "Bachelor's in Accounting, Kuwait University; Leadership Development Program, Harvard Business School (2007)",
+   "qualifications": "Certified Islamic Banker (AAOIFI, 2012); licensed external auditor (Ministry of Commerce, Kuwait)",
+   "linkedin_url": "https://kw.linkedin.com/in/anwar-alghaith-790844a2",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official About page (Executive Management tab), fetched 2026-10-12 (S1); quoted with this title on 4 Sep 2026 about the Bdr AI launch (S9). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence. (The original matched identity by corroboration; the profile itself says 'Private sector'.)",
+   "source_ids": [
+    "S1",
+    "S9",
+    "S10",
+    "S4",
+    "S13"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmad Faisal Al Qatami",
+   "name_ar": null,
+   "title": "Chief Retail Banking Officer",
+   "functions": [
+    "Retail",
+    "Affluent",
+    "Private banking"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Retail Banking Group",
+   "scope": "Bank",
+   "appointed": "2023-02",
+   "appointed_note": "Joined Warba in February 2023 in this role.",
+   "previous_roles": "Dimah Capital Investment, SVP then EVP client relations (from Jan 2016); Boubyan Bank, Manager Private Banking, then Acting Head of the Private Banking Department (from 2010); Kuwait Finance House private banking and banking roles (from 2001) (FY2025 annual report). The Retail Banking section of the annual report covers Private and Royal Banking product marketing.",
+   "education": "Bachelor's in Business Administration (General Management), Portland State University",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/ahmad-al-qatami-2202b780",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official About page (Executive Management tab), fetched 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Naser Maher Al Mutawaa",
+   "name_ar": null,
+   "title": "Chief Digital Officer",
+   "functions": [
+    "Digital"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Digital Group",
+   "scope": "Bank",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Assistant Undersecretary for Technical Support Affairs, Ministry of Commerce and Industry (digital services incl. 'Sahel' app); Senior Manager Digital Services, Gulf Bank; Senior Analyst, Zain Kuwait (FY2025 annual report).",
+   "education": "Bachelor's in Management Information Systems, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official About page (Executive Management tab), fetched 2026-10-12 (S1); FY2025 annual report. LinkedIn search returned no profile.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Yusuf Chorghay",
+   "name_ar": null,
+   "title": "Acting Chief Investment Banking Officer",
+   "functions": [
+    "Investments / asset management",
+    "Corporate / wholesale"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Investment Banking / Warba Asset Management",
+   "scope": "Bank",
+   "appointed": "2026-07-06",
+   "appointed_note": "Original workbook: acting appointment effective 6 Jul 2026 (not re-verified). An IFN Investor item of 15 Apr 2026 is described in search results as naming him chief investment banking officer.",
+   "previous_roles": "Joined Warba in 2014 and helped set up the International Banking division (structured finance & syndication, DCM, financial institutions); earlier Kuwait Finance House, Ahli United Bank and KPMG (official bio).",
+   "education": null,
+   "qualifications": "Chartered Accountant (India); Islamic finance qualification, Chartered Institute for Securities & Investment (CISI)",
+   "linkedin_url": "https://kw.linkedin.com/in/yusuf-chorghay-12744033",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Listed as 'Acting Chief Investment Banking Officer' on the official About page (S1) and at the top of the Investment Management 'Who We Are' (Warba Asset Management) page (S2), both fetched 2026-10-12. LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S11",
+    "S19"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Sabry Eissa",
+   "name_ar": null,
+   "title": "Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Finance",
+   "scope": "Bank",
+   "appointed": "2022",
+   "appointed_note": "Joined Warba in 2022 as CFO.",
+   "previous_roles": "About 26 years in audit and consulting with large international audit firms, from 1999, reaching Audit Principal; Islamic bank audit and internal control (FY2025 annual report).",
+   "education": "Bachelor's in Accounting, Ain Shams University",
+   "qualifications": "CPA (California Board of Accountancy); ACCA Certificate in IPSAS",
+   "linkedin_url": "https://kw.linkedin.com/in/mohamed-sabry-eissa-cpa-acca-certipsas-b6449649",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official About page (Executive Management tab), fetched 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S14"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hamad Fouzan Al-Fouzan",
+   "name_ar": null,
+   "title": "Chief Strategic Planning Officer",
+   "functions": [
+    "Strategy",
+    "Innovation / partnerships"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Strategic Planning",
+   "scope": "Bank",
+   "appointed": "2021-05",
+   "appointed_note": "Joined Warba in May 2021; reports to the Chairman of the Board (FY2025 annual report).",
+   "previous_roles": "Previously AGM - Head of Innovation and Partnerships reporting to the CEO, contributing to projects such as the UK's Nomo digital bank under BLME; earlier Executive Manager IT Systems Management; banking career from 2006 after telecoms (2005) (FY2025 annual report).",
+   "education": "MBA, Imperial College London; Bachelor's in Information Science, University of Arkansas",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/hamad-alfouzan-815603121",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official About page (Executive Management tab), fetched 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S17"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faisal Abdulrazaq Al-Nassar",
+   "name_ar": null,
+   "title": "Chief Corporate Banking Officer",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Corporate Banking Group",
+   "scope": "Bank",
+   "appointed": "2021",
+   "appointed_note": "Joined Warba 2012; Head of Corporate Banking Group from 2021 (FY2025 annual report).",
+   "previous_roles": "Senior Manager Corporate Banking, Boubyan Bank (2010); VP Treasury & Corporate Finance, A'ayan Leasing and Investment (2005); Bank of Kuwait and the Middle East (1999-2005) (FY2025 annual report).",
+   "education": "Bachelor's in Economics, University of Colorado (1998); Leadership and Management Certificate, Wharton (2022)",
+   "qualifications": "Credit Management certificate, Institute of Banking Studies (1999)",
+   "linkedin_url": "https://kw.linkedin.com/in/faisal-alnassar-79795632",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official About page (Executive Management tab), fetched 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S15"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Mahmoud Allanqawi",
+   "name_ar": null,
+   "title": "Chief Treasury Officer",
+   "functions": [
+    "Treasury"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Treasury Group",
+   "scope": "Bank",
+   "appointed": "2022-07",
+   "appointed_note": "Joined Warba July 2022 as Head of Treasury Group (FY2025 annual report).",
+   "previous_roles": "Treasury career from 2006, reaching General Manager of Treasury in 2019 before Warba; ALM, investments, treasury sales incl. structured products and derivatives (FY2025 annual report).",
+   "education": "MBA, Maastricht Business School; BA Business Administration, Kuwait University",
+   "qualifications": "Certificate in Investment Management and Investment Strategies & Portfolio Management (Wharton); ACI trading certificate",
+   "linkedin_url": "https://kw.linkedin.com/in/abdullah-al-lanqawy-mba-61600b53",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official About page (Executive Management tab), fetched 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S18"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Walid Achour",
+   "name_ar": null,
+   "title": "Head - Portfolio & Fund Management",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Warba Investment Management - Portfolio & Fund Management",
+   "scope": "Bank",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Leads the team managing the bank's asset management activities; previously oversaw the bank's proprietary investments for five years; Investment Banking division, Arab Investment Company; Rasameel Structured Finance; research, KIPCO Asset Management Company; automotive engineer (Takata, Magna) (official bio).",
+   "education": "BSc Electrical Engineering and MBA, Lawrence Technological University",
+   "qualifications": "Professional certifications in investment banking, financial modelling and Islamic finance (not named)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official Investment Management 'Who We Are' page, fetched 2026-10-12 (S2).",
+   "source_ids": [
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ziad El-Khoury",
+   "name_ar": null,
+   "title": "Head - Fiduciary Services",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Warba Investment Management - Fiduciary Services",
+   "scope": "Bank",
+   "appointed": "2023-03",
+   "appointed_note": "Joined March 2023.",
+   "previous_roles": "Head of Investment Services, Gulf Bank (14 years); leadership position at Midclear Lebanon (3 years) (official bio). His bio refers to 'fiduciary services and online trading'.",
+   "education": "BSc Computer Science, Notre Dame University - Lebanon",
+   "qualifications": "Certified Valuation Analyst",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official Investment Management 'Who We Are' page, fetched 2026-10-12 (S2).",
+   "source_ids": [
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "George Abraham, CFA, CAIA",
+   "name_ar": null,
+   "title": "Head - Direct Investments Department",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Warba Investment Management - Direct Investments",
+   "scope": "Bank",
+   "appointed": "2020",
+   "appointed_note": "Joined Warba in 2020.",
+   "previous_roles": "Led KSK Capital (single-family office, Dubai); Kuwait Financial Centre (Corporate & Structured Finance; Acting Head of International Investments); Barclays Capital (EM credit, London); Goldman Sachs Asset Management (New York) (official bio).",
+   "education": "MSc Finance, London School of Economics; MSc Engineering, University of Pennsylvania",
+   "qualifications": "CFA charterholder; CAIA",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official Investment Management 'Who We Are' page, fetched 2026-10-12 (S2).",
+   "source_ids": [
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammad Jalal Uddin",
+   "name_ar": null,
+   "title": "Head - Real Estate Department",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Warba Investment Management - Real Estate",
+   "scope": "Bank",
+   "appointed": "2016",
+   "appointed_note": "Joined Warba in 2016.",
+   "previous_roles": "15 years at Kuwait Finance House incl. VP Global Real Estate Investment (KFH Capital) and VP International Real Estate Investments (KFH Real Estate) (official bio).",
+   "education": "Master's in Accounting, University of Dhaka",
+   "qualifications": "Fellow Cost and Management Accountant (FCMA)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official Investment Management 'Who We Are' page, fetched 2026-10-12 (S2).",
+   "source_ids": [
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ayman Ghandour",
+   "name_ar": null,
+   "title": "Head - Debt Capital Markets",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Warba Bank K.S.C.P.",
+   "business_unit": "Investment Banking - Debt Capital Markets",
+   "scope": "Bank",
+   "appointed": "2022-10",
+   "appointed_note": "Joined October 2022; also manages the bank's proprietary sukuk book.",
+   "previous_roles": "Fixed income portfolio management and brokerage roles at Optimum Invest, BLC Bank and First National Bank (official bio).",
+   "education": "Diploma (financial asset management), maitrise and bachelor's in Business Administration and Management, Universite Saint-Joseph, Beirut",
+   "qualifications": "CISI Islamic finance qualification; Bloomberg equity, fixed income and FX certificates",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official Investment Management 'Who We Are' page, fetched 2026-10-12 (S2).",
+   "source_ids": [
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Warba is a fully Islamic Kuwaiti bank. Its wealth offer is split between relationship segments and an in-house investment management unit. Royal Banking (upper affluent: KD 2,500 monthly salary or KD 100k-400k balance, dedicated branches) and Private Banking (dedicated RM, personalised investment solutions, Shariah-compliant money market funds) sit under personal banking. In 2025 the retail group marketed Shariah-compliant funds and sukuk to these clients. Warba Investment Management (Portfolio & Fund Management, Fiduciary Services, Real Estate, Direct Investments) offers open- and closed-ended funds (KWD/USD Islamic money market funds; a second series of its Islamic income fund, launched 2025, providing senior-secured financing to US/European mid-market companies; equipment leasing and real estate funds), discretionary and non-discretionary portfolio management and custody. It reported ~KWD 715m AUM at end-2025, which includes non-discretionary and custody assets, and fiduciary assets reached KWD 860.5m at 30 Jun 2026. A digital trading platform for local, regional and international markets is listed as 'Coming Soon'. The AI tools Warba Advisor (2024, recommendations incl. investments) and Bdr AI (in-app agentic assistant, Jul 2026) show a strong AI and digital push.",
+  "segments": [
+   {
+    "name": "Royal Banking",
+    "tier": "Upper affluent",
+    "eligibility": "Monthly salary KD 2,500 or more, or total account balance KD 100,000 to KD 400,000 (as published)",
+    "source_ids": [
+     "S7"
+    ]
+   },
+   {
+    "name": "Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "Not published on page checked (above the Royal Banking band by implication of the KD 400,000 cap; not stated)",
+    "source_ids": [
+     "S6",
+     "S7"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Sharia-compliant Private Banking with a dedicated relationship manager, 'exclusive access to personalized investment solutions', Shariah-compliant money market funds, World Elite debit and card benefits, and Al Wafi collateralised financing. Funds and sukuk were marketed to PB and Royal clients in 2025. No named head; it falls within the Retail Banking Group (Chief Retail Banking Officer Ahmad Al Qatami, a former acting head of private banking at Boubyan).",
+   "source_ids": [
+    "S6",
+    "S4"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Warba Investment Management / Warba Asset Management (bank department; Head of Portfolio & Fund Management Walid Achour). Funds: open-ended Islamic money market funds (KWD, USD); flagship Islamic income fund (2nd series launched 2025; private credit to US/European mid-market companies); equipment leasing and real estate funds. AUM ~KWD 715m (USD 2.34bn) at 31 Dec 2025 incl. non-discretionary and custody.",
+   "source_ids": [
+    "S4",
+    "S5",
+    "S2"
+   ]
+  },
+  "brokerage": {
+   "present": "Unclear",
+   "detail": "No brokerage subsidiary or licence found. Non-discretionary portfolio management executes client instructions with market access (CMA-regulated). A 'Trading Solutions (Coming Soon)' digital trading platform is announced. The fiduciary head's bio refers to online trading.",
+   "source_ids": [
+    "S5",
+    "S2"
+   ]
+  },
+  "digital_investing": {
+   "present": "No",
+   "detail": "As of 12 Oct 2026 the investment management page lists 'Trading Solutions (Coming Soon) - a digital trading platform providing clients with direct access to local, regional, and international markets'. The Warba mobile app's documented features are banking. Warba Advisor (2024) gives AI recommendations on accounts, cards, savings and investments; Bdr AI (Jul 2026) handles supported transactions.",
+   "source_ids": [
+    "S5",
+    "S9"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Private Banking 'personalized investment solutions' with expert guidance (S6); Warba Advisor AI service offering recommendations including investments (S9).",
+   "source_ids": [
+    "S6",
+    "S9"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "Discretionary portfolio management on agreed mandates under Kuwait CMA rules (Portfolio & Fund Management Department).",
+   "source_ids": [
+    "S5",
+    "S4"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No model portfolio or robo-advice product found; Warba Advisor is an AI recommendation tool, not a managed robo portfolio.",
+   "source_ids": [
+    "S5",
+    "S9"
+   ]
+  },
+  "funds_platform": {
+   "present": "Unclear",
+   "detail": "In-house funds are documented. The 2025 annual report says the bank 'marketed a range of investment funds and sukuk' to Private and Royal Banking clients without saying whether third-party funds were included. No fund platform provider named.",
+   "source_ids": [
+    "S4",
+    "S5"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "The 'structured products' page under investment banking covers corporate structured and securitisation finance, not investor products.",
+   "source_ids": [
+    "S20"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "Islamic income fund (senior-secured private credit, US/Europe mid-market), equipment leasing and real estate funds; real estate (local and international) and direct investment teams.",
+   "source_ids": [
+    "S4",
+    "S2"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Entire bank is Sharia-compliant: Islamic money market funds (KWD/USD), Islamic income fund, sukuk for PB/Royal clients, Shariah-compliant deposits.",
+   "source_ids": [
+    "S4",
+    "S6",
+    "S5"
+   ]
+  },
+  "asset_classes": [
+   "Mutual funds",
+   "Sukuk",
+   "Private markets / alternatives",
+   "Real estate funds"
+  ],
+  "partners": [
+   {
+    "partner": "11:FS",
+    "kind": "Digital consultancy",
+    "what": "UX/UI assessment benchmarking Warba's mobile app across Kuwait and the GCC (2025 annual report)",
+    "date": "2025",
+    "status": "Unclear",
+    "source_ids": [
+     "S4"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2025-04-08",
+    "what": "Acquired Warba Strategy Company (formerly Al Ghanem Trading), owner of 32.75% of Gulf Bank; signed an MoU with Gulf Bank and appointed advisers to study a merger into one Sharia-compliant bank (CBK acknowledgment 15 Jun 2025)",
+    "source_ids": [
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Launched second series of flagship Islamic income fund (private credit); marketed Shariah-compliant funds and sukuk to Private and Royal Banking clients; opened Shamiya and Saad Al-Abdullah branches (21 total) with a Royal section at Shamiya",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2026-04-12",
+    "what": "Management restructuring into two sectors: Treasury & Investment (Thuwaini Al-Thuwaini named Acting Deputy CEO) and Digital Transformation, Operations & Business Development (Anwar Al-Ghaith, Deputy CEO); pending regulatory approvals at the time",
+    "source_ids": [
+     "S10"
+    ]
+   },
+   {
+    "date": "2026-05-24",
+    "what": "Gulf Bank states Warba merger due diligence is 'nearing completion'",
+    "source_ids": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2026-07",
+    "what": "Launched Bdr AI, an agentic AI banking assistant in the Warba mobile app (Arabic incl. Kuwaiti dialect and English)",
+    "source_ids": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2026-10-12",
+    "what": "Investment Management page lists a digital 'Trading Solutions' platform for local, regional and international markets as 'Coming Soon' (date checked, not launch date)",
+    "source_ids": [
+     "S5"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "The investment-management page lists a digital trading platform with direct access to local, regional and international markets as 'Coming Soon' (S5). That is a live build-or-buy point for digital investing.",
+    "Fiduciary assets grew from KWD 620.9m (Jun 2025) to KWD 860.5m (Jun 2026) (S3), and AUM was up ~33% in 2025 (S4).",
+    "Strong AI push in client tools (Warba Advisor 2024 with investment recommendations; Bdr AI agentic assistant Jul 2026) under Deputy CEO Digital Transformation & Operations Anwar Al Ghaith (S9).",
+    "Royal (KD 100k-400k) and Private Banking segments are being offered funds and sukuk (S7, S4)."
+   ],
+   "barriers": [
+    "Islamic-only bank: every product and portfolio must be Shariah-compliant and approved by its Sharia Supervisory Board (S3 note 1).",
+    "A potential merger with Gulf Bank (32.75% owned; due diligence nearing completion in May 2026) may delay new vendor decisions or change the decision-maker (S3, S12).",
+    "An in-house investment management unit manufactures funds and runs mandates, so it may prefer its own products (S2, S5)."
+   ],
+   "incumbent_vendors": [
+    "No named wealth or trading technology vendor found. 11:FS ran a mobile-app UX assessment (S4)."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "About Warba - Our Team (Board of Directors, Executive Management, Sharia Board)",
+   "publisher": "Warba Bank",
+   "url": "https://www.warbabank.com/english/about",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Fetched by HTTP GET (WebFetch fails with a redirect loop on warbabank.com)."
+  },
+  {
+   "id": "S2",
+   "title": "Investment Management - Who We Are (Warba Asset Management team)",
+   "publisher": "Warba Bank",
+   "url": "https://www.warbabank.com/english/investment-management/who-we-are",
+   "doc_type": "Official team page with bios",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "Warba Bank K.S.C.P. interim condensed consolidated financial information (unaudited), 30 Jun 2026",
+   "publisher": "Warba Bank via Boursa Kuwait",
+   "url": "https://ifsahdocs.boursakuwait.com.kw/DiscAssets/2026_18131/EN%20FS.pdf",
+   "doc_type": "Reviewed interim financial statements (KPMG/EY review report 11 Aug 2026)",
+   "tier": 1,
+   "published": "2026-08-11",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Statement of financial position is scanned; read visually."
+  },
+  {
+   "id": "S4",
+   "title": "Warba Bank Annual Report 2025 (incl. audited consolidated financial statements)",
+   "publisher": "Warba Bank K.S.C.P.",
+   "url": "https://storage.warbabank.com/filesv2/Assets/Library/Gallery/Warba/Reports/Annual%20Reports/2025/Warba%20FINANCIAL%20Annual%20Report%20EN%202025%20Final%20Interactive.pdf",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "FY2025 statements approved at the AGM on 30 Mar 2026. Read with tools/pdftext.py; PDF pages cited."
+  },
+  {
+   "id": "S5",
+   "title": "Investment Management - What We Do",
+   "publisher": "Warba Bank",
+   "url": "https://www.warbabank.com/english/investment-management/what-we-do",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Private Banking",
+   "publisher": "Warba Bank",
+   "url": "https://www.warbabank.com/english/personal-banking/segments/private-banking",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Royal Banking",
+   "publisher": "Warba Bank",
+   "url": "https://www.warbabank.com/english/personal-banking/segments/royal-banking",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Warba Bank home page",
+   "publisher": "Warba Bank",
+   "url": "https://www.warbabank.com/",
+   "doc_type": "Official website (footer links company LinkedIn)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "Warba Bank launches agentic AI banking assistant Bdr AI in Kuwait",
+   "publisher": "International Finance",
+   "url": "https://internationalfinance.com/islamic-banking/warba-bank-launches-agentic-ai-banking-assistant-bdr-ai-in-kuwait-exclusive/",
+   "doc_type": "Trade news",
+   "tier": 5,
+   "published": "2026-09-04",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Warba Bank announces new management",
+   "publisher": "Albawaba (Warba Bank press release)",
+   "url": "https://www.albawaba.com/business/pr/warba-bank-announces-new-management-1625358",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-04-12",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page returned 403); date and content from search summaries."
+  },
+  {
+   "id": "S11",
+   "title": "Warba Bank appointments",
+   "publisher": "IFN Investor",
+   "url": "https://ifninvestor.com/warba-bank/",
+   "doc_type": "Trade news (paywalled)",
+   "tier": 5,
+   "published": "2026-04-15",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Page opened but the article is paywalled; a search summary says it names Yusuf Chorghay as chief investment banking officer and Thuwaini Khaled as acting deputy CEO of investment and treasury."
+  },
+  {
+   "id": "S12",
+   "title": "Faisal AlAdsani: Gulf Bank is preparing to operate in accordance with the principles of Sharia following the final approval of the Central Bank",
+   "publisher": "Gulf Bank",
+   "url": "https://e-gulfbank.com/en/about-us/media/press-releases/2026/05/faisal-aladsani-gulf-bank-is-preparing-to-operate-in-accordance-with-the-principles-of-sharia-following-the-final-approval-of-the-central-bank/",
+   "doc_type": "Official press release (Gulf Bank)",
+   "tier": 2,
+   "published": "2026-05-24",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "LinkedIn profile - Anwar Al Ghaith",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/anwar-alghaith-790844a2",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25. Original noted the profile says 'Private sector'; identity corroborated by education."
+  },
+  {
+   "id": "S14",
+   "title": "LinkedIn profile - Mohamed Sabry Eissa",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/mohamed-sabry-eissa-cpa-acca-certipsas-b6449649",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S15",
+   "title": "LinkedIn profile - Faisal Al-Nassar",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/faisal-alnassar-79795632",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S16",
+   "title": "LinkedIn profile - Ahmad Al Qatami",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/ahmad-al-qatami-2202b780",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S17",
+   "title": "LinkedIn profile - Hamad Al-Fouzan",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/hamad-alfouzan-815603121",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S18",
+   "title": "LinkedIn profile - Abdullah Allanqawi",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/abdullah-al-lanqawy-mba-61600b53",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S19",
+   "title": "LinkedIn profile - Yusuf Chorghay",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/yusuf-chorghay-12744033",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S21",
+   "title": "About Warba (Arabic)",
+   "publisher": "Warba Bank",
+   "url": "https://www.warbabank.com/arabic/about",
+   "doc_type": "Official website (Arabic; used for the Arabic name)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "ar"
+  },
+  {
+   "id": "S20",
+   "title": "Investment Banking - Structured Products",
+   "publisher": "Warba Bank",
+   "url": "https://www.warbabank.com/english/investment-banking/structured-products",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  }
+ ],
+ "original_reconciliation": [
+  {
+   "field": "Institution",
+   "original_value": "Warba Bank",
+   "finding": "Confirmed",
+   "new_value": "Warba Bank K.S.C.P.",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Country",
+   "original_value": "Kuwait",
+   "finding": "Confirmed",
+   "new_value": "KW",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Institution type",
+   "original_value": "Listed Islamic commercial bank",
+   "finding": "Confirmed",
+   "new_value": "Islamic commercial bank; Boursa Kuwait-listed",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (bn) [formula -> 'WARBA::Total assets']",
+   "original_value": "6,188,481 KWD thousand",
+   "finding": "Confirmed",
+   "new_value": "KWD 6,188,481k at 30 Jun 2026 (PDF p.3)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Currency",
+   "original_value": "KWD",
+   "finding": "Confirmed",
+   "new_value": "KWD",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets as of",
+   "original_value": "2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "2026-06-30 (Q3 2026 not found as of 12 Oct 2026)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Deposits (bn) [formula -> 'WARBA::Customer deposits']",
+   "original_value": "3,589,839 KWD thousand",
+   "finding": "Confirmed",
+   "new_value": "KWD 3,589,839k depositors' accounts at 30 Jun 2026",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Deposits as of",
+   "original_value": "2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "2026-06-30",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Deposit measure",
+   "original_value": "Depositors' accounts; excludes banks and financial institutions",
+   "finding": "Confirmed",
+   "new_value": "Depositors' accounts; excludes due to banks and other FIs (KWD 1,357,145k) and sukuk issued",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Chief executive",
+   "original_value": "Shaheen Hamad Al-Ghanem",
+   "finding": "Confirmed",
+   "new_value": "Shaheen Hamad Al-Ghanem, CEO since 2016",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Wealth / investment arm",
+   "original_value": "Warba Investment Management; Private Banking",
+   "finding": "Confirmed",
+   "new_value": "Warba Investment Management (department; website also calls it Warba Asset Management) plus Private and Royal Banking segments",
+   "source_ids": [
+    "S2",
+    "S6",
+    "S7",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Business focus",
+   "original_value": "Islamic retail, corporate, treasury and investment banking; portfolio and fund management, real estate, direct investments and fiduciary services.",
+   "finding": "Updated",
+   "new_value": "Confirmed; add the 32.75% Gulf Bank stake (associate) and the potential merger.",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Ownership",
+   "original_value": "Kuwaiti public shareholding company listed on Boursa Kuwait. Current shareholder percentages not refreshed.",
+   "finding": "Confirmed",
+   "new_value": "Confirmed; percentages still not found (IR factsheet is dynamic). KIA appoints at least one board member.",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Research coverage",
+   "original_value": "Public profile and management researched",
+   "finding": "Updated",
+   "new_value": "Re-researched 2026-10-12 (batch B25).",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Last prior research",
+   "original_value": null,
+   "finding": "Updated",
+   "new_value": "2026-10-12 (B25)",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Relationship / opportunity",
+   "original_value": "Added at user request, 8 October 2026",
+   "finding": "Could not verify",
+   "new_value": "Internal note - not publicly verifiable.",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Website",
+   "original_value": "https://www.warbabank.com/",
+   "finding": "Confirmed",
+   "new_value": "https://www.warbabank.com",
+   "source_ids": [
+    "S8"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Company LinkedIn",
+   "original_value": "https://www.linkedin.com/company/warba-bank",
+   "finding": "Confirmed",
+   "new_value": "Linked from the official website footer",
+   "source_ids": [
+    "S8"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Gaps / important distinctions: fiduciary vs AUM",
+   "original_value": "June 2026 fiduciary assets are not labelled discretionary AUM. Latest explicitly labelled AUM is December 2025 and includes non-discretionary and custody services.",
+   "finding": "Confirmed",
+   "new_value": "Kept the distinction: fiduciary_assets KWD 860,450k (30 Jun 2026) recorded separately; AUM ~KWD 715m (31 Dec 2025) incl. non-discretionary and custody. The 31 Dec 2025 fiduciary figure (KWD 714,979k) matches the AUM figure.",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Gaps / important distinctions: private-banking head",
+   "original_value": "No separately named current private-banking head verified.",
+   "finding": "Confirmed",
+   "new_value": "Still none named; PB sits within the Retail Banking Group.",
+   "source_ids": [
+    "S1",
+    "S6"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Gaps / important distinctions: head office",
+   "original_value": "Head office: Al-Raya Tower, Kuwait.",
+   "finding": "Confirmed",
+   "new_value": "Al-Raya Tower, Omar Ibn Al-Khattab Street, Kuwait City (FS note 1)",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Source references (Research notes)",
+   "original_value": "S098-S102",
+   "finding": "Updated",
+   "new_value": "Replaced by field-level sources in this file.",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Prior research source",
+   "original_value": null,
+   "finding": "Confirmed",
+   "new_value": "None",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (USD bn) / Deposits (USD bn) [formulas]",
+   "original_value": "Workbook USD conversion",
+   "finding": "Confirmed",
+   "new_value": "KWD values confirmed; conversion central.",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "AUM / AUA (USD bn) [formula -> 'WARBA::Investment management AUM']",
+   "original_value": "715 KWD million (incl. custody)",
+   "finding": "Confirmed",
+   "new_value": "~KWD 715m at 31 Dec 2025 (annual report p.46; issuer also gives USD 2.34bn)",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "AUM / AUA measure",
+   "original_value": "Investment management AUM incl. custody",
+   "finding": "Confirmed",
+   "new_value": "Issuer-labelled AUM covering discretionary, non-discretionary and custody services",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "AUM / AUA as of",
+   "original_value": "2025-12-31",
+   "finding": "Confirmed",
+   "new_value": "2025-12-31 (no labelled AUM found for 30 Jun 2026)",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Size metrics: WARBA::Total assets",
+   "original_value": "6,188,481 KWD thousand, 2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "6,188,481 (PDF p.3)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Size metrics: WARBA::Customer deposits",
+   "original_value": "3,589,839 KWD thousand, 2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "3,589,839 (PDF p.3)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Size metrics: WARBA::Fiduciary assets",
+   "original_value": "860,450 KWD thousand, 2026-06-30, note 18 p.27",
+   "finding": "Confirmed",
+   "new_value": "860,450 (note 18, PDF p.28)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Size metrics: WARBA::Investment management AUM",
+   "original_value": "715 KWD million, 2025-12-31, annual report p.46",
+   "finding": "Confirmed",
+   "new_value": "~715 KWD million (PDF p.47 / report p.46)",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Shaheen Hamad Al-Ghanem - Chief Executive Officer",
+   "original_value": "Verified current official role; LinkedIn not verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026; signed H1 2026 statements. LinkedIn still not verified.",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Anwar Bader Al Ghaith - Deputy CEO of Digital Transformation & Operations",
+   "original_value": "Verified; LinkedIn verified by corroboration",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026; quoted with this title 4 Sep 2026; appointed in the Apr 2026 restructuring (previously Deputy CEO Support Services & Treasury).",
+   "source_ids": [
+    "S1",
+    "S9",
+    "S10"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Mohamed Sabry Eissa - Chief Financial Officer",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S1",
+    "S14"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Faisal Abdulrazaq Al-Nassar - Chief Corporate Banking Officer",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S1",
+    "S15"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Ahmad Faisal Al Qatami - Chief Retail Banking Officer",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026; bio shows private banking background.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S16"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Hamad Fouzan Al-Fouzan - Chief Strategic Planning Officer",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S1",
+    "S17"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Abdullah Mahmoud Allanqawi - Chief Treasury Officer",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S1",
+    "S18"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Yusuf Chorghay - Acting Chief Investment Banking Officer",
+   "original_value": "Verified; acting appointment effective 6 Jul 2026; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "'Acting' title confirmed on two official pages 12 Oct 2026; effective date not re-verified.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S19"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Naser Maher Al Mutawaa - Chief Digital Officer",
+   "original_value": "Verified; LinkedIn not verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026; bio added.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Walid Achour - Head - Portfolio & Fund Management",
+   "original_value": "Verified (team page)",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Mohammad Jalal Uddin - Head - Real Estate Department",
+   "original_value": "Verified (team page)",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: George Abraham, CFA, CAIA - Head - Direct Investments Department",
+   "original_value": "Verified (team page)",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Ziad El-Khoury - Head - Fiduciary Services",
+   "original_value": "Verified (team page)",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Ayman Ghandour - Head - Debt Capital Markets",
+   "original_value": "Verified (team page)",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  }
+ ],
+ "discrepancies": [
+  {
+   "field": "FY2025 balance sheet",
+   "detail": "FY2025 annual report total assets KWD 6,028,206k vs KWD 6,027,046k (restated) in the H1 2026 statements, after finalising the purchase price allocation for the Gulf Bank stake (goodwill reduced by KWD 37,911k; brand and core-deposit intangibles recognised).",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "resolution": "Used the restated figure for 31 Dec 2025 and noted the original."
+  },
+  {
+   "field": "Deputy CEO, Investment & Treasury",
+   "detail": "An April 2026 press release (seen in search results only) named Thuwaini Khaled Al-Thuwaini Acting Deputy CEO for Investment and Treasury, pending approvals. The official Executive Management list fetched 12 Oct 2026 shows no Deputy CEO for Investment & Treasury and no Thuwaini; investment banking is led by Acting CIBO Yusuf Chorghay.",
+   "source_ids": [
+    "S10",
+    "S1"
+   ],
+   "resolution": "Thuwaini not recorded; check whether the appointment was approved or he left."
+  },
+  {
+   "field": "Branch count",
+   "detail": "FY2025 annual report: 21 branches; International Finance (4 Sep 2026): 20 branches.",
+   "source_ids": [
+    "S4",
+    "S9"
+   ],
+   "resolution": "Recorded 21 (issuer, FY2025)."
+  }
+ ],
+ "open_items": [
+  "Shareholder percentages (incl. KIA) not verified: the IR factsheet and company-profile pages load dynamically. Check Boursa Kuwait major-shareholder disclosures.",
+  "Boursa Kuwait ticker not confirmed from an official source (left null).",
+  "Status of Thuwaini Al-Thuwaini (Acting Deputy CEO Investment & Treasury, Apr 2026); he is not on the current official list.",
+  "Gulf Bank merger: no definitive agreement, valuation or swap ratio found as of 12 Oct 2026 (latest: due diligence nearing completion, 24 May 2026).",
+  "Launch date and vendor of the 'Trading Solutions (Coming Soon)' digital trading platform are unknown.",
+  "No issuer-labelled AUM for 30 Jun 2026; the H1 2026 results press release was not found.",
+  "Private Banking eligibility threshold is not published.",
+  "Q3 2026 results not found as of 12 Oct 2026.",
+  "LinkedIn: no profile found for CEO Shaheen Al-Ghanem or CDO Naser Al Mutawaa; investment-team heads were not checked.",
+  "warbabank.com blocks WebFetch (redirect loop) and the browser pane; the pages were read by plain HTTP GET."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B25",
+ "checked": "2026-10-12"
+}

@@ -1,0 +1,1442 @@
+{
+ "id": "kw-abk",
+ "name": "Al Ahli Bank of Kuwait",
+ "short_name": "ABK",
+ "legal_name": "Al Ahli Bank of Kuwait K.S.C.P.",
+ "name_ar": null,
+ "country": "KW",
+ "hq_city": "Kuwait City",
+ "website": "https://www.eahli.com",
+ "linkedin_company": null,
+ "category": "Bank",
+ "type": "Universal / commercial bank",
+ "model": "Conventional",
+ "founded": "1967 (established by the Behbehani family)",
+ "regulators": [
+  "CBK",
+  "CMA Kuwait (Ahli Capital; listed issuer)",
+  "DFSA (ABK DIFC branch, Category 1; ABK Wealth Management DIFC, Category 3C)",
+  "CBUAE (UAE branches)",
+  "Central Bank of Egypt (ABK-Egypt)"
+ ],
+ "listed": true,
+ "exchange": "Boursa Kuwait (Premier Market)",
+ "ticker": "ABK (Boursa Kuwait code 104, from Kamco and Boursa file names seen in search results)",
+ "parent_id": null,
+ "ownership_summary": "Listed on Boursa Kuwait. Per Boursa Kuwait data at 19 Jul 2026 (H1 2026 investor presentation): Public Institution for Social Security 11.7%, Behbehani Investment Co. 9.9%, Behbehani General Trading Co. 9.5%, Ali Morad Yousuf Behbehani 6.9%, Behbehani Financial Co. 5.0%, free float below 5% 57.1%. The four holders carrying the Behbehani name together hold 31.3% on these figures; the bank says it has retained the same core shareholder base since 1967.",
+ "shareholders": [
+  {
+   "holder": "Public Institution for Social Security (PIFSS)",
+   "pct": 11.7,
+   "as_of": "2026-07-19",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "holder": "Behbehani Investment Co.",
+   "pct": 9.9,
+   "as_of": "2026-07-19",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "holder": "Behbehani General Trading Co.",
+   "pct": 9.5,
+   "as_of": "2026-07-19",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "holder": "Ali Morad Yousuf Behbehani",
+   "pct": 6.9,
+   "as_of": "2026-07-19",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "holder": "Behbehani Financial Co.",
+   "pct": 5.0,
+   "as_of": "2026-07-19",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "holder": "Free float (each holder below 5%)",
+   "pct": 57.1,
+   "as_of": "2026-07-19",
+   "source_ids": [
+    "S6"
+   ]
+  }
+ ],
+ "government_link": "Partial - the Public Institution for Social Security (a Kuwaiti public institution) holds 11.7% (Boursa Kuwait data, 19 Jul 2026); no controlling government holding.",
+ "group_structure": "Subsidiaries (31 Dec 2025): Ahli Capital Investment Company K.S.C.(C) 99.8% (investment arm trading as ABK Wealth Management, with ABK Wealth Management DIFC / ABK Capital DIFC Ltd est. 2025); Al Ahli Bank of Kuwait - Egypt S.A.E. 98.7% (ABK-Egypt, acquired Nov 2015; 47 branches) with its Leasing (98.6%) and Investment (98.7%) companies; ABK Cayman Island Limited 100%. UAE operations are branches of the bank (Dubai, Abu Dhabi, DIFC). ABK Wealth Management and ABK-Egypt are not profiled separately, so their details are recorded here; ABK-Egypt is consolidated in the group figures.",
+ "subsidiaries": [
+  {
+   "name": "Ahli Capital Investment Company K.S.C. (Closed) - ABK Wealth Management",
+   "pct": 99.8,
+   "activity": "CMA-regulated investment arm: asset management, advisory, investment banking, brokerage; DIFC subsidiary ABK Wealth Management DIFC",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S10"
+   ]
+  },
+  {
+   "name": "Al Ahli Bank of Kuwait - Egypt S.A.E. (ABK-Egypt)",
+   "pct": 98.7,
+   "activity": "Commercial bank, Egypt (47 branches)",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S6"
+   ]
+  },
+  {
+   "name": "ABK Cayman Island Limited",
+   "pct": 100.0,
+   "activity": "Investment company (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "footprint": "Kuwait 26 branches and a digital branch ('Digital Island'), 126 ATMs (Jun 2026); UAE two full-service branches (Dubai, Abu Dhabi) and one DIFC offshore banking branch; Egypt 47 branches and 121 ATMs; 76 branches in total. Egypt and UAE contribute about 42% of operating income and 40% of assets.",
+ "customer_segments": "Mass retail and youth, Elite and Elite Plus (affluent), private banking / HNW and next-generation UHNW (ABK Wealth Management), Al Tajer (business), SME, corporate and multinational, oil sector, financial institutions.",
+ "business_lines": "Retail Banking (Elite packages, cards, loans, digital), Commercial and Corporate Banking (Corporate Banking and Structured Finance), International Banking, Treasury and Investment, ABK Wealth Management (private banking, asset management, advisory, brokerage, investment banking), ABK-Egypt and UAE operations.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 7271048,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'TOTAL ASSETS', interim condensed consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.4 (printed p.3); S6 p.27 (KD 7.27bn)",
+   "note": ""
+  },
+  {
+   "metric": "total_assets",
+   "value": 6925107,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'TOTAL ASSETS' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.4 comparative; S6 p.27",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 4334979,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'Customers' deposits'; excludes 'Due to banks and other financial institutions' (KD 1,196,222k) and 'Certificates of deposit' (KD 134,907k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.4; S6 p.27 (KD 4.33bn)",
+   "note": "Presentation says customer deposits KD 4.3bn and 66.9% of total liabilities."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 4071697,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'Customers' deposits' (audited); excludes certificates of deposit (KD 151,387k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.4 comparative",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 4923912,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'Loans and advances' on the statement of financial position (net of impairment provisions)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.4, note 4; S6 p.27 (KD 4.92bn)",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 4565690,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'Loans and advances' (audited, net)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.4 comparative",
+   "note": ""
+  },
+  {
+   "metric": "gross_loans",
+   "value": 5225,
+   "unit": "million",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "Gross loans by stage (Stage 1 KD 4,981m + Stage 2 KD 180m + Stage 3 KD 64m), investor presentation",
+   "status": "Verified",
+   "source_ids": [
+    "S6"
+   ],
+   "locator": "S6 p.29",
+   "note": "Rounded presentation figure (KD million); NPL ratio 1.25%."
+  },
+  {
+   "metric": "total_equity",
+   "value": 791288,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'TOTAL EQUITY' incl. Perpetual Tier 1 securities (KD 91,560k) and non-controlling interests (KD 2,166k); equity attributable to shareholders KD 697,562k",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.4",
+   "note": "31 Dec 2025: KD 774,583k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 221469,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'OPERATING INCOME', consolidated income statement",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.9",
+   "note": "FY2024: KD 200,750k. International operations (Egypt and UAE) contribute about 42% of operating income (S6 p.9)."
+  },
+  {
+   "metric": "operating_income",
+   "value": 119216,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'OPERATING INCOME', six months ended 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.5",
+   "note": "H1 2025: KD 108,826k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 62591,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "Net profit attributable to shareholders of the Bank (total net profit KD 62,970k)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.9",
+   "note": "FY2024: KD 52,414k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 37091,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "Net profit attributable to shareholders of the Bank, six months (total KD 37,286k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.5",
+   "note": "H1 2025: KD 31,732k (+17%)."
+  },
+  {
+   "metric": "net_fees_and_commissions",
+   "value": 19691,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated (bank, Ahli Capital, ABK-Egypt, ABK Cayman and UAE branches)",
+   "definition": "'Net fees and commission income', six months ended 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.5",
+   "note": "H1 2025: KD 21,288k."
+  },
+  {
+   "metric": "branches",
+   "value": 76,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "Total branches: 26 in Kuwait, 2 UAE full-service (Abu Dhabi, Dubai), 1 DIFC offshore banking branch and 47 in Egypt",
+   "status": "Verified",
+   "source_ids": [
+    "S6"
+   ],
+   "locator": "S6 p.6",
+   "note": ""
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 (S5), H1 2026 presentation (S6), H1 2026 call (S7: only growth rates - 'discretionary assets under management growing by approximately 30% year on year', client base about +50% - no amounts), ABK Wealth Management site (S9-S18)."
+  },
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "S5, S6, S7; FY2025 financial statements (S4) text search found no fiduciary/AUA balance."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "S5, S6, S7, S9, S17: no private-banking client-asset figure."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S5, S6, S7: no customer count (Customer Satisfaction Index 94% and NPS 68% only)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "S5, S7, S15: no brokerage or investor counts."
+  },
+  {
+   "metric": "employees",
+   "status": "Not found after research",
+   "where_checked": "S5, S6: workforce gender ratios only (37% female H1 2026), no headcount located."
+  }
+ ],
+ "people": [
+  {
+   "name": "Talal Mohamed Reza Behbehani",
+   "name_ar": null,
+   "title": "Chairman of the Board",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date elected Chairman not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Corporate Governance page checked 2026-10-12 (S1); signed the 30 Jun 2026 statements as Chairman (S3).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Salah Ahmed Al Serhan",
+   "name_ar": null,
+   "title": "Deputy Chairman",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Corporate Governance page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Giel-Jan M. Van Der Tol",
+   "name_ar": null,
+   "title": "Group Chief Executive Officer",
+   "functions": [
+    "Group CEO"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2025-07-01",
+   "appointed_note": "Appointed Group CEO effective 1 Jul 2025 after CBK approval, per search summary of S20/S21 (not opened). AR 2025 gives 2025 as year of appointment.",
+   "previous_roles": "Former CEO and Managing Director, Emirates NBD Egypt; Group Head Wholesale Banking, Emirates NBD; CEO, Dubai Bank; Managing Director, Tier One Capital (Netherlands); Corporate EVP, ABN AMRO; CEO and MD, Saudi Hollandi Bank. Non-executive director, Tamweel AlOula Finance (KSA) (S5).",
+   "education": "Master of International Management, Thunderbird School of Global Management; BBA, Nyenrode Business University; certificate in board directorship, GCC Board Directors Institute",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 bio (S5); signed the 30 Jun 2026 statements as Group CEO (S3); appointment reported in July 2025 (S20, S21, search results).",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S3",
+    "S20",
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulla M. Al Sumait",
+   "name_ar": null,
+   "title": "Deputy Group Chief Executive Officer",
+   "functions": [
+    "Deputy CEO"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined ABK in 2000 (S5); Deputy Group CEO since an unspecified date (search coverage says he was previously acting CEO, see discrepancies).",
+   "previous_roles": "Former General Manager Corporate Banking at ABK and at Gulf Bank; former Chairman, ABK Capital; former board member of KNET and Bank of Bahrain & Kuwait (S5).",
+   "education": "Bachelor of Economics, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 bio (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmad Al-Duwaisan",
+   "name_ar": null,
+   "title": "Acting Chief Executive Officer - Kuwait; General Manager, Corporate Banking",
+   "functions": [
+    "CEO",
+    "Corporate / wholesale"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Kuwait / Corporate Banking",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "Year of appointment at ABK: 2023 (S5); date of the acting Kuwait CEO role not found.",
+   "previous_roles": "Former General Manager Corporate Banking, Gulf Bank; former board member and Audit & Risk Committee chairman, KFIC; board member, KNET (S5).",
+   "education": "EMBA, American University of Beirut; BSc Mechanical Engineering, Northeastern University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 bio (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed AlQattan",
+   "name_ar": null,
+   "title": "Chief Consumer Officer",
+   "functions": [
+    "Retail",
+    "Affluent"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Consumer Banking",
+   "scope": "Kuwait",
+   "appointed": "2024",
+   "appointed_note": "Year of appointment at ABK: 2024 (S5).",
+   "previous_roles": "Former General Manager Consumer Banking, Gulf Bank; former PIFSS board member; former board member CINET and Oula Wasata (S5).",
+   "education": "MBA Strategic Management, Maastricht School of Management; Bachelor of Statistics and Operations Research, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 bio (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Johair Marafi",
+   "name_ar": null,
+   "title": "General Manager, Retail Banking",
+   "functions": [
+    "Retail"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Retail Banking",
+   "scope": "Kuwait",
+   "appointed": "2000",
+   "appointed_note": "Year of appointment at ABK: 2000 (S5).",
+   "previous_roles": "Former AGM Sales & Distribution, ABK; former board member ABK Capital and KNET (S5).",
+   "education": "Bachelor of Business Administration, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 bio (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dr. Abdulaziz Jawad",
+   "name_ar": null,
+   "title": "Chief Strategy Officer; Chairman, ABK Wealth Management",
+   "functions": [
+    "Strategy",
+    "Investments / asset management",
+    "Board"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Strategy / ABK Wealth Management (Ahli Capital)",
+   "scope": "Group",
+   "appointed": "2022",
+   "appointed_note": "Joined ABK in 2022 (S5); Chairman of ABK Wealth Management since 2024 (S10).",
+   "previous_roles": "Oversees group strategy, transformation and M&A; Chairman of ABK Wealth Management; former Executive Director Strategy & Business Development and Head of Corporate Finance, Zain Group; former CEO Zain Drone; board member Zain Iraq; earlier ABK Corporate Banking and Boubyan Bank credit risk (S5, S10).",
+   "education": "Doctorate in Business Studies, IE University; MBA, London Business School; BSc Finance and Computer Science, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": "https://www.linkedin.com/in/abdulazizjawad/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); Chairman of ABK Wealth Management since 2024 per S10; LinkedIn search result shows the name with ABK Wealth Management (snippet shows name and employer; title not displayed).",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S10",
+    "S22"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sherif ElRafie, CFA",
+   "name_ar": null,
+   "title": "Chief Executive Officer, ABK Wealth Management (Ahli Capital Investment Company)",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management",
+    "Wealth",
+    "Brokerage"
+   ],
+   "entity": "Ahli Capital Investment Company K.S.C.(C) (ABK Wealth Management)",
+   "business_unit": "ABK Wealth Management",
+   "scope": "Subsidiary",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": "20+ years in investment banking across the GCC, MENA and the US; executed transactions exceeding USD 12bn across capital markets, M&A, private placements and structured financing (S10).",
+   "education": "Bachelor's in Business Administration and MBA, University of Texas (USA)",
+   "qualifications": "CFA charterholder",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "ABK Wealth Management governance page checked 2026-10-12 (S10); quoted as CEO in the Barings partnership release of 24 Jun 2026 (S19).",
+   "source_ids": [
+    "S10",
+    "S19"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Rajesh George, CFA",
+   "name_ar": null,
+   "title": "Head of Asset Management, ABK Wealth Management",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Ahli Capital Investment Company K.S.C.(C) (ABK Wealth Management)",
+   "business_unit": "Asset Management",
+   "scope": "Subsidiary",
+   "appointed": "2016",
+   "appointed_note": "Joined ABK Wealth Management (then ABK Capital) in 2016 (S10).",
+   "previous_roles": "30+ years in asset management, alternatives and corporate finance; senior investment roles at Global Investment House (Kuwait) and Sun Life Financial (Canada) (S10).",
+   "education": "MBA Finance, Wilfrid Laurier University; Bachelor of Technology, University of Kerala",
+   "qualifications": "CFA charterholder",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "ABK Wealth Management governance page checked 2026-10-12 (S10); listed on the Ahli International Multi-Asset Holding Fund committee (S14).",
+   "source_ids": [
+    "S10",
+    "S14"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Rana Dernaika Jawhara",
+   "name_ar": null,
+   "title": "Chief Operating Officer, ABK Wealth Management",
+   "functions": [
+    "Operations",
+    "Digital"
+   ],
+   "entity": "Ahli Capital Investment Company K.S.C.(C) (ABK Wealth Management)",
+   "business_unit": "ABK Wealth Management",
+   "scope": "Subsidiary",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": "20+ years in asset management and investment banking across the GCC; led operations, digital transformation, middle office and real estate asset support; previously led teams managing assets above USD 15bn across asset management, brokerage, fund administration and client relationship management (S10).",
+   "education": "BSc Business with Computer Science emphasis, Lebanese American University",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/rana-dernaika-jawhara-3809a585",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "ABK Wealth Management governance page checked 2026-10-12 (S10); LinkedIn search result shows the name with ABK Capital (snippet shows name and employer only).",
+   "source_ids": [
+    "S10",
+    "S23"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Noura Abdulmohsen Alduweesh",
+   "name_ar": null,
+   "title": "General Manager, Treasury and Investment",
+   "functions": [
+    "Treasury",
+    "Investments / asset management"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Treasury and Investment",
+   "scope": "Group",
+   "appointed": "2021",
+   "appointed_note": "Year of appointment at ABK: 2021 (S5).",
+   "previous_roles": "Former Head of Treasury, HSBC Kuwait; member, Kuwait Forex Association (S5).",
+   "education": "MBA Strategic Management, Maastricht School of Management; Bachelor in English Literature, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 bio (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Khalil Al Qattan",
+   "name_ar": null,
+   "title": "Chief Digital Transformation and Innovation Officer",
+   "functions": [
+    "Digital",
+    "Innovation / partnerships"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Digital Transformation and Innovation",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1). Not in the AR 2025 executive bios, so appears to be a newer role.",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Shahzad Anjum",
+   "name_ar": null,
+   "title": "Chief Technology & Transformation Officer",
+   "functions": [
+    "Technology",
+    "Digital"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Technology & Transformation",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1). Not in the AR 2025 executive bios, so appears to be a newer role.",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Shiamak Soonawalla",
+   "name_ar": null,
+   "title": "Group Chief Finance Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "Group Finance",
+   "scope": "Group",
+   "appointed": "2004",
+   "appointed_note": "Year of appointment at ABK: 2004 (S5).",
+   "previous_roles": "Former board member ABK-Egypt; earlier Ernst & Young (Saudi Arabia, Kuwait) and National Commercial Bank (S5).",
+   "education": "Bachelor of Commerce, University of Bombay",
+   "qualifications": "Chartered Accountant (India)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 bio (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Omar Wahby",
+   "name_ar": null,
+   "title": "Chief Executive Officer - UAE",
+   "functions": [
+    "Subsidiary CEO"
+   ],
+   "entity": "Al Ahli Bank of Kuwait K.S.C.P.",
+   "business_unit": "UAE branches (Dubai, Abu Dhabi, DIFC)",
+   "scope": "UAE",
+   "appointed": "2021",
+   "appointed_note": "Year of appointment at ABK: 2021 (S5).",
+   "previous_roles": "Former Deputy CEO International Banking Group, National Bank of Kuwait; former board member NBK-Egypt; Citibank UAE; BNP Paribas Egypt (S5).",
+   "education": "MBA, Boston University; Bachelor of Communication and Electronics, Cairo University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 bio (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Khaled El Salawy",
+   "name_ar": null,
+   "title": "Chief Executive Officer and Managing Director, ABK-Egypt",
+   "functions": [
+    "Subsidiary CEO"
+   ],
+   "entity": "Al Ahli Bank of Kuwait - Egypt S.A.E.",
+   "business_unit": "ABK-Egypt",
+   "scope": "Subsidiary (Egypt)",
+   "appointed": "2016",
+   "appointed_note": "Year of appointment at ABK: 2016 (S5).",
+   "previous_roles": "Former Group Deputy CEO (corporate banking, treasury and investment, SMEs, financial institutions), Union National Bank; former head of corporate banking and SMEs, Bank of Alexandria / Intesa Sanpaolo (S5).",
+   "education": "Bachelor of Economics, American University in Cairo",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 bio (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "ABK has made wealth an explicit growth pillar: in 2025 it merged Private Banking with its CMA-licensed investment arm Ahli Capital Investment Company (99.8% owned, est. 2006) into ABK Wealth Management, chaired by the Chief Strategy Officer and run by CEO Sherif ElRafie, and set up ABK Wealth Management DIFC (DFSA Category 3C). Offers include discretionary portfolios (Conservative, Moderate, Growth by target volatility), a fund range (Al Ahli Kuwaiti Fund, Al Ahli Gulf Fund, KD and USD money market funds, and the BlackRock-sub-managed Ahli International Multi-Asset Holding Fund), private markets (infrastructure and private equity solutions launched 2025; Barings KD-denominated private credit, June 2026; partnerships with BlackRock and Blackstone), investment advisory, investment banking and the ABK Wealth Trade brokerage covering Kuwait, GCC, Egypt and US markets. ABK says its wealth client base grew about 50% and discretionary AUM about 30% year on year at H1 2026 but publishes no AUM amount. A flagship 'Digital Investment Access Platform' was in development per AR 2025, and a new group strategy is being finalised as the five-year plan to 2026 ends.",
+  "segments": [
+   {
+    "name": "Elite and Elite Plus packages",
+    "tier": "Affluent",
+    "eligibility": "Elite Banking packages exist on the retail site; eligibility thresholds not found (page content is loaded dynamically).",
+    "source_ids": [
+     "S25"
+    ]
+   },
+   {
+    "name": "ABK Wealth Management - Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "HNW individuals; no published threshold. Dedicated branches, relationship manager, preferential deposit/loan rates, private credit card, family banking packages, invite-only events.",
+    "source_ids": [
+     "S17"
+    ]
+   },
+   {
+    "name": "ABK Wealth Management NexGen",
+    "tier": "HNW / UHNW next generation",
+    "eligibility": "Next-generation HNW and UHNW clients (first NexGen programme: Geneva trip, 2025); no threshold stated.",
+    "source_ids": [
+     "S5"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Private Banking is delivered by the bank and branded ABK Wealth Management since 2025: dedicated branches, committed relationship manager, preferential rates, loans against multiple asset types, UAE mortgage, private credit card, family banking packages, concierge and invite-only events. Ahli Capital itself provides no banking services (disclaimer on S17). Private banking rebranded from 'Private Banking' with ABK Capital in 2025 (AR 2025).",
+   "source_ids": [
+    "S17",
+    "S5"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Ahli Capital Investment Company K.S.C.(C) (99.8% ABK, est. 2006, CMA-regulated) trading as ABK Wealth Management: funds, discretionary portfolios, private credit, private equity, real estate, leasing and asset-backed finance. Funds: Al Ahli Kuwaiti Fund (Feb 2003), Al Ahli Gulf Fund (Aug 2003; SICO Bahrain sub-manager for non-Kuwait allocation), Ahli Capital KD Money Market Fund, Ahli Capital USD Money Market Fund (subscription period extended Feb and Apr 2026), Ahli International Multi-Asset Holding Fund (Nov 2018). ABK Wealth Management DIFC (DFSA Category 3C): managing assets, arranging deals, advising, custody. AUM amount not disclosed.",
+   "source_ids": [
+    "S12",
+    "S13",
+    "S14",
+    "S16",
+    "S9",
+    "S4"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "ABK Wealth Trade: one account for Kuwait, GCC, Egypt and US markets; stocks, ETFs and bonds/sukuk; online platform (phone, desktop), direct broker access; iOS and Android apps; account funding through ABK Mobile Banking. The platform login is hosted at abk.globaltradingnetwork.com (vendor inferred from the domain). Online brokerage platform rolled out in 2025 (AR 2025).",
+   "source_ids": [
+    "S15",
+    "S9",
+    "S5"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "ABK Wealth Trade app and client portal; funding of brokerage accounts through ABK Mobile Banking; 'Digital Investment Access Platform' (single digital gateway to all investment offerings) was being built in 2025 (AR 2025); new ABK mobile app serves Mass, Elite and Private segments (4.7 app-store rating).",
+   "source_ids": [
+    "S15",
+    "S9",
+    "S5"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Investment advisory for HNW individuals, affluent retail clients and corporates; investment banking team advised on the bank's Tier 2 issuance and a Markaz bond in 2025.",
+   "source_ids": [
+    "S18",
+    "S5"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "Ahli Capital offers 'tailored discretionary portfolio management' (public markets multi-asset income portfolios with Conservative 5-8%, Moderate 5-10% and Growth above 10% target volatility; private markets). Discretionary AUM grew about 30% year on year at H1 2026 (no amount).",
+   "source_ids": [
+    "S11",
+    "S7"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Yes",
+   "detail": "Model and custom portfolios by volatility band under discretionary management (S11); no retail robo-advisor found.",
+   "source_ids": [
+    "S11"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Own and third-party-managed funds: BlackRock Investment Management (UK) sub-manages the Ahli International Multi-Asset Holding Fund (fund of funds, KD 500 minimum, 1.35% management fee, monthly dealing); SICO sub-manages the non-Kuwait allocation of Al Ahli Gulf Fund; partnerships with Barings and Blackstone. Platform provider not named.",
+   "source_ids": [
+    "S14",
+    "S13",
+    "S19",
+    "S5"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "'Structured Products' is listed under ABK Wealth Management's products and services on its homepage; no detail page was read, and the bank's AR also cites access to 'structured solutions'.",
+   "source_ids": [
+    "S9",
+    "S5"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "New infrastructure and private equity investment solutions launched in 2025; Barings partnership for KD-denominated global private credit (24 Jun 2026); private credit, private equity, real estate, leasing and asset-backed finance offered through Ahli Capital.",
+   "source_ids": [
+    "S5",
+    "S19",
+    "S12",
+    "S11"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Not found after research",
+   "detail": "ABK is a conventional bank; no Shariah-compliant funds or portfolios found on the wealth pages read.",
+   "source_ids": [
+    "S9",
+    "S12",
+    "S13"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "US/international equities",
+   "ETFs",
+   "Mutual funds",
+   "Bonds",
+   "Sukuk",
+   "Structured products",
+   "Private markets / alternatives",
+   "Real estate funds"
+  ],
+  "partners": [
+   {
+    "partner": "BlackRock",
+    "kind": "Fund sub-manager / strategic partner",
+    "what": "BlackRock Investment Management (UK) sub-manages the Ahli International Multi-Asset Holding Fund; named strategic partner with Blackstone in AR 2025",
+    "date": "2018-11",
+    "status": "Live",
+    "source_ids": [
+     "S14",
+     "S5"
+    ]
+   },
+   {
+    "partner": "Blackstone",
+    "kind": "Product partner - alternatives",
+    "what": "Strategic partnership cited for ABK Wealth Management and DIFC platform (AR 2025)",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "partner": "Barings",
+    "kind": "Product partner - private credit",
+    "what": "KD-denominated global private credit solutions for Kuwaiti investors",
+    "date": "2026-06-24",
+    "status": "Announced",
+    "source_ids": [
+     "S19",
+     "S7"
+    ]
+   },
+   {
+    "partner": "SICO (Bahrain)",
+    "kind": "Fund sub-manager",
+    "what": "Sub-investment manager for the non-Kuwait allocation of Al Ahli Gulf Fund",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "partner": "Gulf Custody Company",
+    "kind": "Custody and investment control",
+    "what": "Custodian and investment controller of the Ahli International Multi-Asset Holding Fund",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S14"
+    ]
+   },
+   {
+    "partner": "Global Trading Network (login domain)",
+    "kind": "Brokerage trading platform (inferred)",
+    "what": "ABK Wealth Trade login is hosted at abk.globaltradingnetwork.com; relationship inferred from the domain only",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S9"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2025",
+    "what": "Launched ABK Wealth Management by merging Private Banking and ABK Capital (Ahli Capital); established ABK Capital DIFC (DFSA Category 3C); launched infrastructure and private equity solutions; rolled out online brokerage; started the Digital Investment Access Platform; first NexGen client programme (Geneva).",
+    "source_ids": [
+     "S5",
+     "S6",
+     "S16"
+    ]
+   },
+   {
+    "date": "2025-07-01",
+    "what": "Giel-Jan Van Der Tol became Group CEO (appointment reported July 2025).",
+    "source_ids": [
+     "S20",
+     "S21",
+     "S5"
+    ]
+   },
+   {
+    "date": "2025-12",
+    "what": "Issued KD 30 million Tier II bond, significantly oversubscribed.",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2026-02-02",
+    "what": "Initial subscription period for the Ahli Capital USD Money Market Fund extended; closing date later moved again on 27 Apr 2026.",
+    "source_ids": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2026-06-24",
+    "what": "ABK Wealth Management partnership with Barings for KD-denominated global private credit.",
+    "source_ids": [
+     "S19"
+    ]
+   },
+   {
+    "date": "2026-06",
+    "what": "CBK approved upsizing ABK's certificate-of-deposit programme from USD 500 million to USD 1.5 billion.",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2026-07-29",
+    "what": "H1 2026 results approved; management says it is finalising a new strategy and will strengthen retail, corporate and wealth propositions, digital banking, Open Banking and AI.",
+    "source_ids": [
+     "S8",
+     "S7",
+     "S2"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Wealth is a stated priority: Kuwait strategy to 'scale franchise in retail, private banking, and commercial banking' (S6 p.16); ABK Wealth Management launched 2025; retail growth directed at affluent, HNW and youth (S5 p.15).",
+    "Flagship 'Digital Investment Access Platform', a single gateway to all investment offerings, was being built in 2025 with no vendor named (S5 p.31).",
+    "Wealth momentum with no amounts disclosed: client base up about 50% and discretionary AUM up about 30% year on year (S7 p.7); new strategy cycle being finalised and digital CAPEX, Open Banking and AI cited (S7 p.8).",
+    "Affluent tier (Elite / Elite Plus packages) shows no investing proposition on the retail pages read; model portfolios are offered only through Ahli Capital's discretionary service (S11)."
+   ],
+   "barriers": [
+    "Established in-house asset manager (Ahli Capital) with named global partners: BlackRock, Blackstone, Barings and SICO (S5, S13, S19).",
+    "Brokerage already runs on a dedicated platform (domain suggests Global Trading Network) and Digital Investment Access Platform work is under way (S9, S5).",
+    "Conventional-only bank: no Islamic wealth shelf found (S9, S13).",
+    "Group in leadership transition: new Group CEO from July 2025 and a Kuwait CEO still acting (S1, S5)."
+   ],
+   "incumbent_vendors": [
+    "BlackRock - sub-manager of Ahli International Multi-Asset Holding Fund (S14)",
+    "Global Trading Network - brokerage platform, inferred from login domain (S9)",
+    "Gulf Custody Company - custodian and investment controller for the multi-asset fund (S14)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Corporate Governance (Board of Directors and Executive Management)",
+   "publisher": "Al Ahli Bank of Kuwait",
+   "url": "https://abk.eahli.com/en/abk-group/corporate-governance/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Investor Relations (annual reports, financials, presentations, transcripts, Boursa disclosures)",
+   "publisher": "Al Ahli Bank of Kuwait",
+   "url": "https://abk.eahli.com/en/abk-group/ir-home-page/",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Document links are loaded dynamically; read in the built-in browser."
+  },
+  {
+   "id": "S3",
+   "title": "Al Ahli Bank of Kuwait K.S.C.P. and its subsidiaries - Interim Condensed Consolidated Financial Information 30 June 2026 (unaudited, reviewed)",
+   "publisher": "Al Ahli Bank of Kuwait via Boursa Kuwait",
+   "url": "https://ifsahdocs.boursakuwait.com.kw/DiscAssets/2026_17658/ABK%20FS%20Q2%20en.pdf",
+   "doc_type": "Exchange disclosure - interim financial statements",
+   "tier": 1,
+   "published": "2026-07-29",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Statement of financial position (PDF p.4) is an image page; read visually. Signed by Chairman Talal Mohamed Reza Behbehani and Group CEO Giel-Jan Van Der Tol."
+  },
+  {
+   "id": "S4",
+   "title": "Al Ahli Bank of Kuwait K.S.C.P. and its subsidiaries - Consolidated Financial Statements 31 December 2025 (audited)",
+   "publisher": "Al Ahli Bank of Kuwait",
+   "url": "https://abk.eahli.com/media/documents/ABK_FS_Dec_2025_-_Eng_final.pdf",
+   "doc_type": "Audited financial statements",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Al Ahli Bank of Kuwait Annual Report 2025",
+   "publisher": "Al Ahli Bank of Kuwait",
+   "url": "https://abk.eahli.com/media/files/En.pdf",
+   "doc_type": "Annual report",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Al Ahli Bank of Kuwait Investor Presentation H1 2026",
+   "publisher": "Al Ahli Bank of Kuwait",
+   "url": "https://abk.eahli.com/media/files/IR_Presentation_H1_2026_-_vf.pdf",
+   "doc_type": "Investor presentation",
+   "tier": 2,
+   "published": "2026-08-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Consolidated H1 2026 Investor Call Transcript (English)",
+   "publisher": "Al Ahli Bank of Kuwait",
+   "url": "https://abk.eahli.com/media/files/Consolidated_-_H1-2026_IR_Call_Transcript_-_ENG.pdf",
+   "doc_type": "Earnings call transcript",
+   "tier": 2,
+   "published": "2026-08-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Boursa Kuwait disclosure: Consolidated Financial Statements for the Period ended 30/6/2026 (29 Jul 2026)",
+   "publisher": "Al Ahli Bank of Kuwait via Boursa Kuwait",
+   "url": "https://ifsahdocs.boursakuwait.com.kw/DiscAssets/2026_17658/Boursa_HTML_en.html",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-07-29",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "ABK Wealth Management - homepage (services, products, news)",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser."
+  },
+  {
+   "id": "S10",
+   "title": "Corporate Governance & Legal Entities (ABK Wealth Management board and executive management)",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/corporate-governance-and-legal-entities/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "Portfolio Management (Ahli Capital Investment Company)",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/portfolio-management/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Asset Management overview",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/asset-management-overview/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Fund Management overview (Al Ahli Kuwaiti Fund, Al Ahli Gulf Fund, Ahli Capital money market funds, Ahli International Multi-Asset Holding Fund)",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/fund-management-overview/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Ahli International Multi-Asset Holding Fund (BlackRock sub-manager; terms)",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/ahli-international-multi-asset-holding-fund/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "ABK Wealth Trade (brokerage)",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/abk-wealth-trade/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "ABK Wealth Management - DIFC (DFSA Category 3C)",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/abk-capital-difc/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Private Banking overview",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/private-banking-overview/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "Investment Advisory",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/investment-advisory/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "ABK Wealth Management partners with Barings (KD-denominated global private credit)",
+   "publisher": "ABK Wealth Management",
+   "url": "https://abkwealth.com/en/news/abk-wealth-management-partners-with-barings-to-expand-access-to-investment-solutions-in-kd-denominated-global-private-credit-markets/",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-06-24",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "Al Ahli Bank of Kuwait appoints Giel-Jan Van Der Tol as new Group CEO",
+   "publisher": "People Matters Middle East",
+   "url": "https://me.peoplemattersglobal.com/news/appointments/al-ahli-bank-of-kuwait-appoints-giel-jan-van-der-tol-as-new-group-ceo-46211",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-07-03",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); search summary says effective 1 July 2025."
+  },
+  {
+   "id": "S21",
+   "title": "Al Ahli Bank of Kuwait appoints former ENBD banker as new Group CEO",
+   "publisher": "Zawya",
+   "url": "https://www.zawya.com/en/business/banking-and-insurance/al-ahli-bank-of-kuwait-appoints-former-enbd-banker-as-new-group-ceo-t78gtbpn",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-07",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened)."
+  },
+  {
+   "id": "S22",
+   "title": "Dr. Abdulaziz Jawad - ABK Wealth Management (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/abdulazizjawad/",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (profile not opened); snippet shows name and employer."
+  },
+  {
+   "id": "S23",
+   "title": "Rana Dernaika Jawhara - ABK Capital (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/rana-dernaika-jawhara-3809a585",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (profile not opened); snippet shows name and employer ABK Capital."
+  },
+  {
+   "id": "S25",
+   "title": "Al Ahli Bank of Kuwait homepage (news list, links to ABK Wealth Management)",
+   "publisher": "Al Ahli Bank of Kuwait",
+   "url": "https://www.eahli.com/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S26",
+   "title": "CEO of Kuwaiti bank Al Ahli steps down",
+   "publisher": "Gulf News",
+   "url": "https://gulfnews.com/business/markets/ceo-of-kuwaiti-bank-al-ahli-steps-down-1.1717497875523",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); 2024 CEO departure context."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Group CEO predecessor",
+   "detail": "People Matters (search summary) says Van Der Tol took over from Acting CEO Ahmed Khaled Al Duwaisan after Loai Muqames stepped down in 2024 (S26 context); Finance Middle East and Zawya say he replaced Abdulla Al Sumait, who remains Deputy Group CEO.",
+   "source_ids": [
+    "S20",
+    "S21",
+    "S26"
+   ],
+   "resolution": "Not material to current roles: Van Der Tol is Group CEO (S1, S3); Al Sumait is Deputy Group CEO and Al-Duwaisan is Acting CEO - Kuwait (S1)."
+  },
+  {
+   "field": "Name of the investment arm",
+   "detail": "Corporate documents call it Ahli Capital Investment Company K.S.C.(C) (S4); the H1 2026 presentation and AR 2025 refer to ABK Capital / ABK Wealth Management and 'ABK Capital DIFC'.",
+   "source_ids": [
+    "S4",
+    "S6",
+    "S5"
+   ],
+   "resolution": "Same group: ABK Wealth Management is the 2025 rebrand of Private Banking plus ABK Capital (Ahli Capital)."
+  },
+  {
+   "field": "Net loans label",
+   "detail": "Investor snapshot figure KD 4.92bn is net loans and advances; customers' deposits KD 4.33bn (S6 p.27).",
+   "source_ids": [
+    "S6",
+    "S3"
+   ],
+   "resolution": "Exact statement figures recorded."
+  }
+ ],
+ "open_items": [
+  "AUM, client assets, customers and employees not disclosed; only growth rates (client base about +50%, discretionary AUM about +30% year on year at H1 2026) in the call transcript (S7).",
+  "Elite and Elite Plus eligibility thresholds not found (retail page content is dynamic); ABK Wealth Management private banking threshold not published.",
+  "Exact date and form of the 'Digital Investment Access Platform' launch unknown (in development per AR 2025); platform vendor not named. Global Trading Network relationship is inferred from the login domain only.",
+  "'Structured Products' appears in the ABK Wealth Management menu but no detail page was read; confirm the product range.",
+  "Date Talal Behbehani became Chairman, and dates for Deputy Chairman and acting Kuwait CEO, not found. Khalil Al Qattan and Shahzad Anjum appear on the website but not in the AR 2025 bios; appointment dates not found.",
+  "LinkedIn: Dr. Abdulaziz Jawad and Rana Dernaika Jawhara matched from search snippets (name and employer only); no profile found for CEO Sherif ElRafie; others not checked. Company LinkedIn for ABK Wealth Management not recorded in the file; the ABK Wealth Management page https://www.linkedin.com/company/abk-wealth/ is linked from the official ABK Wealth Management site, and the ABK group LinkedIn page (linkedin.com/company/al-ahli-bank-of-kuwait) appears in search results but was not linked on pages read, so the group linkedin_company is null.",
+  "Arabic name not confirmed from a source opened (name_ar left null).",
+  "Q3 2026 results not yet published at 12 Oct 2026; add when released. ABK-Egypt separate H1 2026 figures not collected (group figures only).",
+  "Van Der Tol appointment date rests on search summaries (S20, S21), not opened; AR 2025 gives year 2025 only."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B26",
+ "checked": "2026-10-12"
+}

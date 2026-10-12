@@ -1,0 +1,960 @@
+{
+  "id": "sa-visionbank",
+  "name": "Vision Bank",
+  "short_name": "Vision Bank",
+  "legal_name": "Vision Bank (Closed Joint Stock Company, CR 1010850478; formerly Saudi Digital Bank)",
+  "name_ar": "بنك فيجن",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://www.visionbank.com.sa",
+  "linkedin_company": "https://www.linkedin.com/company/visionbanksa",
+  "category": "Bank",
+  "type": "Digital bank",
+  "model": "Islamic",
+  "founded": "Cabinet approval of the licence (as Saudi Digital Bank) announced by SAMA on 22 Jun 2021, capital SAR 1.5bn; pilot phase for a limited number of clients from 1 Jan 2025; SAMA non-objection to commence digital banking operations on 15 Sep 2025.",
+  "regulators": [
+    "SAMA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Unlisted closed joint-stock company founded by a consortium of companies and individual investors led by Abdul Rahman bin Saad Al-Rashed and Sons (Artar); most founding shareholders are not named. The only named shareholder is Tadawul-listed Al Moammar Information Systems (MIS), which put in SAR 25m as a founding shareholder (2021) and signed for SAR 23.75m of a capital increase from SAR 1.5bn to SAR 3bn on 28 Jan 2026 at a SAR 3.2bn pre-money valuation. Percentages are not disclosed. The website footer still showed SAR 1.5bn capital on 12 Oct 2026.",
+  "shareholders": [
+    {
+      "holder": "Consortium led by Abdul Rahman bin Saad Al-Rashed and Sons Company (Artar); members and stakes not disclosed",
+      "pct": null,
+      "as_of": "2026-10-12",
+      "source_ids": [
+        "S8",
+        "S10",
+        "S14"
+      ]
+    },
+    {
+      "holder": "Al Moammar Information Systems Co. (MIS, Tadawul-listed): SAR 25m founding contribution; SAR 23.75m subscription in the Jan 2026 capital increase; stake not disclosed",
+      "pct": null,
+      "as_of": "2026-01-28",
+      "source_ids": [
+        "S11",
+        "S12"
+      ]
+    }
+  ],
+  "government_link": "Not found after research: no government or sovereign shareholder is named in the sources found (private consortium). Licensed by Cabinet decision and supervised by SAMA. Checked 2026-10-12.",
+  "group_structure": "Standalone bank; no parent or subsidiaries found. Shareholders are not named beyond the Al-Rashed-led consortium and MIS, so group links cannot be mapped. SAMA's digital-banks register still lists the bank under its former name, Saudi Digital Bank.",
+  "subsidiaries": [],
+  "footprint": "Saudi Arabia only; digital-only (iOS and Android app, Noura chat assistant, no branches found). National address 6537 Riyadh 12432-2693 (website footer). Checked 2026-10-12.",
+  "customer_segments": "Individuals and families (current accounts, term deposits, goal savings, Family Banking with children's accounts); entrepreneurs and SMEs (medium and small businesses; business banking shown as 'Launching soon').",
+  "business_lines": "Personal: current account, Family Banking (parent-controlled accounts and debit cards for children and teens with chores, rewards and gamified learning), Murabaha Term Deposit (7 days to 1 year, from SAR 1,000), Goal Based Savings, Noura AI conversational assistant for account opening, transfers and beneficiaries, a SAR 1,000,000 'Millionaire' prize campaign, payment cards, local transfers and bill payments. Business: SME banking page says 'Launching soon'. No investment, brokerage or fund product found (checked 2026-10-12).",
+  "metrics": [
+    {
+      "metric": "paid_up_capital",
+      "value": 1500,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2026-10-12",
+      "period_label": "Website footer, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "Vision Bank",
+      "definition": "'Closed Joint Stock Company, Capital of SAR 1,500,000,000' in the website footer; same figure in SAMA's 2021 release and 2025 coverage",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S8",
+        "S10"
+      ],
+      "locator": "Footer of S2",
+      "note": "A capital increase to SAR 3bn was agreed on 28 Jan 2026 (S12); completion and registration are not confirmed and the footer had not changed."
+    },
+    {
+      "metric": "valuation_pre_money",
+      "value": 3200,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2026-01-28",
+      "period_label": "28 Jan 2026 capital-increase terms",
+      "period_type": "point_in_time",
+      "scope": "Vision Bank",
+      "definition": "Valuation of the bank before the SAR 1.5bn capital increase, as used for MIS's SAR 23.75m subscription",
+      "status": "Verified",
+      "source_ids": [
+        "S12"
+      ],
+      "locator": "Argaam 28 Jan 2026 (MIS disclosure)",
+      "note": "Relayed from MIS's Tadawul disclosure; the filing itself was not opened. Other subscribers are not named."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "visionbank.com.sa home, about, product pages (S1-S6); SAMA announcement (S7); Argaam, Mubasher, Okaz, Enterprise and Finance Middle East coverage (S10-S17). No customer count published as of 2026-10-12."
+    },
+    {
+      "metric": "total_assets",
+      "status": "Not found after research",
+      "where_checked": "No financial statements, Pillar 3 or annual report on the website (S1-S6 and footer links: privacy, cookies, terms, fees, consumer protection only); MIS's statements were not accessible (Saudi Exchange not opened)."
+    },
+    {
+      "metric": "customer_deposits",
+      "status": "Not found after research",
+      "where_checked": "Same as total_assets; term-deposit page gives rates only (S3)."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not found after research",
+      "where_checked": "No income statement found; MIS carries a small holding (SAR 25m / 23.75m) and the sources do not state its accounting treatment."
+    },
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "No investment product on the website (S2-S5)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "No investing feature on the website (S2-S6)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not found after research",
+      "where_checked": "No affluent or wealth tier on the website (S2-S6)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Abdul Shakeel Aidaroos",
+      "name_ar": "عبدول شكيل عيدروس",
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Executive management",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found. Quoted as CEO in Okaz on 1 Jan 2026 (S15) and in a Zawya release on the Publicis Sapient partnership (undated, 2026; S16).",
+      "previous_roles": "A same-name executive was appointed CEO of Al Hilal Bank (UAE) on 1 Sep 2019 after about 15 years at ADCB (last 5 as head of Retail Banking) and over 10 years at Citibank UAE, with an MS in risk management from NYU Stern (Gulf News, S19). The sources opened do not state that he is the same person as Vision Bank's CEO.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Two independent news items (S15, S16) quote him as Vision Bank CEO; the official website lists no management (S1). A LinkedIn search returned only the company page and a post naming him; no profile found.",
+      "source_ids": [
+        "S15",
+        "S16",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Jazza Al Sari",
+      "name_ar": null,
+      "title": "Founder and earlier CEO (per FinTech Futures)",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Executive management",
+      "scope": "Bank",
+      "appointed": "2018",
+      "appointed_note": "FinTech Futures (search-result summary; page returned HTTP 403) says the bank was founded in 2018 by CEO Jazza Al Sari, formerly of Saudi Hollandi Bank and Banque Saudi Fransi.",
+      "previous_roles": "Corporate banking roles at Saudi Hollandi Bank and Banque Saudi Fransi (S20, search results only).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Seen only in a search-result summary of S20; not named on the website or in 2026 coverage, where Aidaroos is CEO. Whether he left, moved to the board or holds another role is not known.",
+      "source_ids": [
+        "S20"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sulaiman A. AlRashid",
+      "name_ar": null,
+      "title": "Chairman",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page (board list), read in the built-in browser 2026-10-12 (S1). No biographies are published.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ehab M. AlDabag",
+      "name_ar": null,
+      "title": "Vice Chairman",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Adeeb A. AbdulGhafoor",
+      "name_ar": null,
+      "title": "Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Othman Y. Alkassabi",
+      "name_ar": null,
+      "title": "Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hani A. AlAbbadi",
+      "name_ar": null,
+      "title": "Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Meshal A. AlJomaih",
+      "name_ar": null,
+      "title": "Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yousef A. AlGuraishi",
+      "name_ar": null,
+      "title": "Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Omran A. AlRashed",
+      "name_ar": null,
+      "title": "Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Yousef R. AlRashed",
+      "name_ar": null,
+      "title": "Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Faramawy",
+      "name_ar": null,
+      "title": "Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Wadhaah Mubarak",
+      "name_ar": null,
+      "title": "Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Prof. Saad Nasser AlShathri",
+      "name_ar": null,
+      "title": "Chairman, Shariah Committee",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Vision Bank",
+      "business_unit": "Shariah Committee",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1). Other members: Dr. Abdullah Ayedi and Dr. Khaled AlSayyari.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Vision Bank is an early-stage retail and SME digital bank that describes itself as the first Islamic digital bank powered by AI (Noura, a conversational assistant for account opening, transfers and beneficiaries). Its savings and deposit offer is a Murabaha Term Deposit (7 days to 1 year, from SAR 1,000, up to 6% for a 1-year term, partial withdrawal of up to 20%) and Goal Based Savings (banner 'up to 5.5%'), plus Family Banking and a SAR 1,000,000 prize campaign. No investment, brokerage, fund, advisory or private-banking offer was found (checked 12 Oct 2026), and the SME proposition is still marked 'Launching soon'. SAMA cleared full operations on 15 Sep 2025 after a pilot from Jan 2025. The shareholders agreed to double capital to SAR 3bn in Jan 2026, and a 2026 partnership with Publicis Sapient is to design and run an innovation strategy and hub for new individual and SME propositions.",
+    "segments": [
+      {
+        "name": "Personal / Family Banking",
+        "tier": "Mass market / retail",
+        "eligibility": "Individuals and families; children and teens hold own accounts and debit cards under parental limits; no salary transfer needed for term deposits; no balance tiers published",
+        "source_ids": [
+          "S2",
+          "S3",
+          "S6"
+        ]
+      },
+      {
+        "name": "Business (SME)",
+        "tier": "SME",
+        "eligibility": "Medium and small businesses; 'Launching soon' on the website",
+        "source_ids": [
+          "S5"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No affluent, premier or private-banking tier on the website.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset-management entity or funds found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "brokerage": {
+      "present": "Not found after research",
+      "detail": "No share-trading feature found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "The app offers accounts, cards, transfers, bill payments, term deposits and goal-based savings; no investing product on the website.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    "advisory": {
+      "present": "Not found after research",
+      "detail": "No advisory service; Noura is an operational assistant (accounts, transfers, beneficiaries), not an advice tool.",
+      "source_ids": [
+        "S2",
+        "S15"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "The whole bank is Shariah-governed (three-member Shariah Committee chaired by Prof. Saad Nasser AlShathri; Murabaha term deposit), but no Shariah-compliant funds, portfolios or sukuk offer was found.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "asset_classes": [],
+    "partners": [
+      {
+        "partner": "Publicis Sapient",
+        "kind": "Innovation and AI transformation partner",
+        "what": "Design, launch and operation of Vision Bank's Innovation Strategy and Innovation Hub; development of differentiated offerings for individuals and SMEs; Sapient Slingshot, Bodhi and Sustain platforms named",
+        "date": "2026",
+        "status": "Announced",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "partner": "Finastra (Kondor) with DXC Technology",
+        "kind": "Islamic treasury system and managed services",
+        "what": "Cloud-based Islamic banking treasury solution reported live as the bank launched its pilot phase; managed services by DXC (headline and summary seen in search results only; the Nasdaq page did not load)",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "partner": "Al Moammar Information Systems (MIS)",
+        "kind": "Shareholder",
+        "what": "Founding shareholder (SAR 25m); subscribed SAR 23.75m in the Jan 2026 capital increase",
+        "date": "2026-01-28",
+        "status": "Live",
+        "source_ids": [
+          "S11",
+          "S12"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-06-22",
+        "what": "Cabinet approved licences for two local digital banks: STC Bank and Saudi Digital Bank (SAR 1.5bn, group led by Abdul Rahman bin Saad Al-Rashed and Sons), announced by SAMA",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "date": "2025-01-01",
+        "what": "Pilot phase launched for a limited number of clients after SAMA's go-ahead: Murabaha deposits, payment cards, domestic transfers and bill payments",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "date": "2025-09-15",
+        "what": "SAMA granted non-objection to commence digital banking operations; Vision Bank became the third digital bank approved",
+        "source_ids": [
+          "S7",
+          "S10",
+          "S14"
+        ]
+      },
+      {
+        "date": "2026-01-01",
+        "what": "Bank announced a second phase of expansion across customer segments, with Noura AI account opening and transfers and family savings; entrepreneur and SME accounts to follow soon",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2026-01-28",
+        "what": "Capital increase from SAR 1.5bn to SAR 3bn agreed at a SAR 3.2bn pre-money valuation; MIS signed for SAR 23.75m",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "date": "2026-02-09",
+        "what": "Sponsored feature positions the bank as the first AI-powered Islamic digital bank, with Family Banking and a planned SME offer",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "Strategic partnership with Publicis Sapient announced around Money20/20 Middle East, Riyadh (release undated)",
+        "source_ids": [
+          "S16"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Product set is current accounts, Family Banking, Murabaha term deposits and goal savings; no investment product on the site, and the bank is only a year into full operations (S2-S4, S7).",
+        "Capital is being doubled to SAR 3bn (agreed 28 Jan 2026) and a Publicis Sapient innovation hub is set up to create new propositions for individuals and SMEs (S12, S16).",
+        "Family Banking and goal-based savings suggest a long-term saving and financial-education focus that could extend to investing (S4, S6, S15)."
+      ],
+      "barriers": [
+        "Early stage: pilot from Jan 2025, full operations cleared Sep 2025; no customer or balance-sheet figures published (S7, S13).",
+        "Shariah-governed bank: any shelf needs Shariah screening and committee approval (S1).",
+        "Stated near-term roadmap is SME banking and AI-led service (Noura), not wealth; no wealth, investments or digital-product head named (S5, S15, S16).",
+        "Innovation work is being scoped with Publicis Sapient, which may shape build-versus-partner choices (S16)."
+      ],
+      "incumbent_vendors": [
+        "Publicis Sapient — innovation strategy and hub (S16)",
+        "Finastra Kondor with DXC — Islamic treasury and managed services (S18, search results only)",
+        "Noura — in-house AI conversational assistant (S2, S16)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "About: Board Members and Shariah Committee",
+      "publisher": "Vision Bank",
+      "url": "https://www.visionbank.com.sa/about",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read in the built-in browser. Lists eleven directors and three Shariah scholars; no management team is listed."
+    },
+    {
+      "id": "S2",
+      "title": "Vision Bank homepage (with footer legal text)",
+      "publisher": "Vision Bank",
+      "url": "https://www.visionbank.com.sa/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Footer read in the built-in browser: Closed Joint Stock Company, capital SAR 1,500,000,000, Commercial Registration 1010850478, national address 6537 Riyadh 12432-2693. Links the official LinkedIn company page and a Fees & Charges (Dec 2025) PDF, not opened."
+    },
+    {
+      "id": "S3",
+      "title": "Murabaha Term Deposit",
+      "publisher": "Vision Bank",
+      "url": "https://www.visionbank.com.sa/term-deposit",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S4",
+      "title": "Goal Based Savings",
+      "publisher": "Vision Bank",
+      "url": "https://www.visionbank.com.sa/goal-savings",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page does not say which accounts the 'up to 5.5%' banner covers."
+    },
+    {
+      "id": "S5",
+      "title": "Business (SME) page: 'Launching soon'",
+      "publisher": "Vision Bank",
+      "url": "https://www.visionbank.com.sa/sme",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S6",
+      "title": "Family Banking",
+      "publisher": "Vision Bank",
+      "url": "https://www.visionbank.com.sa/family-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read in the built-in browser."
+    },
+    {
+      "id": "S7",
+      "title": "SAMA Grants Vision Bank Non-objection to Commence its Banking Operations in Saudi Arabia",
+      "publisher": "Saudi Central Bank (SAMA)",
+      "url": "https://www.sama.gov.sa/en-us/mediacenter/news/pages/news-1102.aspx",
+      "doc_type": "Regulator announcement",
+      "tier": 3,
+      "published": "2025-09-15",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Opened with the lower-case URL form; the mixed-case form returned 404."
+    },
+    {
+      "id": "S8",
+      "title": "Minister of Finance and SAMA Governor thank the Leadership for the Cabinet's Approval to License two Local Digital Banks",
+      "publisher": "Saudi Central Bank (SAMA)",
+      "url": "https://sama.gov.sa/en-US/MediaCenter/News/Pages/news-676.aspx",
+      "doc_type": "Regulator announcement",
+      "tier": 3,
+      "published": "2021-06-22",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Names 'Saudi Digital Bank' (SAR 1.5bn; group led by Abdul Rahman bin Saad Al-Rashed and Sons), the former name of Vision Bank."
+    },
+    {
+      "id": "S9",
+      "title": "Digital Banks (licensed entities list)",
+      "publisher": "Saudi Central Bank (SAMA)",
+      "url": "https://www.sama.gov.sa/en-US/Supervision/LicenseEntities/Pages/DigitalBank.aspx",
+      "doc_type": "Regulator register page",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists 'STC bank' and 'Saudi Digital Bank' as 'Licensed - has not started yet'; out of date (Vision Bank operating since 2025; D360 absent)."
+    },
+    {
+      "id": "S10",
+      "title": "Vision Bank kicks off digital operations in Saudi Arabia",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1843182",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-09-15",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S11",
+      "title": "MIS digital bank gets SAMA's 'no objection' to start operations",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1843386",
+      "doc_type": "News (relaying Tadawul statement)",
+      "tier": 5,
+      "published": "2025-09-16",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Confirms MIS founding-shareholder decision of Feb 2021; the SAR 25m amount appears in a related headline and search summaries (not in the opened text)."
+    },
+    {
+      "id": "S12",
+      "title": "MIS contributes SAR 23.8M to Vision Bank's capital increase",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1875935",
+      "doc_type": "News (relaying MIS disclosure)",
+      "tier": 5,
+      "published": "2026-01-28",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S13",
+      "title": "Vision Bank obtains SAMA's greenlight to launch its digital operations",
+      "publisher": "Mubasher (Sharikat Mubasher)",
+      "url": "https://en.sharikatmubasher.com/media-hub/news/21460132/vision-bank-obtains-samas-greenlight-to-launch-its-digital-operations",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-01-01",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list; describes the pilot phase."
+    },
+    {
+      "id": "S14",
+      "title": "Vision Bank is the third digital bank to get SAMA's approval",
+      "publisher": "Enterprise (enterpriseam.com)",
+      "url": "https://enterpriseam.com/ksa/2025/09/16/vision-bank-is-the-third-digital-bank-to-get-samas-approval/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-09-16",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list."
+    },
+    {
+      "id": "S15",
+      "title": "Vision Bank moves to the second phase of expansion (Okaz, Arabic)",
+      "publisher": "Okaz",
+      "url": "https://www.okaz.com.sa/economy/na/2229270",
+      "doc_type": "News (Arabic, with CEO quote)",
+      "tier": 5,
+      "published": "2026-01-01",
+      "accessed": "2026-10-12",
+      "language": "ar",
+      "note": "Outlet not on the protocol's tier-5 list; page text summarised through WebFetch."
+    },
+    {
+      "id": "S16",
+      "title": "Vision Bank and Publicis Sapient announce strategic partnership to accelerate AI-powered banking innovation in Saudi Arabia",
+      "publisher": "Zawya (press release)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/vision-bank-and-publicis-sapient-announce-strategic-partnership-to-accelerate-ai-powered-banking-innovation-in-saudi-arabia-637606",
+      "doc_type": "Press release",
+      "tier": 5,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page shows no date; refers to Money20/20 Middle East in Riyadh and a 2026 footer."
+    },
+    {
+      "id": "S17",
+      "title": "Vision Bank: first AI-powered Islamic digital bank (Sponsored Partner Content)",
+      "publisher": "Finance Middle East",
+      "url": "https://www.financemiddleeast.com/?p=28391",
+      "doc_type": "Sponsored article",
+      "tier": 5,
+      "published": "2026-02-09",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Sponsored content labelled by the outlet; promotional, used only for positioning."
+    },
+    {
+      "id": "S18",
+      "title": "Vision Bank becomes operational with Finastra's cloud-native, Islamic banking treasury solution",
+      "publisher": "Finastra (via Nasdaq press releases)",
+      "url": "https://www.nasdaq.com/press-release/vision-bank-becomes-operational-finastras-cloud-native-islamic-banking-treasury",
+      "doc_type": "Vendor press release",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only; two fetches timed out. Date not seen."
+    },
+    {
+      "id": "S19",
+      "title": "Al Hilal Bank appoints Abdul Shakeel Aidaroos as chief executive officer",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/al-hilal-bank-appoints-abdul-shakeel-aidaroos-as-chief-executive-officer-1.66147056",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2019-09-01",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Same-name executive; identity with Vision Bank's CEO not stated in the sources opened."
+    },
+    {
+      "id": "S20",
+      "title": "Vision Bank launches digital banking app in Saudi Arabia",
+      "publisher": "FinTech Futures",
+      "url": "https://www.fintechfutures.com/digital-banking/vision-bank-launches-digital-banking-app-in-saudi-arabia",
+      "doc_type": "News",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (WebFetch returned HTTP 403); date not seen."
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Founding date",
+      "detail": "FinTech Futures (search summary) says the bank was founded in 2018 by CEO Jazza Al Sari; Enterprise says it was established in 2021 as a closed joint-stock company; SAMA's licence announcement is dated 22 Jun 2021.",
+      "source_ids": [
+        "S20",
+        "S14",
+        "S8"
+      ],
+      "resolution": "Used the SAMA dates (2021 licence approval, 2025 launch). The 2018 founding claim is unverified."
+    },
+    {
+      "field": "SAMA digital-bank register",
+      "detail": "SAMA's register page still shows 'Saudi Digital Bank' (the former name) as 'Licensed - has not started yet' although SAMA announced non-objection to Vision Bank's operations on 15 Sep 2025.",
+      "source_ids": [
+        "S9",
+        "S7"
+      ],
+      "resolution": "Treated the register as out of date; Saudi Digital Bank and Vision Bank are the same licence."
+    },
+    {
+      "field": "Capital",
+      "detail": "Website footer (checked 12 Oct 2026) says SAR 1.5bn; MIS's disclosure (28 Jan 2026) says capital would rise to SAR 3bn.",
+      "source_ids": [
+        "S2",
+        "S12"
+      ],
+      "resolution": "Recorded SAR 1.5bn as the current paid-up figure and the raise as agreed but not confirmed complete."
+    }
+  ],
+  "open_items": [
+    "No Vision Bank financial statements, Pillar 3, customer count, deposits or assets were found; the website carries no disclosure section. Check MIS's FY2025 statements and Tadawul filings (Saudi Exchange not opened) for the carrying value of the stake and any associate data, and SAMA/Tadawul for completion of the SAR 3bn capital increase.",
+    "Shareholders other than MIS and the Al-Rashed-led consortium are not named; stakes are not disclosed. Directors with the AlRashed surname are listed but their relationship to the consortium is not stated in the sources.",
+    "CEO: Abdul Shakeel Aidaroos is quoted as CEO (Okaz 1 Jan 2026; Zawya/Publicis Sapient release, 2026) but the website lists no management and his start date is not known. Whether he is the former Al Hilal Bank CEO of the same name is not confirmed. Jazza Al Sari (earlier CEO per a FinTech Futures summary) status unknown.",
+    "No chief digital, product, technology, retail, finance or wealth head was found; LinkedIn profile for the CEO not found (company page only). LinkedIn search results showed other Vision Bank employees but without titles, so none are recorded.",
+    "Fees & Charges (Dec 2025) and Consumer Protection PDFs linked from the footer were not opened and may list further products. Term-deposit, goal-savings and SME pages were summarised via WebFetch; rate and eligibility details should be re-checked in the app.",
+    "Finastra Kondor / DXC treasury deployment and its date were seen only in a search result (Nasdaq page timed out); the core-banking vendor is not publicly named.",
+    "Publicis Sapient release is undated; confirm the date (Money20/20 Middle East, Riyadh, Sep 2026 is implied).",
+    "FinTech Futures (HTTP 403) and Nasdaq pages could not be opened; statements drawn from them are labelled as search-result-only."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B16",
+  "checked": "2026-10-12"
+}

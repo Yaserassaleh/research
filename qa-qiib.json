@@ -1,0 +1,1123 @@
+{
+ "id": "qa-qiib",
+ "name": "Qatar International Islamic Bank",
+ "short_name": "QIIB",
+ "legal_name": "Qatar International Islamic Bank (Q.P.S.C.)",
+ "name_ar": "بنك قطر الدولي الإسلامي",
+ "country": "QA",
+ "hq_city": "Doha",
+ "website": "https://www.qiib.com.qa",
+ "linkedin_company": null,
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "1990 (incorporated under Amiri Decree No. 52 of 1990; operations began 1 Jan 1991)",
+ "regulators": [
+  "QCB",
+  "QFMA (QSE-listed issuer)"
+ ],
+ "listed": true,
+ "exchange": "QSE",
+ "ticker": "QIIK",
+ "parent_id": null,
+ "ownership_summary": "QSE-listed. The H1 2026 investor presentation says the Qatar Investment Authority is the largest shareholder at 16%, held through Qatar Holding. Qatari companies and individuals own 63%, and GCC and foreign nationals 21%. The board is made up mainly of representatives of Qatari corporate shareholders, for example Medicare Group (Chairman) and Bright Side for Trading (Vice Chairman).",
+ "shareholders": [
+  {
+   "holder": "Qatar Investment Authority (via Qatar Holding)",
+   "pct": 16,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S5"
+   ]
+  }
+ ],
+ "government_link": "Yes - QIA holds 16% through Qatar Holding and is the largest shareholder (H1 2026 investor presentation).",
+ "group_structure": "Qatar International Islamic Bank (Q.P.S.C.) is the listed operating bank. Its consolidated subsidiaries are sukuk-issuing vehicles only: QIIB Senior Oryx Ltd (QFC), QIIB Tier 1 Sukuk LLC and QIIB Tier 1 Sukuk Ltd. Associates at 31 Dec 2025: Umnia Bank, Morocco (40%, banking), Al Tashelat Islamic Company (49%, real estate), Contractor Co. (49%, contracting) and Mackeen Holding (49%, real estate, fully impaired). In Jul 2026 QIIB made a strategic investment in fintech SkipCash; the stake was not disclosed. There is no brokerage or asset management subsidiary.",
+ "subsidiaries": [
+  {
+   "name": "QIIB Senior Oryx Ltd (formerly QIIB Senior Sukuk Ltd)",
+   "pct": 100,
+   "activity": "Senior sukuk issuance vehicle (QFC)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "QIIB Tier 1 Sukuk LLC / QIIB Tier 1 Sukuk Ltd",
+   "pct": 100,
+   "activity": "Tier 1 sukuk issuance vehicles (SPE)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "Umnia Bank (associate)",
+   "pct": 40,
+   "activity": "Islamic participatory bank (Morocco)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "Al Tashelat Islamic Company W.L.L. (associate)",
+   "pct": 49,
+   "activity": "Real estate (Qatar)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "Contractor Co. W.L.L. (associate)",
+   "pct": 49,
+   "activity": "Contracting (Qatar)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "Mackeen Holding Q.P.S.C. (associate)",
+   "pct": 49,
+   "activity": "Real estate (Qatar); carrying value nil after impairment",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  }
+ ],
+ "footprint": "Qatar only, apart from the 40% Moroccan associate Umnia Bank. The H1 2026 presentation gives 17 branches, 1 digital branch (Digital Lounge, Msheireb) and 75 ATMs. The FY2025 statements say head office plus 16 local branches. The presentation's segment page says 14 personal banking branches and 3 corporate branches.",
+ "customer_segments": "Personal banking (mass retail; Joud prize savings account), QIIB Wajaha (affluent/premium package), QIIB Private Banking (HNW, by invitation), corporate, government and semi-government, and SMEs.",
+ "business_lines": "Three segments: Personal Banking (financing, deposits, cards, Wajaha and Private Banking tiers); Corporate Banking (Murabahah, Ijarah, Mudarabah, Istisna, trade and project finance; government and SME); and Treasury & Investments (funding, the sukuk book and the bank's own investment and real estate portfolio). Treasury & Investments also offers customers 'Shariaa compliant complex investment opportunities': equity participation, private equity, investment funds and sukuk. It is also a joint lead manager on Qatari sukuk issues.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 63833947,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS, interim consolidated statement of financial position (reviewed by KPMG; approved 20 Jul 2026)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "locator": "S2 PDF p.4 (scanned page, read visually)",
+   "note": "Q3 2026 statements were not yet on QSE on 12 Oct 2026."
+  },
+  {
+   "metric": "total_assets",
+   "value": 62628547,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS, consolidated statement of financial position (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.4 comparative column",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 43097901,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customers' current accounts (QAR 6,918,823k) plus total quasi-equity (participatory investment accounts QAR 36,168,901k plus reserves attributable to quasi-equity QAR 10,177k). Excludes due to banks and sukuk financing.",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4",
+    "S5"
+   ],
+   "locator": "S2 PDF p.4",
+   "note": "Computed from statement lines; equals 'customer deposits ... QR 43.1 billion' (S4) and 43,098 (QAR m) in the presentation (S5)."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 43290166,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customers' current accounts (QAR 6,812,345k) plus total quasi-equity (QAR 36,477,821k)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S5"
+   ],
+   "locator": "S2 PDF p.4 comparative column",
+   "note": "Computed; presentation shows 43,290 (QAR m)."
+  },
+  {
+   "metric": "net_loans",
+   "value": 44061994,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Financing assets (net; Islamic financing)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.4",
+   "note": "+13.1% YoY per release (S4)."
+  },
+  {
+   "metric": "net_loans",
+   "value": 41965643,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Financing assets (net), audited",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.4 comparative column",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 10249843,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL OWNERS' EQUITY including sukuk eligible as additional capital (QAR 2,092,450k); excludes quasi-equity",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.4",
+   "note": "Equity attributable to shareholders of the Bank: QAR 8,157,393k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 3440425,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total income', consolidated statement of income: financing and investing income net of finance expenses, net fees, FX and associates; before deducting the quasi-equity share (QAR 1,259,091k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.10",
+   "note": "FY2024: QAR 3,518,973k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 1608660,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL INCOME', interim statement of income (before the quasi-equity share of QAR 572,170k)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "locator": "S2 PDF p.5",
+   "note": "Net fee and commission income QAR 177,310k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 1351010,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit for the year. There are no non-controlling interests, so it is all attributable to shareholders of the Bank.",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.10",
+   "note": "+7.2% vs 2024 (QAR 1,260,270k)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 713310,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "NET PROFIT FOR THE PERIOD, interim statement of income",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "locator": "S2 PDF p.5",
+   "note": "Release: QR 713m, +3.5%."
+  },
+  {
+   "metric": "branches",
+   "value": 17,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Bank - Qatar",
+   "definition": "Branches in Qatar (presentation), plus 1 digital branch and 75 ATMs",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "p.4",
+   "note": "The FY2025 statements say 'head office ... and 16 local branches' (S3). See discrepancies."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "H1 2026 interim statements (S2); FY2025 statements and Annual Report 2025 (S3, S6); H1 2026 release (S4); H1 2026 investor presentation (S5); Treasury and Private Banking pages (S9, S10). QIIB has no off-balance-sheet AUM line and no asset manager."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "Annual Report 2025 (S6), investor presentation (S5), bank profile page (S12)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "Private Banking and Wajaha pages (S9, S11); presentation segment page (S5)."
+  },
+  {
+   "metric": "employees",
+   "status": "Not found after research",
+   "where_checked": "Annual Report 2025 (52 pp., mainly financial statements) (S6); presentation (S5)."
+  }
+ ],
+ "people": [
+  {
+   "name": "H.E. Sheikh Dr. Khalid bin Thani bin Abdullah Al-Thani",
+   "name_ar": null,
+   "title": "Chairman (Representative of Medicare Group)",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Already Chairman in May 2019 (S15).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S8); signed the Annual Report 2025 Chairman's message (S6).",
+   "source_ids": [
+    "S8",
+    "S6"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "H.E. Sheikh Abdullah bin Thani bin Abdullah Al-Thani",
+   "name_ar": null,
+   "title": "Vice Chairman and Managing Director (Representative of Bright Side for Trading Company)",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page (S8); signed the 30 Jun 2026 statements (S2); announced the H1 2026 results (S4).",
+   "source_ids": [
+    "S8",
+    "S2",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dr. Abdulbasit Ahmed A. Al Shaibei",
+   "name_ar": null,
+   "title": "Chief Executive Officer",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "No official appointment date found. He was already CEO in 2014 (CFI.co interview) and in May 2019 (S15). A third-party profile (search result only) says 'since 2000' (S18).",
+   "previous_roles": "A search-result profile (not opened) says he headed the Investment, Trading and Foreign Exchange Division at Qatar Central Bank in 1990-1994 (S18). Not confirmed by an official source.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S7). Signed the 30 Jun 2026 statements (S2) and the Group Securities MoU on 30 Jul 2026 (S13).",
+   "source_ids": [
+    "S7",
+    "S2",
+    "S13",
+    "S15",
+    "S18",
+    "S22"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Jamal Abdulla Al-Jamal",
+   "name_ar": null,
+   "title": "Deputy CEO / Chief of Business Sector",
+   "functions": [
+    "Deputy CEO",
+    "Corporate / wholesale",
+    "Retail"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Business Sector",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Deputy CEO already in May 2019 (S15).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page (S7).",
+   "source_ids": [
+    "S7",
+    "S15"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Zakaria Glaoui",
+   "name_ar": null,
+   "title": "Chief of Personal Banking",
+   "functions": [
+    "Retail",
+    "Affluent",
+    "Private banking"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Personal Banking (including Wajaha and Private Banking tiers)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "No appointment release found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S7). A 2026 search found no news or LinkedIn match.",
+   "source_ids": [
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sheikh Mohammed Bin Ali Al Thani",
+   "name_ar": null,
+   "title": "Chief of Treasury and Investment",
+   "functions": [
+    "Treasury",
+    "Investments / asset management"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Treasury & Investments",
+   "scope": "Group",
+   "appointed": "2018-03",
+   "appointed_note": "Gulf Times / Peninsula (search results only) reported his appointment as Chief, Treasury & Investments in Mar 2018 (S17).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page (S7).",
+   "source_ids": [
+    "S7",
+    "S17"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Omar Abdulaziz Al-Meer",
+   "name_ar": null,
+   "title": "Chief of Corporate Sector",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Corporate Sector",
+   "scope": "Group",
+   "appointed": "2023-02",
+   "appointed_note": "Appointment announced 20 Feb 2023 (S16).",
+   "previous_roles": "19 years at QIIB, including retail banking and treasury & investment. Chief of Business Development and Alternative Channels Sector for about four years before 2023, where he led digital enablement (S16).",
+   "education": "Master's in Project Management, University of Portsmouth; Bachelor's in International Business Management, Cardiff University (S16)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page (S7).",
+   "source_ids": [
+    "S7",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Georges Hobeika",
+   "name_ar": null,
+   "title": "Chief Information Officer",
+   "functions": [
+    "Technology",
+    "Digital"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Information Technology",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page (S7).",
+   "source_ids": [
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Khair Barhoumeh",
+   "name_ar": null,
+   "title": "Chief Operation Officer",
+   "functions": [
+    "Operations"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Operations",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page (S7).",
+   "source_ids": [
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hossam Khattab",
+   "name_ar": null,
+   "title": "Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Finance",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page (S7).",
+   "source_ids": [
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammad Jamil Ahmad Hamad",
+   "name_ar": null,
+   "title": "Chief Risk Officer",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "Risk",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page (S7).",
+   "source_ids": [
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ali Hamad Al-Mesaifri",
+   "name_ar": null,
+   "title": "Chief of Human Resources & Administration",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Qatar International Islamic Bank (Q.P.S.C.)",
+   "business_unit": "HR & Administration",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Sheikh Ali bin Abdullah Al Thani was appointed Head of Human Resources under him in Jan 2026 (S14).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page (S7); quoted on 12 Jan 2026 (S14).",
+   "source_ids": [
+    "S7",
+    "S14"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "QIIB's wealth offer is limited and banking-led. Personal Banking, run by Chief of Personal Banking Zakaria Glaoui, has two premium tiers. QIIB Wajaha is the affluent package (QR 50,000 monthly salary or QR 1m balance). QIIB Private Banking is by invitation only and offers a dedicated 24/7 RM, Mastercard World Elite and lifestyle privileges; its pages describe no investment products. Investment opportunities for customers come from the Treasury & Investments department under Sheikh Mohammed Bin Ali Al Thani: equity participation, private equity, investment funds and sukuk, all Shari'a-compliant. No asset manager, brokerage subsidiary, AUM or in-app investing was found. The QIIB Mobile app covers payments, transfers, cards and a rewards shop. On 30 Jul 2026 QIIB signed an MoU with The Group Securities, a Qatari broker, to provide 'reciprocal services and advanced digital tools' for capital-market investors and 'a seamless and integrated investment and banking experience'. QIIB's 2025-2026 digital activity has centred on payments: the SkipCash strategic investment (Jul 2026), a Visa alliance, the AFAQ payments system and the QIIB Online Shop.",
+  "segments": [
+   {
+    "name": "QIIB Wajaha",
+    "tier": "Affluent",
+    "eligibility": "Free membership with a monthly salary of QR 50,000 or more, or a minimum balance of QR 1,000,000 or more.",
+    "source_ids": [
+     "S11"
+    ]
+   },
+   {
+    "name": "QIIB Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "By invitation only.",
+    "source_ids": [
+     "S9"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "QIIB Private: invitation-only HNW service with a dedicated 24/7 RM, Mastercard World Elite, a loyalty programme, a dedicated call centre, valet parking and lifestyle benefits. No investment products are described on the page.",
+   "source_ids": [
+    "S9"
+   ]
+  },
+  "asset_management": {
+   "present": "Not found after research",
+   "detail": "No asset management subsidiary or proprietary fund range. The group's subsidiaries are sukuk SPVs only (S3). Treasury & Investments manages the bank's own portfolio and offers customers investment funds, but no manager or fund names are given.",
+   "source_ids": [
+    "S3",
+    "S10"
+   ]
+  },
+  "brokerage": {
+   "present": "Not found after research",
+   "detail": "No in-house brokerage. MoU of 30 Jul 2026 with The Group Securities (Qatari broker; relationship of 'more than thirty years') for reciprocal services and digital tools for capital-market investors. Implementation status unknown.",
+   "source_ids": [
+    "S13"
+   ]
+  },
+  "digital_investing": {
+   "present": "Not found after research",
+   "detail": "The QIIB Mobile features listed (transfers, Western Union, QMP eWallet, card controls, bill payments, rewards shop) include no investing. IPO subscriptions are taken through QIIB channels, for example the Dandy IPO (home page banner). The Group Securities MoU aims at 'a seamless and integrated investment and banking experience'.",
+   "source_ids": [
+    "S19",
+    "S13",
+    "S1"
+   ]
+  },
+  "advisory": {
+   "present": "Unclear",
+   "detail": "The Treasury & Investment team offers customers 'the highest possible standards of guidance' on Shari'a-compliant local, regional and international investments. There is no formal advisory proposition or wealth RM investment service.",
+   "source_ids": [
+    "S10"
+   ]
+  },
+  "discretionary": {
+   "present": "Not found after research",
+   "detail": "None found.",
+   "source_ids": [
+    "S10",
+    "S9"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "None found.",
+   "source_ids": [
+    "S10",
+    "S19"
+   ]
+  },
+  "funds_platform": {
+   "present": "Unclear",
+   "detail": "'Investment funds' are listed among Treasury & Investment services for customers, with no fund names or platform.",
+   "source_ids": [
+    "S10"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "None found.",
+   "source_ids": [
+    "S10"
+   ]
+  },
+  "private_markets": {
+   "present": "Unclear",
+   "detail": "'Equity participation' and 'private equity' are listed among Treasury & Investment services offered to customers, with no products named.",
+   "source_ids": [
+    "S10"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Fully Shari'a-compliant bank. Customers can access sukuk, investment funds and equity and private-equity participation through Treasury & Investments.",
+   "source_ids": [
+    "S10",
+    "S3"
+   ]
+  },
+  "asset_classes": [
+   "Sukuk",
+   "Mutual funds",
+   "Private markets / alternatives"
+  ],
+  "partners": [
+   {
+    "partner": "The Group Securities",
+    "kind": "Brokerage / execution",
+    "what": "MoU to provide reciprocal services and digital tools for capital-market investors, integrating investment and banking",
+    "date": "2026-07-30",
+    "status": "MoU / pilot",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "partner": "SkipCash",
+    "kind": "Fintech investment (payments)",
+    "what": "QIIB became a strategic investor in the QFC-licensed payments fintech",
+    "date": "2026-07-23",
+    "status": "Live",
+    "source_ids": [
+     "S20"
+    ]
+   },
+   {
+    "partner": "Visa",
+    "kind": "Payments",
+    "what": "'Strategic Alliance: QIIB and Visa Join Forces to Advance Innovation in Payment Solutions' (heading only; release ID 566 sits between releases dated 5 and 20 Jul 2026)",
+    "date": "2026",
+    "status": "Announced",
+    "source_ids": [
+     "S21"
+    ]
+   },
+   {
+    "partner": "Western Union",
+    "kind": "Payments",
+    "what": "International transfers in QIIB Mobile",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S19"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2026-07-30",
+    "what": "MoU with The Group Securities for an integrated investment and banking experience.",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2026-07-23",
+    "what": "Strategic investment in SkipCash (digital payments).",
+    "source_ids": [
+     "S20"
+    ]
+   },
+   {
+    "date": "2026-07-05",
+    "what": "Launched the QIIB Online Shop rewards marketplace with instant redemption through mobile banking.",
+    "source_ids": [
+     "S21"
+    ]
+   },
+   {
+    "date": "2026",
+    "what": "Joined the AFAQ GCC payments system. Won MEA Finance 'Best Innovation in Retail Banking, Qatar 2026'.",
+    "source_ids": [
+     "S21"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "No investing in the QIIB Mobile app and no in-house brokerage or asset manager. The Jul 2026 MoU with The Group Securities explicitly targets 'a seamless and integrated investment and banking experience' (S13, S19).",
+    "Invitation-only Private Banking and the Wajaha affluent tier are built on lifestyle benefits; no investment proposition is described (S9, S11).",
+    "Treasury & Investments already offers customers funds, sukuk and private equity, but with no platform, named products or digital channel (S10).",
+    "Management stresses digital transformation and fintech partnerships, such as the SkipCash investment and the Visa alliance (S4, S20)."
+   ],
+   "barriers": [
+    "Fully Islamic: needs Shari'a-screened products approved by its Shari'a Supervisory Board (S3).",
+    "Recent digital investment has gone to payments rather than wealth, and brokerage integration is going through The Group Securities (S13, S20).",
+    "Small premium segment, no published AUM, and no named wealth head below the Chief of Personal Banking (S7, S9)."
+   ],
+   "incumbent_vendors": [
+    "The Group Securities - brokerage partner (MoU) (S13)",
+    "Western Union - transfers in the mobile app (S19)",
+    "Mastercard - World Elite card for Private Banking (S9)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "QIIB home page",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Qatar International Islamic Bank (Q.P.S.C.) Interim Condensed Consolidated Financial Statements 30 June 2026",
+   "publisher": "Qatar Stock Exchange (issuer filing)",
+   "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QIIK&reportEndDate=2026-06-30&lang=1",
+   "doc_type": "Reviewed interim financial statements (KPMG; approved 20 Jul 2026)",
+   "tier": 1,
+   "published": "2026-07-20",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "The statement of financial position is a scanned page and was read visually."
+  },
+  {
+   "id": "S3",
+   "title": "Qatar International Islamic Bank (Q.P.S.C.) Consolidated Financial Statements 31 December 2025",
+   "publisher": "Qatar Stock Exchange (issuer filing)",
+   "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=QIIK&reportEndDate=2025-12-31&lang=1",
+   "doc_type": "Audited consolidated financial statements (approved 26 Jan 2026; 82 pp.)",
+   "tier": 1,
+   "published": "2026-01-26",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "QIIB announces financial results for the first half (H1) of 2026",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Press/Details/567",
+   "doc_type": "Results press release",
+   "tier": 2,
+   "published": "2026-07-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Investor Relation Presentation - Q2 2026 (Investors' Presentation HY-2026)",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Documents/Download/404",
+   "doc_type": "Investor presentation (18 pp.)",
+   "tier": 2,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "QIIB Annual Report 2025",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Documents/Download/401",
+   "doc_type": "Annual report (52 pp.; Chairman's and CEO's messages plus financial statements)",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Executive Management",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Members/Details/Executive",
+   "doc_type": "Official leadership page (names and titles only)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Board Members",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Members/Details/Board",
+   "doc_type": "Official board page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "QIIB Private Banking",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Page/Details/215",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Treasury",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Page/Details/30",
+   "doc_type": "Official product page (Treasury & Investment services)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "QIIB Wajaha",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Page/Details/25",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Bank Profile",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Page/Details/16",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "QIIB and The Group Securities Sign MoU to Advance Digital Services",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Press/Details/570",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-07-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "QIIB Appoints Sheikh Ali bin Abdullah Al Thani as Head of Human Resources",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Press/Details/539",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-01-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "QIIB honours Abdulbasit Ahmad al-Shaibei",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Press/Details/202",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2019-05-23",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "Mr. Omar Abdulaziz Al-Meer has been appointed as Chief of Corporate Sector at QIIB",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Press/Details/370",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2023-02-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "QIIB announces appointment of Qataris as top executives",
+   "publisher": "The Peninsula",
+   "url": "https://thepeninsulaqatar.com/article/22/03/2018/QIIB-announces-appointment-of-Qataris-as-top-executives",
+   "doc_type": "News",
+   "tier": 5,
+   "published": "2018-03-22",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  },
+  {
+   "id": "S18",
+   "title": "Abdulbasit Ahmad Al-Shaibei (speaker profile)",
+   "publisher": "World Policy Conference",
+   "url": "https://www.worldpolicyconference.com/en/abdulbasit-ahmad-al-shaibei/",
+   "doc_type": "Third-party biography",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only; not opened. Used only for the unconfirmed 'since 2000' and QCB career lead."
+  },
+  {
+   "id": "S19",
+   "title": "Mobile Banking",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Page/Details/9",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "QIIB Joins SkipCash as a Strategic Investor",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Press/Details/568",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-07-23",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S21",
+   "title": "QIIB press release headings 2026 (IDs 563-576: QIIB Online Shop 5 Jul 2026; Visa strategic alliance; AFAQ; MEA Finance award)",
+   "publisher": "Qatar International Islamic Bank",
+   "url": "https://www.qiib.com.qa/Press/Details/563",
+   "doc_type": "Press releases (headings and dates checked; the Online Shop release was opened)",
+   "tier": 2,
+   "published": "2026-07-05",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "The Visa alliance (ID 566), AFAQ (ID 575) and MEA Finance award (ID 564) releases were checked by heading only."
+  },
+  {
+   "id": "S22",
+   "title": "CFI.co Meets the CEO of Qatar International Islamic Bank: Abdulbasit Al-Shaibei",
+   "publisher": "CFI.co",
+   "url": "https://cfi.co/banking/2014/07/cfi-co-meets-the-ceo-of-qatar-international-islamic-bank-abdulbasit-al-shaibei",
+   "doc_type": "News / interview",
+   "tier": 5,
+   "published": "2014-07",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Branch count",
+   "detail": "The FY2025 statements say 'head office ... and 16 local branches'. The H1 2026 presentation says 17 branches plus 1 digital branch, and elsewhere 14 personal-banking branches plus 3 corporate branches. The AR 2025 lists branches including a Digital Lounge in Msheireb.",
+   "source_ids": [
+    "S3",
+    "S5",
+    "S6"
+   ],
+   "resolution": "Recorded 17 from the presentation (30 Jun 2026). The counts may differ by date or by whether head office is counted."
+  },
+  {
+   "field": "CEO tenure",
+   "detail": "No official appointment date found. A third-party profile (search result) says CEO 'since 2000'. Official releases confirm him as CEO in 2019 and 2026.",
+   "source_ids": [
+    "S18",
+    "S15",
+    "S7"
+   ],
+   "resolution": "Left 'appointed' null."
+  }
+ ],
+ "open_items": [
+  "Q3 2026 (30 Sep 2026) results not yet on QSE: the API returned 404 for QIIK 2026-09-30 on 12 Oct 2026.",
+  "The executive page gives names and titles only, with no biographies. No named head of Private Banking, Wajaha or digital below the C-level.",
+  "LinkedIn: no profile found for CEO Al Shaibei or for Zakaria Glaoui. The company LinkedIn page is not linked from the website, so linkedin_company is null.",
+  "The scope and launch timing of The Group Securities MoU (30 Jul 2026) are not published. Check whether in-app trading follows.",
+  "Treasury & Investment customer products (funds, private equity) have no named products or providers.",
+  "No customer, employee or AUM figures are published in the 2025 annual report or the H1 2026 presentation."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B21",
+ "checked": "2026-10-12"
+}

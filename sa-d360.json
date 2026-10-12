@@ -1,0 +1,1134 @@
+{
+  "id": "sa-d360",
+  "name": "D360 Bank",
+  "short_name": "D360",
+  "legal_name": "D360 Bank (Closed Joint Stock Company, CR 1010822737)",
+  "name_ar": null,
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://d360.com",
+  "linkedin_company": "https://www.linkedin.com/company/d360bank/",
+  "category": "Bank",
+  "type": "Digital bank",
+  "model": "Islamic",
+  "founded": "Licensed by Council of Ministers decree no. 389 of 15 Feb 2022 (initial capital SAR 1.65bn, led by Derayah Financial); Derayah says it incubated D360 from 2018; early services for a customer waitlist from Nov 2023; SAMA no-objection to launch banking operations announced 18 Dec 2024, commercial launch Dec 2024.",
+  "regulators": [
+    "SAMA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Unlisted closed joint-stock company with SAR 2.1bn paid-up capital (website footer, checked 12 Oct 2026). Named main investors are the Public Investment Fund (PIF) and Derayah Financial (Tadawul-listed), which held 20.4% at 31 Mar 2026. Shareholders approved a SAR 1.5bn capital increase in Jun 2026 (72.9m new shares at SAR 20.57; SAR 4.5bn pre-money, SAR 6bn post-money valuation), after which Derayah expects about 16.35%. PIF's percentage and other shareholders are not disclosed in the sources found.",
+  "shareholders": [
+    {
+      "holder": "Derayah Financial Company (Tadawul 4984; equity-accounted associate)",
+      "pct": 20.4,
+      "as_of": "2026-03-31",
+      "source_ids": [
+        "S6",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "holder": "Public Investment Fund (PIF): named as a main investor on D360's About page; percentage not disclosed",
+      "pct": null,
+      "as_of": "2026-10-12",
+      "source_ids": [
+        "S1",
+        "S13"
+      ]
+    }
+  ],
+  "government_link": "Yes: the Public Investment Fund (Saudi sovereign wealth fund) is a named main investor, stake not disclosed (S1, S13). Licensed by Cabinet decree and supervised by SAMA. Checked 2026-10-12.",
+  "group_structure": "Standalone bank, not consolidated by any shareholder: Derayah accounts for its stake under the equity method (S6, S8). Derayah is described as having appointed more than 30% of D360's board members and treats the bank as a related party (Al Arabiya summary of Derayah's Tadawul filing, S24, search results only). A SAR 1.5bn capital increase approved in Jun 2026 is part of a Series A round that began in 2025 (S12); an employee share programme of 8.75m shares is planned (S24).",
+  "subsidiaries": [],
+  "footprint": "Saudi Arabia only; digital-only (app and web, no branches found). Registered office 7913 King Abdulaziz Rd, Al Arid district, Riyadh (S1). Checked 2026-10-12.",
+  "customer_segments": "Retail (young families, SME employees, expats, students), SMEs (freelancers, micro SMEs, one-person businesses, SMEs) and API-based banking clients (tech and e-commerce companies, fintechs and non-bank financial institutions, startups), per Derayah's description (S7). Personal financing is open to Saudi nationals only (S4).",
+  "business_lines": "Retail: current account with travel-oriented debit card (no international fees), Masareef prepaid card for family spending, Ehsan donation card, Pink card, Sanabil Monthly and Daily savings accounts, personal financing (SAR 5,000 to 1,000,000, up to 5 years), international transfers and MoneyGram, Musaned payments, Apple Pay, Samsung Pay and Google Pay. Business: SME banking and a Personal Financing Partners Program (S2). API-based banking for fintechs and e-commerce (S7). No investment, brokerage or fund product found on the website (checked 2026-10-12).",
+  "metrics": [
+    {
+      "metric": "customers",
+      "value": 3000000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "End-June 2026",
+      "period_type": "point_in_time",
+      "scope": "D360 Bank (all customers)",
+      "definition": "'more than 3 million customers' as of end-June 2026 as stated in shareholder Derayah's 2Q 2026 earnings release; active versus registered and retail versus business not stated",
+      "status": "Verified",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "Derayah 2Q 2026 earnings release p.4",
+      "note": "Lower bound ('more than'); second-hand disclosure by a shareholder, D360 publishes no financial statements that were found. D360 website says '+3,000,000'."
+    },
+    {
+      "metric": "customers",
+      "value": 3400000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-09-15",
+      "period_label": "Mid-Sep 2026 (media-agency release)",
+      "period_type": "point_in_time",
+      "scope": "D360 Bank (all customers)",
+      "definition": "'more than 3.4 million customers in under eighteen months' per a press release on D360's appointment of Initiative as media agency of record (signing 15 Sep 2026)",
+      "status": "Verified",
+      "source_ids": [
+        "S14"
+      ],
+      "locator": "Zawya press release, paragraph on D360",
+      "note": "Lower bound; release issued by the agency with a D360 executive quoted, not by D360's own site."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 3.6,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "End-June 2026",
+      "period_type": "point_in_time",
+      "scope": "D360 Bank",
+      "definition": "'customer deposits' of SAR 3.6bn as of end-June 2026, as stated in Derayah's 2Q 2026 earnings release; rounded; exact statement label and exclusions not available",
+      "status": "Verified",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "Derayah 2Q 2026 earnings release p.4",
+      "note": "Second-hand disclosure by a listed shareholder; D360 has not published its own balance sheet in the sources found. April 2026: SAR 3bn (S7)."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 3,
+      "unit": "billion",
+      "currency": "SAR",
+      "period_end": "2026-04-30",
+      "period_label": "End-April 2026",
+      "period_type": "point_in_time",
+      "scope": "D360 Bank",
+      "definition": "'SAR 3Bn in deposits' as at end of April 2026 per Derayah's investor presentation (June 2026); rounded",
+      "status": "Verified",
+      "source_ids": [
+        "S7",
+        "S12"
+      ],
+      "locator": "Derayah 1Q 2026 investor presentation p.11",
+      "note": "EnterpriseAM (15 Jun 2026) repeats 3 million customers and SAR 3bn deposits at April 2026."
+    },
+    {
+      "metric": "loans_disbursed",
+      "value": 500,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "End-June 2026",
+      "period_type": "point_in_time",
+      "scope": "D360 Bank",
+      "definition": "'SAR 500 million in disbursed loans' as of end-June 2026 per Derayah; not stated whether cumulative disbursements or outstanding balance; not a net or gross loans figure",
+      "status": "Requires verification",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "Derayah 2Q 2026 earnings release p.4",
+      "note": "Use only as an indicator of lending scale."
+    },
+    {
+      "metric": "paid_up_capital",
+      "value": 2100,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2026-10-12",
+      "period_label": "Website footer, checked 12 Oct 2026",
+      "period_type": "point_in_time",
+      "scope": "D360 Bank",
+      "definition": "Capital of SAR 2,100,000,000 (closed joint stock company) stated in the website footer; also 'SAR 2.1Bn in paid-up capital' in Derayah's June 2026 presentation",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S7"
+      ],
+      "locator": "Footer of S1; Derayah presentation p.11",
+      "note": "Before the Jun 2026 capital increase: SAR 1.5bn of new money, 72.9m shares at SAR 20.57, taking capital to about SAR 2.92bn per Al Arabiya/EnterpriseAM (S12, S24); whether the raise has closed is not confirmed. Licence capital in 2022 was SAR 1.65bn."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "total_assets",
+      "status": "Not found after research",
+      "where_checked": "D360 website (S1, S2, S5: investor-relations page is a contact form only); site-restricted search for financial statements / Pillar 3 / annual report found none; Derayah's results documents (S6, S7) do not give D360's balance sheet. Derayah's FY2025 statements and the Saudi Exchange copies returned HTTP 403 / were not opened. Checked 2026-10-12."
+    },
+    {
+      "metric": "net_loans",
+      "status": "Not found after research",
+      "where_checked": "Only 'SAR 500 million in disbursed loans' at end-June 2026 is reported (S6); no loan book on the website or in filings found."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not found after research",
+      "where_checked": "D360 publishes no income statement that was found. Derayah reports its equity-accounted share of D360 losses: SAR 57m in 1H 2026 (SAR 62m in 1H 2025) and SAR 28m in 2Q 2026 (S6, p.5-6); Derayah says D360 passed its peak loss phase in 2025 (S7)."
+    },
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "No investment product on the website (S2); Derayah materials (S6, S7)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "No investing feature found on d360.com (S1-S4)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not found after research",
+      "where_checked": "No affluent or wealth tier on the website (S1-S4); Derayah materials (S6, S7)."
+    }
+  ],
+  "people": [
+    {
+      "name": "Eze Szafir (Ezequiel Szafir Holcman)",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Executive management",
+      "scope": "Bank",
+      "appointed": "2024-01",
+      "appointed_note": "Forbes España (14 Jan 2024, citing El Confidencial) reports him as the new CEO of the bank before its launch; no D360 announcement of the date was found.",
+      "previous_roles": "Banco Santander 2015-2024: led its digital area and later global transformation; described as one of the architects of Openbank and led the Santander Consumer Finance and Openbank integration (Digital Consumer Bank); then adviser to the Santander chair in the US; earlier at Amazon (S17).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as CEO on the official About page (read in a browser, 2026-10-12, S1); quoted as CEO in Arab News/Bloomberg (3 Jun 2025, S13). Two LinkedIn candidates for the same name appeared in search (sa.linkedin.com/in/eze-szafir and linkedin.com/in/ezequiel-szafir-holcman-61601a2) but the snippets did not show the employer, so none is recorded. No departure news found.",
+      "source_ids": [
+        "S1",
+        "S13",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Taha Al Kuwaiz",
+      "name_ar": null,
+      "title": "Chairman of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as Chairman on the official About page (board tab), checked 2026-10-12 (S1, fetched text; the board tab was not re-opened in the browser). No bios published.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Zaki Alshowaier",
+      "name_ar": null,
+      "title": "Vice Chairman of the Board",
+      "functions": [
+        "Board"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faisal Al Jadaan",
+      "name_ar": null,
+      "title": "Deputy CEO (Acting)",
+      "functions": [
+        "Deputy CEO"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Executive management",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date of the acting appointment not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/faisalaljadaan/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page (browser read), checked 2026-10-12 (S1). LinkedIn: search-result match showing the same name and D360 Bank as employer; title not shown in the snippet (S19).",
+      "source_ids": [
+        "S1",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Osama AlShathri",
+      "name_ar": null,
+      "title": "Chief Retail Banking Officer",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Retail banking",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Titled 'Head of Retail Banking, D360 Bank' when co-signing the Mozn agreement on 11 Mar 2025 (S15).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/osama-alshathri/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1); named on the Mar 2025 Mozn partnership (S15). LinkedIn: search-result match showing the same name and D360 Bank as employer; title not shown in the snippet (S20).",
+      "source_ids": [
+        "S1",
+        "S15",
+        "S20"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Rayan Al Turki",
+      "name_ar": null,
+      "title": "Chief Commercial Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Commercial",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/ralturki/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1); quoted as Chief Commercial Officer in the 15 Sep 2026 Initiative release (S14). LinkedIn: search-result match, same name, D360 Bank as employer, Chief Commercial Officer (S21).",
+      "source_ids": [
+        "S1",
+        "S14",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ale de la Viña",
+      "name_ar": null,
+      "title": "Chief Technology Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Technology",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1). A LinkedIn search for this name returned nothing for D360.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Feras Al Towaijri",
+      "name_ar": null,
+      "title": "Chief Treasury & Investments",
+      "functions": [
+        "Treasury",
+        "Investments / asset management"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Treasury and investments",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1). A LinkedIn search found no profile tying him to D360.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ayman Al Habib",
+      "name_ar": null,
+      "title": "Chief Risk Officer",
+      "functions": [
+        "Other"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Risk",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sadeq Al Thawab",
+      "name_ar": null,
+      "title": "Chief Operation Officer",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Operations",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Lobna Alshahwan",
+      "name_ar": null,
+      "title": "Director of SME Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "SME banking",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Nazer",
+      "name_ar": null,
+      "title": "Chief Financial Officer (as reported Jun 2025; not on the current official management list)",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Finance",
+      "scope": "Bank",
+      "appointed": "2025",
+      "appointed_note": "Arab News/Bloomberg (3 Jun 2025) says the bank appointed him, a former JPMorgan Chase banker, to lead the Series A process; exact date not given.",
+      "previous_roles": "Former JPMorgan Chase & Co. banker (S13).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Named CFO in Jun 2025 (S13). The official management list read on 2026-10-12 has no CFO (S1). No departure news found; status unresolved.",
+      "source_ids": [
+        "S13",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Ghoneim",
+      "name_ar": null,
+      "title": "Former Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Executive management",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "Named CEO of D360 Bank by Mubasher on 22 Nov 2023 (S16); Forbes España reported Szafir as the new CEO on 14 Jan 2024 (S17) and the official page now lists Szafir (S1). No official departure notice was opened.",
+      "source_ids": [
+        "S16",
+        "S17",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Mohamed Ali AlGari (Elgari)",
+      "name_ar": null,
+      "title": "Chairman, Shariah Committee",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "D360 Bank",
+      "business_unit": "Shariah Committee",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Not published.",
+      "previous_roles": "Also listed as a member of STC Bank's Shariah Committee (Dr. Mohammed Ali Elgari; see sa-stcbank).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page (Shariah Committee tab), checked 2026-10-12 (S1). Other members: Dr. Bilqasim Alzubaidi and Dr. Khalid AlSaiari.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "D360 is a Shariah-compliant retail and SME digital bank (3m+ customers, SAR 3.6bn deposits and SAR 500m of loans disbursed at end-June 2026) with no investment, brokerage, fund or wealth product found on its website (checked 12 Oct 2026). Savings are the Sanabil Monthly and Daily accounts (expected variable profit 1.0% to 3.0% by balance band from SAR 1,000, as of 28 Dec 2025). Lending is personal financing (SAR 5,000 to 1,000,000, 3 months to 5 years, APR from 4.49%, Saudi nationals only) and SME finance planned with the 2026 capital raise. The shareholder Derayah Financial (listed brokerage and asset manager with the Derayah Smart robo-advisor) said in Aug 2026 that it is piloting integration between the Derayah platform and D360 so clients can move between investing and banking, and that selected services provided through D360 will extend Derayah's offer. D360 also pitches an API-based banking line to fintechs and e-commerce companies.",
+    "segments": [
+      {
+        "name": "Retail",
+        "tier": "Mass market / retail",
+        "eligibility": "Young families, SME employees, expats, students; Sanabil savings from SAR 1,000; personal financing for Saudi nationals with salary of SAR 4,000 or more",
+        "source_ids": [
+          "S7",
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "name": "SME and micro-business",
+        "tier": "SME",
+        "eligibility": "Freelancers, SMEs, micro SMEs, one-person businesses; Director of SME Banking appointed; SME lending a use of 2026 capital",
+        "source_ids": [
+          "S7",
+          "S1",
+          "S12"
+        ]
+      },
+      {
+        "name": "API-based banking",
+        "tier": "Corporate / partner",
+        "eligibility": "Tech and e-commerce companies, fintechs and non-bank financial institutions, startups",
+        "source_ids": [
+          "S7"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No affluent, premier or private-banking tier on the website or in Derayah's descriptions.",
+      "source_ids": [
+        "S2",
+        "S7"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No D360 fund manager or own-branded funds found.",
+      "source_ids": [
+        "S2",
+        "S6"
+      ]
+    },
+    "brokerage": {
+      "present": "Not found after research",
+      "detail": "No share-trading feature on d360.com. Derayah (shareholder) is the brokerage and is piloting platform integration with D360.",
+      "source_ids": [
+        "S2",
+        "S6"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "App features listed are accounts, cards, savings, financing and transfers; the homepage lists no investing product. Derayah says selected D360 services will connect to its investing platform (pilot, Aug 2026).",
+      "source_ids": [
+        "S2",
+        "S6"
+      ]
+    },
+    "advisory": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None at D360. Derayah has its own robo-advisor (Derayah Smart, relaunch listed among 2026 initiatives).",
+      "source_ids": [
+        "S2",
+        "S7"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "None found at D360.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "The whole bank is Shariah-governed (independent three-member Shariah Committee chaired by Dr. Mohamed Ali AlGari) but only Shariah-compliant savings and financing were found; no Shariah-compliant funds, portfolios or sukuk offer.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4"
+      ]
+    },
+    "asset_classes": [],
+    "partners": [
+      {
+        "partner": "Derayah Financial Company",
+        "kind": "Shareholder; investment platform and brokerage",
+        "what": "20.4% shareholder at 31 Mar 2026 (16.35% expected after the capital raise); Derayah is piloting integration between its platform and D360 Bank to move clients between investing and banking, and plans selected services through D360",
+        "date": "2026-08-04",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S6",
+          "S7"
+        ]
+      },
+      {
+        "partner": "Mozn (FOCAL)",
+        "kind": "AML compliance / onboarding technology",
+        "what": "D360 to integrate Mozn's AI-powered FOCAL AML compliance solution to speed customer onboarding and cut false positives; agreement co-signed by Mozn's co-founder/COO and D360's head of retail banking",
+        "date": "2025-03-11",
+        "status": "Announced",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "partner": "MoneyGram",
+        "kind": "Remittance partner",
+        "what": "MoU signed in 2025 for cross-border payments and remittances (EnterpriseAM); the D360 site footer carries MoneyGram terms and conditions",
+        "date": "2025",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S12",
+          "S1"
+        ]
+      },
+      {
+        "partner": "TerraPay",
+        "kind": "Real-time transfers",
+        "what": "Partnership for real-time fund transfers reported by EnterpriseAM; date and go-live not stated",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "partner": "Apple Pay, Samsung Pay, Google Pay",
+        "kind": "Mobile wallets",
+        "what": "Listed in the website footer as supported wallets",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "partner": "Initiative (MCN / Omnicom)",
+        "kind": "Media agency of record",
+        "what": "Appointed after a multi-agency pitch; signed at Money20/20 Riyadh",
+        "date": "2026-09-15",
+        "status": "Live",
+        "source_ids": [
+          "S14"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2022-02-15",
+        "what": "Council of Ministers decree no. 389 licensed D360 Bank (initial capital SAR 1.65bn, led by Derayah; PIF among backers)",
+        "source_ids": [
+          "S1",
+          "S10"
+        ]
+      },
+      {
+        "date": "2023-11-22",
+        "what": "Early digital banking services (accounts, free international transfers, bill payments) opened to a waitlist of existing customers",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "date": "2024-12-18",
+        "what": "SAMA announced no objection to D360 launching banking operations in the Kingdom; Derayah dates the commercial launch to Dec 2024",
+        "source_ids": [
+          "S9",
+          "S7"
+        ]
+      },
+      {
+        "date": "2025-03-11",
+        "what": "Partnership with Mozn to integrate FOCAL AML compliance for onboarding",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2025-06-03",
+        "what": "CEO told Bloomberg the bank was in early talks with European/US investors for a Series A, had raised about USD 500m from existing shareholders incl. PIF and Derayah, and targeted 4m accounts and a possible listing within four years",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "date": "2026-06",
+        "what": "Derayah's June 2026 presentation reports 23 products and features launched in 12 months across retail and API-based banking, positive unit economics in lending, savings and remittances, and the bank past its peak loss phase in 2025",
+        "source_ids": [
+          "S7"
+        ]
+      },
+      {
+        "date": "2026-06-14",
+        "what": "Extraordinary General Assembly approved a SAR 1.5bn capital raise (72.9m shares at SAR 20.57; SAR 4.5bn pre-money, SAR 6bn post-money) to expand lending, target SME finance and scale API banking; listing considered in about three years",
+        "source_ids": [
+          "S11",
+          "S12",
+          "S6"
+        ]
+      },
+      {
+        "date": "2026-08-04",
+        "what": "Derayah reports D360 at end-June 2026: 3m+ customers, SAR 3.6bn deposits, SAR 500m loans disbursed, losses falling for a second quarter; pilot of Derayah-D360 platform integration",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "date": "2026-09-15",
+        "what": "Initiative appointed media agency of record; release cites 3.4m+ customers",
+        "source_ids": [
+          "S14"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "3m+ customers and SAR 3.6bn deposits at end-June 2026 with no investment, funds or wealth product on the site; savings limited to Sanabil accounts (S6, S2, S3).",
+        "SAR 1.5bn capital raise approved Jun 2026 to expand lending, SME finance and API banking; a Series A with international investors is under way (S12, S13).",
+        "Derayah has said it is piloting integration with D360 so clients can move between investing and banking (S6)."
+      ],
+      "barriers": [
+        "Shareholder Derayah (20.4%, appoints more than 30% of the board per a filing summary) already runs brokerage, funds and the Derayah Smart robo-advisor and plans services through D360, so it is the likely default investing partner (S6, S7, S24).",
+        "Shariah-governed bank: any shelf needs Shariah screening and committee approval (S1).",
+        "Still in an investment phase: Derayah's share of D360 losses was SAR 57m in 1H 2026; use of new capital is stated as lending, SME and API banking, not wealth (S6, S12).",
+        "No wealth, investments or digital-product head named on the official list; CFO status unclear (S1, S13)."
+      ],
+      "incumbent_vendors": [
+        "Mozn (FOCAL) — AML compliance and onboarding (S15)",
+        "TerraPay — real-time transfers (S12)",
+        "MoneyGram — remittances (S12, S1)",
+        "Derayah — shareholder with investing platform (S6)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "About Us: investors, management team, board of directors, Shariah Committee",
+      "publisher": "D360 Bank",
+      "url": "https://d360.com/en/about-us",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Management list read in the built-in browser; board and Shariah tabs read from a WebFetch summary. Footer gives capital, CR number and Cabinet decree 389."
+    },
+    {
+      "id": "S2",
+      "title": "D360 Bank homepage (English and Arabic)",
+      "publisher": "D360 Bank",
+      "url": "https://d360.com/en",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "English page read in the browser. Arabic page https://d360.com/ar fetched by WebFetch; it links the official LinkedIn company page."
+    },
+    {
+      "id": "S3",
+      "title": "Sanabil Monthly Account",
+      "publisher": "D360 Bank",
+      "url": "https://d360.com/en/personal/sanabil-monthly-account",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": "2025-12-28",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Rates quoted 'as of 28 Dec 2025'; calculation timing note from 1 May 2026."
+    },
+    {
+      "id": "S4",
+      "title": "Personal Financing",
+      "publisher": "D360 Bank",
+      "url": "https://d360.com/en/personal/personal-financing",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S5",
+      "title": "Investor page (contact form only)",
+      "publisher": "D360 Bank",
+      "url": "https://d360.com/en/investor-relations",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Opened in the browser: contains only an inquiry form, no financial disclosures."
+    },
+    {
+      "id": "S6",
+      "title": "Derayah Financial 2Q 2026 Earnings Release (4 August 2026)",
+      "publisher": "Derayah Financial Company (Tadawul 4984)",
+      "url": "https://ir.derayah.com/assets/files/Derayah%20ER%202Q%202026%20ENG%2020260804.pdf",
+      "doc_type": "Shareholder results release",
+      "tier": 2,
+      "published": "2026-08-04",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Source of D360's end-June 2026 customers, deposits and disbursed loans; second-hand disclosure by a shareholder."
+    },
+    {
+      "id": "S7",
+      "title": "Derayah Financial Investor Presentation (June 2026, 1Q 2026 results)",
+      "publisher": "Derayah Financial Company (Tadawul 4984)",
+      "url": "https://ir.derayah.com/assets/files/Derayah_1Q%202026%20Investor%20Presentation_Final.pdf",
+      "doc_type": "Shareholder investor presentation",
+      "tier": 2,
+      "published": "2026-06",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Pages 7 and 11 (page 11 rendered and read as an image). Data as at end of April 2026."
+    },
+    {
+      "id": "S8",
+      "title": "Derayah Financial interim financial statements 2Q 2025 (note 9: investment in an associate)",
+      "publisher": "Derayah Financial Company",
+      "url": "https://ir.derayah.com/assets/files/Derayah_Audited_%20Financial%20Statements_2Q2025_English.pdf",
+      "doc_type": "Reviewed interim financial statements of shareholder",
+      "tier": 1,
+      "published": "2025-08",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "States Derayah holds 20% equity in D360 (equity method) and subscribed 9,838,037 new shares in the period."
+    },
+    {
+      "id": "S9",
+      "title": "SAMA greenlights D360 banking operations in Saudi Arabia",
+      "publisher": "Mubasher (Sharikat Mubasher)",
+      "url": "https://en.sharikatmubasher.com/media-hub/news/21457487/sama-greenlights-d360-banking-operations-in-saudi-arabia?lang=en",
+      "doc_type": "News relaying SAMA announcement",
+      "tier": 5,
+      "published": "2024-12-18",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list. SAMA's own announcement was not found on sama.gov.sa."
+    },
+    {
+      "id": "S10",
+      "title": "D360 gets licence",
+      "publisher": "Retail Banker International",
+      "url": "https://www.retailbankerinternational.com/news/d360-gets-license/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2022-02-16",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list; used for licence capital SAR 1.65bn and Derayah-led consortium."
+    },
+    {
+      "id": "S11",
+      "title": "D360 becomes largest Saudi digital bank by capital after approved increase",
+      "publisher": "Mubasher (Sharikat Mubasher)",
+      "url": "https://sharikatmubasher.com/news/article/21556130/d360-becomes-largest-saudi-digital-bank-by-capital-after-approved-increase?lang=en",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-06-14",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list; corroborated by Derayah (S6)."
+    },
+    {
+      "id": "S12",
+      "title": "D360 raises its capital to fuel lending expansion",
+      "publisher": "Enterprise (enterpriseam.com)",
+      "url": "https://enterpriseam.com/ksa/2026/06/15/d360-raises-its-capital-to-fuel-lending-expansion/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-06-15",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list. Headline figure of SAR 2.92bn capital after the raise is inconsistent with some summaries (see discrepancies)."
+    },
+    {
+      "id": "S13",
+      "title": "PIF-backed D360 bank eyes global investors for Series A round",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.com/node/2603184/amp",
+      "doc_type": "News (citing Bloomberg interview)",
+      "tier": 5,
+      "published": "2025-06-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S14",
+      "title": "Initiative wins media mandate for D360 Bank in Saudi Arabia",
+      "publisher": "Zawya (press release)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/initiative-wins-media-mandate-for-d360-bank-in-saudi-arabia-1021511",
+      "doc_type": "Press release",
+      "tier": 5,
+      "published": "2026-09-15",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page shows no date; date taken from the signing ceremony at Money20/20 Riyadh (15 Sep 2026) in the text."
+    },
+    {
+      "id": "S15",
+      "title": "Mozn and D360 Bank partner to accelerate digital banking security compliance in Saudi Arabia",
+      "publisher": "Mozn",
+      "url": "https://www.mozn.ai/blog/mozn-and-d360-bank-partner-to-accelerate-digital-banking-security-compliance-in-saudi-arabia",
+      "doc_type": "Partner press release",
+      "tier": 5,
+      "published": "2025-03-11",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Original mozn.sa URL redirected (301) to mozn.ai."
+    },
+    {
+      "id": "S16",
+      "title": "Saudi D360 Bank unveils new digital banking services",
+      "publisher": "Mubasher (Sharikat Mubasher)",
+      "url": "https://sharikatmubasher.com/news/article/21386674/21378477",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-11-22",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list. Names Mohammed Ghoneim as CEO."
+    },
+    {
+      "id": "S17",
+      "title": "Ezequiel Szafir, nuevo consejero delegado del banco saudí D360",
+      "publisher": "Forbes España",
+      "url": "https://forbes.es/nombramientos/395751/ezequiel-szafir-nuevo-consejero-delegado-del-banco-saudi-d360/",
+      "doc_type": "News (citing El Confidencial)",
+      "tier": 5,
+      "published": "2024-01-14",
+      "accessed": "2026-10-12",
+      "language": "es",
+      "note": "Outlet not on the protocol's tier-5 list; used for appointment timing and career summary only."
+    },
+    {
+      "id": "S18",
+      "title": "Digital Banks (licensed entities list)",
+      "publisher": "Saudi Central Bank (SAMA)",
+      "url": "https://www.sama.gov.sa/en-US/Supervision/LicenseEntities/Pages/DigitalBank.aspx",
+      "doc_type": "Regulator register page",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists only STC bank and Saudi Digital Bank (both 'Licensed - has not started yet'); D360 Bank is absent, so the page is out of date."
+    },
+    {
+      "id": "S19",
+      "title": "Faisal AlJadaan - D360 Bank (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/faisalaljadaan/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only."
+    },
+    {
+      "id": "S20",
+      "title": "Osama AlShathri - D360 Bank (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/osama-alshathri/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only."
+    },
+    {
+      "id": "S21",
+      "title": "Rayan AlTurki - D360 Bank (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ralturki/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only; snippet shows Chief Commercial Officer at D360 Bank."
+    },
+    {
+      "id": "S22",
+      "title": "D360 Bank (LinkedIn company page)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/company/d360bank/",
+      "doc_type": "LinkedIn company page (linked from the official site)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "URL taken from the official website's social links; page not opened."
+    },
+    {
+      "id": "S23",
+      "title": "\"دراية المالية\": زيادة رأس مال \"بنك D360\" إلى 2.92 مليار ريال",
+      "publisher": "Al Arabiya",
+      "url": "https://www.alarabiya.net/aswaq/financial-markets/2026/06/14/%D8%AF%D8%B1%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A7%D8%B3-%D9%85%D8%A7%D9%84-%D8%A8%D9%86%D9%83-d360-%D8%A7%D9%84%D9%89-292-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%B1%D9%8A%D8%A7%D9%84",
+      "doc_type": "News (summarising Derayah's Tadawul disclosure)",
+      "tier": 5,
+      "published": "2026-06-14",
+      "accessed": "2026-10-12",
+      "language": "ar",
+      "note": "Seen in search results only (a search-result summary); the page could not be opened (DNS failure). Used for the employee share programme, Derayah board-nomination and capital-after-raise figures; Derayah's own release (S6) confirms the stake figures."
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Capital after the Jun 2026 raise",
+      "detail": "Al Arabiya (summarising Derayah's Tadawul filing) and EnterpriseAM give capital rising 38.9% to about SAR 2.92bn on 72.9m new shares at SAR 20.57; Mubasher and Derayah describe a SAR 1.5bn raise at a SAR 4.5bn pre-money valuation without a total-capital figure. The figures do not reconcile cleanly (72.9m shares at SAR 20.57 equals about SAR 1.5bn of proceeds, while a 38.9% rise from SAR 2.1bn implies about SAR 817m of new capital; the nominal share value is not stated in the sources).",
+      "source_ids": [
+        "S23",
+        "S12",
+        "S11",
+        "S6"
+      ],
+      "resolution": "Recorded paid-up capital as SAR 2.1bn (pre-raise, website footer) and gave raise terms in initiatives; the post-raise capital is unconfirmed until D360 or Derayah's Tadawul filing is read."
+    },
+    {
+      "field": "SAMA digital-bank register",
+      "detail": "SAMA's digital banks page lists only STC bank and Saudi Digital Bank, both 'Licensed - has not started yet', and omits D360 Bank, although SAMA gave D360 no-objection to launch in Dec 2024 and the Cabinet licensed it in Feb 2022.",
+      "source_ids": [
+        "S18",
+        "S9"
+      ],
+      "resolution": "Used the licence decree on D360's site and the Dec 2024 news; the SAMA page is out of date."
+    },
+    {
+      "field": "Customer count over time",
+      "detail": "Arab News (Jun 2025) says D360 had over 1 million users; Derayah's chart shows about 1m in May 2025, 2m in Oct 2025 and 3m in Apr 2026; Derayah says 3m+ at end-June 2026; an agency release says 3.4m+ in Sep 2026.",
+      "source_ids": [
+        "S13",
+        "S7",
+        "S6",
+        "S14"
+      ],
+      "resolution": "Consistent growth path; recorded the end-June 2026 figure as the primary value and Sep 2026 as an extra record."
+    }
+  ],
+  "open_items": [
+    "No D360-published financial statements, Pillar 3 report or annual report found (investor page is a contact form). Total assets, net loans, equity, net loss and employee count are not recorded; deposits, customers and disbursed loans come from shareholder Derayah's 2Q 2026 release. Derayah's FY2025 statements and Tadawul filing (Saudi Exchange, HTTP 403) should be read via a permitted route for D360's associate note.",
+    "SAMA's own D360 announcement was not found on sama.gov.sa; the Dec 2024 date comes from Mubasher and Derayah's presentation.",
+    "PIF's percentage and other shareholders (including the 2018 founding investors) are not disclosed; the PIF portfolio page returned HTTP 403.",
+    "Seven directors on the official board list are not profiled (Nouf AlJoaid, Fahad AlJomaih, Faraz Khalid, Mudassir Sheikha, Tim Brooke, Ibrahim Al Jammaz, Bassem Al Sallom), nor are the Chief Legal, Compliance and Internal Audit heads (Yara AlZouman, Mohammed Al Khomashi, Shihanah Al Yousef) or the other two Shariah Committee members.",
+    "CFO: Mohammed Nazer was named CFO in Jun 2025 but is absent from the official management list read on 12 Oct 2026; confirm whether he is still in role.",
+    "LinkedIn: CEO profile could not be matched to D360 from search snippets (two same-name candidates); Chief Treasury & Investments, CTO and several others were not matched. No chief digital, product or wealth head is listed.",
+    "Whether D360 has launched or plans investment or wealth products, and how the Derayah integration will work, is not stated; check the D360 app and Derayah's 3Q 2026 release (expected Nov 2026).",
+    "Intellinews (600,000 customers; AI-powered financing launch) and PIF portfolio page returned HTTP 403 and were not opened; Thunes (2023) and TerraPay partnership details were seen only in search summaries and are not relied on beyond the EnterpriseAM mention.",
+    "A 'Saudi Digital Bank' licensed on 22 Jun 2021 (SAR 1.5bn, group led by Abdul Rahman bin Saad Al-Rashed and Sons, per SAMA) is a different licence from D360's decree of 15 Feb 2022; the two should not be conflated (see sa-stcbank source S11)."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B16",
+  "checked": "2026-10-12"
+}

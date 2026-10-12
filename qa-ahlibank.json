@@ -1,0 +1,1183 @@
+{
+ "id": "qa-ahlibank",
+ "name": "Ahlibank",
+ "short_name": "Ahlibank",
+ "legal_name": "Ahli Bank Q.P.S.C.",
+ "name_ar": "البنك الأهلي",
+ "country": "QA",
+ "hq_city": "Doha",
+ "website": "https://www.ahlibank.com.qa",
+ "linkedin_company": "https://www.linkedin.com/company/ahli-bank-qsc",
+ "category": "Bank",
+ "type": "Universal / commercial bank",
+ "model": "Conventional",
+ "founded": "1983 (incorporated under Emiri Decree No. 40 of 1983; banking activity began 4 Aug 1984 under QCB licence RM/13/1984)",
+ "regulators": [
+  "QCB",
+  "QFMA (QSE-listed issuer)"
+ ],
+ "listed": true,
+ "exchange": "QSE",
+ "ticker": "ABQK",
+ "parent_id": null,
+ "ownership_summary": "QSE-listed. The Qatar Investment Authority (QIA) and its wholly owned subsidiaries hold 47.56%, and Qatari firms and individuals hold the remaining 52.44% (Annual Report 2025 and H1 2026 investor presentation). No other shareholder owns more than 5%.",
+ "shareholders": [
+  {
+   "holder": "Qatar Investment Authority and its wholly owned subsidiaries",
+   "pct": 47.56,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S6",
+    "S4"
+   ]
+  }
+ ],
+ "government_link": "Yes - QIA and its wholly owned subsidiaries hold 47.56% (H1 2026 investor presentation; Annual Report 2025).",
+ "group_structure": "Ahli Bank Q.P.S.C. is the QSE-listed parent and operates only in Qatar. It has three 100% subsidiaries: Ahli Brokerage Company L.L.C. (QSE brokerage, launched 2011; capital QR 50m at 31 Dec 2025 and QR 35m at 30 Jun 2026), ABQ Finance Limited (Cayman Islands, debt issuance) and ABQ Innovate L.L.C. (Qatar, consultancy services). It reports two segments: 'Retail & private banking and wealth management', and 'Corporate banking, treasury, investments and brokerage subsidiary'. Ahli United Bank's 2004 stake and management agreement, and Qatar Foundation's 2013 stake, are historical; QIA is the current anchor shareholder.",
+ "subsidiaries": [
+  {
+   "name": "Ahli Brokerage Company L.L.C.",
+   "pct": 100,
+   "activity": "Brokerage on the Qatar Stock Exchange (branch trading floor, phone, internet trading, VIP lounge, Reuters order routing for institutions)",
+   "linked_id": null,
+   "source_ids": [
+    "S3",
+    "S2",
+    "S13",
+    "S15"
+   ]
+  },
+  {
+   "name": "ABQ Finance Limited",
+   "pct": 100,
+   "activity": "Debt issuance vehicle (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "ABQ Innovate L.L.C.",
+   "pct": 100,
+   "activity": "Consultancy services (Qatar)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  }
+ ],
+ "footprint": "Qatar only. 12 branches and 93 ATMs (Annual Report 2025 and Overview page). The QCB licence for 2026 lists 11 type-B branches, 1 type-C branch and 91 ATMs. A new branch opened at Doha Oasis in Jan 2026.",
+ "customer_segments": "Retail (mass), Premium Banking (affluent; branch Premium Lounges), Private Banking (HNW individuals, families, trusts and private businesses resident in Qatar), corporate, institutional and government-related clients, SMEs, and brokerage clients through Ahli Brokerage.",
+ "business_lines": "Corporate Banking (QAR 35.0bn assets in 2025); Retail Banking (QAR 4.6bn assets and QAR 12.6bn liabilities in 2025; savings including the Winner prize account, cards, loans, bancassurance with MetLife); Private Banking & Wealth Management (QAR 2.3bn assets and QAR 5.6bn liabilities in 2025; bonds, local equities through Ahli Brokerage, structured and alternative products, a partnership with an unnamed international investment bank, and a digital trading platform rolled out in 2025); Treasury & International Banking (ALM, money market, FX, correspondent banking, EMTN and QAR MTN issuance); and brokerage through Ahli Brokerage.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 62501073,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS, interim consolidated statement of financial position (reviewed; approved 20 Jul 2026)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.4 (scanned page, read visually)",
+   "note": "Q3 2026 statements were not yet on QSE on 12 Oct 2026."
+  },
+  {
+   "metric": "total_assets",
+   "value": 62695155,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS, consolidated statement of financial position (audited, Deloitte)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.4 comparative column",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 33204872,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits' line. Excludes due to banks and central bank (QAR 16,091,590k), debt securities and other borrowings.",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S6"
+   ],
+   "locator": "S2 PDF p.4",
+   "note": "Down from QAR 35.0bn at 31 Dec 2025, while due to banks rose."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 35009628,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits' line (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.4 comparative column",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 42573010,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Loans and advances to customers (net of impairment), interim statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.4",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 39598554,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Loans and advances to customers (net), audited",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.4 comparative column",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 7337910,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL EQUITY. No AT1 remained at 30 Jun 2026: the QR 1,092,000k Tier 1 notes issued 17 Feb 2021 show nil, against QR 1,092,000k at 31 Dec 2025.",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.4 and note 6",
+   "note": "FY2025 total equity was QAR 8,691,262k including AT1."
+  },
+  {
+   "metric": "operating_income",
+   "value": 1572009,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL OPERATING INCOME', consolidated statement of income: net interest income QAR 1,325,601k plus fees, FX, investment gains and other income",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.10",
+   "note": "FY2024: QAR 1,840,043k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 806968,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL OPERATING INCOME', interim statement of income",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.5",
+   "note": "Net fee and commission income fell to QAR 69,329k from QAR 122,962k in H1 2025."
+  },
+  {
+   "metric": "net_profit",
+   "value": 932440,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'PROFIT FOR THE YEAR'. There are no non-controlling interests, so it is all attributable to equity holders of the Bank.",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 PDF p.10",
+   "note": "+4.6% vs 2024 (QAR 891,624k)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 407427,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'PROFIT FOR THE PERIOD', interim statement of income",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S5"
+   ],
+   "locator": "S2 PDF p.5",
+   "note": "Release: QAR 407m vs QAR 402m."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "value": 5.6,
+   "unit": "billion",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Division: Private Banking & Wealth Management",
+   "definition": "Private Banking 'liabilities increased to QR 5.6 billion' (client deposits and liabilities booked in the division; +22.2%). The division's assets (lending) were QR 2.3bn (+16.3%). This is not AUM: off-balance-sheet investments are not disclosed.",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "AR 2025 printed p.28 (PDF p.15)",
+   "note": "Rounded figure from the annual report narrative."
+  },
+  {
+   "metric": "employees",
+   "value": 432,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Bank",
+   "definition": "Workforce total (156 female, 276 male)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "AR 2025 printed p.50 (PDF p.26)",
+   "note": ""
+  },
+  {
+   "metric": "branches",
+   "value": 12,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Bank - Qatar",
+   "definition": "Branches in Qatar",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S12"
+   ],
+   "locator": "S3 note 1; S4 p.8",
+   "note": "93 ATMs (AR 2025). The 30 Jun 2026 statements also state 12 branches (S2)."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "H1 2026 interim statements (S2); FY2025 statements, which only give a fiduciary-activities policy and no amount (S3); Annual Report 2025 Private Banking section (S4); H1 2026 investor presentation (S6); Private Banking pages (S7-S9)."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "Annual Report 2025 (S4) and H1 2026 investor presentation (S6). The AR gives only 38,198 no-cost accounts for previously unbanked customers."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "Ahli Brokerage website (S13, S15); Annual Report 2025 (S4)."
+  },
+  {
+   "metric": "brokerage_trading_value",
+   "status": "Not found after research",
+   "where_checked": "Ahli Brokerage website (S13); Annual Report 2025 (S4)."
+  }
+ ],
+ "people": [
+  {
+   "name": "Sheikh Faisal Bin AbdulAziz Bin Jassim Al-Thani",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Was already Chairman when the CEO was appointed in Jul 2020 (S16).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1). Signed the 30 Jun 2026 statements as Chairman (S2) and was quoted in the H1 2026 release (S5).",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hassan Ahmed AlEfrangi",
+   "name_ar": null,
+   "title": "Chief Executive Officer",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2020-07",
+   "appointed_note": "Appointment announced 2 Jul 2020 (S16).",
+   "previous_roles": "Group CEO, Qatar General Insurance and Reinsurance Company. Began his career at Ahlibank and worked in several departments (S16, S4). Search results (not opened) say his last earlier Ahlibank role was Deputy CEO - Retail and Private Banking, and that he was promoted to Deputy CEO Retail Banking in 2016 (S18).",
+   "education": "Bachelor's degree in Finance and Banking (S16); the AR says 'bachelor's degree in financial sciences' (S4)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page (S1); signed the 30 Jun 2026 statements as CEO (S2); quoted in the 21 Jul 2026 release (S5).",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S5",
+    "S16",
+    "S4",
+    "S18"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Othman Hijazi",
+   "name_ar": null,
+   "title": "Senior Chief Business Officer",
+   "functions": [
+    "Retail",
+    "Private banking",
+    "Corporate / wholesale"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Business sector (Retail, Corporate and Private Banking report here per the 2025 org chart)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "The AR 2025 governance section titles him 'Senior Chief Executive Officer, Business Sector' (S4).",
+   "previous_roles": "Nearly three decades in MENA banking and markets, mainly in Bahrain and the UAE, including leadership roles at Ahli United Bank (Bahrain) and Standard Chartered (S4).",
+   "education": "Master's degree in finance and applied finance (S4)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1); AR 2025 message from the Senior Chief Business Officer (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmad Abukhalil",
+   "name_ar": "احمد زهدي ابوخليل",
+   "title": "Head of Private Banking & Wealth Management",
+   "functions": [
+    "Private banking",
+    "Wealth"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Private Banking & Wealth Management",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Named only in the 'Ahlibank Organizational Structure 2025' chart in the Annual Report 2025 (Arabic label gives the full name). Not on the website leadership page, which lists only senior management.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "AR 2025 organisation chart, printed p.124 (PDF p.63) (S4). The 2026 search found no news or profile.",
+   "source_ids": [
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Shadi Khoury",
+   "name_ar": null,
+   "title": "Head of Retail Banking",
+   "functions": [
+    "Retail",
+    "Affluent"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Retail Banking",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Named in the AR 2025 organisation chart only.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "AR 2025 organisation chart (S4); not on the website leadership page (S1).",
+   "source_ids": [
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mahalingam Shankar",
+   "name_ar": null,
+   "title": "Chief Executive - Finance and Strategy",
+   "functions": [
+    "Finance",
+    "Strategy"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Finance & Strategy",
+   "scope": "Group",
+   "appointed": "2013-03",
+   "appointed_note": "Joined Jul 2006; Deputy CEO for Finance, Operations, Services and IT from Mar 2013 (S4).",
+   "previous_roles": "Operations Director, GE Capital; Head of Finance, Dresdner Bank; Senior Analyst, Gulf Bank (Kuwait) (S4).",
+   "education": "B.Com, University of Delhi; postgraduate qualification in finance (ICMAI); executive education at Harvard Business School; fintech certificates from MIT (S4)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page (S1) and AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Derek Kwok",
+   "name_ar": null,
+   "title": "Chief Executive - Treasury & International Banking",
+   "functions": [
+    "Treasury",
+    "Brokerage"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Treasury & International Banking (brokerage services through Ahli Brokerage are described within this division)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page (S1); AR 2025 message from the Chief Executive, Treasury & International Banking (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Samer Totah",
+   "name_ar": null,
+   "title": "General Manager, Ahli Brokerage Company",
+   "functions": [
+    "Brokerage",
+    "Subsidiary CEO"
+   ],
+   "entity": "Ahli Brokerage Company L.L.C.",
+   "business_unit": "Ahli Brokerage",
+   "scope": "Subsidiary: Ahli Brokerage Company",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed on the Ahli Brokerage Management Team page, checked 2026-10-12 (S14). The site footer reads 'Copyright 2014', so the page may be stale; no other confirmation found.",
+   "source_ids": [
+    "S14"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Rajesh Srinivasan",
+   "name_ar": null,
+   "title": "Head of Strategy",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Strategy (under Chief Executive - Finance & Strategy)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Named in the AR 2025 organisation chart only.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "AR 2025 organisation chart (S4).",
+   "source_ids": [
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mahesh Sangisetti",
+   "name_ar": null,
+   "title": "Head of Transaction Banking & Transformation",
+   "functions": [
+    "Digital",
+    "Innovation / partnerships"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Transaction Banking & Transformation",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Named in the AR 2025 organisation chart only. The AR describes a 2025 enterprise-wide Transformation Program run by dedicated transformation teams.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "AR 2025 organisation chart (S4).",
+   "source_ids": [
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sanjay Macmado",
+   "name_ar": null,
+   "title": "Head of Information Technology (Acting)",
+   "functions": [
+    "Technology"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Information Technology",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Shown as acting in the AR 2025 organisation chart.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "AR 2025 organisation chart (S4).",
+   "source_ids": [
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Yazan Nusairat",
+   "name_ar": null,
+   "title": "Chief Operating Officer (Acting)",
+   "functions": [
+    "Operations"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Operations",
+   "scope": "Group",
+   "appointed": "2025",
+   "appointed_note": "Joined Ahlibank in 2025. The AR governance section calls him 'Chief Operations Officer', and the org chart 'Chief Operating Officer (Acting)' and Head of Operations (S4).",
+   "previous_roles": "Capital Bank of Jordan: COO 2018-2021; GM Process Improvement 2021-2024; CEO - Business Operations 2014-2018; helped set up two Islamic banks (S4).",
+   "education": "Bachelor's in Business Administration and Marketing (S4)",
+   "qualifications": "Certified Islamic Banker (CIB); CAMS (S4)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "AR 2025 governance section and org chart (S4); not on the website leadership page (S1).",
+   "source_ids": [
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Mousa Al Namla",
+   "name_ar": null,
+   "title": "Chief Executive - Human Resources, Administration and Support Services",
+   "functions": [
+    "Operations",
+    "Other"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "HR, Administration and Support Services",
+   "scope": "Group",
+   "appointed": "2016",
+   "appointed_note": "Joined after QNB (1996-2016) (S4).",
+   "previous_roles": "QNB 1996-2016, including Assistant General Manager, Financial and Regulatory Reporting (S4).",
+   "education": "Bachelor's in Business Administration (S4)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page (S1) and AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Aly Sobh",
+   "name_ar": null,
+   "title": "Chief Risk Officer",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Risk",
+   "scope": "Group",
+   "appointed": "2022",
+   "appointed_note": "Rejoined Ahlibank in 2022 (S4).",
+   "previous_roles": "Ahli United Bank Group, Kuwait: Deputy General Manager, Risk Management (2017-2022). Earlier in risk management at Ahlibank, 2007-2010 (S4).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page (S1) and AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Ahlibank runs a conventional Private Banking & Wealth Management division, headed by Ahmad Abukhalil according to the 2025 org chart, within the business sector led by Senior Chief Business Officer Othman Hijazi. It serves HNW individuals, families, trusts and private businesses resident in Qatar. RMs are supported by portfolio analysts. Products are local and international bonds (trading, sales and execution from AAA to non-investment grade) and QSE equities through the 100% subsidiary Ahli Brokerage. The 2025 annual report adds structured solutions and alternative assets, advisory and access to global investments through a partnership with an unnamed 'leading international investment bank', and a newly rolled-out digital trading platform for real-time market access. In 2025 Private Banking grew liabilities 22.2% to QR 5.6bn and assets 16.3% to QR 2.3bn. Premium Banking (affluent) offers RMs, branch Premium Lounges and 'investment management'. Retail investment is limited to MetLife unit-linked plans such as International Wealth Builder (180+ funds). No AUM, asset manager or in-app investing in the bank's mobile app was found.",
+  "segments": [
+   {
+    "name": "Premium Banking",
+    "tier": "Affluent",
+    "eligibility": "Not published. Dedicated RM, Premium Lounges in 7 branches, Signature credit card.",
+    "source_ids": [
+     "S10"
+    ]
+   },
+   {
+    "name": "Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "Not published. HNW clients and residents of Qatar: individuals, families, trusts and private businesses.",
+    "source_ids": [
+     "S8"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Dedicated RMs supported by portfolio analysts, offering 'discreet personal asset and liability management', banking solutions and investment solutions. The division reported QR 2.3bn assets and QR 5.6bn liabilities in 2025, and is expanding investment, structured and alternative products through a partnership with an unnamed international investment bank.",
+   "source_ids": [
+    "S7",
+    "S8",
+    "S9",
+    "S4"
+   ]
+  },
+  "asset_management": {
+   "present": "Not found after research",
+   "detail": "No asset management subsidiary, proprietary funds or AUM figure was found in the group structure (S3) or on the website.",
+   "source_ids": [
+    "S3",
+    "S4"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Ahli Brokerage Company L.L.C. (100%; licensed QSE brokerage launched 2011). It offers QSE access through a branch trading floor (Ahli Bank Building, Salwa Road), phone trading, an Internet Trading System, a VIP Trading Lounge for HNWIs, and Reuters order routing for foreign institutional brokers. It has its own mobile app ('Ahli Brokerage Co'). Qatar market only.",
+   "source_ids": [
+    "S13",
+    "S15",
+    "S6",
+    "S9"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Investing is through Ahli Brokerage's Internet Trading System and app (QSE equities only). For Private Banking, the AR 2025 reports 'the rollout of its digital trading platform' giving real-time market access; the platform and provider are not named. No investing in the Ahlibank personal mobile app was found. Retail and corporate digital platforms are being rebuilt; a new corporate platform from an unnamed 'leading provider' was due by mid-2026.",
+   "source_ids": [
+    "S15",
+    "S4",
+    "S19"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Private Banking gives 'appropriate and sensitive advice' with portfolio-analyst support, plus advisory and global investment access through an international investment bank partnership. Premium Banking RMs cover 'account and investment management needs'.",
+   "source_ids": [
+    "S8",
+    "S4",
+    "S10"
+   ]
+  },
+  "discretionary": {
+   "present": "Not found after research",
+   "detail": "No discretionary mandate offering was found on the Private Banking pages or in the AR 2025.",
+   "source_ids": [
+    "S9",
+    "S4"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "None found.",
+   "source_ids": [
+    "S9",
+    "S4"
+   ]
+  },
+  "funds_platform": {
+   "present": "Unclear",
+   "detail": "The 2025 segment note says Private Banking serves HNWIs with 'investment products, funds, credit facilities, trusts, and alternative investments', but no fund shelf or provider is named. Retail customers can reach 180+ funds only inside MetLife unit-linked plans (International Wealth Builder).",
+   "source_ids": [
+    "S3",
+    "S11"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "The AR 2025 says Private Banking is expanding 'investment products, structured solutions and alternative assets'. No issuers or terms are published.",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  "private_markets": {
+   "present": "Unclear",
+   "detail": "'Alternative investments' and 'alternative assets' appear in the segment note and the AR narrative, with no named products.",
+   "source_ids": [
+    "S3",
+    "S4"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Not found after research",
+   "detail": "Conventional bank; no Shari'a-compliant wealth products found.",
+   "source_ids": [
+    "S9"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "Bonds",
+   "Structured products",
+   "Mutual funds",
+   "Private markets / alternatives"
+  ],
+  "partners": [
+   {
+    "partner": "Unnamed 'leading international investment bank'",
+    "kind": "Product / advisory partner",
+    "what": "Private Banking advisory and access to global investment opportunities (AR 2025: 'building on its partnership')",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "partner": "MetLife Qatar",
+    "kind": "Insurance / investment-linked products",
+    "what": "Bancassurance, including the International Wealth Builder unit-linked investment plan (180+ funds, myMetLife platform), distributed by Ahlibank on MetLife's behalf",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S11"
+    ]
+   },
+   {
+    "partner": "Qatar Financial Centre (QFC)",
+    "kind": "Innovation / regulator-linked hub",
+    "what": "MoU on fintech innovation and digital transformation, including use of the QFC Digital Assets Lab for tokenisation use cases (search snippet; the page could not be opened)",
+    "date": "2026-05-24",
+    "status": "MoU / pilot",
+    "source_ids": [
+     "S17"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2026-07-21",
+    "what": "H1 2026 results: the CEO says the bank continued to invest in digital banking, with a retail focus on digitalisation and distribution channels.",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2026-05-24",
+    "what": "MoU with QFC on fintech, digital transformation and digital-asset/tokenisation use cases (search result only).",
+    "source_ids": [
+     "S17"
+    ]
+   },
+   {
+    "date": "2026-01",
+    "what": "New branch opened at Doha Oasis.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Enterprise-wide Transformation Program with three pillars: next-generation client channels (new corporate digital platform due mid-2026; retail digital platform revamp), automation, and data/AI. Private Banking rolled out a digital trading platform.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Issued Qatar's first QAR-denominated MTN listed on QSE (QAR 500m, 3 years) and a USD 500m 5-year EMTN bond.",
+    "source_ids": [
+     "S4"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Private Banking is growing fast (liabilities +22.2% to QR 5.6bn in 2025), but the published shelf is thin (bonds, QSE equities through Ahli Brokerage), and the AR describes expanding investment, structured and alternative products (S4, S9).",
+    "Bank-wide Transformation Program (2025) to rebuild retail digital channels 'benchmarking ... against leading global digital banking platforms'. Investing in the personal app was not found (S4, S19).",
+    "The Premium (affluent) tier advertises 'investment management' with no named products; retail investment is only through MetLife unit-linked plans (S10, S11).",
+    "Brokerage is limited to QSE equities; there is no international equities or funds platform (S15)."
+   ],
+   "barriers": [
+    "Private Banking already relies on an unnamed international investment bank for advisory and global access, and on its own digital trading platform rolled out in 2025 (S4).",
+    "Small bank: 432 employees and 12 branches; the wealth division head is not on the public leadership page (S4, S1).",
+    "Fee income is falling: net fees were QAR 69m in H1 2026, against QAR 123m in H1 2025 (S2)."
+   ],
+   "incumbent_vendors": [
+    "MetLife Qatar - unit-linked investment and insurance plans (S11)",
+    "Unnamed international investment bank - Private Banking advisory and product access (S4)",
+    "Unnamed provider - next-generation corporate digital banking platform (S4)",
+    "Oracle - HRMS (S4)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Our Leadership",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/about-us/our-leadership",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Names and titles only; biographies load dynamically and were not captured."
+  },
+  {
+   "id": "S2",
+   "title": "Ahli Bank Q.P.S.C. Interim Condensed Consolidated Financial Statements 30 June 2026",
+   "publisher": "Qatar Stock Exchange (issuer filing)",
+   "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=ABQK&reportEndDate=2026-06-30&lang=1",
+   "doc_type": "Reviewed interim financial statements (Deloitte; approved 20 Jul 2026)",
+   "tier": 1,
+   "published": "2026-07-20",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "The statement of financial position is a scanned page and was read visually."
+  },
+  {
+   "id": "S3",
+   "title": "Ahli Bank Q.P.S.C. Consolidated Financial Statements 31 December 2025",
+   "publisher": "Qatar Stock Exchange (issuer filing)",
+   "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=ABQK&reportEndDate=2025-12-31&lang=1",
+   "doc_type": "Audited consolidated financial statements (Deloitte; 73 pp.)",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "Ahli Bank QPSC Annual Report 2025",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/Library/Assets/Ahli%20Bank%20Annual%20Report_2025_ENG_V10_compressed-050411.pdf",
+   "doc_type": "Annual report incl. governance report and organisation chart (108 PDF pages, two printed pages per PDF page)",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Ahlibank Reports Net Profit of QAR 407 Million for the First Half of 2026",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/media-center/news-press-releases/ahlibank-reports-net-profit-of-qar-407-million-for-the-first-half-of-2026",
+   "doc_type": "Results press release",
+   "tier": 2,
+   "published": "2026-07-21",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Investor Presentation H1 2026",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/Library/Assets/Investor%20Presentation%20H1%202026-013413.pdf",
+   "doc_type": "Investor presentation (18 pp.)",
+   "tier": 2,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Private Banking",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/personal/private-banking",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Private Banking - Our Approach",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/private-banking/our-approach",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "Private Banking - Investment Solutions",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/private-banking/investment-solutions",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Page source shows creation date 06/04/2015."
+  },
+  {
+   "id": "S10",
+   "title": "Premium Banking",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/personal/premium-banking",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "International Wealth Builder",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/personal/save-and-protect/savings-and-investments/international-wealth-builder",
+   "doc_type": "Official product page (MetLife bancassurance)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Overview",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/about-us/overview",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Ahli Brokerage Company - home page",
+   "publisher": "Ahli Brokerage Company",
+   "url": "https://www.ahlibrokerage.com.qa/",
+   "doc_type": "Official subsidiary website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Ahli Brokerage - Management Team",
+   "publisher": "Ahli Brokerage Company",
+   "url": "https://www.ahlibrokerage.com.qa/ManagementTeam.aspx",
+   "doc_type": "Official subsidiary leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "The site footer says 'Copyright 2014', so it may be stale."
+  },
+  {
+   "id": "S15",
+   "title": "Ahli Brokerage - Services and Delivery Channels",
+   "publisher": "Ahli Brokerage Company",
+   "url": "https://www.ahlibrokerage.com.qa/OurServices.aspx",
+   "doc_type": "Official subsidiary product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "Ahli Bank QSC announces the appointment of Hassan Ahmed AlEfrangi as Chief Executive Officer",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/media-center/news-press-releases/ahli-bank-qsc-announces-the-appointment-of-hassan-ahmed-alefrangi-as-chief-executive-officer",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2020-07-02",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "QFC and Ahli Bank Sign MOU to Advance Fintech Innovation and Digital Transformation",
+   "publisher": "Qatar Financial Centre",
+   "url": "https://www.qfc.qa/en/media-centre/news/list/qfc-and-ahli-bank-sign-mou-to-advance-fintech-innovation-and-digital-transformation",
+   "doc_type": "Press release",
+   "tier": 3,
+   "published": "2026-05-24",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only: the page returned 404 to WebFetch and curl on 12 Oct 2026. The date and content come from the search snippet, and it is not confirmed that this 'Ahli Bank' is Ahli Bank Q.P.S.C."
+  },
+  {
+   "id": "S18",
+   "title": "Ahli Bank QSC announces appointment of Hassan Ahmed AlEfrangi as DCEO - Retail Banking",
+   "publisher": "Ahlibank / The Asian Banker",
+   "url": "https://www.ahlibank.com.qa/en/media-center/news-press-releases/ahli-bank-qsc-announces-appointment-of-hassan-ahmed-alefrangi-as-dceo-retail-banking",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2016-05-31",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  },
+  {
+   "id": "S19",
+   "title": "Ahlibank personal banking home page (links the LinkedIn company page and the personal mobile app)",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/personal",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "QCB License for Conducting Banking Activities - Al Ahli Bank (2026)",
+   "publisher": "Qatar Central Bank (hosted on Ahlibank website)",
+   "url": "https://www.ahlibank.com.qa/Library/Assets/09-2026%20-%20En%20V-115957.pdf",
+   "doc_type": "Regulatory licence (translation)",
+   "tier": 3,
+   "published": "2026-01-01",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned image, read visually."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Branch and ATM count",
+   "detail": "The AR 2025 and statements say 12 branches and 93 ATMs. The 2026 QCB licence lists 11 type-B plus 1 type-C branches and 91 ATMs.",
+   "source_ids": [
+    "S4",
+    "S3",
+    "S20"
+   ],
+   "resolution": "Recorded 12 branches (11 + 1 is consistent). The ATM count differs by date or definition and is not resolved."
+  },
+  {
+   "field": "Executive titles",
+   "detail": "The website calls Othman Hijazi 'Senior Chief Business Officer'; the AR governance section calls him 'Senior Chief Executive Officer, Business Sector'. Yazan Nusairat appears in the AR as COO (Acting in the org chart) but is not on the website leadership page. Abdulaziz Al-Khater is 'Chief Special Projects Officer' on the website and 'Head of Special Projects' in the AR.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "resolution": "Used the website titles where available."
+  },
+  {
+   "field": "Ahli Brokerage capital",
+   "detail": "FY2025 note 1 gives capital of QR 50 million; the 30 Jun 2026 note 1 gives QR 35 million.",
+   "source_ids": [
+    "S3",
+    "S2"
+   ],
+   "resolution": "Recorded as reported; the reason was not found."
+  }
+ ],
+ "open_items": [
+  "Q3 2026 (30 Sep 2026) results not yet on QSE: the API returned 404 for ABQK 2026-09-30 on 12 Oct 2026.",
+  "The Head of Private Banking & Wealth Management (Ahmad Abukhalil) and the heads of retail, strategy, transformation and IT come only from the AR 2025 org chart. Their 2026 status needs confirmation, and no news or LinkedIn match was found for Abukhalil.",
+  "The international investment bank partner and the Private Banking digital trading platform are not named anywhere public.",
+  "The QFC MoU (24 May 2026) was seen only in a search snippet. The QFC page returned 404 and the release is not on Ahlibank's news list, so the counterparty identity needs confirmation.",
+  "Ahli Brokerage management page may be stale (2014 copyright). No brokerage volumes or client numbers were found.",
+  "LinkedIn: no profile found for CEO Hassan AlEfrangi or for Ahmad Abukhalil. Others were not checked.",
+  "Premium and Private Banking eligibility thresholds are not published.",
+  "Leadership page biographies load dynamically and were not captured, so biographies come from the AR 2025."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B21",
+ "checked": "2026-10-12"
+}

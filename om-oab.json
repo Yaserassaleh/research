@@ -1,0 +1,1230 @@
+{
+  "id": "om-oab",
+  "name": "Oman Arab Bank",
+  "short_name": "OAB",
+  "legal_name": "Oman Arab Bank SAOG",
+  "name_ar": "بنك عمان العربي",
+  "country": "OM",
+  "hq_city": "Muscat",
+  "website": "https://www.oman-arabbank.com",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1984 per the bank's investor presentation timeline (OAB established after acquiring Arab Bank's branches in Oman; Arab Bank began operating in Oman in 1973). The timeline text is jumbled, so the years are matched to events in order. OAB acquired Alizz Islamic Bank in 2020 and became a public joint-stock company (SAOG) listed on MSX.",
+  "regulators": [
+    "CBO",
+    "FSA Oman"
+  ],
+  "listed": true,
+  "exchange": "MSX",
+  "ticker": "OAB",
+  "parent_id": null,
+  "ownership_summary": "Listed on the Muscat Stock Exchange (ticker OAB, from the MSX financial reports listing). At 31 Dec 2025 Arab Bank PLC (Jordan, listed in Amman) held 49.00%, Oman International Development & Investment Co. SAOG (Ominvest) 30.99%, and various parties including trusts 20.01% (2,002,743,333 shares). The June 2026 presentation shows the same 49% / 31% / 20% split. OAB is described as a subsidiary of Arab Bank PLC.",
+  "shareholders": [
+    {
+      "holder": "Arab Bank PLC",
+      "pct": 49.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "holder": "Oman International Development & Investment Company SAOG (Ominvest)",
+      "pct": 30.99,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "holder": "Various parties, including trusts",
+      "pct": 20.01,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "government_link": "No direct state shareholder above 10% is disclosed. The controlling holder is Arab Bank PLC and the second is Ominvest, a listed investment company (S2). Any government link through Ominvest's own shareholders was not checked.",
+  "group_structure": "Parent bank plus a 100% Islamic subsidiary, Alizz Islamic Bank (called 'Al Izz Islamic Bank (AIB)' in the H1 2026 statements; OAB owns 100%), which also owns Alizz Sukuk SPC for its sukuk issuance (S1 notes 1 and 13, S2 p.40). The consolidated numbers include Alizz; the parent-only figures are shown separately in the statements. Arab Bank's CEO is OAB's Deputy Chairman. On 16 Jul 2026 Bank Nizwa sent a non-binding letter of intent to acquire 100% of Alizz at 1.2x book value, and OAB's board accepted it on 23 Jul 2026 to proceed with discussions (S1 note 29). In 2017 OAB's Investment Management Group moved to Ubhar Capital (per the om-ubhar research file; not re-opened here).",
+  "subsidiaries": [
+    {
+      "name": "Alizz Islamic Bank (Al Izz Islamic Bank)",
+      "pct": 100.0,
+      "activity": "Islamic bank; 17 Islamic branches at FY2025 and 18 in the 1H 2026 presentation. Subject of a non-binding sale proposal from Bank Nizwa (July 2026). Not profiled in a separate file.",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "name": "Alizz Sukuk SPC",
+      "pct": 100.0,
+      "activity": "SPV issuing Alizz's perpetual Tier 1 sukuk (FSA-licensed SPV)",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "footprint": "Oman only. 69 branches in the 1H 2026 presentation (51 conventional and 18 Islamic) and 166 ATMs; the FY2025 annual report counted 50 conventional and 17 Islamic branches. Arab Bank has 600+ branches in 29 countries (S2 p.30, S3 slides 12 and 14).",
+  "customer_segments": "Retail mass, Elite (affluent), Elite Exclusive (invitation-only top tier), SME (Tumouhi programme), corporate, government and GREs, and Islamic retail and corporate through Alizz.",
+  "business_lines": "Segments in the H1 2026 statements: Retail banking, Corporate banking, Treasury and Others for the conventional bank, plus Islamic Banking through Alizz (S1 note 28). Retail products are loans, overdrafts, cards and transfers. OAB has no separate asset management, brokerage or private banking entity.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 4709067,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated (OAB and Alizz)",
+      "definition": "Total assets, condensed interim consolidated statement of financial position (unaudited). Parent only: OMR 3,282,720k.",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.6 (printed p.4)",
+      "note": "Statement page is an image; read visually. Presentation: OMR 4,709m."
+    },
+    {
+      "metric": "total_assets",
+      "value": 4586983,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets (audited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.6 comparative column",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 3811963,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer deposits' (conventional and Islamic). Excludes due to banks (OMR 47,953k) and borrowed funds (OMR 57,750k).",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.6",
+      "note": "Presentation split: conventional OMR 2,461m and Islamic OMR 1,351m."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 3774537,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer deposits' (audited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.6 comparative column",
+      "note": ""
+    },
+    {
+      "metric": "net_loans",
+      "value": 3854824,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans, advances and financing to customers' (net, conventional and Islamic). Excludes due from banks.",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.6",
+      "note": "Chairman's report: OMR 3,855m, +4% since 31 Dec 2025."
+    },
+    {
+      "metric": "net_loans",
+      "value": 3720017,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans, advances and financing to customers' (audited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.6 comparative column",
+      "note": ""
+    },
+    {
+      "metric": "gross_loans",
+      "value": 4068,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Gross loans in the 1H 2026 presentation: conventional OMR 2,740m and Islamic OMR 1,328m (+6% year on year)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slide 18",
+      "note": "Rounded presentation figure."
+    },
+    {
+      "metric": "total_equity",
+      "value": 702356,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including perpetual Tier 1 capital bonds (OMR 244,016k); shareholders' equity OMR 458,340k",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.6",
+      "note": "31 Dec 2025: OMR 641,182k. USD 400m AT1 issued 2 Jun 2026."
+    },
+    {
+      "metric": "operating_income",
+      "value": 138984,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total income': net interest income and income from Islamic financing OMR 112,559k, net fees and commission OMR 19,291k, investment securities OMR 1,159k, other OMR 5,975k",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.61",
+      "note": "FY2024: OMR 126,465k. The presentation calls this line 'Operating income'."
+    },
+    {
+      "metric": "operating_income",
+      "value": 71674,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total income' (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.7",
+      "note": "H1 2025: OMR 68,757k (+4%)."
+    },
+    {
+      "metric": "net_profit",
+      "value": 34352,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit for the year; no non-controlling interests shown. Parent-only net profit: OMR 34,662k. Profit before tax OMR 40,835k.",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.61",
+      "note": "FY2024: OMR 30,439k."
+    },
+    {
+      "metric": "net_profit",
+      "value": 17675,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Net profit for the period (unaudited). Parent only: OMR 17,830k.",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.7",
+      "note": "H1 2025: OMR 14,600k (+21%)."
+    },
+    {
+      "metric": "net_profit",
+      "value": 12.0,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Subsidiary: Alizz Islamic Bank",
+      "definition": "Alizz Islamic Bank net profit for the year (+20%); included in the group figure above",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.6",
+      "note": "FY2024: OMR 10.0m."
+    },
+    {
+      "metric": "net_loans",
+      "value": 1206,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Subsidiary: Alizz Islamic Bank",
+      "definition": "Alizz net financing receivables (+10% from OMR 1,100m)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.6",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 1280,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Subsidiary: Alizz Islamic Bank",
+      "definition": "Alizz customer deposits (+16% from OMR 1,104m)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.6",
+      "note": ""
+    },
+    {
+      "metric": "employees",
+      "value": 1434,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "1H 2026 presentation",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Employees shown in the 'Journey to Success' slide with 69 branches and 166 ATMs; the slide gives no as-of date and places the figures in the 2026 column",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slide 14",
+      "note": "As-of date inferred; treat as approximate."
+    },
+    {
+      "metric": "branches",
+      "value": 69,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "1H 2026 presentation",
+      "period_type": "point_in_time",
+      "scope": "Group (Oman)",
+      "definition": "51 conventional and 18 Islamic (Alizz) branches",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slide 14",
+      "note": "FY2025 annual report: 50 conventional and 17 Islamic (S2 p.30)."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 annual report (S2), H1 2026 statements (S1), 1H 2026 presentation (S3), Elite pages (S8, S9). No fiduciary or funds-under-management note was found in the statements opened."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "S1, S2, S3, Elite pages (S8, S9, S10)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "S2, S3 and the OAB Online app listing (S16), which shows no investing feature."
+    },
+    {
+      "metric": "aua",
+      "status": "Not found after research",
+      "where_checked": "S1, S2. The FSA securities register (S12) does not list Oman Arab Bank as a licensed securities company."
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "status": "Not found after research",
+      "where_checked": "S1, S2, S12: OAB is not a registered securities broker."
+    },
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "S1, S2, S3: no customer count published."
+    }
+  ],
+  "people": [
+    {
+      "name": "Rashad Al Zubair",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "1999-06",
+      "appointed_note": "Chairman since June 1999 (annual report). Non-executive and independent; chairs the Board Credit Committee.",
+      "previous_roles": "Chairman of The Zubair Corporation (since 2010; earlier President of The Zubair Automotive Group and Group President); chairman of The Zubair Holding SAOC and Oasis Water Company SAOC; vice chairman of Barr Al Jissah Resort Co SAOC; former director of the Financial Services Authority; also listed as Chairman of Ominvest in the investor presentation (S3 slide 13).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page (S6, checked 2026-10-12) and FY2025 annual report board profiles (S2 p.21, p.23). Chairman since June 1999; no change news found.",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Randa Sadik",
+      "name_ar": null,
+      "title": "Deputy Chairman of the Board of Directors",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date as OAB deputy chairman not stated.",
+      "previous_roles": "CEO of Arab Bank since February 2022 (Deputy CEO from 2010); 24 years at National Bank of Kuwait, last as GM International Banking Group (London and Kuwait); board member of Arab National Bank (Saudi Arabia).",
+      "education": "MBA, American University of Beirut",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page (S6, checked 2026-10-12) and FY2025 annual report (S2 p.21, p.23); represents Arab Bank plc.",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulaziz Al Balushi",
+      "name_ar": null,
+      "title": "Board Member (representing Ominvest)",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date to the OAB board not stated.",
+      "previous_roles": "Group CEO of Ominvest since 2014; former CEO of Ahli Bank SAOG (2007-2014 per the OAB board page; 2007-2013 per the Ubhar file); chairman of Ubhar Capital; board member of National Finance Company SAOG and LIVA Group; played a part in the OAB-Alizz merger that led to OAB's MSX listing.",
+      "education": "MSc in Finance, University of Strathclyde; FCIB",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page (S6, checked 2026-10-12); FY2025 annual report lists him as representing Ominvest (S2 p.21, p.23). His bio says he chairs Ubhar Capital, which links OAB's board to Ubhar (profiled in om-ubhar).",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nasri Victor Malhame",
+      "name_ar": null,
+      "title": "Board Member and Chairman of the Board Audit Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not stated.",
+      "previous_roles": "CEO of Arab Bank (Switzerland) 2009-2017; vice chairman of TradeXBank (Zurich); board member of AB Fund Managers (Guernsey); earlier BNP Paribas Geneva (Executive Committee member, 2000).",
+      "education": "PhD in Banking and Management, Universite Paris Dauphine",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page (S6, checked 2026-10-12); FY2025 annual report (S2 p.22, p.23) lists him as independent. He sits on the board and chairs the audit committee of Ubhar Capital.",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S3"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sulaiman Al Harthi",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2023-01-04",
+      "appointed_note": "Joined OAB as CEO on 4 Jan 2023 (annual report).",
+      "previous_roles": "Previously Deputy CEO of OAB and CEO of Alizz Islamic Bank; senior roles at leading local banks; chairman of Takaful Oman Insurance Company SAOG.",
+      "education": "Oman Banking Institute; MBA (Finance), University of Leicester; Harvard Business School executive programme; INSEAD",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S5, checked 2026-10-12), FY2025 annual report profile (S2 p.24) and an OAB press release of 1 Jul 2026 quoting him as CEO (S11). A LinkedIn search returned no matching profile.",
+      "source_ids": [
+        "S5",
+        "S2",
+        "S11",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "CB Ganesh",
+      "name_ar": null,
+      "title": "Deputy Chief Executive Officer",
+      "functions": [
+        "Deputy CEO"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2021-02",
+      "appointed_note": "Joined as Deputy CEO in February 2021; Acting CEO from August 2021 to 3 Jan 2023.",
+      "previous_roles": "CEO of Ahli United Bank UAE (2015-2021); Deputy CEO of Ahli Bank SAOG Oman (2008-2015); over 35 years across India, Hong Kong, UAE and Oman. Board member of LIVA Insurance, Jabreen International Development Company and Jabreen International Investment Company.",
+      "education": "MIT Sloan alumnus; IIM Calcutta; Master in Bank Management and Master in Commerce; FT Non-Executive Director Diploma",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S5, checked 2026-10-12); FY2025 annual report profile (S2 p.24).",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sulaiman Al Hinai",
+      "name_ar": null,
+      "title": "Chief Wholesale Banking Officer",
+      "functions": [
+        "Corporate / wholesale",
+        "Treasury",
+        "Investments / asset management"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Wholesale Banking (incl. Treasury and Investments)",
+      "scope": "Group",
+      "appointed": "2023-05-31",
+      "appointed_note": "Head of Treasury, Investments and Government Relations from July 2017; Chief Wholesale Banking Officer from 31 May 2023, adding corporate banking.",
+      "previous_roles": "Over 31 years in commercial banking, treasury and investment at Doha Bank (Qatar), Oman International Bank and Ahli Bank SAOG.",
+      "education": "Banking Diploma (2001), Arab Academy for Banking and Financial Sciences; INSEAD Executive Program in Banking Management",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S5, checked 2026-10-12); FY2025 annual report profile (S2 p.24).",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmed El Damaty",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2021-10",
+      "appointed_note": "Appointed CFO in October 2021.",
+      "previous_roles": "Over 25 years in banking in the Middle East; previously CFO at 'a prominent bank in Oman' (not named).",
+      "education": "Bachelor's in Accounting; executive programmes at Harvard Business School",
+      "qualifications": "CFA charterholder",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S5, checked 2026-10-12); FY2025 annual report profile (S2 p.25).",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Juma Al Fulaiti",
+      "name_ar": null,
+      "title": "Deputy Head Retail Banking",
+      "functions": [
+        "Retail"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Retail Banking",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "Start date in this role not stated.",
+      "previous_roles": "Over 30 years in government and banking: Royal Oman Police, Ministry of Regional Municipalities and Water Resources (Director General of Municipalities, Interior Governorate); Head of Government Relations and Institutional Sales at Bank Muscat's Meethaq and Alizz Islamic Bank; several executive roles at OAB.",
+      "education": "Bachelor's in Business Management",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S5, checked 2026-10-12) and FY2025 annual report profile (S2 p.24). No Chief Retail Banking Officer is listed on either, so the head-of-retail seat appears vacant or unpublished.",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalid Al Amri",
+      "name_ar": null,
+      "title": "Chief Retail Banking Officer (as quoted Aug 2024)",
+      "functions": [
+        "Retail",
+        "Affluent"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Retail Banking",
+      "scope": "Oman",
+      "appointed": "2023-09",
+      "appointed_note": "Acting Head of Retail Banking from September 2023 (previously Head of Branch Banking since 2021, per search result).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Quoted as Chief Retail Banking Officer on the Aug 2024 Elite Exclusive launch (S9). Named Acting Head of Retail Banking in Sep 2023 (S17, search results only). He is not on the live management page or in the FY2025 annual report's senior management profiles, so his current status is unconfirmed.",
+      "source_ids": [
+        "S9",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tariq Al Zadjali",
+      "name_ar": null,
+      "title": "Chief Technology Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Oman Arab Bank SAOG",
+      "business_unit": "Technology",
+      "scope": "Group",
+      "appointed": "2021-12-30",
+      "appointed_note": "Joined OAB on 30 Dec 2021 as CTO.",
+      "previous_roles": "More than 28 years in banking and IT at different banks in Oman.",
+      "education": "MSc in Computer Science (field and institution truncated in the text opened)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S5, checked 2026-10-12); FY2025 annual report profile (S2 p.25).",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Al Mani",
+      "name_ar": null,
+      "title": "Chief Executive Officer, Alizz Islamic Bank",
+      "functions": [
+        "Subsidiary CEO",
+        "Islamic / Shariah"
+      ],
+      "entity": "Alizz Islamic Bank",
+      "business_unit": "Alizz Islamic Bank",
+      "scope": "Subsidiary: Alizz Islamic Bank",
+      "appointed": "2023-08",
+      "appointed_note": "Previously General Manager of Alizz (from Dec 2022) and before that Deputy CEO of National Finance Company (search-result snippets).",
+      "previous_roles": "Over 22 years in finance and banking (search-result snippet).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Appointed Alizz CEO in August 2023 per Times of Oman (seen in search results only). Not re-checked on Alizz's own website or MSX; current status unconfirmed.",
+      "source_ids": [
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "OAB's affluent offer is Elite, launched in February 2016, open to customers with a deposit balance of OMR 35,000 or a monthly salary of OMR 3,500 (as published), with a dedicated RM, lounges and an Elite Infinite card. The launch release lists three pillars, including Elite Wealth Management (financial planning and investment services), but the current Elite page lists none. In August 2024 OAB added an invitation-only 'Elite Exclusive' tier with wealth management services, exclusive insurance, a metal card and a private deposit box. No private banking unit, fund range, discretionary service, brokerage or digital investing feature was found; the OAB Online app lists accounts, transfers, payments and service requests only. OAB's Investment Management Group moved to Ubhar Capital in 2017 and Ubhar became OAB's market maker and liquidity provider in May 2024 (per the om-ubhar research file). OAB holds no FSA securities licence. The July 2026 proposal for Bank Nizwa to buy Alizz Islamic Bank is the main structural event and would leave OAB without an Islamic franchise.",
+    "segments": [
+      {
+        "name": "Elite",
+        "tier": "Affluent",
+        "eligibility": "Monthly aggregate average total account balance of OMR 35,000 (deposit account) or monthly salary of OMR 3,500 credited (salary account); terms apply.",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "name": "Elite Exclusive",
+        "tier": "HNW",
+        "eligibility": "Invitation only; 'stringent eligibility standards' not specified. Launched 6 Aug 2024.",
+        "source_ids": [
+          "S9"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Unclear",
+      "detail": "No private banking unit was found. Elite Exclusive (invitation-only, Aug 2024) includes 'wealth management services' and exclusive insurance, with a 24-hour dedicated RM; thresholds not published.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "asset_management": {
+      "present": "No",
+      "detail": "No OAB fund range or asset management arm found. The Investment Management Group was transferred to Ubhar Capital in 2017 (per the om-ubhar research file, not re-opened here); the FSA register lists no OAB securities activities.",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    "brokerage": {
+      "present": "No",
+      "detail": "Not in the FSA securities register (S12). OAB offers a Virtual Account solution for MSX-listed brokerage firms as a corporate cash-management product (S2). Ubhar Capital is OAB's liquidity provider (per the om-ubhar file).",
+      "source_ids": [
+        "S12",
+        "S2"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "The OAB Online app listing shows no investments, mutual funds, SIP or IPO feature (S16). The 2025 annual report lists digital launches for corporate and SME customers, not investing (S2).",
+      "source_ids": [
+        "S16",
+        "S2"
+      ]
+    },
+    "advisory": {
+      "present": "Unclear",
+      "detail": "The 2016 Elite launch release says the Elite Wealth Management pillar provides financial planning and investment services and names an AGM Head of Wealth Management, Liabilities and Bancassurance; no current equivalent role or service description was found.",
+      "source_ids": [
+        "S10",
+        "S9"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary service found.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No model portfolios or robo-advice found.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No third-party fund shelf found on the Elite pages.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Unclear",
+      "detail": "Alizz Islamic Bank offers Shari'a-compliant retail, corporate and card products (S2) but no Shariah-compliant fund or wealth proposition was found. Alizz's sale to Bank Nizwa is under discussion (S1).",
+      "source_ids": [
+        "S2",
+        "S1"
+      ]
+    },
+    "asset_classes": [],
+    "partners": [
+      {
+        "partner": "Ubhar Capital SAOC",
+        "kind": "Investment banking, brokerage and market maker",
+        "what": "Took over OAB's Investment Management Group in 2017 and has been OAB's liquidity provider since May 2024 (both per the om-ubhar research file). Two OAB directors (Abdulaziz Al Balushi, Nasri Malhame) chair Ubhar's board and audit committee respectively, and Arab Bank (Switzerland) owns 18.72% of Ubhar per Ubhar's website.",
+        "date": "2024-05-12",
+        "status": "Live",
+        "source_ids": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "partner": "Finastra",
+        "kind": "Core banking technology",
+        "what": "FusionBanking Essence replaced FusionBanking Equation across OAB's branches (announced July 2017); no later update found on whether it is still the core system",
+        "date": "2017-07-10",
+        "status": "Unclear",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "partner": "Genacom",
+        "kind": "Digital and operations technology",
+        "what": "Cooperation agreement in Q4 2025 to strengthen digital and operational capabilities; scope not described",
+        "date": "2025-10",
+        "status": "Announced",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "partner": "Europe Arab Bank (UK)",
+        "kind": "Elite client service",
+        "what": "Assistance with UK real estate purchases for Elite customers, listed on the Elite page",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S8"
+        ]
+      },
+      {
+        "partner": "Visa",
+        "kind": "Cards partner",
+        "what": "Elite Infinite card, Visa concierge and offers; Alizz launched Shari'a-compliant premium Visa cards in 2025",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S8",
+          "S2"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2016-02-28",
+        "what": "Launched Elite Priority Banking with three pillars (Services, Benefits, Wealth Management)",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "date": "2020",
+        "what": "Acquired Alizz Islamic Bank and became an SAOG listed on MSX; Alizz became a 100% subsidiary",
+        "source_ids": [
+          "S3",
+          "S2"
+        ]
+      },
+      {
+        "date": "2024-08-06",
+        "what": "Launched the invitation-only Elite Exclusive segment with wealth management services and a metal card",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Rights issue of OMR 50m (authorised capital raised to OMR 500m); cooperation agreement with Genacom in Q4; corporate mobile app and virtual accounts for brokerage firms",
+        "source_ids": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "date": "2026-06-02",
+        "what": "Issued USD 400m unsecured perpetual Tier 1 bonds at 6.75% (about OMR 154m), listed on the London ISM",
+        "source_ids": [
+          "S1",
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-07-23",
+        "what": "Board accepted Bank Nizwa's non-binding letter of intent (received 16 Jul 2026) to acquire 100% of Alizz Islamic Bank at an indicative 1.2x book value, to proceed with discussions; subject to due diligence, definitive agreements and approvals",
+        "source_ids": [
+          "S1",
+          "S14"
+        ]
+      },
+      {
+        "date": "2026-09-03",
+        "what": "1H 2026 results presentation: net profit OMR 17.7m (+21%), loans +6% and deposits +5% year on year",
+        "source_ids": [
+          "S3"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "OAB has no asset management, brokerage, funds shelf or investing feature in its app, yet it runs an affluent Elite segment (OMR 35,000 / 3,500) and an invitation-only Elite Exclusive tier that promises 'wealth management services' (S8, S9, S16).",
+        "The bank sold its investment management business to Ubhar Capital in 2017, so wealth products would have to be partnered or built; two OAB directors sit on Ubhar's board, which is a ready channel for a product tie-up (S2, om-ubhar).",
+        "Arab Bank (49%) has a GCC private banking presence (a Head of GCC Private Banking at Arab Bank plc sits on Ubhar's board per om-ubhar), giving a possible group-product route; not evidenced as an OAB offer (S2).",
+        "Net fee and commission income rose 18% in H1 2026 and the bank issued a USD 400m AT1 in June 2026, showing capital to invest, though no wealth spend is stated (S1, S3)."
+      ],
+      "barriers": [
+        "The Islamic franchise (Alizz, about 1.3bn of deposits) may leave through the proposed sale to Bank Nizwa, which would reshape the customer base and priorities (S1 note 29, S2).",
+        "Head-of-retail and wealth roles are not clearly staffed on the live page (Deputy Head Retail only), so there is no named wealth sponsor (S5).",
+        "The bank's stated focus is corporate and digital capability (Corporate Mobile Banking, SME platforms, Genacom) rather than wealth (S2).",
+        "Core banking is on Finastra per a 2017 announcement; later changes were not checked (S15)."
+      ],
+      "incumbent_vendors": [
+        "Finastra: FusionBanking Essence core banking, announced 2017 (S15)",
+        "Ubhar Capital: former investment management buyer, market maker for OAB shares (per om-ubhar)",
+        "Visa: cards (S8)",
+        "Genacom: digital and operations cooperation, Q4 2025 (S2)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Oman Arab Bank SAOG: Condensed interim financial statements as at and for the six months ended 30 June 2026",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://www.oman-arabbank.com/wp-content/uploads/OAB-FS-Q2-2026-2.pdf",
+      "doc_type": "Interim financial statements (IR site copy; MSX filing 10 Aug 2026)",
+      "tier": 1,
+      "published": "2026-08",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Authorised 9 Aug 2026. PDF pages 3-6 (chairman's report and statement of financial position) are images and were read visually. Note 29 records the Bank Nizwa letter of intent."
+    },
+    {
+      "id": "S2",
+      "title": "Oman Arab Bank Annual Report 2025 (incl. audited financial statements and Pillar III)",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://www.oman-arabbank.com/wp-content/uploads/OAB-ANNUAL-REPORT-2025-ENG.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read with tools/pdftext.py; page numbers are PDF pages. 58 MB file."
+    },
+    {
+      "id": "S3",
+      "title": "Investor Presentation 1H 2026 Results (3 September 2026)",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://www.oman-arabbank.com/wp-content/uploads/Investor-Presentation-1H-2026.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-09-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S4",
+      "title": "Investor Relations",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://www.oman-arabbank.com/home/about-us/investor-relations/",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists Q1 and Q2 2026 statements and annual reports; no Q3 2026 on 12 Oct 2026. Ratings: Moody's Baa3, Capital Intelligence BBB-."
+    },
+    {
+      "id": "S5",
+      "title": "Senior Management",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://www.oman-arabbank.com/home/about-us/senior-management/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Ten executives, names and titles only."
+    },
+    {
+      "id": "S6",
+      "title": "Board of Directors",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://www.oman-arabbank.com/home/about-us/board-of-directors/",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Nine directors."
+    },
+    {
+      "id": "S7",
+      "title": "Newsroom",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://www.oman-arabbank.com/home/about-us/newsroom/",
+      "doc_type": "Official news page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Latest items Jul-Aug 2026; none on wealth, investment or Alizz."
+    },
+    {
+      "id": "S8",
+      "title": "Elite account page",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://oman-arabbank.com/home/personal-banking/accounts/elite",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S9",
+      "title": "Oman Arab Bank introduces Elite Exclusive segment and Visa Elite Exclusive Metal Card",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://oman-arabbank.com/oman-arab-bank-introduces-elite-exclusive-segment-and-visa-elite-exclusive-metal-card",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-08-06",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S10",
+      "title": "Oman Arab Bank launches 'Elite' Priority Banking",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://www.oman-arabbank.com/oman-arab-bank-launches-elite-priority-banking/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2016-02-28",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Historical context; Elite thresholds in the 2016 release were not stated."
+    },
+    {
+      "id": "S11",
+      "title": "OAB CEO participates in Arab Bank strategy sessions, highlighting regional collaboration and growth",
+      "publisher": "Oman Arab Bank SAOG",
+      "url": "https://www.oman-arabbank.com/oab-ceo-participates-in-arab-bank-strategy-sessions-highlighting-regional-collaboration-and-growth/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-07-01",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Datelined 1 Jul 2026; the page shows 12 Jul 2026."
+    },
+    {
+      "id": "S12",
+      "title": "Licensed & Accredited: Alizz Islamic Bank and securities company list",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/DisplayCompanyDetails?companyType=6&companyId=55&selectedCompanyType=6",
+      "doc_type": "Regulator register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "The securities register (32 entities, read via the register's list endpoint) lists Alizz Islamic Bank (activity: Issue Management; registered 22/02/2017) but not Oman Arab Bank. The register shows Oman Arab Bank at 9.98% of Alizz, which conflicts with the 100% in OAB's statements."
+    },
+    {
+      "id": "S13",
+      "title": "MSX Financial Reports (Q2 2026 filter)",
+      "publisher": "Muscat Stock Exchange",
+      "url": "https://www.msx.om/financial-reports.aspx",
+      "doc_type": "Exchange disclosure listing",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Shows OAB's Q2 2026 unaudited statements filed 10 Aug 2026 (ticker OAB)."
+    },
+    {
+      "id": "S14",
+      "title": "Bank Nizwa proposes Alizz merger, Ominvest to take strategic stake",
+      "publisher": "Oman Observer",
+      "url": "https://www.omanobserver.om/article/1192970/business/banking/bank-nizwa-proposes-alizz-merger-ominvest-to-take-strategic-stake",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2026-07-16",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S15",
+      "title": "Oman Arab Bank taps Finastra to speed growth",
+      "publisher": "Retail Banker International",
+      "url": "https://www.retailbankerinternational.com/news/oman-arab-bank-taps-finastra-speed-growth/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2017-07-10",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S16",
+      "title": "OAB Online (iOS app listing)",
+      "publisher": "Apple App Store",
+      "url": "https://apps.apple.com/gb/app/oab-online/id1220433813",
+      "doc_type": "Official app listing",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Version 2.6.7; no investment features listed."
+    },
+    {
+      "id": "S17",
+      "title": "Khalid Al Amri appointed Acting Head of Retail Banking at Oman Arab Bank",
+      "publisher": "Times of Oman",
+      "url": "https://timesofoman.com/article/135583-khalid-al-amri-appointed-acting-head-of-retail-banking-at-oman-arab-bank",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-09-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (page not opened)."
+    },
+    {
+      "id": "S18",
+      "title": "Alizz Islamic Bank appoints Mr. Ali Al Mani as Chief Executive Officer",
+      "publisher": "Times of Oman",
+      "url": "https://timesofoman.com/article/135443-alizz-islamic-bank-appoints-mr-ali-al-mani-as-chief-executive-officer",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-08",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (page not opened)."
+    },
+    {
+      "id": "S19",
+      "title": "Oman Arab Bank appoints Sulaiman Al Harthi as CEO",
+      "publisher": "Muscat Daily",
+      "url": "https://www.muscatdaily.com/2022/12/14/oman-arab-bank-appoints-sulaiman-al-harthi-as-ceo/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2022-12-14",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (page not opened)."
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Alizz Islamic Bank ownership",
+      "detail": "The FSA register shows Oman Arab Bank at 9.98% of Alizz Islamic Bank, while OAB's annual report and H1 2026 statements say OAB owns 100% and consolidates it.",
+      "source_ids": [
+        "S12",
+        "S1",
+        "S2"
+      ],
+      "resolution": "Used OAB's own filings (100%). The register entry appears stale or partial."
+    },
+    {
+      "field": "Name of Alizz",
+      "detail": "OAB's statements use 'Al Izz Islamic Bank (AIB)', note 29 uses 'Alizz Islamic Bank LLC', the FSA register 'Alizz Islamic Bank' and Bank Nizwa's report 'Al-Izz Islamic Bank SAOC'.",
+      "source_ids": [
+        "S1",
+        "S12"
+      ],
+      "resolution": "Recorded as Alizz Islamic Bank; legal form (LLC or SAOC) is unresolved."
+    },
+    {
+      "field": "Ominvest chairmanship",
+      "detail": "The investor presentation lists Rashad Al Zubair as Chairman of Ominvest, while the Ominvest-nominated director's bio and Bank Nizwa's annual report name Sheikh Khalid Al Khalili as Ominvest's deputy chairman and Abdulaziz Al Balushi as Group CEO; the Ominvest chair was not checked at source.",
+      "source_ids": [
+        "S3",
+        "S2"
+      ],
+      "resolution": "Not used as a fact beyond the slide's wording; flagged only."
+    }
+  ],
+  "open_items": [
+    "Lead check: 'Alizz Islamic Bank merger' is not a pending OAB merger. OAB acquired Alizz in 2020 and holds 100%. What is pending is a July 2026 proposal that Bank Nizwa acquire 100% of Alizz from OAB at 1.2x book value, by merger by incorporation into Bank Nizwa; OAB's board accepted the non-binding letter of intent on 23 Jul 2026 to proceed with discussions (S1 note 29). Bank Nizwa's H1 2026 report says it is obtaining regulatory approvals to start due diligence. No definitive agreement was found by 12 Oct 2026; re-check MSX.",
+    "Lead check: Arab Bank plc stake is 49.00% (31 Dec 2025) and Ominvest 30.99%; Arab Bank's CEO is OAB's Deputy Chairman.",
+    "Merger check 2024-2026: no other merger involving OAB was found (no OAB-Ahli, OAB-Sohar or OAB-Bank Dhofar deal). The 2023 Ominvest-led bid for Ahli Bank was said to plan a merger of Ahli with OAB (search results, Gulf Business), but no completion was found (see om-ahlibank).",
+    "No head of wealth, private banking or asset management is named; no OAB wealth product page beyond Elite was found. The OAB website did not render a wealth or investment section in the pages fetched.",
+    "The date of the 1H 2026 employee, branch and ATM figures (1,434; 69; 166) is not stated on the slide.",
+    "Alizz's current CEO (Ali Al Mani, appointed Aug 2023 per search results) and its own leadership page were not opened.",
+    "Khalid Al Amri (Chief Retail Banking Officer in Aug 2024) is not on the live page or in the FY2025 report; no departure news found.",
+    "Q3 2026 results were not published on the IR page on 12 Oct 2026. Re-check late October.",
+    "LinkedIn check for the CEO returned no matching profile; other people were not checked.",
+    "Arabic legal name suffix (SAOG) was not captured from an opened source; the Arabic name is from the bank's logo in the statements."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B31",
+  "checked": "2026-10-12"
+}

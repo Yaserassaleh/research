@@ -1,0 +1,106 @@
+[
+ {
+  "area": "Workbook structure",
+  "item": "Banks!E5 'Additional names' counter",
+  "original": "=COUNTA(#REF!) — points to a deleted sheet",
+  "finding": "Corrected",
+  "now": "Removed. Outstanding and excluded names are listed in Coverage and Universe & exclusions.",
+  "materiality": "Material"
+ },
+ {
+  "area": "Workbook structure",
+  "item": "Size metrics!P8:Q77 (FX lookups, 140 cells)",
+  "original": "=INDEX(#REF!,…) — FX sheet deleted, so every USD equivalent (col O) and the Banks USD columns (V–Z) evaluate to errors",
+  "finding": "Corrected",
+  "now": "New FX rates sheet with official pegs and dated CBK KWD rates; USD computed per period (period-end for balance sheet, period average for KWD income).",
+  "materiality": "Material"
+ },
+ {
+  "area": "Workbook structure",
+  "item": "Source references S001–S156",
+  "original": "153 source IDs are cited in Banks/Management but the workbook has no source register sheet; only the 70 Size-metric rows carry URLs",
+  "finding": "Corrected",
+  "now": "New Source register with title, publisher, URL, document type, tier, publication and check dates; every fact cites register IDs.",
+  "materiality": "Material"
+ },
+ {
+  "area": "Coverage",
+  "item": "Banks sheet rows",
+  "original": "Header says '24 institutions' but Banks has 15 rows; ADCB, BSF, CBD, FAB, GIB, NBF, QNB, Standard Chartered and Dhabi appear only in Management / Size metrics",
+  "finding": "Corrected",
+  "now": "All carried into full institution records. Dhabi Ltd is a 100% Finance House subsidiary and is folded into Finance House.",
+  "materiality": "Material"
+ },
+ {
+  "area": "Consistency",
+  "item": "Metric keys",
+  "original": "Burgan rows use 'burgan_assets_20260630' while others use 'INST::Measure'",
+  "finding": "Corrected",
+  "now": "Standard metric keys (total_assets, customer_deposits, …).",
+  "materiality": "Minor"
+ },
+ {
+  "area": "Consistency",
+  "item": "LinkedIn status (Management col G)",
+  "original": "14 different phrasings",
+  "finding": "Corrected",
+  "now": "Four values: Verified (official link) · Verified (profile/search match) · Not verified · Not checked.",
+  "materiality": "Minor"
+ },
+ {
+  "area": "Consistency",
+  "item": "Role status (Management col I)",
+  "original": "14 different phrasings",
+  "finding": "Corrected",
+  "now": "Four values: Verified current · Requires verification · Conflicting sources · Departed, plus dated role evidence.",
+  "materiality": "Minor"
+ },
+ {
+  "area": "Dates",
+  "item": "'Deposits/Assets in original USD estimate' rows (NBK, KFH, Boubyan, QIB ×2, CBQ ×2)",
+  "original": "Pre-refresh approximations from email research stamped 30 Jun 2026",
+  "finding": "Removed",
+  "now": "Superseded by sourced figures at the standard date; not carried into the database.",
+  "materiality": "Material"
+ },
+ {
+  "area": "Scope",
+  "item": "Wio 'Arta partnership accounts' and 'Arta partnership AUM' rows",
+  "original": "Internal ARTA strategy figures stored as Wio institution metrics",
+  "finding": "Corrected",
+  "now": "Moved to Internal relationship notes; not institution disclosures.",
+  "materiality": "Material"
+ },
+ {
+  "area": "Dates",
+  "item": "Lesha net profit 'As of' = text 'H1 2026'; ENBD customers undated",
+  "original": "Mixed text/blank in a date column",
+  "finding": "Corrected",
+  "now": "Explicit period end, label and period type for every data point.",
+  "materiality": "Minor"
+ },
+ {
+  "area": "Sources",
+  "item": "ENBD customers sourced to company LinkedIn page",
+  "original": "Undated, tier-4 source for a financial metric",
+  "finding": "Requires verification",
+  "now": "Replaced where an official dated figure exists; see Financials.",
+  "materiality": "Minor"
+ },
+ {
+  "area": "Privacy",
+  "item": "Management 'Business email from prior work' (4 rows) and Gmail/Granola links",
+  "original": "Internal correspondence data mixed with public research",
+  "finding": "Corrected",
+  "now": "Kept only in 'Internal relationship notes'; excluded from website and exports.",
+  "materiality": "Minor"
+ },
+ {
+  "area": "Scope",
+  "item": "Standard Chartered figures",
+  "original": "Group-wide global balance sheet (USD 993bn) shown alongside GCC banks",
+  "finding": "Corrected",
+  "now": "Categorised as 'International bank (GCC operations)'; group figures flagged as global scope.",
+  "materiality": "Material"
+ }
+]

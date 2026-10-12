@@ -1,0 +1,1371 @@
+{
+  "id": "sa-albilad",
+  "name": "Bank Albilad",
+  "short_name": "Albilad",
+  "legal_name": "Bank Albilad (a Saudi Joint Stock Company)",
+  "name_ar": "بنك البلاد",
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://www.bankalbilad.com.sa",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Islamic commercial bank",
+  "model": "Islamic",
+  "founded": "2004 (Royal Decree 48/M dated 21/9/1425H, 4 Nov 2004). AR 2025: the Kingdom's 11th bank; original shareholders were 8 money-exchange houses, who contributed SAR 1.5bn, with the public paying another SAR 1.5bn.",
+  "regulators": [
+    "SAMA",
+    "CMA"
+  ],
+  "listed": true,
+  "exchange": "Tadawul (Saudi Exchange)",
+  "ticker": "1140",
+  "parent_id": null,
+  "ownership_summary": "Listed Saudi Islamic bank with a family-led shareholder base. Three holders above 5% at 31 Dec 2025: Mohammed Ibrahim AlSubeaei & Sons Company (19.34%), Abdulrahman Al Rajhi Investment Fund Company (6.71%) and Abdullah Ibrahim AlSubeaei Investment Company (6.36%). Paid-up capital SAR 15bn after a 2025 increase from SAR 12.5bn.",
+  "shareholders": [
+    {
+      "holder": "Mohammed Ibrahim AlSubeaei & Sons Company",
+      "pct": 19.34,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "holder": "Abdulrahman Al Rajhi Investment Fund Company",
+      "pct": 6.71,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "holder": "Abdullah Ibrahim AlSubeaei Investment Company",
+      "pct": 6.36,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ],
+  "government_link": "No government shareholder above 5% disclosed at 31 Dec 2025 (AR 2025 major shareholders page, S4).",
+  "group_structure": "Parent bank with five subsidiaries that the interim FS say are directly or indirectly 100% owned: Albilad Investment Company (Albilad Capital; capital SAR 500m; profiled separately as sa-albilad-capital), Albilad Real Estate Company, Enjaz Payment Services Company (SAMA-licensed Major Electronic Money Institution), Financial Solutions Company for Investment and Dufaa Finance Company. The website also names Mukafaat Albilad (loyalty) and Horizon Center (financial innovation) as group companies. Double counting: Albilad Capital is consolidated and sits inside the bank's 'Investment banking and brokerage' segment (SAR 433.0m of operating income in FY2025, close to Albilad Capital's own FY2024 figure in sa-albilad-capital). Never add sa-albilad-capital figures to this record. The AR says the only financing to a subsidiary is Saudi National Bank's two short-term SAR 50m facilities to Albilad Capital.",
+  "subsidiaries": [
+    {
+      "name": "Albilad Investment Company (Albilad Capital)",
+      "pct": 100.0,
+      "activity": "CMA-licensed investment arm: dealing, arranging, managing, advising, custody; ETFs, funds, brokerage, investment banking",
+      "linked_id": "sa-albilad-capital",
+      "source_ids": [
+        "S7",
+        "S4"
+      ]
+    },
+    {
+      "name": "Albilad Real Estate Company",
+      "pct": 100.0,
+      "activity": "Real estate-related services for customers",
+      "linked_id": null,
+      "source_ids": [
+        "S7",
+        "S4"
+      ]
+    },
+    {
+      "name": "Enjaz Payment Services Company",
+      "pct": 100.0,
+      "activity": "Remittances and digital wallet; SAMA-licensed Major Electronic Money Institution",
+      "linked_id": null,
+      "source_ids": [
+        "S7",
+        "S4"
+      ]
+    },
+    {
+      "name": "Financial Solutions Company for Investment",
+      "pct": 100.0,
+      "activity": "Not described in the sources opened",
+      "linked_id": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "name": "Dufaa Finance Company",
+      "pct": 100.0,
+      "activity": "Licensed finance company (per AR 2025)",
+      "linked_id": null,
+      "source_ids": [
+        "S7",
+        "S4"
+      ]
+    }
+  ],
+  "footprint": "Saudi Arabia only: 108 branches at end-2025 plus specialised SME centres, with no branches or companies operating abroad (AR 2025). Head office Al Mutamarat, Riyadh. FY2025 operating income by region: Central SAR 4,857m, Western 822m, Eastern 513m.",
+  "customer_segments": "Retail (Awaed Albilad, Zood savings, Tamayuz Gold and Diamond tiers, personal and mortgage finance, cards), private banking and UHNW, SMEs (a stated strategic focus), corporate banking including funds and REITs and government bodies, treasury.",
+  "business_lines": "Four reporting segments, FY2025 operating income (SAR m, share): Retail banking 2,410 (39%), Corporate banking 1,912 (31%), Treasury 1,437 (23%), Investment banking and brokerage 433 (7%; Albilad Capital). Retail covers deposits, financing (Bei-ajel, installment sales, Musharakah, Ijarah), remittances, cards and Private Banking. Fee income FY2025 included mutual fund and other management fees SAR 169.7m and brokerage income SAR 37.5m (group lines). Payments and remittances run through Enjaz.",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 186478016,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, interim consolidated statement of financial position (unaudited, reviewed six-month statements)",
+      "status": "Verified",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "S7 PDF p.4",
+      "note": "31 Dec 2025: 172,972,071; 30 Jun 2025: 161,902,296."
+    },
+    {
+      "metric": "total_assets",
+      "value": 172972071,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, audited consolidated statement of financial position",
+      "status": "Verified",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "S6 PDF p.8",
+      "note": "Extra record (FY2025 year-end). 31 Dec 2024: 154,964,687."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 147187916,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customers' deposits'; excludes due to banks, SAMA and other financial institutions (7,766,912)",
+      "status": "Verified",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "S7 PDF p.4",
+      "note": "31 Dec 2025: 132,879,116. Deposits are Islamic (Wakalah, Awaed, current accounts); the line label is as printed."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 132879116,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customers' deposits', audited; excludes due to banks and SAMA (6,982,815)",
+      "status": "Verified",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "S6 PDF p.8",
+      "note": "Extra record. 31 Dec 2024: 121,776,215."
+    },
+    {
+      "metric": "net_loans",
+      "value": 133418455,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Financing, net' (Shariah-compliant financing to customers: Bei-ajel, installment sales, Musharakah, Ijarah; presented net)",
+      "status": "Verified",
+      "source_ids": [
+        "S7",
+        "S6"
+      ],
+      "locator": "S7 PDF p.4",
+      "note": "31 Dec 2025: 122,188,499."
+    },
+    {
+      "metric": "net_loans",
+      "value": 122188499,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Financing, net', audited",
+      "status": "Verified",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "S6 PDF p.8",
+      "note": "Extra record. 31 Dec 2024: 109,304,086."
+    },
+    {
+      "metric": "total_equity",
+      "value": 23769745,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including Tier 1 Sukuk 4,313,133; equity attributable to shareholders of the Bank 19,456,612",
+      "status": "Verified",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "S7 PDF p.4",
+      "note": ""
+    },
+    {
+      "metric": "total_equity",
+      "value": 21355920,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including Tier 1 Sukuk 2,437,858; equity attributable to shareholders 18,918,062",
+      "status": "Verified",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "S6 PDF p.8",
+      "note": "Extra record."
+    },
+    {
+      "metric": "operating_income",
+      "value": 6191897,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income' (net income from investing and financing assets 4,751,523 + net fees 722,973 + exchange 296,123 + dividends 103,827 + FVSI gains 17,010 + other 300,441)",
+      "status": "Verified",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "S6 PDF p.9",
+      "note": "FY2024: 5,671,879 (+9%)."
+    },
+    {
+      "metric": "operating_income",
+      "value": 3142374,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', six months ended 30 Jun 2026",
+      "status": "Verified",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "S7 PDF p.5",
+      "note": "H1 2025: 3,004,558 (+4.6%)."
+    },
+    {
+      "metric": "net_profit",
+      "value": 3049353,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income for the year after zakat'; the statements show no non-controlling interest and subsidiaries are 100% owned, so treated as attributable to shareholders",
+      "status": "Verified",
+      "source_ids": [
+        "S6",
+        "S5"
+      ],
+      "locator": "S6 PDF p.10",
+      "note": "FY2024: 2,806,531 (+9%). Zakat for 2025 SAR 350m."
+    },
+    {
+      "metric": "net_profit",
+      "value": 1527371,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Net income for the period after zakat', six months",
+      "status": "Verified",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "S7 PDF p.6",
+      "note": "H1 2025: 1,466,149 (+4.2%). Q2 2026: 791,619."
+    },
+    {
+      "metric": "investment_brokerage_segment_operating_income",
+      "value": 432976,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "'Investment banking and brokerage' segment (Albilad Capital, proxy)",
+      "definition": "Segment total operating income; 7% of group; segment income before zakat 238,858",
+      "status": "Verified",
+      "source_ids": [
+        "S6",
+        "S4"
+      ],
+      "locator": "S6 PDF p.63",
+      "note": "FY2024: 404,939 (+6.9%). Segment total assets 1,522,764 (31 Dec 2025)."
+    },
+    {
+      "metric": "investment_brokerage_segment_operating_income",
+      "value": 189105,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "'Investment banking and brokerage' segment (Albilad Capital, proxy)",
+      "definition": "Segment total operating income, six months; segment income before zakat 87,923",
+      "status": "Verified",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "S7 PDF p.36",
+      "note": "H1 2025: 234,740 (-19.4%); income before zakat H1 2025: 135,764 (-35.2%)."
+    },
+    {
+      "metric": "fund_management_fees",
+      "value": 169658,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Fee and commission income line 'Management fee (mutual fund and others)'",
+      "status": "Verified",
+      "source_ids": [
+        "S6"
+      ],
+      "locator": "S6 PDF p.56 (note 22)",
+      "note": "FY2024: 158,783. Brokerage income line: 37,465 (FY2024: 61,677); brokerage expenses 20,741."
+    },
+    {
+      "metric": "employees",
+      "value": 3650,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Bank",
+      "definition": "'+3,650 employees' (AR 2025 operational highlights); lower bound as printed",
+      "status": "Verified",
+      "source_ids": [
+        "S4"
+      ],
+      "locator": "S4 PDF p.8",
+      "note": "Date assumed year-end 2025."
+    },
+    {
+      "metric": "branches",
+      "value": 108,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "Bank, KSA",
+      "definition": "'108 branches across the Kingdom'",
+      "status": "Verified",
+      "source_ids": [
+        "S4"
+      ],
+      "locator": "S4 PDF pp.6, 8",
+      "note": ""
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 full report (S4; text search for customer counts found none); AR web page (S5); interim FS (S7)"
+    },
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Bank-level AUM not given in AR 2025 (S4) or FS (S6, S7); the FS say assets held in trust are off balance sheet with no figure. Albilad Capital data are in sa-albilad-capital."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 retail and private banking sections (S4 PDF pp.40-41); Private Banking page (S13)"
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "AR 2025 (S4); bank app page (S14)"
+    },
+    {
+      "metric": "q3_2026_results",
+      "status": "Not found after research",
+      "where_checked": "Financial results page lists Q2 2026 as the latest statement (S8, checked 12 Oct 2026)"
+    }
+  ],
+  "people": [
+    {
+      "name": "Abdulaziz Mohammed AlOnaizan",
+      "name_ar": null,
+      "title": "Chairman of the Board (Non-Executive) and Chairman of the Executive Committee; former CEO",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2026-06-01",
+      "appointed_note": "Chairman effective 1 Jun 2026 until the end of the board term on 16 Apr 2028 (board approval 23 Apr 2026 after SAMA non-objection). He stepped down as CEO effective 23 Apr 2026; CEO since 2016. The board page says CEO 'to May 2026' (see discrepancies).",
+      "previous_roles": "CEO, Bank Albilad (2016 to Apr 2026); Chief Business Officer, Bank Albilad (AR 2025); earlier Alinma Bank, Arab National Bank and SAMBA. 35+ years in banking. Chairman of Enjaz Payment Services; the bank page also says Chairman of Albilad Capital (conflicts with another source, see sa-albilad-capital). Board roles at REDF, HRDF and Buna.",
+      "education": "Bachelor's in Quantitative Methods, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2); board announcement 26 Apr 2026 (S9); leadership announcement 27 Apr 2026 (S10)",
+      "source_ids": [
+        "S2",
+        "S9",
+        "S10",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nasser Mohammed AlSubeaei",
+      "name_ar": null,
+      "title": "Vice Chairman of the Board (Non-Executive); Chairman until 31 May 2026",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": "2026-06-01",
+      "appointed_note": "Vice Chairman effective 1 Jun 2026 until 16 Apr 2028; resigned as Chairman effective the same day and stays on the board and Executive Committee. Signs the AR 2025 as Chairman. A search-result headline (Argaam) shows him reappointed Chairman in 2025.",
+      "previous_roles": "Experience in financial, banking, investment and real estate sectors. Vice Chairman of MASIC; Chairman of Al-Argan Real Estate and Thakher Real Estate; board roles at Akwan, Infath and King Salman Charitable Housing Society.",
+      "education": "Bachelor's in Accounting, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page (S2); board announcement 26 Apr 2026 (S9); AR 2025 chairman statement (S4). The announcement spells him 'Nasser Mohammed Al-Subaie' and 'Nasser bin Mohammed Al-Subaie'; treated as one person.",
+      "source_ids": [
+        "S2",
+        "S9",
+        "S4",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Bashaar Yahya Al Qunaibit",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Executive Management",
+      "scope": "Group",
+      "appointed": "2026-06-01",
+      "appointed_note": "Appointed CEO effective 1 Jun 2026 (announced 26-27 Apr 2026; SAMA approval secured). Senior Executive Vice President, Businesses, at the AR 2025 date.",
+      "previous_roles": "SEVP - Businesses, Bank Albilad; before that Chief Operating Officer, Saudi British Bank Takaful (AR 2025 table). 24 years of experience per AR 2025; 25+ years per the April 2026 announcement.",
+      "education": "Bachelor's in Business Administration (degree level per AR 2025; institution not stated); 'several professional certifications' per announcement",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 lists him as CEO (S1); Mubasher and Enterprise AM report the appointment (S10, S11); a LinkedIn search did not return his profile",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Waleed Khaled Al-Dhubaib",
+      "name_ar": null,
+      "title": "Executive Vice President, Retail Banking",
+      "functions": [
+        "Retail",
+        "Affluent",
+        "Private banking"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Retail Banking Group (includes Private Banking and Tamayuz tiers)",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found. The website prints 'Waleed Khalid Al Dhubaib'.",
+      "previous_roles": "Executive Vice President, Riyad Bank (AR 2025 table). 23 years of experience.",
+      "education": "Bachelor's in Finance (AR 2025); KFUPM per LinkedIn search snippet",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/waleeed/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4). LinkedIn search result 'Waleed AlDhubaib - بنك البلاد' with title EVP Retail Banking, 23 years and KFUPM, consistent with the AR; profile not opened (S21). The AR does not name a separate head of private banking.",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S21"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saad Ibrahim Al Drees",
+      "name_ar": null,
+      "title": "Executive Vice President, Corporate Banking",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Corporate Banking Group",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Head of Finance and Global Transaction Services, Bank Albilad (AR 2025 table). 21 years of experience.",
+      "education": "Master's in Business Administration (degree level per AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4)",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulaziz Saleh Alghufaili",
+      "name_ar": null,
+      "title": "Executive Vice President, Technology",
+      "functions": [
+        "Technology",
+        "Digital"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Technology",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Head of Technology, Saudi Industrial Development Fund (AR 2025 table). 24 years of experience.",
+      "education": "Master's in Information Systems (degree level per AR 2025)",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/aalghufaili/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4). LinkedIn search result 'Abdulaziz Al-Ghufaili - بنك البلاد' (same name and employer); title not shown in the snippet (S22).",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S22"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mishal Fahad Alshorihy",
+      "name_ar": null,
+      "title": "Executive Vice President, Finance",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "Head of Management Reporting, Bank Albilad (AR 2025 table). 24 years of experience.",
+      "education": "Master's in Finance (degree level per AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4)",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Samer Mohammed Farhoud",
+      "name_ar": null,
+      "title": "Executive Vice President, Treasury (per AR 2025)",
+      "functions": [
+        "Treasury"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Treasury",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Listed in AR 2025; not on the official executive page checked 12 Oct 2026",
+      "previous_roles": "CEO, Deutsche Gulf Finance (AR 2025 table). 40 years of experience.",
+      "education": "Bachelor's in Computer Engineering (degree level per AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "AR 2025 lists him (S4 PDF pp.22, 85). The current official page (S1, 13 executives) has no treasury head. No departure or successor announcement found.",
+      "source_ids": [
+        "S4",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saleh Suliman Al Habib",
+      "name_ar": null,
+      "title": "Executive Vice President, Shared Services",
+      "functions": [
+        "Operations"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Shared Services (Operations)",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found. AR 2025 calls the role 'Executive Vice President of Operations' on one page and 'Shared Services' on another.",
+      "previous_roles": "General Manager of Corporate Banking, Bank Albilad (AR 2025 table). 32 years of experience.",
+      "education": "Bachelor's in Accounting (degree level per AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4)",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Mohammed Al Arifi",
+      "name_ar": null,
+      "title": "Executive Vice President, Risk Management",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Risk Management",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found",
+      "previous_roles": "General Manager, Credit Policies Sector, Bank Albilad (AR 2025 table). 30 years of experience.",
+      "education": "Bachelor's in Accounting (degree level per AR 2025)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); AR 2025 (S4)",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammad Abdulaziz Alzoman",
+      "name_ar": null,
+      "title": "Chief Sharia Officer",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Shariah",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Date not found; no biography visible on the website",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official executive page checked 2026-10-12 (S1); bios on that page did not load (empty pop-ups)",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Haytham Sulaiman AlSuhaimi",
+      "name_ar": null,
+      "title": "Non-Executive Board Member; Chief Business Development Officer, Albilad Capital",
+      "functions": [
+        "Board",
+        "Innovation / partnerships"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Board of Directors; Albilad Capital (business development)",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Board appointment date not on the page. Also sits on the Executive Committee. Albilad Capital's fund reports call him Vice President of Business Development (see sa-albilad-capital).",
+      "previous_roles": "Wealth management and investment background: Albilad Capital (financial analyst in investment banking, private equity and business development, then business development); intern at Jadwa (2015-2016); Marketing Manager at SAPIN UAE (2012-2014). Board roles at Sharing Solutions for IT, Nusaned Fund and Telad Investment Company.",
+      "education": "Master's in Investment and Financial Risks, University of Westminster; Bachelor's in Business Administration (United Arab Emirates)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page checked 2026-10-12 (S2). The page classifies him Non-Executive but lists an executive role at the subsidiary.",
+      "source_ids": [
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Adeeb Mohammed Abanumai",
+      "name_ar": null,
+      "title": "Independent Board Member; Chairman of the Audit Committee; Vice Chairman until 31 May 2026",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Bank Albilad",
+      "business_unit": "Board of Directors",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Resigned as Vice Chairman effective 1 Jun 2026; remains a board member and Audit Committee chair until 16 Apr 2028",
+      "previous_roles": "Professional accountant; runs Abanumi CPA. Audit roles at Bin Saedan, Almaarefa University, Southern Province Cement and Budget Company; board member of AL Maather REIT Fund and Al Watania Poultry.",
+      "education": "Master's in Accounting, University of Miami; Bachelor's in Accounting, King Saud University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page (S2); board announcement 26 Apr 2026 (S9); AR 2025 lists him as Vice Chairman (S4)",
+      "source_ids": [
+        "S2",
+        "S9",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Zaid Mohammed Al-Mufarih",
+      "name_ar": null,
+      "title": "Chief Executive Officer, Albilad Capital",
+      "functions": [
+        "Subsidiary CEO",
+        "Investments / asset management"
+      ],
+      "entity": "Albilad Investment Company (Albilad Capital)",
+      "business_unit": "Albilad Capital (100% subsidiary)",
+      "scope": "Subsidiary",
+      "appointed": "2018",
+      "appointed_note": "Full profile in sa-albilad-capital. Not listed on the bank's executive page.",
+      "previous_roles": "Previously held roles at the Capital Market Authority (Forbes ME profile). Full profile in sa-albilad-capital.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Forbes Middle East Top 50 Asset Managers 2026 profile lists him as CEO of Albilad Capital since 2018 (S23); named as CEO in Albilad Capital's own Nov-Dec 2025 press releases (see sa-albilad-capital). Not on the bank's executive page.",
+      "source_ids": [
+        "S23"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Albilad is a Shariah-only retail and corporate bank whose wealth offer is thin at bank level. Affluent clients sit in the Tamayuz Gold and Diamond tiers (Diamond adds priority banking with a dedicated relationship manager; no eligibility thresholds or investment benefits are published), and Private Banking offers one-to-one service through a request form with no published thresholds. In 2025 Retail Banking added a Quick Financing Program for private-banking customers and executive-lounge and executive-office access for UHNW clients, and the AR cites 'enhanced offerings for affluent customer segments'. The only investment product in the new bank app is the Investment Wakalah account (from SAR 50,000 or USD 30,000, indicative profit up to about 5%). Securities, funds and ETFs sit in the 100%-owned Albilad Capital, which runs its own trading apps, 7 ETFs and mutual funds (see sa-albilad-capital); its segment was 7% of FY2025 operating income (SAR 433m) and fell 19% in H1 2026. A new CEO took over on 1 Jun 2026.",
+    "segments": [
+      {
+        "name": "Tamayuz Gold",
+        "tier": "Affluent",
+        "eligibility": "Not stated. Privileges: discounts at selected stores and restaurants, worldwide airport lounge access (as published).",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "name": "Tamayuz Diamond",
+        "tier": "Affluent",
+        "eligibility": "Not defined: 'by meeting certain criteria, your account will be upgraded'. Priority banking service with a dedicated relationship manager.",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "name": "Private Banking",
+        "tier": "Private / HNW",
+        "eligibility": "Not published. Tailored one-to-one service; request via an online form; features, centres and relationship management sub-pages exist.",
+        "source_ids": [
+          "S13"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Private Banking page: 'tailored banking services', relationship management, centres, online request form. AR 2025: Quick Financing Program for private-banking customers; executive-lounge access for UHNW clients. No thresholds, investment products or head named; no private banking AUM disclosed.",
+      "source_ids": [
+        "S13",
+        "S4"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "Through Albilad Capital (100%): ETFs, public mutual funds, discretionary portfolios, real estate funds. AR 2025: ETF leadership above 70% local market share and about 53% regional share. Group management fees on mutual funds and others SAR 169.7m in FY2025. Details in sa-albilad-capital.",
+      "source_ids": [
+        "S4",
+        "S6"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Through Albilad Capital: Saudi market and international trading; AR 2025 says 76% of trading turnover went through web and mobile. Group brokerage income line SAR 37.5m in FY2025 (SAR 61.7m in FY2024). Details in sa-albilad-capital.",
+      "source_ids": [
+        "S4",
+        "S6"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "The new Albilad app (2025) opens an Investment (Wakala) account online but lists no funds, stocks or trading. Equity, ETF, fund and IPO investing is in Albilad Capital's separate apps (see sa-albilad-capital). An Investor Relations App launched alongside the new bank app is for shareholders.",
+      "source_ids": [
+        "S14",
+        "S5",
+        "S4"
+      ]
+    },
+    "advisory": {
+      "present": "Unclear",
+      "detail": "Relationship managers serve Tamayuz Diamond and Private Banking clients, but no investment advisory service, suitability process or advisory fee is published at bank level.",
+      "source_ids": [
+        "S13",
+        "S16"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "Albilad Capital lists Discretionary Portfolio Management; terms and minimums not published (see sa-albilad-capital). Nothing at bank level.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No robo-advisor or model-portfolio product found on the bank site, in the app page or in AR 2025.",
+      "source_ids": [
+        "S14",
+        "S4"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No third-party fund shelf found. The bank site links to Albilad Capital for investments; Albilad Capital distributes its own funds.",
+      "source_ids": [
+        "S3",
+        "S13"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "No structured products or capital-protected notes found in the bank's retail, private banking pages or AR 2025.",
+      "source_ids": [
+        "S13",
+        "S4"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Via Albilad Capital: real estate funds (2025 launches: Makkah Vision Real Estate Fund, Qurtubah Square, Hittin, Albilad Investment Opportunity Fund 2) and hospitality funds. See sa-albilad-capital.",
+      "source_ids": [
+        "S4"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Whole bank is Shariah-compliant under a Shariah Committee: Investment Wakalah (Shariah Committee approved, zakat treatment explained), Awaed Albilad, Goal Saving; Albilad Capital sukuk ETF and Shariah-screened funds.",
+      "source_ids": [
+        "S15",
+        "S7",
+        "S4"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Sukuk",
+      "Real estate funds",
+      "Private markets / alternatives"
+    ],
+    "partners": [
+      {
+        "partner": "Albilad Capital (subsidiary)",
+        "kind": "Product / investment arm",
+        "what": "Supplies ETFs, funds, brokerage and DPM to bank clients; the bank site links to its site and apps",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S3",
+          "S4"
+        ]
+      },
+      {
+        "partner": "Intellect Design Arena",
+        "kind": "Technology vendor (wholesale banking)",
+        "what": "eMACH.ai platform for wholesale and corporate banking: digital cash management, mobile access, payment workflows, APIs. Intellect calls it its fourth wholesale digital transformation in Saudi Arabia. Go-live status not stated.",
+        "date": "2025-08-08",
+        "status": "Announced",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "partner": "Saudi Payments",
+        "kind": "Payments infrastructure",
+        "what": "Named as the partner for the Account Finder service in the new Albilad app",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "partner": "Samsung Pay",
+        "kind": "Payments",
+        "what": "Launched in 2025 alongside Travel Pass, supplementary cards and an installment program",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S4"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-08-08",
+        "what": "Selected Intellect Design Arena's eMACH.ai to modernise wholesale and corporate banking",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched the New Albilad App (account opening, mada card issuing, Investment Wakala account) and an Investor Relations App; open banking transactions +143%",
+        "source_ids": [
+          "S4",
+          "S5",
+          "S14"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Raised share capital to SAR 15bn and issued USD 650m AT1 Sukuk under a USD 2bn programme",
+        "source_ids": [
+          "S4",
+          "S5"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Retail Banking added a Quick Financing Program for private-banking customers, executive-lounge and executive-office access for UHNW, Samsung Pay, Travel Pass and supplementary cards",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Albilad Capital launched the Albilad MSCI Saudi Equity ETF, new real estate funds and the King Faisal University Endowment Fund; reported 76% of trading turnover on digital channels",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2026-01-19",
+        "what": "Madkhol Capital announced that Albilad Capital's investment products will be offered inside the Madkhol app",
+        "source_ids": [
+          "S20"
+        ]
+      },
+      {
+        "date": "2026-04-26",
+        "what": "Board approved leadership changes effective 1 Jun 2026: AlOnaizan from CEO to Chairman; AlSubeaei from Chairman to Vice Chairman; Abanumai steps down as Vice Chairman; Bashaar Al Qunaibit becomes CEO",
+        "source_ids": [
+          "S9",
+          "S10",
+          "S11"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Wealth is a gap at bank level: the bank app's only investment product is the Investment Wakalah account (minimum SAR 50,000 or USD 30,000), while funds and equities require Albilad Capital's separate apps (S14, S15, S4 PDF p.64)",
+        "AR 2025 cites 'enhanced offerings for affluent customer segments' and 2025 UHNW and private-banking additions, but the Private Banking page publishes no thresholds, products or advisory process (S4 PDF pp.15, 40-41; S13)",
+        "Tamayuz Diamond promises a dedicated relationship manager, yet no investment or wealth benefit is listed for Tamayuz tiers (S16)",
+        "The Investment banking and brokerage segment's H1 2026 operating income fell 19.4% year on year (SAR 189.1m vs 234.7m) and its pre-zakat income fell 35.2% (S7 PDF p.36)",
+        "New CEO from 1 Jun 2026, promoted from Senior Executive Vice President, Businesses, so the retail and wealth agenda may be reset (S9, S10, S11)",
+        "Retail growth is led by mortgages, personal finance and cards; investment income is small (SAR 433m of SAR 6,192m, 7%) (S4 PDF p.34)"
+      ],
+      "barriers": [
+        "Wealth products and licences sit in Albilad Capital, a separate CMA-licensed subsidiary with its own apps, ETF franchise and partners (S3, S4 PDF p.63)",
+        "Shariah-only bank: every product needs Shariah Committee approval (S7 note 1b)",
+        "Stated strategy emphasises sustainable growth, SME Islamic banking and digital leadership; wealth is not named as a pillar in the AR strategy review (S4 PDF p.11)",
+        "Chair and CEO both changed on 1 Jun 2026, and no head of wealth, private banking or digital is named on the website or AR 2025 (S1, S2, S4)",
+        "Intellect eMACH.ai chosen for wholesale banking in 2025 shows a preference for a single strategic platform vendor on the corporate side (S19)"
+      ],
+      "incumbent_vendors": [
+        "Intellect Design Arena (eMACH.ai, wholesale and corporate banking), announced 8 Aug 2025 (S19)",
+        "Saudi Payments (Account Finder in the Albilad app) (S14)",
+        "Albilad Capital's trading stack: see sa-albilad-capital (DirectFN and IB Exchange Corp. named in app store listings)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Executive Management (13 executives; bios did not load)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/about/pages/executive-management.aspx",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S2",
+      "title": "Board of Directors",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/about/Pages/board-of-directors.aspx",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "About Albilad (company details, group companies, governance links)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/about/Pages/about.aspx",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "Bank Albilad Annual Report 2025 (full report)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/annual-report-2025/pdf/bab-en.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S5",
+      "title": "Annual Report 2025 (web version, highlights)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/annual-report-2025/",
+      "doc_type": "Annual report web page",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S6",
+      "title": "Consolidated financial statements for the years ended 31 December 2025 and 2024",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/downloads/about/financial-results/BAB%20YE%20-%202025%20English%20FS.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S7",
+      "title": "Interim condensed consolidated financial statements, six months ended 30 June 2026",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/downloads/about/financial-results/BAB%20Q2%20-%202026%20English%20FS.pdf",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S8",
+      "title": "Financial Results (list of quarterly and annual statements; latest is Q2 2026)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/about/investor-relations/financial-information/Pages/financial-results.aspx",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S9",
+      "title": "Bank Albilad announces changes at the Board of Directors level",
+      "publisher": "Mubasher (Tadawul announcement report)",
+      "url": "https://english.mubasher.info/news/4600857/Bank-Albilad-announces-Changes-at-the-Board-of-Directors-Level/",
+      "doc_type": "News report of bourse filing",
+      "tier": 5,
+      "published": "2026-04-26",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "Bank Albilad unveils new leadership, CEO",
+      "publisher": "Mubasher (Tadawul announcement report)",
+      "url": "https://english.mubasher.info/news/4601684/Bank-Albilad-unveils-new-leadership-CEO/",
+      "doc_type": "News report of bourse filing",
+      "tier": 5,
+      "published": "2026-04-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S11",
+      "title": "Bank Albilad names Bashaar Al Qunaibit as CEO",
+      "publisher": "Enterprise AM",
+      "url": "https://enterpriseam.com/ksa/2026/04/27/bank-albilad-names-bashaar-al-qunaibit-as-ceo/",
+      "doc_type": "News report",
+      "tier": 5,
+      "published": "2026-04-27",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S12",
+      "title": "Saudi-listed Bank Albilad appoints new CEO",
+      "publisher": "Zawya",
+      "url": "https://zawya.com/en/business/banking-and-insurance/saudi-listed-bank-albilad-appoints-new-ceo-g9132dag",
+      "doc_type": "News report (no date on the page; no biography)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S13",
+      "title": "Private Banking",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/personal/accounts/private/Pages/default.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S14",
+      "title": "New Albilad App",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/personal/digital-channels/Pages/albilad-app.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Investment Wakalah Account",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/personal/accounts/pages/investment-wakalah-product.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "Tamayuz Accounts (Gold and Diamond)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/personal/accounts/tamayuz/Pages/default.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S17",
+      "title": "Savings and investment accounts (product index)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/en/personal/accounts/Pages/saving-investment-account.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S18",
+      "title": "Bank Albilad Investor Presentation (undated; refers to 2024 strategic objectives)",
+      "publisher": "Bank Albilad",
+      "url": "https://www.bankalbilad.com.sa/downloads/about/investor-relations/BAB%20Investor%20Presentation%20EN.pdf",
+      "doc_type": "Investor presentation (appears stale)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Bank Albilad and Intellect Design Arena partner to upgrade digital banking (eMACH.ai)",
+      "publisher": "Finance Director Europe",
+      "url": "https://www.financedirectoreurope.com/?p=14879",
+      "doc_type": "News report of vendor announcement",
+      "tier": 5,
+      "published": "2025-08-08",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "The Intellect press release PDF on nsearchives.nseindia.com timed out and was not read"
+    },
+    {
+      "id": "S20",
+      "title": "Madkhol concludes multiple deals to strengthen solutions for individuals, businesses",
+      "publisher": "Sharikat Mubasher",
+      "url": "https://sharikatmubasher.com/news/article/21529316/madkhol-concludes-multiple-deals-to-strengthen-solutions-for-individuals-businesses?lang=en",
+      "doc_type": "News report",
+      "tier": 5,
+      "published": "2026-01-19",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S21",
+      "title": "Waleed AlDhubaib - بنك البلاد (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/waleeed/",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only"
+    },
+    {
+      "id": "S22",
+      "title": "Abdulaziz Al-Ghufaili - بنك البلاد (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aalghufaili/",
+      "doc_type": "LinkedIn search result (snippet only; profile not opened)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only"
+    },
+    {
+      "id": "S23",
+      "title": "Top 50 Asset Managers 2026: Zaid Almufarih (Albilad Capital)",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-50-asset-managers-2026/zaid-almufarih/",
+      "doc_type": "Ranking profile",
+      "tier": 5,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Bank Albilad reappoints Nasser Al-Subaie as Chairman, Adeeb Abanumai as Vice Chairman",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1807606",
+      "doc_type": "News headline",
+      "tier": 5,
+      "published": "2025-04",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (headline); date inferred from the board term starting 17 Apr 2025"
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Chair and CEO",
+      "detail": "AR 2025 (published early 2026) lists Nasser AlSubeaei as Chairman and Abdulaziz AlOnaizan as CEO. The official board and executive pages (Oct 2026) list AlOnaizan as Chairman and Bashaar Al Qunaibit as CEO, matching the April 2026 filings effective 1 Jun 2026.",
+      "source_ids": [
+        "S4",
+        "S2",
+        "S1",
+        "S9",
+        "S10"
+      ],
+      "resolution": "Used the current pages and filings. The AR is out of date on these roles."
+    },
+    {
+      "field": "AlOnaizan CEO end date",
+      "detail": "The board page bio says he was CEO 'to May 2026'; the filings say he stepped down as CEO effective 23 Apr 2026 and became Chairman on 1 Jun 2026.",
+      "source_ids": [
+        "S2",
+        "S9",
+        "S10"
+      ],
+      "resolution": "Used the filing dates. Minor."
+    },
+    {
+      "field": "Treasury head",
+      "detail": "AR 2025 lists Samer Farhoud as EVP Treasury; the official executive page (13 names) lists no treasury head.",
+      "source_ids": [
+        "S4",
+        "S1"
+      ],
+      "resolution": "Recorded with role_status 'Requires verification'. Unresolved."
+    },
+    {
+      "field": "Haytham AlSuhaimi classification",
+      "detail": "The board page classifies him as Non-Executive but also lists him as Chief Business Development Officer at Albilad Capital; Albilad Capital fund reports call him Vice President of Business Development.",
+      "source_ids": [
+        "S2"
+      ],
+      "resolution": "Recorded as board member with the subsidiary role noted. Minor."
+    },
+    {
+      "field": "Albilad Capital chair",
+      "detail": "The bank's board page says AlOnaizan is Chairman of Albilad Capital; an Albilad Capital board CV names Ihsan Bafakih as Chairman since April 2023 and AlOnaizan as Vice Chairman.",
+      "source_ids": [
+        "S2"
+      ],
+      "resolution": "Left unresolved here; handled in sa-albilad-capital."
+    }
+  ],
+  "open_items": [
+    "Executive bios on the website did not load (the 'Learn More' pop-ups are empty); career and degree level come from the AR 2025 senior-executive table, so institutions and dates are mostly missing.",
+    "No head of wealth, private banking, affluent segment, digital or strategy is named on the website or in AR 2025. Private Banking sits inside Retail Banking under Waleed Al-Dhubaib, but no reporting line is documented.",
+    "Customers, wealth client assets, bank-level AUM and investing users are not disclosed.",
+    "Q3 2026 statements not yet listed (latest is Q2 2026, S8). Re-check late Oct 2026. The investor presentation on the IR page appears stale (refers to 2024 objectives) and was not used for metrics.",
+    "LinkedIn: no profile found for the CEO, Chairman, Treasury EVP or Chief Sharia Officer; the company page URL was not verified. LinkedIn matches for Waleed Al-Dhubaib and Abdulaziz Alghufaili are search-result matches only.",
+    "Intellect go-live status and scope beyond wholesale banking are unknown; the NSE press release PDF timed out and a news report was used.",
+    "Leads checked: private/wealth propositions (thin, see capabilities); digital investing in the bank app (only an Investment Wakalah account; investing is in Albilad Capital apps); capital-arm AUM and funds are in sa-albilad-capital.",
+    "Saudi Exchange pages were not queried (403 in earlier batches). The CMA register entry for Albilad Capital was not checked directly (licence number taken from company documents)."
+  ],
+  "research_status": "Complete",
+  "researched_by": "R5",
+  "checked": "2026-10-12"
+}

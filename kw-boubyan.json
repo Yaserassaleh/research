@@ -1,0 +1,1690 @@
+{
+ "id": "kw-boubyan",
+ "name": "Boubyan Bank",
+ "short_name": "Boubyan",
+ "legal_name": "Boubyan Bank K.S.C.P.",
+ "name_ar": "بنك بوبيان",
+ "country": "KW",
+ "hq_city": "Kuwait City",
+ "website": "https://www.bankboubyan.com",
+ "linkedin_company": "https://www.linkedin.com/company/boubyan-bank",
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "2004 (incorporated 21 Sep 2004 under Amiri Decree No. 88; CBK licence 28 Nov 2004; listed 15 May 2006)",
+ "regulators": [
+  "CBK",
+  "CMA Kuwait (Boubyan Capital; listed issuer)",
+  "UK regulators (BLME/Nomo - UK-regulated bank, FSCS-covered)"
+ ],
+ "listed": true,
+ "exchange": "Boursa Kuwait",
+ "ticker": "BOUBYAN (Boursa Kuwait company code 109)",
+ "parent_id": "kw-nbk",
+ "ownership_summary": "Listed on Boursa Kuwait since 15 May 2006. National Bank of Kuwait is the parent and the only holder above 5%, with 60.368% at 31 Dec 2025 (Boubyan AR 2025); NBK reports 60.4% (NBK AR 2025; 2Q 2026 presentation). A Boubyan-Gulf Bank merger study was called off on 14 Jan 2025.",
+ "shareholders": [
+  {
+   "holder": "National Bank of Kuwait S.A.K.P.",
+   "pct": 60.368,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S4",
+    "S27"
+   ]
+  }
+ ],
+ "government_link": "No direct government holding above 5% disclosed; controlled by NBK (60.4%), which has no controlling shareholder.",
+ "group_structure": "Boubyan Bank K.S.C.P. (listed) is a 60.4% subsidiary of National Bank of Kuwait (kw-nbk), which consolidates it in full - NBK's group assets, deposits and profit already include Boubyan, so never add the two. Boubyan's principal subsidiaries: Boubyan Capital Investment Company K.S.C. (Closed) (100%, Islamic investments - asset management, alternatives, brokerage); Boubyan Takaful Insurance Company (98.88%); BLME Holdings (72.37%; 27.63% non-controlling), owner of Bank of London and The Middle East plc (UK), which trades as Nomo (Islamic digital bank) and owns BLME Capital Company (Riyadh). Boubyan Capital and BLME are not profiled separately; their details are recorded here.",
+ "subsidiaries": [
+  {
+   "name": "Boubyan Capital Investment Company K.S.C. (Closed)",
+   "pct": 100.0,
+   "activity": "Islamic investments - asset management, alternatives, brokerage",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S12"
+   ]
+  },
+  {
+   "name": "BLME Holdings (Bank of London and The Middle East plc; trading name Nomo; BLME Capital Company KSA)",
+   "pct": 72.37,
+   "activity": "Islamic banking (UK), digital bank, KSA investment company",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S23",
+    "S18"
+   ]
+  },
+  {
+   "name": "Boubyan Takaful Insurance Company K.S.C. (Closed)",
+   "pct": 98.88,
+   "activity": "Takaful insurance",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "footprint": "Kuwait (domestic branch network; count not found) plus UK (BLME, Nomo digital bank serving GCC residents), KSA (BLME Capital, Riyadh) and UAE (BLME deposits per S22). Market share in Kuwait cited as third largest local bank by assets and financing (AR 2025).",
+ "customer_segments": "Youth and mass retail (digital-first), affluent, private banking (invitation-only), SMEs, large and mid-size corporates, institutions; internationally HNW non-residents (BLME) and GCC residents banking/investing in the UK (Nomo).",
+ "business_lines": "Consumer banking (Islamic finance, cards, deposits, Boubyan app with Msa3ed AI assistant); Private banking; Corporate banking and transaction banking; Treasury; Investment banking & International operations (direct and real estate investments, asset and wealth management via Boubyan Capital and BLME); Takaful (Boubyan Takaful).",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 10592712,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Boubyan Bank and subsidiaries incl. BLME/Nomo, Boubyan Capital, Boubyan Takaful)",
+   "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.9; S5 p.19 (KD 10,593m, rounded)",
+   "note": "Fully consolidated in NBK (60.4%): equals NBK's Islamic Banking segment assets (S29)."
+  },
+  {
+   "metric": "total_assets",
+   "value": 10201278,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 PDF p.9 comparative; S4 MD&A table",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 8425767,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Depositors' accounts'; excludes Due to banks (KD 299,995k) and Certificates of deposit issued (KD 60,809k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.9",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 7997005,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Depositors' accounts' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 PDF p.9 comparative",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 8094582,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Islamic financing to customers', net of provision for impairment (KD 217,602k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.9; note 8 PDF p.21",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 7679734,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Islamic financing to customers', net",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.9 comparative",
+   "note": ""
+  },
+  {
+   "metric": "gross_loans",
+   "value": 8312184,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Islamic financing to customers before provision for impairment (note 8)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.21",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 1156,
+   "unit": "million",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity incl. Perpetual Tier 1 Sukuk (KD 150m) and non-controlling interest (KD 23m); equity attributable to equity holders KD 983m",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "p.19",
+   "note": "Rounded presentation figure (KD million)."
+  },
+  {
+   "metric": "operating_income",
+   "value": 267565,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Operating income' (net financing income + investment, fee, FX and other income)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "MD&A key figures table (KD '000s)",
+   "note": "H1 2026: KD 139,248k (S3 PDF p.7)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 100540,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to equity holders of the Bank",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "MD&A key figures table (KD '000s)",
+   "note": ""
+  },
+  {
+   "metric": "net_profit",
+   "value": 54719,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit for the period attributable to equity holders of the Bank (six months)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.7",
+   "note": "Total net profit KD 55,750k."
+  },
+  {
+   "metric": "fiduciary_assets",
+   "value": 1149272,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Aggregate value of assets held in trust or fiduciary capacity (note 32); NOT labelled AUM - recorded separately",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.65",
+   "note": "2024: KD 1,024,133k; related fee income KD 5,544k (2025)."
+  },
+  {
+   "metric": "investment_international_segment_operating_income",
+   "value": 23393,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Segment: Investment banking and International operations (direct investments, real estate, asset and wealth management; includes BLME and Boubyan Capital activity)",
+   "definition": "Segment operating income (note: segment description per S3 segment reporting)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.26",
+   "note": "Segment net profit KD 5,219k; segment assets KD 849,162k at 30 Jun 2026."
+  },
+  {
+   "metric": "employees",
+   "value": 2390,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "Total number of employees in the Group (note 1)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.45",
+   "note": "2024: 2,371."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 (S4) reports 'significant growth in total AUM' at Boubyan Capital and 'strong AUM growth' at BLME Capital without amounts; also checked H1 2026 statements (S3), 6M 2026 presentation (S5), Q2 2026 call minutes (S6), Boubyan Capital site (S11-S15)."
+  },
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "Only fiduciary assets (note 32, S4) are given; recorded as fiduciary_assets, not AUA."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "No private-banking client-asset figure in S3, S4, S5, S6."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S4, S5, S6, Who We Are page."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "Nomo/Allfunds release gives only conversion ratios (1 in 3 questionnaire completers invest; ~20% regular investing) (S19); S16, S18."
+  },
+  {
+   "metric": "branches",
+   "status": "Not found after research",
+   "where_checked": "S4 (org chart only), S5."
+  }
+ ],
+ "people": [
+  {
+   "name": "Abdulaziz Abdullah Dakheel Al-Shaya",
+   "name_ar": null,
+   "title": "Chairman (Non-Executive)",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2009",
+   "appointed_note": "Board member since 2009 (S2, S4); date elected Chairman not found in sources opened (search result says he succeeded the late Mahmoud Yousef Al-Fulaij).",
+   "previous_roles": "Vice Chairman, First Investment Company; Chairman, First Finance (Qatar); Director, Wethaq Takaful Insurance; Chairman, Orient Holding and Orient Education Services; Director, Mabanee. Current: Vice Chairman, Awtad Real Estate (S4).",
+   "education": "Bachelor's degree in Economics, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S2); AR 2025 (S4).",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Adel Abdul Wahab Al-Majed",
+   "name_ar": null,
+   "title": "Vice Chairman and Group Chief Executive Officer",
+   "functions": [
+    "Group CEO",
+    "Board"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2009-08",
+   "appointed_note": "Joined Boubyan August 2009; board member since 2010 (S4).",
+   "previous_roles": "25+ years at National Bank of Kuwait incl. Deputy Chief Executive Officer and General Manager - Consumer Banking Group. Current: Chairman, Bank of London and The Middle East (UK) (S1, S4).",
+   "education": "Bachelor's degree in Accounting, University of Alexandria; executive programmes at Harvard, Wharton, Stanford",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); quoted in H1 2026 results coverage (search); no departure news found.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Abdulkareem Al-Tuwaijri",
+   "name_ar": null,
+   "title": "CEO - Consumer, Private, and Digital Banking",
+   "functions": [
+    "CEO",
+    "Retail",
+    "Private banking",
+    "Digital"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Consumer, Private and Digital Banking",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Boubyan December 2011; date of current title not stated.",
+   "previous_roles": "23 years at NBK in retail banking leadership roles in Kuwait and London. Current: Chairman, Boubyan Capital; Director, BLME (S1, S4).",
+   "education": "Bachelor's degree in Finance, Kuwait University; executive programmes at Harvard Business School and INSEAD",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 lists him as 'Chief Executive Officer' without scope (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Abdulmohsen Al-Mejhem",
+   "name_ar": null,
+   "title": "Deputy CEO - Private and Consumer Banking",
+   "functions": [
+    "Deputy CEO",
+    "Private banking",
+    "Retail"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Private and Consumer Banking",
+   "scope": "Kuwait",
+   "appointed": "2021",
+   "appointed_note": "Joined Boubyan 2021.",
+   "previous_roles": "General Manager - Private Banking and Retail Finance, Kuwait Finance House; earlier Deloitte (Kuwait) and Kuwait Investment Authority. Board Director, Boubyan Takaful (S1, S4).",
+   "education": "Bachelor's degree in Accounting and MBA, Kuwait University",
+   "qualifications": "Chartered accountant (State of Kuwait)",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdul-Salam Mohammed Al-Saleh",
+   "name_ar": null,
+   "title": "CEO - Corporate Banking, Financial Control, Treasury, and Legal Affairs",
+   "functions": [
+    "CEO",
+    "Corporate / wholesale",
+    "Finance",
+    "Treasury"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Corporate Banking, Financial Control, Treasury and Legal",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Boubyan October 2012.",
+   "previous_roles": "18 years at NBK (Financial Control, Corporate Banking; last role Head of Domestic Corporate Banking); 7+ years Regional Manager, National Bank of Abu Dhabi (Kuwait branch). Current: Chairman, Boubyan Takaful; Director, BLME (S1, S4).",
+   "education": "Bachelor's degree in Finance, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 lists him as 'Chief Executive Officer' (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ali Yousef Al-Ansari",
+   "name_ar": null,
+   "title": "Chief Corporate Banking Officer",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Corporate Banking",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "Joined Boubyan 2012; title changed from 'Group General Manager - Corporate Banking Group' (AR 2025) to 'Chief Corporate Banking Officer' (website); date not stated.",
+   "previous_roles": "Managerial and executive positions at Kuwait Finance House; several positions at Boubyan. Board Director, Boubyan Takaful (S4).",
+   "education": "Bachelor's degree, Kuwait University; General Management Program, Harvard Business School",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/ali-al-ansari-19983281",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1). LinkedIn URL carried from original research (marked verified 2026-10-07); not re-opened in B23, no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Badria Hamad Al-Humaidhi",
+   "name_ar": null,
+   "title": "Chief Executive Officer - Boubyan Capital",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management",
+    "Brokerage"
+   ],
+   "entity": "Boubyan Capital Investment Company K.S.C. (Closed)",
+   "business_unit": "Boubyan Capital",
+   "scope": "Subsidiary",
+   "appointed": null,
+   "appointed_note": "Joined Boubyan Capital November 2013; was Executive Director - Asset Management & Brokerage Division in March 2021 (S16); date of CEO appointment not stated.",
+   "previous_roles": "Executive Director - Asset Management & Brokerage, Boubyan Capital (2021); senior positions at Global Investment House and NBK Capital (S11, S16).",
+   "education": "Bachelor's degree in Management Information Systems, University of Massachusetts; Executive MBA, London Business School; Program for Leadership Development, Harvard Business School",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/badria-al-humaidhi-9ab55310",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Boubyan Capital Executive Management page checked 2026-10-12 (S11). LinkedIn URL carried from original research (marked verified 2026-10-07); not re-opened in B23.",
+   "source_ids": [
+    "S11",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Osama Mohammed Shehab",
+   "name_ar": null,
+   "title": "Chief Digital Officer",
+   "functions": [
+    "Digital",
+    "Technology"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Digital Group",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Boubyan May 2011.",
+   "previous_roles": "14+ years in IT positions at Kuwait Finance House; 28+ years in banking IT and fintech (S4).",
+   "education": "Graduate of Ain Shams University; executive programmes at London Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Khalifa Al-Nusef",
+   "name_ar": null,
+   "title": "Chief AI & Data Officer",
+   "functions": [
+    "Technology",
+    "Digital"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Data Group",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Boubyan February 2016; AR 2025 title 'Chief Data Officer', website now 'Chief AI & Data Officer'.",
+   "previous_roles": "Head of Technical Development Department, Civil Service Commission (Kuwait) (S4).",
+   "education": "Bachelor's degree in Electrical Engineering, Kuwait University; Master's in Computer Communications, Gulf University (Bahrain)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dalal Dawood Sulaiman Al-Ghunaim",
+   "name_ar": null,
+   "title": "Chief Strategy Officer",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Strategic Planning",
+   "scope": "Group",
+   "appointed": "2025-04-22",
+   "appointed_note": "Appointed effective 22 Apr 2025 after CBK approval (S8); joined Boubyan 2019.",
+   "previous_roles": "Deputy Head of Financial Advisory Services, National Investments Company (private placements, M&A) (S4).",
+   "education": "Bachelor's degree in Industrial and Management Systems Engineering, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Boursa disclosure (S8); official Executive Management page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S8",
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Ahmed Al-Mehri",
+   "name_ar": null,
+   "title": "Chief Operating Officer",
+   "functions": [
+    "Operations"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Operations / Administration",
+   "scope": "Group",
+   "appointed": "2019-01",
+   "appointed_note": "Joined January 2019; assumed responsibilities of the Administration Group from 13 Mar 2025 after Waleed Al-Yaqout retired (S9).",
+   "previous_roles": "Head of Off-site Supervision Department, Central Bank of Kuwait; Executive Manager (Corporate Banking), First Abu Dhabi Bank Kuwait; Senior Manager, NBK. Vice-Chairman, Boubyan Capital (S1, S4).",
+   "education": "Bachelor's degree in Accounting, American University in Cairo; MBA, Maastricht School of Management (Kuwait)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); disclosure 13 Mar 2025 (S9).",
+   "source_ids": [
+    "S1",
+    "S9",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Ibrahim Ismail",
+   "name_ar": null,
+   "title": "Group Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Group Finance",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Boubyan 2005.",
+   "previous_roles": "External auditor at Deloitte & Touche and Ernst & Young; roles at Kuwait Finance House and Gulf Investment House. Board Director, Boubyan Capital (S4).",
+   "education": "MBA in Finance, Manchester Business School",
+   "qualifications": "CPA; CIA",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Fahad Al-Khuzam",
+   "name_ar": null,
+   "title": "Chief Information Officer",
+   "functions": [
+    "Technology"
+   ],
+   "entity": "Boubyan Bank K.S.C.P.",
+   "business_unit": "Information Technology",
+   "scope": "Group",
+   "appointed": "2023-03",
+   "appointed_note": "",
+   "previous_roles": "Head of IT Strategy & Planning, Central Bank of Kuwait; earlier AGM - IT Group at Boubyan; IT Director, Dasman Diabetes Institute; Zain (S4).",
+   "education": "BSc Computer Engineering, Florida Institute of Technology",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Paul Szumilewicz",
+   "name_ar": null,
+   "title": "Interim Chief Executive Officer, Bank of London and The Middle East (BLME)",
+   "functions": [
+    "Subsidiary CEO",
+    "Digital"
+   ],
+   "entity": "Bank of London and The Middle East plc",
+   "business_unit": "BLME (incl. Nomo)",
+   "scope": "Subsidiary (UK)",
+   "appointed": null,
+   "appointed_note": "Interim appointment; date not stated.",
+   "previous_roles": "23 years in financial services incl. periods in UAE and Lebanon; focus on strategic change and digital platforms (S21).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BLME 'Our People' page checked 2026-10-12 (S21); no news coverage found by search.",
+   "source_ids": [
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Oliver Green",
+   "name_ar": null,
+   "title": "Head of Nomo Investments",
+   "functions": [
+    "Investments / asset management",
+    "Digital"
+   ],
+   "entity": "Bank of London and The Middle East plc (Nomo)",
+   "business_unit": "Nomo Investments",
+   "scope": "Subsidiary (UK digital bank)",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted with this title in the Nomo-Allfunds press release (S19; Hubbis coverage dated 24 Sep 2026, S20). Not on BLME leadership page.",
+   "source_ids": [
+    "S19",
+    "S20"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Yasser Al Muhtadi",
+   "name_ar": null,
+   "title": "CEO, BLME Capital Company",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management"
+   ],
+   "entity": "BLME Capital Company (Riyadh)",
+   "business_unit": "BLME Capital",
+   "scope": "Subsidiary (KSA)",
+   "appointed": null,
+   "appointed_note": "Joined BLME February 2022; BLME Capital launched May 2023.",
+   "previous_roles": "Wealth management roles before BLME (detail truncated on page) (S23).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BLME Capital Company page checked 2026-10-12 (S23).",
+   "source_ids": [
+    "S23"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Boubyan is a fully Shariah-compliant group whose stated wealth strategy is to 'maximize wealth management growth ... through Boubyan Capital, BLME, and NOMO Bank' and to create 'distinctive Islamic wealth management opportunities' (6M 2026 presentation). In Kuwait, wealth is led by CEO Consumer, Private & Digital Banking Abdullah Al-Tuwaijri (also Chairman of Boubyan Capital) with an invitation-only Private Banking proposition; Boubyan Capital (100%, CMA-regulated, est. 2007) runs three in-house funds, discretionary/non-discretionary portfolios, custody, alternatives (international real estate, private debt, co-investments) and a Shariah-compliant brokerage platform covering 19 markets (Chinese market added 2025). Boubyan Capital launched the Boubyan Invest robo-advisory platform in March 2021 (min USD 5,000); its current status is unclear. Internationally, 72.4%-owned BLME offers UK property-led private banking and, through its digital bank Nomo, Nomo Investments: three discretionary Shariah portfolios (Cautious/Balanced/Adventurous) from USD 1,000, 1.00% annual fee, delivered with Allfunds' Nextportfolio (partnership publicised Sep 2026), with growing demand from Kuwait and UAE customers. BLME Capital (Riyadh, launched May 2023) serves KSA HNW clients. No group AUM figure is disclosed; fiduciary assets were KD 1.15bn at 31 Dec 2025.",
+  "segments": [
+   {
+    "name": "Boubyan Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "Invitation-only; no published threshold. Private cards: Visa Infinite Privilege, Visa Infinite, Mastercard World Elite.",
+    "source_ids": [
+     "S25"
+    ]
+   },
+   {
+    "name": "Affluent and youth focus (strategy)",
+    "tier": "Affluent / youth",
+    "eligibility": "Strategy targets 'affluent and youth customers through improved digital initiatives'; no named affluent tier or threshold found.",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "name": "BLME Private Banking (UK)",
+    "tier": "HNW non-residents",
+    "eligibility": "HNW non-resident, non-domiciled individuals outside the EEA acquiring/refinancing UK residential property; dedicated RM; no threshold published.",
+    "source_ids": [
+     "S22"
+    ]
+   },
+   {
+    "name": "Nomo Investments",
+    "tier": "Mass affluent (international, GCC residents)",
+    "eligibility": "Minimum USD 1,000, then from USD 100 per month.",
+    "source_ids": [
+     "S18"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Invitation-only Boubyan Private Banking in Kuwait (Deputy CEO Private & Consumer Banking: Abdullah Al-Mejhem; Euromoney 'Best Client Service and Digital Solutions for Private Banking in Kuwait' cited in Q2 2026 call). BLME (UK) private banking: Shariah-compliant UK property finance for HNW non-residents, Wakala deposits across UK, KSA and UAE, end-to-end property service via intermediary partners.",
+   "source_ids": [
+    "S25",
+    "S1",
+    "S6",
+    "S22"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Boubyan Capital Investment Company (100%; CMA-regulated): Boubyan KD Money Market Fund II, Boubyan USD Liquidity Fund, Local and GCC Equity Fund; discretionary and non-discretionary portfolio management and custody; distributes third-party Ijara/structured leasing closed-ended funds. BLME Capital Company (KSA, launched May 2023; 'strong AUM growth' in 2025). AUM amounts not disclosed.",
+   "source_ids": [
+    "S14",
+    "S12",
+    "S23",
+    "S4"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Boubyan Capital Shariah-compliant brokerage: one account for 19 markets (Kuwait, GCC, KSA, Egypt, USA incl. OTC, Europe/LSE via CHIX, China, Hong Kong, Japan, South Korea), sukuk trading, mobile app, desktop app and 'Brokerage Pro'; Chinese market added and trading platform upgraded in 2025.",
+   "source_ids": [
+    "S13",
+    "S4"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Boubyan Capital brokerage app; Boubyan Invest digital investment platform (launched 17 Mar 2021, goal/risk-based portfolios, min USD 5,000; current status unclear); Nomo app (UK) with Nomo Investments portfolios. The Boubyan (Kuwait) app's investments page lists deposits, three Boubyan Capital funds and brokerage only.",
+   "source_ids": [
+    "S13",
+    "S16",
+    "S17",
+    "S18",
+    "S24"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Boubyan Capital provides advisory and portfolio services; Boubyan Invest includes a 'digital investment advisor' with human advisors on request.",
+   "source_ids": [
+    "S12",
+    "S16"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "Boubyan Capital discretionary portfolio management; Nomo Investments are discretionary managed portfolios (FSCS-covered UK entity).",
+   "source_ids": [
+    "S14",
+    "S18"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Yes",
+   "detail": "Nomo Cautious (25% equities/75% cash and sukuk), Balanced (50/50) and Adventurous (75/25) portfolios selected via in-app investor personality questionnaire; Boubyan Invest robo-advisory (2021).",
+   "source_ids": [
+    "S18",
+    "S19",
+    "S16"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Nomo Investments built with Allfunds' Nextportfolio digital investment solution (Allfunds also offers fund distribution and model portfolios). Boubyan Capital occasionally distributes funds managed by other investment companies (e.g. US equipment-leasing Ijara funds).",
+   "source_ids": [
+    "S19",
+    "S14"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "No structured notes/products found; Boubyan Capital's 'structured leasing' items are closed-ended Ijara funds, not structured products.",
+   "source_ids": [
+    "S14"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "Boubyan Capital Alternative Investments (international real estate, private debt, co-investments); in 2025 completed subscriptions for four closed-ended funds (asset/equipment leasing, UK student accommodation, private ownership) and three deals. BLME real estate investments.",
+   "source_ids": [
+    "S15",
+    "S4"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Entire group is Shariah-compliant: Shariah-screened brokerage lists by market, sukuk trading, Shariah funds, Nomo Shariah portfolios (equities + sukuk).",
+   "source_ids": [
+    "S13",
+    "S14",
+    "S18"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "US/international equities",
+   "Mutual funds",
+   "Sukuk",
+   "Private markets / alternatives",
+   "Real estate funds"
+  ],
+  "partners": [
+   {
+    "partner": "Allfunds",
+    "kind": "Digital investment platform / fund distribution",
+    "what": "Nomo Investments uses Allfunds' Nextportfolio for the end-to-end digital investment journey",
+    "date": "2026-09",
+    "status": "Live",
+    "source_ids": [
+     "S19",
+     "S20"
+    ]
+   },
+   {
+    "partner": "Global Trading Network (login domain)",
+    "kind": "Brokerage trading platform (inferred)",
+    "what": "Boubyan Capital brokerage login is hosted at boubyanbrokerage.globaltradingnetwork.com; provider relationship inferred from URL only",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S17"
+    ]
+   },
+   {
+    "partner": "Deema, Spare, Holistic",
+    "kind": "Fintech partnerships / investments",
+    "what": "Partnerships in flexible payments (BNPL), micro-savings and financial well-being via Boubyan Capital and the bank's innovation ecosystem",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S4"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2021",
+    "what": "Nomo launched as a UK-based Islamic digital bank (trading name of BLME) for international/GCC customers.",
+    "source_ids": [
+     "S30",
+     "S4"
+    ]
+   },
+   {
+    "date": "2025-01-14",
+    "what": "Boubyan and Gulf Bank agreed to call off the previously disclosed merger feasibility project.",
+    "source_ids": [
+     "S10"
+    ]
+   },
+   {
+    "date": "2025-04-22",
+    "what": "Appointed Dalal Al-Ghunaim as Chief Strategy Officer.",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Boubyan Capital completed four closed-ended fund subscriptions, upgraded its app and trading platform and added the Chinese market; BLME Capital (KSA) reported strong AUM growth; Nomo enhanced its UK Islamic property finance.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Upgraded Msa3ed, the AI assistant in the Boubyan app (voice-to-voice in Kuwaiti dialect); AI predictions across 25 transactional services.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2026-07-22",
+    "what": "6M 2026 strategy: 'Maximize wealth management growth ... through Boubyan Capital, BLME, and NOMO Bank' and 'Creating distinctive Islamic wealth management opportunities'.",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2026-09-24",
+    "what": "Nomo-Allfunds partnership on fully digital Shariah-compliant investments publicised (Hubbis date); Nomo reports growing demand from Kuwait and UAE customers.",
+    "source_ids": [
+     "S20",
+     "S19"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Stated strategy to 'maximize wealth management growth' and create 'distinctive Islamic wealth management opportunities' (S5 p.6).",
+    "Domestic Boubyan investments page offers only Wakala deposits, three in-house Boubyan Capital funds and brokerage (S24); model portfolios are offered only through UK-based Nomo (S18).",
+    "Boubyan Invest robo platform (2021) status is unclear (S16, S17), suggesting a possible gap in a Kuwait-onshore digital managed-portfolio offer."
+   ],
+   "barriers": [
+    "Islamic-only group: needs Shariah-screened portfolios, sukuk and Shariah-compliant alternatives.",
+    "Nomo already uses Allfunds Nextportfolio for its digital portfolios (S19).",
+    "60.4% owned by NBK, whose NBK Invest offers Shariah guided plans; group-level vendor choices may involve NBK (S28)."
+   ],
+   "incumbent_vendors": [
+    "Allfunds (Nextportfolio) - Nomo Investments (S19)",
+    "Global Trading Network - inferred from Boubyan Capital brokerage login URL (S17); not confirmed"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Executive Management",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/en/who-we-are/executive-management",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/en/who-we-are/board-of-directors",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "Boubyan Bank K.S.C.P. and Subsidiaries - Interim Condensed Consolidated Financial Information 30 June 2026 (unaudited, reviewed)",
+   "publisher": "Boubyan Bank K.S.C.P.",
+   "url": "https://www.bankboubyan.com/media/filer_public/69/17/69171b63-cb61-4c5a-af65-55ef323a1bc0/109__fs_30_06_2026_-_en.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-07-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "Boubyan Bank Annual Report 2025 (incl. governance report, MD&A and audited consolidated financial statements)",
+   "publisher": "Boubyan Bank K.S.C.P.",
+   "url": "https://www.bankboubyan.com/media/filer_public/67/e2/67e2e79a-c6a0-40e1-aeeb-6c6fc73df37a/view_report.pdf",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Boubyan Bank Investor Presentation 6M 2026 Results (Analyst conference call, 22 Jul 2026)",
+   "publisher": "Boubyan Bank via Boursa Kuwait",
+   "url": "https://ifsahdocs.boursakuwait.com.kw/DiscAssets/2026_17507/109%20%20PowerPoint%20ANALYST%20CC%2022%2007%202026.pdf",
+   "doc_type": "Exchange disclosure - investor presentation",
+   "tier": 1,
+   "published": "2026-07-22",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Minutes of the Analysts' Conference Call for Q2 2026",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/media/filer_public/93/68/93682d8d-f8f1-401b-940c-54500e3d0cf0/109_q2_2026_full_transcript_-_eng.pdf",
+   "doc_type": "Earnings call transcript",
+   "tier": 2,
+   "published": "2026-07-23",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Investor Relations (disclosures, financial statements, presentations)",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/en/investor-relations",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Material Information Disclosure - Appointment of Chief Strategy Officer (22-04-2025)",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/media/filer_public/03/d4/03d42552-e1a4-4874-81d8-6b54d07b0ee4/material_information_disclosure_appointment_of_chief_strategy_officer_-_22-april-2025.pdf",
+   "doc_type": "Exchange disclosure form (scanned; read visually)",
+   "tier": 1,
+   "published": "2025-04-22",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "Disclosure of Material Information - Group General Manager, Administration Group (13-03-2025)",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/media/filer_public/77/0f/770fed73-7599-4790-b249-2db86292c333/material_information_disclosure_regarding_the_group_general_manager_-_administration_group_-_13-march-2025.pdf",
+   "doc_type": "Exchange disclosure form (scanned; read visually)",
+   "tier": 1,
+   "published": "2025-03-13",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Supplementary Disclosure - Agreement of Boubyan Bank and Gulf Bank to call off the merger project (14-01-2025)",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/media/filer_public/95/ce/95cebab6-a98a-42c9-8ec4-d27b93031399/supplementary_disclosure_regarding_a_feasibility_study_for_the_merger_between_boubyan_bank_and_gulf_bank_to_establish_a_single_sharia-compld05a56531da84f77",
+   "doc_type": "Exchange disclosure form (scanned; read visually)",
+   "tier": 1,
+   "published": "2025-01-14",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "Boubyan Capital - Executive Management",
+   "publisher": "Boubyan Capital Investment Company",
+   "url": "https://boubyancapital.com/who-we-are/executive-management/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Boubyan Capital - About us",
+   "publisher": "Boubyan Capital Investment Company",
+   "url": "https://boubyancapital.com/who-we-are/about-us/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Boubyan Capital - Brokerage",
+   "publisher": "Boubyan Capital Investment Company",
+   "url": "https://boubyancapital.com/brokerage/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Boubyan Capital - Asset Management",
+   "publisher": "Boubyan Capital Investment Company",
+   "url": "https://boubyancapital.com/asset-management/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "Boubyan Capital - Alternative Investments",
+   "publisher": "Boubyan Capital Investment Company",
+   "url": "https://boubyancapital.com/alternative-investments/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "The First Fully Sharia-Compliant Digital Investment Platform (Boubyan Invest launch)",
+   "publisher": "Boubyan Capital Investment Company",
+   "url": "https://boubyancapital.com/who-we-are/news/robo-advisory-pr/",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2021-03-17",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Boubyan Capital homepage (logins, notices)",
+   "publisher": "Boubyan Capital Investment Company",
+   "url": "https://boubyancapital.com/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "Nomo - Investments: Sharia-compliant portfolios",
+   "publisher": "Nomo (trading name of Bank of London and The Middle East plc)",
+   "url": "https://www.nomobank.com/investments",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "Nomo partners with Allfunds on a fully digital, Sharia-compliant investments proposition",
+   "publisher": "Zawya (press release)",
+   "url": "https://www.zawya.com/en/press-release/companies-news/nomo-partners-with-allfunds-on-a-fully-digital-sharia-compliant-investments-proposition-1062498",
+   "doc_type": "Press release (publication date not shown on page)",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "Nomo Partners With Allfunds on Digital Sharia-Compliant Investment Proposition",
+   "publisher": "Hubbis",
+   "url": "https://www.hubbis.com/news/nomo-partners-with-allfunds-on-digital-sharia-compliant-investment-proposition",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-09-24",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S21",
+   "title": "BLME - Our People",
+   "publisher": "Bank of London and The Middle East plc",
+   "url": "https://www.blme.com/about-us/our-people/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S22",
+   "title": "BLME - Private Banking (Wealth Management)",
+   "publisher": "Bank of London and The Middle East plc",
+   "url": "https://www.blme.com/products-and-services/wealth-management/private-banking/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S23",
+   "title": "BLME Capital Company",
+   "publisher": "Bank of London and The Middle East plc",
+   "url": "https://www.blme.com/blme-capital-company/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S24",
+   "title": "Personal - Investments",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/en/personal/investments",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S25",
+   "title": "Boubyan Private Banking",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/en/private",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S26",
+   "title": "Boubyan Bank homepage (links to Boubyan Capital, Nomo, LinkedIn)",
+   "publisher": "Boubyan Bank",
+   "url": "https://www.bankboubyan.com/en/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S27",
+   "title": "NBK Annual Report 2025 (note 24 Subsidiaries)",
+   "publisher": "National Bank of Kuwait S.A.K.P.",
+   "url": "https://www.nbk.com/dam/jcr:73b1509e-5280-4ef3-a29a-392c1b565299/nbk-annual-report-2025-e.pdf",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S28",
+   "title": "NBK Investor Presentation 2Q 2026",
+   "publisher": "National Bank of Kuwait",
+   "url": "https://www.nbk.com/dam/jcr:4f54b9f6-9062-4525-8bc4-76db32bf9911/nbk-investor-presentation-2q-2026.pdf",
+   "doc_type": "Investor presentation",
+   "tier": 2,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S29",
+   "title": "National Bank of Kuwait Group - Interim Condensed Consolidated Financial Information 30 June 2026",
+   "publisher": "National Bank of Kuwait S.A.K.P.",
+   "url": "https://www.nbk.com/dam/jcr:a9b5fda4-e785-4705-8938-9a2364b06360/nbk-fs-2q-2026-e.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-07-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S30",
+   "title": "Nomo launches as UK's newest Islamic digital bank",
+   "publisher": "FinTech Futures",
+   "url": "https://www.fintechfutures.com/digital-banking/nomo-launches-as-uk-s-newest-islamic-digital-bank",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened)"
+  }
+ ],
+ "original_reconciliation": [
+  {
+   "field": "Institution",
+   "original_value": "Boubyan Bank",
+   "finding": "Confirmed",
+   "new_value": "Boubyan Bank (legal name Boubyan Bank K.S.C.P.)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Country",
+   "original_value": "Kuwait",
+   "finding": "Confirmed",
+   "new_value": "KW",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Institution type",
+   "original_value": "Islamic commercial bank; NBK group subsidiary",
+   "finding": "Confirmed",
+   "new_value": "Islamic commercial bank; subsidiary of National Bank of Kuwait S.A.K.P. ('the Parent Company')",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (bn) [formula -> Size metrics 'BOUBYAN::Total assets']",
+   "original_value": "10,593 KWD million (rounded, 22 Jul 2026 presentation)",
+   "finding": "Updated",
+   "new_value": "KWD 10,592,712 thousand at 30 Jun 2026 from reviewed interim statements (same figure, exact)",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Currency",
+   "original_value": "KWD",
+   "finding": "Confirmed",
+   "new_value": "KWD (KD'000s)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets as of",
+   "original_value": "2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "2026-06-30 (Q3 2026 not yet on IR page at 12 Oct 2026)",
+   "source_ids": [
+    "S3",
+    "S7"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Deposits (bn) [formula -> Size metrics 'BOUBYAN::Customer deposits']",
+   "original_value": "8,426 KWD million (rounded)",
+   "finding": "Updated",
+   "new_value": "KWD 8,425,767 thousand 'Depositors' accounts' at 30 Jun 2026 (exact)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Deposits as of",
+   "original_value": "2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "2026-06-30",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Deposit measure",
+   "original_value": "Depositors' accounts / customer deposits",
+   "finding": "Confirmed",
+   "new_value": "'Depositors' accounts'; excludes due to banks and certificates of deposit issued",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Chief executive",
+   "original_value": "Adel Abdul Wahab Al-Majed",
+   "finding": "Confirmed",
+   "new_value": "Adel Abdul Wahab Al-Majed, Vice Chairman and Group CEO",
+   "source_ids": [
+    "S1"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Wealth / investment arm",
+   "original_value": "Boubyan Capital; BLME/Nomo support international wealth offering",
+   "finding": "Updated",
+   "new_value": "Boubyan Capital (100%); BLME (72.37%) incl. Nomo Investments (Allfunds Nextportfolio, publicised Sep 2026) and BLME Capital (KSA, May 2023)",
+   "source_ids": [
+    "S4",
+    "S18",
+    "S19",
+    "S23"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Business focus",
+   "original_value": "Islamic consumer/corporate banking, digital banking and wealth; investment services via Boubyan Capital, BLME and Nomo.",
+   "finding": "Confirmed",
+   "new_value": "Segments: Consumer banking, Corporate banking, Investment banking & International operations, Treasury, Group centre",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Ownership",
+   "original_value": "Publicly listed; National Bank of Kuwait owns 60.4% (Q2 2026 NBK investor presentation).",
+   "finding": "Confirmed",
+   "new_value": "NBK 60.368% at 31 Dec 2025 (only >5% holder per Boubyan AR 2025); 60.4% per NBK AR 2025 and 2Q 2026 presentation",
+   "source_ids": [
+    "S4",
+    "S27",
+    "S28"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Research coverage / Last prior research / Relationship / opportunity",
+   "original_value": "Completed profile research; 2026-09-30; Profile delivered to Hani / Wissam",
+   "finding": "Could not verify",
+   "new_value": "Internal workflow fields - not public facts; not assessed",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Website",
+   "original_value": "https://www.bankboubyan.com/",
+   "finding": "Confirmed",
+   "new_value": "https://www.bankboubyan.com",
+   "source_ids": [
+    "S26"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Company LinkedIn",
+   "original_value": "https://www.linkedin.com/company/boubyan-bank",
+   "finding": "Confirmed",
+   "new_value": "https://www.linkedin.com/company/boubyan-bank (linked from official homepage)",
+   "source_ids": [
+    "S26"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Gaps / important distinctions",
+   "original_value": "Presentation figures rounded to million. No separately designated Kuwait CEO verified... NBK owns 60.4%, creating overlap in consolidated bank-size figures.",
+   "finding": "Updated",
+   "new_value": "Rounding resolved with exact KD'000 figures from reviewed statements; no Kuwait CEO title exists (divisional CEOs only); overlap confirmed - NBK's Islamic Banking segment equals Boubyan's total assets",
+   "source_ids": [
+    "S3",
+    "S1",
+    "S29"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Source references / Prior research source",
+   "original_value": "S013-S017, S004; Gmail link",
+   "finding": "Removed",
+   "new_value": "Internal email link is not a public source; replaced by S1-S30",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (USD bn) / Deposits (USD bn)",
+   "original_value": "Formula conversions",
+   "finding": "Removed",
+   "new_value": "Not recorded - USD conversion is done centrally",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "AUM / AUA (USD bn)",
+   "original_value": "Not found",
+   "finding": "Confirmed",
+   "new_value": "AUM not disclosed (growth stated only). Fiduciary assets KD 1,149,272k at 31 Dec 2025 recorded separately - not AUM",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Size metric 'BOUBYAN::Deposits in original USD estimate'",
+   "original_value": "USD 27bn (original estimate)",
+   "finding": "Removed",
+   "new_value": "Superseded by KWD figure; conversion central",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Abdul-Salam Mohammed Al-Saleh - CEO Corporate Banking, Financial Control, Treasury, and Legal Affairs",
+   "original_value": "Verified current",
+   "finding": "Confirmed",
+   "new_value": "Confirmed on website (S1)",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Abdullah Abdulkareem Al-Tuwaijri - CEO Consumer, Private, and Digital Banking",
+   "original_value": "Verified current",
+   "finding": "Confirmed",
+   "new_value": "Confirmed; also Chairman of Boubyan Capital and BLME director",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Abdullah Abdulmohsen Al-Mejhem - Deputy CEO Private and Consumer Banking",
+   "original_value": "Verified current",
+   "finding": "Confirmed",
+   "new_value": "Confirmed",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Adel Abdul Wahab Al-Majed - Vice Chairman and Group CEO",
+   "original_value": "Verified current",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (joined Aug 2009)",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Ali Yousef Al-Ansari - Group General Manager, Corporate Banking Group",
+   "original_value": "Verified current; LinkedIn verified",
+   "finding": "Updated",
+   "new_value": "Website title now 'Chief Corporate Banking Officer' (AR 2025 still shows Group General Manager); LinkedIn URL carried over",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Badria Hamad Al-Humaidhi - CEO Boubyan Capital",
+   "original_value": "Verified current; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Confirmed on Boubyan Capital Executive Management page; LinkedIn URL carried over",
+   "source_ids": [
+    "S11"
+   ],
+   "materiality": "Minor"
+  }
+ ],
+ "discrepancies": [
+  {
+   "field": "Double counting with NBK",
+   "detail": "NBK owns 60.368% (S4) / 60.4% (S27, S28) and fully consolidates Boubyan: NBK's Islamic Banking segment assets at 30 Jun 2026 (KD 10,592,712k, S29) equal Boubyan's total assets (S3).",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S27",
+    "S29"
+   ],
+   "resolution": "Do not add Boubyan figures to kw-nbk group totals; treat as part of NBK for group exposure."
+  },
+  {
+   "field": "Ali Al-Ansari title",
+   "detail": "AR 2025: 'Group General Manager - Corporate Banking Group'; website (checked 2026-10-12): 'Chief Corporate Banking Officer'.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "resolution": "Website used as more recent."
+  },
+  {
+   "field": "Abdullah Al-Nusef title",
+   "detail": "AR 2025: 'Chief Data Officer'; website: 'Chief AI & Data Officer'.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "resolution": "Website used as more recent."
+  },
+  {
+   "field": "Divisional CEO titles",
+   "detail": "AR 2025 lists Al-Tuwaijri and Al-Saleh only as 'Chief Executive Officer'; website gives full divisional scopes.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "resolution": "Website titles used; neither is a Kuwait/bank-wide CEO."
+  },
+  {
+   "field": "Nomo-Allfunds date",
+   "detail": "Lead said around 22 Sep 2026; Zawya release shows no date; Hubbis article dated 24 Sep 2026. Release says Nomo had already seen demand 'since launching the proposition', so the portfolios predate the announcement.",
+   "source_ids": [
+    "S19",
+    "S20"
+   ],
+   "resolution": "Recorded as partnership publicised Sep 2026 (Hubbis 24 Sep 2026); Nomo Investments launch date unknown."
+  }
+ ],
+ "open_items": [
+  "Q3 2026 results not yet on Boubyan IR page at 12 Oct 2026 (latest item: treasury share disclosure 11 Oct 2026) (S7); add when published.",
+  "AUM of Boubyan Capital, BLME and BLME Capital not disclosed; only growth statements and fiduciary assets (KD 1.15bn).",
+  "Lead check: Nomo-Allfunds is a partnership in which Nomo's own discretionary portfolios use Allfunds Nextportfolio; it was publicised in Sep 2026 (Hubbis 24 Sep 2026), but the exact '22 Sep' date and the Nomo Investments launch date were not confirmed.",
+  "Boubyan Invest robo-advisory (launched Mar 2021) - current availability not confirmed; Boubyan Capital homepage still shows a 2022 client-agreement amendment notice.",
+  "Nomo launch year (2021) rests on a search result (S30); Boubyan's own Nomo launch press page returned 404.",
+  "BLME CEO is shown as 'Interim'; appointment date and permanent CEO search not found.",
+  "Global Trading Network relationship inferred only from the brokerage login domain - confirm with Boubyan Capital.",
+  "LinkedIn not verified for most executives; two URLs (Al-Ansari, Al-Humaidhi) carried from original research without re-opening.",
+  "Date Abdulaziz Al-Shaya became Chairman not confirmed from an opened source.",
+  "Three Boursa disclosure forms (S8, S9, S10) are scanned images and were read visually.",
+  "Ticker symbol 'BOUBYAN' / code 109 taken from Boursa disclosure file naming and Kamco listing seen in search results."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B23",
+ "checked": "2026-10-12"
+}

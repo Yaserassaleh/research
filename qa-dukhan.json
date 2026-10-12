@@ -1,0 +1,1366 @@
+{
+ "id": "qa-dukhan",
+ "name": "Dukhan Bank",
+ "short_name": "Dukhan Bank",
+ "legal_name": "Dukhan Bank Q.P.S.C.",
+ "name_ar": "بنك دخان",
+ "country": "QA",
+ "hq_city": "Lusail",
+ "website": "https://www.dukhanbank.com",
+ "linkedin_company": "https://www.linkedin.com/company/dukhan-bank",
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "2008 (incorporated as Barwa Bank on 28 Jan 2008; operations began 1 Feb 2009; merged with International Bank of Qatar effective 21 Apr 2019; renamed Dukhan Bank Oct 2020; converted to Q.P.S.C. and listed on QSE 21 Feb 2023)",
+ "regulators": [
+  "QCB",
+  "QFMA (QSE-listed issuer)"
+ ],
+ "listed": true,
+ "exchange": "QSE",
+ "ticker": "DUBK",
+ "parent_id": null,
+ "ownership_summary": "QSE-listed since 21 Feb 2023. At 30 Sep 2026 the General Retirement and Social Insurance Authority held 24.48%, the Military Pension Fund (Qatar) 11.67% and Qatar Holding (QIA) 6.77% (interim statements note 1). The Sep 2026 investor presentation shows founders 66.5% (including Government 43.0%) and other shareholders 33.5%.",
+ "shareholders": [
+  {
+   "holder": "General Retirement and Social Insurance Authority",
+   "pct": 24.48,
+   "as_of": "2026-09-30",
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "holder": "Military Pension Fund (Qatar)",
+   "pct": 11.67,
+   "as_of": "2026-09-30",
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "holder": "Qatar Holding (Qatar Investment Authority)",
+   "pct": 6.77,
+   "as_of": "2026-09-30",
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "holder": "Qatar Holding (Qatar Investment Authority)",
+   "pct": 6.84,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "holder": "General Retirement and Social Insurance Authority",
+   "pct": 24.52,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "holder": "Military Pension Fund (Qatar)",
+   "pct": 11.71,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S5"
+   ]
+  }
+ ],
+ "government_link": "Yes - state pension funds (GRSIA 24.48%, Military Pension Fund 11.67%) and Qatar Holding (6.77%) at 30 Sep 2026 (S3); the investor presentation gives Government ownership of 43.0% and Government and GRE deposits of QAR 37.8bn (Sep 2026) (S7).",
+ "group_structure": "Dukhan Bank Q.P.S.C. is the listed parent. It has 100% subsidiaries: The First Investor P.Q.S.C. (TFI, Qatar, 1999; Shari'a-compliant investment banking and asset management), First Finance Company P.Q.S.C. (Islamic financing), First Leasing Company P.Q.S.C. (Islamic leasing) and BB Islamic Derivatives (Cayman Islands, derivatives on behalf of the bank). It also holds an associate investment (QAR 14.5m). The bank reports four segments: Wholesale Banking, Retail and Private Banking ('including certain asset management activities for private customers'), Treasury and Investments, and Group Subsidiaries. TFI is not profiled separately, so its details are recorded here with scope 'Subsidiary: The First Investor'.",
+ "subsidiaries": [
+  {
+   "name": "The First Investor P.Q.S.C. (TFI)",
+   "pct": 100,
+   "activity": "Shari'a-compliant investment banking (financial advisory, ECM/DCM, M&A) and asset management (GCC equities, sukuk, money market, real estate and private equity)",
+   "linked_id": null,
+   "source_ids": [
+    "S5",
+    "S19"
+   ]
+  },
+  {
+   "name": "First Finance Company P.Q.S.C.",
+   "pct": 100,
+   "activity": "Shari'a-compliant financing (Qatar)",
+   "linked_id": null,
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "name": "First Leasing Company P.Q.S.C.",
+   "pct": 100,
+   "activity": "Islamic leasing (Qatar)",
+   "linked_id": null,
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "name": "BB Islamic Derivatives",
+   "pct": 100,
+   "activity": "Derivative transactions on behalf of the bank (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S5"
+   ]
+  }
+ ],
+ "footprint": "Qatar only. Head office in Lusail Marina plus 8 branches (interim statements note 1, 30 Sep 2026). The investor presentation lists 9 branches including head office, 68 ATMs and 6 digital e-channels (Sep 2026).",
+ "customer_segments": "Retail (mass), Prestige Banking (affluent: QAR 500k balance), Prime Banking (premium tier: QAR 2.5m deposits, QAR 75k monthly salary or QAR 4m non-salary financing), Private Banking (HNW), wholesale (corporates, government and institutional), plus investment-banking and asset-management clients of TFI.",
+ "business_lines": "Four segments: Wholesale Banking (corporate, government and institutional financing, deposits, trade, cash management); Retail and Private Banking (financing, deposits, wealth management and advisory, cards, Thara'a prize savings account); Treasury and Investments (ALM, sukuk trading and market making, custody for sukuk investors, FX and Islamic hedging, structured investments, debt capital markets); Group Subsidiaries (TFI asset management and investment banking, First Finance, First Leasing). In 9M 2026, Retail and Private Banking produced 42% of income from financing and investing activities (QAR 4,232m in total).",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 129185103,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed by PwC; approved 8 Jul 2026)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.4 (scanned page, read visually)",
+   "note": ""
+  },
+  {
+   "metric": "total_assets",
+   "value": 126774618,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-09-30",
+   "period_label": "30 Sep 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed; approved 7 Oct 2026)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.4",
+   "note": "Q3 2026 extra record. Release: QAR 126.8bn."
+  },
+  {
+   "metric": "total_assets",
+   "value": 123781511,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, consolidated statement of financial position (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "PDF p.9",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 93957147,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customer current accounts (QAR 20,491,522k) plus participatory investment accounts, which are quasi-equity (QAR 73,465,625k). Excludes due to banks and sukuk financing. Matches the bank's own definition: 'customer deposits include equity of URIA holders & customer current accounts' (S7).",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S7"
+   ],
+   "locator": "S4 PDF p.4",
+   "note": "Computed from statement lines."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 89960667,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-09-30",
+   "period_label": "30 Sep 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customer current accounts (QAR 19,762,487k) plus participatory investment accounts (QAR 70,198,180k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.4",
+   "note": "Q3 2026 extra record. Computed; equals the release's 'Total deposits 89,961' (QAR m) (S6)."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 87792722,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customer current accounts (QAR 18,688,040k) plus participatory investment accounts (QAR 69,104,682k)",
+   "status": "Verified",
+   "source_ids": [
+    "S5",
+    "S7"
+   ],
+   "locator": "S5 PDF p.9",
+   "note": "Computed; presentation shows 87,793 (QAR m)."
+  },
+  {
+   "metric": "net_loans",
+   "value": 94707941,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Financing assets (net; Islamic financing), interim statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.4",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 94049630,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-09-30",
+   "period_label": "30 Sep 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Financing assets (net)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4",
+   "note": "Q3 2026 extra record."
+  },
+  {
+   "metric": "net_loans",
+   "value": 90012883,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Financing assets (net), audited statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "PDF p.9",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 15581451,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity including QAR 1,820,750k sukuk eligible as additional capital; excludes participatory investment accounts (quasi-equity)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.4",
+   "note": "Equity attributable to owners of the bank QAR 13,760,610k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 5420420,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total income', consolidated statement of income: net financing and investing income after finance cost, net fees (QAR 325,424k), FX, associates and other income; before deducting profit attributable to quasi-equity (QAR 2,590,413k)",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "PDF p.10",
+   "note": "Presentation 'net banking income' (after funding costs) FY2025: QAR 2,830m (S7)."
+  },
+  {
+   "metric": "operating_income",
+   "value": 2715036,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total income', interim statement of income (before the quasi-equity share)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.5",
+   "note": ""
+  },
+  {
+   "metric": "net_profit",
+   "value": 1258068,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit for the year attributable to equity holders of the Bank (after income tax of QAR 154,337k, mainly the Pillar 2 tax)",
+   "status": "Verified",
+   "source_ids": [
+    "S5",
+    "S7"
+   ],
+   "locator": "S5 PDF p.10",
+   "note": "The FY2025 release headline 'record annual profit of QAR 1.41 billion' (S8) is profit before the Pillar 2 tax (QAR 1,412,405k before tax). See discrepancies."
+  },
+  {
+   "metric": "net_profit",
+   "value": 812758,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit for the period attributable to equity holders of the Bank",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.5",
+   "note": "H1 2025: QAR 811,291k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 1192424,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-09-30",
+   "period_label": "9M 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit for the period attributable to equity holders of the Bank",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "S3 PDF p.5",
+   "note": "Q3 2026 extra record; +0.1% vs 9M 2025."
+  },
+  {
+   "metric": "off_balance_sheet_aum",
+   "value": 5592132,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group: off-balance-sheet assets under management",
+   "definition": "'Off-balance sheet assets under management' (statement of financial position). It comprises Discretionary Portfolio Management QAR 1,204,631k and Other Restricted Wakalas QAR 4,387,501k (statement of changes in off-balance sheet AUM).",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.4 and p.11",
+   "note": "Recorded under its own key, because restricted wakalas are agency placements rather than a wealth AUM measure. The discretionary portfolio component is the wealth-relevant part."
+  },
+  {
+   "metric": "off_balance_sheet_aum",
+   "value": 6055778,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-09-30",
+   "period_label": "30 Sep 2026",
+   "period_type": "point_in_time",
+   "scope": "Group: off-balance-sheet assets under management",
+   "definition": "Discretionary Portfolio Management QAR 1,090,875k plus Other Restricted Wakalas QAR 4,964,903k",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4 and p.11",
+   "note": "Q3 2026 extra record. Discretionary portfolios fell from QAR 1,254,401k at 31 Dec 2025, with net withdrawals of QAR 172,780k, recorded in that statement's second column."
+  },
+  {
+   "metric": "off_balance_sheet_aum",
+   "value": 5373764,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group: off-balance-sheet assets under management",
+   "definition": "Discretionary Portfolio Management QAR 1,254,401k (up from QAR 791,722k at end-2024) plus Other Restricted Wakalas QAR 4,119,363k",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "PDF p.9 and p.16",
+   "note": ""
+  },
+  {
+   "metric": "customers",
+   "value": 150000,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-09-30",
+   "period_label": "Sep 2026",
+   "period_type": "point_in_time",
+   "scope": "Bank - all customers",
+   "definition": "'Total customers 150k+' (investor presentation, at a glance). It does not say whether these are active or registered customers.",
+   "status": "Verified",
+   "source_ids": [
+    "S7",
+    "S21"
+   ],
+   "locator": "S7 p.4",
+   "note": "Lower bound ('150k+'). The About page also says 'over 150,000 customers'."
+  },
+  {
+   "metric": "branches",
+   "value": 9,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-09-30",
+   "period_label": "Sep 2026",
+   "period_type": "point_in_time",
+   "scope": "Bank - Qatar",
+   "definition": "Branches including head office (presentation). The statements say 'head office ... and its 8 branches'.",
+   "status": "Verified",
+   "source_ids": [
+    "S7",
+    "S3"
+   ],
+   "locator": "S7 p.4; S3 note 1",
+   "note": "68 ATMs."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "No private-banking or wealth AUM. Checked: 9M and H1 2026 interim statements (S3, S4); FY2025 statements (S5); 9M 2026 and FY2025 releases (S6, S8); Sep 2026 investor presentation (S7); Private Banking pages (S9, S10). The only AUM lines are off-balance-sheet AUM (recorded as off_balance_sheet_aum; discretionary portfolios QAR 1.09bn at 30 Sep 2026) and TFI's undated website claim of 'over US$ 1 billion in assets under management' (S20)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "Private Banking, Prime and Prestige pages (S9-S12); investor presentation segment pages (S7)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "Dukhan Mobile page (S14); investor presentation (S7). No in-app investing product was found."
+  },
+  {
+   "metric": "employees",
+   "status": "Not found after research",
+   "where_checked": "Investor presentation (S7); FY2025 statements (S5). The FY2025 annual report was not located on the IR page."
+  }
+ ],
+ "people": [
+  {
+   "name": "H.E. Sheikh Abdulla Bin Fahad Bin Jassim Al-Thani",
+   "name_ar": null,
+   "title": "Chairman of the Board of Directors",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Not on the official page. In Jan 2023 the Chairman was Sheikh Mohammed Bin Hamad Bin Jassim Al-Thani (S18).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S2); signed the 30 Sep 2026 interim statements as Chairman (S3).",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "H.E. Sheikh Mohammed Bin Hamad Bin Jassim Al-Thani",
+   "name_ar": null,
+   "title": "Executive Board Member - Managing Director",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Was Chairman in Jan 2023 (S18).",
+   "previous_roles": "Chairman of Dukhan Bank (as of Jan 2023) (S18). Spoke for the bank on the Nov 2025 GIP private-markets MoU (S16).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S2); signed the 30 Sep 2026 statements (S3).",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmed I. Hashem",
+   "name_ar": null,
+   "title": "Acting Group Chief Executive Officer",
+   "functions": [
+    "Group CEO"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2023-01",
+   "appointed_note": "Named Acting CEO when Khalid Al-Subeai moved to Advisor to the Chairman. The release is undated on the page, and Qatar Tribune reported it in Jan 2023 (S18, S24). He was still 'Acting' at 7 Oct 2026 (S3).",
+   "previous_roles": "Dukhan Bank: Deputy CEO; Assistant General Manager, Wholesale Banking. Before that, Deputy Head of Corporate Banking at International Bank of Qatar, before the 2019 merger (S1, S18). Forbes Middle East (search result only) says he joined in 2003 and also sits on the boards of TFI, First Finance and First Leasing (S23).",
+   "education": "Executive Master's in Leadership, Georgetown University; Bachelor's in Business (Economics), Qatar University; Qatar Leadership Centre graduate (S1)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page checked 2026-10-12 (S1). Signed the 30 Sep 2026 statements as Acting Group CEO (S3). Named in the Forbes ME Top 100 CEOs 2026 (S6). No permanent appointment found.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S6",
+    "S18",
+    "S23",
+    "S24"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Chaouki Daher",
+   "name_ar": null,
+   "title": "General Manager - Head of Private Banking & Wealth Management",
+   "functions": [
+    "Private banking",
+    "Wealth"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Private Banking & Wealth Management",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Was GM, Head of Private Banking & Wealth Management at International Bank of Qatar before the 2019 merger (S1).",
+   "previous_roles": "International Bank of Qatar: joined 1998 as Assistant RM, Private Banking; later GM, Head of Private Banking & Wealth Management and secretary to the board. 'Best Private Banker of the Year 2016' (The Banker Middle East). Earlier held a diplomatic post at Lebanon's Ministry of Emigrants & Foreign Affairs (S1).",
+   "education": "Business Administration (Honours), University of North Carolina, US (S1)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (S1) and Sep 2026 investor presentation (S7). Quoted with this title on 23 Apr 2026 (S15).",
+   "source_ids": [
+    "S1",
+    "S7",
+    "S15"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulaziz Al-Neama",
+   "name_ar": null,
+   "title": "General Manager - Head of Retail Banking",
+   "functions": [
+    "Retail",
+    "Affluent"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Retail Banking",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined 2009; earlier Head of Branches (S1). The presentation spells the name 'Al-Naema' (S7).",
+   "previous_roles": "Dukhan Bank: business and branch operations manager, then Head of Branches. Earlier at QNB and HSBC (S1).",
+   "education": "Bachelor's degree, Qatar University (S1)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (S1) and Sep 2026 presentation (S7).",
+   "source_ids": [
+    "S1",
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Bashar Jallad",
+   "name_ar": null,
+   "title": "Treasurer & Chief Investment Officer",
+   "functions": [
+    "Treasury",
+    "Investments / asset management"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Treasury & Investments",
+   "scope": "Group",
+   "appointed": "2012-09",
+   "appointed_note": "Joined Sep 2012 as Group Treasurer and CIO (S1).",
+   "previous_roles": "Abu Dhabi Islamic Bank, Treasurer from Jan 2008; National Bank of Abu Dhabi Treasury and Financial Markets (money markets) from 1996; Arab Bank for Investment and Foreign Trade, Abu Dhabi (S1).",
+   "education": "Bachelor in Finance, Hillsdale College, Michigan (1989) (S1)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (S1) and Sep 2026 presentation (S7).",
+   "source_ids": [
+    "S1",
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmed Abdulaziz Al-Emadi",
+   "name_ar": null,
+   "title": "General Manager - Head of Wholesale Banking",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Wholesale Banking",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "The bio text calls him 'General Manager of Corporate Banking Services' (S1).",
+   "previous_roles": "Business Manager - Corporate Banking, HSBC Qatar (about four years) (S1).",
+   "education": "Bachelor's in Business Administration (management and MIS), American University of Sharjah (S1)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (S1) and Sep 2026 presentation (S7).",
+   "source_ids": [
+    "S1",
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sheikh Fahad Bin Hamad Al-Thani",
+   "name_ar": null,
+   "title": "Chief Business Development Officer",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Business Development",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "International Bank of Qatar from Nov 2006: managed government relationships and strategically important corporate customers (S1).",
+   "education": "Bachelor of Business Administration, European University, Geneva (S1)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (S1) and Sep 2026 presentation (S7).",
+   "source_ids": [
+    "S1",
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Osama Abu Baker",
+   "name_ar": null,
+   "title": "Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Finance",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Managerial roles at Qatar Real Estate Investment Company, Saipem International and Deloitte (S1).",
+   "education": "Bachelor's in Economics and Accounting (S1)",
+   "qualifications": "Certified Public Accountant (Illinois, USA) (S1)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (S1) and Sep 2026 presentation (S7).",
+   "source_ids": [
+    "S1",
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abeer Noaman Al-Emadi",
+   "name_ar": null,
+   "title": "Chief of Banking Operations",
+   "functions": [
+    "Operations"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Banking Operations",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "No separate head of technology or digital is named on the management page.",
+   "previous_roles": "International Bank of Qatar: Deputy Head of Operations and Head of Central Operations (S1).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (S1) and Sep 2026 presentation (S7).",
+   "source_ids": [
+    "S1",
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Talal Ahmed Al-Khaja",
+   "name_ar": null,
+   "title": "Chief Marketing & Communications Officer; Secretary to the Board",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Marketing & Communications",
+   "scope": "Group",
+   "appointed": "2009",
+   "appointed_note": "Joined Dukhan Bank in 2009 (S1).",
+   "previous_roles": "Helped set up the group's investor and shareholder relations department and worked on affiliate acquisitions (S1).",
+   "education": "Master in Business Management and Bachelor's, Qatar University (S1)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team and Board pages (S1, S2).",
+   "source_ids": [
+    "S1",
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Nile Rabbani Awan",
+   "name_ar": null,
+   "title": "Chief Risk Officer",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Risk",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Chief Risk Officer, Noor Islamic Bank (UAE); Deputy CRO, ABN AMRO Bank UAE; earlier roles in Pakistan and Singapore (S1).",
+   "education": "BSc Computer Science, University of Karachi; MBA, Lahore University of Management Sciences (S1)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (S1) and Sep 2026 presentation (S7).",
+   "source_ids": [
+    "S1",
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Khalid Al-Subeai",
+   "name_ar": null,
+   "title": "Advisor to the Chairman",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Dukhan Bank Q.P.S.C.",
+   "business_unit": "Office of the Chairman",
+   "scope": "Group",
+   "appointed": "2023-01",
+   "appointed_note": "Former CEO. Moved to Advisor to the Chairman when Ahmed Hashem became Acting CEO (S18).",
+   "previous_roles": "CEO of Dukhan Bank (formerly Barwa Bank) for about ten years before 2023. The presentation timeline shows him appointed Group CEO in 2013 (S7, S18).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official Board page as 'Advisor to the Chairman', checked 2026-10-12 (S2).",
+   "source_ids": [
+    "S2",
+    "S18",
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Dukhan Bank's wealth business is Private Banking & Wealth Management, run by GM Chaouki Daher, who ran the same business at International Bank of Qatar. It sits in the Retail and Private Banking segment, which the bank says includes 'certain asset management activities for private customers'. Tiers are Prestige (affluent, QAR 500k balance), Prime (QAR 2.5m deposits, QAR 75k monthly salary or QAR 4m financing; offers advisory and discretionary portfolio management and succession planning) and Private Banking. Private Banking offers discretionary portfolio management in Qatar and GCC equities and sukuk, mutual funds (Qatar, GCC, regional and global), capital-protected products and sukuk. The bank held QAR 1.09bn of discretionary portfolios off balance sheet at 30 Sep 2026. The 100% subsidiary The First Investor (TFI) adds asset management (GCC equities, a sukuk fund, money market, real estate and PE funds) and investment banking. In Nov 2025 Dukhan signed an MoU with Global Infrastructure Partners (part of BlackRock) to be the exclusive distributor of GIP's Shariah-compliant private-market products in Qatar's consumer banking market. In Q3 2026 it signed an MoU with Lesha Bank on investment solutions. Global Finance named it World's Best Islamic Private Bank for the third year running (2026). No brokerage or in-app investing was found: Dukhan Mobile only lets Private and Prestige clients track their investments.",
+  "segments": [
+   {
+    "name": "Prestige Banking",
+    "tier": "Affluent",
+    "eligibility": "Deposit and maintain a balance of QAR 500,000 or more (spouses also eligible). Dedicated RM and a Prestige Centre in each branch.",
+    "source_ids": [
+     "S12"
+    ]
+   },
+   {
+    "name": "Prime Banking",
+    "tier": "Upper affluent / HNW",
+    "eligibility": "Any one of: minimum balance QAR 2.5 million across deposits; monthly salary of QAR 75,000+; or non-salary financing of QAR 4 million+. Includes Visa Infinite, advisory and discretionary portfolio management, and wealth planning.",
+    "source_ids": [
+     "S11"
+    ]
+   },
+   {
+    "name": "Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "Not published. Clients get a Private Banker, a customised investment plan and Visa Infinite.",
+    "source_ids": [
+     "S9",
+     "S10"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Private Banking & Wealth Management, run by GM Chaouki Daher. Offers a dedicated Private Banker, customised investment plans by risk appetite, portfolio management, mutual funds, capital-protected products, sukuk, private-banker cards (Visa Infinite), treasury and FX, and online banking. Named World's Best Islamic Private Bank by Global Finance in 2024, 2025 and 2026.",
+   "source_ids": [
+    "S9",
+    "S10",
+    "S15",
+    "S1"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "The First Investor (TFI, 100% subsidiary) does asset management across GCC Shari'a-compliant public equities, a global sukuk fund and segregated sukuk mandates, money market products, and alternatives (real estate funds in Saudi Arabia, Europe and Canada, and private equity). TFI's website claims 'over US$ 1 billion in assets under management' (undated). The bank also runs Discretionary Portfolio Management: QAR 1,090,875k off balance sheet at 30 Sep 2026.",
+   "source_ids": [
+    "S19",
+    "S20",
+    "S5",
+    "S3"
+   ]
+  },
+  "brokerage": {
+   "present": "Not found after research",
+   "detail": "No equity brokerage arm or brokerage service was found on the website or in the group structure. Treasury offers sukuk trading, market making and custody for sukuk investors, and TFI offers execution-only sukuk services through international custodians.",
+   "source_ids": [
+    "S13",
+    "S19",
+    "S5"
+   ]
+  },
+  "digital_investing": {
+   "present": "Not found after research",
+   "detail": "Dukhan Mobile offers accounts, transfers (including international via Western Union), time deposits, cards and financing. Private and Prestige clients can 'track investments' but cannot buy them in the app. Euromoney named it Qatar's Best Islamic Digital Bank in 2026.",
+   "source_ids": [
+    "S14",
+    "S6"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Private Bankers build customised investment plans. The Prime tier offers 'Advisory & Discretionary Portfolio Management', local and global investment products, and retirement and succession planning with investment specialists.",
+   "source_ids": [
+    "S9",
+    "S11"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "'Portfolio Management Services - Qatar, GCC equity markets and Sukuk, managed by a team of local and regional equity specialists'. Off-balance-sheet Discretionary Portfolio Management was QAR 1,254,401k at 31 Dec 2025 and QAR 1,090,875k at 30 Sep 2026.",
+   "source_ids": [
+    "S9",
+    "S5",
+    "S3"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No model portfolios or robo-advice found on the private banking, Prime or app pages or in the investor presentation.",
+   "source_ids": [
+    "S9",
+    "S11",
+    "S14",
+    "S7"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Private Banking offers 'Mutual funds - Qatar, GCC, Regional and Global funds across different asset classes'. No platform provider is named. TFI runs its own sukuk and money market funds.",
+   "source_ids": [
+    "S9",
+    "S19"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "Capital-protected products linked to equities, commodities and other assets for Private Banking clients. Treasury also offers structured investments linked to FX and to regional and international equities, with varying capital protection.",
+   "source_ids": [
+    "S9",
+    "S13"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "Under a Nov 2025 MoU (not yet a confirmed live product), Dukhan is to be the exclusive distributor of Global Infrastructure Partners' Shariah-compliant private-market products in Qatar's consumer banking market, for HNW and corporate investors, with joint product development planned. TFI runs real estate funds and private equity.",
+   "source_ids": [
+    "S16",
+    "S19"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "All products are Shari'a-compliant: sukuk (Qatar, GCC, international), Shari'a-compliant GCC equity portfolios, funds, capital-protected products and Islamic hedging.",
+   "source_ids": [
+    "S9",
+    "S13",
+    "S5"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "Mutual funds",
+   "Sukuk",
+   "Structured products",
+   "Private markets / alternatives",
+   "Real estate funds"
+  ],
+  "partners": [
+   {
+    "partner": "Global Infrastructure Partners (GIP), part of BlackRock",
+    "kind": "Product partner (private markets)",
+    "what": "MoU making Dukhan the exclusive distributor of GIP Shariah-compliant private-market products in Qatar's consumer banking market, plus joint product innovation and investor training",
+    "date": "2025-11-09",
+    "status": "MoU / pilot",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "partner": "Lesha Bank",
+    "kind": "Product partner (investment solutions)",
+    "what": "MoU to explore working together on investment solutions, signed in Q3 2026 (reported in the 9M 2026 release of 7 Oct 2026)",
+    "date": "2026",
+    "status": "MoU / pilot",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "partner": "Dibsy",
+    "kind": "Fintech partner (open banking)",
+    "what": "Strategic partnership to develop Open Banking use cases. Dibsy is in QCB's Express Regulatory Sandbox for Open Banking.",
+    "date": "2026-02-05",
+    "status": "Announced",
+    "source_ids": [
+     "S17"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2026-10-07",
+    "what": "9M 2026 results: reported an MoU with Lesha Bank on investment solutions, joined the AFAQ GCC payments system, added Apple Pay and Samsung Wallet to Himyan, and won Euromoney Islamic Finance Awards 2026 as Qatar's Best Islamic Bank and Best Islamic Digital Bank.",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2026-04-23",
+    "what": "Named World's Best Islamic Private Bank by Global Finance for the third year running. Chaouki Daher was the spokesperson.",
+    "source_ids": [
+     "S15"
+    ]
+   },
+   {
+    "date": "2026-02-05",
+    "what": "Open-banking partnership with Dibsy announced at Web Summit Qatar 2026.",
+    "source_ids": [
+     "S17"
+    ]
+   },
+   {
+    "date": "2025-11-09",
+    "what": "Exclusive MoU with Global Infrastructure Partners (BlackRock) to distribute Shariah-compliant private-market products to HNW and corporate clients in Qatar.",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "date": null,
+    "what": "Prime Banking premium segment introduced (launch date not published). It offers advisory and discretionary portfolio management and wealth planning.",
+    "source_ids": [
+     "S11"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Dukhan has an award-winning private bank (Global Finance World's Best Islamic Private Bank 2024-2026), but Dukhan Mobile only offers investment tracking, with no in-app buying of funds, sukuk or equities (S14, S15).",
+    "It is actively adding third-party investment shelf through partnerships: the GIP/BlackRock private-markets distribution MoU (Nov 2025) and the Lesha Bank investment-solutions MoU (Q3 2026) (S16, S6).",
+    "Discretionary portfolios are small and shrinking: QAR 1.25bn at end-2025 to QAR 1.09bn at 30 Sep 2026. Discretionary management is limited to Qatar and GCC equities and sukuk (S3, S9).",
+    "The new Prime tier (QAR 2.5m) promises advisory, discretionary management and wealth planning across 'local and global investment products' (S11)."
+   ],
+   "barriers": [
+    "Fully Islamic: all products need Shari'a board approval (S5 note 1).",
+    "Has an in-house asset manager (TFI) and treasury structuring capability, which may compete with external model portfolios and structured products (S19, S13).",
+    "The CEO has been acting since Jan 2023, and no head of digital or technology is named (S1, S18).",
+    "Relatively small client base (150k+ customers) and only 9 branches (S7)."
+   ],
+   "incumbent_vendors": [
+    "Global Infrastructure Partners (BlackRock) - private-markets products under MoU (S16)",
+    "Western Union - international transfers in Dukhan Mobile (S14)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Management Team",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/about-us/management-team-2",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/about-us/board-directors",
+   "doc_type": "Official board page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "Dukhan Bank Q.P.S.C. Interim Condensed Consolidated Financial Statements 30 September 2026",
+   "publisher": "Qatar Stock Exchange (issuer filing)",
+   "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=DUBK&reportEndDate=2026-09-30&lang=1",
+   "doc_type": "Reviewed interim financial statements (PwC review report 7 Oct 2026)",
+   "tier": 1,
+   "published": "2026-10-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "Dukhan Bank Q.P.S.C. Interim Condensed Consolidated Financial Statements 30 June 2026",
+   "publisher": "Qatar Stock Exchange (issuer filing)",
+   "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=DUBK&reportEndDate=2026-06-30&lang=1",
+   "doc_type": "Reviewed interim financial statements (approved 8 Jul 2026)",
+   "tier": 1,
+   "published": "2026-07-08",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "The statement of financial position is a scanned page and was read visually."
+  },
+  {
+   "id": "S5",
+   "title": "Dukhan Bank Q.P.S.C. Consolidated Financial Statements 31 December 2025",
+   "publisher": "Qatar Stock Exchange (issuer filing)",
+   "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=DUBK&reportEndDate=2025-12-31&lang=1",
+   "doc_type": "Audited consolidated financial statements (PwC; approved 15 Mar 2026; 99 pp.)",
+   "tier": 1,
+   "published": "2026-03-15",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Dukhan Bank reports a net profit of QAR 1.19 billion for the nine-month period ended 30 September 2026",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/media-center/press-release/dukhan-bank-reports-a-net-profit-of-qar-1-19-billion-for-the-nine-month-period-ended-30-september-2026",
+   "doc_type": "Results press release",
+   "tier": 2,
+   "published": "2026-10-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Dukhan Bank Investor Presentation September 2026",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/sites/default/files/2026/pdfs/DukhanBankInvestorPresentationSep2026.pdf",
+   "doc_type": "Investor presentation (32 pp.)",
+   "tier": 2,
+   "published": "2026-10",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Dukhan Bank achieves another record annual profit of QAR 1.41 billion for the FY 2025, reflecting a 5% annual growth",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/media-center/press-release/dukhan-bank-achieves-another-record-annual-profit-of-qar-141-billion-for-the-fy-2025-reflecting-a-5-annual-growth",
+   "doc_type": "Results press release",
+   "tier": 2,
+   "published": "2026-01-13",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "Private Banking - Investment Services",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/private/investment-services",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Private Banking - Banking Services",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/private/banking-services",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "Prime Banking",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/personal/prime-banking/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Prestige Banking",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/personal/prestige-banking",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Markets & Investment Products",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/markets/markets-investment-products",
+   "doc_type": "Official product page (Treasury & Investments)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Mobile App - Dukhan Mobile",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/app",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "Dukhan Bank Named 'World's Best Islamic Private Bank' at Global Finance Awards 2026",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/media-center/press-release/dukhan-bank-named-world-s-best-islamic-private-bank-at-global-finance-awards-2026",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-04-23",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "Dukhan Bank signs an exclusive agreement with Global Infrastructure Partners (GIP), a part of BlackRock, to provide the Qatari market with Sharia-compliant strategic products and solutions",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/media-center/press-release/dukhan-bank-signs-an-exclusive-agreement-with-global-infrastructure-partners-gip-a-part-of-blackrock-to-provide-the-qatari-market-with-sharia-compliant-strategic-products-and-solutions",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2025-11-09",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Dukhan Bank and Dibsy Announce Strategic Partnership to Advance Open Banking in Qatar",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/media-center/press-release/dukhan-bank-and-dibsy-announce-strategic-partnership-to-advance-open-banking-in-qatar",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-02-05",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "Dukhan Bank appoints Khalid Al Subeai as Advisor to the Chairman and Ahmed Hashem as Acting CEO",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/media-center/press-release/dukhan-bank-appoints-khalid-al-subeai-advisor-chairman-and-ahmed-hashem",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2023-01",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "The page has no date. Qatar Tribune coverage (S24) is dated 14 Jan 2023."
+  },
+  {
+   "id": "S19",
+   "title": "Business Lines - The First Investor",
+   "publisher": "The First Investor (TFI)",
+   "url": "https://www.tfi.com.qa/business-lines",
+   "doc_type": "Official subsidiary website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "TFI home page",
+   "publisher": "The First Investor (TFI)",
+   "url": "https://www.tfi.com.qa/",
+   "doc_type": "Official subsidiary website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "The AUM claim is undated, and the latest news item on the page is from 2016."
+  },
+  {
+   "id": "S21",
+   "title": "About Us",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/about-us",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Partly out of date: quotes total assets at 30 Jun 2024."
+  },
+  {
+   "id": "S22",
+   "title": "Dukhan Bank home page (links the official LinkedIn company page)",
+   "publisher": "Dukhan Bank",
+   "url": "https://www.dukhanbank.com/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S23",
+   "title": "Ahmed I. Hashem - Top 100 CEOs 2026",
+   "publisher": "Forbes Middle East",
+   "url": "https://www.forbesmiddleeast.com/lists/top-100-ceos-2026/ahmed-i-hashem/",
+   "doc_type": "News / ranking profile",
+   "tier": 5,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  },
+  {
+   "id": "S24",
+   "title": "Dukhan Bank appoints Khalid Al Subeai as advisor to chairman and Ahmed Hashem as acting CEO",
+   "publisher": "Qatar Tribune",
+   "url": "https://qatar-tribune.com/article/44103/latest-news/dukhan-bank-appoints-khalid-al-subeai-as-advisor-to-chairman-and-ahmed-hashem-as-acting-ceo",
+   "doc_type": "News",
+   "tier": 5,
+   "published": "2023-01-14",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "FY2025 net profit",
+   "detail": "The FY2025 release headline gives a 'record annual profit of QAR 1.41 billion' (S8). The audited statements show net profit attributable to equity holders of QAR 1,258,068k after QAR 154,337k income tax; QAR 1,412,405k is profit before tax (S5). The presentation shows 'net profit before Pillar 2 tax' 1,411 and 'net profit' 1,258 (S7).",
+   "source_ids": [
+    "S8",
+    "S5",
+    "S7"
+   ],
+   "resolution": "Recorded the audited figure after tax (QAR 1,258,068k). The QAR 1.41bn is a pre-Pillar-2-tax figure."
+  },
+  {
+   "field": "Branch count",
+   "detail": "The statements say 'head office ... and its 8 branches'. The presentation says 'Branches (incl. HO) 9'.",
+   "source_ids": [
+    "S3",
+    "S7"
+   ],
+   "resolution": "Consistent: 8 branches plus head office. Recorded 9 with that definition."
+  },
+  {
+   "field": "Executive titles and spelling",
+   "detail": "Chaouki Daher is 'GM - Head of Private Banking & Wealth Management' on the website (S1) and 'General Manager, Head of Private Banking' in the presentation (S7). Abdulaziz Al-Neama is spelled 'Al-Naema' in S7. Ahmed Al-Emadi's bio calls him 'General Manager of Corporate Banking Services' while his heading reads 'GM-Head of Wholesale Banking'.",
+   "source_ids": [
+    "S1",
+    "S7"
+   ],
+   "resolution": "Used the website headings."
+  }
+ ],
+ "open_items": [
+  "LinkedIn: searches found no profile for Ahmed Hashem or Chaouki Daher (Not verified). Bashar Jallad (CIO) was not checked (search budget).",
+  "No named head of digital, technology or innovation on the management page or in the presentation. Banking operations sits under Abeer Al-Emadi.",
+  "TFI leadership, current AUM and fund list were not found: the TFI website is stale (latest news 2016) and its 'over US$ 1 billion' AUM claim is undated.",
+  "Private Banking eligibility thresholds are not published. The Prime Banking launch date was not found.",
+  "Status of the GIP MoU (Nov 2025) and the Lesha Bank MoU (Q3 2026): no live product or distribution announcement found. The date and terms of the Lesha MoU were not published beyond the 9M 2026 release.",
+  "FY2025 annual report (for customer and employee numbers and governance detail) not located on the IR pages. The 2024 annual report exists (search result).",
+  "A PayLater MoU at Web Summit Qatar 2026 was seen in search snippets only and was not verified, so it is not recorded."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B21",
+ "checked": "2026-10-12"
+}

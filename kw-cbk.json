@@ -1,0 +1,1080 @@
+{
+ "id": "kw-cbk",
+ "name": "Commercial Bank of Kuwait",
+ "short_name": "CBK (Al-Tijari)",
+ "legal_name": "Commercial Bank of Kuwait K.P.S.C.",
+ "name_ar": "البنك التجاري الكويتي",
+ "country": "KW",
+ "hq_city": "Kuwait City",
+ "website": "https://www.cbk.com",
+ "linkedin_company": "https://www.linkedin.com/company/276269",
+ "category": "Bank",
+ "type": "Universal / commercial bank",
+ "model": "Conventional",
+ "founded": "1960 (AR 2025: 65th anniversary in 2025; 'second-oldest' bank in Kuwait)",
+ "regulators": [
+  "Central Bank of Kuwait (CBK)",
+  "CMA Kuwait (brokerage subsidiary; listed issuer)"
+ ],
+ "listed": true,
+ "exchange": "Boursa Kuwait",
+ "ticker": "CBK (Boursa Kuwait code 103, from Kamco research file names seen in search results)",
+ "parent_id": null,
+ "ownership_summary": "Listed on Boursa Kuwait. AR 2025 names one shareholder above 5% at end-2025: Al Sharq Holding with 23.918%. No parent or controlling holder; the remainder is below 5% per holder.",
+ "shareholders": [
+  {
+   "holder": "Al Sharq Holding",
+   "pct": 23.918,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "government_link": "No government holding above 5% disclosed in AR 2025 (as at end-2025).",
+ "group_structure": "CBK consolidates one subsidiary, Al-Tijari Financial Brokerage Company K.S.C. (Closed) (98.16% per AR 2025; 98.155% per its website), and holds a 32.00% interest in Al Cham Islamic Bank S.A. (Syria, associate). The brokerage company is not profiled separately; its capabilities are recorded here.",
+ "subsidiaries": [
+  {
+   "name": "Al-Tijari Financial Brokerage Company K.S.C. (Closed)",
+   "pct": 98.16,
+   "activity": "Securities brokerage, Boursa Kuwait qualified broker, CMA portfolio manager licence",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S8"
+   ]
+  },
+  {
+   "name": "Al Cham Islamic Bank S.A. (associate, Syria)",
+   "pct": 32.0,
+   "activity": "Islamic banking (associate, not consolidated)",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "footprint": "Kuwait; total branch count not found (AR 2025 cites 17 Premier lounges and dedicated branch offices and a new Khaitan branch). International Banking Division serves multinational corporations, Kuwaiti clients operating abroad and overseas companies.",
+ "customer_segments": "Retail (Premier, youth 'YOU' and 'Tijari Junior'), salaried customers, corporate (CBD with six specialised business units), SME, international/multinational clients, Treasury clients.",
+ "business_lines": "Retail Banking Division (accounts, cards, loans, Premier Banking, self-service machines), Corporate Banking Division (incl. a Wealth Management Unit arranging IPO and bond financing), International Banking, Treasury & Investment (funding, FX, Treasury Sales & Investment Desk), Digital Transformation & Innovation, and the brokerage subsidiary.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 5241011,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (bank and subsidiary Al-Tijari Financial Brokerage)",
+   "definition": "'TOTAL ASSETS', interim condensed consolidated statement of financial position (unaudited)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3 (printed p.1)",
+   "note": "31 Mar 2026: KD 5,607,867k (S5)."
+  },
+  {
+   "metric": "total_assets",
+   "value": 5363106,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL ASSETS' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 PDF p.89; S3 PDF p.3 comparative",
+   "note": "AR says KD 5,363m, +14.9%."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 2563935,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits'; excludes 'Certificates of deposit' (KD 300,484k), 'Due to banks' (KD 202,384k) and 'Due to other financial institutions' (KD 64,200k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 2610884,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits' (audited); excludes certificates of deposit (KD 226,232k)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 PDF p.89",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 2969040,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances' on the statement of financial position, net of provision for impairment (KD 197,386k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3; note 6 PDF p.9",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 2973935,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances' (audited, net)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 PDF p.89",
+   "note": ""
+  },
+  {
+   "metric": "gross_loans",
+   "value": 3166426,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances' before 'Provision for impairment' (note 6)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.9",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 804803,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL EQUITY' incl. non-controlling interests (KD 367k); equity attributable to shareholders KD 804,436k (includes proposed dividend KD 23,679k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3, p.6",
+   "note": "31 Dec 2025: KD 784,504k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 188882,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'OPERATING INCOME' (net interest income KD 120,235k plus fees, FX, dividend and other operating income)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.90",
+   "note": "FY2024: KD 179,969k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 93814,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'OPERATING INCOME', six months ended 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4",
+   "note": "H1 2025: KD 91,381k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 121151,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to shareholders of the Bank (total net profit KD 121,204k)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.90",
+   "note": "FY2024: KD 157,195k, which the Chairman describes as boosted by non-recurring recoveries (S4 p.10)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 62284,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to shareholders of the Bank, six months (total KD 62,313k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "locator": "PDF p.4",
+   "note": "H1 2025: KD 60,363k."
+  },
+  {
+   "metric": "fees_and_commissions",
+   "value": 53481,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Fees and commissions' line, consolidated statement of income",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.90",
+   "note": "H1 2026: KD 26,871k (S3 PDF p.4)."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 (S4) text pages, H1 2026 statements (S3), Premier page (S7), brokerage site (S8, S9). No fund, portfolio or AUM figure found."
+  },
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "S4 (text pages; notes are image pages and could not be searched), S3."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "S4, S3, S6, S7."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S4 text pages, S6, S7 (no customer count)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "Al-Tijari Financial Brokerage site (S8, S9): no client numbers."
+  },
+  {
+   "metric": "employees",
+   "status": "Not found after research",
+   "where_checked": "AR 2025 text pages (S4): HR section describes programmes, no headcount found."
+  },
+  {
+   "metric": "branches",
+   "status": "Not found after research",
+   "where_checked": "S4 text pages mention a new Khaitan branch and 17 Premier lounges/branch offices but no total network count."
+  }
+ ],
+ "people": [
+  {
+   "name": "Sheikh Ahmad Duaij Jaber Al-Sabah",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2018-04",
+   "appointed_note": "Chairman since 1 Apr 2018 per a TradeArabia search snippet (S15, not opened).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S2); signed the 30 Jun 2026 statements (S3) and wrote the 2025 Chairman's message (S4); presented H1 2026 results (S6).",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S4",
+    "S15"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulrahman Abdullah Al-Ali",
+   "name_ar": null,
+   "title": "Vice Chairman",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S2). No biography published.",
+   "source_ids": [
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Elham Yousry Mahfouz",
+   "name_ar": null,
+   "title": "Chief Executive Officer (per official site and AR 2025; see role_evidence)",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Executive Management",
+   "scope": "Group",
+   "appointed": "2014-11-20",
+   "appointed_note": "Appointed CEO 20 Nov 2014; Deputy CEO from Apr 2012; joined CBK in 2000 (S12).",
+   "previous_roles": "Joined CBK in 2000 as Manager, International Banking; GM New York Branch; Acting GM then GM International Banking (Dec 2010); Deputy CEO (Apr 2012); CEO (Nov 2014). About 30 years at Kuwaiti financial institutions before joining CBK (S12).",
+   "education": "Bachelor with honours in Business Administration, American University in Cairo",
+   "qualifications": "Member, Legal Bankers Institute London (per S12)",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Conflicting sources",
+   "role_evidence": "CONFLICT: the official Executive page (checked 2026-10-12, S1), AR 2025 (S4), the signed Q1 2026 statements (S5) and an Entrepreneur ME 2026 profile (S14, search result) show her as CEO, but the 30 Jun 2026 statements dated 28 Jul 2026 are signed by 'Ahmad Khaled Al-Khudhur, Acting CEO' (S3) and no departure or leave announcement was found.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S5",
+    "S3",
+    "S12",
+    "S14"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmad Khaled Al-Khudhur",
+   "name_ar": null,
+   "title": "Acting Chief Executive Officer (per 30 Jun 2026 financial statements); General Manager - Operations Division (per website and AR 2025)",
+   "functions": [
+    "CEO",
+    "Operations"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Executive Management / Operations Division",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date of acting-CEO role not found (after the Q1 2026 statements, which Mahfouz signed as CEO).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Signed the interim statements for 30 Jun 2026 (dated 28 Jul 2026) as 'Acting CEO' (S3); the official page and AR 2025 list him as General Manager - Operations Division (S1, S4). No announcement of an acting-CEO appointment was found.",
+   "source_ids": [
+    "S3",
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulaziz Saleh Al-Zaabi",
+   "name_ar": null,
+   "title": "General Manager - Retail Banking Division",
+   "functions": [
+    "Retail",
+    "Affluent"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Retail Banking Division (incl. Premier Banking)",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 (S4). Title only; no biography.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hussain Ali Al-Aryan",
+   "name_ar": null,
+   "title": "General Manager - Treasury & Investment Division",
+   "functions": [
+    "Treasury",
+    "Investments / asset management"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Treasury & Investment Division",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 (S4). Title only; no biography.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Bader AlHaid",
+   "name_ar": null,
+   "title": "Chief Digital Officer - Digital Transformation & Innovation Division",
+   "functions": [
+    "Digital",
+    "Technology",
+    "Innovation / partnerships"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Digital Transformation & Innovation Division",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 (S4). Title only; LinkedIn search for the role found no matching profile.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Bader Mohammed Musleh Qamhieh",
+   "name_ar": null,
+   "title": "General Manager - Information Technology Division",
+   "functions": [
+    "Technology"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Information Technology Division",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 (S4). Title only.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Masud Ul Hassan Khalid",
+   "name_ar": null,
+   "title": "Chief Financial Officer - Financial Planning & Control Division",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Financial Planning & Control Division",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Older biography (S12) shows him as GM Financial Control, joined the bank in 1992; current CFO title date not found.",
+   "previous_roles": "Joined CBK in 1992; accountant with 22+ years in banking at the time of the older biography (S12).",
+   "education": "Bachelor of Commerce, University of Punjab (Lahore); IFRS diploma (S12, older biography)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ebtissam Baqer Al-Haddad",
+   "name_ar": null,
+   "title": "General Manager - Strategic Planning & Follow up Division",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Strategic Planning & Follow up Division",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 (S4). Title only.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Kunal Singh",
+   "name_ar": null,
+   "title": "General Manager - International Banking Division and Acting General Manager - Corporate Banking Division (per website)",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "International Banking / Corporate Banking",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Acting corporate role date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 lists him as acting head of Corporate Banking (S1); AR 2025 lists Ahmad Hamed BoAbbas as Acting GM Corporate Banking and Kunal Singh as GM International Banking only (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Tan Tat Thong",
+   "name_ar": null,
+   "title": "Chief Risk Officer - Risk Management Division",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Risk Management Division",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Older biography (S12) says he joined CBK as Advisor to the Chairman in Dec 2012; current CRO title date not found.",
+   "previous_roles": "Advisor to the Chairman from Dec 2012; GM Strategy & Planning and International Banking & Syndication at the time of the older biography (S12).",
+   "education": "Bachelor's in Mathematics & Economics with honours (S12, older biography)",
+   "qualifications": "FRM (GARP); Certified Financial Planner licence (S12, older biography)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 (S4).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Tamim Khaled Al Meaan",
+   "name_ar": null,
+   "title": "General Manager - Compliance & Corporate Governance Division",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Commercial Bank of Kuwait K.P.S.C.",
+   "business_unit": "Compliance & Corporate Governance",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 (S4). Title only.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Commercial Bank of Kuwait (Al-Tijari) is a conventional universal bank whose wealth offer is thin on the evidence found. Its affluent tier is Premier Banking (salary transfer of KD 1,700+ or a term deposit of KD 50,000+) with dedicated officers, lounges, a free World Elite Mastercard and, since 2025, a Premier Family Banking Package. No private banking proposition, funds, managed portfolios, structured products or private-markets offer was found. Investing is delivered through a separate subsidiary, Al-Tijari Financial Brokerage Company (98.16% owned, established 1984), a Boursa Kuwait broker with its own trading app and a CMA portfolio-manager licence for single-client portfolios. A 'Wealth Management Unit' inside Corporate Banking arranges IPO and bond-subscription financing for clients (AR 2025). The CBK mobile app focuses on banking and card services; AR 2025 priorities are funding, self-service digital channels and corporate growth, with no stated wealth strategy. No AUM, client-asset or investor-count figures are published.",
+  "segments": [
+   {
+    "name": "Premier Banking",
+    "tier": "Affluent",
+    "eligibility": "Salary transfer of KD 1,700 and above, or a term deposit of KD 50,000+ (as published).",
+    "source_ids": [
+     "S7"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Not found after research",
+   "detail": "No separate private banking proposition on the website or in AR 2025; the highest tier found is Premier Banking (S7). A 'Wealth Management Unit' sits within Corporate Banking and arranges IPO and bond financing (AR 2025 p.23).",
+   "source_ids": [
+    "S7",
+    "S4",
+    "S10"
+   ]
+  },
+  "asset_management": {
+   "present": "Unclear",
+   "detail": "No CBK-branded funds, AUM or asset-management arm found. The brokerage subsidiary holds a CMA licence as portfolio manager for single-client portfolios (S8).",
+   "source_ids": [
+    "S8",
+    "S4"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Al-Tijari Financial Brokerage Company K.S.C.(Closed): 98.155% owned by CBK per its website (98.16% per AR 2025), established 2 Dec 1984, licensed as qualified securities broker registered at Boursa Kuwait; authorised capital KD 15m, paid-up KD 5.3m. Electronic trading via a desktop client branded 'Accu Trade' and mobile apps (App Store / Google Play); site also links Boursa Kuwait's OTC (unlisted securities) platform. Executes Boursa Kuwait orders; international market access not stated on the pages read.",
+   "source_ids": [
+    "S8",
+    "S9",
+    "S4"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Brokerage subsidiary's mobile app and web trading (portfolio, orders, notifications, Shariah-compliant share follow section named in the site menu). The CBK Mobile App itself lists banking, cards, KYC and onboarding features; no investing journey found.",
+   "source_ids": [
+    "S9",
+    "S4"
+   ]
+  },
+  "advisory": {
+   "present": "Unclear",
+   "detail": "Premier page tells clients to contact Premier Banking Officers 'to discuss your wealth management and banking solutions requirements' (S7) but no advisory service or licence is described for the bank; the brokerage subsidiary's licences cover broker and portfolio manager only.",
+   "source_ids": [
+    "S7",
+    "S8"
+   ]
+  },
+  "discretionary": {
+   "present": "Unclear",
+   "detail": "The brokerage subsidiary is licensed to manage portfolios owned by a single client under a written investment policy (S8); no product page, minimum or AUM found.",
+   "source_ids": [
+    "S8"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No robo-advisory or model-portfolio offer found on the CBK, Premier or brokerage pages opened.",
+   "source_ids": [
+    "S7",
+    "S9"
+   ]
+  },
+  "funds_platform": {
+   "present": "Not found after research",
+   "detail": "No mutual-fund shelf or fund distribution found.",
+   "source_ids": [
+    "S7",
+    "S9",
+    "S4"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "Only treasury 'structured deposits' used for funding and corporate Treasury Sales products (AR 2025) were found; no retail structured products.",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  "private_markets": {
+   "present": "Not found after research",
+   "detail": "No private-markets or alternatives offer found.",
+   "source_ids": [
+    "S4",
+    "S7"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Unclear",
+   "detail": "Conventional bank (32% associate Al Cham Islamic Bank, Syria, per AR capital adequacy note). The brokerage site menu includes a 'follow Shariah-compliant shares' section; no Islamic funds or sukuk offer found.",
+   "source_ids": [
+    "S4",
+    "S9"
+   ]
+  },
+  "asset_classes": [
+   "Local equities"
+  ],
+  "partners": [
+   {
+    "partner": "Network International",
+    "kind": "Card issuing and digital payments technology",
+    "what": "Strategic partnership to upgrade digital banking and card issuer processing (fraud prevention, tokenisation, cardholder self-serve, instant issuance)",
+    "date": "2024-02",
+    "status": "Announced",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "partner": "IDS (ids.com.lb)",
+    "kind": "Brokerage app technology (inferred)",
+    "what": "Search results list an 'Al-Tijari mobile app' project by IDS and the brokerage app's Google Play package name contains 'ids'; relationship not confirmed",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S16",
+     "S9"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2024-02",
+    "what": "Strategic partnership with Network International announced to upgrade digital banking and card processing.",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "65th anniversary; launched Premier Family Banking Package (Premier benefits extendable to family, WhatsApp service, 17 Premier lounges and branch offices), YOU prepaid youth card, new Khaitan branch, self-service machines; revoked the Zero-NPL policy (AR 2025).",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2026-03-11",
+    "what": "AGM approved final cash dividend of 25 fils and no bonus shares for FY2025.",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2026-07-09",
+    "what": "Board recommended an interim cash dividend of 12 fils for H1 2026, subject to regulatory approval.",
+    "source_ids": [
+     "S3",
+     "S6"
+    ]
+   },
+   {
+    "date": "2026-07-28",
+    "what": "H1 2026 statements signed by an Acting CEO (Ahmad Khaled Al-Khudhur) whereas the Q1 2026 statements were signed by CEO Elham Mahfouz; no announcement of the change found.",
+    "source_ids": [
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "date": "2026-07",
+    "what": "International certificate-of-deposit programme increased from USD 1 billion to USD 2 billion (Chairman's H1 2026 statement as reported by Kuwait Times).",
+    "source_ids": [
+     "S6"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Affluent proposition (Premier Banking, KD 1,700 salary / KD 50,000 deposit) is service- and card-led; no investment, fund, advisory or managed-portfolio offer was found on the Premier page (S7) or in AR 2025 (S4).",
+    "Investing is limited to Boursa Kuwait trading through a separate brokerage subsidiary and app (S8, S9); the CBK mobile app has no investing journey (S4 pp.29-30).",
+    "AR 2025 lists digital onboarding, self-service machines and a Premier Family Banking Package as 2025 launches, indicating appetite for premium and digital packages (S4 pp.20, 29-31)."
+   ],
+   "barriers": [
+    "Wealth is not a stated strategic priority in AR 2025: management report priorities are funding diversification, self-service digital channels and corporate banking growth (S4).",
+    "Leadership in flux: H1 2026 statements are signed by an Acting CEO while the official site still lists the CEO (S3, S1); brokerage subsidiary leadership could not be read.",
+    "Brokerage already has its own platform and apps (S8, S9); the parent bank has no stated wealth platform vendor.",
+    "Conventional-only bank with a Boursa Kuwait-centric investment base; no Islamic investment offer found (S4, S9)."
+   ],
+   "incumbent_vendors": [
+    "Network International - card issuing/digital payments (announced Feb 2024, S13)",
+    "IDS - possible brokerage app vendor (inferred only, S16)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Executive & Supervisory Management",
+   "publisher": "Commercial Bank of Kuwait",
+   "url": "https://www.cbk.com/About-CBK/CBK-Profile/Executive-and-Supervisory-Management",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Names and titles only; no biographies. Page still lists Elham Y. Mahfouz as CEO (see discrepancies)."
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "Commercial Bank of Kuwait",
+   "url": "https://www.cbk.com/About-CBK/CBK-Profile/Board-of-Directors",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Names and roles only."
+  },
+  {
+   "id": "S3",
+   "title": "The Commercial Bank of Kuwait Group - Interim Condensed Consolidated Financial Information 30 June 2026 (unaudited)",
+   "publisher": "Commercial Bank of Kuwait via Boursa Kuwait",
+   "url": "https://ifsahdocs.boursakuwait.com.kw/DiscAssets/2026_17636/Financial%20Statements%20Q2%202026%20English.pdf",
+   "doc_type": "Exchange disclosure - interim financial statements",
+   "tier": 1,
+   "published": "2026-07-28",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Statement of financial position (PDF p.3) and equity statement (PDF p.6) are image pages; figures read visually. Signed by the Chairman and 'Ahmad Khaled Al-Khudhur, Acting CEO'."
+  },
+  {
+   "id": "S4",
+   "title": "Commercial Bank of Kuwait Annual Report 2025 (incl. audited consolidated financial statements)",
+   "publisher": "Commercial Bank of Kuwait K.P.S.C.",
+   "url": "https://www.cbk.com/Renderers/ShowPdf.ashx?Id=97e05dc5-7b2e-40af-87b9-df4f98f7e05c",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Statements of financial position and income (PDF pp.89-90) are image pages; figures read visually."
+  },
+  {
+   "id": "S5",
+   "title": "The Commercial Bank of Kuwait Group - Interim Condensed Consolidated Financial Information 31 March 2026 (signed)",
+   "publisher": "Commercial Bank of Kuwait",
+   "url": "https://www.cbk.com/media/ec72b5fa-6757-4d16-ba7f-230a5f1e46d6/UG71og/Financia%20Statements_Eng%20Q1%202026_Signed.pdf",
+   "doc_type": "Interim financial statements",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "PDF p.3 signed by Elham Yousry Mahfouz as Chief Executive Officer; total assets at 31 Mar 2026 KD 5,607,867k."
+  },
+  {
+   "id": "S6",
+   "title": "Al-Tijari declares net profit of KD 62.3 m for 1st half 2026",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/47285/business/al-tijari-declares-net-profit-of-kd-623-m-for-1st-half-2026/amp",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-07-29",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Premier Banking - Benefits and Services",
+   "publisher": "Commercial Bank of Kuwait",
+   "url": "https://www.cbk.com/Premier-Banking/All-Premier-Banking-Benefits-and-Services",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "About Al-Tijari Financial Brokerage Company (Arabic: من نحن)",
+   "publisher": "Al-Tijari Financial Brokerage Company",
+   "url": "https://www.tijarifb.com/%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A/%D9%85%D9%86-%D9%86%D8%AD%D9%86",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "ar"
+  },
+  {
+   "id": "S9",
+   "title": "Al-Tijari Financial Brokerage Company homepage (Arabic) and electronic trading page",
+   "publisher": "Al-Tijari Financial Brokerage Company",
+   "url": "https://www.tijarifb.com/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "ar",
+   "note": "Executive management and board pages of the brokerage subsidiary timed out and were not read."
+  },
+  {
+   "id": "S10",
+   "title": "Commercial Bank of Kuwait homepage (site links incl. brokerage site and LinkedIn)",
+   "publisher": "Commercial Bank of Kuwait",
+   "url": "https://www.cbk.com/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Executive Management (biographies PDF, undated, appears to be c.2015 vintage)",
+   "publisher": "Commercial Bank of Kuwait",
+   "url": "https://www.cbk.com/Renderers/ShowPdf.ashx?Id=c94ec2a1-a7f6-476c-bc23-05929668b2c3",
+   "doc_type": "Official biographies (dated)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Found via search; opened. Content is outdated (other executives listed have since changed); only the CEO's career history is used."
+  },
+  {
+   "id": "S13",
+   "title": "Commercial Bank of Kuwait enters strategic partnership with Network International to transform digital banking",
+   "publisher": "Network International",
+   "url": "https://www.network.ae/en/news/view/commercial-bank-of-kuwait-enters-strategic-partnership-with-network-international-to-transform-digital-banking",
+   "doc_type": "Press release",
+   "tier": 5,
+   "published": "2024-02-06",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened)"
+  },
+  {
+   "id": "S14",
+   "title": "The Finance Frontier 2026: Elham Yousry Mahfouz, CEO, Commercial Bank of Kuwait",
+   "publisher": "Entrepreneur Middle East",
+   "url": "https://mena.entrepreneur.com/finance/the-finance-frontier-2026-elham-yousry-mahfouz",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); undated within the 2026 series."
+  },
+  {
+   "id": "S15",
+   "title": "Commercial Bank of Kuwait names new chairman",
+   "publisher": "TradeArabia",
+   "url": "https://www.tradearabia.com/news/BANK_216771.html",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); snippet states chairman since 1 April 2018."
+  },
+  {
+   "id": "S16",
+   "title": "Al Tijari Mobile App (portfolio entry)",
+   "publisher": "IDS",
+   "url": "https://ids.com.lb/our-portfolio/al-tijari-mobile-app",
+   "doc_type": "Vendor portfolio page",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); relationship to Al-Tijari Financial Brokerage inferred, not confirmed."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Chief executive",
+   "detail": "Official site (checked 2026-10-12), AR 2025 and the signed Q1 2026 statements show Elham Yousry Mahfouz as CEO; the 30 Jun 2026 statements (28 Jul 2026) are signed by 'Ahmad Khaled Al-Khudhur, Acting CEO', whom the site lists as GM Operations. Kuwait Times (29 Jul 2026) names no CEO.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S5",
+    "S3",
+    "S6"
+   ],
+   "resolution": "Unresolved: Mahfouz marked 'Conflicting sources'; Al-Khudhur recorded as Acting CEO per the later, regulator-approved financial statements. Check Boursa Kuwait disclosures for the change."
+  },
+  {
+   "field": "Acting head of Corporate Banking",
+   "detail": "AR 2025 lists Ahmad Hamed BoAbbas as Acting GM Corporate Banking; the website lists Kunal Singh as GM International Banking and Acting GM Corporate Banking.",
+   "source_ids": [
+    "S4",
+    "S1"
+   ],
+   "resolution": "Website used as more recent; BoAbbas not recorded as current."
+  },
+  {
+   "field": "Brokerage subsidiary ownership",
+   "detail": "AR 2025: 98.16%; brokerage website: 98.155%.",
+   "source_ids": [
+    "S4",
+    "S8"
+   ],
+   "resolution": "Same figure at different rounding; 98.16% recorded."
+  }
+ ],
+ "open_items": [
+  "CEO status unresolved: confirm via Boursa Kuwait disclosures whether Elham Mahfouz left or is on leave and when Ahmad Al-Khudhur became Acting CEO; the Boursa Kuwait disclosure feed for CBK (code 103) was not read directly.",
+  "Al-Tijari Financial Brokerage Company executive and board pages timed out; its CEO and management are not recorded. Capabilities rely on its 'About us' page and homepage.",
+  "AR 2025 financial statement pages are image-only: notes (fiduciary assets, segment detail, employee numbers) could not be text-searched; fiduciary assets and AUM not located.",
+  "Official leadership page gives names and titles only; biographies are not published except an outdated PDF (S12) used only for the CEO.",
+  "No LinkedIn profiles verified for any individual (searches for the CEO and the Chief Digital Officer returned no matching profile). Company LinkedIn recorded from the official site link; the vanity URL linkedin.com/company/commercial-bank-of-kuwait appears in search results.",
+  "Q3 2026 results not yet published at 12 Oct 2026; add when released.",
+  "Premier Banking thresholds are from the website (undated); Network International partnership (Feb 2024) seen in search results only and its go-live status is unknown.",
+  "Shareholder table lists only Al Sharq Holding above 5%; ultimate beneficial owner of Al Sharq Holding not researched."
+ ],
+ "research_status": "Partial",
+ "researched_by": "B26",
+ "checked": "2026-10-12"
+}

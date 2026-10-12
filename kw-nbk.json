@@ -1,0 +1,1637 @@
+{
+ "id": "kw-nbk",
+ "name": "National Bank of Kuwait",
+ "short_name": "NBK",
+ "legal_name": "National Bank of Kuwait S.A.K.P.",
+ "name_ar": "بنك الكويت الوطني",
+ "country": "KW",
+ "hq_city": "Kuwait City",
+ "website": "https://www.nbk.com",
+ "linkedin_company": "https://www.linkedin.com/company/nbkgroup/",
+ "category": "Bank",
+ "type": "Universal / commercial bank",
+ "model": "Conventional with Islamic window/subsidiary",
+ "founded": "1952 (incorporated in the State of Kuwait; first national bank in Kuwait and the Gulf)",
+ "regulators": [
+  "CBK",
+  "CMA Kuwait"
+ ],
+ "listed": true,
+ "exchange": "Boursa Kuwait",
+ "ticker": "NBK (Boursa Kuwait company code 101)",
+ "parent_id": null,
+ "ownership_summary": "Listed on Boursa Kuwait (previously Kuwait Stock Exchange) since 1984; widely held, retaining its founding merchant shareholder base. The only shareholder above 5% is the Public Institution for Social Security (PIFSS) with 6.19% at 31 Dec 2025 and at 30 Jun 2026. Market capitalisation KD 7.40bn at 30 Jun 2026.",
+ "shareholders": [
+  {
+   "holder": "Public Institution for Social Security (PIFSS)",
+   "pct": 6.19,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S4",
+    "S3"
+   ]
+  }
+ ],
+ "government_link": "Minority only - PIFSS (Kuwait's state social-security institution) holds 6.19% (30 Jun 2026); no controlling shareholder.",
+ "group_structure": "National Bank of Kuwait S.A.K.P. is the listed parent. Principal subsidiaries (31 Dec 2025): Boubyan Bank K.S.C.P. (60.4%, Islamic bank, listed; profiled separately as kw-boubyan - fully consolidated, so its assets, deposits and profit are already inside NBK group figures; do not add them), which holds BLME Holdings (72.4%, UK, incl. Nomo); National Bank of Kuwait - Egypt (99.1%); Watani Investment Company K.S.C.(Closed) (100%, investment company; absorbed Watani Financial Brokerage in 2025); National Bank of Kuwait (International) PLC (UK, 100%); National Bank of Kuwait France SA (100%); NBK Banque Privee (Suisse) S.A. (100%, investment management); National Bank of Kuwait (Lebanon) (85.5%); Credit Bank of Iraq (92.5%); National Investors Group Holdings (Cayman, 100%); Watani Wealth Management Company (KSA, 100%); NBK GDM (Caymans) (100%); UPayments (Kuwait fintech, 51%). Six reportable segments: Consumer Banking, Corporate Banking, NBK Wealth, Islamic Banking (= Boubyan), Group Centre, International Banking.",
+ "subsidiaries": [
+  {
+   "name": "Boubyan Bank K.S.C.P.",
+   "pct": 60.4,
+   "activity": "Islamic bank (listed); parent of BLME Holdings/Nomo, Boubyan Capital, Boubyan Takaful",
+   "linked_id": "kw-boubyan",
+   "source_ids": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "name": "Watani Investment Company K.S.C.(Closed)",
+   "pct": 100.0,
+   "activity": "Investment company - asset management, funds, NBK Invest and NBK Brokerage brands",
+   "linked_id": null,
+   "source_ids": [
+    "S3",
+    "S10"
+   ]
+  },
+  {
+   "name": "NBK Banque Privee (Suisse) S.A.",
+   "pct": 100.0,
+   "activity": "Investment management / private banking (Switzerland)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "Watani Wealth Management Company",
+   "pct": 100.0,
+   "activity": "Investment management (Saudi Arabia)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "National Bank of Kuwait (International) PLC",
+   "pct": 100.0,
+   "activity": "Banking (UK)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "National Bank of Kuwait - Egypt S.A.E.",
+   "pct": 99.1,
+   "activity": "Banking (Egypt)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "National Bank of Kuwait France SA",
+   "pct": 100.0,
+   "activity": "Banking (France)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "National Bank of Kuwait (Lebanon) S.A.L.",
+   "pct": 85.5,
+   "activity": "Banking (Lebanon)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "Credit Bank of Iraq S.A.",
+   "pct": 92.5,
+   "activity": "Banking (Iraq)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "National Investors Group Holdings Limited",
+   "pct": 100.0,
+   "activity": "Investment company (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "UPayments for Payment Systems and Electronic Settlement Company K.S.C.C.",
+   "pct": 51.0,
+   "activity": "Financial technology (payments)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  }
+ ],
+ "footprint": "13 countries on 4 continents (FY2025): Kuwait 70 branches; Egypt 53; Bahrain 2; UAE 3 (incl. DIFC branch opened 2025); KSA 3; Lebanon 2; Iraq 3; one branch each in London, Paris, New York, Shanghai and Singapore. FY2025 net operating income: Kuwait KD 923.2m, other MENA KD 221.8m, Europe & UK KD 86.7m, others KD 65.1m.",
+ "customer_segments": "Mass retail and youth (incl. Weyay digital bank), affluent (Premium Services; Premium, Thahabi and Elite segments), HNW/UHNW and institutional (NBK Wealth), SME, large and mid-market corporates, foreign corporates/oil and trade finance, international clients; Islamic customers via Boubyan.",
+ "business_lines": "Consumer & Digital Banking (deposits, cards, lending, Weyay digital bank, premium segments); Corporate & Transactional Banking; NBK Wealth (private banking, asset management, custody, brokerage via Watani Investment Company, NBK Banque Privee (Suisse), Watani Wealth Management KSA); Islamic Banking (Boubyan Bank); Group Treasury (FX, hedging, structured deposits); International Banking Group (12 countries).",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 46232823,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (includes 60.4%-owned Boubyan Bank in full)",
+   "definition": "Total assets, interim condensed consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.5 (statement p.4)",
+   "note": "Boubyan (Islamic Banking segment) contributes KD 10,592,712k of segment assets (S2 note 9, PDF p.14)."
+  },
+  {
+   "metric": "total_assets",
+   "value": 45612844,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, consolidated statement of financial position (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S2"
+   ],
+   "locator": "S3 PDF p.153; S2 PDF p.5 comparative",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 27015212,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (includes Boubyan depositors' accounts)",
+   "definition": "'Customer deposits' line; excludes 'Due to banks' (KD 5,200,544k) and 'Deposits from other financial institutions' (KD 4,234,523k), shown separately",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.5 (statement p.4)",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 26064003,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits' line; excludes due to banks and deposits from other financial institutions",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.5 comparative; S3 PDF p.145 (KD 26,064.0m)",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 27768190,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans, advances and Islamic financing to customers' (net of provisions; includes Boubyan Islamic financing)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.5 (statement p.4)",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 26815568,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans, advances and Islamic financing to customers' (net)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.5 comparative",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 5622277,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity incl. Perpetual Tier 1 securities (KD 455,335k) and non-controlling interests (KD 633,338k); equity attributable to shareholders KD 4,533,604k",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.5",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 1296841,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Net operating income' (net interest income + net income from Islamic financing + non-interest income), consolidated statement of income",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.151",
+   "note": "Islamic Banking (Boubyan) segment contributed KD 275,159k (S3 PDF p.174)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 575648,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Profit for the year attributable to shareholders of the Bank (total profit KD 615,869k incl. NCI KD 40,221k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.151",
+   "note": ""
+  },
+  {
+   "metric": "net_profit",
+   "value": 324783,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Profit for the period attributable to shareholders of the Bank (six months)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.3 (statement p.2)",
+   "note": "Total profit for the period KD 347,420k."
+  },
+  {
+   "metric": "aum",
+   "value": 8693,
+   "unit": "million",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group ('Assets under Management at the Group')",
+   "definition": "Assets under management at the Group, as labelled in the Annual Report 2025 risk-management (reputation and fiduciary risk) section; discretionary/non-discretionary split not stated",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.123 (printed p.121)",
+   "note": "Up 13.6% from KD 7,654m at 31 Dec 2024. No 30 Jun 2026 AUM figure found in S2/S4/S5. Scope (whether Boubyan Capital/BLME AUM are included) not stated."
+  },
+  {
+   "metric": "nbk_wealth_segment_net_operating_income",
+   "value": 125767,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Segment: NBK Wealth",
+   "definition": "Net operating income of the NBK Wealth reportable segment (asset management, custody, brokerage, lending, deposits for HNW and institutional clients)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.174",
+   "note": "H1 2026: KD 68,803k; segment profit H1 2026 KD 37,936k; segment total assets 30 Jun 2026 KD 1,383,766k (S2 PDF p.14)."
+  },
+  {
+   "metric": "employees",
+   "value": 8418,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "point_in_time",
+   "scope": "Group ('Global Employees')",
+   "definition": "Global employees as stated in Annual Report 2025 highlights",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4",
+   "note": "Whether Boubyan staff (2,390 per Boubyan AR 2025) are included is not stated."
+  },
+  {
+   "metric": "branches",
+   "value": 70,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "point_in_time",
+   "scope": "NBK Kuwait (domestic branches; excludes Boubyan and international)",
+   "definition": "'Kuwait - 70 Branches' in Where We Operate map",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.23",
+   "note": "International: Egypt 53, Bahrain 2, UAE 3, KSA 3, Lebanon 2, Iraq (Credit Bank of Iraq) 3, plus single branches in London, Paris, New York, Shanghai, Singapore; 13 countries."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "Annual Report 2025 note 2.35 says fiduciary assets are off balance sheet; no AUA/custody amount found in S3 (incl. subsidiaries note p.201), H1 2026 statements (S2), 2Q 2026 presentation (S4) or call script (S5)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "Only NBK Wealth segment income/assets are reported (S2 note 9, S3 p.174, S4 p.11); no private-banking client-asset figure."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "Annual Report 2025 (S3), 2Q 2026 investor presentation (S4), 2Q 2026 call script (S5)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "NBK Invest pages (S10, S11), launch coverage (S14), S3, S4."
+  }
+ ],
+ "people": [
+  {
+   "name": "Hamad Mohamed Al-Bahar",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2022-03",
+   "appointed_note": "Board member since January 2005; elected Chairman March 2022 (S3 p.74).",
+   "previous_roles": "Managing Director, Bank of Bahrain and Kuwait; senior roles at Kuwait Investment Company incl. Chairman and Managing Director (S3 p.74). Chairs Board Corporate Governance and Credit Committees (S7).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed as Chairman on official Who We Are and Corporate Governance pages, checked 2026-10-12 (S1, S7); signed 30 Jun 2026 statements as Chairman (S2).",
+   "source_ids": [
+    "S1",
+    "S7",
+    "S3",
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Isam Jassim Al-Sager",
+   "name_ar": null,
+   "title": "Vice-Chairman and Group Chief Executive Officer",
+   "functions": [
+    "Group CEO",
+    "Board"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2014",
+   "appointed_note": "Group CEO 2014; Vice-Chairman & Group CEO from March 2022; joined NBK 1978 (S3 p.78).",
+   "previous_roles": "Joined NBK 1978 and held senior roles across core businesses; Group CEO since 2014 (S3). External: Chairman, NBK (International) PLC; Director, Watani Wealth Management (KSA); Board Member, Mastercard (as listed in S3).",
+   "education": "BSc Business Administration, California State Polytechnic University, USA",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Who We Are page checked 2026-10-12 (S1); signed FY2025 statements (S3); no 2025-2026 departure news found in search.",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Shaikha Khaled Al-Bahar",
+   "name_ar": null,
+   "title": "Deputy Group Chief Executive Officer",
+   "functions": [
+    "Deputy CEO"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "Group",
+   "scope": "Group (international operations; Group Operations and Technology)",
+   "appointed": "2014-03",
+   "appointed_note": "",
+   "previous_roles": "Formerly CEO of NBK Kuwait; senior roles in commercial banking, corporate finance and capital markets. Chairperson NBK Egypt and NBK France; Board Member NBK (International) PLC and NBK Global Asset Management Limited (S3 p.78).",
+   "education": "BSc International Marketing, Kuwait University; executive programmes at Harvard, Stanford, Wharton and Duke",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Who We Are page checked 2026-10-12 (S1); AR 2025 (S3).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Salah Yousef Al-Fulaij",
+   "name_ar": null,
+   "title": "Chief Executive Officer - Kuwait",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "NBK Kuwait",
+   "scope": "Kuwait",
+   "appointed": "2015",
+   "appointed_note": "Joined NBK 1985.",
+   "previous_roles": "CEO, NBK Capital 2008-2014; earlier Group General Manager, Treasury and Investment Services. Vice Chairperson, Watani Investment Company; Board Member NBK France and National Investors Group (NIG) Holdings (S3 p.79).",
+   "education": "MBA and BSc Industrial Engineering, University of Miami, USA",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/salah-alfulaij-30a81a127",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Who We Are page checked 2026-10-12 (S1); AR 2025 (S3). LinkedIn: URL carried from original research (marked verified 2026-10-07); not re-opened in B23, no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sulaiman Barrak Al-Marzouq",
+   "name_ar": null,
+   "title": "Deputy Chief Executive Officer - Kuwait",
+   "functions": [
+    "Deputy CEO"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "NBK Kuwait",
+   "scope": "Kuwait",
+   "appointed": "2017",
+   "appointed_note": "Joined NBK 2002.",
+   "previous_roles": "Head of Foreign Operations Department, Central Bank of Kuwait 2012-2015; returned as NBK Group Treasurer; Board Member Watani Investment Company and NBK Egypt (S3 p.79).",
+   "education": "Bachelor's degree in Economics, Portland State University, USA",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Who We Are page checked 2026-10-12 (S1); AR 2025 (S3).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faisal Abdulatif Al-Hamad",
+   "name_ar": null,
+   "title": "Chief Executive Officer - NBK Wealth Group",
+   "functions": [
+    "Wealth",
+    "Private banking",
+    "Investments / asset management"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "NBK Wealth",
+   "scope": "Group",
+   "appointed": "2021",
+   "appointed_note": "Joined NBK Group 2007.",
+   "previous_roles": "CEO, Watani Investment Company (before 2021); General Manager, Agility Kuwait; Associate Director, Wellington Management International (UK). Chairman, Watani Investment Company and NBK Wealth Limited; Board Member NBK France and NBK Banque Privee (Suisse) S.A. (S3 p.80, S8).",
+   "education": "MBA, Harvard Business School; Bachelor's degree, University of Chicago",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/faisal-al-hamad-32b28943",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official NBK Who We Are (S1) and NBK Wealth leadership page (S8) checked 2026-10-12. LinkedIn: URL carried from original research (marked verified 2026-10-07); not re-opened in B23, no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S8",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Malek Jean Khalife",
+   "name_ar": null,
+   "title": "Chief Executive Officer - Global Private Banking & Switzerland",
+   "functions": [
+    "Private banking",
+    "Wealth"
+   ],
+   "entity": "NBK Wealth (National Bank of Kuwait Group)",
+   "business_unit": "NBK Wealth - Global Private Banking",
+   "scope": "Group / Switzerland",
+   "appointed": "2018-06",
+   "appointed_note": "Head of Global Private Banking since June 2018; joined NBK 2005 (S8).",
+   "previous_roles": "General Manager, NBK Private Banking - Kuwait from 2008; Director, Private Banking Representative Office, American Express Bank (Lebanon). Vice Chairperson NBK Lebanon; Board Member NBK France and Watani Wealth Management (KSA) (S8).",
+   "education": "Master's degree in Economic Sciences, Saint Joseph University, Lebanon",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "NBK Wealth leadership page checked 2026-10-12 (S8). Not listed on NBK Group Executive Management list (S1), which covers group executives only.",
+   "source_ids": [
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Nabil N. Maroof",
+   "name_ar": null,
+   "title": "Chief Executive Officer - Global Asset Management (CEO, Watani Investment Company)",
+   "functions": [
+    "Investments / asset management",
+    "Subsidiary CEO",
+    "Brokerage"
+   ],
+   "entity": "Watani Investment Company K.S.C.C.",
+   "business_unit": "NBK Wealth - Global Asset Management",
+   "scope": "Group asset management",
+   "appointed": "2021-03",
+   "appointed_note": "Previously Deputy CEO of Watani Investment Company Jan 2015 - Mar 2021; appointment month as CEO inferred from end of deputy role, exact date not stated (S8).",
+   "previous_roles": "Deputy CEO, Watani Investment Company 2015-2021; led asset management, investment advisory and trading services at NBK Wealth (S8).",
+   "education": "Bachelor's degree in General Finance, Boston University; leadership programmes at Harvard and Wharton",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/nabil-maroof-72907b11",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "NBK Wealth leadership page checked 2026-10-12 (S8). LinkedIn: URL carried from original research (marked verified 2026-10-07; profile employer shows former NBK Capital brand); not re-opened in B23.",
+   "source_ids": [
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Al-Othman",
+   "name_ar": null,
+   "title": "Chief Executive Officer - Consumer and Digital Banking",
+   "functions": [
+    "Retail",
+    "Digital"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "Consumer & Digital Banking",
+   "scope": "Group",
+   "appointed": "2023-05",
+   "appointed_note": "Joined NBK Group 2006.",
+   "previous_roles": "Head of Consumer Banking Group from 2018; led launch of Weyay (Kuwait's first digital bank) and the NBK mobile app revamp. Chairman, Shared Electronic Banking Services Company (K-Net) (S3 p.81).",
+   "education": "Bachelor's degree in Philosophy, Kuwait University; executive programmes at Harvard, Columbia, INSEAD",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Who We Are page checked 2026-10-12 (S1); AR 2025 (S3).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammad Yousef Bader Al-Kharafi",
+   "name_ar": null,
+   "title": "Group Chief Operating Officer (Head of Operations, Technology and Data)",
+   "functions": [
+    "Technology",
+    "Operations"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "Group Operations, Technology & Data",
+   "scope": "Group",
+   "appointed": "2025-01",
+   "appointed_note": "Joined NBK Group 2001.",
+   "previous_roles": "Leadership roles across operations and consumer banking; Board Member NBK Egypt; Vice Chairman, Credit Information Network Company (Ci-Net) (S3 p.81).",
+   "education": "Bachelor's degree in Business Administration, Arab Open University; executive programmes at Harvard, Chicago Booth, Stanford, Columbia, INSEAD, AUB",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Who We Are page checked 2026-10-12 (S1); AR 2025 (S3).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Omar Bouhadiba",
+   "name_ar": null,
+   "title": "CEO - International Banking Group",
+   "functions": [
+    "Corporate / wholesale",
+    "Other"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "International Banking Group",
+   "scope": "International (12 countries outside Kuwait)",
+   "appointed": "2020-11",
+   "appointed_note": "",
+   "previous_roles": "Senior roles at Bank of America, Mashreq, Arab Bank plc; Senior Advisor to the Board, Barwa Bank; CEO, International Bank of Qatar. Board Member NBK (International) PLC, NBK Egypt, NBK France (S3 p.80).",
+   "education": "MBA in Finance, Wharton School, University of Pennsylvania",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Who We Are page checked 2026-10-12 (S1); AR 2025 (S3).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmad Jassim Mohammad Boresli (Ahmed Bourisly)",
+   "name_ar": null,
+   "title": "Chief Executive Officer - Corporate and Transactional Banking",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "Corporate & Transactional Banking",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "Joined NBK 1998; General Manager - Domestic Corporate Banking from June 2019; date of CEO title not stated.",
+   "previous_roles": "General Manager - Domestic Corporate Banking (2019); corporate credit and relationship management roles (S3 p.83).",
+   "education": "Bachelor's degree in Business Administration (Marketing), University of the Pacific, USA; executive programmes at Harvard and INSEAD",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Same title on official website (S1, as 'Ahmad Jassim Mohammad Boresli') and AR 2025 (S3, as 'Ahmed Bourisly'), checked 2026-10-12.",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Pradeep Handa",
+   "name_ar": null,
+   "title": "Chief, Foreign Corporate Banking (AR 2025) / shown on website as Chief Executive Officer - Corporate and Transactional Banking",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "Foreign Corporate, Oil and Trade Finance",
+   "scope": "Kuwait",
+   "appointed": "2012",
+   "appointed_note": "Joined NBK 1980; General Manager - Foreign Corporate, Oil and Trade Finance Group from 2012 (S3 p.84).",
+   "previous_roles": "Assistant General Manager, Executive Manager and Senior Manager, Corporate Banking Group (Kuwait) (S3 p.84).",
+   "education": "Master's degree, University of Delhi, India",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Conflicting sources",
+   "role_evidence": "AR 2025 (S3 p.84) titles him 'Chief, Foreign Corporate Banking'; the official website executive list checked 2026-10-12 (S1) gives him the identical title as Boresli, 'Chief Executive Officer - Corporate and Transactional Banking' - likely a website duplication. Verify before outreach.",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sujit Anil Ronghe",
+   "name_ar": null,
+   "title": "Group Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "Group Finance",
+   "scope": "Group",
+   "appointed": "2022-06",
+   "appointed_note": "Joined NBK 2002; Group Financial Controller from 2012.",
+   "previous_roles": "Group Financial Controller 2012-2022; Senior Auditor at a Big Four firm in Kuwait (S3 p.82).",
+   "education": "Bachelor of Commerce, University of Pune",
+   "qualifications": "Member, Institute of Chartered Accountants of India; graduate, Institute of Cost Accountants of India",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Who We Are page (as 'Ronghe Sujit Anil') checked 2026-10-12 (S1); AR 2025 (S3).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Jad Zakhour",
+   "name_ar": null,
+   "title": "Group Treasurer",
+   "functions": [
+    "Treasury"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P.",
+   "business_unit": "Group Treasury",
+   "scope": "Group",
+   "appointed": "2020-01",
+   "appointed_note": "Joined NBK Group 2006; Deputy Group Treasurer from 2014.",
+   "previous_roles": "Deputy Group Treasurer 2014-2020; responsible for funding, hedging solutions, investment products and DCM (S3 p.84). Group Treasury offers structured deposits to HNW clients (S3 p.47).",
+   "education": "MBA in Finance, American University of Beirut; BSc Civil Engineering, Homs University",
+   "qualifications": "FRM",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Who We Are page checked 2026-10-12 (S1); AR 2025 (S3).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Fahad Al-Rushaid Al-Bader",
+   "name_ar": null,
+   "title": "Deputy CEO, Watani Investment Company",
+   "functions": [
+    "Investments / asset management",
+    "Digital"
+   ],
+   "entity": "Watani Investment Company K.S.C.C.",
+   "business_unit": "NBK Wealth / Watani Investment Company",
+   "scope": "Subsidiary",
+   "appointed": null,
+   "appointed_note": "Title as quoted at NBK Invest launch, Feb 2025.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Quoted with this title in Feb 2025 launch coverage (S14); not on NBK Wealth leadership page (S8), which lists only three executives. No 2026 confirmation found.",
+   "source_ids": [
+    "S14"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Amal Al-Duwaisan",
+   "name_ar": null,
+   "title": "Head of Weyay Bank",
+   "functions": [
+    "Digital",
+    "Retail"
+   ],
+   "entity": "National Bank of Kuwait S.A.K.P. (Weyay)",
+   "business_unit": "Weyay (digital bank)",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Named with this title in a Sep 2025 article seen in search results only (S16, page blocked HTTP 403); no official page found.",
+   "source_ids": [
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "NBK runs wealth through NBK Wealth, formed by merging its private banking and asset management under one leadership (CEO Faisal Al-Hamad), serving HNWI/SHNWI/UHNWI and institutional clients from booking centres in Kuwait, KSA, UAE (DIFC), Switzerland (NBK Banque Privee (Suisse)), the UK and Ireland. Group AUM was KD 8,693m at 31 Dec 2025 (+13.6%), and the NBK Wealth segment earned KD 125.8m net operating income in FY2025. Asset management, funds and brokerage sit in Watani Investment Company (100%), which in Feb 2025 launched the NBK Invest app (guided multi-asset plans from USD 5,000, conventional and Shariah options, plus 7 in-house funds) and renamed Watani Brokerage to NBK Brokerage (Regional, Sharia and US platforms). In 2025 NBK Wealth added alternative DPM, two value-add funds, a PE secondaries fund and NBK Wealth KSA's first Saudi real estate fund; 2026 priorities include NBK Suisse for UHNW clients and 'unlocking opportunities among the affluent'. Islamic retail wealth is largely in 60.4%-owned Boubyan Bank (profiled separately as kw-boubyan).",
+  "segments": [
+   {
+    "name": "Premium Services (NBK Kuwait)",
+    "tier": "Affluent",
+    "eligibility": "Not published on page checked; page lists concierge (Peacock Concierge, Q'go Concierge) and family banking benefits.",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "name": "Premium, Thahabi and Elite segments",
+    "tier": "Affluent / upper affluent",
+    "eligibility": "Named in a June 2026 NBK release as premium segments with dedicated RMs and access to NBK Wealth and NBK Invest; thresholds not published.",
+    "source_ids": [
+     "S15"
+    ]
+   },
+   {
+    "name": "NBK Wealth (Private Banking)",
+    "tier": "HNW / UHNW and institutional",
+    "eligibility": "HNWI, SHNWI and UHNWI and institutional accounts; no threshold published.",
+    "source_ids": [
+     "S3",
+     "S4",
+     "S8"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "NBK Wealth Private Banking (CEO Global Private Banking & Switzerland: Malek Khalife). Services: wealth planning, family affairs, cash and credit management, fiduciaries' trusts and wills, offshore trusts, real estate, overseas services, dedicated private banker, treasury services, cards, concierge and 'Generation W' next-gen programme; booking centres in Kuwait, KSA, UAE (DIFC), Switzerland, UK and Ireland. 2026 priority: 'Availing NBK Suisse for ultra-high networth clients'.",
+   "source_ids": [
+    "S9",
+    "S8",
+    "S3"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Watani Investment Company K.S.C.(Closed) (100%; merged with Watani Financial Brokerage in 2025), Watani Wealth Management (KSA, 100%), NBK Wealth Investment Management Limited and NBK Banque Privee (Suisse) S.A. (investment management, 100%). Group AUM KD 8,693m at 31 Dec 2025. Public funds: Watani Kuwait Equity, Watani Gulf Equity, Watani USD Bond, Al-Watani Saudi Equity, Al-Watani Sukuk, Watani KD/USD Money Market and Watani Islamic KD/USD Money Market funds; separately managed accounts.",
+   "source_ids": [
+    "S3",
+    "S9"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "NBK Brokerage (brand of Watani Investment Company; renamed from Watani Brokerage Feb 2025): Regional (Boursa Kuwait and regional markets), Sharia, and US platforms (equities, options, ETFs, bonds on US exchanges plus global/emerging-market equities, ADRs/GDRs; margin or cash account; mobile app, online platform, phone). PRIME Brokerage also listed.",
+   "source_ids": [
+    "S12",
+    "S14",
+    "S9",
+    "S3"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "NBK Invest app (launched Feb 2025 by Watani Investment Company): fully digital onboarding; Guided Investments (globally diversified multi-asset plans, 5,000+ companies, conventional or Shariah, min USD 5,000, top-ups from USD 100, daily liquidity); in-app money market, equity and bond funds. Requires Kuwait Civil ID and local bank account. NBK Brokerage apps for self-directed trading. Weyay digital bank (launched 2021) is a banking app; no investing feature found.",
+   "source_ids": [
+    "S10",
+    "S11",
+    "S14",
+    "S12"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "NBK Wealth client-specific wealth, portfolio investment and real estate planning advisory using multi-asset strategies; 'Structured Investments & Advisory'; digital advice via NBK Invest Guided Investments.",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S9",
+    "S11"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "Discretionary management listed under NBK Wealth investment management; 2025: structuring mandates and introducing/expanding Alternative Discretionary Portfolio Management (DPM); multi-asset outcome-based solutions for UHNW.",
+   "source_ids": [
+    "S9",
+    "S3"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Yes",
+   "detail": "NBK Invest Guided Investments: risk-questionnaire-based, passive multi-asset plans (conventional and Shariah). The former SmartWealth URL now shows NBK Invest content.",
+   "source_ids": [
+    "S11",
+    "S10",
+    "S14"
+   ]
+  },
+  "funds_platform": {
+   "present": "Unclear",
+   "detail": "NBK Wealth states access to investment vehicles 'developed in-house or through partnerships with renowned global providers'; no third-party fund platform or provider named. NBK Invest offers only Watani funds (7 at launch).",
+   "source_ids": [
+    "S4",
+    "S14"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "'Structured Investments & Advisory' under NBK Wealth alternative investments; Group Treasury offers structured deposits to HNW clients (2026 priority: expand to HNW clients outside Kuwait).",
+   "source_ids": [
+    "S9",
+    "S3"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "NBK Wealth Alternative Investments; in 2025 introduced two value-add funds and a private equity secondaries fund (single-call structure) and NBK Wealth (KSA)'s first Saudi-based real estate fund.",
+   "source_ids": [
+    "S3",
+    "S9"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "NBK Brokerage - Sharia platform; Al-Watani Sukuk Fund; Watani Islamic KD and USD money market funds; Shariah-compliant NBK Invest guided plans. Group Islamic banking is in Boubyan Bank (see kw-boubyan).",
+   "source_ids": [
+    "S9",
+    "S11",
+    "S12"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "US/international equities",
+   "ETFs",
+   "Mutual funds",
+   "Bonds",
+   "Sukuk",
+   "Structured products",
+   "Private markets / alternatives",
+   "Real estate funds"
+  ],
+  "partners": [
+   {
+    "partner": "Plug and Play",
+    "kind": "Innovation programme",
+    "what": "Partner for NBK Ebtakir, NBK's bank-led intrapreneurship programme",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "partner": "Microsoft",
+    "kind": "Technology (AI productivity)",
+    "what": "Microsoft Copilot rolled out across all NBK divisions",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "partner": "NetXInvestor (login portal domain)",
+    "kind": "Brokerage client portal (inferred)",
+    "what": "NBK Wealth site links a login at watanibrokerage.netxinvestor.com; NetXInvestor is a BNY Pershing client-portal brand. Inference from the URL only - NBK does not name the provider.",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S9"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2025-02-23",
+    "what": "Watani Investment Company launched NBK Invest (digital advisory + 7 Watani funds, fully digital onboarding) and renamed Watani Brokerage as NBK Brokerage (Regional, US, Sharia).",
+    "source_ids": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Merged Watani Financial Brokerage Company into Watani Investment Company (business combination under common control).",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "NBK Wealth introduced Alternative DPM, two value-add funds, a PE secondaries fund and NBK Wealth (KSA)'s first Saudi-based real estate fund.",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Opened a DIFC branch in the UAE (International Banking Group).",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2026",
+    "what": "NBK Wealth strategic priorities for 2026: diversify client portfolios, avail NBK Suisse for UHNW clients, family wealth transfer, regional institutions, 'unlocking opportunities among the affluent', expand regional presence.",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2026-06-25",
+    "what": "NBK promoted Premium, Thahabi and Elite segments with access to NBK Wealth and NBK Invest and dedicated RMs.",
+    "source_ids": [
+     "S15"
+    ]
+   },
+   {
+    "date": "2026-07",
+    "what": "2Q 2026 earnings call: management said the wealth management division and Boubyan continued to drive Group diversification, alongside continued investment in digital channels and mobile offerings.",
+    "source_ids": [
+     "S5"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "NBK Wealth's 2026 priorities include 'Unlocking opportunities among the affluent' and expanding regional presence (S3 p.46).",
+    "Product shelf described as in-house 'or through partnerships with renowned global providers' with no third-party platform named (S4 p.11); NBK Invest launched with only seven in-house Watani funds plus passive guided plans (S14, S11).",
+    "Premium/Thahabi/Elite affluent segments are being steered to NBK Wealth and NBK Invest (S15), but no affluent-specific discretionary or alternatives offer was found."
+   ],
+   "barriers": [
+    "Large in-house manufacturing: Group AUM KD 8.7bn (S3) and own fund range, DPM, alternatives and private-markets funds.",
+    "Already runs proprietary digital channels (NBK Invest guided plans, NBK Brokerage apps) launched Feb 2025 (S14).",
+    "Islamic retail wealth sits in 60.4%-owned Boubyan, which uses Allfunds Nextportfolio for Nomo Investments (see kw-boubyan)."
+   ],
+   "incumbent_vendors": [
+    "NetXInvestor (BNY Pershing) - inferred from brokerage login URL watanibrokerage.netxinvestor.com on nbkwealth.com (S9); not confirmed by NBK."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Who We Are (Chairman's statement, Board of Directors, Executive Management)",
+   "publisher": "National Bank of Kuwait",
+   "url": "https://www.nbk.com/about-nbk-group/who-we-are.html",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "National Bank of Kuwait Group - Interim Condensed Consolidated Financial Information 30 June 2026 (unaudited, reviewed)",
+   "publisher": "National Bank of Kuwait S.A.K.P.",
+   "url": "https://www.nbk.com/dam/jcr:a9b5fda4-e785-4705-8938-9a2364b06360/nbk-fs-2q-2026-e.pdf",
+   "doc_type": "Reviewed interim financial statements (Deloitte/EY review report 20 Jul 2026)",
+   "tier": 1,
+   "published": "2026-07-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "NBK Annual Report 2025 (incl. audited consolidated financial statements and Pillar 3 / risk disclosures)",
+   "publisher": "National Bank of Kuwait S.A.K.P.",
+   "url": "https://www.nbk.com/dam/jcr:73b1509e-5280-4ef3-a29a-392c1b565299/nbk-annual-report-2025-e.pdf",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "NBK Investor Presentation 2Q 2026",
+   "publisher": "National Bank of Kuwait",
+   "url": "https://www.nbk.com/dam/jcr:4f54b9f6-9062-4525-8bc4-76db32bf9911/nbk-investor-presentation-2q-2026.pdf",
+   "doc_type": "Investor presentation",
+   "tier": 2,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "2Q2026 Earnings Call Full Script (English)",
+   "publisher": "National Bank of Kuwait",
+   "url": "https://www.nbk.com/dam/jcr:096de482-d56e-4967-aca2-ecededfa009a/2Q2026%20Full%20script-English.pdf",
+   "doc_type": "Earnings call transcript",
+   "tier": 2,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Investor Relations (financial reports, presentations, call scripts)",
+   "publisher": "National Bank of Kuwait",
+   "url": "https://www.nbk.com/investor-relations.html",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Corporate Governance (Board of Directors and Board Committees)",
+   "publisher": "National Bank of Kuwait",
+   "url": "https://www.nbk.com/about-nbk-group/corporate-governance.html",
+   "doc_type": "Official governance page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "NBK Wealth - Who We Are (Leadership)",
+   "publisher": "NBK Wealth",
+   "url": "https://www.nbkwealth.com/who-we-are",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "NBK Wealth homepage (offering menu, logins, legal entities)",
+   "publisher": "NBK Wealth",
+   "url": "https://www.nbkwealth.com/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "NBK Invest app",
+   "publisher": "National Bank of Kuwait / Watani Investment Company",
+   "url": "https://www.nbk.com/kuwait/investments/nbk-invest-app.html",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "NBK Invest - Guided Investments",
+   "publisher": "National Bank of Kuwait / Watani Investment Company",
+   "url": "https://www.nbk.com/kuwait/investments/nbk-invest-app/guided-investments.html",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "NBK Brokerage - US",
+   "publisher": "National Bank of Kuwait / Watani Investment Company",
+   "url": "https://www.nbk.com/kuwait/investments/nbk-brokerage/us.html",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Premium Services",
+   "publisher": "National Bank of Kuwait",
+   "url": "https://www.nbk.com/kuwait/personal/packages/premium.html",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Watani Investment launches NBK Invest and NBK Brokerage",
+   "publisher": "GCC Business News",
+   "url": "https://www.gccbusinessnews.com/?p=111874",
+   "doc_type": "News article (regional business news)",
+   "tier": 5,
+   "published": "2025-02-23",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "NBK strengthens premium banking services with enhanced wealth solutions",
+   "publisher": "TechAfrica News",
+   "url": "https://techafricanews.com/2026/06/25/nbk-strengthens-premium-banking-services-with-enhanced-wealth-solutions/",
+   "doc_type": "News article (republished NBK release)",
+   "tier": 5,
+   "published": "2026-06-25",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "NBK Partners with Weyay Bank to Deliver Exclusive Digital Banking for Employees",
+   "publisher": "MEA Tech Watch",
+   "url": "https://meatechwatch.com/2025/09/17/nbk-partners-with-weyay-bank-to-deliver-exclusive-digital-banking-for-employees/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-09-17",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page returned HTTP 403)"
+  },
+  {
+   "id": "S17",
+   "title": "NBK Kuwait homepage (navigation: investments menu, LinkedIn link)",
+   "publisher": "National Bank of Kuwait",
+   "url": "https://www.nbk.com/kuwait.html",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "Boubyan Bank interim condensed consolidated financial information 30 June 2026",
+   "publisher": "Boubyan Bank K.S.C.P.",
+   "url": "https://www.bankboubyan.com/media/filer_public/69/17/69171b63-cb61-4c5a-af65-55ef323a1bc0/109__fs_30_06_2026_-_en.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-07-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  }
+ ],
+ "original_reconciliation": [
+  {
+   "field": "Institution",
+   "original_value": "National Bank of Kuwait",
+   "finding": "Confirmed",
+   "new_value": "National Bank of Kuwait (legal name National Bank of Kuwait S.A.K.P.)",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Country",
+   "original_value": "Kuwait",
+   "finding": "Confirmed",
+   "new_value": "KW",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Institution type",
+   "original_value": "Conventional commercial bank; group also includes Islamic subsidiary Boubyan",
+   "finding": "Confirmed",
+   "new_value": "Universal / commercial bank; model 'Conventional with Islamic window/subsidiary' (Boubyan 60.4%)",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (bn) [formula -> Size metrics 'NBK::Total assets']",
+   "original_value": "46,232,823 KWD thousand (=46.2bn) at 2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "KWD 46,232,823 thousand at 30 Jun 2026 (reviewed interim statements)",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Currency",
+   "original_value": "KWD",
+   "finding": "Confirmed",
+   "new_value": "KWD (statements in KD 000's)",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets as of",
+   "original_value": "2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "2026-06-30 (Q3 2026 not yet published on IR page at 12 Oct 2026)",
+   "source_ids": [
+    "S2",
+    "S6"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Deposits (bn) [formula -> Size metrics 'NBK::Customer deposits']",
+   "original_value": "27,015,212 KWD thousand at 2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "KWD 27,015,212 thousand at 30 Jun 2026",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Deposits as of",
+   "original_value": "2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "2026-06-30",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Deposit measure",
+   "original_value": "Customer deposits",
+   "finding": "Confirmed",
+   "new_value": "'Customer deposits' line; excludes due to banks (KD 5.20bn) and deposits from other financial institutions (KD 4.23bn)",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Chief executive",
+   "original_value": "Isam Jassim Al-Sager (Group); Salah Yousef Al-Fulaij (Kuwait)",
+   "finding": "Confirmed",
+   "new_value": "Isam Jassim Al-Sager, Vice-Chairman & Group CEO; Salah Yousef Al-Fulaij, CEO - Kuwait",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Wealth / investment arm",
+   "original_value": "NBK Wealth; Watani Investment Company (NBK Capital), global private banking and asset management",
+   "finding": "Updated",
+   "new_value": "NBK Wealth (private banking + asset management) with Watani Investment Company (100%; 'NBK Capital' brand no longer used in AR 2025; retail brands NBK Invest and NBK Brokerage since Feb 2025; Watani Financial Brokerage merged in 2025), Watani Wealth Management (KSA), NBK Banque Privee (Suisse), NBK Wealth Investment Management Ltd",
+   "source_ids": [
+    "S3",
+    "S9",
+    "S14"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Business focus",
+   "original_value": "Consumer, corporate, international and institutional banking; wealth/investment services; Islamic banking through Boubyan.",
+   "finding": "Confirmed",
+   "new_value": "Six reportable segments: Consumer Banking, Corporate Banking, NBK Wealth, Islamic Banking (Boubyan), Group Centre, International Banking",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Ownership",
+   "original_value": "Publicly listed; widely held with no controlling shareholder. PIFSS indirect stake 6.19% as at 31 December 2025.",
+   "finding": "Updated",
+   "new_value": "Listed since 1984; PIFSS is the only >5% holder with 6.19% at 31 Dec 2025 and at 30 Jun 2026. Sources do not describe the stake as 'indirect' - that qualifier could not be verified.",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Research coverage / Last prior research / Relationship / opportunity",
+   "original_value": "Completed profile research; 2026-09-30; Profile delivered to Hani / Wissam",
+   "finding": "Could not verify",
+   "new_value": "Internal workflow fields - not public facts; not assessed",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Website",
+   "original_value": "https://www.nbk.com/",
+   "finding": "Confirmed",
+   "new_value": "https://www.nbk.com (wealth: https://www.nbkwealth.com)",
+   "source_ids": [
+    "S17",
+    "S9"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Company LinkedIn",
+   "original_value": "https://www.linkedin.com/company/nbkgroup/",
+   "finding": "Confirmed",
+   "new_value": "https://www.linkedin.com/company/nbkgroup/ (linked from official homepage)",
+   "source_ids": [
+    "S17"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Gaps / important distinctions",
+   "original_value": "Includes majority-owned Boubyan; do not sum NBK and Boubyan assets... Customer deposits excludes separately reported bank/FI deposits.",
+   "finding": "Confirmed",
+   "new_value": "Boubyan (60.4%) is fully consolidated: Islamic Banking segment assets KD 10,592,712k equal Boubyan's own total assets at 30 Jun 2026",
+   "source_ids": [
+    "S2",
+    "S18"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Source references / Prior research source",
+   "original_value": "S001-S006; Gmail link",
+   "finding": "Removed",
+   "new_value": "Internal email link is not a public source; replaced by S1-S18",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (USD bn) / Deposits (USD bn)",
+   "original_value": "Formula conversions",
+   "finding": "Removed",
+   "new_value": "Not recorded - USD conversion is done centrally",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "AUM / AUA (USD bn)",
+   "original_value": "Not found",
+   "finding": "Corrected",
+   "new_value": "Group AUM KWD 8,693 million at 31 Dec 2025 (AR 2025, labelled 'Assets under Management at the Group'); no H1 2026 figure",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Size metric 'NBK::Deposits in original USD estimate'",
+   "original_value": "USD 88bn (original estimate)",
+   "finding": "Removed",
+   "new_value": "Superseded by KWD figure; conversion central",
+   "source_ids": [
+    "S2"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Ahmed Bourisly - CEO Corporate and Transactional Banking",
+   "original_value": "Verified current; spelling conflict noted",
+   "finding": "Confirmed",
+   "new_value": "Same title in AR 2025 and website; recorded as 'Ahmad Jassim Mohammad Boresli (Ahmed Bourisly)'",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Faisal Abdulatif Al-Hamad - CEO NBK Wealth Group",
+   "original_value": "Verified current; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Confirmed on S1 and S8; LinkedIn URL carried over",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Isam Jassim Al-Sager - Vice-Chairman and Group CEO",
+   "original_value": "Verified current",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (joined 1978; Group CEO 2014; Vice-Chairman Mar 2022)",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Malek Jean Khalife - CEO Global Private Banking & Switzerland",
+   "original_value": "Verified current",
+   "finding": "Confirmed",
+   "new_value": "Confirmed on NBK Wealth leadership page; LinkedIn still not verified",
+   "source_ids": [
+    "S8"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Mohammed Al-Othman - CEO Consumer and Digital Banking",
+   "original_value": "Verified current",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (CEO since May 2023)",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Nabil N. Maroof - CEO Global Asset Management",
+   "original_value": "Verified current; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Confirmed; also CEO of Watani Investment Company (S8)",
+   "source_ids": [
+    "S8"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Pradeep Handa - Chief, Foreign Corporate Banking",
+   "original_value": "Title discrepancy; verify before outreach",
+   "finding": "Could not verify",
+   "new_value": "Discrepancy persists: AR 2025 'Chief, Foreign Corporate Banking' vs website 'CEO - Corporate and Transactional Banking' (duplicate of Boresli). role_status 'Conflicting sources'",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Salah Yousef Al-Fulaij - CEO Kuwait",
+   "original_value": "Verified current; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Confirmed; LinkedIn URL carried over",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Minor"
+  }
+ ],
+ "discrepancies": [
+  {
+   "field": "Pradeep Handa title",
+   "detail": "AR 2025 (S3 p.84): 'Chief, Foreign Corporate Banking'. Official website executive list (S1, checked 2026-10-12): 'Chief Executive Officer - Corporate and Transactional Banking', identical to Ahmad Boresli's title.",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "resolution": "Unresolved; role_status 'Conflicting sources'. Website entry looks like a duplication error."
+  },
+  {
+   "field": "Boresli / Bourisly name spelling",
+   "detail": "Website (S1): 'Ahmad Jassim Mohammad Boresli'; AR 2025 (S3): 'Ahmed Bourisly'. Same title and career.",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "resolution": "Treated as one person; both spellings recorded."
+  },
+  {
+   "field": "PIFSS stake wording",
+   "detail": "AR 2025 p.99 says PIFSS 'owns 6.19% of NBK Capital'; AR p.18 and the 2Q 2026 presentation say 6.19% of the Bank's share capital.",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "resolution": "Read as a drafting error in AR p.99; recorded as 6.19% of NBK."
+  },
+  {
+   "field": "Double counting with Boubyan",
+   "detail": "NBK consolidates Boubyan Bank (60.4%) line by line: Islamic Banking segment total assets KD 10,592,712k (S2) equal Boubyan's own reported total assets at 30 Jun 2026 (S18).",
+   "source_ids": [
+    "S2",
+    "S18"
+   ],
+   "resolution": "Do not add kw-boubyan figures to NBK group totals."
+  }
+ ],
+ "open_items": [
+  "Q3 2026 (30 Sep 2026) results not yet listed on NBK IR page at 12 Oct 2026 (S6); add when published.",
+  "Group AUM is disclosed only annually (KD 8,693m at 31 Dec 2025); scope (whether Boubyan Capital/BLME AUM included) not stated.",
+  "Pradeep Handa's current title conflicts between AR 2025 and website - confirm directly before outreach.",
+  "Amal Al-Duwaisan (Head of Weyay) and Fahad Al-Rushaid Al-Bader (Deputy CEO, Watani Investment Company) rest on news sources only; the Weyay article returned HTTP 403.",
+  "LinkedIn searches did not return profiles for NBK executives in B23; three URLs are carried from the original research (not re-opened).",
+  "Lead 'Watani Investment Company (NBK Capital)': the NBK Capital brand is not used in AR 2025; Watani Investment Company is the legal entity and NBK Invest / NBK Brokerage are its retail brands since Feb 2025.",
+  "No named third-party wealth-tech vendor found. The NetXInvestor login domain is an inference from the URL only - confirm with NBK.",
+  "Boursa Kuwait disclosure PDFs (docs.boursakuwait.com.kw NewsPDF) returned HTTP errors to direct download; ticker 'NBK' / code 101 taken from Kamco and Boursa file naming seen in search results, not opened.",
+  "Affluent segment thresholds (Premium, Thahabi, Elite) and NBK Wealth entry levels are not published on pages checked.",
+  "UPayments acquisition date unclear: AR 2025 shows 51% at both 31 Dec 2024 and 31 Dec 2025."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B23",
+ "checked": "2026-10-12"
+}

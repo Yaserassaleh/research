@@ -1,0 +1,27 @@
+{
+  "note": "Units of local currency per 1 USD. Balance-sheet values are converted at the rate for their own period-end date; income-statement values (FY2025) at the FY2025 average for KWD and at the peg for pegged currencies. Pegged currencies use the official peg for every date.",
+  "checked": "2026-10-12",
+  "pegged": {
+    "AED": {"rate": 3.6725, "basis": "Fixed peg to USD since 1997", "source": "Central Bank of the UAE (CBUAE) — USD peg of AED 3.6725", "url": "https://www.centralbank.ae/en/"},
+    "SAR": {"rate": 3.75, "basis": "Fixed peg to USD since 1986", "source": "Saudi Central Bank (SAMA) — USD peg of SAR 3.75", "url": "https://www.sama.gov.sa/"},
+    "QAR": {"rate": 3.64, "basis": "Fixed peg to USD since 2001", "source": "Qatar Central Bank — USD peg of QAR 3.64", "url": "https://www.qcb.gov.qa/"},
+    "BHD": {"rate": 0.376, "basis": "Fixed peg to USD", "source": "Central Bank of Bahrain — USD peg of BHD 0.376", "url": "https://www.cbb.gov.bh/"},
+    "OMR": {"rate": 0.3845, "basis": "Fixed peg to USD since 1986", "source": "Central Bank of Oman — USD peg of OMR 0.3845", "url": "https://cbo.gov.om/"},
+    "USD": {"rate": 1.0, "basis": "Reporting currency", "source": "n.a.", "url": null}
+  },
+  "KWD": {
+    "basis": "Kuwaiti dinar is pegged to an undisclosed basket; CBK publishes a daily KWD/USD rate in fils per USD. Converted: KWD per USD = fils / 1000.",
+    "source": "Central Bank of Kuwait — Currency: US Dollar daily rates (date-range table), retrieved 2026-10-12",
+    "url": "https://www.cbk.gov.kw/en/monetary-policy/market-operations/exchange-rates/usd",
+    "point_rates": {
+      "2025-12-31": 0.3054,
+      "2026-03-31": 0.30695,
+      "2026-06-30": 0.3079,
+      "2026-09-30": 0.30785
+    },
+    "average_rates": {
+      "FY2025": {"rate": 0.3064, "source": "CBK Exchange Rate Policy page — annual average 2025: 306.4 fils per USD", "url": "https://www.cbk.gov.kw/en/monetary-policy/exchange-rate-policy"},
+      "H1 2026": {"rate": 0.3063, "source": "Computed: simple average of 117 CBK daily USD rates, 4 Jan–30 Jun 2026 (306.30 fils)", "url": "https://www.cbk.gov.kw/en/monetary-policy/market-operations/exchange-rates/usd"}
+    }
+  }
+}

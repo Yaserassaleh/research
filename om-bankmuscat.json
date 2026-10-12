@@ -1,0 +1,1485 @@
+{
+  "id": "om-bankmuscat",
+  "name": "Bank Muscat",
+  "short_name": "Bank Muscat",
+  "legal_name": "Bank Muscat SAOG",
+  "name_ar": "بنك مسقط",
+  "country": "OM",
+  "hq_city": "Muscat",
+  "website": "https://www.bankmuscat.om",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1982 (established as Bank of Muscat; later mergers with Bank Al Ahli Al Omani and Commercial Bank of Oman; listed on MSX 1993)",
+  "regulators": [
+    "CBO",
+    "FSA Oman",
+    "SAMA"
+  ],
+  "listed": true,
+  "exchange": "MSX",
+  "ticker": "BKMB",
+  "parent_id": null,
+  "ownership_summary": "Listed on the Muscat Stock Exchange, with secondary listings on Bahrain Bourse and the London Stock Exchange (GDRs). At 31 Dec 2025 the largest holders were Royal Court Affairs 27.31%, Pension Funds Trust Accounts 19.55%, Ominvest Group 15.00%, Muscat Overseas Group 5.63% and Social Protection Fund 4.99%; others 27.52% (7,324 registered shareholders). The June 2026 investor presentation repeats Royal Court Affairs at 27.31%.",
+  "shareholders": [
+    {
+      "holder": "Royal Court Affairs",
+      "pct": 27.31,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "holder": "Pension Funds Trust Accounts",
+      "pct": 19.55,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "holder": "Ominvest Group",
+      "pct": 15.0,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "holder": "Muscat Overseas Group",
+      "pct": 5.63,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "holder": "Social Protection Fund",
+      "pct": 4.99,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "holder": "Others (widely spread)",
+      "pct": 27.52,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "government_link": "Yes. Royal Court Affairs holds 27.31% (31 Dec 2025 and June 2026), and the Social Protection Fund holds 4.99% (31 Dec 2025). Omani pension funds hold 19.55% through trust accounts (S2, S3). Designated a Domestic Systemically Important Bank (D-SIB) in Oman (S3).",
+  "group_structure": "Single bank with a domestic Islamic window, Meethaq (CBO Islamic licence 13 Jan 2013; 31 branches at 30 Jun 2026), one branch in Riyadh and representative offices in Dubai, Singapore and Tehran (S1). The bank has no operating subsidiaries. It fully owns non-material special purpose vehicles: Muscat Real Estate Company (KSA), Meethaq Sukuk Company LLC (Oman), and BM Innovate Limited, BM SIP Limited and BM Markets Limited (Cayman Islands) (S2 p.168). It holds an associate, SICO BSC (c) in Bahrain (13.14%), which is profiled separately as bh-sico. Asset management, private equity and real estate funds, investment banking and private banking are divisions inside the bank. The Kuwait branch was closed in 2025 (S2 p.119, p.168).",
+  "subsidiaries": [
+    {
+      "name": "SICO BSC (c) (associate, not a subsidiary)",
+      "pct": 13.14,
+      "activity": "Bahrain investment bank, asset manager and broker. Accounted for as an associate.",
+      "linked_id": "bh-sico",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "Meethaq Sukuk Company LLC",
+      "pct": 100.0,
+      "activity": "SPV that issues and acts as trustee for Meethaq sukuk",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "Muscat Real Estate Company (KSA)",
+      "pct": 100.0,
+      "activity": "SPV (not material)",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "BM Innovate Limited (Cayman Islands)",
+      "pct": 100.0,
+      "activity": "SPV used for fintech investments. First investment was in Zopa, a UK digital bank, in 2025.",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "BM SIP Limited (Cayman Islands)",
+      "pct": 100.0,
+      "activity": "SPV (activity not described)",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "name": "BM Markets Limited (Cayman Islands)",
+      "pct": 100.0,
+      "activity": "SPV (activity not described)",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "footprint": "At 30 Jun 2026: 200 branches and service centres in Oman (including 31 Meethaq Islamic branches), one branch in Riyadh, KSA, and representative offices in Dubai, Singapore and Tehran. The bank says it operates in 5 countries (6 at 30 Jun 2025). The Kuwait branch was closed in an orderly way during 2025 (S1, S2, S3).",
+  "customer_segments": "Retail mass and mass-expatriate (Hisaby, launched 2025), affluent (Al Jawhar Privilege Banking), priority (Asalah Priority Banking), private banking (HNW), SME, corporate, government and GREs, institutional and financial institutions, Islamic (Meethaq).",
+  "business_lines": "Segments in the H1 2026 investor presentation: Corporate Banking, Personal Banking (~4.0m retail customers; 169 conventional branches and service centres), Wholesale Banking (treasury, corporate finance, asset management, financial institutions), Meethaq Islamic Banking, and International Operations (KSA branch, SICO associate, representative offices) (S3). Wealth activities sit in several units. Premier banking (Asalah, Al Jawhar, Private Banking) sits in Personal Banking. Asset management, private equity and real estate funds sit under Investment Banking. The bank describes itself as the largest Omani mutual fund manager (S2, S3, S7, S9).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 16292168,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, interim condensed consolidated statement of financial position (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "locator": "S1 PDF p.9 (printed p.1)",
+      "note": "The published interim file does not include an auditor's review report in its text layer."
+    },
+    {
+      "metric": "total_assets",
+      "value": 15129096,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, consolidated statement of financial position (audited, KPMG)",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S1",
+        "S5"
+      ],
+      "locator": "S2 PDF p.163",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 11182420,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits (OMR 9,505,934k) plus Islamic customers' deposits (OMR 1,676,486k). Excludes deposits from banks (OMR 1,416,218k), sukuk and euro medium term notes.",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.9",
+      "note": "Sum computed by us. It matches the presentation's 'Customer Deposits 11,182' (OMR million)."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 10430281,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customers' deposits (OMR 8,741,504k) plus Islamic customers' deposits (OMR 1,688,777k); excludes due to banks",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.163; total confirmed in financial review p.139",
+      "note": ""
+    },
+    {
+      "metric": "net_loans",
+      "value": 11394898,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and advances (OMR 9,688,374k) plus Islamic financing receivables (OMR 1,706,524k), net of impairment. Excludes due from banks.",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.9",
+      "note": "Sum computed by us. The presentation says net loans and financing were OMR 11.4bn."
+    },
+    {
+      "metric": "net_loans",
+      "value": 10742405,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans and advances (OMR 9,083,751k) plus Islamic financing receivables (OMR 1,658,654k), net",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 PDF p.9, comparative column",
+      "note": "Sum computed by us."
+    },
+    {
+      "metric": "gross_loans",
+      "value": 12085,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Gross Loans' in the investor presentation's key financials table (conventional and Islamic)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slide 5",
+      "note": "Rounded presentation figure. FY2025: OMR 11,390m."
+    },
+    {
+      "metric": "total_equity",
+      "value": 2615692,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including Perpetual Tier I capital (OMR 505,320k); equity attributable to equity holders OMR 2,110,372k",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.9",
+      "note": ""
+    },
+    {
+      "metric": "operating_income",
+      "value": 587563,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income': net interest income and income from Islamic financing (OMR 413,005k), plus net commission and fee income (OMR 98,498k), plus other operating income (OMR 76,060k)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.164",
+      "note": ""
+    },
+    {
+      "metric": "operating_income",
+      "value": 302718,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income', interim condensed consolidated statement of comprehensive income (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.10 (printed p.2)",
+      "note": ""
+    },
+    {
+      "metric": "net_profit",
+      "value": 255535,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year. There are no non-controlling interests, so this equals profit attributable to equity holders of the parent. Profit before tax was OMR 304,064k.",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "locator": "S2 PDF p.164",
+      "note": "Chairman's report rounds this to OMR 255.54m."
+    },
+    {
+      "metric": "net_profit",
+      "value": 137493,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period attributable to equity holders of the Parent Company (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.10",
+      "note": "Up 9.3% on H1 2025 (OMR 125,818k)."
+    },
+    {
+      "metric": "aum",
+      "value": 1359365,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group (asset management division)",
+      "definition": "'Funds under management' in the fiduciary activities note (note 36). These are investment management activities conducted as trustee and manager for investment funds and individuals, held off balance sheet.",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.207, note 36",
+      "note": "31 Dec 2024: OMR 1,246,323k. Differs from the narrative AUM figure (see the next record and discrepancies)."
+    },
+    {
+      "metric": "aum",
+      "value": 3.9,
+      "unit": "billion",
+      "currency": "USD",
+      "period_end": "2025-12-31",
+      "period_label": "Q4 2025",
+      "period_type": "point_in_time",
+      "scope": "Group (asset management)",
+      "definition": "'Total assets under management (AUM)' as stated in the Investment Banking review. The chairman's report gives OMR 1.5bn (USD 3.9bn), up 8% year on year.",
+      "status": "Conflicting sources",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 p.10 (Chairman's report) and p.118 (MD&A)",
+      "note": "Rounded narrative figure. It is higher than the audited fiduciary-note figure of OMR 1.36bn."
+    },
+    {
+      "metric": "customers",
+      "value": 4.0,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group (Oman retail)",
+      "definition": "'Customer base of ~4.0 mn' and '~4.0 mn retail customers in Oman' (approximate; the source does not say whether these are active or registered)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slides 5 and 16",
+      "note": "Approximate figure."
+    },
+    {
+      "metric": "digital_registered_users",
+      "value": 2.4,
+      "unit": "million",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "2025 (award submission)",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "'Digital registrations exceed 2.4 million, well over half of its client base' (Euromoney award write-up)",
+      "status": "Requires verification",
+      "source_ids": [
+        "S12"
+      ],
+      "locator": "Best bank section",
+      "note": "Comes from a third-party award write-up. The annual report gives only 17% growth in registered digital users in 2025 (S2 p.116)."
+    },
+    {
+      "metric": "employees",
+      "value": 4479,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Employees (note 1)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.13, note 1",
+      "note": "31 Dec 2025: 4,462 (S2)."
+    },
+    {
+      "metric": "branches",
+      "value": 200,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Oman",
+      "definition": "Branches including service centres in Oman, which include 31 Meethaq branches. Separately, there is one branch in Riyadh.",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.13, note 1",
+      "note": "The H1 2026 note gives 200 branches including service centres (192 at 30 Jun 2025)."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 annual report (S2), H1 2026 statements (S1), June 2026 investor presentation (S3), private banking pages (S7)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "S2, S3, mobile app descriptions in S2 p.116 and S17. No in-app investing user numbers found."
+    },
+    {
+      "metric": "aua",
+      "status": "Not found after research",
+      "where_checked": "S2 fiduciary note 36 (funds under management only), Basel/Pillar III section of S2. Bank Muscat is FSA-licensed as a custodian (S10), but no custody/AUA figure was found."
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "status": "Not found after research",
+      "where_checked": "S2, S3, FSA register (S10): no brokerage licence listed for Bank Muscat."
+    }
+  ],
+  "people": [
+    {
+      "name": "Sheikh Khalid bin Mustahail Al Mashani",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2011-04",
+      "appointed_note": "Chairman since April 2011; Deputy Chairman from March 1999 to April 2011. Also chairs the Nomination and Compensation Committee.",
+      "previous_roles": "1999–2011 Deputy Chairman, Bank Muscat. External: Chairman, Dhofar International Development Investment Holding Co. SAOG; board member, Al Omaniya Financial Services SAOG and Dhofar Food & Investment Co. SAOG.",
+      "education": "BSc Economics (UK); Master's degree in International Boundary Studies, School of Oriental and African Studies, University of London",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "FY2025 annual report board list and profile (S2 pp.12, 23). FSA register lists him as Chairman, checked 2026-10-12 (S10). No change news found.",
+      "source_ids": [
+        "S2",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Ahmed bin Hamed bin Hilal Al Sadi",
+      "name_ar": null,
+      "title": "Deputy Chairman of the Board of Directors",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "FY2025 annual report board list (S2 p.12, p.24). FSA register lists him as a director, checked 2026-10-12 (S10).",
+      "source_ids": [
+        "S2",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Waleed Khamis Al Hashar",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2019-01",
+      "appointed_note": "Appointment effective 1 Jan 2019, per Oman Observer (seen in search results only). Forbes Middle East says he joined Bank Muscat in 2004 (seen in search results only).",
+      "previous_roles": "Over 32 years across banking and oil and gas. Before Bank Muscat he held senior positions at Petroleum Development Oman and HSBC Bank Middle East. External: board member, Oman Banks Association and SICO BSC; trustee, Royal Academy of Management and College of Banking & Financial Studies.",
+      "education": "Postgraduate Diploma in General Management, Harvard Business School; BSc and MBA, California State University, Sacramento",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6). FY2025 annual report profile (S2 p.25). No departure news found. A LinkedIn search returned no matching profile.",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S19",
+        "S20"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmed Faqir Al Bulushi",
+      "name_ar": null,
+      "title": "Deputy CEO – Banking",
+      "functions": [
+        "Deputy CEO",
+        "Retail",
+        "Corporate / wholesale"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date as Deputy CEO not stated.",
+      "previous_roles": "Joined Bank Muscat in 1994 as Internal Auditor. Later roles included Internal Audit, Operations, IT, DGM Human Resources and Chief Corporate Banking Officer. He was also CEO of Bank Muscat International Businesses in KSA. His remit covers Corporate Banking, Retail Banking, Treasury & Global Financial Institutions, Project & Structured Finance and KSA operations.",
+      "education": "Executive MBA, HEC Paris; Advanced Management Program, INSEAD",
+      "qualifications": "Fellow, ACCA (UK)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6). FY2025 annual report profile (S2 p.25). FSA register staff list (S10).",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "T. Ganesh (Ganesh Thangavel)",
+      "name_ar": null,
+      "title": "Deputy CEO – Finance & Investment Banking",
+      "functions": [
+        "Deputy CEO",
+        "Finance",
+        "Investments / asset management"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Finance & Investment Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Responsible for Group Finance and Business Planning, Capital and Funding, and Treasury and Investment Operations, plus Investment Banking, Asset Management and Enterprise Growth. 30 years post-qualification, 28 of them in banking.",
+      "education": "Postgraduate diploma in General Management, Harvard Business School",
+      "qualifications": "Chartered Accountant (ICAI); Certified Management Accountant (IMA, USA); Cost Accountant (ICWA India)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6). FY2025 annual report profile states his asset management remit (S2 p.26).",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S10"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikha Yousuf Al Farsi",
+      "name_ar": null,
+      "title": "Deputy CEO – Operations",
+      "functions": [
+        "Deputy CEO",
+        "Operations",
+        "Technology",
+        "Innovation / partnerships"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Operations",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Previously Chief Operating Officer.",
+      "previous_roles": "Chief Operating Officer; Chief Strategy & Corporate Services Officer; GM Strategy and Organizational Development; AGM Financial Control and Strategy (all Bank Muscat). Earlier, Acting Director General of Investment Promotion at the Omani Centre for Investment Promotion and Export Development. Her remit covers operations, IT, credit and legal, enterprise project management and innovation, HR, corporate communications and CSR, and customer experience.",
+      "education": "BSc Commerce and Economics, Sultan Qaboos University (1999); MSc Finance, Bayes (Cass) Business School, City, University of London (2005); General Management Program, Harvard Business School; Advanced Management Program, INSEAD",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6). FY2025 annual report profile (S2 p.25).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulnasir Noori Al Raisi",
+      "name_ar": null,
+      "title": "General Manager – Personal Banking",
+      "functions": [
+        "Retail",
+        "Affluent",
+        "Private banking"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Personal Banking (incl. Asalah, Al Jawhar, Private Banking)",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "Quoted as GM Personal Banking on private banking awards in May 2023 and Dec 2025.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6). Quoted on the MEED Best Private Bank award, 18 Dec 2025 (S14), and the EMEA Finance award, May 2023 (S16). The LinkedIn search returned no profile.",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S14",
+        "S16"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Tamman Al Maashani",
+      "name_ar": null,
+      "title": "General Manager – Products",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Products",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "In Sep 2021 he was DGM Institutional Sales and Product Development and represented the bank on the Schroders wealth alliance.",
+      "previous_roles": "2021: Deputy General Manager, Institutional Sales and Product Development, Bank Muscat (S15).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6); FY2025 annual report management list (S2 p.112). Which products his remit covers is not stated.",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S15"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalifa Abdullah Al Hatmi",
+      "name_ar": null,
+      "title": "Deputy General Manager – Investment Banking & Capital Markets",
+      "functions": [
+        "Corporate / wholesale",
+        "Investments / asset management"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Investment Banking & Capital Markets",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "The annual report reports AUM under its 'Investment Banking' review, but does not say whether asset management reports to him.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6); FY2025 annual report management list (S2 p.112).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmed Musallam Al Barami",
+      "name_ar": null,
+      "title": "Deputy General Manager – Relationships and Placements",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Relationships and Placements",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Remit not described in the sources opened.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6); FY2025 annual report management list (S2 p.112).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Hamood Al Jufaili",
+      "name_ar": null,
+      "title": "Assistant General Manager – Digital Banking",
+      "functions": [
+        "Digital"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Digital Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6); FY2025 annual report management list (S2 p.113). The LinkedIn search returned no profile.",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Hassan Al Lawati",
+      "name_ar": null,
+      "title": "Assistant General Manager – Innovation & Enterprise Project Management",
+      "functions": [
+        "Innovation / partnerships"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Innovation & Enterprise Project Management",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6); FY2025 annual report (S2 p.113).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ahmed Omar Al Ojaili",
+      "name_ar": null,
+      "title": "General Manager – Technology",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Technology",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6); FY2025 annual report (S2 p.112).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Azzan Masuod Al Aisiri",
+      "name_ar": null,
+      "title": "Assistant General Manager – Strategy & Executive Management Office",
+      "functions": [
+        "Strategy"
+      ],
+      "entity": "Bank Muscat SAOG",
+      "business_unit": "Strategy & Executive Management Office",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6); FY2025 annual report (S2 p.113).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khaled Alkayd",
+      "name_ar": null,
+      "title": "General Manager – Islamic Banking",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Bank Muscat SAOG (Meethaq)",
+      "business_unit": "Meethaq Islamic Banking",
+      "scope": "Oman",
+      "appointed": "2026",
+      "appointed_note": "He is not in the FY2025 annual report management list (S2 pp.112-113) but appears on the live management page, so he was probably appointed during 2026. No announcement was found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6).",
+      "source_ids": [
+        "S6"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sami Arfah Bait Rashid",
+      "name_ar": null,
+      "title": "Assistant General Manager – Meethaq Personal Banking",
+      "functions": [
+        "Islamic / Shariah",
+        "Retail"
+      ],
+      "entity": "Bank Muscat SAOG (Meethaq)",
+      "business_unit": "Meethaq Personal Banking",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S6); FY2025 annual report (S2 p.113).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Bank Muscat has a tiered premier proposition: Al Jawhar Privilege Banking, then Asalah Priority Banking (for example OMR 30,000 in savings or OMR 3,500 monthly salary), then Private Banking for HNW clients, with an invitation-only Visa Infinite card and desks at four locations. Products include global equities, ETFs, mutual funds and bonds, offshore and portfolio management through 'reputed global counterparties', private equity and real estate funds, and tailored credit. Private banking won Best Private Bank in Oman from MEED (Dec 2025) and Euromoney (Mar 2026). In 2025 it added a private credit fund 'in partnership with one of the world's largest private assets managers' (not named) and a Life Settlement Fund. The in-house asset management division calls itself the largest Omani mutual fund manager. Its AUM was USD 3.9bn in Q4 2025 by the narrative figure, against OMR 1.36bn of funds under management in the audited fiduciary note. Funds include the Oryx Fund, the Money Market Fund (OMR 250m, the largest open-ended fund in Oman), the Al Tharwa Fund, India fund share classes and GCC real estate funds. It also offers discretionary portfolios for large clients and capital protected notes. Schroders became a strategic partner in 2021, supplying a digital risk-profiling tool and fund strategies. No investing feature was found in the retail mobile app, which was relaunched in 2025 with 200+ features. Bank Muscat holds no FSA brokerage licence.",
+    "segments": [
+      {
+        "name": "Hisaby",
+        "tier": "Mass market (expatriates)",
+        "eligibility": "Launched 2025 for mass expatriate customers, with 20 Hisaby Centres. Eligibility not published in opened sources.",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "name": "Al Jawhar Privilege Banking",
+        "tier": "Mass affluent",
+        "eligibility": "Threshold not found (product page did not render). 72 dedicated Al Jawhar desks and a priority call-centre queue by end-2025.",
+        "source_ids": [
+          "S2",
+          "S7"
+        ]
+      },
+      {
+        "name": "Asalah Priority Banking",
+        "tier": "Affluent",
+        "eligibility": "Asalah T&C (undated): savings OMR 30,000 quarterly average balance; or call/current account OMR 60,000; or fixed deposits OMR 250,000; or home/personal loans OMR 150,000 outstanding; or salary credit OMR 3,500 per month. Criteria must be met continuously. Four new Asalah Centres opened in 2025.",
+        "source_ids": [
+          "S8",
+          "S2"
+        ]
+      },
+      {
+        "name": "Bank Muscat Private Banking",
+        "tier": "HNW",
+        "eligibility": "'High net worth customers'; no threshold published. Visa Infinite card by invitation, credit limit from OMR 15,000. Desks at Head Office (Airport Heights), Madinat Sultan Qaboos, Azaiba and Sohar.",
+        "source_ids": [
+          "S7",
+          "S14"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Private Banking for HNW clients: dedicated RMs, personalised wealth management, global equities, ETFs, mutual funds and bonds, offshore banking and portfolio management through 'reputed global counterparties', private equity and real estate funds, and tailored credit (discretionary, property, yacht and luxury car loans). Research reports are provided. Euromoney (Mar 2026) calls it 'the only player in Oman to offer a complete private banking offering', including jumbo life insurance. Award recognition: MEED Dec 2025, Euromoney 2026 and EMEA Finance 2023.",
+      "source_ids": [
+        "S7",
+        "S11",
+        "S14",
+        "S16"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "In-house division, not a separate legal entity. FSA-licensed for Investment Manager, Portfolio Management, Fund Administration, Custodian, Investment Advice and Marketing of non-Omani securities. AUM: USD 3.9bn (Q4 2025, narrative) / OMR 1,359,365k funds under management (audited fiduciary note, 31 Dec 2025). Funds: Bank Muscat Oryx Fund (MENA equities), Money Market Fund (OMR 250m), Al Tharwa Fund (income), India Dynamic Fund and India Equity Fund of Funds (Mauritius), Enhanced Fixed Income Plan, MENA Dividend Aristocrats and Emerging Markets portfolios for institutions. Private equity and real estate: Izdihar Real Estate Fund, BM GCC Property Income Fund L.P., Oman Integrated Tourism Projects Fund. Clients include pension funds, SWFs, HNWIs and corporates.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S9",
+        "S10"
+      ]
+    },
+    "brokerage": {
+      "present": "Unclear",
+      "detail": "The FSA register does not list Brokerage among Bank Muscat's licensed securities activities, so it is not an MSX broker. Private Banking offers 'trading across global markets', global ETFs and bonds through an execution platform managed by RMs. The broker or counterparty is not named.",
+      "source_ids": [
+        "S10",
+        "S21",
+        "S7",
+        "S16"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "The 2025 mobile app relaunch (200+ features, instant loans, eKYC, Themar savings plans) shows no investing feature. A 2017 'Bank Muscat Asset Management' app was informational, covering fund information and investment education. A Systematic Investment Plan of OMR 50 per month is offered, but no digital channel is stated for it.",
+      "source_ids": [
+        "S2",
+        "S17",
+        "S18",
+        "S9"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Private Banking and premier RMs give personalised wealth advice. Since 2021 an interactive digital risk-profiling tool from Schroders has been offered to eligible clients. In 2025, 87 Premier Banking RMs were training for the CISI International Certificate in Wealth & Investment Management.",
+      "source_ids": [
+        "S7",
+        "S15",
+        "S2"
+      ]
+    },
+    "discretionary": {
+      "present": "Yes",
+      "detail": "The asset management division offers discretionary portfolio management to large clients, with diversified growth, trading, dividend yield and concentrated strategies. Private Banking offers portfolio management through global counterparties. The bank holds an FSA Portfolio Management licence.",
+      "source_ids": [
+        "S9",
+        "S7",
+        "S10"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No model portfolios or robo-advice found on the bank site, in the annual report or in the presentation. The Schroders tool (2021) is for risk profiling.",
+      "source_ids": [
+        "S2",
+        "S15"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Private Banking offers global mutual funds and ETFs. Schroders' strategies were offered through a third-party dealing platform under the 2021 alliance. The platform provider is not named.",
+      "source_ids": [
+        "S7",
+        "S15"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Capital Protected Notes for HNIs and institutional investors (asset management page). No terms published.",
+      "source_ids": [
+        "S9"
+      ]
+    },
+    "private_markets": {
+      "present": "Yes",
+      "detail": "Private equity and real estate funds through Private Banking and the in-house private equity unit, which works across five jurisdictions. In 2025 the bank launched a Private Credit Fund 'in partnership with one of the world's largest private assets managers' (not named) and a Life Settlement Fund. Real estate team: sold a Dubai JBR hotel (Jan 2025) and bought Dubai Sports City property (May 2025).",
+      "source_ids": [
+        "S7",
+        "S9",
+        "S11",
+        "S12",
+        "S2"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Unclear",
+      "detail": "Meethaq is an Islamic window with 31 branches, sukuk, an IILM primary dealer role and advisory to companies seeking MSX Shari'a Index inclusion. No Shariah-compliant fund or wealth product for individuals was identified in the sources opened.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "ETFs",
+      "Mutual funds",
+      "Bonds",
+      "Structured products",
+      "Private markets / alternatives",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Schroders",
+        "kind": "Product partner and digital risk-profiling tool",
+        "what": "Long-term strategic alliance: an interactive digital risk-profile tool for eligible clients and access to Schroders strategies through a third-party dealing platform",
+        "date": "2021-09-07",
+        "status": "Unclear",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "partner": "Unnamed global private assets manager",
+        "kind": "Product partner (private credit)",
+        "what": "Partner on the Private Credit Fund launched in early 2025 ('one of the world's largest private assets managers')",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "partner": "Infosys Finacle",
+        "kind": "Digital banking technology (scope unclear)",
+        "what": "Finacle gave Bank Muscat its Platinum Award for growth in mobile banking users (2025), which implies a Finacle relationship. The modules used are not stated.",
+        "date": "2025-07-01",
+        "status": "Unclear",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "partner": "Ducont",
+        "kind": "Mobile app technology (inferred)",
+        "what": "The Android app package ID listed in the annual report is 'com.ducont.muscatBank'. This suggests Ducont built or maintains the app but does not confirm it.",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S2"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-09-07",
+        "what": "Strategic alliance with Schroders: digital risk profiling and access to Schroders investment strategies, to grow wealth management",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched a Private Credit Fund (with a large global private assets manager) and a Life Settlement Fund as part of a new alternatives offering",
+        "source_ids": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Relaunched the mobile app (200+ features); first instant personal loans via mobile in Oman; registered digital users +17%",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched the Hisaby mass-expatriate segment (20 centres), opened four new Asalah Centres and 72 Al Jawhar desks",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Closed the Kuwait branch; continued in KSA through the Riyadh branch",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "BM Innovate made its first investment, in Zopa, a UK digital bank",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025-07",
+        "what": "Launched the Jadarah Artificial Intelligence Academy and an AI Lab programme, with the aim of tripling AI adoption in two years",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025-12-31",
+        "what": "AUM rose 8% to USD 3.9bn; the Money Market Fund reached OMR 250m, the largest open-ended fund in Oman",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025-12-18",
+        "what": "Named Best Private Bank in Oman by MEED (MENA Excellence Wealth and Private Banking Awards)",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2026-03-20",
+        "what": "Named Best private bank, Oman, in Euromoney Private Banking Awards 2026",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "date": "2026-07-28",
+        "what": "H1 2026 results: net profit OMR 137.5m (+9.3%); presentation cites 'strong growth potential in the high net worth market segment'",
+        "source_ids": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "Oman's largest asset manager (USD 3.9bn AUM in Q4 2025) and ~4.0m customers, but no investing feature was found in the retail mobile app relaunched in 2025 (S2, S3).",
+        "The June 2026 investor presentation lists 'strong growth potential in the high net worth market segment' and plans to expand asset management outside Oman (S3).",
+        "Private banking is adding third-party alternatives: a private credit fund with an unnamed global manager and a Life Settlement Fund in 2025 (S11, S12).",
+        "RM capability build: 87 Premier Banking RMs in CISI wealth certification and an AI Academy launched in Jul 2025 (S2).",
+        "Mass segments are growing (Hisaby launched 2025; >2.4m digital registrations per Euromoney), with no digital investing offer found for them (S2, S12)."
+      ],
+      "barriers": [
+        "Strong in-house investment franchise: an asset management division, private equity and real estate teams, an investment bank, and FSA licences for portfolio management, investment management, fund administration and custody (S9, S10).",
+        "Existing wealth partners and counterparties: Schroders (risk profiling and strategies since 2021) and unnamed 'reputed global counterparties' for offshore and portfolio management (S7, S15).",
+        "No FSA brokerage licence, so execution partners would be needed for any self-directed investing (S10).",
+        "Building in-house technology and AI: the Jadarah AI Academy, a Command Center and 70 concurrent projects (S2)."
+      ],
+      "incumbent_vendors": [
+        "Schroders: digital risk-profiling tool and fund strategies (S15)",
+        "Infosys Finacle: Platinum Award for mobile banking user growth; scope unclear (S17)",
+        "Ducont: inferred from the Android app package ID (S2)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Bank Muscat SAOG: Interim condensed consolidated financial statements for the six months ended 30 June 2026 (unaudited)",
+      "publisher": "Bank Muscat SAOG",
+      "url": "https://www.bankmuscat.om/en/investorrelations/QuarterlyReports/MSM_0626.pdf",
+      "doc_type": "Interim financial statements (exchange filing copy on IR site)",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Approved by the Board 28 Jul 2026. PDF pages 3-8 are images (Chairman's report) and could not be read."
+    },
+    {
+      "id": "S2",
+      "title": "Bank Muscat Annual Report 2025 (incl. audited consolidated financial statements, corporate governance, Pillar III, MD&A)",
+      "publisher": "Bank Muscat SAOG",
+      "url": "https://www.bankmuscat.om/en/investorrelations/AnnualReports/Annual_Report_EN_2025.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Financial statements were authorised 2 Mar 2026. The file was read with tools/pdftext.py, and page numbers are PDF pages."
+    },
+    {
+      "id": "S3",
+      "title": "Investors Presentation, June 2026",
+      "publisher": "Bank Muscat SAOG",
+      "url": "https://www.bankmuscat.om/en/investorrelations/FinancialPresentation/BM_Investor_Presentation_Jun_2026.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S4",
+      "title": "Investor Relations: Quarterly Reports",
+      "publisher": "Bank Muscat SAOG",
+      "url": "https://www.bankmuscat.om/en/investorrelations/Pages/Quarterly-Reports.aspx",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists Q1 and Q2 2026 reports only. Q3 2026 was not yet published on 12 Oct 2026."
+    },
+    {
+      "id": "S5",
+      "title": "Investor Relations: Financial Reports",
+      "publisher": "Bank Muscat SAOG",
+      "url": "https://www.bankmuscat.om/en/investorrelations/pages/reports.aspx",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists the 2025 annual report, audited statements, shareholders booklet and annual results."
+    },
+    {
+      "id": "S6",
+      "title": "Management",
+      "publisher": "Bank Muscat SAOG",
+      "url": "https://www.bankmuscat.om/en/about/pages/management.aspx",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "39 executives listed."
+    },
+    {
+      "id": "S7",
+      "title": "Private Banking / Premier Banking",
+      "publisher": "Bank Muscat SAOG",
+      "url": "https://www.bankmuscat.om/en/premierbanking/Pages/details.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S8",
+      "title": "Asalah Priority Banking Terms and Conditions",
+      "publisher": "Bank Muscat SAOG",
+      "url": "https://www.bankmuscat.om/en/premierbanking/Documents/Asalah_TC.pdf",
+      "doc_type": "Official product terms",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Undated bilingual PDF. A search snippet of another version showed loans at OMR 60,000; the opened file says OMR 150,000."
+    },
+    {
+      "id": "S9",
+      "title": "Investments: Asset Management and Private Equity",
+      "publisher": "Bank Muscat SAOG",
+      "url": "https://www.bankmuscat.om/en/investments/Pages/details.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Fund pages say funds are 'regulated by the Capital Market Authority', the former name of the FSA."
+    },
+    {
+      "id": "S10",
+      "title": "Licensed & Accredited: Bank Muscat (Companies working in the field of securities)",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/DisplayCompanyDetails?companyType=6&companyId=21&selectedCompanyType=6",
+      "doc_type": "Regulator register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "FSA registration 29/07/2015, licence expiry 31/12/2027. Activities: Custodian, Investment Advice & Research, Portfolio Management, Investment Manager, Issue Management, Marketing non-Omani Securities, Fund Administration. Shareholder figures in the register are older (pension funds 19.64%). Opened with curl because WebFetch failed on the site's certificate."
+    },
+    {
+      "id": "S11",
+      "title": "Private banking awards national winners 2026: Oman",
+      "publisher": "Euromoney",
+      "url": "https://www.euromoney.com/article/4ds97203g1a8c8c4gk0oo0gk8/private-banking-awards-national-winners-2026-oman/",
+      "doc_type": "News / awards write-up",
+      "tier": 5,
+      "published": "2026-03-20",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S12",
+      "title": "Awards for Excellence national winners 2026: Oman",
+      "publisher": "Euromoney",
+      "url": "https://www.euromoney.com/article/496ji9sbfjy84owoko8ccg8g4/awards-for-excellence-national-winners-2026-oman/",
+      "doc_type": "News / awards write-up",
+      "tier": 5,
+      "published": "2026-07-17",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S14",
+      "title": "Bank Muscat honoured with the Best Private Bank in Oman Award by MEED",
+      "publisher": "Black & White Oman",
+      "url": "https://blackandwhiteoman.com/bank-muscat-honoured-with-the-best-private-bank-in-oman-award-by-meed/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-12-18",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Local Omani media; reproduces the bank's announcement."
+    },
+    {
+      "id": "S15",
+      "title": "Schroders forges long-term strategic alliance with Bank Muscat",
+      "publisher": "Private Banker International",
+      "url": "https://www.privatebankerinternational.com/news/schroders-forges-long-term-strategic-alliance-with-bank-muscat/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-09-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S16",
+      "title": "Bank Muscat wins Best Private Bank award from EMEA Finance",
+      "publisher": "Oman Observer",
+      "url": "https://www.omanobserver.om/article/1136817/business/banking/bank-muscat-wins-best-private-bank-award-from-emea-finance",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2023-05-08",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S17",
+      "title": "Bank Muscat honoured with Platinum Award (Infosys Finacle)",
+      "publisher": "Black & White Oman",
+      "url": "https://blackandwhiteoman.com/?p=36091",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-07-01",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S18",
+      "title": "Bank Muscat Asset Management app showcases world of investment",
+      "publisher": "Oman Observer",
+      "url": "https://www.omanobserver.om/ampArticle/89297",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2017-01-25",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Historical context only."
+    },
+    {
+      "id": "S19",
+      "title": "Bank Muscat appoints new CEO",
+      "publisher": "Oman Observer",
+      "url": "https://www.omanobserver.om/ampArticle/53520",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2018",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only. The snippet says the appointment of Sheikh Waleed K. Al Hashar as CEO commences 1 January 2019."
+    },
+    {
+      "id": "S20",
+      "title": "Top CEOs in the Middle East: Waleed Khamis Al Hashar",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-ceos-in-the-middle-east/waleed-khamis-al-hashar/",
+      "doc_type": "News / ranking list",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only. The snippet says he joined Bank Muscat in 2004."
+    },
+    {
+      "id": "S21",
+      "title": "Licensed & Accredited: Companies working in the field of securities (list)",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/AuthorizedAndAccredited?companyType=6",
+      "doc_type": "Regulator register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read in the browser. 32 entities are listed, including Bank Muscat and Sohar International Bank."
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "AUM",
+      "detail": "The narrative in the chairman's report and MD&A gives total AUM of OMR 1.5bn / USD 3.9bn in Q4 2025 (+8%). The audited fiduciary note 36 gives funds under management of OMR 1,359,365k at 31 Dec 2025.",
+      "source_ids": [
+        "S2"
+      ],
+      "resolution": "Both recorded. The audited note is marked Verified and the narrative figure Conflicting sources. The narrative may include assets outside the trustee/manager scope of the note; this is not explained."
+    },
+    {
+      "field": "Money Market Fund size",
+      "detail": "The chairman's report says the fund 'exceeded OMR 230 million by the end of December 2025', while the MD&A says it 'crossed ... AUM at OMR 250 million, the highest ever'. The MD&A figure may be a peak during the year.",
+      "source_ids": [
+        "S2"
+      ],
+      "resolution": "Not recorded as a metric; cited in capabilities as OMR 250m (peak, per MD&A)."
+    },
+    {
+      "field": "Chief Risk Officer and Islamic banking head",
+      "detail": "The FY2025 annual report lists Anil Kumar as Chief Risk Officer and no GM Islamic Banking. The live management page (12 Oct 2026) shows Antonio Gamez Munoz as CRO and Khaled Alkayd as GM Islamic Banking.",
+      "source_ids": [
+        "S2",
+        "S6"
+      ],
+      "resolution": "Used the live page. No appointment announcements were found."
+    },
+    {
+      "field": "Asalah eligibility",
+      "detail": "The opened T&C PDF says home/personal loans OMR 150,000 outstanding. A search snippet of the same document showed OMR 60,000 with a minimum salary of OMR 1,000.",
+      "source_ids": [
+        "S8"
+      ],
+      "resolution": "Used the opened PDF. The T&C is undated."
+    }
+  ],
+  "open_items": [
+    "Lead check: 'Muscat Capital / asset management and brokerage' is not supported as a current subsidiary. The June 2026 presentation timeline mentions 'Muscat Capital LLC launched' as a past milestone, but the FY2025 annual report lists no such subsidiary, only SPVs and the SICO associate. Asset management is an in-house division, and the FSA register shows no brokerage licence.",
+    "Lead check: 'Saudi/Kuwait presence' is partly out of date. The Kuwait branch was closed during 2025. KSA presence continues through the Riyadh branch, plus representative offices in Dubai, Singapore and Tehran.",
+    "No named head of Private Banking or Asset Management was found on the official management page. An undated Amwal Al Ghad item (seen in search results only, not cited) names Ali Said Ali as DGM Asset Management and Private Banking; this needs current confirmation.",
+    "The partner behind the 2025 Private Credit Fund and the manager of the Life Settlement Fund are not named in any source opened.",
+    "Al Jawhar Privilege Banking eligibility could not be read: the product page renders only template placeholders.",
+    "Q3 2026 results were not yet published on the IR site on 12 Oct 2026. Re-check late October.",
+    "MSX ticker BKMB is taken from data-provider URLs (Gulfbase) seen in search results; confirm on msx.om.",
+    "LinkedIn checks for the CEO, GM Personal Banking and AGM Digital Banking returned no matching profiles. Other people were not checked.",
+    "The H1 2026 Chairman's report (PDF pages 3-8) is image-only and was not read, so no 2026 strategy statements were taken from it.",
+    "Whether the 2025 mobile app relaunch includes any investment features (fund subscription, SIP) was not confirmed. The app store listing was not opened."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B30",
+  "checked": "2026-10-12"
+}

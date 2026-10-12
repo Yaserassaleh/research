@@ -1,0 +1,1620 @@
+{
+ "id": "kw-kamco",
+ "name": "Kamco Invest",
+ "short_name": "Kamco Invest",
+ "legal_name": "Kamco Investment Company K.S.C.P.",
+ "name_ar": "كامكو إنفست",
+ "country": "KW",
+ "hq_city": "Kuwait City",
+ "website": "https://www.kamcoinvest.com",
+ "linkedin_company": "https://www.linkedin.com/company/kamco-investment-company/",
+ "category": "Non-bank",
+ "type": "Asset & wealth manager",
+ "model": "Not applicable",
+ "founded": "1998 (established 16 Sep 1998 as KIPCO Asset Management Company; renamed KAMCO Investment Company 29 Dec 2014; merged with Global Investment House in 2019)",
+ "regulators": [
+  "CMA Kuwait",
+  "CBK (investment and finance company)",
+  "DFSA - KAMCO Investment Company (DIFC) Limited",
+  "CMA Saudi Arabia - Kamco Invest - Saudi"
+ ],
+ "listed": true,
+ "exchange": "Boursa Kuwait",
+ "ticker": "KAMCO",
+ "parent_id": "kw-burgan",
+ "ownership_summary": "Boursa Kuwait-listed since 20 Oct 2003. The H1 2026 statements name United Gulf Bank B.S.C. as Parent Company and KIPCO as Ultimate Parent. UGB has been 100% owned by Burgan Bank since 2025, so Kamco is an indirect Burgan subsidiary (63.01% effective interest in Burgan's FY2025 accounts). Kamco's Facts page lists KIPCO Group Companies (United Gulf Bank, Burgan Bank) at 62.92% (disclosure dated 16 Dec 2019) and Alpha Group Holding Co. (Ibrahim Abdulrahman Alasfoor & Group) at 11.03% (disclosure dated 8 Sep 2026). On 21 Sep 2026 the board recommended renaming the company 'Burgan Capital Investment Company'. As of 12 Oct 2026 this was still subject to General Assembly approval and regulatory/legal procedures, and no meeting date had been announced.",
+ "shareholders": [
+  {
+   "holder": "KIPCO Group Companies (United Gulf Bank, Burgan Bank)",
+   "pct": 62.92,
+   "as_of": "2019-12-16",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "holder": "Ibrahim Abdulrahman Alasfoor & Group (Alpha Group Holding Co.)",
+   "pct": 11.03,
+   "as_of": "2026-09-08",
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "government_link": "No direct government shareholder identified; the controlling group (KIPCO / Burgan Bank / UGB) is privately controlled and listed.",
+ "group_structure": "Kamco Investment Company K.S.C.P. is owned by United Gulf Bank B.S.C. (Bahrain; to be renamed Burgan Bank Bahrain), which Burgan Bank K.P.S.C. has owned 100% since 2025. Burgan is in turn a KIPCO subsidiary. Kamco's main subsidiaries (effective Burgan-group interests at 31 Dec 2025, from Burgan's FY2025 note) are: First Securities Brokerage Company (Oula Wasata, brokerage, Kuwait), KAMCO Investment Company (DIFC) Limited, KAMCO Investment Company - Saudi Arabia (Kamco Invest - Saudi), Manafee Investment Company (Bahrain), Nawasi United Holding, GCC Tech Invest (Jersey), Kamco European Logistics (Luxembourg) and consolidated funds (Kuwait Private Equity Opportunities Fund, KAMCO Global Fund, KAMCO Mena Plus Fixed Income Fund). The brokerage network also lists Global Investment House Jordan. DOUBLE COUNTING: Kamco's balance sheet (KWD 145.8m total assets at 30 Jun 2026) is consolidated in Burgan Bank's group totals (kw-burgan), so do not add it to Burgan's. Kamco's AUM (USD 18.0bn) is client assets held off balance sheet and is the Burgan group's main AUM figure; count it once only.",
+ "subsidiaries": [
+  {
+   "name": "First Securities Brokerage Company K.S.C. (Closed) (Oula Wasata)",
+   "pct": null,
+   "activity": "Brokerage, Boursa Kuwait (Burgan-group effective interest 58.74% at 31 Dec 2025)",
+   "linked_id": null,
+   "source_ids": [
+    "S15",
+    "S17"
+   ]
+  },
+  {
+   "name": "KAMCO Investment Company (DIFC) Limited",
+   "pct": null,
+   "activity": "Investment management, DIFC (Burgan-group effective interest 63.01% at 31 Dec 2025)",
+   "linked_id": null,
+   "source_ids": [
+    "S17"
+   ]
+  },
+  {
+   "name": "KAMCO Investment Company - Saudi Arabia (Kamco Invest - Saudi)",
+   "pct": null,
+   "activity": "Financial services / asset management, KSA (Burgan-group effective interest 63.01% at 31 Dec 2025)",
+   "linked_id": null,
+   "source_ids": [
+    "S17",
+    "S7"
+   ]
+  },
+  {
+   "name": "Global Investment House Jordan",
+   "pct": null,
+   "activity": "Brokerage, Jordan (listed in Kamco brokerage network)",
+   "linked_id": null,
+   "source_ids": [
+    "S15"
+   ]
+  },
+  {
+   "name": "Manafee Investment Company",
+   "pct": null,
+   "activity": "Investment, Bahrain (Burgan-group effective interest 46.28%)",
+   "linked_id": null,
+   "source_ids": [
+    "S17"
+   ]
+  }
+ ],
+ "footprint": "Head office at Al Shaheed Tower, Khalid Bin Al-Waleed Street, Sharq, Kuwait City (H1 2026 statements). Subsidiaries or operations in the DIFC (UAE), Saudi Arabia, Bahrain, Jordan (brokerage), Jersey and Luxembourg. Kuwait brokerage via Oula Wasata.",
+ "customer_segments": "Institutional investors, HNW individuals and family offices (wealth management), retail fund investors (Kamco Invest App), corporates and governments (investment banking: ECM/DCM, M&A, advisory), and Burgan Bank private-banking clients via the group partnership.",
+ "business_lines": "Asset management: equity and fixed income funds and portfolios, including preset strategies and custom mandates. Alternative investments: real estate, private equity, structured products, private credit and leasing. Wealth management. Investment banking: DCM/ECM, M&A, advisory, subscription agency. Brokerage through First Securities Brokerage (Oula Wasata) and Jordan. Research. Reporting segments in H1 2026: Investment banking & advisory, Asset management, Brokerage, Strategic investments and corporate overheads.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 145775406,
+   "unit": "unit",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Kamco Investment Company K.S.C.P. and subsidiaries (consolidated)",
+   "definition": "Total assets, interim condensed consolidated statement of financial position (unaudited)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3; also segment information PDF p.16",
+   "note": ""
+  },
+  {
+   "metric": "total_assets",
+   "value": 139526700,
+   "unit": "unit",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Consolidated",
+   "definition": "Total assets (audited comparative), interim condensed consolidated statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 69558783,
+   "unit": "unit",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Consolidated",
+   "definition": "Total equity; equity attributable to equity holders of the Company KWD 66,567,978",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.3",
+   "note": ""
+  },
+  {
+   "metric": "aum",
+   "value": 18.0,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Kamco Invest (company-reported, client assets)",
+   "definition": "Assets under management ('الأصول المدارة') as stated in the company's Q2/H1 2026 results announcement; discretionary/non-discretionary split not stated",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "Article text",
+   "note": "The official release (kamcoinvest.com/node/42640, 5 Aug 2026) is behind a bot-check; figure taken from Al Jarida's report of the release the same day. Up from USD 15.9bn at 31 Mar 2026."
+  },
+  {
+   "metric": "aum",
+   "value": 15.9,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2026-03-31",
+   "period_label": "31 Mar 2026",
+   "period_type": "point_in_time",
+   "scope": "Kamco Invest",
+   "definition": "Assets under management per Q1 2026 results release",
+   "status": "Verified",
+   "source_ids": [
+    "S10"
+   ],
+   "locator": "Release text",
+   "note": "Seen in search results only (page 403/bot-check); matches the original workbook value."
+  },
+  {
+   "metric": "aum",
+   "value": 16.5,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Kamco Invest",
+   "definition": "Assets under management per FY2025 results release (up USD 626m or 3.9% in 2025)",
+   "status": "Verified",
+   "source_ids": [
+    "S8"
+   ],
+   "locator": "Article text",
+   "note": "Rounded."
+  },
+  {
+   "metric": "operating_income",
+   "value": 10324595,
+   "unit": "unit",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Consolidated",
+   "definition": "'Total income' (fees and commissions, investment gains, dividends, interest, rental, share of associates, other, FX), interim condensed consolidated statement of profit or loss",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4",
+   "note": "H1 2025: KWD 19,048,558."
+  },
+  {
+   "metric": "net_profit",
+   "value": 346774,
+   "unit": "unit",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Consolidated",
+   "definition": "Profit for the period attributable to equity holders of the Company (total result: loss of KWD 107,927 incl. non-controlling interests)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4",
+   "note": "Q2 2026 alone: KWD 3,619,095 attributable."
+  },
+  {
+   "metric": "fee_and_commission_income",
+   "value": 8549127,
+   "unit": "unit",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Consolidated",
+   "definition": "Fee and commission income, incl. management fees on assets under management of KWD 5,003,650",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4; note 6 PDF p.12",
+   "note": "H1 2025: KWD 7,508,747 (+14%)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 9168079,
+   "unit": "unit",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Consolidated",
+   "definition": "Net profit attributable to owners of the parent company, Boursa Kuwait financial results form for FY2025",
+   "status": "Verified",
+   "source_ids": [
+    "S9",
+    "S8"
+   ],
+   "locator": "Results form",
+   "note": "The exact figure was seen in search results only (Kamco-hosted copy of the Boursa form). TradeArabia (opened) reports KD 9.2m and EPS 26.78 fils, consistent. FY2024: KWD 4,352,796."
+  },
+  {
+   "metric": "operating_income",
+   "value": 34,
+   "unit": "million",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Consolidated",
+   "definition": "'Revenue' as stated in the FY2025 results release (KD 34m / USD 111m, up 25%); exact statement label not confirmed",
+   "status": "Requires verification",
+   "source_ids": [
+    "S8"
+   ],
+   "locator": "Article text",
+   "note": "Rounded. The Boursa results form (seen in search results only) shows 'Total operating revenue' of KWD 27,468,153. The definitions differ; see discrepancies."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "customer_deposits",
+   "status": "Not publicly disclosed",
+   "where_checked": "Not applicable: Kamco is a non-bank investment company with no customer deposits on its balance sheet (H1 2026 statements, S3)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "Kamco Invest App page (S11), H1 2026 release as reported (S5)."
+  },
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "H1 2026 statements (S3); no separate assets-under-administration or custody figure found."
+  }
+ ],
+ "people": [
+  {
+   "name": "Sheikh Talal Ali Abdullah Al Jaber Al Sabah",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Board of Directors",
+   "scope": "Company",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Not stated on pages opened.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed as Chairman on official Board page checked 2026-10-12 (S2); signed H1 2026 statements as Chairman (S3); quoted as Chairman on 5 Aug and 21 Sep 2026 (S5, S6).",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S5",
+    "S6"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sheikh Abdullah Nasser Sabah Al-Ahmad Al-Sabah",
+   "name_ar": null,
+   "title": "Vice Chairman",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Board of Directors",
+   "scope": "Company",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Chairman of Burgan Bank (since 2022) and of United Gulf Bank; Board Member, KIPCO (Burgan FY2025 annual report). Profiled as Chairman in kw-burgan.",
+   "education": "Royal Military Academy Sandhurst; BSc Business Administration, New York Institute of Technology (Burgan FY2025 annual report)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed as Vice Chairman on official Kamco Board page checked 2026-10-12 (S2); Burgan FY2025 annual report lists 'Vice chairman Kamco Investment Co.' (S17).",
+   "source_ids": [
+    "S2",
+    "S17"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faisal Mansour Sarkhou",
+   "name_ar": null,
+   "title": "Chief Executive Officer",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Executive Management",
+   "scope": "Company",
+   "appointed": "2014",
+   "appointed_note": "CEO since 2014; joined the company in 2000.",
+   "previous_roles": "Joined Kamco in 2000; head of Corporate Finance and head of Financial Services & Investments; earlier Corporate Finance team at KPMG Kuwait (official bio). Also Vice Chairman of Burgan Bank (since 2022), Vice Chairman of the Union of Investment Companies of Kuwait, and Board Member of KDIPA and Kuwait Clearing Company (Burgan FY2025 annual report).",
+   "education": "BSc Economics (Hons), University of Birmingham; EMBA (distinction), HEC Paris",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/faisal-sarkhou-8125677",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); signed H1 2026 statements as CEO (S3); quoted as CEO on 5 Aug and 21 Sep 2026 (S5, S6). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S5",
+    "S6",
+    "S17",
+    "S20"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Mohammad AlSharekh",
+   "name_ar": null,
+   "title": "Managing Director of Markets and Investment Banking",
+   "functions": [
+    "Brokerage",
+    "Other"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Markets and Investment Banking",
+   "scope": "Company",
+   "appointed": "2020",
+   "appointed_note": "Joined Kamco in 2020 in this role.",
+   "previous_roles": "Led the Economic & Investment team, Hareer and Boubyan Development Agency; Managing Director, Sharq Capital; Executive Director, Securities Division, Goldman Sachs; Executive Manager Corporate Banking, NBK; NBK Capital investment banking; Brown Brothers Harriman fixed income trading; HSBC M&A London (official bio). Also Burgan Bank board member since 2022 and Vice Chairman of First Securities Brokerage (Burgan FY2025 annual report).",
+   "education": "Dual BA Economics and Public & Private Sector Organizations, Brown University; dual MBA Finance and Entrepreneurial Management, Wharton",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/abdullah-alsharekh",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S17",
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sana Al-Hadlaq",
+   "name_ar": null,
+   "title": "Managing Director of Wealth Management",
+   "functions": [
+    "Wealth"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Wealth Management",
+   "scope": "Company",
+   "appointed": "2002",
+   "appointed_note": "Joined Kamco in 2002 (asset management) and was later promoted to start and lead the Wealth Management team.",
+   "previous_roles": "Over 20 years in wealth management: client advisory, fund raising, relationships with HNW individuals, family offices and institutions. Earlier Head of Planning and Development Office, Kuwait News Agency (official bio).",
+   "education": "BSc Political Science and General Administration, Kuwait University",
+   "qualifications": "Various wealth management and leadership certifications (not named)",
+   "linkedin_url": "https://kw.linkedin.com/in/sana-al-hadlaq-243156114",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S24"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Salah Al Wuhaib",
+   "name_ar": null,
+   "title": "Managing Director of Equity and Fixed Income",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Asset Management - Equity and Fixed Income",
+   "scope": "Company",
+   "appointed": "2006",
+   "appointed_note": "Joined 2006; Chief Assets Officer 2016; Senior Executive Director of Equity and Fixed Income 2019; now Managing Director.",
+   "previous_roles": "Assistant Deputy Director of Investments, Kuwait Fund for Arab Economic Development (hedge fund portfolio) (official bio).",
+   "education": "Bachelor of Business Management, Eastern Washington University",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/salah-al-wuhaib-31458548",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S23"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Al Othman",
+   "name_ar": null,
+   "title": "Managing Director of Alternative Investments",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Alternative Investments",
+   "scope": "Company",
+   "appointed": "2010",
+   "appointed_note": "Joined 2010; led real estate investments, then alternative investments.",
+   "previous_roles": "Ernst & Young Kuwait (restructuring, M&A, valuation); Kuwait Finance House Direct Investment Department, responsible for its real estate arm in Saudi Arabia (official bio).",
+   "education": "MBA, INSEAD; Bachelor of Accounting and Management, University of Leeds",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/mohammad-al-othman-b2215014",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence. Profile spelling 'Mohammad'.",
+   "source_ids": [
+    "S1",
+    "S25"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hanaa Hasan Taha",
+   "name_ar": null,
+   "title": "Managing Director, Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Finance",
+   "scope": "Company",
+   "appointed": "2019",
+   "appointed_note": "Joined Kamco in 2019 after the Global Investment House merger as Director of Financial Planning & Control; later promoted to MD, CFO.",
+   "previous_roles": "Senior Vice President, Head of Finance and Treasury, Global Investment House (joined Jan 2007); earlier Kuwait Financial Center (official bio).",
+   "education": "Bachelor of Commerce (Accounting), Ain Shams University",
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/hanaa-hasan-taha-2228ab18",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S22"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Nawal Mulla-Hussain",
+   "name_ar": null,
+   "title": "Managing Director of Support Operations",
+   "functions": [
+    "Operations"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Support Operations",
+   "scope": "Company",
+   "appointed": "2019",
+   "appointed_note": "Joined Kamco in 2019 in this role after the Global Investment House merger.",
+   "previous_roles": "Global Investment House: head of Legal (2004), EVP Legal & Compliance (2010), COO (2017); Legal Counsel, Kuwait Investment Authority (from 1994); Legal Department, KNPC (official bio).",
+   "education": "Law degree, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Talal Fouzi Al-Yaqoub, CWM",
+   "name_ar": null,
+   "title": "Director, Wealth Management",
+   "functions": [
+    "Wealth"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Wealth Management",
+   "scope": "Company",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Not available from sources opened.",
+   "education": null,
+   "qualifications": "CWM (per name suffix in original)",
+   "linkedin_url": "https://kw.linkedin.com/in/talal-al-yaqoub-emba-cwm-75b91466",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Requires verification",
+   "role_evidence": "Original workbook: contact page of the March 2026 Kamco chartbook. Not re-verified in B25: the official sources cited in the original workbook (Kamco news items and research chartbook on kamcoinvest.com) sit behind a Cloudflare bot-check, which was not bypassed, and a news search found no 2026 mention. Not on the Executive Management page, which lists only the seven managing directors. LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S28"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dalal AlShaya, CFA",
+   "name_ar": null,
+   "title": "Director of Private Equity",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Alternative Investments - Private Equity",
+   "scope": "Company",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Not available from sources opened.",
+   "education": null,
+   "qualifications": "CFA (per name suffix in original)",
+   "linkedin_url": "https://kw.linkedin.com/in/dalal-alshaya-cfa-8b84a2151",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Requires verification",
+   "role_evidence": "Not re-verified in B25: the official sources cited in the original workbook (Kamco news items and research chartbook on kamcoinvest.com) sit behind a Cloudflare bot-check, which was not bypassed, and a news search found no 2026 mention. Not on the Executive Management page, which lists only the seven managing directors. LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S26"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faisal AlOthman",
+   "name_ar": null,
+   "title": "Director of Investment Advisory",
+   "functions": [
+    "Wealth"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Investment Advisory",
+   "scope": "Company",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Not available from sources opened.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Original workbook: official 3 Feb 2026 conference report. Not re-verified in B25: the official sources cited in the original workbook (Kamco news items and research chartbook on kamcoinvest.com) sit behind a Cloudflare bot-check, which was not bypassed, and a news search found no 2026 mention. Not on the Executive Management page, which lists only the seven managing directors. The original omitted LinkedIn because of namesakes.",
+   "source_ids": [
+    "S7"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Omar Zaineddine",
+   "name_ar": null,
+   "title": "Executive Director of Debt Capital Markets",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Kamco Investment Company K.S.C.P.",
+   "business_unit": "Investment Banking - Capital Markets",
+   "scope": "Company",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Not available from sources opened.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": "https://kw.linkedin.com/in/omar-a-zaineddine-228b2b1",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Requires verification",
+   "role_evidence": "Not re-verified in B25: the official sources cited in the original workbook (Kamco news items and research chartbook on kamcoinvest.com) sit behind a Cloudflare bot-check, which was not bypassed, and a news search found no 2026 mention. Not on the Executive Management page, which lists only the seven managing directors. A people-tracking aggregator (not cited) reported in Mar 2026 that his title changed from 'Executive Director, Head of Debt Capital Markets' to 'Executive Director, Head of Capital Markets'; confirm. LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S27"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Kamco Invest is a Kuwaiti asset manager, investment bank and broker with USD 18.0bn AUM at 30 Jun 2026 (USD 16.5bn at end-2025). Fees made up 82.8% of H1 2026 revenue, and management fees on AUM were KWD 5.0m in H1 2026. Wealth management is led by MD Sana Al-Hadlaq and serves HNW clients, family offices and institutions. Asset management offers preset portfolio strategies (equity, fixed income, balanced, annuity, capital guaranteed), custom mandates and public funds: Kamco Investment Fund, Kamco Islamic Fund, Kamco Premier Market Index Fund, plus the Shariah-compliant Kamco Freestyle Saudi Equity Fund and Kamco SAR Murabaha Fund launched in 2025. Alternatives include real estate, private equity, private credit and leasing structured products, and a EUR 300m Shariah-compliant European real-estate-finance partnership with Santander Alternative Investments (H1 2026). The Kamco Invest App provides digital onboarding, funding and mutual-fund subscriptions with periodic investment plans. Brokerage runs through First Securities Brokerage (Oula Wasata), which offers e-trading. Since 2025 Kamco has been Burgan Bank's group product factory for private banking, and on 21 Sep 2026 its board recommended renaming it Burgan Capital Investment Company.",
+  "segments": [
+   {
+    "name": "Wealth Management",
+    "tier": "HNW / family office / institutional",
+    "eligibility": "Not published on pages checked",
+    "source_ids": [
+     "S1",
+     "S16"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "No",
+   "detail": "Not a bank. Wealth management for HNW individuals and family offices is offered (see advisory/discretionary); Burgan Bank provides private banking to the group's clients.",
+   "source_ids": [
+    "S1",
+    "S17"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "USD 18.0bn AUM (30 Jun 2026). Equity and fixed income portfolio management and funds. Three public funds have performance listed to Sep 2026: Kamco Investment Fund (six LSEG Lipper awards), Kamco Islamic Fund and Kamco Premier Market Index Fund; KSA: Kamco Freestyle Saudi Equity Fund, Kamco SAR Murabaha Fund (launched 2025). DIFC and Saudi subsidiaries are growing asset management. Forbes ME ranked CEO Faisal Sarkhou among the top 10 Middle East asset managers in 2026.",
+   "source_ids": [
+    "S5",
+    "S13",
+    "S8",
+    "S7",
+    "S17"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "First Securities Brokerage Company (Oula Wasata), Kuwait, with electronic trading attracting institutional and individual clients in H1 2026. Global Investment House Jordan. A 'Trade Online' link points to kamco.globaltradingnetwork.com. Kamco Invest - Saudi launched a securities lending service with HSBC Saudi Arabia (28 Jul 2026).",
+   "source_ids": [
+    "S15",
+    "S5",
+    "S16",
+    "S7"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Kamco Invest App: fully digital onboarding, funding, interactive dashboard and subscription to Kamco mutual funds, including periodic (regular) investment plans. The page does not mention equities or third-party products in the app. Online trading via the brokerage platform (S16).",
+   "source_ids": [
+    "S11",
+    "S16"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Wealth management offers 'tailor-made investment solutions & integrated services' and client advisory (official bio of MD Wealth Management). A Director of Investment Advisory role is noted in the original workbook (unverified).",
+   "source_ids": [
+    "S16",
+    "S1"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "Portfolio management with preset strategies (equity, fixed income, balanced, annuity, capital guaranteed) and custom mandates with customised guidelines and benchmarks.",
+   "source_ids": [
+    "S12"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Yes",
+   "detail": "Preset portfolio-management strategies function as model portfolios (equity, fixed income, balanced, annuity, capital guaranteed); no robo-advice found.",
+   "source_ids": [
+    "S12"
+   ]
+  },
+  "funds_platform": {
+   "present": "Not found after research",
+   "detail": "Only Kamco's own funds are evidenced (website, app). No third-party fund shelf or platform provider found.",
+   "source_ids": [
+    "S13",
+    "S11"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "Capital-protected and yield-enhanced structured products, incl. private credit and leasing, through partnerships with international asset managers. H1 2026: third distribution from a leasing strategy with a New York Life-affiliated manager (name transliterated in the Arabic report).",
+   "source_ids": [
+    "S14",
+    "S5"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "Alternative investments (MD Mohammed Al Othman): real estate funds, private equity (e.g. Kuwait Private Equity Opportunities Fund), European logistics and GCC tech vehicles; USD 82.0m distributed to investors in 2025; EUR 300m partnership with Santander Alternative Investments for Shariah-compliant European private real estate finance (H1 2026).",
+   "source_ids": [
+    "S1",
+    "S17",
+    "S8",
+    "S5"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Kamco Islamic Fund; Shariah-compliant Kamco Freestyle Saudi Equity Fund and Kamco SAR Murabaha Fund (2025); Shariah-compliant European real estate finance with Santander AI; sukuk arranging (e.g. KFH KWD sukuk, May 2026).",
+   "source_ids": [
+    "S13",
+    "S8",
+    "S5",
+    "S7"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "Mutual funds",
+   "Bonds",
+   "Sukuk",
+   "Structured products",
+   "Private markets / alternatives",
+   "Real estate funds"
+  ],
+  "partners": [
+   {
+    "partner": "Burgan Bank (group parent)",
+    "kind": "Distribution",
+    "what": "Kamco products (funds, bonds, sukuk, structured products, alternatives) distributed to Burgan private-banking clients; joint annual investment conference (third edition 2026)",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S5",
+     "S17"
+    ]
+   },
+   {
+    "partner": "Santander Alternative Investments",
+    "kind": "Product partner",
+    "what": "EUR 300m partnership offering Shariah-compliant, income-generating European private real estate finance to Gulf investors",
+    "date": "2026",
+    "status": "Announced",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "partner": "HSBC Saudi Arabia",
+    "kind": "Execution / custody partner",
+    "what": "Kamco Invest - Saudi securities lending service",
+    "date": "2026-07-28",
+    "status": "Announced",
+    "source_ids": [
+     "S7"
+    ]
+   },
+   {
+    "partner": "Global Trading Network (kamco.globaltradingnetwork.com)",
+    "kind": "Execution / platform technology",
+    "what": "Domain of the 'Trade Online' link on the Kamco website; provider relationship not described",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S16"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2025",
+    "what": "Launched two Shariah-compliant Saudi funds (Kamco Freestyle Saudi Equity Fund, Kamco SAR Murabaha Fund); raised over USD 1.5bn across products and transactions",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2026-07-28",
+    "what": "Kamco Invest - Saudi partners with HSBC Saudi Arabia to launch a securities lending service",
+    "source_ids": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2026-08-05",
+    "what": "H1 2026 results: AUM USD 18.0bn; fee income +14%; Santander AI EUR 300m partnership; Oula Wasata e-trading growth; DIFC and Saudi asset management expansion",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2026-09-15",
+    "what": "Recognised at IDC CIO Excellence Awards 2026 (news listing title only)",
+    "source_ids": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2026-09-21",
+    "what": "Board recommended renaming the company 'Burgan Capital Investment Company' to align with the Burgan Bank ecosystem; subject to General Assembly approval and regulatory/legal procedures; still listed on Boursa Kuwait",
+    "source_ids": [
+     "S6",
+     "S7"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "The Kamco Invest App covers onboarding, funding and subscription only to Kamco's own mutual funds (S11). No in-app equities, ETFs or third-party products are evidenced.",
+    "No third-party fund shelf found; wealth and app offering is Kamco-manufactured product (S13, S11).",
+    "Planned rebrand to Burgan Capital (21 Sep 2026) to bring distribution channels and client relationships closer to Burgan Bank and 'support more connected financial products' (S6)."
+   ],
+   "barriers": [
+    "Kamco is itself a product manufacturer (funds, structured products, alternatives, sukuk) and the Burgan group's in-house product factory (S5, S17), so it may see third-party products as competition.",
+    "H1 2026 profit was thin: KWD 0.35m attributable after a Q1 loss (S3), which may constrain new technology spend."
+   ],
+   "incumbent_vendors": [
+    "Global Trading Network (domain of the 'Trade Online' platform link; nature of relationship unclear) (S16)",
+    "HSBC Saudi Arabia (securities lending, KSA) (S7)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Executive Management",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/content/executive-management",
+   "doc_type": "Official leadership page (with bios)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser (WebFetch returns 403)."
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/content/board-directors",
+   "doc_type": "Official board page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser."
+  },
+  {
+   "id": "S3",
+   "title": "Kamco Investment Company K.S.C.P. and subsidiaries - interim condensed consolidated financial information (unaudited) for the six months ended 30 Jun 2026",
+   "publisher": "Kamco Invest via Boursa Kuwait",
+   "url": "https://ifsahdocs.boursakuwait.com.kw/DiscAssets/2026_17865/English%20FS%20KAMCO%20Q2%202026.pdf",
+   "doc_type": "Reviewed interim financial statements (authorised 5 Aug 2026)",
+   "tier": 1,
+   "published": "2026-08-05",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Statement of financial position page is scanned; read visually."
+  },
+  {
+   "id": "S4",
+   "title": "Facts (share information and major shareholders)",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/investor-relations/share-information/facts",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser."
+  },
+  {
+   "id": "S5",
+   "title": "«كامكو إنفست» تربح 3.6 ملايين دينار في الربع الثاني",
+   "publisher": "Al Jarida",
+   "url": "https://www.aljarida.com/article/140035",
+   "doc_type": "News (reports the company's Q2/H1 2026 results release)",
+   "tier": 5,
+   "published": "2026-08-05",
+   "accessed": "2026-10-12",
+   "language": "ar"
+  },
+  {
+   "id": "S6",
+   "title": "Kamco Invest set to rebrand as Burgan Capital Investment",
+   "publisher": "TradeArabia",
+   "url": "https://tradearabia.com/News/486623/Kamco-Invest-set-to-rebrand-as-Burgan-Capital-Investment",
+   "doc_type": "News (press release)",
+   "tier": 5,
+   "published": "2026-09-21",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "News & Announcements (listing page)",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/content/news-announcements",
+   "doc_type": "Official news listing (titles and dates only; article pages are behind a bot-check)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser. Titles include: 24 Sep 2026 board recommends name change to 'Burgan Capital Investment Company'; 15 Sep 2026 IDC CIO Excellence Awards; 5 Aug 2026 Q2 results; 28 Jul 2026 Kamco Invest - Saudi partners with HSBC Saudi Arabia (securities lending); 26 Jul 2026 Euromoney 'Kuwait's Best Investment Bank for DCM'; 12 Jul 2026 Forbes ME top-10 asset managers (Sarkhou); 24 May 2026 KFH KWD sukuk."
+  },
+  {
+   "id": "S8",
+   "title": "Kamco Invest revenue surges 25pc to $111m in 2025",
+   "publisher": "TradeArabia",
+   "url": "https://www.tradearabia.com/News/389831/Kamco-Invest-revenue-surges-25pc-to-%24111m-in-2025/BANK",
+   "doc_type": "News (results press release)",
+   "tier": 5,
+   "published": "2026-03-01",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "Kamco FY-2025 Financial Results form (Boursa Kuwait form, Kamco-hosted copy)",
+   "publisher": "Kamco Invest / Boursa Kuwait",
+   "url": "https://www.kamcoinvest.com/sites/default/files/research/pdf/kamco%20_228_%20FY-%202025%20%20Financial%20Results-%20E.pdf",
+   "doc_type": "Exchange results form",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (kamcoinvest.com returns 403 to fetch tools)."
+  },
+  {
+   "id": "S10",
+   "title": "Kamco Invest Q1 2026 results release",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/node/42205",
+   "doc_type": "Official press release",
+   "tier": 2,
+   "published": "2026-05-14",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (403 / bot-check). Release date per original workbook."
+  },
+  {
+   "id": "S11",
+   "title": "Kamco Invest App",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/content/kamco-invest-app-0",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser."
+  },
+  {
+   "id": "S12",
+   "title": "Portfolio Management",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/content/portfolio-management",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser."
+  },
+  {
+   "id": "S13",
+   "title": "Fund Management (fund performance table, Sep 2026)",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/content/fund-management",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser."
+  },
+  {
+   "id": "S14",
+   "title": "Structured Products",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/asset-management/structured-products",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser."
+  },
+  {
+   "id": "S15",
+   "title": "Brokerage Network",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/content/brokerage-network",
+   "doc_type": "Official page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser."
+  },
+  {
+   "id": "S16",
+   "title": "Kamco Invest home page",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/",
+   "doc_type": "Official website (links to company LinkedIn and Trade Online platform)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read in the built-in browser."
+  },
+  {
+   "id": "S17",
+   "title": "Burgan Bank Annual Report and Accounts 2025 (subsidiaries note; board and strategy pages)",
+   "publisher": "Burgan Bank K.P.S.C.",
+   "url": "https://burgan.com/en/documents/157/BBAnnualReport2025.pdf",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": "2026-01-29",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Subsidiaries note PDF p.82; Kamco partnership PDF p.22-23."
+  },
+  {
+   "id": "S18",
+   "title": "Annual Reports (IR page)",
+   "publisher": "Kamco Invest",
+   "url": "https://www.kamcoinvest.com/investor-relations/financial-results/annual-reports",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Lists Annual Report 2025 (English/Arabic) PDFs; the PDFs return 403 to the PDF tool and were not opened."
+  },
+  {
+   "id": "S20",
+   "title": "LinkedIn profile - Faisal Sarkhou",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/faisal-sarkhou-8125677",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S21",
+   "title": "LinkedIn profile - Abdullah AlSharekh",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/abdullah-alsharekh",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S22",
+   "title": "LinkedIn profile - Hanaa Hasan Taha",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/hanaa-hasan-taha-2228ab18",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S23",
+   "title": "LinkedIn profile - Salah Al Wuhaib",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/salah-al-wuhaib-31458548",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S24",
+   "title": "LinkedIn profile - Sana Al-Hadlaq",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/sana-al-hadlaq-243156114",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S25",
+   "title": "LinkedIn profile - Mohammad Al Othman",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/mohammad-al-othman-b2215014",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S26",
+   "title": "LinkedIn profile - Dalal AlShaya",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/dalal-alshaya-cfa-8b84a2151",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S27",
+   "title": "LinkedIn profile - Omar Zaineddine",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/omar-a-zaineddine-228b2b1",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S28",
+   "title": "LinkedIn profile - Talal Al-Yaqoub",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/talal-al-yaqoub-emba-cwm-75b91466",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  }
+ ],
+ "original_reconciliation": [
+  {
+   "field": "Institution",
+   "original_value": "Kamco Invest",
+   "finding": "Confirmed",
+   "new_value": "Kamco Invest (legal name Kamco Investment Company K.S.C.P.); proposed new name Burgan Capital Investment Company (not yet approved)",
+   "source_ids": [
+    "S3",
+    "S6"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Country",
+   "original_value": "Kuwait",
+   "finding": "Confirmed",
+   "new_value": "KW",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Institution type",
+   "original_value": "Listed non-bank investment and asset-management company",
+   "finding": "Confirmed",
+   "new_value": "Non-bank; Asset & wealth manager; regulated by CMA and CBK as an investment and finance company",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (bn) [formula -> 'KAMCO::Total assets']",
+   "original_value": "145,775,406 KWD (unit)",
+   "finding": "Confirmed",
+   "new_value": "KWD 145,775,406 at 30 Jun 2026 (statement of financial position PDF p.3)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Currency",
+   "original_value": "KWD",
+   "finding": "Confirmed",
+   "new_value": "KWD (AUM reported in USD)",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets as of",
+   "original_value": "2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "2026-06-30",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Deposits (bn) / Deposits as of / Deposit measure",
+   "original_value": "n.a.; non-bank investment firm",
+   "finding": "Confirmed",
+   "new_value": "Not applicable (no customer deposits)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Chief executive",
+   "original_value": "Faisal Mansour Sarkhou",
+   "finding": "Confirmed",
+   "new_value": "Faisal Mansour Sarkhou, CEO since 2014",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Wealth / investment arm",
+   "original_value": "Kamco Invest wealth management, equity/fixed income and alternative investments",
+   "finding": "Confirmed",
+   "new_value": "Confirmed: Wealth Management (Sana Al-Hadlaq), Equity & Fixed Income (Salah Al Wuhaib), Alternative Investments (Mohammed Al Othman)",
+   "source_ids": [
+    "S1"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Business focus",
+   "original_value": "Asset management, investment banking and brokerage for institutional and HNW clients; equities, fixed income, real estate, private equity and structured products.",
+   "finding": "Confirmed",
+   "new_value": "Confirmed; also retail fund investing via Kamco Invest App and KSA/DIFC asset management.",
+   "source_ids": [
+    "S4",
+    "S11",
+    "S14",
+    "S5"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Ownership",
+   "original_value": "Independently managed Burgan Bank subsidiary within KIPCO Group; listed on Boursa Kuwait.",
+   "finding": "Updated",
+   "new_value": "Confirmed. Parent is UGB (100% Burgan), ultimate parent KIPCO; 63.01% effective group interest (31 Dec 2025). New >5% holder: Alpha Group Holding (Alasfoor) 11.03% (8 Sep 2026).",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S17"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Research coverage",
+   "original_value": "Public profile and management researched",
+   "finding": "Updated",
+   "new_value": "Re-researched 2026-10-12 (batch B25).",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Last prior research",
+   "original_value": null,
+   "finding": "Updated",
+   "new_value": "2026-10-12 (B25)",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Relationship / opportunity",
+   "original_value": "Added at user request, 8 October 2026",
+   "finding": "Could not verify",
+   "new_value": "Internal note - not publicly verifiable.",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Website",
+   "original_value": "https://www.kamcoinvest.com/",
+   "finding": "Confirmed",
+   "new_value": "https://www.kamcoinvest.com",
+   "source_ids": [
+    "S16"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Company LinkedIn",
+   "original_value": "https://www.linkedin.com/company/kamco-invest/",
+   "finding": "Corrected",
+   "new_value": "https://www.linkedin.com/company/kamco-investment-company/ (the URL linked from the official website)",
+   "source_ids": [
+    "S16"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Gaps / important distinctions: AUM vs balance sheet dates",
+   "original_value": "AUM USD15.9bn is dated 31 March 2026; balance-sheet assets are dated 30 June 2026.",
+   "finding": "Updated",
+   "new_value": "AUM now USD 18.0bn at 30 Jun 2026 (same date as balance sheet). AUM is client assets, distinct from KWD 145.8m balance-sheet assets.",
+   "source_ids": [
+    "S5",
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Gaps / important distinctions: name change",
+   "original_value": "Board proposed Burgan Capital Investment Company name on 21 September 2026, subject to approvals.",
+   "finding": "Confirmed",
+   "new_value": "Board recommendation of 21 Sep 2026 confirmed (official listing dated 24 Sep). As of 12 Oct 2026 no General Assembly date or approval was found, so it is still pending.",
+   "source_ids": [
+    "S6",
+    "S7"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Gaps / important distinctions: double counting",
+   "original_value": "Kamco is included within Burgan's group; avoid double counting.",
+   "finding": "Confirmed",
+   "new_value": "Consolidated in Burgan via UGB; explained in group_structure.",
+   "source_ids": [
+    "S17",
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Gaps / important distinctions: HQ",
+   "original_value": "HQ: Al-Shaheed Tower, Sharq, Kuwait City.",
+   "finding": "Confirmed",
+   "new_value": "Al Shaheed Tower, Khalid Bin Al-Waleed Street, Sharq, Kuwait City (note 1)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Source references (Research notes)",
+   "original_value": "S103-S109",
+   "finding": "Updated",
+   "new_value": "Replaced by field-level sources in this file.",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Prior research source",
+   "original_value": null,
+   "finding": "Confirmed",
+   "new_value": "None",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (USD bn) [formula]",
+   "original_value": "Workbook USD conversion",
+   "finding": "Confirmed",
+   "new_value": "KWD value confirmed; conversion central.",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "AUM / AUA (USD bn) [formula -> 'KAMCO::Assets under management']",
+   "original_value": "15.9 USD billion",
+   "finding": "Updated",
+   "new_value": "USD 18.0bn at 30 Jun 2026",
+   "source_ids": [
+    "S5"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "AUM / AUA measure",
+   "original_value": "Assets under management",
+   "finding": "Confirmed",
+   "new_value": "Assets under management (company-labelled)",
+   "source_ids": [
+    "S5"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "AUM / AUA as of",
+   "original_value": "2026-03-31",
+   "finding": "Updated",
+   "new_value": "2026-06-30",
+   "source_ids": [
+    "S5"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Size metrics: KAMCO::Total assets",
+   "original_value": "145,775,406 KWD unit, 2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "145,775,406 (PDF p.3; segment note PDF p.16)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Size metrics: KAMCO::Assets under management",
+   "original_value": "15.9 USD billion, 2026-03-31, kamcoinvest.com/node/42205",
+   "finding": "Updated",
+   "new_value": "Kept as a 31 Mar 2026 record; added 30 Jun 2026 USD 18.0bn and 31 Dec 2025 USD 16.5bn",
+   "source_ids": [
+    "S10",
+    "S5",
+    "S8"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Faisal Mansour Sarkhou - Chief Executive Officer",
+   "original_value": "Verified; LinkedIn kw.linkedin.com/in/faisal-sarkhou-8125677 (verified)",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026; signed H1 2026 statements; LinkedIn kept.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S20"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Hanaa Hasan Taha - Managing Director, Chief Financial Officer",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S1",
+    "S22"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Abdullah Mohammad AlSharekh - MD of Markets and Investment Banking",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026; also a Burgan Bank board member.",
+   "source_ids": [
+    "S1",
+    "S17",
+    "S21"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Salah Al Wuhaib - MD of Equity and Fixed Income",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S1",
+    "S23"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Sana Al-Hadlaq - MD of Wealth Management",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S1",
+    "S24"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Mohammed Al Othman - MD of Alternative Investments",
+   "original_value": "Verified; LinkedIn verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S1",
+    "S25"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Nawal Mulla-Hussain - MD of Support Operations",
+   "original_value": "Verified; LinkedIn not verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026.",
+   "source_ids": [
+    "S1"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Dalal AlShaya, CFA - Director of Private Equity",
+   "original_value": "Verified current official role (S131, S132)",
+   "finding": "Could not verify",
+   "new_value": "Original sources behind bot-check; Requires verification.",
+   "source_ids": [
+    "S26"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Faisal AlOthman - Director of Investment Advisory",
+   "original_value": "Verified in official 3 Feb 2026 conference report",
+   "finding": "Could not verify",
+   "new_value": "Original source behind bot-check; Requires verification.",
+   "source_ids": [
+    "S7"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Omar Zaineddine - Executive Director of Debt Capital Markets",
+   "original_value": "Verified in official 2026 transaction roundup; LinkedIn verified",
+   "finding": "Could not verify",
+   "new_value": "Requires verification; an aggregator lead says retitled 'Head of Capital Markets' in Mar 2026.",
+   "source_ids": [
+    "S27"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Talal Fouzi Al-Yaqoub, CWM - Director, Wealth Management",
+   "original_value": "March 2026 chartbook contact page; LinkedIn verified",
+   "finding": "Could not verify",
+   "new_value": "Chartbook behind bot-check; Requires verification.",
+   "source_ids": [
+    "S28"
+   ],
+   "materiality": "Minor"
+  }
+ ],
+ "discrepancies": [
+  {
+   "field": "FY2025 revenue",
+   "detail": "TradeArabia's FY2025 results report gives revenue of KD 34m (USD 111m, +25%). The Boursa FY2025 results form (seen in search results only) gives 'Total operating revenue' of KWD 27,468,153 and net operating profit of KWD 4,683,168.",
+   "source_ids": [
+    "S8",
+    "S9"
+   ],
+   "resolution": "Unresolved: the definitions likely differ (total income vs operating revenue). Press figure recorded with status 'Requires verification'; check the FY2025 audited statements (annual report PDF blocked)."
+  },
+  {
+   "field": "Burgan-group shareholding",
+   "detail": "Kamco Facts page: KIPCO Group Companies 62.92% (disclosure dated 16 Dec 2019). Burgan FY2025 note: 63.01% effective interest. Burgan annual report narrative: UGB holds a '60% stake'.",
+   "source_ids": [
+    "S4",
+    "S17"
+   ],
+   "resolution": "Recorded the Facts-page figure as the shareholder disclosure and the 63.01% as Burgan's effective interest; differences likely reflect treasury shares and disclosure dates."
+  },
+  {
+   "field": "Ultimate parent wording",
+   "detail": "H1 2026 note 1 describes UGB as 'a subsidiary of KIPCO', whereas Burgan's FY2025 statements show UGB 100% owned by Burgan Bank (itself a KIPCO subsidiary).",
+   "source_ids": [
+    "S3",
+    "S17"
+   ],
+   "resolution": "Both are consistent with KIPCO as ultimate parent; the chain is Kamco <- UGB <- Burgan <- KIPCO."
+  }
+ ],
+ "open_items": [
+  "Kamco Invest news articles (node pages), research PDFs and the Annual Report 2025 PDF are behind a Cloudflare bot-check or return 403; they were not bypassed. Listing pages and static pages were read in the browser.",
+  "The official H1 2026 results release (node/42640) was not opened; AUM USD 18.0bn at 30 Jun 2026 is taken from Al Jarida's report of that release.",
+  "Burgan Capital rename: no General Assembly date or approval found as of 12 Oct 2026. Check Boursa Kuwait for an EGM notice.",
+  "FY2025 audited statements not opened: confirm total income vs 'total operating revenue' (KD 34m vs KWD 27.5m).",
+  "Verify the current roles of Dalal AlShaya, Faisal AlOthman, Omar Zaineddine (possible retitle to Head of Capital Markets) and Talal Al-Yaqoub.",
+  "Number of Kamco Invest App users and investing clients not found.",
+  "The relationship with Global Trading Network (Trade Online platform domain) is not described; confirm the execution/front-end vendor for online trading.",
+  "Board page lists five directors (Talal Al Sabah, Abdullah Nasser Al-Sabah, Sheikha Dana Nasser Al-Sabah, Samer Abbouchi, Haya Boodai); only the Chair and Vice Chair are recorded as people."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B25",
+ "checked": "2026-10-12"
+}

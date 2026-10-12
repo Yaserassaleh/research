@@ -1,0 +1,1116 @@
+{
+ "id": "bh-bisb",
+ "name": "Bahrain Islamic Bank",
+ "short_name": "BisB",
+ "legal_name": "Bahrain Islamic Bank B.S.C.",
+ "name_ar": "بنك البحرين الإسلامي",
+ "country": "BH",
+ "hq_city": "Manama",
+ "website": "https://www.bisb.com",
+ "linkedin_company": null,
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "1979 (incorporated by Amiri Decree No. 2 of 1979; Bahrain's first Islamic bank)",
+ "regulators": [
+  "CBB (Islamic retail banking licence)",
+  "Bahrain Bourse (listed issuer)"
+ ],
+ "listed": true,
+ "exchange": "Bahrain Bourse",
+ "ticker": "BISB",
+ "parent_id": "bh-nbb",
+ "ownership_summary": "National Bank of Bahrain (NBB) is the controlling shareholder: 80.22% at 30 Jun 2026 (31 Dec 2025: 78.81%) per BisB's interim statements, 80.23% on the Bahrain Bourse shareholder list. NBB first took control in 2020 (78.8% after its offer) and fully consolidates BisB. The only other holder above 5% is the Kuwait Awqaf Public Foundation (7.18% at 31 Dec 2025). Bahraini holders own 87.65% by nationality (31 Dec 2025).",
+ "shareholders": [
+  {
+   "holder": "National Bank of Bahrain B.S.C.",
+   "pct": 80.22,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S2",
+    "S4"
+   ]
+  },
+  {
+   "holder": "Kuwait Awqaf Public Foundation (General Council of Kuwaiti Awqaf)",
+   "pct": 7.18,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S3",
+    "S4"
+   ]
+  }
+ ],
+ "government_link": "Indirect - controlled by NBB (80.2%), in which Bahrain Mumtalakat Holding Company holds 44.06% (see bh-nbb); the Kuwait Awqaf Public Foundation (7.18%) is described in the AR as a sovereign holder.",
+ "group_structure": "BisB is a listed subsidiary of NBB (bh-nbb), which consolidates it in full (NBB 80.2% at 30 Jun 2026). NBB's group total assets, deposits and profit already include BisB, so never add the two. BisB keeps a separate CBB Islamic licence, balance sheet, Shari'a board and brand, while selected governance, operational and support functions are integrated with NBB (AR 2025). BisB's only subsidiary is Abaad Real Estate Company W.L.L. (100%). Its Vice Chairman is NBB Group CEO Usman Ahmed, and NBB executives Ali Ehsan and Husain Almohri sit on its board. NBB and BBK are in merger talks; BisB is not a party.",
+ "subsidiaries": [
+  {
+   "name": "Abaad Real Estate Company W.L.L.",
+   "pct": 100.0,
+   "activity": "Real estate company (Bahrain)",
+   "linked_id": null,
+   "source_ids": [
+    "S2",
+    "S3"
+   ]
+  }
+ ],
+ "footprint": "Bahrain only: six branches at 30 Jun 2026 (seven at 31 Dec 2025), plus digital channels (BisB Mobile, BisB Digital/eBISB, kiosks, contact centre, WhatsApp, chatbot). Registered office in Manama.",
+ "customer_segments": "Retail (Bahraini nationals and residents, GCC citizens, youth, salary-linked Premium and Al Thuraya premium tiers), SMEs and corporates (incl. government-related entities), financial institutions, accredited investors for wealth products.",
+ "business_lines": "Retail Banking (accounts, financing, cards, Premium and Al Thuraya); Corporate Banking (financing, trade, cash management, sukuk custody, supply-chain finance); Treasury/Investment Banking (Shari'a-compliant interbank, sukuk portfolio, FX, hedging, structured products) with a Wealth Management function launched in 2025; segment reporting uses Retail, Corporate, Market and Client Solutions and Others.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 1779435,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (BisB and Abaad Real Estate)",
+   "definition": "TOTAL ASSETS, condensed consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S6"
+   ],
+   "locator": "S2 PDF p.4",
+   "note": "Fully consolidated in NBB (80.2%); NBB reports BHD millions, BisB BHD thousands. H1 2026 file listed on the financials page (S6); no Q3 2026 file there at 12 Oct 2026."
+  },
+  {
+   "metric": "total_assets",
+   "value": 1804276,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.4 comparative; S3 PDF p.22 (BHD 1,804.3m)",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 1184471,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Derived: 'Customers' current accounts' 268,333 + 'Placements from non-financial institutions and individuals' 82,132 + quasi-equity (unrestricted investment accounts) from 'Non-financial institutions and individuals' 834,006; excludes placements from financial institutions (47,200) and quasi-equity from financial institutions (25,967)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.4",
+   "note": "Sum of three printed lines computed by the researcher; the same construction reproduces the 31 Dec 2025 'Customer deposits' of BHD 1,173.7m in the AR five-year summary."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 1173716,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Same construction as above (254,596 + 167,054 + 752,066); equals 'Customer deposits' BHD 1,173.7m in the AR 2025 five-year summary (total deposits BHD 1,597.7m)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.4; S3 PDF p.22",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 1007054,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing contracts' (Islamic financing; note 8) as printed on the statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.4",
+   "note": "Whether the printed figure is net of impairment allowances was not checked against note 8."
+  },
+  {
+   "metric": "net_loans",
+   "value": 998523,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing contracts' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.4 comparative; S3 PDF p.22 ('Total Islamic financing' BHD 998.5m)",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 162124,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Total Owners' Equity' incl. Subordinated Mudaraba (AT1) BHD 25,000k; equity attributable to the Bank's shareholders BHD 137,124k (excludes quasi-equity of BHD 859,973k)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.4",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 58.1,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total income' (net profit income 35.7 + other income 22.4), AR five-year summary",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.22",
+   "note": "Rounded (BHD millions). 2025 other income includes a one-off real-estate gain (about BHD 10m in H1 2025). H1 2026 'Total income': BHD 36,245k vs 39,171k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 36245,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total income', six months ended 30 Jun 2026 (reviewed); after net finance income of BHD 30,305k",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.5",
+   "note": "H1 2025 comparative BHD 39,171k included 'Income from investment in real estate, net' of BHD 9,963k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 18.5,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Net profit' (profit for the year after attribution to quasi-equity; subsidiaries wholly owned so no non-controlling interest)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.22 and p.91",
+   "note": "Rounded (BHD millions); 2024: BHD 5.1m."
+  },
+  {
+   "metric": "net_profit",
+   "value": 6489,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Profit for the period', six months to 30 Jun 2026, after BHD 11,418k attributed to quasi-equity holders",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.5",
+   "note": "H1 2025: BHD 13,188k, flattered by the BHD 9,963k real-estate income (NBB: BHD 7.7m after non-controlling interest)."
+  },
+  {
+   "metric": "branches",
+   "value": 6,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Bahrain",
+   "definition": "Number of branches, all in Bahrain",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.10 (note 1)",
+   "note": "Seven at 31 Dec 2025."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 (S3), H1 2026 statements (S2), news and disclosure pages (S12, S15). AR says wealth-management revenue rose 'substantially' without amounts."
+  },
+  {
+   "metric": "aua",
+   "status": "Not found after research",
+   "where_checked": "AR 2025 (S3) text search; no figure for assets under administration/custody found (sukuk custody offered to corporates)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "S2, S3."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S3 gives retail customer growth rates only (9.8% in 2025)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "S3, S9 (BisB Mobile page lists no investing features)."
+  },
+  {
+   "metric": "employees",
+   "status": "Not found after research",
+   "where_checked": "S3 p.26: 340 Bahraini employees = 96% nationalisation and 136 female employees = 38%; total headcount not printed in the pages read."
+  }
+ ],
+ "people": [
+  {
+   "name": "Zaid Khalid Abdulrahman",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not stated.",
+   "previous_roles": "18+ years in engineering, business management and investments; Executive Director, Food Supply Company; Board member, Bahrain Ship Repairing and Engineering Company; Director of Operations and Investment, Yousif Abdulrahman Engineer Holding; earlier National Transport Company (S1). Also listed as a director of NBB (S16).",
+   "education": "Bachelor's in Mechanical Engineering, University of Leicester",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page checked 2026-10-12 (S1); signed the 30 Jun 2026 statements as Chairman (S2); Bourse key-persons list (S5); NBB board list in its 30 Jun 2026 statements (S16).",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S5",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Usman Ahmed",
+   "name_ar": null,
+   "title": "Vice Chairman; Executive Director; Chairman of the Executive Committee",
+   "functions": [
+    "Board",
+    "Group CEO"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Board appointment date not stated. He is also NBB Group CEO (since Jan 2023); NBB announced his resignation on 30 Sep 2026, last day 31 Dec 2026 (see bh-nbb).",
+   "previous_roles": "NBB Group CEO; earlier CEO Citi Malaysia, CEO Citi Bahrain/Kuwait/Qatar and Global Head of Citi Islamic Banking, Barclays emerging-markets corporate head (S1).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page (S1) and signature on the 30 Jun 2026 statements (S2); NBB resignation per Bahrain Bourse listing/press (see bh-nbb) means his BisB board role may change after 31 Dec 2026.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Fatema Moosa AlAlawi",
+   "name_ar": null,
+   "title": "Chief Executive Officer",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Executive Management",
+   "scope": "Bank",
+   "appointed": null,
+   "appointed_note": "Page states she leads the bank; date of CEO appointment not on the official page. Press (seen in search results only) reports she became Chief Retail Banking Officer in May 2023 and CEO after acting in Aug 2024; an aggregator dates the permanent appointment to Jan 2025 (not cited).",
+   "previous_roles": "Experience in digital and Islamic banking incl. leading private and retail banking (product, business, marketing, branches); helped launch Islamic banking platforms and Aion Digital; Board member, Liquidity Management Centre (S1).",
+   "education": "EMBA and BSc Business Management, University of Bahrain; leadership programmes at UCLA and Darden (University of Virginia)",
+   "qualifications": "PMP certification (Hubert Humphrey Fellowship)",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page checked 2026-10-12 (S1); signed the 30 Jun 2026 statements as CEO (S2); Bourse key-persons list (S5); quoted as CEO in 2026 award news (search result). GDN article on her appointment seen in search results only (S17). LinkedIn search returned no own-profile match.",
+   "source_ids": [
+    "S1",
+    "S2",
+    "S5",
+    "S17"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ameer Dairi",
+   "name_ar": null,
+   "title": "Chief Financial & Strategy Officer",
+   "functions": [
+    "Finance",
+    "Strategy"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Finance and Strategy",
+   "scope": "Bank",
+   "appointed": null,
+   "appointed_note": "Part of executive leadership since 2016.",
+   "previous_roles": "24+ years in financial management, accounting and commercial banking; Board member and Audit Committee Chairman, Liquidity Management Centre; Board member, Abaad Real Estate, Benefit Company and CBB Waqf Fund (S1).",
+   "education": "BSc Accounting, University of Bahrain; certificates from UC Berkeley, Ivey and Oxford",
+   "qualifications": "CPA (New Hampshire); CMA",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page (S1); Bourse key-persons list (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faisal Al Abdulla",
+   "name_ar": null,
+   "title": "Chief Retail Banking Officer",
+   "functions": [
+    "Retail",
+    "Affluent",
+    "Private banking"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Retail Banking (incl. Al Thuraya private and priority banking)",
+   "scope": "Bank",
+   "appointed": null,
+   "appointed_note": "Date not stated.",
+   "previous_roles": "17+ years in retail, priority banking and corporate finance; previously led Private and Priority Banking (Al Thuraya) at BisB and held Branch Manager and Premier Relationship Manager roles at HSBC Bahrain (S1, S3).",
+   "education": "Bachelor's in Banking and Finance, Ahlia University; Diploma in Banking and Finance, University of Bahrain; Darden and Ivey leadership programmes",
+   "qualifications": "Series 7",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page (S1); AR 2025 executive biography (S3); Bourse key-persons list (S5). LinkedIn search not run (search quota).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hussain Ebrahim Al Banna",
+   "name_ar": null,
+   "title": "Head of Treasury",
+   "functions": [
+    "Treasury",
+    "Investments / asset management"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Treasury (FX, money market, sukuk portfolio)",
+   "scope": "Bank",
+   "appointed": "2008",
+   "appointed_note": "Joined BisB in 2008.",
+   "previous_roles": "16+ years in conventional and Islamic banking; earlier BNP Paribas regional treasury operations and BBK Executive Management Trainee Programme (bond portfolio over USD 700m) (S1).",
+   "education": "BSc Banking and Finance, University of Bahrain; Treasury and Capital Markets diploma, BIBF",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page (S1); Bourse key-persons list (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ajay Jha",
+   "name_ar": null,
+   "title": "Chief Risk Officer",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Risk Management",
+   "scope": "Bank",
+   "appointed": null,
+   "appointed_note": "Appointment date not stated on the page.",
+   "previous_roles": "25+ years across Bahrain, Saudi Arabia and India; earlier Head of Risk & Compliance at APICORP, Head of Risk Management at Al Rajhi Capital, Head of Risk at Amlak International Finance (S1).",
+   "education": "MBA, Devi Ahilya University; BSc (Hons) Chemistry, University of Delhi",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page (S1); Bourse key-persons list (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Andrew Mario Stefan Corera",
+   "name_ar": null,
+   "title": "Chief Applications Officer",
+   "functions": [
+    "Technology",
+    "Digital"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Applications / IT",
+   "scope": "Bank",
+   "appointed": null,
+   "appointed_note": "Date not stated.",
+   "previous_roles": "30+ years in banking technology and operations at ANZ, Grindlays and Standard Chartered (postings in Sri Lanka, Australia, Qatar, Vietnam, Bahrain) (S1).",
+   "education": null,
+   "qualifications": "MBCS; CITP; IPM project management certification",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page (S1); Bourse key-persons list (S5), which also lists him under NBB as 'BisB - Chief Applications Officer'.",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Yousif Ali Engineer",
+   "name_ar": null,
+   "title": "Acting Chief Corporate & Institutional Banking Officer",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Corporate & Institutional Banking",
+   "scope": "Bank",
+   "appointed": null,
+   "appointed_note": "Acting title; date not stated. The post was held by Aqeel Ghaith from Aug 2024 (Bourse filing seen in search results), who now appears as Chief Private Banking Officer at BBK.",
+   "previous_roles": "20+ years in corporate banking, portfolio management and real-estate/construction financing (S1).",
+   "education": "BA Economics, Pepperdine University; MSc International Finance, University of Westminster",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page (S1); prior holder per Bourse filing seen in search results (S18).",
+   "source_ids": [
+    "S1",
+    "S18"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dr. Hamad Farooq Al Shaikh",
+   "name_ar": null,
+   "title": "Head of Shari'a Coordination & Implementation",
+   "functions": [
+    "Islamic / Shariah"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Shari'a Coordination & Implementation",
+   "scope": "Bank",
+   "appointed": null,
+   "appointed_note": "Up to 19 years at BisB; date of current title not stated.",
+   "previous_roles": "Led Shari'a Auditing then Shari'a Coordination & Implementation; Secretary and Rapporteur of the Shari'a Supervisory Board (S1).",
+   "education": "PhD Islamic Banking and Finance, IIUM; Master's in Islamic Studies; Bachelor's in Law and Shari'a, Qatar University",
+   "qualifications": "ADICJ and SRDP (BIBF); CSAA (AAOIFI); CIB (CIBAFI)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page (S1); Bourse key-persons list (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Husain Almohri",
+   "name_ar": null,
+   "title": "Board Member (Executive), NBB representative",
+   "functions": [
+    "Board",
+    "Investments / asset management",
+    "Treasury"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2026-04",
+   "appointed_note": "Appointed to the BisB board as NBB's representative effective 12 Apr 2026. NBB Group Chief Executive - Markets & Client Solutions (joined Jan 2026).",
+   "previous_roles": "HSBC Investment Bank Dubai (MD, Head of Trading MENAT, Regional Head MENA Markets), Credit Agricole CIB, Investcorp, Ahli United Bank; Board member SICO (S1).",
+   "education": "BS Management, New York Institute of Technology; Diplomas, University of Bahrain",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Bahrain Bourse announcement (BisB, 12 Apr 2026) (S13); 'Our People' page (S1).",
+   "source_ids": [
+    "S13",
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ali Ehsan",
+   "name_ar": null,
+   "title": "Board Member (Executive)",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Bahrain Islamic Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Board appointment date not stated. NBB Group Chief Risk Officer.",
+   "previous_roles": "20+ years in risk management; previously Country Manager and Chief of UAE Representative Office Operations, BBK (S1).",
+   "education": "BCom Finance (Honors), Concordia University; MSc Finance, DePaul University",
+   "qualifications": "FRM (GARP)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "BisB 'Our People' page (S1); Bourse key-persons list (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "BisB is a small, fully Shari'a-compliant retail bank (BHD 1.78bn assets, six branches) that began building a wealth function in 2025 under its Treasury/Investment Banking unit. The 2025 annual report lists three launches: an Islamic credit-linked note linked to Bahrain's credit risk (first in the Kingdom, for accredited investors), a partnership with Societe Generale for 'world-class wealth management solutions', and a partnership with Allfunds to widen client access to global Shari'a-compliant fund managers within an 'open-architecture investment platform'; wealth-management revenue grew 'substantially' with green sukuk offerings. Client-facing tiers are Al Thuraya (premium/priority, Visa Infinite, dedicated RMs, 'exclusive Shari'a compliant investment products', no published threshold) and BisB Premium (salary of BD 1,500+ for three months). The BisB Mobile product page lists no investing features, and no AUM, brokerage or discretionary offer was found. NBB controls the bank (80.2%) and the NBB group is in merger talks with BBK.",
+  "segments": [
+   {
+    "name": "Al Thuraya (Premium Banking)",
+    "tier": "Affluent / private-priority",
+    "eligibility": "No balance or salary threshold published; Visa Infinite card, dedicated relationship managers and 'exclusive Shari'a compliant investment products'.",
+    "source_ids": [
+     "S8",
+     "S3"
+    ]
+   },
+   {
+    "name": "BisB Premium",
+    "tier": "Affluent (salary-linked)",
+    "eligibility": "'Salaries of BD 1,500 or more' transferred to BisB, credited for 3 consecutive months.",
+    "source_ids": [
+     "S7"
+    ]
+   },
+   {
+    "name": "Accredited investors",
+    "tier": "Private / HNW",
+    "eligibility": "Islamic credit-linked note offered to accredited investors; no threshold stated.",
+    "source_ids": [
+     "S3"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Unclear",
+   "detail": "AR 2025 refers to 'Private and Priority Banking (Al Thuraya)' (led earlier by the current retail chief). The Al Thuraya page describes a premium/priority tier, not a separate private bank; no private-banking head or threshold found.",
+   "source_ids": [
+    "S3",
+    "S8",
+    "S1"
+   ]
+  },
+  "asset_management": {
+   "present": "Not found after research",
+   "detail": "No BisB fund manager or asset-management subsidiary (only subsidiary: Abaad Real Estate). Wealth products are sourced from partners (Societe Generale, Allfunds).",
+   "source_ids": [
+    "S2",
+    "S3"
+   ]
+  },
+  "brokerage": {
+   "present": "Not found after research",
+   "detail": "No equities brokerage or trading platform found; corporate accounts include sukuk custody.",
+   "source_ids": [
+    "S3",
+    "S10"
+   ]
+  },
+  "digital_investing": {
+   "present": "Not found after research",
+   "detail": "BisB Mobile page lists biometric sign-in, cardless withdrawal, transfers, card controls and budgeting/saving only; no in-app investing or wealth features. Retail digital adoption rose from 68% to 74% in 2025 with 91% digital onboarding.",
+   "source_ids": [
+    "S9",
+    "S3"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Al Thuraya customers get dedicated relationship managers and access to 'exclusive Shari'a compliant investment products'; AR 2025 describes a Wealth Management function in Treasury offering products to accredited investors.",
+   "source_ids": [
+    "S8",
+    "S3"
+   ]
+  },
+  "discretionary": {
+   "present": "Not found after research",
+   "detail": "No discretionary portfolio management found.",
+   "source_ids": [
+    "S3",
+    "S8"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No model portfolios or robo-advisory found.",
+   "source_ids": [
+    "S3",
+    "S9"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "AR 2025: partnered with Allfunds to 'enhance our investment fund architecture' and widen access to global Shari'a-compliant fund managers, 'further strengthening our open-architecture investment platform'. Client-facing fund shelf not seen on BisB product pages; no press release found.",
+   "source_ids": [
+    "S3"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "Shari'a-compliant Islamic credit-linked note linked to Bahrain's credit risk for accredited investors (2025); Treasury offers 'Sukuk and structured products'; partnership with Societe Generale for wealth solutions.",
+   "source_ids": [
+    "S3"
+   ]
+  },
+  "private_markets": {
+   "present": "Not found after research",
+   "detail": "No alternatives or private-markets offer found.",
+   "source_ids": [
+    "S3"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Entire bank is Shari'a-compliant: sukuk portfolio (+47% in 2025), green sukuk offerings, Islamic credit-linked note, Shari'a fund access via Allfunds; 'Al Murshid' AI Shari'a platform launched 2025.",
+   "source_ids": [
+    "S3"
+   ]
+  },
+  "asset_classes": [
+   "Sukuk",
+   "Structured products",
+   "Mutual funds"
+  ],
+  "partners": [
+   {
+    "partner": "Allfunds",
+    "kind": "Fund platform / distribution",
+    "what": "Enhance investment fund architecture; wider access to global Shari'a-compliant fund managers (open architecture)",
+    "date": "2025",
+    "status": "Announced",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "partner": "Societe Generale",
+    "kind": "Wealth management solutions / product partner",
+    "what": "Partnered 'to offer investors world-class wealth management solutions' (AR 2025); product scope not detailed",
+    "date": "2025",
+    "status": "Announced",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "partner": "Veripark (inferred)",
+    "kind": "Mobile banking app developer",
+    "what": "BisB Mobile Google Play link on bisb.com uses the package name com.veripark.bisbmobile; vendor relationship inferred from the package name only",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S11"
+    ]
+   },
+   {
+    "partner": "Tarabut Gateway",
+    "kind": "Open banking",
+    "what": "BisB site links an Open Banking developer portal on tarabutgateway.io (sandbox)",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S11"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2025",
+    "what": "Wealth Management launched an Islamic credit-linked note (first in Bahrain, accredited investors); partnered with Societe Generale and Allfunds; introduced green sukuk offerings; Premium segment and Tejoori Premium savers launched in retail.",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Launched 'Al Murshid', an AI-powered Shari'a knowledge platform; digital adoption up (retail 68% to 74%).",
+    "source_ids": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2026-04-12",
+    "what": "Husain Almohri (NBB Group CE Markets & Client Solutions) appointed to the BisB board as NBB representative.",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2026-08-05",
+    "what": "H1 2026 results published: profit BHD 6.5m (H1 2025: 13.2m incl. one-off real-estate income); NBB's holding rose to 80.22%.",
+    "source_ids": [
+     "S2",
+     "S15"
+    ]
+   },
+   {
+    "date": "2026-08-11",
+    "what": "Appointment of a Head of Special Assets disclosed on the Bourse.",
+    "source_ids": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2026-08-16",
+    "what": "BisB became first bank to offer Shari'a-compliant financing through the consumer lending marketplace on BenefitPay (news listing).",
+    "source_ids": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2026-08-31",
+    "what": "Named 'Best Islamic Bank in Bahrain' at the Euromoney Islamic Finance Awards 2026 (news listing).",
+    "source_ids": [
+     "S12"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Wealth Management function is new (2025) and describes an 'open-architecture investment platform' with Shari'a-compliant fund access via Allfunds (S3 p.21).",
+    "BisB's own product pages show no funds, sukuk or in-app investing for retail or Al Thuraya clients; Al Thuraya mentions only unnamed 'exclusive Shari'a compliant investment products' (S8, S9).",
+    "Retail digital adoption 74% and 91% digital onboarding in 2025 (S3 p.62) give a channel for digital investing, which the app does not yet offer."
+   ],
+   "barriers": [
+    "Controlled by NBB (80.2%); NBB integrates selected governance, operational and support functions and its Markets & Client Solutions head sits on the BisB board, so vendor choices are likely made at group level (S2, S3, S13).",
+    "Allfunds (fund architecture) and Societe Generale (wealth solutions) are already named partners (S3 p.21).",
+    "NBB Group CEO and BisB Vice Chairman Usman Ahmed resigns by 31 Dec 2026 and NBB-BBK merger talks are open, adding group-level uncertainty (see bh-nbb).",
+    "Small balance sheet (BHD 1.78bn) and six branches; wealth revenue not disclosed in amounts."
+   ],
+   "incumbent_vendors": [
+    "Allfunds - fund architecture/platform (AR 2025)",
+    "Societe Generale - wealth management solutions partner (AR 2025)",
+    "Veripark - mobile app developer, inferred from Google Play package name only (S11)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Our People - Board of Directors and Executive Management",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/en/our-people",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Bahrain Islamic Bank B.S.C. - Condensed Consolidated Interim Financial Information 30 June 2026 (reviewed)",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/sites/default/files/2026-08/Condensed-Consolidated-Interim-Financial-Information-30-June-2026.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-08-05",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Board approval 4 Aug 2026; results announced on the Bourse 5 Aug 2026."
+  },
+  {
+   "id": "S3",
+   "title": "Annual Financial and Sustainability Report 2025",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/sites/default/files/2026-03/BH2601021%20-%20BisB%20Annual%20Report%20-%20ENGLISH%20-%20V15.pdf",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": "2026-03",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "424-page PDF; the standalone FY2025 financial statements PDF on bisb.com is image-only and was not used."
+  },
+  {
+   "id": "S4",
+   "title": "Major Shareholders - BISB",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/BISB/MajorShareholder.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated issuer-provided list: NBB 80.23%, Kuwait Awqaf Public Foundation 7.18%."
+  },
+  {
+   "id": "S5",
+   "title": "List of Key Persons - BISB",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/BISB/Keyperson.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated issuer-provided list."
+  },
+  {
+   "id": "S6",
+   "title": "Financials (annual and interim reports)",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/en/our-financials",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "BisB Premium",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/en/bisb-premium",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Al Thuraya - Premium Banking",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/en/products/premium-banking",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "BisB Mobile",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/en/products/bisb-mobile",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Products and Services",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/en/our-products-services",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "BisB homepage (app store links, open banking portal, news)",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Homepage opened in the built-in browser; package name read from the Google Play link."
+  },
+  {
+   "id": "S12",
+   "title": "Media Center - news listing",
+   "publisher": "Bahrain Islamic Bank",
+   "url": "https://www.bisb.com/en/news-listing",
+   "doc_type": "Official news page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Board Members Appointment Announcement (12 Apr 2026)",
+   "publisher": "Bahrain Islamic Bank via Bahrain Bourse",
+   "url": "https://www.bisb.com/sites/default/files/2026-04/BisB%20-%20Board%20Members%20Appointement%20-%20BHB%20Announcement.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-04-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Appointment of Head of Special Assets (11 Aug 2026)",
+   "publisher": "Bahrain Islamic Bank via Bahrain Bourse",
+   "url": "https://www.bisb.com/sites/default/files/2026-08/BisB_Announcement_Appointment_of_Head_of_Special_Assets.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-08-11",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Only the header was read; appointee name not captured."
+  },
+  {
+   "id": "S15",
+   "title": "Company Announcements - Bahrain Islamic Bank (listing filtered to BISB, titles and times)",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/EN/NEWS%20AND%20EVENTS/COMPANYANNOUNCEMENTS",
+   "doc_type": "Exchange announcements listing",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Listing read in the built-in browser; detail pages show a Cloudflare human-verification check and were not opened or bypassed. Titles seen: 'Changes in interest of Substantial Shareholders' (17 Feb and 24 Aug 2026), 'Retirement of Chief Compliance Officer' (4 Feb 2026), 'Appointment in Management' (11 Aug 2026)."
+  },
+  {
+   "id": "S16",
+   "title": "National Bank of Bahrain Group - Condensed Consolidated Interim Financial Information 30 June 2026",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/wp-content/uploads/2026/08/NBB-Q2-2026-FS-English.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-08-10",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Note 1: NBB holds 80.2% of BisB (31 Dec 2025: 78.8%)."
+  },
+  {
+   "id": "S17",
+   "title": "BisB names new chief executive",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1342532/BisB-names-new-chief-executive",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened)."
+  },
+  {
+   "id": "S18",
+   "title": "BisB announcement - appointment of Chief Corporate & Institutional Banking Officer (7 Aug 2024)",
+   "publisher": "Bahrain Islamic Bank via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/File%20Attachments/07082024074958/07082024074958_File1.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2024-08-07",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); snippet named Aqeel Mohammed Ghaith, effective 6 Aug 2024."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "NBB ownership percentage",
+   "detail": "BisB interim note: NBB 80.22%; Bahrain Bourse shareholder list: 80.23%; NBB interim note: 80.2%; 31 Dec 2025: 78.81% (BisB AR p.220) / 78.8% (NBB).",
+   "source_ids": [
+    "S2",
+    "S4",
+    "S16",
+    "S3"
+   ],
+   "resolution": "80.22% (BisB's own interim statements) recorded at 30 Jun 2026; the increase from 78.81% coincides with 'Changes in interest of Substantial Shareholders' notices on 17 Feb and 24 Aug 2026 (titles only; content not read)."
+  },
+  {
+   "field": "Double counting with NBB",
+   "detail": "NBB fully consolidates BisB; NBB's Group total assets (BHD 6,372.1m) include BisB's BHD 1,779.4m.",
+   "source_ids": [
+    "S2",
+    "S16"
+   ],
+   "resolution": "bh-bisb has parent_id bh-nbb; never add BisB to NBB group totals."
+  },
+  {
+   "field": "Customer deposits construction",
+   "detail": "BisB prints no single 'customer deposits' line; the AR five-year summary figure (BHD 1,173.7m) equals current accounts plus placements from, and quasi-equity of, non-financial institutions and individuals.",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "resolution": "Same construction applied to 30 Jun 2026 (BHD 1,184,471k)."
+  },
+  {
+   "field": "H1 2025 profit comparison",
+   "detail": "H1 2025 profit of BHD 13,188k includes BHD 9,963k real-estate income; H1 2026 profit is BHD 6,489k.",
+   "source_ids": [
+    "S2"
+   ],
+   "resolution": "Both recorded with the one-off flagged; NBB's release states BisB had a BHD 9.7m land-sale gain in H1 2025."
+  }
+ ],
+ "open_items": [
+  "Q3 2026 results not yet published at 12 Oct 2026.",
+  "Content of Bahrain Bourse notices 'Changes in interest of Substantial Shareholders' (17 Feb and 24 Aug 2026), 'Retirement of Chief Compliance Officer' (4 Feb 2026) and the Head of Special Assets appointee was not read (Cloudflare check on detail pages; not bypassed).",
+  "Allfunds and Societe Generale partnerships appear only in BisB's AR 2025; no press release or client-facing product page found, so go-live status is unclear.",
+  "No head of Wealth Management found by name; Faisal Al Abdulla (retail chief, ex-Al Thuraya) is the closest wealth-relevant executive. No LinkedIn URLs verified (CEO searched, no own-profile match).",
+  "Fatema AlAlawi's CEO appointment date not confirmed from an opened source (GDN article seen in search results only).",
+  "Aqeel Ghaith was named BisB Chief Corporate & Institutional Banking Officer in Aug 2024 (Bourse snippet) and appears as Chief Private Banking Officer at BBK from 2025; BisB lists an acting officer in that post.",
+  "Whether 'Financing contracts' is net of impairment allowances was not checked; AUM, AUA, customers and headcount not disclosed.",
+  "BisB's chair is also an NBB director; NBB Group CEO Usman Ahmed (BisB Vice Chairman) has announced his resignation (last day 31 Dec 2026) - see bh-nbb."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B27",
+ "checked": "2026-10-12"
+}

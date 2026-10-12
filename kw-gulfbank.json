@@ -1,0 +1,1504 @@
+{
+ "id": "kw-gulfbank",
+ "name": "Gulf Bank",
+ "short_name": "Gulf Bank",
+ "legal_name": "Gulf Bank K.S.C.P.",
+ "name_ar": "بنك الخليج",
+ "country": "KW",
+ "hq_city": "Kuwait City",
+ "website": "https://www.e-gulfbank.com",
+ "linkedin_company": null,
+ "category": "Bank",
+ "type": "Universal / commercial bank",
+ "model": "Conventional",
+ "founded": "1960 (AR 2025: 'Founded 1960'; listed on Kuwait Stock Exchange 1984)",
+ "regulators": [
+  "CBK",
+  "CMA Kuwait (InvestGB licence; listed issuer)"
+ ],
+ "listed": true,
+ "exchange": "Boursa Kuwait (Premier Market)",
+ "ticker": "GBK (Boursa Kuwait stock number 102)",
+ "parent_id": null,
+ "ownership_summary": "Listed on Boursa Kuwait. At 31 Dec 2025 the Group of Warba Bank (through Warba Strategy Co.) held 32.75%, the Public Institution for Social Security 7.19% and Behbehani Investment Co. 6.06% (AR 2025). Warba completed its purchase of Al Ghanem Trading in April 2025, and the two banks signed an MoU in 2025 to assess a merger into one Sharia-compliant bank. The assessment is ongoing: due diligence 'nearing completion' (24 May 2026) and moving 'in an orderly manner' (3 Aug 2026); no definitive agreement found as of 12 Oct 2026. Gulf Bank is separately converting to a Sharia-compliant bank (CBK initial approval Aug 2025).",
+ "shareholders": [
+  {
+   "holder": "Group of Warba Bank (Warba Strategy Co.)",
+   "pct": 32.75,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "holder": "Public Institution for Social Security (PIFSS)",
+   "pct": 7.19,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "holder": "Behbehani Investment Co.",
+   "pct": 6.06,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "holder": "Other shareholders (each below 5%)",
+   "pct": 54.0,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "government_link": "Partial - the Public Institution for Social Security (a Kuwaiti public institution) holds 7.19% at 31 Dec 2025; no controlling government holding.",
+ "group_structure": "Gulf Bank K.S.C.P. consolidates one subsidiary, Gulf Capital Investment Company K.S.C. (Closed), trading as InvestGB (100%, KD 10m capital, established 2023). InvestGB is not profiled separately, so its AUM, people and capabilities are recorded here. Warba Bank (kw-warba) holds 32.75% but does not consolidate Gulf Bank as a subsidiary on the evidence found; do not add the two banks' figures.",
+ "subsidiaries": [
+  {
+   "name": "Gulf Capital Investment Company K.S.C. (Closed) - InvestGB",
+   "pct": 100.0,
+   "activity": "CMA-licensed investment arm: asset management, custody, brokerage, wealth management, investment banking",
+   "linked_id": null,
+   "source_ids": [
+    "S3",
+    "S4",
+    "S19"
+   ]
+  }
+ ],
+ "footprint": "Kuwait: 48 branches and 255+ ATMs per website (30 Jun 2026 context); AR 2025 says 45+ branches, 268 ATMs and 16 ITMs. International Banking department lends across GCC, Turkey and Egypt without local branches (AR 2025).",
+ "customer_segments": "Mass retail and youth (red, neo), Preferred, Priority (affluent), Private Banking (HNW), SME (11 dedicated SME relationship managers across 11 branches), corporate, multinational, financial institutions and sovereigns. Consumer 34% / corporate and banks 66% of total loans (31 Dec 2025).",
+ "business_lines": "Consumer Banking (loans, cards, deposits, Preferred, Priority, Private Banking and wealth management), Corporate Banking (wholesale, commercial, SME, structured and project finance, transaction banking), International Banking (financial institutions and sovereigns; multinationals and oil & gas), Treasury and Investment, and InvestGB (asset management, custody, brokerage, wealth, investment banking).",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 8095097,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (Gulf Bank and its 100% subsidiary InvestGB)",
+   "definition": "'TOTAL ASSETS', interim condensed consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.5 (printed p.4); S5 PDF p.6 (KD 8,095m)",
+   "note": "Press release says KD 8.1bn (rounded)."
+  },
+  {
+   "metric": "total_assets",
+   "value": 7699709,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL ASSETS' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 PDF p.128; S3 PDF p.5 comparative",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 5073142,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits'; excludes 'Deposits from financial institutions' (KD 924,721k) and 'Due to banks' (KD 242,605k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.5; S5 PDF p.6 (KD 5,073m)",
+   "note": "The press release's 'KD 6.0 billion customer deposits' equals customer deposits plus deposits from financial institutions (about KD 5,998m); see discrepancies."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 4954788,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits' (audited); excludes deposits from financial institutions (KD 769,904k) and due to banks (KD 187,956k)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 PDF p.128",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 6303362,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances' on the statement of financial position (net of provisions; conventional lending)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.5; S5 PDF p.6 (gross KD 6,532m less provisions KD 228m)",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 5858707,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances' (audited, net)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 PDF p.128",
+   "note": ""
+  },
+  {
+   "metric": "gross_loans",
+   "value": 6532,
+   "unit": "million",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Gross loans and advances' per earnings presentation balance sheet",
+   "status": "Verified",
+   "source_ids": [
+    "S5",
+    "S6"
+   ],
+   "locator": "S5 PDF p.3 and p.6",
+   "note": "Rounded presentation figure (KD million). 31 Dec 2025: KD 6,087m."
+  },
+  {
+   "metric": "total_equity",
+   "value": 845900,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL EQUITY' after treasury shares (KD 2,377k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.5",
+   "note": "31 Dec 2025: KD 854,365k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 188883,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Operating income' (net interest income KD 146,024k + net fees and commissions + FX/derivative gains + dividend and other income), consolidated statement of income",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.126",
+   "note": "FY2024: KD 199,328k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 94274,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Operating income', six months ended 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S7"
+   ],
+   "locator": "S3 PDF p.3",
+   "note": "H1 2025: KD 91,753k. Q2 2026: KD 49,162k."
+  },
+  {
+   "metric": "net_profit",
+   "value": 52380,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'PROFIT FOR THE YEAR' (the bank has a single 100% subsidiary, so equals profit attributable to shareholders)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.126-127",
+   "note": "FY2024: KD 60,172k; AR headline KD 52.4m, down 13%."
+  },
+  {
+   "metric": "net_profit",
+   "value": 27433,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'PROFIT FOR THE PERIOD', six months ended 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S7"
+   ],
+   "locator": "S3 PDF p.3",
+   "note": "H1 2025: KD 24,039k (+14.1%). Q2 2026: KD 18,008k."
+  },
+  {
+   "metric": "net_fees_and_commissions",
+   "value": 28267,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Net fees and commissions' (fiduciary income is included in this line per accounting policy 2.6m)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.126, p.144",
+   "note": "H1 2026: KD 14,652k (S3 PDF p.3)."
+  },
+  {
+   "metric": "aum",
+   "value": 1,
+   "unit": "billion",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025 (AR statement; same wording used at Nov 2023 launch)",
+   "period_type": "point_in_time",
+   "scope": "Subsidiary: Gulf Capital Investment Company K.S.C.(C) (InvestGB)",
+   "definition": "AR text: InvestGB 'manages assets exceeding KD 1 billion (approximately USD 3.2 billion)'. A floor ('exceeding'), not an exact figure; discretionary vs non-discretionary split not stated",
+   "status": "Requires verification",
+   "source_ids": [
+    "S4",
+    "S19"
+   ],
+   "locator": "S4 PDF p.51; S19 (20 Nov 2023: 'begins by managing assets above KD 1 billion')",
+   "note": "The label used is 'manages assets', not 'AUM'; the identical floor figure appeared at launch in Nov 2023, so it may not be updated. No dated figure for 30 Jun 2026."
+  },
+  {
+   "metric": "employees",
+   "value": 1699,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "'Diverse talent pool of 1,699 employees', women 40%",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.14",
+   "note": ""
+  },
+  {
+   "metric": "branches",
+   "value": 48,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "Website, text referencing 30 Jun 2026 assets",
+   "period_type": "point_in_time",
+   "scope": "Kuwait",
+   "definition": "'48 branches and over 255 ATMs in Kuwait' (group profile)",
+   "status": "Verified",
+   "source_ids": [
+    "S23"
+   ],
+   "locator": "About Us page",
+   "note": "AR 2025 p.8 says '45+ branches, 268 ATMs, 16 ITMs' (31 Dec 2025 vintage); see discrepancies."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "S4 (AR 2025), S3 notes (fiduciary assets only appear as an accounting policy, no amount), S5/S6 (H1 2026 presentation), S7."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "No private banking / priority client-asset figure in S4, S5, S6, S7, S13."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S4 (no customer count; employee count only), S5, S7, S23."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "No WISE, One Trader or InvestGB client counts in S4, S16, S17, S21, S26."
+  },
+  {
+   "metric": "fiduciary_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 financial statements and notes (S4): accounting policy only, no balance disclosed."
+  }
+ ],
+ "people": [
+  {
+   "name": "Ahmad Mohammad Al Bahar",
+   "name_ar": null,
+   "title": "Chairman of the Board",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2025-01",
+   "appointed_note": "Joined the Board November 2020 (S2); named Chairman Jan 2025 (S4 p.16, p.81).",
+   "previous_roles": "Former CEO, Gulf Custody Company (Kuwait) and Chairman of its Bahrain and Oman operations; Partner-in-Charge, Settlement Group, The International Investor; Senior Manager, Settlement Department, KFTCIC; Manager, Consumer Loans Department, AREF; former Chairman, Bahrain Real Estate Company (S2).",
+   "education": "Bachelor's in Business Administration and Finance, Southern Oregon State University (USA)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S2); AR 2025 records he was named Chairman by acclamation in Jan 2025 after Bader AlKharafi resigned (S4 p.81); signed H1 2026 statements as Chairman (S3).",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sami Bakhos Mahfouz",
+   "name_ar": null,
+   "title": "Acting Chief Executive Officer",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Executive Management",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Gulf Bank 6 Mar 2018 (S1). Date he became Acting CEO not found; Waleed Mandani was named Acting CEO of Gulf Bank in Nov 2023 (S19) and the AR 2025 Acting CEO statement is Mahfouz's (S4).",
+   "previous_roles": "30+ years in regional banking; 18 years at Standard Chartered Bank, last as Head of MENA Public Sector Coverage Group, with financial markets roles in UAE, Bahrain and Lebanon; started at HSBC Lebanon (S1).",
+   "education": "Master's degree in Business Management, Holy Spirit University, Lebanon",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); signed 30 Jun 2026 statements as 'Acting Chief Executive Officer' (S3); presented H1 2026 webcast on 3 Aug 2026 (S15). A leadership search found no departure news and no permanent-CEO announcement.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S4",
+    "S15"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faisal Abdulwahab AlAdsani",
+   "name_ar": null,
+   "title": "Deputy Chief Executive Officer",
+   "functions": [
+    "Deputy CEO",
+    "Corporate / wholesale"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Executive Management (Family Conglomerates Division)",
+   "scope": "Group",
+   "appointed": "2026-07-09",
+   "appointed_note": "Effective 9 Jul 2026 (S14); Acting Deputy CEO since 2023. Joined Gulf Bank 18 Apr 2004 (S1).",
+   "previous_roles": "Heads the Family Conglomerates Division (trading, commercial, industrial, services clients); earlier Deputy GM Corporate Banking (2019), GM Corporate Banking Group 2021-2023; Deputy GM for Multinational Corporations and Oil & Gas; AGM Shares & Real Estate Unit; Assistant Relationship Manager, Financial Markets (S1, S14).",
+   "education": "Bachelor's in Finance, University of Denver; executive programmes at Harvard Business School, INSEAD and UC Berkeley",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 lists Deputy CEO (S1); Kuwait Times 11 Jul 2026 reports appointment as Deputy CEO effective 9 Jul 2026 after CBK nomination, previously Acting Deputy CEO since 2023 (S14). Was still styled Acting Deputy CEO on 24 May 2026 (S8).",
+   "source_ids": [
+    "S1",
+    "S14",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "David Challinor",
+   "name_ar": null,
+   "title": "Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Finance",
+   "scope": "Group",
+   "appointed": "2021-04-14",
+   "appointed_note": "Joined Gulf Bank 14 Apr 2021 (S1, S4).",
+   "previous_roles": "CFO of Doha Bank (Qatar) for 12 years; large financial institutions in Australia; qualified with Price Waterhouse London (S1, S4).",
+   "education": "Honours degree in Economics, University of Newcastle (UK)",
+   "qualifications": "Fellow, Institute of Chartered Accountants in England and Wales; member, Australian Institute of Company Directors",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 (S4); co-presented H1 2026 webcast 3 Aug 2026 (S15).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S15"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Tarek Ragab",
+   "name_ar": null,
+   "title": "Acting General Manager - Consumer Banking",
+   "functions": [
+    "Retail"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Consumer Banking",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "Joined Gulf Bank 24 Jan 2010 (S1); date of acting appointment not stated.",
+   "previous_roles": "25+ years in consumer and retail banking; senior roles at HSBC Egypt and National Bank of Kuwait; led digital onboarding and omni-channel initiatives, direct sales, car finance and specialised segment teams (S1).",
+   "education": "Bachelor's in Business Administration, Sadat Academy for Management Sciences; Strategic IQ programme, Harvard Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1). Predecessor Bader Al-Ali's resignation took effect 15 Feb 2026 per AR 2025 (S4 p.70).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulrahman AlKhubaizi",
+   "name_ar": null,
+   "title": "Deputy General Manager - Consumer Banking, Wealth Management",
+   "functions": [
+    "Wealth",
+    "Private banking",
+    "Affluent"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Consumer Banking - Wealth Management",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted with this title in Gulf Bank's press release of 8 Oct 2026 (S13). He is not on the executive management page (below GM level). A search result also shows the same title in an earlier award release (undated).",
+   "source_ids": [
+    "S13"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Saba AlFassam",
+   "name_ar": null,
+   "title": "Assistant General Manager - Priority Banking",
+   "functions": [
+    "Affluent"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Priority Banking",
+   "scope": "Kuwait",
+   "appointed": null,
+   "appointed_note": "Appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted with this title in the press release of 8 Oct 2026 (S13); not on the executive page (below GM level).",
+   "source_ids": [
+    "S13"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hani Mohammed AlAwadhi",
+   "name_ar": null,
+   "title": "Vice Chairman and Chief Executive Officer, Gulf Capital Investment Company (InvestGB)",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management",
+    "Brokerage"
+   ],
+   "entity": "Gulf Capital Investment Company K.S.C. (Closed) (InvestGB)",
+   "business_unit": "InvestGB",
+   "scope": "Subsidiary",
+   "appointed": "2023-11",
+   "appointed_note": "Approved by the CMA as CEO of Invest GB when the company was introduced on 20 Nov 2023; was then General Manager, Investment, Gulf Bank (S19).",
+   "previous_roles": "20+ years in investment; General Manager - Investment, Gulf Bank; earlier leadership positions at Gulf Bank and Gulf Investment Corporation (S19 and search result; the Gulf Investment Corporation line is from a search summary only).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": "https://www.linkedin.com/in/hani-alawadhi-0156037/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Quoted as Vice-Chairman and CEO of InvestGB in Kuwait Times articles of 27 Dec 2025 (S16) and 21 Jun 2026 (S26); approved by CMA as InvestGB CEO at its Nov 2023 launch (S19).",
+   "source_ids": [
+    "S19",
+    "S16",
+    "S26",
+    "S29"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ammar Taleb Hajeyah",
+   "name_ar": null,
+   "title": "Chief Investment Officer, InvestGB",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Gulf Capital Investment Company K.S.C. (Closed) (InvestGB)",
+   "business_unit": "InvestGB",
+   "scope": "Subsidiary",
+   "appointed": "2026-05-04",
+   "appointed_note": "Effective 4 May 2026 (S17).",
+   "previous_roles": "21+ years; most recently Acting General Manager of Investments, Gulf Bank; earlier board and senior roles at Global Investment House, Arzan Financial Group, First Securities Brokerage Company, Gulf Custody Company and JS Global Capital (Pakistan); independent member, Higher Committee of the Insurance Regulatory Unit (S17).",
+   "education": "Bachelor's in Business Administration (Finance), Kuwait University; MBA in Strategic Management, Maastricht School of Management Kuwait; executive programmes at Harvard Kennedy School and Cornell ILR (S17)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Kuwait Times (announced 3 May 2026, effective 4 May 2026) (S17); IFN Investor headline dated 5 May 2026 (S18).",
+   "source_ids": [
+    "S17",
+    "S18"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Lamia Karam",
+   "name_ar": null,
+   "title": "General Manager - Treasury; Chairperson, InvestGB",
+   "functions": [
+    "Treasury",
+    "Investments / asset management"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Treasury",
+   "scope": "Group",
+   "appointed": "2023-08",
+   "appointed_note": "General Manager - Treasury from Aug 2023 (S1); joined 2 Jul 2017; Chairperson of InvestGB from Aug 2025 (S4).",
+   "previous_roles": "30+ years in treasury; Al Ahli Bank of Kuwait (1987-1991); 23 years at Burgan Bank, ending as Treasurer, Kuwait office; Deputy Manager Treasury at Gulf Bank 2017 (S1).",
+   "education": "Bachelor's in Economics, Kuwait University (1987); MIT Sloan certifications",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); AR 2025 records appointment as Chairperson of InvestGB in Aug 2025 (S4 p.71).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faisal Mohammed AlGharabally",
+   "name_ar": null,
+   "title": "General Manager - Corporate and International Banking",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Corporate and International Banking",
+   "scope": "Group",
+   "appointed": "2026-07-09",
+   "appointed_note": "Effective 9 Jul 2026 (S14); joined Gulf Bank 1 Jan 2001.",
+   "previous_roles": "Internal Audit (from Jan 2001), Corporate Banking from 2007, Deputy GM Corporate Banking before current role (S1, S14).",
+   "education": "Bachelor's in Business Administration and Finance, Kuwait University; Executive MBA, INSEAD; programmes at Harvard and Chicago Booth",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1); appointment effective 9 Jul 2026 (S14).",
+   "source_ids": [
+    "S1",
+    "S14"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Meshal AlWazzan",
+   "name_ar": null,
+   "title": "Chief Strategy Officer (General Manager)",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Strategy",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Gulf Bank 10 Feb 2019; date of CSO appointment not stated.",
+   "previous_roles": "Analyst at Wafra Investment Advisory (New York); Corporate Banking, Structured Workouts, Corporate Finance; AGM Small & Middle Markets Coverage; Head of Strategy and Head of Conversion Management Office at Gulf Bank; earlier Executive Vice Chairman of the National Fund for SME Development and Executive Director of the Competition Protection Agency (S1).",
+   "education": "MBA, IE Business School; BBA, University of Toledo",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dari (Dhari) AlBader",
+   "name_ar": null,
+   "title": "General Manager - Corporate Affairs",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Corporate Affairs",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Gulf Bank 21 Oct 2019.",
+   "previous_roles": "President, Group Corporate Affairs, Alghanim Industries; JP Morgan, Citigroup, Dubai Capital Group, NBK; Chairman of Asiya Capital Investments; board member of INJAZ (S1).",
+   "education": "BSc Management Science and Mechanical Engineering, MIT; MBA, Columbia Business School",
+   "qualifications": "CFA",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1). Also a board member of Gulf Capital Investment Company (S1, S4 p.73).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Soly Mathew",
+   "name_ar": null,
+   "title": "Acting Chief Risk Officer",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Risk",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Joined Gulf Bank 5 Dec 2000; date of acting appointment not stated (after 15 Jan 2026).",
+   "previous_roles": "25+ years at Gulf Bank in risk leadership; earlier IDBI Bank and The Federal Bank (S1).",
+   "education": "Bachelor of Commerce, Osmania University; CAIIB; ICFAI",
+   "qualifications": "CFA (ICFAI, India)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official page checked 2026-10-12 (S1). AR 2025 records the resignation of CRO Abdulrahman Al-Saddah effective 15 Jan 2026 (S4 p.69).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dalal Hisham AlRayes",
+   "name_ar": null,
+   "title": "Board Member",
+   "functions": [
+    "Board",
+    "Innovation / partnerships"
+   ],
+   "entity": "Gulf Bank K.S.C.P.",
+   "business_unit": "Board of Directors (Compliance and Governance Committee)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Board appointment date not stated.",
+   "previous_roles": "CEO and co-founder of Spare (open finance provider, Middle East); earlier investment manager at Global Investment House's private equity fund (S2).",
+   "education": "MBA, London Business School; BSc Business Administration (Finance and Economics), Babson College",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S2).",
+   "source_ids": [
+    "S2"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Gulf Bank runs a tiered wealth franchise on top of conventional retail banking: Priority Banking (KD 100,000 to under KD 500,000 of cash or investable assets, or monthly salary of KD 3,500+) with dedicated relationship managers and an investment manager, and invitation-based Private Banking with a dedicated branch and Mastercard World Elite card. Investment services were moved in Nov 2023 into Gulf Capital Investment Company (InvestGB, 100%, CMA-licensed, KD 10m capital), which reports 'managing assets exceeding KD 1 billion'. InvestGB launched its first Sharia-compliant funds (Lulwa KD and USD money market funds) in 2025, runs an Avaloq wealth platform, and has added private-markets partners: Ares Wealth Management Solutions, Arrow Global, Investcorp and, from Jan 2026, CVC (evergreen CVC-PE fund). The bank also offers the WISE advisory/portfolio service (min USD 10,000) and the One Trader app for Boursa Kuwait and regional/global trading. Gulf Bank is converting to a fully Sharia-compliant bank (CBK preliminary approval Aug 2025, final approvals still pending in Aug 2026) and is studying a merger with Warba Bank, which owns 32.75%.",
+  "segments": [
+   {
+    "name": "Gulf Bank Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "By invitation; no published threshold. Invitation-only Mastercard World Elite; exclusive private banking branch; private banker.",
+    "source_ids": [
+     "S9"
+    ]
+   },
+   {
+    "name": "Priority Banking",
+    "tier": "Affluent",
+    "eligibility": "Account balance of KD 100,000 to less than KD 500,000 in cash or investable assets, or monthly salary transfer of KD 3,500+ (as published, Oct 2026).",
+    "source_ids": [
+     "S10",
+     "S13"
+    ]
+   },
+   {
+    "name": "Wealth Management (Crystal Tower dedicated branch)",
+    "tier": "Private / HNW",
+    "eligibility": "Private Wealth clients; no threshold published. Branch opened for Wealth Management clients only (Feb 2023 release).",
+    "source_ids": [
+     "S20"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Invitation-based Gulf Bank Private Banking: private banker, wealth planning (growth, protection, legacy), exclusive private banking branch, invitation-only Mastercard World Elite, family/legacy planning, liquidity and financing, global asset management. Awarded 'Excellence in Banking Services for High Net Worth Clients in the Middle East' at the Private Banker Awards 2026 (press release 8 Oct 2026). No private-banking asset figure disclosed.",
+   "source_ids": [
+    "S9",
+    "S13",
+    "S20"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Gulf Capital Investment Company K.S.C.(C) 'InvestGB' (100% owned, est. 2023, KD 10m capital): 'manages assets exceeding KD 1 billion (approximately USD 3.2 billion)' (AR 2025; same floor at Nov 2023 launch). CMA-licensed as portfolio manager, investment advisor, custodian, investment controller, collective investment scheme manager, subscription agent and securities broker not registered on the exchange. Services: asset management, custody and investments, brokerage, wealth management, investment banking. Funds: Lulwa KD and USD Money Market Funds (2025).",
+   "source_ids": [
+    "S4",
+    "S19",
+    "S11"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Online trading via the One Trader app / Boursa Kuwait online trading login: onboarding via mobile, no minimum balance, orders across Boursa Kuwait and 'multiple MENA and global markets', stocks, bonds and ETFs; Boursa Kuwait commission 10 bps (Premier), 15 bps (Main), 30 bps (Auction), minimum 250 fils. The operating entity (bank vs InvestGB) and platform vendor are not stated.",
+   "source_ids": [
+    "S12"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "One Trader app (investing onboarding in-app, trade stocks/bonds/ETFs, view portfolio); WISE digital investment platform (goal and risk questionnaire, recommended diversified international portfolios, Sharia-compliant option, USD 10,000 minimum); Lulwa money market funds listed on the personal investment page. The investment hub page still refers to 'Gulf Bank Mobile Trader' (older wording).",
+   "source_ids": [
+    "S12",
+    "S21",
+    "S11"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "InvestGB is CMA-licensed as investment advisor; Priority clients get 'investment solutions ... guided by our registered Investment Manager'; WISE is described as an advisory and portfolio management service.",
+   "source_ids": [
+    "S19",
+    "S10",
+    "S20"
+   ]
+  },
+  "discretionary": {
+   "present": "Unclear",
+   "detail": "InvestGB is licensed as portfolio manager (S19) and WISE portfolios are 'monitored and reviewed' by bank investment managers (S21), but no source opened states that WISE or Private Banking portfolios are discretionary.",
+   "source_ids": [
+    "S19",
+    "S21"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Yes",
+   "detail": "WISE: questionnaire on goals, risk tolerance and horizon leads to a recommended diversified international portfolio (conservative, high-risk, income and Islamic variants cited for 2023 returns), built on a 'Nobel Prize-winning investment strategy'; bank-reported 2023 returns 10.7% conservative, 20.9% high-risk, 22% Islamic. Current availability: not listed in the 12 Oct 2026 Investment menu (Online Trading, Lulwa KD, Lulwa USD) although 'WISE Portfolio' remains an accepted loan collateral type.",
+   "source_ids": [
+    "S21",
+    "S11"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Third-party private-markets funds distributed through InvestGB: CVC-PE Fund (CVC, evergreen, 2026), Ares Wealth Management Solutions (USD direct lending), Arrow Global (European private credit and real estate), Investcorp (Sharia-compliant US real estate). A public third-party mutual-fund shelf was not found.",
+   "source_ids": [
+    "S4",
+    "S26",
+    "S28"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "No structured notes or structured products found on the Private, Priority, Investment pages or in AR 2025 (S4).",
+   "source_ids": [
+    "S9",
+    "S10",
+    "S11",
+    "S4"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "InvestGB: CVC-PE Fund (evergreen private equity, European weighting, 'eligible investors' in Kuwait; partnership announced Jan 2026, offering expanded 21 Jun 2026); Ares Wealth Management Solutions (partnership Dec 2024; USD 225bn direct lending platform); Arrow Global (Q4 2025, private credit and real estate); Investcorp (Sharia-compliant US light industrial and student housing).",
+   "source_ids": [
+    "S26",
+    "S27",
+    "S28",
+    "S4"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Lulwa KD and USD Money Market Funds (Sharia-compliant, short-term sukuk and Islamic deposits; 2025), WISE Islamic portfolio option, Investcorp Sharia-compliant real estate. The bank itself is converting to Sharia-compliant banking (CBK preliminary approval Aug 2025; final approvals pending as of 3 Aug 2026).",
+   "source_ids": [
+    "S4",
+    "S11",
+    "S21",
+    "S15"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "US/international equities",
+   "ETFs",
+   "Mutual funds",
+   "Bonds",
+   "Sukuk",
+   "Private markets / alternatives",
+   "Real estate funds"
+  ],
+  "partners": [
+   {
+    "partner": "Avaloq",
+    "kind": "Wealth management technology platform",
+    "what": "InvestGB wealth platform with modules for investment consulting, fund management and portfolio management (AR 2025 management report); go-live date not stated",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "partner": "Murex",
+    "kind": "Treasury platform",
+    "what": "Treasury's 'state of the art Murex platform' to model and price Islamic instruments after conversion",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "partner": "Ares Wealth Management Solutions (Ares Management)",
+    "kind": "Product partner - private credit",
+    "what": "Kuwaiti clients access a USD 225bn US senior secured direct lending platform via InvestGB",
+    "date": "2024-12",
+    "status": "Live",
+    "source_ids": [
+     "S4",
+     "S28"
+    ]
+   },
+   {
+    "partner": "Arrow Global Group",
+    "kind": "Product partner - private credit / real estate",
+    "what": "European asset-backed private credit and real estate opportunities for InvestGB clients",
+    "date": "2025-Q4",
+    "status": "Live",
+    "source_ids": [
+     "S4",
+     "S16"
+    ]
+   },
+   {
+    "partner": "Investcorp",
+    "kind": "Product partner - Sharia-compliant real estate",
+    "what": "Continued collaboration; US light industrial and student housing offerings",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S4",
+     "S16"
+    ]
+   },
+   {
+    "partner": "CVC",
+    "kind": "Product partner - private equity",
+    "what": "CVC-PE Fund (evergreen, European weighting) distributed through InvestGB to eligible investors",
+    "date": "2026-01",
+    "status": "Live",
+    "source_ids": [
+     "S26",
+     "S27"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2023-11-20",
+    "what": "InvestGB (Gulf Capital Investment Company K.S.C.(C)) introduced after CBK, MOCI and CMA approvals; all investment products and services moved into it; assets above KD 1 billion at start.",
+    "source_ids": [
+     "S19"
+    ]
+   },
+   {
+    "date": "2025-01",
+    "what": "Chairman Bader AlKharafi resigned; Ahmad Al Bahar named Chairman by acclamation (new 11-member board elected March 2025). Merger project with Boubyan Bank called off in Jan 2025.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2025-04",
+    "what": "Warba Bank completed its purchase of Al Ghanem Trading, giving it (via Warba Strategy Co.) 32.75% of Gulf Bank; AR 2025 timeline records Warba's letter proposing a merger feasibility study, CBK guidance, and an MoU with Warba Bank for a potential merger during 2025.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2025-08",
+    "what": "CBK granted initial approval, valid for one year, for conversion into a Sharia-compliant bank; Lamia Karam appointed Chairperson of InvestGB.",
+    "source_ids": [
+     "S4",
+     "S22"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "InvestGB launched its first Sharia-compliant funds (Lulwa KD and USD Money Market Funds); upgraded to an Avaloq wealth platform; partnerships with Ares (WMS), Arrow Global (Q4) and Investcorp. Core banking transformation completed.",
+    "source_ids": [
+     "S4",
+     "S16"
+    ]
+   },
+   {
+    "date": "2026-01-12",
+    "what": "InvestGB announced strategic partnership with CVC for private equity access (date per Gulfbase item dated 11 Jan 2026; search result only).",
+    "source_ids": [
+     "S27"
+    ]
+   },
+   {
+    "date": "2026-01-15",
+    "what": "Chief Risk Officer Abdulrahman Al-Saddah's resignation took effect; GM Consumer Banking Bader Al-Ali's resignation took effect 15 Feb 2026 (AR labels it 'Chief Risk Officer', apparently a typo).",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2026-05-04",
+    "what": "Ammar Hajeyah became Chief Investment Officer of InvestGB.",
+    "source_ids": [
+     "S17",
+     "S18"
+    ]
+   },
+   {
+    "date": "2026-05-24",
+    "what": "Acting Deputy CEO said Warba merger due diligence is 'nearing completion' and that conversion requirements are being fulfilled before an end-August 2026 regulatory deadline; two Sharia-consent clauses added to customer contracts.",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2026-06-21",
+    "what": "InvestGB expanded its CVC private equity offering (CVC-PE Fund).",
+    "source_ids": [
+     "S26"
+    ]
+   },
+   {
+    "date": "2026-07-09",
+    "what": "Faisal AlAdsani appointed Deputy CEO and Faisal AlGharabally General Manager Corporate and International Banking (effective date).",
+    "source_ids": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2026-08-03",
+    "what": "H1 2026 webcast: Acting CEO describes 'measured progress' on Islamic conversion (still preliminary approval, no deadline given) and the Warba merger moving 'in an orderly manner'.",
+    "source_ids": [
+     "S15"
+    ]
+   },
+   {
+    "date": "2026-03-14",
+    "what": "Annual General Meeting held (AGM documents listed on the IR page; dividend of 9 fils and 5% bonus shares proposed in AR 2025).",
+    "source_ids": [
+     "S24",
+     "S4"
+    ]
+   },
+   {
+    "date": "2026-10-08",
+    "what": "Gulf Bank publicised Priority Banking and an award for HNW banking services at the Private Banker Awards 2026. The press-release list shows no merger or conversion announcement up to this date.",
+    "source_ids": [
+     "S13",
+     "S25"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Strategy 2030 pillars include 'Boost Growth Within Banking' (expanding mortgage, SME and wealth propositions) and 'Expand Beyond Banking' (partnerships and ventures in fintech, embedded finance) (S4 p.12).",
+    "Islamic conversion requires a Sharia-compliant product shelf across product, treasury and investment frameworks (S4 p.12-13); InvestGB's first Sharia-compliant funds were only launched in 2025 (S4 p.52).",
+    "Digital managed-portfolio offer is limited to WISE (USD 10,000 minimum, bank-reported, 2024) which is no longer listed in the Oct 2026 Investment menu (S11, S21); Priority clients (KD 100,000 to under KD 500,000) are served by relationship managers with 'exclusive investment solutions' (S10, S13).",
+    "InvestGB is building a private-markets shelf by adding partners (Ares, Arrow, Investcorp, CVC) and states wealth and asset management expansion as a commitment (S4 p.51, S26)."
+   ],
+   "barriers": [
+    "Corporate actions in flight: conversion to a Sharia-compliant bank (final approvals pending) and a possible merger with Warba Bank (due diligence 'nearing completion' in May 2026); vendor decisions may wait or be merged with Warba (S8, S15).",
+    "InvestGB already runs an Avaloq wealth platform and has an established set of private-markets product partners (S4 p.52, S4 p.51).",
+    "Acting leadership: Acting CEO, Acting CRO, Acting GM Consumer Banking; Consumer GM and CRO resigned in early 2026 (S1, S4).",
+    "IT capacity: core banking transformation completed in 2025 and the IT workstream is upgrading the core platform for Islamic compliance (S4 p.13)."
+   ],
+   "incumbent_vendors": [
+    "Avaloq - InvestGB wealth platform (S4 p.52)",
+    "Murex - Treasury platform (S4 p.49)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Executive Management",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/about-us/executives/executive-management/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/about-us/board/bod/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "Gulf Bank Group - Interim Condensed Consolidated Financial Information 30 June 2026 (unaudited, reviewed by EY and Deloitte)",
+   "publisher": "Gulf Bank K.S.C.P.",
+   "url": "https://www.e-gulfbank.com/media/27614e577a8e2c7d4badf141c58248ac.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-07-29",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Statement of financial position (PDF p.5) is an image page; figures read visually from the rendered page."
+  },
+  {
+   "id": "S4",
+   "title": "Gulf Bank Annual Report 2025 (incl. management report, governance and audited consolidated financial statements)",
+   "publisher": "Gulf Bank K.S.C.P.",
+   "url": "https://www.e-gulfbank.com/media/fdf6b0ce8f70bf9132467903e37f8ab2.pdf",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Earnings Presentation 1st Half 2026 (3 August 2026)",
+   "publisher": "Gulf Bank K.S.C.P.",
+   "url": "https://www.e-gulfbank.com/media/8e770ca699f6333d04d2f709e0a2e1b1.pdf",
+   "doc_type": "Investor presentation",
+   "tier": 2,
+   "published": "2026-08-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Boursa Kuwait disclosure bundle 2026_17777 (H1 2026 earnings presentation)",
+   "publisher": "Gulf Bank via Boursa Kuwait",
+   "url": "https://ifsahdocs.boursakuwait.com.kw/DiscAssets/2026_17777/Disclosure.pdf",
+   "doc_type": "Exchange disclosure - investor presentation",
+   "tier": 1,
+   "published": "2026-08-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Gulf Bank records KD 27.4 million in net profit for the first half of 2026 (press release, 29 Jul 2026)",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/about-us/media/press-releases/2026/07/gulf-bank-records-kd-274-million-in-net-profit-for-the-first-half-of-2026-an-increase-of-141-compared-to-2025/",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-07-29",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Faisal AlAdsani: Gulf Bank is preparing to operate in accordance with the principles of Sharia (press release on Al Rai interview)",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/about-us/media/press-releases/2026/05/faisal-aladsani-gulf-bank-is-preparing-to-operate-in-accordance-with-the-principles-of-sharia-following-the-final-approval-of-the-central-bank/",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-05-24",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "Gulf Bank Private Banking",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/private/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Gulf Bank Priority Banking",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/priority/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "Gulf Bank Investment (hub page: Online Trading, Lulwa funds, wealth loan calculator)",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/investment/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Online Trading (One Trader app, features and Boursa Kuwait commissions)",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/personal/investment/online-trading/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Gulf Bank Highlights Its Priority Banking Proposition and Announces Regional Recognition at the Private Banker Awards 2026",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/about-us/media/press-releases/2026/10/gulf-bank-highlights-its-priority-banking-proposition-and-announces-regional-recognition-at-the-private-banker-awards-2026/",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-10-08",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Gulf Bank appoints Al-Adsani as Deputy CEO, Al-Gharabally as GM of Corp and Int'l Banking",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/46307/business/gulf-bank-appoints-al-adsani-as-deputy-ceo-al-gharabally-as-gm-of-corp-and-intl-banking/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-07-11",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "Gulf Bank holds first half 2026 earnings webcast",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/47603/business/gulf-bank-holds-first-half-2026-earnings-webcast/amp",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-08-04",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "InvestGB concludes 2025 with strong achievements and strategic partnerships",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/37689/business/investgb-concludes-2025-with-strong-achievements-and-strategic-partnerships/amp",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-12-27",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "InvestGB appoints Ammar Hajeyah as Chief Investment Officer",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/43154/business/investgb-appoints-ammar-hajeyah-as-chief-investment-officer/amp/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-05-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "InvestGB appoints chief investment officer (headline and date only; body behind subscriber login)",
+   "publisher": "IFN Investor",
+   "url": "https://ifninvestor.com/investgb-appoints-chief-investment-officer/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-05-05",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "Gulf Bank officially introduces Gulf Capital Investment Company (InvestGB)",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/about-us/media/press-releases/2023/11/gulf-bank-officially-introduces-gulf-capital-investment-company/",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2023-11-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "Gulf Bank provides wealth management clients with an array of unique services",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/about-us/media/press-releases/2023/02/gulf-bank-provides-wealth-management-clients-with-an-array-of-unique-services/",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2023-02-13",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S21",
+   "title": "Gulf Bank's WISE platform revolutionizes global investments and supports women's financial growth",
+   "publisher": "Gulf Bank",
+   "url": "https://e-gulfbank.com/en/about-us/media/press-releases/2024/09/gulf-banks-wise-platform-revolutionizes-global-investments-and-supports-womens-financial-growth",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2024-09-08",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S22",
+   "title": "FAQs - Conversion to Islamic Banking (EN/AR, undated)",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/media/9b325a2de1ab0c81e03b06e0562b34e3.pdf",
+   "doc_type": "Official FAQ document",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Surfaced via search result; opened and read. Undated."
+  },
+  {
+   "id": "S23",
+   "title": "About Us (group profile: 48 branches, KD 8.1bn assets at 30 Jun 2026)",
+   "publisher": "Gulf Bank",
+   "url": "https://e-gulfbank.com/en/about-us/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S24",
+   "title": "Investors (annual reports, interim results, earnings presentations, AGM documents)",
+   "publisher": "Gulf Bank",
+   "url": "https://e-gulfbank.com/en/investors/",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S25",
+   "title": "Gulf Bank press releases listing (latest item 8 Oct 2026)",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/about-us/media/press-releases/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S26",
+   "title": "InvestGB expands access to private equity opportunities through partnership with CVC",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/45252/business/investgb-expands-access-to-private-equity-opportunities-through-partnership-with-cvc/amp/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-06-21",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S27",
+   "title": "InvestGB enters into a strategic partnership with global firm CVC (item dated 11 Jan 2026)",
+   "publisher": "Gulfbase",
+   "url": "https://gulfbase.com/news/investgb-enters-into-a-strategic-partnership-with-global-firm-cvc/214794",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-01-11",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened)"
+  },
+  {
+   "id": "S28",
+   "title": "Gulf Capital Investment Company (InvestGB) announces strategic partnership with Ares Wealth Management Solutions",
+   "publisher": "Gulf Bank",
+   "url": "https://www.e-gulfbank.com/en/about-us/media/press-releases/2024/12/gulf-capital-investment-company-investgb-announces-strategic-partnership-with-ares-wealth-management-solutions/",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2024-12",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); date from URL path"
+  },
+  {
+   "id": "S29",
+   "title": "Hani Alawadhi - InvestGB (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/hani-alawadhi-0156037/",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (profile not opened); snippet shows name and employer InvestGB"
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Customer deposits H1 2026",
+   "detail": "Press release states customer deposits of KD 6.0 billion; the statement of financial position shows 'Customer deposits' KD 5,073,142k plus 'Deposits from financial institutions' KD 924,721k (total about KD 5,998m).",
+   "source_ids": [
+    "S7",
+    "S3"
+   ],
+   "resolution": "Recorded KD 5,073,142k (statement label 'Customer deposits'); the press-release figure includes deposits from financial institutions."
+  },
+  {
+   "field": "Status of CBK approval for Islamic conversion",
+   "detail": "Press-release headline of 24 May 2026 says the bank is preparing 'following the final approval of the Central Bank', but the body says conversion is 'once we obtain final approval' and the H1 2026 webcast (3 Aug 2026) still refers to 'preliminary approval'.",
+   "source_ids": [
+    "S8",
+    "S15"
+   ],
+   "resolution": "Treated as preliminary approval only (initial approval Aug 2025, valid one year); no final approval found as of 12 Oct 2026."
+  },
+  {
+   "field": "Branch network size",
+   "detail": "Website group profile: 48 branches, 255+ ATMs; AR 2025 p.8: 45+ branches, 268 ATMs, 16 ITMs.",
+   "source_ids": [
+    "S23",
+    "S4"
+   ],
+   "resolution": "Both recorded; website used for the branches metric as more recent."
+  },
+  {
+   "field": "Bader Al-Ali resignation title",
+   "detail": "AR 2025 footnote on p.70 says Bader Al-Ali resigned from 'Chief Risk Officer' effective 15 Feb 2026, but his listed role is General Manager - Consumer Banking (the CRO was Abdulrahman Al-Saddah).",
+   "source_ids": [
+    "S4"
+   ],
+   "resolution": "Read as a typographical error for General Manager - Consumer Banking; consistent with Tarek Ragab now listed as Acting GM Consumer Banking (S1)."
+  },
+  {
+   "field": "Deputy CEO title",
+   "detail": "24 May 2026 release calls Faisal AlAdsani 'Acting Deputy CEO'; the website lists 'Deputy CEO' and Kuwait Times reports the appointment effective 9 Jul 2026.",
+   "source_ids": [
+    "S8",
+    "S1",
+    "S14"
+   ],
+   "resolution": "Deputy CEO (substantive) from 9 Jul 2026."
+  },
+  {
+   "field": "InvestGB assets managed",
+   "detail": "'Assets exceeding KD 1 billion' appears both at the Nov 2023 launch and in AR 2025; the wording is 'manages assets' not 'AUM' and is a floor, not a dated balance.",
+   "source_ids": [
+    "S4",
+    "S19"
+   ],
+   "resolution": "Recorded as aum with status Requires verification."
+  }
+ ],
+ "open_items": [
+  "Merger lead from the other profile checked: Warba holds 32.75% (AR 2025, 31 Dec 2025) and a merger is under study, but no definitive agreement, valuation or swap ratio was found as of 12 Oct 2026. Latest dated statements: 24 May 2026 (due diligence nearing completion) and 3 Aug 2026 (orderly progress).",
+  "Warba stake and shareholder percentages are as of 31 Dec 2025 only; Boursa Kuwait major-shareholder disclosures and the company profile (stock 102) were not opened (dynamic site), so the 30 Jun 2026 position is unconfirmed.",
+  "Boursa Kuwait disclosure list for Aug-Oct 2026 was not read directly (the Gulf Bank IR page has no disclosure list); check for conversion approval, deadline extension (end-August 2026 per S8), merger or leadership announcements.",
+  "Date Sami Mahfouz became Acting CEO and any permanent-CEO search not found; Waleed Mandani was Acting CEO in Nov 2023 (S19).",
+  "Q3 2026 results not yet published at 12 Oct 2026 (9M 2025 call was 29 Oct 2025); add when released.",
+  "No head of digital or Chief Digital Officer on the executive page; AR 2025 says a digital business unit is to be established (S4 p.12). Tarek Ragab's bio references digital transformation.",
+  "WISE: launch year, vendor and current availability not confirmed; brokerage operating entity and One Trader platform vendor not stated.",
+  "InvestGB platform go-live date for Avaloq not stated; Murex is for Treasury only.",
+  "InvestGB AUM only as a floor of KD 1bn+ (Nov 2023 and AR 2025); no 2026 figure; customers and investing users not disclosed.",
+  "LinkedIn: only Hani AlAwadhi matched via search snippet; no profile found for Sami Mahfouz; Chairman and other executives not checked. News check for departures in 2025-2026 found resignations of the CRO and GM Consumer Banking (early 2026) only.",
+  "IFN Investor CIO article is behind a login; CIO details come from Kuwait Times (S17).",
+  "Priority eligibility and Private Banking threshold: Private threshold not published; Priority figures from Oct 2026 pages."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B26",
+ "checked": "2026-10-12"
+}

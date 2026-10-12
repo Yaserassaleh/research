@@ -1,0 +1,1141 @@
+{
+  "id": "sa-stcbank",
+  "name": "STC Bank",
+  "short_name": "STC Bank",
+  "legal_name": "STC Bank (closed mixed joint-stock company; formerly Saudi Digital Payments Company, operator of the stc pay wallet)",
+  "name_ar": null,
+  "country": "SA",
+  "hq_city": "Riyadh",
+  "website": "https://stcbank.com.sa",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Digital bank",
+  "model": "Islamic",
+  "founded": "Established Nov 2017 as a digital-payments company (stc pay); SAMA e-wallet licence 2020 (Western Union acquired 15% the same year); Council of Ministers digital-bank licence decision no. 671 of 22 Jun 2021 (capital SAR 2.5bn); SAMA no-objection to commence banking operations 28 Jan 2025; commercial launch Feb 2025.",
+  "regulators": [
+    "SAMA"
+  ],
+  "listed": false,
+  "exchange": null,
+  "ticker": null,
+  "parent_id": null,
+  "ownership_summary": "Unlisted closed mixed joint-stock company with SAR 6,350m paid-up capital. stc group (Saudi Telecom Company, Tadawul-listed; 62% held by the Public Investment Fund at 31 Dec 2025) held 92.26% at 31 Dec 2025, up from 87.73% in 2024 after it injected SAR 3,000m of new capital (approved 30 Dec 2024). The other shareholders are not named in the bank's or stc's published documents; Western Union acquired 15% in 2020 and still sits on the board (see people), but its current percentage is not disclosed.",
+  "shareholders": [
+    {
+      "holder": "stc group (Saudi Telecom Company; Tadawul-listed, 62% Public Investment Fund per stc AR 2025)",
+      "pct": 92.26,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "holder": "Other shareholders (not named; residual after stc's 92.26%, our derivation). Western Union bought 15% in 2020; its current holding is not disclosed.",
+      "pct": 7.74,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S7"
+      ]
+    }
+  ],
+  "government_link": "Yes, indirect: majority-owned by stc group, which is 62% owned by the Public Investment Fund (Saudi sovereign wealth fund) at 31 Dec 2025 (stc AR 2025, S7). Licensed by Cabinet decision and supervised by SAMA. Checked 2026-10-12.",
+  "group_structure": "Subsidiary of stc group, consolidated in stc's financial statements (stc AR 2025 note 12). STC Bank is reported inside stc group's 'Digital' theme alongside sirar, IoT squared, Channels, sccc and solutions. stc group states that an IPO of subsidiaries including STC Bank is part of its strategy but not expected within one year of Jul 2026 (S9). No standalone STC Bank financial statements or Pillar 3 report were found, so bank-level balance-sheet metrics below come from stc group's consolidated disclosures and carry that caveat.",
+  "subsidiaries": [],
+  "footprint": "Saudi Arabia only; digital-only (services delivered through the STC Bank app and web; no branch network found on the official site). Head office Ad Diriyah, Riyadh (S3). Checked 2026-10-12.",
+  "customer_segments": "Retail customers (Classic, Plus, Premium and Elite tiers set by 3-month average balance), SMEs and merchants (business accounts, POS, e-commerce, SME financing). stc pay wallet users were migrated to bank accounts. No private-banking proposition found.",
+  "business_lines": "Personal: current accounts, Visa debit/credit/prepaid cards, Smart Saver (Mudarabah), fixed deposits (1/3/6/12 months, Mudarabah), Multiplier Account (prize-linked), Personal Finance and Smart Finance, international transfers, STC Bank Market (offers/cashback). Business: business accounts, POS and e-commerce acceptance, SME financing (POS financing, capex financing, working-capital financing). Lending started in 2025-2026 (S9). No investment, brokerage, funds or wealth product found on the website (checked 2026-10-12).",
+  "metrics": [
+    {
+      "metric": "customers",
+      "value": 8500000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (reported Jul 2026)",
+      "period_type": "point_in_time",
+      "scope": "STC Bank (all customers)",
+      "definition": "'8.5 Mn+ customers since launch in January 2025' (stc group label); not stated whether active or registered, or retail versus business",
+      "status": "Verified",
+      "source_ids": [
+        "S8",
+        "S9"
+      ],
+      "locator": "Q2 2026 earnings presentation p.7; H1 2026 call transcript p.3 and p.8",
+      "note": "Company claim made in stc group results materials; lower bound ('8.5 Mn+')."
+    },
+    {
+      "metric": "customers",
+      "value": 8000000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "point_in_time",
+      "scope": "STC Bank (all customers)",
+      "definition": "'+8 million customers' / 'exceeding eight million customers since its launch at the beginning of the year' (stc AR 2025); active or registered not stated",
+      "status": "Verified",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "stc AR 2025 pp.5, 18 (PDF pages), STC Bank section p.64 (printed p.126)",
+      "note": "Lower bound ('more than eight million'). A Bloomberg-sourced figure of about 1.5 million customers circulated in early 2025 (search-result snippet only) and is superseded."
+    },
+    {
+      "metric": "operating_income",
+      "value": 1401,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "STC Bank as reported inside stc Group",
+      "definition": "'STC Bank revenue (SAR million)' bar chart in stc AR 2025; basis (gross versus net of intra-group items) not stated; not an income statement of the bank itself",
+      "status": "Verified",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "stc AR 2025 STC Bank section, PDF p.64 (printed p.126)",
+      "note": "FY2024 SAR 1,262m and FY2023 SAR 1,063m on the same chart. Treat as stc-reported subsidiary revenue, not total operating income. See discrepancies."
+    },
+    {
+      "metric": "operating_income",
+      "value": 1262,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2024-12-31",
+      "period_label": "FY2024",
+      "period_type": "duration",
+      "scope": "STC Bank as reported inside stc Group",
+      "definition": "STC Bank revenue per stc AR 2025 chart (same basis as FY2025 record)",
+      "status": "Conflicting sources",
+      "source_ids": [
+        "S7",
+        "S19"
+      ],
+      "locator": "stc AR 2025 PDF p.64",
+      "note": "Bloomberg (via Enterprise) cited SAR 345m 'gross income' for 2024. Definitions differ; unresolved."
+    },
+    {
+      "metric": "operating_income",
+      "value": 792,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "STC Bank as reported inside stc Group",
+      "definition": "STC Bank revenue, H1 2026, from stc group's 'Revenue Breakdown by Subsidiaries' chart (H1 2025: SAR 696m; stated growth 13.8%)",
+      "status": "Verified",
+      "source_ids": [
+        "S8"
+      ],
+      "locator": "Q2 2026 earnings presentation p.14 (value read from chart; labelled STC Bank)",
+      "note": "Q1 2026 revenue SAR 397m (+24%) per a MEA Tech Watch snippet (not cited); the call says Q2 revenue growth was about 5%."
+    },
+    {
+      "metric": "gross_profit",
+      "value": 413,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026",
+      "period_type": "duration",
+      "scope": "STC Bank as reported inside stc Group",
+      "definition": "Gross profit of STC Bank, H1 2026, from stc group's 'Gross Profit Breakdown by Subsidiaries' chart (H1 2025: SAR 281m; stated growth 47.1%)",
+      "status": "Verified",
+      "source_ids": [
+        "S8"
+      ],
+      "locator": "Q2 2026 earnings presentation p.15 (read from chart)",
+      "note": "Not net profit. No STC Bank net profit or loss is published."
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 4244331,
+      "unit": "thousand",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "STC Bank operations as consolidated in stc Group's statement of financial position",
+      "definition": "'Financial liabilities from digital banking operations', described in the note as 'mainly representing customer deposits payable arising from digital banking operations'; a consolidated group line, not a bank-level deposit figure",
+      "status": "Requires verification",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "stc AR 2025 consolidated FS note 31-1, PDF p.142 (31 Dec 2024: SAR 2,360,035 thousand)",
+      "note": "Proxy only; excludes any non-deposit liabilities not captured in the line and may differ from the bank's own deposits. 30 Jun 2026 value not obtained: Saudi Exchange copy of stc's H1 2026 statements returned HTTP 403."
+    },
+    {
+      "metric": "paid_up_capital",
+      "value": 6350,
+      "unit": "million",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "End 2025 (also shown in website footer, checked 12 Oct 2026)",
+      "period_type": "point_in_time",
+      "scope": "STC Bank",
+      "definition": "Paid-up capital after the SAR 3,000m injection approved 30 Dec 2024 (legal formalities completed 2025); SAR 3,350m after Dec 2023 loan conversion; SAR 2,500m licence capital (2021)",
+      "status": "Verified",
+      "source_ids": [
+        "S7",
+        "S3"
+      ],
+      "locator": "stc AR 2025 PDF p.64 and note 12 (p.122); notice page footer",
+      "note": "A search snippet showed older website pages still carrying SAR 3,350m and SAR 2,500m."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "total_assets",
+      "status": "Not found after research",
+      "where_checked": "stcbank.com.sa home, team and notice pages (S1-S3); site-restricted search for financial statements / Pillar 3 returned only product pages; stc AR 2025 (S7) and Q2 2026 stc presentation (S8) give no STC Bank asset total. Checked 2026-10-12."
+    },
+    {
+      "metric": "net_loans",
+      "status": "Not found after research",
+      "where_checked": "stc AR 2025 (S7) shows 'financial assets from digital banking operations' SAR 1,444,853 thousand at 31 Dec 2025 but does not label it loans; no loan book disclosed in S8 or S9. Lending products launched 2025-2026."
+    },
+    {
+      "metric": "net_profit",
+      "status": "Not found after research",
+      "where_checked": "stc AR 2025 (S7), Q2 2026 presentation (S8), H1 2026 call (S9): only revenue and gross profit are given for STC Bank. stc's H1 2026 financial statements on Saudi Exchange could not be opened (403)."
+    },
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "No investment or wealth product on the website (S2); stc AR 2025 (S7); H1 2026 materials (S8-S10)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not found after research",
+      "where_checked": "No investing feature found on stcbank.com.sa (S2, S4, S5); stc group materials (S7-S10)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not found after research",
+      "where_checked": "Website segmentation page (S4) lists tier thresholds only; no client-asset measure in stc materials."
+    }
+  ],
+  "people": [
+    {
+      "name": "Mohammed Al-Fraih",
+      "name_ar": null,
+      "title": "Chief Executive Officer (Acting CEO from Aug 2025; later headline reports him as CEO)",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Executive management",
+      "scope": "Bank",
+      "appointed": "2025-08",
+      "appointed_note": "People Matters ME (4 Aug 2025) reports him appointed Acting CEO 'effective immediately' after Nizar Altwaijri stepped down in Jul 2025. A hrtoday.in headline (seen in search results; page blocked by a Cloudflare check) says he was appointed Chief Executive Officer; its date and the permanent appointment were not verified.",
+      "previous_roles": "Joined STC Bank in 2024 as Chief Operating Officer and became Deputy CEO about six months later; earlier COO of stc pay; COO and GM IT at The Saudi Investment Bank; VP IT at Abdullah Al-Othaim Markets; Assistant VP and IT Director at Alfaisal University; early career at the Saudi Arabian Monetary Agency and Alinma Bank (People Matters, S15).",
+      "education": "Bachelor's degree in Computer Science, King Saud University (S15)",
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/mohammed-al-fraih-3a1b311a/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Requires verification",
+      "role_evidence": "STC Bank's official team page (S1) lists no executive management, so there is no official confirmation. Acting CEO in Aug 2025 (S15); permanent-CEO headline seen in search results only (S16); H1 2026 stc call refers to the bank without naming its CEO (S9). LinkedIn: search-result snippet shows the same name, STC Bank as employer, King Saud University and Riyadh; the title was not shown in the snippet (S17).",
+      "source_ids": [
+        "S15",
+        "S16",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Saleh Ibrahim Almutawa",
+      "name_ar": "صالح بن إبراهيم المطوع",
+      "title": "Chairman of the Board (independent); member, Board Risk Committee",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Appointment date not published on the team page.",
+      "previous_roles": "25+ years in treasury, financial markets and investment management; formerly General Manager of Treasury (employer not stated on the page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as Chairman on the official team page (Arabic), checked 2026-10-12 (S1). No departure news searched.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Moaeed Alsaloom",
+      "name_ar": "معيض بن هويج السلوم",
+      "title": "Deputy Chairman; Chair, Executive Committee (non-executive); CEO, New Markets Unit, stc Group",
+      "functions": [
+        "Board",
+        "Strategy"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank (stc group role noted)",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Currently CEO of the New Markets Unit at stc Group; chairs the board of stc Bahrain (official page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Motaz Alangari",
+      "name_ar": "معتز بن علي العنقري",
+      "title": "Board member (non-executive); member, Board Risk Committee; CEO Investment, stc Group",
+      "functions": [
+        "Board",
+        "Investments / asset management"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank (stc group role noted)",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Currently CEO Investment at stc Group; Deputy Chairman of TAWAL Group; board member of Solutions by stc; formerly at Saudi Fransi Capital and Morgan Stanley Saudi Arabia (official page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ameen Fahad Alshedi",
+      "name_ar": "أمين بن فهد الشدي",
+      "title": "Board member (non-executive); Chair, Risk Committee; member, Executive Committee; CFO, stc Group",
+      "functions": [
+        "Board",
+        "Finance"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank (stc group role noted)",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Currently Chief Financial Officer of stc Group, overseeing corporate finance, investment and risk management (official page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faisal Saeed Alsaber",
+      "name_ar": "فيصل بن سعيد السابر",
+      "title": "Board member (non-executive); member, Executive Committee; CEO, Customers Unit, stc Group",
+      "functions": [
+        "Board",
+        "Retail"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank (stc group role noted)",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "25+ years in commercial operations, sales and marketing; currently CEO of the Customers Unit at stc Group (official page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ramya Narayanan",
+      "name_ar": "راميا نارايانان",
+      "title": "Board member (non-executive); member, Executive Committee; Head of Strategy, Western Union",
+      "functions": [
+        "Board",
+        "Strategy"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank (Western Union role noted)",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Currently head of Strategy at Western Union (US); formerly senior roles at American Express (official page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1). Indicates Western Union retains a board seat.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Alhokail",
+      "name_ar": "محمد بن علي الحوقل",
+      "title": "Board member (independent); Chair, Audit Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Former senior executive at Samba Financial Group, Saudi First Bank and Saudi American Bank; has chaired several audit committees (official page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Wael Abdulaziz Raies",
+      "name_ar": "وائل بن عبدالعزيز ريس",
+      "title": "Board member (independent); member, Executive Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Experience in strategy, transformation and corporate governance in financial services; led large-scale strategic initiatives (official page; employers not named).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Ibrahim Alissa",
+      "name_ar": "محمد بن إبراهيم العيسى",
+      "title": "Board member (independent); Chair, Nomination and Remuneration Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Currently CFO of Aseela Investment Company; formerly senior roles at Saudi First Bank (SAB) (official page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohammed Saleh Al Khushail",
+      "name_ar": "محمد بن صالح أل خشيل",
+      "title": "Board member (non-executive); member, Nomination and Remuneration Committee; VP Strategy and Business Excellence, stc Group",
+      "functions": [
+        "Board",
+        "Strategy"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Board",
+      "scope": "Bank (stc group role noted)",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Currently VP, Strategy and Business Excellence at stc Group; prior HR, logistics and governance roles (official page).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Amer Hizam Al Khursan",
+      "name_ar": "عامر بن حزام آل خرصان",
+      "title": "Secretary General of the Board and CEO, Corporate Affairs",
+      "functions": [
+        "Other"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Corporate affairs / board secretariat",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Formerly senior executive at stc pay, leading business growth, global markets and board secretariat functions; board member of stc pay Bahrain and stc Money Transfer (official page).",
+      "education": "BSc Systems Engineering, King Fahd University of Petroleum and Minerals (official page)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Only executive listed on the official team page, checked 2026-10-12 (S1).",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mansour Al-Zharani",
+      "name_ar": null,
+      "title": "Chief Technology Officer, STC Bank (as quoted by Temenos)",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Technology",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Quoted with this title in the Temenos success story (undated, 2025 content) (S18). Not on the official team page; no 2026 confirmation found. A data-broker page naming a different CTO was seen in search results and is not used.",
+      "source_ids": [
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Nizar Altwaijri",
+      "name_ar": null,
+      "title": "Former Chief Executive Officer (stepped down Jul 2025 to an advisory role)",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Executive management",
+      "scope": "Bank",
+      "appointed": "2023-01",
+      "appointed_note": "stc pay board announced his appointment as CEO from 1 Jan 2023 (search-result snippet); led STC Bank through the Jan 2025 SAMA approval and Feb 2025 launch.",
+      "previous_roles": "CEO of stc pay before it became STC Bank (S15).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "People Matters ME, 4 Aug 2025: stepped down in July 2025 to move into an advisory position (S15). Quoted as CEO to Bloomberg on 23 Apr 2025 (S19).",
+      "source_ids": [
+        "S15",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Prof. Abdullah bin Mohammed Al Mutlaq",
+      "name_ar": "معالي الشيخ/ أ.د. عبدالله بن محمد المطلق",
+      "title": "Chairman, Shariah Committee (independent)",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "STC Bank",
+      "business_unit": "Shariah Committee",
+      "scope": "Bank",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": "Member of the Council of Senior Scholars and advisor at the Royal Court; former professor and head of the Comparative Jurisprudence department, Imam Muhammad ibn Saud Islamic University (official page).",
+      "education": "PhD in Comparative Jurisprudence, Imam Muhammad ibn Saud Islamic University (official page)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official team page, checked 2026-10-12 (S1). Other members: Dr Mohammed Ali Elgari and Prof. Yousef Abdullah Al Shubaily.",
+      "source_ids": [
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "STC Bank is a mass-market retail and SME digital bank (8.5m+ customers at H1 2026) whose investment-type offer is limited to Shariah-structured savings: Smart Saver (Mudarabah, expected profit 0% below SAR 1,000 rising to 5.00% at SAR 500,000+, round-up and auto-save), fixed deposits of 1/3/6/12 months, a prize-linked Multiplier Account and a Numu+ rewards savings offer. Balance-based tiers (Classic; Plus from SAR 25,000; Premium from SAR 50,000; Elite from SAR 200,000 average 3-month balance) give Visa Classic/Platinum/Signature cards, cashback, lounge access and 24/7 concierge at Elite. No brokerage, funds, advisory, managed-portfolio or private-banking offer was found on the website (checked 12 Oct 2026). In Apr 2025 the then-CEO told Bloomberg that loans and 'investment products' would follow later in 2025; no such investment product was found live. stc group's Q2 2026 release speaks of growth in the bank's 'deposits and investment portfolio' without defining the latter.",
+    "segments": [
+      {
+        "name": "Classic",
+        "tier": "Mass market / retail",
+        "eligibility": "Starting tier on account opening; no balance requirement",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "name": "Plus",
+        "tier": "Mass affluent / retail",
+        "eligibility": "Average balance over the last three months of SAR 25,000",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "name": "Premium",
+        "tier": "Affluent",
+        "eligibility": "Average balance over the last three months of SAR 50,000; Platinum Visa, travel insurance and lounges",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "name": "Elite",
+        "tier": "Affluent",
+        "eligibility": "Average balance over the last three months of SAR 200,000; Signature Visa, unlimited free transfers, priority 24/7 support and concierge",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "name": "Business / SME",
+        "tier": "SME",
+        "eligibility": "Business accounts, POS, e-commerce and SME financing (POS, capex, working capital)",
+        "source_ids": [
+          "S2"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private-banking proposition; the top tier, Elite, starts at SAR 200,000 average balance and offers card, transfer and concierge benefits only.",
+      "source_ids": [
+        "S4",
+        "S2"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset-management entity or own-branded fund found for STC Bank. Group investment activity sits with stc group's investment unit and venture funds (STV), which are not bank products.",
+      "source_ids": [
+        "S2",
+        "S7"
+      ]
+    },
+    "brokerage": {
+      "present": "Not found after research",
+      "detail": "No share-trading or brokerage feature on the website or in stc group materials.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "App offers savings and deposits only; the homepage lists no investment, funds, gold or shares product (checked 12 Oct 2026). Apr 2025 plan to add investment products (S19) not seen live.",
+      "source_ids": [
+        "S2",
+        "S19",
+        "S10"
+      ]
+    },
+    "advisory": {
+      "present": "Not found after research",
+      "detail": "No advisory service found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary or managed portfolio found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No third-party fund shelf found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "None found.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "The whole bank is Shariah-governed (three-scholar Shariah Committee; Mudarabah savings and fixed deposits) but no Shariah-compliant funds, portfolios or sukuk offer was found; Islamic features are deposit products.",
+      "source_ids": [
+        "S1",
+        "S5",
+        "S6"
+      ]
+    },
+    "asset_classes": [],
+    "partners": [
+      {
+        "partner": "Temenos",
+        "kind": "Core banking technology",
+        "what": "Temenos Core (accounts, lending, deposits, collections) on PostgreSQL, live since 14 Feb 2022; on-site first-level support; Fast Track Growth award in 2025. Vendor's own account.",
+        "date": "2022-02-14",
+        "status": "Live",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "partner": "Seedz (formerly BankerWay)",
+        "kind": "Implementation partner",
+        "what": "Regional partner that supported the Temenos implementation",
+        "date": "2022-02",
+        "status": "Live",
+        "source_ids": [
+          "S18"
+        ]
+      },
+      {
+        "partner": "Western Union",
+        "kind": "Strategic shareholder",
+        "what": "Bought 15% of the company in 2020 (USD 200m per Bloomberg via Enterprise, SAR 750m per Argaam); head of Strategy sits on the board",
+        "date": "2020",
+        "status": "Live",
+        "source_ids": [
+          "S7",
+          "S1",
+          "S19"
+        ]
+      },
+      {
+        "partner": "Visa",
+        "kind": "Card scheme",
+        "what": "Visa Classic, Platinum and Signature cards are tied to the Plus, Premium and Elite tiers",
+        "date": null,
+        "status": "Live",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "partner": "Salla",
+        "kind": "E-commerce payments",
+        "what": "Announced integration so that pay-from-STC-Bank-account is available to 80,000 Salla online stores",
+        "date": "2024-10-17",
+        "status": "Announced",
+        "source_ids": [
+          "S20"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-06-22",
+        "what": "Cabinet approved licensing two local digital banks: STC Bank (stc pay converted, SAR 2.5bn capital) and Saudi Digital Bank (SAR 1.5bn)",
+        "source_ids": [
+          "S11"
+        ]
+      },
+      {
+        "date": "2024-12-30",
+        "what": "Extraordinary General Assembly raised paid-up capital to SAR 6,350m; stc injected SAR 3,000m, lifting its stake to 92.26%",
+        "source_ids": [
+          "S7"
+        ]
+      },
+      {
+        "date": "2025-01-28",
+        "what": "SAMA gave no objection to STC Bank commencing banking operations as a digital bank; commercial launch followed in Feb 2025",
+        "source_ids": [
+          "S13",
+          "S7",
+          "S14"
+        ]
+      },
+      {
+        "date": "2025-04-23",
+        "what": "CEO told Bloomberg the full suite, including loans and investment products for large companies, SMEs and retail, would launch later in 2025; stc had provided USD 800m of cash before launch",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "date": "2025-08-04",
+        "what": "Mohammed Al-Fraih appointed Acting CEO after Nizar Altwaijri stepped down in Jul 2025",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2025-12-31",
+        "what": "FY2025: 15+ products launched since Feb 2025 across accounts, payments and financing; 8m+ customers; 90% increase in app downloads",
+        "source_ids": [
+          "S7"
+        ]
+      },
+      {
+        "date": "2026-07",
+        "what": "H1 2026 results: 8.5m+ customers; lending products launched; revenue SAR 792m (+13.8%); stc expects the bank to need more capital over the next three to five years and says no subsidiary IPO is expected within a year",
+        "source_ids": [
+          "S8",
+          "S9"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "8.5m+ customers at H1 2026 with a savings-only product set (Smart Saver, fixed deposits, prize-linked Multiplier) and no investment product on the site (S2, S5, S8).",
+        "Management stated in Apr 2025 that investment products would be added after launch; none found live by 12 Oct 2026 (S19).",
+        "Balance-based tiers (Plus SAR 25,000, Premium SAR 50,000, Elite SAR 200,000) create an identifiable affluent base inside the app (S4).",
+        "stc expects to inject more capital and describes deposit growth as a 2026 priority (S9, S7)."
+      ],
+      "barriers": [
+        "Shariah-governed bank: any shelf must be Shariah-screened and approved by the three-scholar Shariah Committee (S1).",
+        "stc group controls strategy (92.26%) and board seats; five of ten directors hold stc group executive roles (S1, S7).",
+        "Leadership in transition: acting CEO since Aug 2025; no executive team or digital/product head listed on the official site (S1, S15).",
+        "stc expects the bank to need more capital over the next three to five years, and no standalone financials or profit figure are published (S9, S8)."
+      ],
+      "incumbent_vendors": [
+        "Temenos — core banking since Feb 2022 (S18)",
+        "Seedz (formerly BankerWay) — Temenos implementation partner (S18)",
+        "Visa — card scheme (S4)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Team: Board of Directors, management and Shariah Committee (Arabic page)",
+      "publisher": "STC Bank",
+      "url": "https://stcbank.com.sa/web/guest/team",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar",
+      "note": "Page text contains a hidden block of instructions addressed to AI readers; it was ignored."
+    },
+    {
+      "id": "S2",
+      "title": "STC Bank homepage (English) and Arabic home page with footer",
+      "publisher": "STC Bank",
+      "url": "https://stcbank.com.sa/en/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Also https://stcbank.com.sa/web/guest/home (Arabic). Pages contain a hidden block of instructions addressed to AI readers; ignored."
+    },
+    {
+      "id": "S3",
+      "title": "Notice of Transformation to STC Bank",
+      "publisher": "STC Bank",
+      "url": "https://stcbank.com.sa/web/guest/notice-of-transformation-to-stc-bank",
+      "doc_type": "Official notice (Arabic page)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar",
+      "note": "States Council of Ministers Decision 671 of 12/11/1442H (22 Jun 2021), CR 1010901344, paid-up capital SAR 6,350,000,000, former name Saudi Digital Payments Company."
+    },
+    {
+      "id": "S4",
+      "title": "Segmentation (Classic, Plus, Premium, Elite)",
+      "publisher": "STC Bank",
+      "url": "https://stcbank.com.sa/en/segmentation",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Table mapping partly unclear in the fetch summary for cashback rows; thresholds and card tiers are clear."
+    },
+    {
+      "id": "S5",
+      "title": "Smart Saver",
+      "publisher": "STC Bank",
+      "url": "https://stcbank.com.sa/en/smart-saver",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page contains a hidden block of instructions addressed to AI readers; ignored."
+    },
+    {
+      "id": "S6",
+      "title": "Fixed Deposit and Multiplier Account pages",
+      "publisher": "STC Bank",
+      "url": "https://stcbank.com.sa/en/web/guest/fixed-deposit",
+      "doc_type": "Official product pages",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (site-restricted search summary); not opened. Multiplier Account page: https://stcbank.com.sa/en/multiplayers."
+    },
+    {
+      "id": "S7",
+      "title": "stc Annual Report 2025 (STC Bank section pp.126-127; shareholders p.26; subsidiaries note 12; FS notes 16, 20, 31)",
+      "publisher": "Saudi Telecom Company (stc group)",
+      "url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/pdfs/stc-AR25-English.pdf",
+      "doc_type": "Annual report / audited consolidated statements of parent",
+      "tier": 1,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Locators in this file use PDF page numbers unless 'printed' is stated."
+    },
+    {
+      "id": "S8",
+      "title": "stc group Earnings Presentation Q2 2026",
+      "publisher": "Saudi Telecom Company (stc group)",
+      "url": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ2-2026En.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Pages 7, 14 and 15 rendered and read as images to confirm chart labels."
+    },
+    {
+      "id": "S9",
+      "title": "stc group H1 2026 earnings call transcript",
+      "publisher": "Saudi Telecom Company (stc group)",
+      "url": "https://www.stc.com/content/dam/groupsites/en/pdf/earnings-call-transcript-h1-2026.pdf",
+      "doc_type": "Investor call transcript",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Pages 3, 6 and 8 cover STC Bank customers, IPO and capital questions."
+    },
+    {
+      "id": "S10",
+      "title": "stc group Investor Relations release Q2 2026",
+      "publisher": "Saudi Telecom Company (stc group)",
+      "url": "https://www.stc.com/content/dam/groupsites/en/pdf/InvestorRelationsQ2-2026En.pdf",
+      "doc_type": "Results release",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page 3: bank's growth in 'customer base, deposits and investment portfolio'."
+    },
+    {
+      "id": "S11",
+      "title": "Minister of Finance and SAMA Governor thank the Leadership for the Cabinet's Approval to License two Local Digital Banks",
+      "publisher": "Saudi Central Bank (SAMA)",
+      "url": "https://sama.gov.sa/en-US/MediaCenter/News/Pages/news-676.aspx",
+      "doc_type": "Regulator announcement",
+      "tier": 3,
+      "published": "2021-06-22",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S12",
+      "title": "Digital Banks (licensed entities list)",
+      "publisher": "Saudi Central Bank (SAMA)",
+      "url": "https://www.sama.gov.sa/en-US/Supervision/LicenseEntities/Pages/DigitalBank.aspx",
+      "doc_type": "Regulator register page",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists only 'STC bank' and 'Saudi Digital Bank', both 'Licensed - has not started yet'; evidently not updated after the 2025 launch."
+    },
+    {
+      "id": "S13",
+      "title": "STC Bank Launches its Banking Operations in the Kingdom (SAMA: no objection to commence banking operations)",
+      "publisher": "Saudi Central Bank (SAMA)",
+      "url": "https://www.sama.gov.sa/en-us/mediacenter/news/pages/news-1071.aspx",
+      "doc_type": "Regulator announcement",
+      "tier": 3,
+      "published": "2025-01-28",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Opened with the lower-case URL form (page dated 28 Jan 2025, 7:45 PM): SAMA gave STC Bank 'no objection to commence its banking operations in the Kingdom'; describes STC Bank only as a licensed digital bank. The mixed-case URL returns 404."
+    },
+    {
+      "id": "S14",
+      "title": "SAMA licenses STC Bank to start operations in Saudi Arabia",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1785650",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-01-28",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Says stc holds 85% and Western Union 15% (2020); conflicts with stc AR 2025 (92.26%). See discrepancies."
+    },
+    {
+      "id": "S15",
+      "title": "STC Bank appoints Mohammed Al-Fraih as Acting CEO",
+      "publisher": "People Matters Middle East",
+      "url": "https://me.peoplemattersglobal.com/news/appointments/stc-bank-appoints-mohammed-al-fraih-as-acting-ceo-46450",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-08-04",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list; used for an appointment date and career history, no official alternative found."
+    },
+    {
+      "id": "S16",
+      "title": "Mohammed Al-Fraih appointed as Chief Executive Officer at STC Bank",
+      "publisher": "hrtoday.in",
+      "url": "https://hrtoday.in/mohammed-al-fraih-appointed-as-chief-executive-officer-at-stc-bank/",
+      "doc_type": "News headline",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only; WebFetch returned 403 and the browser showed a Cloudflare check (not bypassed). Date not seen."
+    },
+    {
+      "id": "S17",
+      "title": "Mohammed Al-Fraih - STC Bank (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mohammed-al-fraih-3a1b311a/",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only: snippet shows name, STC Bank, King Saud University, Riyadh; title not shown."
+    },
+    {
+      "id": "S18",
+      "title": "STC Bank success story",
+      "publisher": "Temenos",
+      "url": "https://www.temenos.com/success-story/stc-bank-success-story/",
+      "doc_type": "Vendor case study",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Vendor's own account; undated; quotes Mansour Al-Zharani as CTO. Outlet not on the protocol's tier-5 list."
+    },
+    {
+      "id": "S19",
+      "title": "STC Bank to launch full suite of services later this year (Bloomberg report, 23 Apr 2025)",
+      "publisher": "Enterprise (enterpriseam.com)",
+      "url": "https://enterpriseam.com/ksa/2025/04/24/stc-bank-to-launch-full-suite-of-services-later-this-year/",
+      "doc_type": "News (relaying Bloomberg)",
+      "tier": 5,
+      "published": "2025-04-24",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list; second-hand relay of Bloomberg."
+    },
+    {
+      "id": "S20",
+      "title": "Salla partners with STC Bank to empower 80,000 online merchants",
+      "publisher": "Mubasher (Sharikat Mubasher)",
+      "url": "https://en.sharikatmubasher.com/news/article/21444757/salla-partners-with-stc-bank-to-empower-80000-online-merchants?lang=en",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2024-10-17",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Outlet not on the protocol's tier-5 list; used for a dated partnership announcement only."
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "stc group ownership of STC Bank",
+      "detail": "Argaam (28 Jan 2025) says stc holds 85% and Western Union 15%; stc's FY2025 annual report says stc held 92.26% at 31 Dec 2025 (87.73% at end-2024) after capital injections in which Western Union evidently did not participate.",
+      "source_ids": [
+        "S14",
+        "S7"
+      ],
+      "resolution": "Used stc AR 2025 (tier 1). The 85% figure matches the 2020 position after Western Union's purchase; later capital increases raised stc's share."
+    },
+    {
+      "field": "STC Bank revenue 2024",
+      "detail": "stc AR 2025 chart shows STC Bank revenue of SAR 1,262m for 2024; Bloomberg data cited by Enterprise gives SAR 345m 'gross income' for 2024.",
+      "source_ids": [
+        "S7",
+        "S19"
+      ],
+      "resolution": "Unresolved; the definitions probably differ (group-reported revenue versus bank gross income). Recorded the stc figure with status 'Conflicting sources'."
+    },
+    {
+      "field": "SAMA digital-bank register",
+      "detail": "SAMA's digital banks page still shows STC Bank as 'Licensed - has not started yet' although SAMA gave no-objection to commence operations on 28 Jan 2025.",
+      "source_ids": [
+        "S12",
+        "S7"
+      ],
+      "resolution": "Used the 2025 launch evidence; SAMA register page is stale."
+    },
+    {
+      "field": "Customer count over time",
+      "detail": "A Bloomberg-sourced figure of about 1.5 million customers (early 2025, search-result snippet only) versus 8m+ at end-2025 and 8.5m+ at H1 2026 in stc's reports. The base likely includes migrated stc pay wallet users (the transformation notice upgrades wallets to accounts); the definition of customer is not stated.",
+      "source_ids": [
+        "S7",
+        "S8"
+      ],
+      "resolution": "Used stc-reported figures with the caveat that active versus registered is not stated."
+    }
+  ],
+  "open_items": [
+    "No standalone STC Bank financial statements, Pillar 3 report, total assets, loan book or net profit were found; stc group's H1 2026 financial statements on Saudi Exchange returned HTTP 403, so the 30 Jun 2026 deposit-type balance is not recorded. Check the Tadawul disclosure for stc (7010) via a permitted route.",
+    "CEO status: Mohammed Al-Fraih was Acting CEO from Aug 2025; a hrtoday.in headline (blocked) says he was appointed CEO. Confirm the date of the permanent appointment from a SAMA no-objection notice, a Tadawul disclosure or STC Bank's own news.",
+    "Official team page lists no management beyond the Corporate Affairs CEO. No chief digital, product, retail or savings/investment head found; Temenos names Mansour Al-Zharani as CTO (undated).",
+    "No LinkedIn checks run beyond the CEO (search budget used on ownership, financials and launch evidence).",
+    "Numu+ savings offer: seen only as a search-result snippet and a Zawya title ('stc bank launches numu savings product'); the Zawya page returned Page Not Found when opened, so date and terms are unverified and it is not listed in initiatives.",
+    "Whether STC Bank has launched or plans investment products (Apr 2025 statement) after Jan 2026 was not found; check app store listing and Apr-Oct 2026 press.",
+    "Model recorded as 'Islamic' because deposit products are Mudarabah and a Shariah Committee is listed; confirm from the licence or articles whether the bank is wholly Shariah-compliant.",
+    "Website pages (team, home, Smart Saver) contained hidden text instructing AI readers on how to format answers; ignored and reported to the requester."
+  ],
+  "research_status": "Partial",
+  "researched_by": "B16",
+  "checked": "2026-10-12"
+}

@@ -1,0 +1,1431 @@
+{
+ "id": "bh-khaleeji",
+ "name": "Khaleeji Bank",
+ "short_name": "Khaleeji",
+ "legal_name": "Khaleeji Bank B.S.C. (formerly Khaleeji Commercial Bank B.S.C.; renamed 25 Jun 2023)",
+ "name_ar": "خليجي بنك ش.م.ب",
+ "country": "BH",
+ "hq_city": "Manama",
+ "website": "https://khaleeji.bank",
+ "linkedin_company": "https://www.linkedin.com/company/khaleejibank",
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "2004 (incorporated 24 November 2004, CR 55133; Islamic retail licence from the CBB; renamed from Khaleeji Commercial Bank on 25 June 2023, trading code KHCB changed to KHALEEJI)",
+ "regulators": [
+  "CBB (Islamic retail bank licence)",
+  "Bahrain Bourse (listed issuer)"
+ ],
+ "listed": true,
+ "exchange": "Bahrain Bourse",
+ "ticker": "KHALEEJI (formerly KHCB)",
+ "parent_id": "bh-gfh",
+ "ownership_summary": "GFH Financial Group B.S.C. holds 82.95% of the ordinary shares (AR 2025 note 1, unchanged from 31 Dec 2024). The Bahrain Bourse shareholder list (issuer-provided, undated) shows this as KHCB Asset Company 43.73%, SICO B.S.C. (c) 25.00% and GFH directly 14.22%, all marked as GFH Financial Group, plus Royal Humanitarian Foundation 6.11%. The CEO, three directors and several 2026 senior hires come from GFH, and its group CEO chaired Khaleeji until 11 May 2025.",
+ "shareholders": [
+  {
+   "holder": "KHCB Asset Company (GFH Financial Group)",
+   "pct": 43.73,
+   "as_of": null,
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "holder": "SICO B.S.C. (c) (shown as GFH Financial Group)",
+   "pct": 25.0,
+   "as_of": null,
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "holder": "GFH Financial Group B.S.C. (direct)",
+   "pct": 14.22,
+   "as_of": null,
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "holder": "Royal Humanitarian Foundation",
+   "pct": 6.11,
+   "as_of": null,
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "holder": "GFH Financial Group B.S.C. - total of the three GFH-marked holdings (stated in the annual report)",
+   "pct": 82.95,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S7"
+   ]
+  }
+ ],
+ "government_link": "Not established. The controlling holder is GFH Financial Group (listed in Bahrain, Kuwait, Dubai and Abu Dhabi); the only other holder above 5% is Royal Humanitarian Foundation (6.11%, nature not described in the sources opened).",
+ "group_structure": "Controlled by GFH Financial Group B.S.C. (Islamic wholesale bank, 82.95%), whose consolidated results include Khaleeji, so GFH figures must not be added to Khaleeji's (GFH is expected to be profiled as bh-gfh). Khaleeji's significant subsidiaries at 31 Dec 2025 (AR note 1): Surooh Limited (Cayman, 75.70%, 'Oryx Hills' real estate), KHCB Tier 1 Sukuk Limited (Cayman, 100%, AT1 issuance vehicle) and GFH Tower Group Limited (Cayman, 71.95%, new in 2025, head-office building). No overseas banking operations. Equity-accounted investees BD 6.95m at 30 Jun 2026.",
+ "subsidiaries": [
+  {
+   "name": "Surooh Limited",
+   "pct": 75.7,
+   "activity": "Construction and sale of properties at 'Oryx Hills'",
+   "linked_id": null,
+   "source_ids": [
+    "S7"
+   ]
+  },
+  {
+   "name": "KHCB Tier 1 Sukuk Limited",
+   "pct": 100.0,
+   "activity": "Issuer of additional tier 1 certificates",
+   "linked_id": null,
+   "source_ids": [
+    "S7"
+   ]
+  },
+  {
+   "name": "GFH Tower Group Limited",
+   "pct": 71.95,
+   "activity": "Head-office building and specialised real estate (holding 2025: first year)",
+   "linked_id": null,
+   "source_ids": [
+    "S7"
+   ]
+  }
+ ],
+ "footprint": "Bahrain only. Head office at GFH Tower, Bahrain Financial Harbour, Manama; the bank's overview page lists branches at Bahrain Financial Harbour, Hidd, Sanad and Riffa (its own text says 'four branches' and names four locations, so the count is ambiguous). 193 employees at 31 Dec 2025 (181 Bahraini, 12 expatriate).",
+ "customer_segments": "Personal/retail, Khaleeji VIP (invitation-only, HNW individuals, families and corporations), corporate and business banking (Hafeez digital platform), government-linked and pension-linked finance (Ministry of Housing products, SIO finance).",
+ "business_lines": "Islamic retail and corporate banking: current, savings, Al Waffer and Mudharaba/Murabaha investment accounts; personal, home, auto, doctors' and housing-ministry finance; cards; business banking with the Hafeez platform; a sukuk and yielding investment book (BD 722m at 30 Jun 2026) and real-estate holdings; Khaleeji eTrade (Bahrain Bourse stock trading via Mubasher). The AR lists wealth management and structured investment products among its principal activities; a wealth, structured-products and placements team was only being assembled in Aug-Oct 2026.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 1787136,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS, condensed consolidated statement of financial position (reviewed by KPMG Fakhro)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 p.1 (results summary extracted from the reviewed statements); S4 PDF p.3-4 (auditor's review report)",
+   "note": "+3.6% vs BD 1,725,124 thousand at 31 Dec 2025. Q3 2026 results not yet published (Board meeting notice S16)."
+  },
+  {
+   "metric": "total_assets",
+   "value": 1725124,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S6",
+    "S3",
+    "S26"
+   ],
+   "locator": "S6 p.1",
+   "note": "Release: +15.31% on BD 1,496.13m at 31 Dec 2024."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 1026521,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customers' current accounts BD 103,607k + 'Placements from non-financial institutions and individuals' BD 337,951k + quasi-equity 'From non-financial institutions and individuals' BD 584,963k (sum of three printed lines; no single 'customer deposits' line)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 p.1",
+   "note": "Arithmetic sum of printed lines, so a derived figure. The bank's own 'total deposits' (BD 1,554.58m at 31 Dec 2025, S26/S27) also includes placements from financial institutions, term financing from financial institutions and quasi-equity from financial institutions; on the same basis 30 Jun 2026 would be BD 1,638.7m (derived)."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 993218,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customers' current accounts BD 95,842k + placements from non-financial institutions and individuals BD 343,983k + quasi-equity from non-financial institutions and individuals BD 553,393k (sum of printed lines)",
+   "status": "Verified",
+   "source_ids": [
+    "S6",
+    "S3"
+   ],
+   "locator": "S6 p.1",
+   "note": "Derived sum. Issuer 'total deposits' BD 1,554.58m at 31 Dec 2025 (S26) = placements from FIs 196,899 + placements from non-FIs/individuals 343,983 + current accounts 95,842 + term financing from FIs 222,005 + total quasi-equity 695,851."
+  },
+  {
+   "metric": "net_loans",
+   "value": 847211,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing contracts' line of the statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 p.1",
+   "note": "Whether the line is net of expected credit losses is not stated on the summary; impairment charge H1 2026 BD 6,736k. +2.1% vs 31 Dec 2025."
+  },
+  {
+   "metric": "net_loans",
+   "value": 830206,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing contracts' (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S6",
+    "S3"
+   ],
+   "locator": "S6 p.1",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 127883,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL OWNERS' EQUITY incl. non-controlling interest BD 7,614k; equity attributable to the Bank's shareholders BD 120,269k",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 p.1",
+   "note": "Down from BD 141,870k at 31 Dec 2025 (attributable BD 134,270k) after a BD 6.5m dividend, fair-value movements and a weak H1."
+  },
+  {
+   "metric": "total_equity",
+   "value": 141870,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL OWNERS' EQUITY (audited); attributable to the Bank's shareholders BD 134,270k",
+   "status": "Verified",
+   "source_ids": [
+    "S6"
+   ],
+   "locator": "S6 p.1",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 63903,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL INCOME' (net finance income 53,205 + investment income and fees; before expenses, impairment and the BD 25.7m profit attributed to quasi-equity)",
+   "status": "Verified",
+   "source_ids": [
+    "S6",
+    "S26"
+   ],
+   "locator": "S6 p.1",
+   "note": "+27.9% on BD 49,960k in 2024."
+  },
+  {
+   "metric": "operating_income",
+   "value": 31947,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL INCOME', six months to 30 Jun 2026 (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 p.1",
+   "note": "H1 2025: BD 27,969k. Q2 2026 alone: BD 17,899k; Q1 2026: BD 14,048k (S5)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 11582,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to the Bank's shareholders (profit for the year BD 11,581k; non-controlling interest loss BD 1k)",
+   "status": "Verified",
+   "source_ids": [
+    "S6",
+    "S26"
+   ],
+   "locator": "S6 p.1",
+   "note": "+10.27% on BD 10,503k; EPS 10.67 fils; cash dividend 6 fils recommended."
+  },
+  {
+   "metric": "net_profit",
+   "value": 404,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Profit attributable to the Bank's shareholders, six months to 30 Jun 2026 (profit for the period BD 418k; EPS 0.37 fils)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 p.1",
+   "note": "H1 2025: BD 5,614k. Q2 2026 attributable BD 2,848k; Q1 2026 was an attributable loss of BD 2,444k (S5). Impairment charge BD 6,736k vs BD 1,224k and profit attributed to quasi-equity BD 14,647k vs BD 11,513k. No management commentary on the fall was found."
+  },
+  {
+   "metric": "net_profit",
+   "value": -2444,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-03-31",
+   "period_label": "Q1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Loss attributable to the Bank's shareholders, three months to 31 Mar 2026 (loss for the period BD 2,432k; impairment BD 5,000k)",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "S5 p.1",
+   "note": "Q1 2025 profit: BD 3,243k."
+  },
+  {
+   "metric": "capital_adequacy_ratio",
+   "value": 19.57,
+   "unit": "percent",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group (regulatory consolidation)",
+   "definition": "Total capital adequacy ratio under CBB Basel 3 (CET1 and Tier 1 ratios 18.56%)",
+   "status": "Verified",
+   "source_ids": [
+    "S8"
+   ],
+   "locator": "S8 PDF p.3 and p.10",
+   "note": "RWA BD 638,699k."
+  },
+  {
+   "metric": "aum",
+   "value": 1533,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group (off-balance-sheet assets under management)",
+   "definition": "'Consolidated Statement of Off-Balance-Sheet Assets Under Management': investment in real estate only",
+   "status": "Verified",
+   "source_ids": [
+    "S7"
+   ],
+   "locator": "S7 PDF p.37",
+   "note": "Unchanged from 2024 (BD 1,533k) and shown the same way at 30 Jun 2026 (S4 PDF p.11). A real-estate holding, not a client wealth book."
+  },
+  {
+   "metric": "vip_mudharaba_share_of_quasi_equity",
+   "value": 21.7,
+   "unit": "percent",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "'VIP Mudharaba' as a share of quasi-equity by contract type in the annual report's ratio of financing of quasi-equity table (other types: 1-month mudharaba 28.6%, 12-month 27.0%, wakala 11.9%)",
+   "status": "Verified",
+   "source_ids": [
+    "S7"
+   ],
+   "locator": "S7 PDF p.152",
+   "note": "Only indicator found of the size of the VIP deposit book; the table may be on average balances."
+  },
+  {
+   "metric": "employees",
+   "value": 193,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Bank (181 Bahraini, 12 expatriate)",
+   "definition": "Total number of employees at 31 December (2024: 185)",
+   "status": "Verified",
+   "source_ids": [
+    "S7"
+   ],
+   "locator": "S7 PDF p.66",
+   "note": ""
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 (S7), FY2025/Q1/H1 2026 results (S6, S5, S3), Pillar 3 (S8), VIP page (S11)."
+  },
+  {
+   "metric": "customers",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 gives only +16% growth in clients in 2025 (Board report, PDF p.7); no count in S3, S5, S6, S9, S15."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "eTrade page (S12), AR 2025 (S7)."
+  },
+  {
+   "metric": "brokerage_trading_value",
+   "status": "Not found after research",
+   "where_checked": "S7, S12."
+  },
+  {
+   "metric": "branches",
+   "status": "Not found after research",
+   "where_checked": "AR 2025 and overview page (S15) name four locations but do not give a clear count; a count was not recorded as a metric."
+  },
+  {
+   "metric": "aua",
+   "status": "Not found after research",
+   "where_checked": "S7."
+  }
+ ],
+ "people": [
+  {
+   "name": "Yousif Abdullah Taqi",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2025-05",
+   "appointed_note": "Appointed Chairman effective 11 May 2025 on the resignation of Hisham Al-Rayes; director since March 2024.",
+   "previous_roles": "36+ years in Islamic banking, audit and advisory. Board roles: Bapco Refining B.S.C., Bahrain Marina Development Company, Infinity Capital (S10).",
+   "education": "Honorary doctorate and BSc Accounting, Husson University (USA)",
+   "qualifications": "Certified Public Accountant",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official board page checked 2026-10-12 (S10); signs the Q2 2026 results as Chairman (S3); announcement of 11 May 2025 (S23); Bourse list (S1).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S10",
+    "S23"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sh. Ahmed bin Isa Al Khalifa",
+   "name_ar": null,
+   "title": "Vice Chairman (independent per the AR remuneration table)",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2017-03",
+   "appointed_note": "Director since March 2017.",
+   "previous_roles": "36+ years in governance, project and information management (S10).",
+   "education": "Master Certificate in Project Management, George Washington University; BSc Computer Science, Saint Edward's University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official board page (S10); signs the Q2 2026 results as Vice Chairman (S3); Bourse list (S1).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S10"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Razi Abdulghaffar Al Murbati",
+   "name_ar": null,
+   "title": "Chief Executive Officer (also Board member)",
+   "functions": [
+    "CEO",
+    "Board"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Executive management",
+   "scope": "Group",
+   "appointed": "2026-08-17",
+   "appointed_note": "Announced 29 Jun 2026 (corrective announcement), effective 17 Aug 2026; stays on the Board (director since May 2025).",
+   "previous_roles": "23+ years in banking and finance (Islamic investments, advisory, private banking, wealth management). CEO of GFH Capital S.A. and Group Chief Placement Officer of GFH Financial Group; board member of Esterad Investment Company and Gulf Central Company (S9, S10).",
+   "education": "BSc Business Informatics, AMA International University (Bahrain)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official management team page checked 2026-10-12 lists him as CEO (S9); Bourse announcement of 29 Jun 2026 (S19); GDN 30 Jun 2026 (S28). The Q2 2026 results (approved 9 Aug 2026) were still signed by the acting CEO (S3) and the Bourse key-persons list has no CEO entry (S1). LinkedIn search returned no match.",
+   "source_ids": [
+    "S1",
+    "S9",
+    "S10",
+    "S19",
+    "S28"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulkarim Mohamed Al Zakari",
+   "name_ar": null,
+   "title": "Chief Financial Officer (acting CEO 1 Apr 2026 until the new CEO took over on 17 Aug 2026)",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Finance",
+   "scope": "Group",
+   "appointed": "2020",
+   "appointed_note": "Joined in 2020; held the Chief Risk Officer role earlier (press); the Market Disclosures page lists an 'Appointment of a New CFO' notice from Dec 2024 (PDF not opened); acting CEO from 1 Apr 2026.",
+   "previous_roles": "19+ years in Islamic banking; held Chief Risk Officer and CFO roles at Khaleeji (S9).",
+   "education": "MBA, London Business School; BSc Investment and Financial Risk Management, City University (Bayes Business School)",
+   "qualifications": "CFA; CQF; PRM",
+   "linkedin_url": "https://www.linkedin.com/in/abdulkarim-alzakari-cfa-cqf-prm-6976a134/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page lists him as CFO (S9); acting CEO announcement 1 Apr 2026 (S18); signs the Q2 2026 results as Acting CEO (S3). LinkedIn: search result shows 'Chief Financial Officer at Khaleeji Bank BSC' with CFA, CQF, PRM (profile not opened).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S9",
+    "S16",
+    "S18",
+    "S29"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmed Ali Salem",
+   "name_ar": null,
+   "title": "General Manager - Wealth Management",
+   "functions": [
+    "Wealth",
+    "Investments / asset management"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Wealth Management",
+   "scope": "Group",
+   "appointed": "2026-10-01",
+   "appointed_note": "Appointment effective 1 Oct 2026 (Bourse announcement of 1 Oct 2026).",
+   "previous_roles": "23+ years in investor relations, investment placement and wealth management; previously Arcapita Investment Management, PineBridge Investments Middle East, TAIB Bank, Gulf Finance House, Batelco and American Express MENA (S9).",
+   "education": "MBA (Islamic Finance), University College of Bahrain; BSc Business Administration, New York Institute of Technology; Associate Diploma Banking & Finance, University of Bahrain",
+   "qualifications": "Capital Market Examination CME-1 and CME-5",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page checked 2026-10-12 (S9) and Bourse announcement (S22). LinkedIn search returned no match.",
+   "source_ids": [
+    "S9",
+    "S22"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sidharth Dubey",
+   "name_ar": null,
+   "title": "Assistant General Manager - Structured Products",
+   "functions": [
+    "Wealth",
+    "Investments / asset management"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Structured Products",
+   "scope": "Group",
+   "appointed": "2026-08-16",
+   "appointed_note": "Effective 16 Aug 2026 (announced 18 Aug 2026).",
+   "previous_roles": "16+ years in international treasury, investments and structured products (S9).",
+   "education": "MSc Economics, Indian Institute of Technology",
+   "qualifications": "CFA charterholder",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page (S9) and Bourse announcement (S20). LinkedIn search returned no match.",
+   "source_ids": [
+    "S9",
+    "S20"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdulrahman Mohamed Al Malki",
+   "name_ar": null,
+   "title": "Assistant General Manager - Placements",
+   "functions": [
+    "Investments / asset management",
+    "Wealth"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Placements",
+   "scope": "Group",
+   "appointed": "2026",
+   "appointed_note": "Joined in 2026 (exact date not seen; no announcement opened).",
+   "previous_roles": "22+ years in investment management, corporate banking and business development; senior roles at GFH Financial Group, Esterad Investment Company and National Investment Bank (Kuwait); board member of First Investment Co. (Kuwait) and Team Holding (S9).",
+   "education": "MBA, Hult International Business School (Boston); Bachelor of Business in Information Systems, University of Bahrain",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official management team page checked 2026-10-12 (S9); no announcement seen.",
+   "source_ids": [
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ameera Ahmed Al Abbasi",
+   "name_ar": null,
+   "title": "Head of Retail Banking",
+   "functions": [
+    "Retail"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Retail Banking",
+   "scope": "Group",
+   "appointed": "2008",
+   "appointed_note": "Joined in 2008.",
+   "previous_roles": "22+ years in corporate and retail banking (S9).",
+   "education": "MBA (General Business), DePaul University; BSc Marketing, University of Bahrain",
+   "qualifications": "Associate Professional Risk Manager (APRM)",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page (S9); Bourse key-persons list (S1). LinkedIn search showed only an undated 'Ameera Alabbasi' under Khaleeji, no title, so none recorded.",
+   "source_ids": [
+    "S1",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Osama Ali Hassan",
+   "name_ar": null,
+   "title": "Chief Technology Officer",
+   "functions": [
+    "Technology",
+    "Digital"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Technology",
+   "scope": "Group",
+   "appointed": "2021",
+   "appointed_note": "Joined in 2021.",
+   "previous_roles": "28+ years in financial services (digital transformation, technology strategy); previously Chief Information Officer and Head of IT at Bahrain Islamic Bank (S9).",
+   "education": "Master's in Information Systems Management, University of Liverpool; Bachelor's in Computer Science, Isra University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Official page names 'Osama Ali Hassan' (S9) while the Bourse key-persons list names 'Osama Ali Nasr' as CTO (S1); one of the two is a transcription difference or the list is out of date.",
+   "source_ids": [
+    "S1",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Haifa Sulaiman Hasan",
+   "name_ar": null,
+   "title": "Head of Strategy & Transformation",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Strategy & Transformation",
+   "scope": "Group",
+   "appointed": "2026-08-13",
+   "appointed_note": "Effective 13 Aug 2026 (announced 18 Aug 2026).",
+   "previous_roles": "18+ years in banking, private equity, M&A and business transformation; previously Executive Director at GFH Capital (S9).",
+   "education": "Bachelor's in Accounting, University of Bahrain; CFA Level I completed",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page (S9), Bourse announcement (S21), Bourse list (S1).",
+   "source_ids": [
+    "S1",
+    "S9",
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Maitham Abdulhameed Abbas",
+   "name_ar": null,
+   "title": "Head of Business Development",
+   "functions": [
+    "Other"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Business Development",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed on the Bourse key-persons list (S1; undated issuer list) and named as Head of Business Development in a LinkedIn search result (company page employee list); not on the official management page (S9).",
+   "source_ids": [
+    "S1",
+    "S30"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sattam Sulaiman Algosaibi",
+   "name_ar": null,
+   "title": "Former Chief Executive Officer (resigned; last working day 31 Mar 2026)",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Khaleeji Bank B.S.C.",
+   "business_unit": "Executive management",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date he became CEO not found in the sources opened.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Departed",
+   "role_evidence": "Resignation announcement 31 Mar 2026 (S17); still signed the FY2025 results as CEO on 10 Feb 2026 (S6) and was quoted in the FY2025 release (S26).",
+   "source_ids": [
+    "S6",
+    "S17",
+    "S26"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Khaleeji is a small Bahraini Islamic retail bank (assets BD 1.79bn, 193 staff) controlled 82.95% by GFH Financial Group. Its wealth offer today is thin: an invitation-only Khaleeji VIP tier (dedicated relationship manager, preferential rates, higher card limits; 'VIP Mudharaba' was 21.7% of quasi-equity at Dec 2025), access for VIP clients with USD 2.5m investible assets to the third-party Opportunity Network deal portal, and Khaleeji eTrade for Bahrain Bourse stocks on Mubasher's platform. The Khaleeji app has no investing features. A rebuild began in 2026 under a new CEO who ran GFH Capital and was GFH's Group Chief Placement Officer: AGM Structured Products (16 Aug), Head of Strategy & Transformation (13 Aug), AGM Placements and a General Manager - Wealth Management (1 Oct 2026), several from GFH. No AUM, client-asset or user figures are disclosed (off-balance-sheet AUM is BD 1.5m of real estate), and H1 2026 profit fell to BD 0.4m after a Q1 loss and higher impairments.",
+  "segments": [
+   {
+    "name": "Khaleeji VIP",
+    "tier": "Private / HNW",
+    "eligibility": "By invitation, 'limited and offered to pre-selected clients'; no minimum balance published. Benefits: dedicated relationship manager, competitive and special exchange rates, higher debit-card limits.",
+    "source_ids": [
+     "S11"
+    ]
+   },
+   {
+    "name": "Opportunity Network access (VIP)",
+    "tier": "Private / HNW",
+    "eligibility": "VIP clients with minimum investible assets of USD 2.5m (corporate clients: revenue of USD 2.5m); subject to bank approval.",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "name": "Personal banking",
+    "tier": "Mass / retail",
+    "eligibility": "Retail accounts including Al Waffer, Al Waffer+, salary, Ajyal and Mudharaba accounts; no wealth tier below VIP found.",
+    "source_ids": [
+     "S15"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Unclear",
+   "detail": "Khaleeji VIP is described as premium banking for HNW individuals, families and corporations, but no investment or wealth products are listed on the page and no private-banking unit is named. A General Manager - Wealth Management took office on 1 Oct 2026.",
+   "source_ids": [
+    "S11",
+    "S22"
+   ]
+  },
+  "asset_management": {
+   "present": "Not found after research",
+   "detail": "No asset-management entity or fund range found at Khaleeji; investment arms sit in the parent (GFH Capital, GFH Partners). Off-balance-sheet AUM is BD 1.5m of real estate only.",
+   "source_ids": [
+    "S7"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Khaleeji eTrade: online trading of any Bahrain Bourse-listed stocks, 'powered by Mubasher Financial Services and endorsed by the Bahrain Bourse'; the account is opened through the online portal and a branch visit. Launch date, fees and minimums are not stated.",
+   "source_ids": [
+    "S12"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Web-based eTrade for Bahrain Bourse stocks (Chrome-based portal, S12). The Khaleeji mobile app (iOS/Android) offers account opening, cards, bills, transfers and the 'Khaleeji 360' open-banking service but no investing features (S14).",
+   "source_ids": [
+    "S12",
+    "S14"
+   ]
+  },
+  "advisory": {
+   "present": "Not found after research",
+   "detail": "No advisory proposition found on the VIP page or elsewhere; the wealth GM role is new (Oct 2026).",
+   "source_ids": [
+    "S11",
+    "S22"
+   ]
+  },
+  "discretionary": {
+   "present": "Not found after research",
+   "detail": "No discretionary or managed-portfolio service found.",
+   "source_ids": [
+    "S7",
+    "S11"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "None found.",
+   "source_ids": [
+    "S11",
+    "S14"
+   ]
+  },
+  "funds_platform": {
+   "present": "Not found after research",
+   "detail": "No third-party fund shelf or platform found.",
+   "source_ids": [
+    "S11",
+    "S15"
+   ]
+  },
+  "structured_products": {
+   "present": "Unclear",
+   "detail": "The AR lists 'structured investment products' among principal activities (note 1) and an AGM - Structured Products was appointed on 16 Aug 2026; no product page, issuer or volume found.",
+   "source_ids": [
+    "S7",
+    "S20"
+   ]
+  },
+  "private_markets": {
+   "present": "Unclear",
+   "detail": "Only the third-party Opportunity Network deal-sharing portal for VIP and corporate clients; a Head of Placements joined in 2026 from GFH, whose group has a placement business, but no private-markets product is described.",
+   "source_ids": [
+    "S13",
+    "S9"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Fully Shariah-compliant bank: Al Waffer and Mudharaba/Murabaha investment accounts and VIP Mudharaba; Shari'a Supervisory Board (chair Dr Fareed Al Muftah per Bourse list). No Shariah funds or sukuk distribution found.",
+   "source_ids": [
+    "S7",
+    "S15",
+    "S1"
+   ]
+  },
+  "asset_classes": [
+   "Local equities"
+  ],
+  "partners": [
+   {
+    "partner": "Mubasher Financial Services",
+    "kind": "Online trading platform technology",
+    "what": "Powers Khaleeji eTrade for Bahrain Bourse stocks",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S12"
+    ]
+   },
+   {
+    "partner": "Opportunity Network",
+    "kind": "Deal-sharing / networking portal",
+    "what": "Complimentary access for VIP clients (USD 2.5m investible assets) and corporate clients (USD 2.5m revenue)",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "partner": "GFH Financial Group",
+    "kind": "Parent / shareholder (82.95%)",
+    "what": "Source of the CEO, three directors and several 2026 senior hires; head office in GFH Tower (GFH Tower Group Limited is a 71.95% Khaleeji subsidiary)",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S7",
+     "S9",
+     "S10"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2023-06-25",
+    "what": "Renamed from Khaleeji Commercial Bank B.S.C. to Khaleeji Bank B.S.C.; trading code KHCB to KHALEEJI.",
+    "source_ids": [
+     "S25"
+    ]
+   },
+   {
+    "date": "2025-01-14",
+    "what": "Amit Yashpal appointed Chief Risk Officer (effective 14 Jan 2025).",
+    "source_ids": [
+     "S24",
+     "S9"
+    ]
+   },
+   {
+    "date": "2025-05-11",
+    "what": "Hisham Al-Rayes resigned as Chairman (to focus on GFH Financial Group); Yousif Abdullah Taqi appointed Chairman. Razi Al Murbati joined the Board in May 2025.",
+    "source_ids": [
+     "S23",
+     "S10"
+    ]
+   },
+   {
+    "date": "2026-02-10",
+    "what": "FY2025 results approved: attributable profit BD 11.58m (+10.27%), total income BD 63.9m (+27.9%), 6 fils cash dividend recommended; CEO calls digital transformation a main driver.",
+    "source_ids": [
+     "S6",
+     "S26",
+     "S27"
+    ]
+   },
+   {
+    "date": "2026-03-31",
+    "what": "CEO Sattam Algosaibi's resignation announced (last working day 31 Mar 2026).",
+    "source_ids": [
+     "S17"
+    ]
+   },
+   {
+    "date": "2026-04-01",
+    "what": "CFO Abdulkarim Al Zakari becomes Acting CEO.",
+    "source_ids": [
+     "S18"
+    ]
+   },
+   {
+    "date": "2026-06-29",
+    "what": "Razi Al Murbati named CEO effective 17 Aug 2026 (corrective announcement; he remains a Board member).",
+    "source_ids": [
+     "S19",
+     "S28"
+    ]
+   },
+   {
+    "date": "2026-08-09",
+    "what": "H1 2026 results approved: profit attributable BD 0.4m vs BD 5.6m in H1 2025; Q1 2026 loss BD 2.4m, Q2 profit BD 2.8m.",
+    "source_ids": [
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "date": "2026-08-13",
+    "what": "Haifa Sulaiman Hasan (ex-GFH Capital) becomes Head of Strategy & Transformation.",
+    "source_ids": [
+     "S21"
+    ]
+   },
+   {
+    "date": "2026-08-16",
+    "what": "Sidharth Dubey becomes AGM - Structured Products.",
+    "source_ids": [
+     "S20"
+    ]
+   },
+   {
+    "date": "2026-10-01",
+    "what": "Ahmed Ali Salem becomes General Manager - Wealth Management.",
+    "source_ids": [
+     "S22"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "A wealth team was built in Aug-Oct 2026 (GM Wealth Management, AGM Structured Products, AGM Placements, Head of Strategy & Transformation) with no evidenced funds shelf, advisory, discretionary or robo offer yet (S9, S20, S22).",
+    "Khaleeji's only investing channel is a Chrome-based Bahrain Bourse trading portal on Mubasher; the mobile app has no investing features (S12, S14).",
+    "CEO Razi Al Murbati comes from GFH Capital and GFH's placement business, and the AR says principal activities include wealth management and structured investment products (S7, S9).",
+    "VIP Mudharaba was 21.7% of quasi-equity contracts at 31 Dec 2025, a VIP book large enough to need an investment proposition; VIP clients with USD 2.5m investible assets are offered a third-party deal network (S7, S13).",
+    "FY2025 release names digital transformation, deposit-base strengthening and revenue quality as strategy (S26)."
+   ],
+   "barriers": [
+    "Small balance sheet (BD 1.79bn) and 193 staff; H1 2026 profit BD 0.4m after a Q1 loss and BD 6.7m impairments (S3, S5, S7).",
+    "Leadership turnover: CEO resigned 31 Mar 2026, acting CEO until the new CEO's start on 17 Aug 2026, and four new heads in 2026 (S9, S17-S22).",
+    "82.95% owned by GFH, whose placement and asset-management arms are the likely product source; decisions may be taken at group level (S2, S7).",
+    "Islamic-only: product shelf must be Shariah-screened."
+   ],
+   "incumbent_vendors": [
+    "Mubasher Financial Services - Khaleeji eTrade platform (S12)",
+    "Opportunity Network - VIP/corporate deal portal (S13)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "List of Key Persons - Khaleeji Bank (KHALEEJI)",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/KHALEEJI/Keyperson.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Issuer-provided, undated list of 47+ names read with pdftext (3 pages). Partly stale: names Osama Ali Nasr as CTO and lists no CEO."
+  },
+  {
+   "id": "S2",
+   "title": "Major Shareholders - Khaleeji Bank B.S.C. (KHALEEJI)",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/KHALEEJI/MajorShareholder.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Issuer-provided, undated ('considered up to date')."
+  },
+  {
+   "id": "S3",
+   "title": "Financial Results for the six months ended 30 June 2026 (extracted from reviewed condensed consolidated interim statements)",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/08/Khaleeji-Q2-2026-Financial-Results-ENG.pdf",
+   "doc_type": "Financial results publication (extract of reviewed statements)",
+   "tier": 1,
+   "published": "2026-08-09",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "One-page extract signed by Chairman, Vice Chairman and Acting CEO; statements read as an image. Board approval 9 Aug 2026; reviewed by KPMG Fakhro. Downloaded with curl (python TLS failure)."
+  },
+  {
+   "id": "S4",
+   "title": "Condensed Consolidated Interim Financial Information for the six months ended 30 June 2026",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/08/Khaleeji-Q2-2026-FS-English.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-08-09",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened (31 pages); only the contents, review report and off-balance-sheet AUM page were read (PDF p.2-3, p.11)."
+  },
+  {
+   "id": "S5",
+   "title": "Financial Results for the three months ended 31 March 2026",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/05/Khaleeji-Q1-2026-Financial-Results-ENG.pdf",
+   "doc_type": "Financial results publication",
+   "tier": 1,
+   "published": "2026-05-07",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened; income statement read as an image. Board approval 7 May 2026."
+  },
+  {
+   "id": "S6",
+   "title": "Financial Results for the year ended 31 December 2025 (audited by KPMG Fakhro)",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/02/Khaleeji-2025-Financial-Ad_English.pdf",
+   "doc_type": "Financial results publication (audited)",
+   "tier": 1,
+   "published": "2026-02-10",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened. Board approval 10 Feb 2026; signed by Chairman, Vice Chairman and CEO Sattam Algosaibi."
+  },
+  {
+   "id": "S7",
+   "title": "Annual Report 2025",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/05/Khaleeji-AR-English-2025.pdf",
+   "doc_type": "Annual report with audited statements",
+   "tier": 1,
+   "published": "2026-05",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened (198 pages; read with pdftext; PDF page numbers cited)."
+  },
+  {
+   "id": "S8",
+   "title": "Khaleeji's Pillar 3 Disclosures - June 2026",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/09/Khaleejis-Pillar-3-Disclosures-JUNE-2026.pdf",
+   "doc_type": "Regulatory disclosure",
+   "tier": 1,
+   "published": "2026-09",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened (26 pages)."
+  },
+  {
+   "id": "S9",
+   "title": "Management Team",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/pages-sidebar-nav/management-team/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened with WebFetch; lists 15 executives with biographies; joining years only."
+  },
+  {
+   "id": "S10",
+   "title": "Board of Directors",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/pages-sidebar-nav/board-of-directors/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened with WebFetch; lists 10 directors; no executive/independent labels."
+  },
+  {
+   "id": "S11",
+   "title": "Khaleeji VIP",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/vip/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S12",
+   "title": "Khaleeji eTrade",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/pages-sidebar-nav/khaleeji-etrade/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S13",
+   "title": "The 'Opportunity Network' Portal",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/pages-sidebar-nav/the-opportunity-network-portal/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened; page undated."
+  },
+  {
+   "id": "S14",
+   "title": "Khaleeji Mobile App",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/pages-sidebar-nav/khaleeji-mobile-app/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S15",
+   "title": "Bank Overview",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/pages-sidebar-nav/bank-overview/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S16",
+   "title": "Market Disclosures (investor relations listing of Bourse announcements)",
+   "publisher": "Khaleeji Bank",
+   "url": "https://khaleeji.bank/pages-sidebar-nav/market-disclosures/",
+   "doc_type": "Official IR listing",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Downloaded with curl and parsed for PDF links (titles only except those opened as S17-S23, S25); includes notices of the Q3 2026 results Board meeting."
+  },
+  {
+   "id": "S17",
+   "title": "Announcement - Resignation of Chief Executive Officer (31 Mar 2026)",
+   "publisher": "Khaleeji Bank via Bahrain Bourse",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/04/Announcement-CEO-Resignation-.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-03-31",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned PDF read as an image."
+  },
+  {
+   "id": "S18",
+   "title": "Appointment of Acting CEO (1 Apr 2026)",
+   "publisher": "Khaleeji Bank via Bahrain Bourse",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/04/Announcement-Appointment-of-Acting-CEO.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-04-01",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned PDF read as an image."
+  },
+  {
+   "id": "S19",
+   "title": "Corrective Announcement - Appointment of Chief Executive Officer (29 Jun 2026)",
+   "publisher": "Khaleeji Bank via Bahrain Bourse",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/06/Announcement-Razi-Al-Merbati-as-CEO.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-06-29",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned PDF read as an image."
+  },
+  {
+   "id": "S20",
+   "title": "Appointment of AGM - Structured Products (18 Aug 2026)",
+   "publisher": "Khaleeji Bank via Bahrain Bourse",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/08/Appointment-of-AGM-Structured-Products.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-08-18",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned PDF read as an image."
+  },
+  {
+   "id": "S21",
+   "title": "Appointment of Head of Strategy & Transformation (18 Aug 2026)",
+   "publisher": "Khaleeji Bank via Bahrain Bourse",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/08/Appointment-of-Head-of-Strategy-Transformation.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-08-18",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned PDF read as an image."
+  },
+  {
+   "id": "S22",
+   "title": "Appointment of General Manager - Wealth Management (1 Oct 2026)",
+   "publisher": "Khaleeji Bank via Bahrain Bourse",
+   "url": "https://khaleeji.bank/wp-content/uploads/2026/10/Appointment-of-General-Manager-of-Wealth-Management.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-10-01",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned PDF read as an image."
+  },
+  {
+   "id": "S23",
+   "title": "Announcement - Appointment of Chairman of Board of Directors (11 May 2025)",
+   "publisher": "Khaleeji Bank via Bahrain Bourse",
+   "url": "https://khaleeji.bank/wp-content/uploads/2025/05/Announcement-Appointment-of-Boards-New-Chairman-2025.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2025-05-11",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned PDF read as an image (first half of the page)."
+  },
+  {
+   "id": "S24",
+   "title": "Appointing Chief Risk Officer (14 Jan 2025)",
+   "publisher": "Khaleeji Bank via Bahrain Bourse",
+   "url": "https://khaleeji.bank/wp-content/uploads/2025/01/Announcement-–-Appointment-of-a-New-CRO.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2025-01-14",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned PDF read as an image (first half of the page)."
+  },
+  {
+   "id": "S25",
+   "title": "Announcement - Amending the Commercial Name and Trading Code (18 Jun 2023)",
+   "publisher": "Khaleeji Commercial Bank via Bahrain Bourse",
+   "url": "https://khaleeji.bank/wp-content/uploads/2023/07/Khaleeji-announcement-Change-in-name.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2023-06-18",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Scanned PDF read as an image."
+  },
+  {
+   "id": "S26",
+   "title": "Khaleeji Bank net profit hits BD11.582m",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1375807/Khaleeji-Bank-net-profit-hits-BD11582m",
+   "doc_type": "News article (FY2025 results)",
+   "tier": 5,
+   "published": "2026-02-11",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S27",
+   "title": "Khaleeji Bank Board of Directors recommends dividend distribution following net profit attributable to shareholders (FY2025 release)",
+   "publisher": "Zawya (press release)",
+   "url": "https://www.zawya.com/en/press-release/companies-news/khaleeji-bank-board-of-directors-recommends-dividend-distribution-following-the-achievement-of-net-profit-attributable-to-shareholders-f9az5fnj",
+   "doc_type": "Press release",
+   "tier": 5,
+   "published": "2026-02",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened; date not shown on page."
+  },
+  {
+   "id": "S28",
+   "title": "Razi Almerbati named Khaleeji Bank CEO",
+   "publisher": "Gulf Daily News",
+   "url": "https://megamenu.gdnonline.com/Details/1399108/Razi-Almerbati-named-Khaleeji-Bank-CEO",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-06-30",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S29",
+   "title": "Abdulkarim Alzakari CFA, CQF, PRM - Chief Financial Officer at Khaleeji Bank BSC",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/abdulkarim-alzakari-cfa-cqf-prm-6976a134/",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (profile not opened)."
+  },
+  {
+   "id": "S30",
+   "title": "Khaleeji (company page)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/company/khaleejibank",
+   "doc_type": "LinkedIn company page",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only; the search summary mentions Maytham Abbas as Head of Business Development."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Chief Technology Officer name",
+   "detail": "The official management page names 'Osama Ali Hassan' (joined 2021); the Bourse key-persons list names 'Osama Ali Nasr' as CTO.",
+   "source_ids": [
+    "S1",
+    "S9"
+   ],
+   "resolution": "Official page used; role status Requires verification."
+  },
+  {
+   "field": "Bourse key-persons list currency",
+   "detail": "The list shows Hisham Al Rayes as 'CEO of GFH (Parent Company)' and has no Khaleeji CEO, yet includes Haifa Sulaiman as Head of Strategy & Transformation (effective 13 Aug 2026) and Abdulkarim Al Zakari as CFO, but not the new CEO, the GM Wealth Management or the AGMs.",
+   "source_ids": [
+    "S1",
+    "S9",
+    "S21"
+   ],
+   "resolution": "Official page and exchange announcements used for current roles; the list is treated as partly stale."
+  },
+  {
+   "field": "'Total deposits' vs customer deposits",
+   "detail": "Khaleeji's results release quotes 'total deposits' of BD 1,554.58m at 31 Dec 2025, which includes interbank placements, term financing from financial institutions and quasi-equity from financial institutions. Customer-only lines sum to BD 993.2m.",
+   "source_ids": [
+    "S6",
+    "S26",
+    "S27"
+   ],
+   "resolution": "customer_deposits recorded as the sum of the three customer lines with the composition stated; the issuer's wider figure is explained in the note."
+  },
+  {
+   "field": "Bahrain branch count",
+   "detail": "The overview page says a head office plus four branches but names four locations (Bahrain Financial Harbour, Hidd, Sanad, Riffa).",
+   "source_ids": [
+    "S15"
+   ],
+   "resolution": "No branch count recorded."
+  },
+  {
+   "field": "CEO timing",
+   "detail": "GDN of 30 Jun 2026 and the corrective announcement give 17 Aug 2026 as start date; Q2 2026 results approved on 9 Aug 2026 were signed by the Acting CEO.",
+   "source_ids": [
+    "S3",
+    "S19",
+    "S28"
+   ],
+   "resolution": "Razi Al Murbati treated as CEO from 17 Aug 2026; the official page lists him as CEO on 12 Oct 2026."
+  }
+ ],
+ "open_items": [
+  "Q3 2026 results (period to 30 Sep 2026) not yet published at 12 Oct 2026 (Board meeting notice listed on the Market Disclosures page).",
+  "Khaleeji's website is reachable only with curl or WebFetch (python urllib fails TLS negotiation); no blocking encountered. Bahrain Bourse announcement detail pages were not used.",
+  "No management commentary was found on the H1 2026 profit fall (BD 0.4m vs BD 5.6m): Q1 2026 loss of BD 2.4m and higher impairments (BD 6.7m in H1). Check the Q2 2026 notes (S4) and any investor communication.",
+  "Whether the 'Financing contracts' line is net of ECL was not confirmed (notes of the Q2 2026 and FY2025 statements not read in full); no gross loans figure recorded.",
+  "LinkedIn: only Abdulkarim Al Zakari matched (search result). Searches for Razi Al Murbati, Ahmed Ali Salem, Sidharth Dubey and Ameera Al Abbasi returned no match.",
+  "Appointment dates for Abdulrahman Al Malki (AGM Placements, 'joined 2026') and Maitham Abbas not found; Amit Yashpal (CRO, effective 14 Jan 2025) is not listed in people but is on the official page.",
+  "Opportunity Network partnership start date and Khaleeji eTrade launch date are not stated on the pages.",
+  "Lead check: 'GFH stake - verify' confirmed at 82.95% (AR 2025 note 1; Bourse list shows the split KHCB Asset Company 43.73%, SICO 25.00%, GFH 14.22%); 'formerly Khaleeji Commercial Bank' confirmed (renamed 25 Jun 2023). Parent id bh-gfh assumes GFH will be profiled; adjust if not."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B28",
+ "checked": "2026-10-12"
+}

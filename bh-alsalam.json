@@ -1,0 +1,1512 @@
+{
+ "id": "bh-alsalam",
+ "name": "Al Salam Bank",
+ "short_name": "Al Salam Bank",
+ "legal_name": "Al Salam Bank B.S.C.",
+ "name_ar": null,
+ "country": "BH",
+ "hq_city": "Manama",
+ "website": "https://www.alsalambank.com",
+ "linkedin_company": "https://www.linkedin.com/company/alsalambank-bahrain/",
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "2006 (incorporated in Bahrain and registered with MOIC under CR 59308 on 19 January 2006, per note 1 of the 31 Mar 2026 interim statements)",
+ "regulators": [
+  "CBB (Islamic retail bank licence)",
+  "Bahrain Bourse and Dubai Financial Market (listed issuer)",
+  "DFSA (ASB Capital Limited, DIFC asset manager; Category 3A per launch press)"
+ ],
+ "listed": true,
+ "exchange": "Bahrain Bourse; Dubai Financial Market (dual listing)",
+ "ticker": "SALAM (Bahrain Bourse); SALAM_BAH (DFM)",
+ "parent_id": null,
+ "ownership_summary": "Listed on Bahrain Bourse (SALAM) and Dubai Financial Market (SALAM_BAH). The Bourse major-shareholder list names Bank Muscat (S.A.O.G) 14.74%, Muscat Overseas Company LLC 8.43% and Sayacorp B.S.C. (Closed) 6.28%; the remaining ~70.5% is not itemised there. The list is undated (issuer-provided; PDF created 6 Nov 2025). Whether Muscat Overseas Company is linked to Bank Muscat is not stated in the sources opened.",
+ "shareholders": [
+  {
+   "holder": "Bank Muscat (S.A.O.G) (Oman)",
+   "pct": 14.74,
+   "as_of": "2025-11",
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "holder": "Muscat Overseas Company LLC (Oman)",
+   "pct": 8.43,
+   "as_of": "2025-11",
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "holder": "Sayacorp B.S.C. (Closed) (Bahrain)",
+   "pct": 6.28,
+   "as_of": "2025-11",
+   "source_ids": [
+    "S2"
+   ]
+  }
+ ],
+ "government_link": "Not established: the Bourse list names three holders above 5% (S2) and none is identified in the sources opened as a government body; the full shareholder register and the owners of Sayacorp and Muscat Overseas Company were not checked.",
+ "group_structure": "Al Salam Bank B.S.C. is the parent of a diversified group (note 1, 31 Mar 2026 interim statements, S3): Al Salam Bank - Seychelles Ltd (70.0%, banking), Al Salam Bank Algeria S.P.A. (68.0%, banking), Solidarity Group Holding B.S.C. (c) (55.9%, takaful holding; main subsidiary Solidarity Investment Company B.S.C., a takaful company listed on Bahrain Bourse), ASB Capital Limited (100%, UAE/DIFC asset management) and ASB Finance B.S.C. (c) (100%, formerly Kuwait Finance House (Bahrain) B.S.C. (c), acquired in May 2024). Associates: Gulf African Bank (Kenya, 20.9%) and an economic interest in a 26.2% stake in BBK held via FINCORP W.L.L. (a Shariah financing arrangement, not legal ownership). The figures in this file are group consolidated, so they already include all subsidiaries; none is profiled separately. CAUTION: the entity named 'Kuwait Finance House (Bahrain)' in bh-kfhbahrain is the former Ahli United Bank (renamed Jul 2025), a different bank from the old KFH Bahrain that Al Salam acquired and now holds as ASB Finance.",
+ "subsidiaries": [
+  {
+   "name": "ASB Capital Limited",
+   "pct": 100.0,
+   "activity": "Asset management and investment banking (DIFC-based, DFSA-licensed); launched Nov 2024",
+   "linked_id": null,
+   "source_ids": [
+    "S3",
+    "S12",
+    "S15"
+   ]
+  },
+  {
+   "name": "Solidarity Group Holding B.S.C. (c)",
+   "pct": 55.9,
+   "activity": "Holding company for takaful/insurance business (Solidarity Investment Company B.S.C.)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "Al Salam Bank - Seychelles Limited",
+   "pct": 70.0,
+   "activity": "Banking services (1 branch)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "Al Salam Bank Algeria (S.P.A.)",
+   "pct": 68.0,
+   "activity": "Banking services (26 branches)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "ASB Finance B.S.C. (c) (formerly Kuwait Finance House (Bahrain) B.S.C. (c))",
+   "pct": 100.0,
+   "activity": "Banking services in Bahrain; acquisition completed 15 May 2024",
+   "linked_id": null,
+   "source_ids": [
+    "S3",
+    "S18"
+   ]
+  }
+ ],
+ "footprint": "Bahrain (20 branches), Algeria (26 branches) and Seychelles (1 branch) at 31 Mar 2026 (note 1 of S3), plus ASB Capital in the DIFC (Dubai). Associate in Kenya (Gulf African Bank, 20.9%). Staff numbers not obtained.",
+ "customer_segments": "Retail, Al Ruwad (affluent/premium tier, no threshold published), Private Banking, corporate, plus institutional and HNW clients of ASB Capital (public markets, private markets, investment banking, placement) and takaful customers through Solidarity.",
+ "business_lines": "Retail banking (including Al Ruwad and the Al Salam Bank app), corporate banking, private banking, treasury, real estate and investments (incl. an off-balance-sheet investment-management book of BD 796.1m at 31 Mar 2026), asset management and investment banking through ASB Capital (DIFC), takaful through Solidarity Group, and international banking subsidiaries in Algeria and Seychelles. Sharia-compliant throughout (quasi-equity model: customers' current accounts plus wakala and mudaraba accounts).",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 22.82,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets as stated in the issuer's H1 2026 results release (USD as printed in press coverage)",
+   "status": "Requires verification",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "locator": "S6; S7; S8",
+   "note": "Rounded press-release figure (+6.8% vs USD 21.36bn at 31 Dec 2025). The reviewed H1 2026 statements (KPMG) are on Bahrain Bourse/DFM but could not be opened; no BHD figure appeared in any coverage seen. Q3 2026 results not yet out at 12 Oct 2026."
+  },
+  {
+   "metric": "total_assets",
+   "value": 8510904,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-03-31",
+   "period_label": "31 Mar 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, condensed consolidated statement of financial position (reviewed by KPMG)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 PDF p.4 (printed p.2)",
+   "note": "Release S4 gives BD 8.51bn / USD 22.58bn. S3 is a scanned PDF read visually."
+  },
+  {
+   "metric": "total_assets",
+   "value": 8053896,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets (audited comparative in the 31 Mar 2026 statements)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.4 (printed p.2)",
+   "note": "FY2025 release S5: BD 8.05bn (USD 21.36bn), +14.0% vs BD 7.06bn at 31 Dec 2024."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 15.0,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits' as stated in the issuer's H1 2026 results release (statement-line composition not itemised)",
+   "status": "Requires verification",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "locator": "S6; S7; S8",
+   "note": "Rounded press figure (+3.2%). Al Salam's statements split deposits between customers' current accounts (liability) and wakala/mudaraba accounts (quasi-equity); see the 31 Mar 2026 record."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 5.64,
+   "unit": "billion",
+   "currency": "BHD",
+   "period_end": "2026-03-31",
+   "period_label": "31 Mar 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits' as stated in the Q1 2026 results release (USD 14.97bn); rounded",
+   "status": "Requires verification",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 p.1; components S3 PDF p.4",
+   "note": "Statement lines: 'Customers' current accounts' BD 1,412.7m plus 'Wakala and mudaraba from customers' (quasi-equity) BD 4,154.9m = BD 5,567.7m, about BD 72m below the headline; the bridge is not given. Shown separately in the statement: 'Wakala from financial institutions' BD 512.4m and 'Placements from financial institutions and individuals' BD 126.9m. See discrepancies."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 5.48,
+   "unit": "billion",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits' as stated in the FY2025 results release (USD 14.54bn); rounded",
+   "status": "Requires verification",
+   "source_ids": [
+    "S5",
+    "S3"
+   ],
+   "locator": "S5 p.1; components S3 PDF p.4",
+   "note": "Statement lines at 31 Dec 2025: customers' current accounts BD 1,486.3m plus wakala and mudaraba from customers BD 3,831.1m = BD 5,317.5m, about BD 162m below the headline; not reconciled."
+  },
+  {
+   "metric": "net_loans",
+   "value": 4083342,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-03-31",
+   "period_label": "31 Mar 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing contracts' line of the statement of financial position (the release calls it 'financing assets', BD 4.08bn)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 PDF p.4 (printed p.2)",
+   "note": "Whether the line is net of impairment allowances is not stated on the face of the statement (the income statement deducts an allowance for impairment of BD 9.5m in Q1 2026). No gross figure read."
+  },
+  {
+   "metric": "net_loans",
+   "value": 4066788,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing contracts' (audited comparative)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.4 (printed p.2)",
+   "note": "FY2025 release S5 prints 'BD 4.10bn (USD 10.79bn)'; the USD figure equals BD 4.07bn at the peg, so the BD 4.10bn in S5 looks like a rounding slip. See discrepancies."
+  },
+  {
+   "metric": "net_loans",
+   "value": 10.79,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Financing assets' as stated in the H1 2026 results release ('broadly unchanged')",
+   "status": "Requires verification",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "locator": "S6; S7; S8",
+   "note": "Rounded press figure."
+  },
+  {
+   "metric": "total_equity",
+   "value": 727135,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-03-31",
+   "period_label": "31 Mar 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Total owners' equity' incl. other equity participations BD 209.1m and non-controlling interests BD 77.5m; equity attributable to owners of the Bank BD 440.5m",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 PDF p.4 (printed p.2)",
+   "note": "Down 3.0% from BD 749.7m at 31 Dec 2025 after the 2025 dividend (S4)."
+  },
+  {
+   "metric": "total_equity",
+   "value": 2.02,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity per the H1 2026 release; equity attributable to owners of the Bank USD 1.25bn",
+   "status": "Requires verification",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "locator": "S6; S7; S8",
+   "note": "Rounded press figure (+1.5%)."
+  },
+  {
+   "metric": "total_equity",
+   "value": 749720,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Total owners' equity' (audited comparative); equity attributable to owners of the Bank BD 462.4m",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.4 (printed p.2)",
+   "note": "FY2025 release: +26.3% y/y after capital-building initiatives."
+  },
+  {
+   "metric": "operating_income",
+   "value": 329.6,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Operating income' as stated in the H1 2026 results release (basis of the line not itemised in coverage)",
+   "status": "Requires verification",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "locator": "S6; S7; S8",
+   "note": "Up 10.6% from USD 298.1m in H1 2025. FY2025 operating/total income was not obtained (audited statements on alsalambank.com blocked; the FY2025 release gives profit but not income)."
+  },
+  {
+   "metric": "operating_income",
+   "value": 102835,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-03-31",
+   "period_label": "Q1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total income' (net finance income 83.6m + fees and commissions 8.2m + share of associates 6.8m + takaful 2.3m + other 1.9m), before expenses, impairment and income attributable to quasi-equity (BD 36.8m)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.5 (printed p.3)",
+   "note": "Q1 2025: BD 91,689 thousand. Quarter only; not comparable with FY or H1 figures."
+  },
+  {
+   "metric": "net_profit",
+   "value": 76.8,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to owners of the Bank (record; +30.2% on BD 59.0m in 2024); USD 203.8m",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "S5 p.1",
+   "note": "Rounded to BD 0.1m; audited statements (KPMG, unmodified opinion per S5) not opened. EPS 22.7 fils."
+  },
+  {
+   "metric": "net_profit",
+   "value": 122.8,
+   "unit": "million",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to owners of the Bank, six months to 30 Jun 2026 (record semi-annual profit)",
+   "status": "Requires verification",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "locator": "S6; S7; S8",
+   "note": "Up 23.8% from USD 99.1m. Rounded press figure; no BHD figure seen. Q1 2026 was BD 23.1m (S3)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 23130,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-03-31",
+   "period_label": "Q1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Profit attributable to owners of the Bank, three months to 31 Mar 2026 (total profit BD 26,151 thousand; non-controlling interest BD 3,021 thousand)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 PDF p.5 (printed p.3)",
+   "note": "Q1 2025: BD 18,591 thousand (+24.4%)."
+  },
+  {
+   "metric": "aum",
+   "value": 796092,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2026-03-31",
+   "period_label": "31 Mar 2026",
+   "period_type": "point_in_time",
+   "scope": "Group (off-balance-sheet assets under management)",
+   "definition": "'Off-balance-sheet assets under management' per the statement of changes in off-balance-sheet AUM: fixed income BD 512.0m, equity and funds BD 146.9m, real estate BD 132.9m, other BD 4.4m",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.10 (printed p.8; page is rotated)",
+   "note": "Issuer-labelled AUM held off balance sheet; discretionary vs non-discretionary not stated. Not the same scope as ASB Capital's AUM below. Q1 2025: BD 647.7m."
+  },
+  {
+   "metric": "aum",
+   "value": 808402,
+   "unit": "thousand",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group (off-balance-sheet assets under management)",
+   "definition": "Opening balance (1 Jan 2026) of the off-balance-sheet AUM statement: fixed income BD 536.1m, equity and funds BD 134.0m, real estate BD 133.5m, other BD 4.8m",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.10 (printed p.8)",
+   "note": "Derived from the opening balance column; 1 Jan 2025 balance was BD 651.7m."
+  },
+  {
+   "metric": "aum",
+   "value": 5.8,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2025-11",
+   "period_label": "Nov 2025 (as stated; as-of date not given)",
+   "period_type": "point_in_time",
+   "scope": "Subsidiary: ASB Capital (asset management and investment banking arm)",
+   "definition": "AUM of ASB Capital as stated by the issuer at its first anniversary and in the XASB ETF announcement",
+   "status": "Requires verification",
+   "source_ids": [
+    "S12",
+    "S14"
+   ],
+   "locator": "S12 (GDN, 3 Nov 2025); S14 summary",
+   "note": "At launch (Nov 2024) press cited USD 4.5bn (S15, seen in search results only). The 5.8bn and 10.2bn figures are company-stated, undated, and their scope relative to the BD 0.8bn off-balance-sheet AUM is not explained."
+  },
+  {
+   "metric": "aum",
+   "value": 10.2,
+   "unit": "billion",
+   "currency": "USD",
+   "period_end": "2026-10",
+   "period_label": "Oct 2026 (as stated; as-of date not given)",
+   "period_type": "point_in_time",
+   "scope": "Subsidiary: ASB Capital",
+   "definition": "AUM of ASB Capital as quoted in coverage of the StepStone partnership (5 Oct 2026)",
+   "status": "Requires verification",
+   "source_ids": [
+    "S13"
+   ],
+   "locator": "S13",
+   "note": "Single trade-press source; the rise from USD 5.8bn (Nov 2025) is not explained and no issuer document was opened."
+  },
+  {
+   "metric": "capital_adequacy_ratio",
+   "value": 23.6,
+   "unit": "percent",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Consolidated capital adequacy ratio per the H1 2026 release",
+   "status": "Requires verification",
+   "source_ids": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "locator": "S6",
+   "note": "31 Mar 2026: 23.1% (S4); 31 Dec 2025: 27.2% (S5)."
+  },
+  {
+   "metric": "branches",
+   "value": 47,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-03-31",
+   "period_label": "31 Mar 2026",
+   "period_type": "point_in_time",
+   "scope": "Group (Bahrain 20, Algeria 26, Seychelles 1)",
+   "definition": "Branches of the Bank and its principal banking subsidiaries as stated in note 1",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.11 (printed p.9)",
+   "note": "Same counts in 2025. Whether ASB Finance (ex-KFH Bahrain) branches are inside the 20 Bahrain branches is not stated."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "Q1 2026 statements (S3), FY2025 and Q1 2026 releases (S5, S4), H1 2026 coverage (S6-S8); annual report and website not accessible (blocked). No private-banking or wealth client-asset figure seen."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S3-S8 and ASB Capital/app coverage (S11, S23): no retail or total customer count. Annual report 2025 (alsalambank.com) could not be opened."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "Al Salam Invest launch coverage (S11) and XASB ETF coverage (S14): no user numbers."
+  },
+  {
+   "metric": "brokerage_trading_value",
+   "status": "Not found after research",
+   "where_checked": "S3-S8, S11, S12."
+  },
+  {
+   "metric": "employees",
+   "status": "Not found after research",
+   "where_checked": "Annual report 2025 on alsalambank.com was blocked (Incapsula); no headcount in any other source opened."
+  },
+  {
+   "metric": "aua",
+   "status": "Not found after research",
+   "where_checked": "S3 (only off-balance-sheet AUM is reported)."
+  }
+ ],
+ "people": [
+  {
+   "name": "Shaikh Khalid bin Mustahail Al Mashani",
+   "name_ar": null,
+   "title": "Chairman (H.E.)",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date and biography not obtained (official board page blocked).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Signed the 31 Mar 2026 interim statements as Chairman (S3), quoted as Chairman in the 12 May 2026 and H1 2026 releases (S4, S6), listed on the Bourse key-persons list (S1).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S4",
+    "S6"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Matar Mohamed Al Blooshi",
+   "name_ar": null,
+   "title": "Deputy Chairman (listed as Vice Chairman on the Bourse list)",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date and biography not obtained.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Signed the 31 Mar 2026 interim statements as Deputy Chairman (S3); listed as Vice Chairman on the Bourse key-persons list (S1).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Rafik Nayed",
+   "name_ar": null,
+   "title": "Group Chief Executive Officer; also Managing Director, ASB Capital",
+   "functions": [
+    "Group CEO",
+    "CEO",
+    "Board"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2018-04",
+   "appointed_note": "Appointed Group CEO in April 2018 after regulatory approval (TradeArabia, 24 Apr 2018; search result only). Also Managing Director of ASB Capital (DIFC), Chairman of Gulf African Bank, Chairman of Al Salam Bank Algeria and a board member of Solidarity Group (S9, 29 Jul 2026).",
+   "previous_roles": "Group CEO, Al Salam Bank since 2018. Before that, senior Deutsche Bank executive: Vice Chairman MENA, Chief Country Officer UAE and Senior Executive Officer, Deutsche Bank AG Dubai (DIFC) (S10). Earlier CEO of the Libyan Investment Authority (S9). More than 25 years of banking experience at appointment (S10).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Signed the 31 Mar 2026 statements as Group CEO (S3); quoted as Group CEO in the 12 May 2026 and H1 2026 releases and as ASB Capital MD on 5 Oct 2026 (S4, S6, S13); profiled by Entrepreneur ME on 29 Jul 2026 (S9). A LinkedIn search surfaced the company page listing him but no personal profile URL; none recorded.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S4",
+    "S6",
+    "S9",
+    "S10",
+    "S13"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Anwar Murad",
+   "name_ar": null,
+   "title": "Deputy Chief Executive Officer",
+   "functions": [
+    "Deputy CEO"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found. The bank's own profile page (search result only, S22) describes him as Executive Vice President - Head of Private Banking since May 2006, an earlier role; an undated Bourse list has shown him as Acting CEO.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed as 'Deputy CEO' on the Bourse key-persons list (S1) and by MarketScreener (aggregator, not cited). A LinkedIn search also returned 'Anwar Khalifa - Deputy CEO at Al Salam Bank' (different surname; unresolved). Official leadership page blocked.",
+   "source_ids": [
+    "S1",
+    "S22"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Rashed Khaled Al Khan",
+   "name_ar": null,
+   "title": "Head of Wealth Management",
+   "functions": [
+    "Wealth"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Wealth Management",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found; not covered by any news source opened.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed. LinkedIn search returned no match.",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ali Qassim",
+   "name_ar": null,
+   "title": "Head of Private Banking",
+   "functions": [
+    "Private banking"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Private Banking",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found. The official team page lists a 'Mr. Ali Habib Qassim' (search result only; title and identity link not confirmed).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed. LinkedIn search returned no match.",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Hasan Janahi",
+   "name_ar": null,
+   "title": "Executive Vice President, Retail Banking",
+   "functions": [
+    "Retail",
+    "Affluent"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Retail Banking (incl. Al Ruwad)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found. The same Bourse list also shows a 'Mohammed Buhijji, Head of Retail', so retail leadership needs confirmation.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed.",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Haitham AlHaddad",
+   "name_ar": null,
+   "title": "Head of Digital Channels",
+   "functions": [
+    "Digital"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Digital Channels",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed. No LinkedIn search run (search quota).",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Don Hemantha Wijesinghe",
+   "name_ar": null,
+   "title": "Chief Technology Officer",
+   "functions": [
+    "Technology"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Technology",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed.",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hamed Yousef Mashal",
+   "name_ar": null,
+   "title": "Head of Real Estate and Investments (LinkedIn snippet: Chief Investment Officer)",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Real Estate and Investments",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": "CFA (per LinkedIn profile title in search result)",
+   "linkedin_url": "https://www.linkedin.com/in/hamedmashal/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed. LinkedIn: search result 'Hamed Mashal, CFA - Al Salam Bank' with a Chief Investment Officer description (profile not opened); the title differs from the Bourse list wording.",
+   "source_ids": [
+    "S1",
+    "S25"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ahmed Abdulla Saif",
+   "name_ar": null,
+   "title": "Head of Strategy & Planning",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Strategy & Planning",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed.",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hichem Djouhri",
+   "name_ar": null,
+   "title": "Senior Executive Officer, ASB Capital",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management"
+   ],
+   "entity": "ASB Capital Limited",
+   "business_unit": "ASB Capital (DIFC)",
+   "scope": "Subsidiary: ASB Capital",
+   "appointed": null,
+   "appointed_note": "Described in 2025 trade press as leading ASB Capital since launch; date not stated.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Named as Senior Executive Officer in 2025 coverage of the ASB Capital / State Street fund (search results only, S16); not on the Bourse list; the 5 Oct 2026 StepStone release quotes Rafik Nayed as ASB Capital managing director instead (S13). DFSA register not checked.",
+   "source_ids": [
+    "S16",
+    "S13"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Al Salam Bank runs its wealth offer through three channels: Al Ruwad (premium retail tier) and Private Banking inside the bank, the Al Salam Invest in-app platform (global equities, ETFs, sukuk and mutual funds, launched around June 2022 for Private Banking and Al Ruwad clients), and ASB Capital, a 100%-owned DIFC asset manager launched in Nov 2024. ASB Capital states AUM of USD 5.8bn (Nov 2025) and USD 10.2bn (Oct 2026) and has launched a State Street Shariah global equity fund (Apr 2025), MENA equity, technology and sukuk funds, the XASB Sukuk ETF on the London Stock Exchange with Xtrackers by DWS (4 Nov 2025; sold in-app from USD 30 per the bank) and, with StepStone, a Shariah private-credit fund (5 Oct 2026). The group's own statements also show BD 796.1m of off-balance-sheet AUM at 31 Mar 2026. No wealth client-asset, user or customer numbers are published in the sources opened, and Al Ruwad and Private Banking eligibility thresholds were not found.",
+  "segments": [
+   {
+    "name": "Al Ruwad Banking",
+    "tier": "Affluent",
+    "eligibility": "Not published. Benefits listed: dedicated relationship manager, express banking business centres, priority queuing, preferential wakala rates, access to 'exclusive investment opportunities' (search result of the bank's page).",
+    "source_ids": [
+     "S19"
+    ]
+   },
+   {
+    "name": "Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "Not published; Al Salam Invest was launched for Private Banking and Al Ruwad clients.",
+    "source_ids": [
+     "S20",
+     "S11"
+    ]
+   },
+   {
+    "name": "ASB Capital clients",
+    "tier": "HNW / institutional",
+    "eligibility": "Launch coverage says HNWIs, family offices, corporations and institutions across MEA; no minimums found.",
+    "source_ids": [
+     "S15"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Private Banking division with a named head on the Bourse key-persons list (Ali Qassim) plus a COO, Private Banking; the bank's website lists it as a business line but thresholds and proposition details were not accessible. Al Salam Invest was launched for Private Banking and Al Ruwad clients in 2022.",
+   "source_ids": [
+    "S1",
+    "S11",
+    "S20"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "ASB Capital Limited (100%, DIFC, DFSA Category 3A; launched Nov 2024): four verticals - public markets, private markets, investment banking and placement. Stated AUM USD 4.5bn at launch, USD 5.8bn (Nov 2025), USD 10.2bn (Oct 2026). Funds named in coverage: Shariah global equity (State Street Global Advisors team), MENA equity, technology, sukuk, XASB Sukuk ETF, ASB StepStone Private Financing Fund. Separately, the bank reports BD 796.1m off-balance-sheet AUM (31 Mar 2026).",
+   "source_ids": [
+    "S3",
+    "S12",
+    "S13",
+    "S15",
+    "S16"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Al Salam Invest, integrated in the Al Salam Bank mobile app, lets Private Banking and Al Ruwad clients trade global equities, ETFs, sukuk and mutual funds in real time (June 2022). Execution partner or broker not named in the sources opened; local Bahrain Bourse brokerage not checked.",
+   "source_ids": [
+    "S11",
+    "S20"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Al Salam Invest inside the Al Salam Bank app (app launched 2020 per trade press seen in search results; investing module reported 3 Jun 2022). The bank says the XASB Sukuk ETF can be bought through the app via Al Salam Invest from USD 30 (Nov 2025, search-result summary). App features also include digital onboarding, savings goals, the Danat savings scheme and a Wakala investment account (Feb 2023 article).",
+   "source_ids": [
+    "S11",
+    "S14",
+    "S21",
+    "S23"
+   ]
+  },
+  "advisory": {
+   "present": "Unclear",
+   "detail": "Wealth Management and Private Banking heads are listed; ASB Capital describes 'investment advisory' within integrated solutions (S12). No advisory service description, fee model or suitability process found; website blocked.",
+   "source_ids": [
+    "S1",
+    "S12"
+   ]
+  },
+  "discretionary": {
+   "present": "Unclear",
+   "detail": "The group reports BD 796.1m of off-balance-sheet AUM in fixed income, equity and funds, real estate and other portfolios with 'bank's fees as an agent' (S3), which indicates managed portfolios; discretionary mandates are not described and no product page was accessible.",
+   "source_ids": [
+    "S3"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No model portfolios or robo-advice found in press, statements or the bank's pages seen in search results.",
+   "source_ids": [
+    "S11",
+    "S12",
+    "S14"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Mutual funds are among the instruments offered on Al Salam Invest (S11). Third-party fund-shelf or platform provider not named. Group funds are sub-advised or partnered: State Street Global Advisors' Active Fundamental Equity team on the Shariah global equity fund, StepStone on the private-credit fund, DWS Xtrackers on the XASB ETF.",
+   "source_ids": [
+    "S11",
+    "S13",
+    "S14",
+    "S16"
+   ]
+  },
+  "structured_products": {
+   "present": "Not found after research",
+   "detail": "No structured-product offer found in the sources opened.",
+   "source_ids": [
+    "S11",
+    "S12"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "ASB Capital has a private markets vertical (private equity, venture capital, real estate, private credit per launch coverage); first named product is the ASB StepStone Private Financing Fund, open-ended and perpetual, senior secured US middle-market financing, Shariah-compliant (5 Oct 2026). The bank's off-balance-sheet AUM includes a BD 132.9m real estate portfolio.",
+   "source_ids": [
+    "S13",
+    "S15",
+    "S3"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "The whole group is Shariah-compliant: Al Salam Invest is described as Shari'a-compliant; XASB Sukuk ETF tracks the Bloomberg Global Sukuk Index under the ASB Capital Shariah Board; State Street Shariah global equity fund; Shariah private-credit fund.",
+   "source_ids": [
+    "S11",
+    "S13",
+    "S14",
+    "S16"
+   ]
+  },
+  "asset_classes": [
+   "Global equities",
+   "ETFs",
+   "Mutual funds",
+   "Sukuk",
+   "Private markets / alternatives",
+   "Real estate funds"
+  ],
+  "partners": [
+   {
+    "partner": "State Street Global Advisors",
+    "kind": "Sub-advisor / product partner",
+    "what": "Active Fundamental Equity team manages the ASB Capital Shariah-compliant global equity fund (DIFC-domiciled, DFSA-regulated)",
+    "date": "2025-04",
+    "status": "Live",
+    "source_ids": [
+     "S16",
+     "S12"
+    ]
+   },
+   {
+    "partner": "Xtrackers by DWS",
+    "kind": "ETF provider",
+    "what": "XASB Sukuk ETF listed on the London Stock Exchange (4 Nov 2025); tracks the Bloomberg Global Sukuk Index; first Islamic instrument for Xtrackers per the bank",
+    "date": "2025-11-04",
+    "status": "Live",
+    "source_ids": [
+     "S14",
+     "S12"
+    ]
+   },
+   {
+    "partner": "StepStone",
+    "kind": "Private markets / private credit partner",
+    "what": "ASB StepStone Private Financing Fund, a Shariah-compliant open-ended private-credit fund",
+    "date": "2026-10-05",
+    "status": "Announced",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "partner": "Gulf African Bank (Kenya)",
+    "kind": "Associate (20.9%)",
+    "what": "Equity-accounted associate; Rafik Nayed is its Chairman per Entrepreneur ME",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S3",
+     "S9"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2022-06",
+    "what": "Al Salam Invest launched inside the Al Salam Bank app for Private Banking and Al Ruwad clients (article dated 3 Jun 2022).",
+    "source_ids": [
+     "S11",
+     "S20"
+    ]
+   },
+   {
+    "date": "2022-07",
+    "what": "Acquisition of Ithmaar Holding's retail (consumer) banking business, part of a USD 2.2bn asset package that also included 55.91% of Solidarity Group and an interest tied to a 26.19% BBK stake; CBB final approval Jun 2022 and completion reported as Jul 2022 (press, search results only).",
+    "source_ids": [
+     "S17",
+     "S3"
+    ]
+   },
+   {
+    "date": "2024-05-15",
+    "what": "Completed acquisition of Kuwait Finance House (Bahrain) B.S.C. (c) (asset base above BD 1.49bn per the bank); now carried as ASB Finance B.S.C. (c).",
+    "source_ids": [
+     "S18",
+     "S3"
+    ]
+   },
+   {
+    "date": "2024-11",
+    "what": "ASB Capital launched in the DIFC as a DFSA Category 3A asset manager with stated AUM of USD 4.5bn.",
+    "source_ids": [
+     "S15",
+     "S12"
+    ]
+   },
+   {
+    "date": "2025-04",
+    "what": "ASB Capital and State Street Global Advisors announced a Shariah-compliant global equity fund.",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "date": "2025-11-04",
+    "what": "XASB Sukuk ETF (ASB Capital with Xtrackers by DWS) listed on the London Stock Exchange; bank says it is buyable in-app via Al Salam Invest from USD 30.",
+    "source_ids": [
+     "S14",
+     "S12"
+    ]
+   },
+   {
+    "date": "2026-02-09",
+    "what": "FY2025 results: record attributable profit BD 76.8m (+30.2%); CEO cites banking, asset management (ASB Capital) and takaful (Solidarity Group) as revenue drivers and a group 'digital in execution'.",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2026-08-12",
+    "what": "H1 2026 results: record semi-annual attributable profit USD 122.8m (+23.8%); total assets USD 22.82bn.",
+    "source_ids": [
+     "S6",
+     "S7",
+     "S8"
+    ]
+   },
+   {
+    "date": "2026-10-05",
+    "what": "ASB Capital and StepStone launch the ASB StepStone Private Financing Fund (Shariah-compliant private credit); ASB Capital AUM quoted at USD 10.2bn.",
+    "source_ids": [
+     "S13"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "ASB Capital is building a Shariah product range through partners (State Street Global Advisors, Xtrackers by DWS, StepStone) and states AUM of USD 5.8bn (Nov 2025) and USD 10.2bn (Oct 2026), so it sources third-party and sub-advised products (S12, S13, S16).",
+    "Al Salam Invest sells global equities, ETFs, sukuk and mutual funds in the app but was reported only for Private Banking and Al Ruwad clients (S11); the XASB ETF is advertised in-app from USD 30 (S14, search-result summary), a low-ticket channel.",
+    "Group CEO frames the group as 'digital in execution' and wants to broaden revenue drivers across banking, ASB Capital and takaful (S5).",
+    "Stated plan for ASB Capital's private markets platform to widen with partners ('significant milestone' for its private markets platform, S13) points to appetite for alternatives product sources."
+   ],
+   "barriers": [
+    "Islamic-only group: any product shelf must be Shariah-screened and fit the ASB Capital Shariah Board.",
+    "Wealth is split across the bank, an in-app platform and an in-house DIFC asset manager (ASB Capital), which already has named product partners (S12, S16).",
+    "Al Salam Bank is integrating KFH Bahrain (acquired May 2024, now ASB Finance) and has an economic interest in the BBK stake while BBK/NBB merger talks run, which may absorb management attention (S3, S18).",
+    "Wealth and Al Ruwad/Private Banking eligibility, client counts and the Al Salam Invest technology vendor are not published in the sources opened."
+   ],
+   "incumbent_vendors": [
+    "State Street Global Advisors - sub-advisor of the ASB Capital Shariah global equity fund (S16)",
+    "Xtrackers by DWS - XASB Sukuk ETF provider (S14)",
+    "StepStone - private-credit fund partner (S13)",
+    "Al Salam Invest platform/execution provider: not named in any source opened"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "List of Key Persons - Al Salam Bank B.S.C. (SALAM)",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/SALAM/Keyperson.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Issuer-provided, undated list; PDF metadata shows creation on 25 Feb 2026. Read with pdftext (3 pages, 46 names)."
+  },
+  {
+   "id": "S2",
+   "title": "Major Shareholders - Al Salam Bank B.S.C. (SALAM)",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/SALAM/MajorShareholder.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Issuer-provided, undated ('considered up to date'); PDF metadata shows creation on 6 Nov 2025."
+  },
+  {
+   "id": "S3",
+   "title": "Al Salam Bank B.S.C. - Condensed Consolidated Interim Financial Information 31 March 2026 (reviewed by KPMG Fakhro)",
+   "publisher": "Al Salam Bank via Dubai Financial Market",
+   "url": "https://feeds.dfm.ae/documents/2026/May/12/7367a57b-af1d-4dd1-9e16-59e114b38896/AL%20SALAM%20FS%20%20Q1%202026%20EN%20%20Signed.Pdf.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-05-12",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "29-page scanned PDF opened via the DFM feed (no text layer); statements and notes read visually. Board authorisation 12 May 2026."
+  },
+  {
+   "id": "S4",
+   "title": "Al Salam Bank Announces Financial Results for First Quarter of 2026",
+   "publisher": "Al Salam Bank via Dubai Financial Market",
+   "url": "https://feeds.dfm.ae/documents/2026/May/12/bf7b63f2-e667-4255-a5bf-cfb2b75a36eb/Q1%202026%20Financial%20Statement%20Press%20Release%20%20English.pdf",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-05-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Al Salam Bank Announces Financial Results for 2025",
+   "publisher": "Al Salam Bank via Dubai Financial Market",
+   "url": "https://feeds.dfm.ae/documents/2026/Feb/9/6bdd71b3-62dc-4a46-92f4-a3189fece01d/Al%20Salam%20Bank%20Press%20.pdf",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-02-09",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Al Salam Bank sustains growth momentum as net profit rises 24pc",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1403275/Al-Salam-Bank-sustains-growth-momentum-as-net-profit-rises-24pc",
+   "doc_type": "News article (H1 2026 results)",
+   "tier": 5,
+   "published": "2026-08-13",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened. Relays the issuer's H1 2026 release in USD only."
+  },
+  {
+   "id": "S7",
+   "title": "Al Salam Bank Sustains Its Growth Momentum as Net Profit Rises 24% in H1 2026",
+   "publisher": "The Daily Tribune (News of Bahrain)",
+   "url": "https://www.newsofbahrain.com/business/139285.html",
+   "doc_type": "News article (H1 2026 results)",
+   "tier": 5,
+   "published": "2026-08-12",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened; same figures as S6."
+  },
+  {
+   "id": "S8",
+   "title": "Al Salam Bank sustains growth momentum as net profit rises 24%",
+   "publisher": "Zawya",
+   "url": "https://www.zawya.com/en/capital-markets/corporate-earnings/al-salam-bank-sustains-growth-momentum-as-net-profit-rises-24-456133",
+   "doc_type": "News article (H1 2026 results)",
+   "tier": 5,
+   "published": "2026-08",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened; same figures as S6. Exact day not shown."
+  },
+  {
+   "id": "S9",
+   "title": "The Finance Frontier 2026: Rafik Nayed, Group CEO, Al Salam Bank",
+   "publisher": "Entrepreneur Middle East",
+   "url": "https://mena.entrepreneur.com/finance/finance-frontier-2026-rafik-nayed-al-salam-bank",
+   "doc_type": "Interview/profile",
+   "tier": 5,
+   "published": "2026-07-29",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S10",
+   "title": "Rafik Nayed (appointment as Group CEO)",
+   "publisher": "TradeArabia",
+   "url": "https://www.tradearabia.com/news/BANK_339568.html",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2018-04-24",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened). Date and career as given in the search summary."
+  },
+  {
+   "id": "S11",
+   "title": "Al Salam releases investment app",
+   "publisher": "Funds Global MENA",
+   "url": "https://www.fundsglobalmena.com/al-salam-releases-investment-app-0/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2022-06-03",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S12",
+   "title": "ASB Capital marks first year with $5.8bn AUM as it eyes ETF launch",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1367521/ASB-Capital-marks-first-year-with-$58bn-AUM-as-it-eyes-ETF-launch",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-11-03",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened; the URL and headline print '$58bn' but the text says USD 5.8bn."
+  },
+  {
+   "id": "S13",
+   "title": "StepStone and ASB Capital launch Shari'ah-compliant private credit fund",
+   "publisher": "Alternative Credit Investor",
+   "url": "https://alternativecreditinvestor.com/2026/10/05/stepstone-and-asb-capital-launch-shariah-compliant-private-credit-fund/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-10-05",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S14",
+   "title": "ASB Capital and Xtrackers by DWS list first Sharia-compliant sukuk ETF on London Stock Exchange",
+   "publisher": "Arabian Business",
+   "url": "https://www.arabianbusiness.com/markets/equities/sukuk/asb-capital-and-xtrackers-by-dws-list-first-sharia-compliant-sukuk-etf-on-london-stock-exchange",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-11",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened). Details (4 Nov listing, USD 30 minimum, in-app purchase) from the search summary of the bank's 10 Nov 2025 announcement and related coverage."
+  },
+  {
+   "id": "S15",
+   "title": "Al Salam Bank Launches ASB Capital: A New Asset Management Firm in the DIFC with AUMs of USD 4.5 Billion",
+   "publisher": "Al Salam Bank",
+   "url": "https://www.alsalambank.com/?p=5893",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2024-11",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened). Site blocked to automated and browser access."
+  },
+  {
+   "id": "S16",
+   "title": "ASB Capital and State Street Global Advisors to launch a Shariah-compliant global equity fund",
+   "publisher": "Enterprise AM UAE",
+   "url": "https://enterpriseam.com/uae/2025/04/22/asb-capital-and-state-street-global-advisors-to-launch-a-shariah-compliant-global-equity-fund/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-04-22",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened). Hichem Djouhri's title also from IFN Investor coverage seen in search results."
+  },
+  {
+   "id": "S17",
+   "title": "Al Salam Bank buys Ithmaar assets",
+   "publisher": "Retail Banker International",
+   "url": "https://www.retailbankerinternational.com/news/al-salam-bank-buys-ithmaar-assets/",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2022",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened). Package details (US$2.2bn; consumer banking, BBK 26.19%, Solidarity 55.91%) from the search summary."
+  },
+  {
+   "id": "S18",
+   "title": "Al Salam Bank Completes the Acquisition of Kuwait Finance House Bahrain",
+   "publisher": "Al Salam Bank",
+   "url": "https://www.alsalambank.com/?p=5919",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2024-05-15",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened)."
+  },
+  {
+   "id": "S19",
+   "title": "Al Ruwad Banking",
+   "publisher": "Al Salam Bank",
+   "url": "https://www.alsalambank.com/?p=1158",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened)."
+  },
+  {
+   "id": "S20",
+   "title": "Curated exclusively for Private Banking and Al Ruwad Clients, Al Salam Bank Launches Al Salam Invest",
+   "publisher": "Al Salam Bank",
+   "url": "https://www.alsalambank.com/?p=6013",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2022-06",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened). Date from the Funds Global MENA article (S11)."
+  },
+  {
+   "id": "S21",
+   "title": "Al Salam Bank launches its fully customisable digital banking app",
+   "publisher": "IBS Intelligence",
+   "url": "https://ibsintelligence.com/ibsi-news/al-salam-bank-launches-its-fully-customisable-digital-banking-app",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened). 2020 launch year taken from the search summary."
+  },
+  {
+   "id": "S22",
+   "title": "Mr. Anwar Mohammed Murad (executive profile)",
+   "publisher": "Al Salam Bank",
+   "url": "https://www.alsalambank.com/en/?p=1480",
+   "doc_type": "Official leadership profile",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened)."
+  },
+  {
+   "id": "S23",
+   "title": "Al Salam Bank App: delivering transformative experiences with a people-first mindset",
+   "publisher": "Bahrain This Month",
+   "url": "https://www.bahrainthismonth.com/magazine/features/al-salam-bank-app-delivering-transformative-experiences-with-a-people-first-mindset",
+   "doc_type": "Magazine feature",
+   "tier": 5,
+   "published": "2023-02-02",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened; byline date 2 Feb 2023."
+  },
+  {
+   "id": "S24",
+   "title": "Al Salam Bank (company page)",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/company/alsalambank-bahrain/",
+   "doc_type": "LinkedIn company page",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened)."
+  },
+  {
+   "id": "S25",
+   "title": "Hamed Mashal, CFA - Al Salam Bank",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/hamedmashal/",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened)."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Customer deposits: release headline vs statement lines",
+   "detail": "Releases give customer deposits of BD 5.64bn (31 Mar 2026) and BD 5.48bn (31 Dec 2025). The statements show customers' current accounts plus wakala and mudaraba from customers (quasi-equity) of BD 5,567.7m and BD 5,317.5m, i.e. BD 72m and BD 162m lower.",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "resolution": "Headline recorded as the issuer's own 'customer deposits' with status Requires verification; statement components stated in notes. The bridge was not obtainable (FY2025 statements and annual report blocked)."
+  },
+  {
+   "field": "Financing assets at 31 Dec 2025",
+   "detail": "FY2025 release prints BD 4.10bn (USD 10.79bn), the Q1 2026 statements show 'Financing contracts' of BD 4,066.8m, and the Q1 release says BD 4.08bn is +0.4% on year end.",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "resolution": "Statement figure used; BD 4.10bn in S5 treated as a rounding slip (USD figure matches BD 4.07bn)."
+  },
+  {
+   "field": "Ithmaar transaction scope (lead check)",
+   "detail": "The brief said Al Salam 'absorbed Ithmaar Bank's banking business in 2022'. Press says it bought Ithmaar Holding's consumer (retail) banking business, not the whole of Ithmaar Bank, which stays a licensed bank under Ithmaar Holding; the 31 Mar 2026 note 7 describes it as 'the retail business of Ithmaar Holding'. Press gives completion as Jul 2022.",
+   "source_ids": [
+    "S3",
+    "S17"
+   ],
+   "resolution": "Recorded as the acquisition of Ithmaar's retail business (2022). Ithmaar Bank's post-deal status rests on a search summary only."
+  },
+  {
+   "field": "ASB Capital AUM",
+   "detail": "USD 4.5bn (Nov 2024 launch), USD 5.8bn (Nov 2025) and USD 10.2bn (Oct 2026) are company-stated and undated; the group's off-balance-sheet AUM is BD 796.1m (about USD 2.1bn at the peg) at 31 Mar 2026.",
+   "source_ids": [
+    "S3",
+    "S12",
+    "S13",
+    "S15"
+   ],
+   "resolution": "All recorded with their scopes; no reconciliation between ASB Capital AUM and the off-balance-sheet statement was found."
+  },
+  {
+   "field": "Deputy CEO and retail head on key-persons list",
+   "detail": "The Bourse list shows 'Anwar Murad - Deputy CEO' and both 'Mohammed Hasan Janahi - EVP Retail Banking' and 'Mohammed Buhijji - Head of Retail'; a LinkedIn search surfaced 'Anwar Khalifa - Deputy CEO'.",
+   "source_ids": [
+    "S1"
+   ],
+   "resolution": "Role status left as Requires verification; official leadership page needed."
+  },
+  {
+   "field": "Name 'Kuwait Finance House (Bahrain)'",
+   "detail": "Al Salam acquired the old Kuwait Finance House (Bahrain) B.S.C. (c) (May 2024), now ASB Finance. The existing bh-kfhbahrain file covers a different entity: the former Ahli United Bank, renamed Kuwait Finance House B.S.C. (c) in Jul 2025.",
+   "source_ids": [
+    "S3",
+    "S18"
+   ],
+   "resolution": "No change made to the other file; flagged for central review."
+  }
+ ],
+ "open_items": [
+  "alsalambank.com is protected by an Incapsula/human-verification check: WebFetch, pdftext and the built-in browser all failed (the browser showed an 'I am human' check, not bypassed). Annual report 2025, FY2025 audited statements, leadership/board pages and product pages (Al Ruwad, Private Banking, Al Salam Invest) were therefore not opened; items from those pages are 'seen in search results only'.",
+  "H1 2026 (30 Jun 2026) figures are rounded USD numbers from press coverage of the issuer's release (S6-S8). The reviewed H1 2026 statements and the Bahrain Bourse announcement pages could not be read (Bourse detail pages returned empty content and then HTTP 429 in the browser). Replace with BHD statement figures when accessible.",
+  "FY2025 operating (total) income was not obtained; FY2025 net profit (BD 76.8m), assets, deposits and equity come from the issuer's FY2025 release and the Q1 2026 comparatives.",
+  "Group headcount, customer numbers, wealth client assets, investing users and Al Salam Invest vendor not found.",
+  "People: official leadership page blocked, so all executives other than Chairman, Deputy Chairman and CEO rest on the issuer-provided Bourse key-persons list (undated; PDF created 25 Feb 2026). Biographies, appointment dates and education not obtained. LinkedIn: no personal URL verified except a search-result match for Hamed Mashal (title differs).",
+  "Deputy CEO identity: Bourse list says Anwar Murad; a LinkedIn search showed Anwar Khalifa as Deputy CEO; check the official page.",
+  "Arabic legal name not verified from a source opened; name_ar left null.",
+  "Check whether ASB Finance (ex-KFH Bahrain) has been merged into Al Salam Bank or still operates separately, and whether Al Salam's economic interest in the 26.2% BBK stake (via FINCORP W.L.L.) affects the NBB-BBK merger talks; B27 left Fincorp's ownership unestablished and note 7 of S3 now explains the link.",
+  "Q3 2026 results (30 Sep 2026) not yet published at 12 Oct 2026.",
+  "Lead check: 'subsidiaries such as Al Salam Bank Seychelles, ASB Capital' confirmed (70.0% and 100%, S3); 'absorbed Ithmaar Bank's banking business' corrected to the retail business only (see discrepancies)."
+ ],
+ "research_status": "Partial",
+ "researched_by": "B28",
+ "checked": "2026-10-12"
+}

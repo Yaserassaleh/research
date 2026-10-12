@@ -1,0 +1,1355 @@
+{
+  "id": "om-sohar",
+  "name": "Sohar International Bank",
+  "short_name": "Sohar International",
+  "legal_name": "Sohar International Bank SAOG",
+  "name_ar": null,
+  "country": "OM",
+  "hq_city": "Muscat",
+  "website": "https://www.sib.om",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "2007 (established 4 March 2007 as Bank Sohar SAOG; commercial operations from 9 April 2007; merged by incorporation with HSBC Bank Oman SAOG on 17 August 2023)",
+  "regulators": [
+    "CBO",
+    "FSA Oman",
+    "SAMA",
+    "HKMA"
+  ],
+  "listed": true,
+  "exchange": "MSX",
+  "ticker": "BKSB",
+  "parent_id": null,
+  "ownership_summary": "Listed on the Muscat Stock Exchange. At 30 Jun 2026 the main holders were Royal Court Affairs 19.4%, Dhofar International Development & Investment Co SAOG 13.0%, The Seventh Moon Investment LLC 6.4%, Neptune National Investments LLC 5.5% and Western Sea Investments LLC 5.4%; others 50.3%. In August 2026 a rights issue of 1,058,759,403 shares at Baisa 141 raised OMR 149.3m gross, taking paid-up capital to OMR 849.7m (7,676,005,673 shares). Post-rights-issue holdings have not been published.",
+  "shareholders": [
+    {
+      "holder": "Royal Court Affairs",
+      "pct": 19.4,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1",
+        "S6"
+      ]
+    },
+    {
+      "holder": "Dhofar International Development & Investment Co (SAOG)",
+      "pct": 13.0,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1",
+        "S6"
+      ]
+    },
+    {
+      "holder": "The Seventh Moon Investment LLC",
+      "pct": 6.4,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "holder": "Neptune National Investments LLC",
+      "pct": 5.5,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "holder": "Western Sea Investments LLC",
+      "pct": 5.4,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "holder": "Others",
+      "pct": 50.3,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S6"
+      ]
+    }
+  ],
+  "government_link": "Yes. Royal Court Affairs holds 19.4% (30 Jun 2026). The chairman is CEO of a government-owned investment fund company (FY2025 annual report). The CBO designated the bank a Domestic Systemically Important Bank in March 2025 (S1, S2).",
+  "group_structure": "A single bank with an Islamic window, Sohar Islamic (licensed 30 Apr 2013; 21 branches at 30 Jun 2026). It has a branch in Riyadh (SAMA approval Oct 2023; inaugurated 2025) and a Hong Kong Asia Pacific representative office (HKMA approval Apr 2026, CBO approval May 2026, opened Sep 2026). HSBC Bank Oman SAOG was merged in by incorporation on 17 Aug 2023. The only subsidiary disclosed is Sohar International Netting SPV Limited (Cayman Islands), which was not yet operating at 31 Dec 2025. Two acquisitions are pending, with no completion found: up to 55% of Neo Group Limited KSA, a CMA-licensed asset management and advisory firm (in-principle CBO approval reported Dec 2025), and up to 100% of Insurance House LLC ('Bima'), a digital insurance platform (non-binding offer, Aug 2025). A proposed merger with Ahli Bank (LOI April 2025) was put on hold in June 2025 when regulatory approvals were not received.",
+  "subsidiaries": [
+    {
+      "name": "Sohar International Netting SPV Limited (Cayman Islands)",
+      "pct": 100.0,
+      "activity": "Treasury netting SPV for derivative counterparties. It had not started operations at 31 Dec 2025.",
+      "linked_id": null,
+      "source_ids": [
+        "S2"
+      ]
+    }
+  ],
+  "footprint": "At 30 Jun 2026: 55 commercial banking branches and 21 Islamic branches in Oman, plus one branch in Riyadh, KSA. The bank reports operating in 2 countries. A Hong Kong representative office (Asia Pacific Office) opened in September 2026 (S1, S12).",
+  "customer_segments": "Retail (personal banking, youth and minor accounts, Be Zahiya and Zahiya Plus for women), Premier (Premier Lite), Wealth Management (HNWI), Private Banking (UHNWI, family offices, non-residents), SME, corporate, government, financial institutions, Islamic (Sohar Islamic).",
+  "business_lines": "Segments (H1 2026 note 33): Retail Banking, covering Retail & Premier Banking and Wealth Management (HNWI advisory). Wholesale Banking, covering Corporate Banking, Investment Banking (DCM advisory, custody, funds management and the proprietary portfolio), Government, International Banking & Private Banking (foreign investors, family offices, non-residents, UHNWI) and Global Markets. Islamic Banking (Sohar Islamic). KSA Branch (wholesale). In 2025 the bank set up a Government Investment Advisory unit (S1, S2).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 10258353,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, interim condensed consolidated statement of financial position (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.7 (printed p.2)",
+      "note": "Up 12.4% from 31 Dec 2025."
+    },
+    {
+      "metric": "total_assets",
+      "value": 9128796,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets (audited comparative)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 PDF p.7, comparative column",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 7942971,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer deposits', including Sohar Islamic deposits of OMR 898,508k (note 12). Excludes due to banks (OMR 878,976k).",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.7; note 12",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 6826799,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customer deposits', including Islamic deposits (OMR 867,080k)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 PDF p.7, comparative column",
+      "note": ""
+    },
+    {
+      "metric": "net_loans",
+      "value": 6974476,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans, advances and Islamic financings (net)': gross OMR 7,381,181k less ECL (OMR 314,218k) and contractual interest not recognised (OMR 92,487k). Includes Sohar Islamic financing (gross OMR 800.35m).",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.7; note 8 (PDF p.16)",
+      "note": "Up 21% from 31 Dec 2025. The cash-flow statement shows organic growth, not an acquisition."
+    },
+    {
+      "metric": "net_loans",
+      "value": 5763904,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Loans, advances and Islamic financings (net)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 note 8, comparative column",
+      "note": ""
+    },
+    {
+      "metric": "gross_loans",
+      "value": 7381181,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Gross loans, advances and Islamic financings (corporate OMR 5,696,531k; retail OMR 1,684,650k)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 note 8",
+      "note": "31 Dec 2025: OMR 6,141,390k."
+    },
+    {
+      "metric": "total_equity",
+      "value": 1187760,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including perpetual AT1 securities (OMR 200,000k) and Mandatory Convertible Bonds (OMR 25,950k); shareholders' equity OMR 961,810k",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.7",
+      "note": "Before the August 2026 rights issue (OMR 149.3m gross)."
+    },
+    {
+      "metric": "operating_income",
+      "value": 252477,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'TOTAL OPERATING INCOME': net interest income plus net income from Islamic financing and investments (OMR 167,415k) plus other operating income (OMR 85,062k)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.34 (printed p.66), consolidated statement of comprehensive income",
+      "note": "FY2024: OMR 244,946k."
+    },
+    {
+      "metric": "operating_income",
+      "value": 145597,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'TOTAL OPERATING INCOME' (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.8 (printed p.3)",
+      "note": "H1 2025: OMR 115,572k."
+    },
+    {
+      "metric": "net_profit",
+      "value": 100467,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit attributable to equity holders of the parent company (equal to profit for the year; profit before tax OMR 114,713k)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.34",
+      "note": "FY2024: OMR 100,181k."
+    },
+    {
+      "metric": "net_profit",
+      "value": 53030,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit attributable to equity holders of the parent company (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.8",
+      "note": "H1 2025: OMR 46,150k."
+    },
+    {
+      "metric": "aum",
+      "value": 1805,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Bank (fiduciary activities)",
+      "definition": "'Aggregated assets under management' held off balance sheet, as given in the fiduciary activities note (note 31). The bank's fiduciary activities 'consist of portfolio and investment management and custodial services'.",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.38, note 31",
+      "note": "The figure probably includes custody assets as well as managed assets, so it is not pure discretionary AUM. 31 Dec 2025: OMR 1,453m; 30 Jun 2025: OMR 1,548m."
+    },
+    {
+      "metric": "aum",
+      "value": 1453,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Bank (fiduciary activities)",
+      "definition": "'Aggregated assets under management' (portfolio and investment management and custodial services), note 35",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 note 35 (Fiduciary activities)",
+      "note": "31 Dec 2024: OMR 1,173m. Same scope caveat as above."
+    },
+    {
+      "metric": "employees",
+      "value": 1759,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Employees (note 1)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.11, note 1",
+      "note": "31 Dec 2025: 1,715 (S2)."
+    },
+    {
+      "metric": "branches",
+      "value": 76,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Oman",
+      "definition": "55 commercial banking branches plus 21 Islamic banking branches in Oman; excludes the Riyadh branch",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 note 1",
+      "note": "Sum computed by us."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "FY2025 annual report business review (S2), H1 2026 statements (S1), IR shareholder page (S6). Only growth rates are given (retail digital users +40% YoY in 2025)."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "S1 segment note 33, S2, wealth management pages (S7, S8)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "S2 digital section, S7-S10. No in-app investing product found."
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "The fiduciary note combines managed and custody assets into a single 'assets under management' figure (S1, S2). No separate custody/AUA figure."
+    }
+  ],
+  "people": [
+    {
+      "name": "Said Mohamed Al-Aufi",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Chairman in the FY2025 annual report. Election date as chairman not found.",
+      "previous_roles": "CEO of an investment fund company owned by the Government of Oman (multi-asset: financial services, fintech, technology, commodities). Earlier in the Asset Allocation and Business Strategy team at the Oman Investment Authority.",
+      "education": "Double degree in Commercial Law and Banking & Finance, Monash University",
+      "qualifications": "CFA; CAIA",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page, checked 2026-10-12 (S5). He attended the Hong Kong office opening as Chairman, 10 Sep 2026 (S12). FY2025 annual report profile (S2 p.14).",
+      "source_ids": [
+        "S5",
+        "S12",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tareq Mohamed Al Mugheiry",
+      "name_ar": null,
+      "title": "Deputy Chairman",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official board page, checked 2026-10-12 (S5); FY2025 annual report (S2 p.14).",
+      "source_ids": [
+        "S5",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulwahid Mohamed Al Murshidi",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2025-02-26",
+      "appointed_note": "Acting CEO from 1 Jan 2025. He succeeded Ahmed Al Musalmi, who became Governor of the Central Bank of Oman in Jan 2025. Joined Sohar International in July 2019 as Chief Islamic Banking Officer.",
+      "previous_roles": "2025– CEO; Jan–Feb 2025 Acting CEO; 2019– Chief Islamic Banking Officer, Sohar International. Earlier he was Deputy General Manager at a local Islamic bank. Over 22 years in audit, finance, investment and Islamic banking.",
+      "education": "Executive MBA, London Business School; BSc, Sultan Qaboos University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4). Quoted as CEO at the Hong Kong opening, 10 Sep 2026 (S12). The LinkedIn search returned no profile.",
+      "source_ids": [
+        "S4",
+        "S12",
+        "S2",
+        "S17"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdul Qadir Al Sumali",
+      "name_ar": null,
+      "title": "Chief Retail & Wealth Management Officer",
+      "functions": [
+        "Retail",
+        "Affluent",
+        "Wealth"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Retail Banking (Retail & Premier; Wealth Management)",
+      "scope": "Oman",
+      "appointed": "2023-08",
+      "appointed_note": "Joined in Aug 2023 as Chief Retail & Premier Banking Officer, which was still his title at 31 Dec 2025. The live page now says Chief Retail & Wealth Management Officer. The date of the title change is not stated.",
+      "previous_roles": "General Manager and Head of Wealth and Personal Banking at another Omani bank (not named in the source). 25+ years in retail banking.",
+      "education": "MBA, Durham University Business School",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4); FY2025 annual report profile (S2 p.18). The LinkedIn search returned no profile.",
+      "source_ids": [
+        "S4",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Aziz Mohamed Al Jahdhami",
+      "name_ar": null,
+      "title": "Chief International Business and Private Banking Officer",
+      "functions": [
+        "Private banking",
+        "Wealth",
+        "Other"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "International Banking & Private Banking",
+      "scope": "Group",
+      "appointed": "2018-12",
+      "appointed_note": "Joined Dec 2018. Titled Chief International Banking Officer in the FY2025 annual report; the live page adds Private Banking.",
+      "previous_roles": "15+ years in wealth management, private banking and investment management at local and international banks. Search snippets (not opened) describe him as a former AGM and Head of Wealth Management at Sohar International who came from National Bank of Oman.",
+      "education": "Undergraduate and postgraduate degrees, University of London; executive management certificates from the University of Cambridge and London Business School",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4); FY2025 annual report profile (S2 p.18). The LinkedIn search returned no profile.",
+      "source_ids": [
+        "S4",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalil Salim Al Hedaifi",
+      "name_ar": null,
+      "title": "Acting Chief Wholesale Banking Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Wholesale Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Chief Government & Private Banking Officer at 31 Dec 2025. Now acting head of wholesale banking after Dr. Manish Dhameja resigned (27 Apr 2025, per the annual report footnote). Joined Oct 2018 as Chief Retail Banking Officer.",
+      "previous_roles": "2018– Chief Retail Banking Officer, later Chief Government & Private Banking Officer, Sohar International. Earlier he was at national and international banks in Oman and Qatar from 2000, including as Retail Banking Division Head. Expertise includes wealth management.",
+      "education": "MBA, University of Northampton; Administration Certificate, Oxford Cambridge and RSA",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4); FY2025 annual report profile (S2 p.17).",
+      "source_ids": [
+        "S4",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sajeel Bashiruddin",
+      "name_ar": null,
+      "title": "Chief Technology & Digital Officer",
+      "functions": [
+        "Technology",
+        "Digital",
+        "Innovation / partnerships"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Technology & Digital",
+      "scope": "Group",
+      "appointed": "2021",
+      "appointed_note": "Joined 2021. Responsible for IT, the Enterprise PMO, FinTech and Digital Banking.",
+      "previous_roles": "Career from 2003 in banks in KSA and Oman. Led digital transformations, fintech partnerships and new digital revenue streams.",
+      "education": "Master's in Computer Applications; Bachelor's in Business Management",
+      "qualifications": "Certified Artificial Intelligence Business Professional",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4); FY2025 annual report profile (S2 p.18).",
+      "source_ids": [
+        "S4",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Eng. Aisha Al Saifi",
+      "name_ar": null,
+      "title": "Chief Transformation Officer",
+      "functions": [
+        "Strategy",
+        "Other"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Transformation",
+      "scope": "Group",
+      "appointed": "2025-05",
+      "appointed_note": "Appointment reported 27 May 2025.",
+      "previous_roles": "Director of Oman Nation Brand Identity, Oman National Program for Private Sector & Foreign Trade Development. Earlier senior roles at Royal HaskoningDHV, ASYAD Group and the Nazdaher Program.",
+      "education": "BEng, Sultan Qaboos University; Master's in Engineering for International Development, University College London (Chevening Scholar)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4); appointment report (S18).",
+      "source_ids": [
+        "S4",
+        "S18"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abbas Hassan Al Lawati",
+      "name_ar": null,
+      "title": "Senior Executive Vice President & Head – Investment Banking and FIG",
+      "functions": [
+        "Corporate / wholesale",
+        "Investments / asset management"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Investment Banking and FIG",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "The Investment Banking segment covers DCM advisory, custodial services and funds management (note 33). His personal remit is not described.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4).",
+      "source_ids": [
+        "S4",
+        "S1"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hisham Hassan Moosa",
+      "name_ar": null,
+      "title": "Senior Executive Vice President – Government Banking & Strategic Alliances",
+      "functions": [
+        "Corporate / wholesale",
+        "Innovation / partnerships"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Government Banking & Strategic Alliances",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4).",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Fahad Al Zadjali",
+      "name_ar": null,
+      "title": "Chief Islamic Banking Officer",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Sohar International Bank SAOG (Sohar Islamic)",
+      "business_unit": "Sohar Islamic",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4).",
+      "source_ids": [
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Craig Barrington Bell",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2019-01",
+      "appointed_note": "",
+      "previous_roles": "CFO, Al Hilal Bank (Abu Dhabi), 2+ years. Earlier he spent 15 years in CFO roles with HSBC and Deutsche Bank, including three years as CFO of the Saudi British Bank. Career started at Citibank in 1985.",
+      "education": "Bachelor of Commerce (Accounting), University of Auckland",
+      "qualifications": "Member, Chartered Accountants Australia and New Zealand",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4); FY2025 annual report profile (S2 p.18).",
+      "source_ids": [
+        "S4",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Khalid Al Guthami",
+      "name_ar": null,
+      "title": "Country Chief Executive Officer, KSA Branch",
+      "functions": [
+        "Corporate / wholesale",
+        "Other"
+      ],
+      "entity": "Sohar International Bank SAOG (KSA Branch)",
+      "business_unit": "KSA Branch",
+      "scope": "KSA",
+      "appointed": "2023-09",
+      "appointed_note": "",
+      "previous_roles": "Head of Corporate Bank Group at a Riyadh bank (not named in the source). 25+ years in corporate and commercial banking, trade, investment and risk.",
+      "education": "Bachelor's in Economics (International Business), University of Southern Mississippi; Accelerated Management & Executive Leadership Program, INSEAD",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official management page, checked 2026-10-12 (S4); FY2025 annual report profile (S2 p.17).",
+      "source_ids": [
+        "S4",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Manish Dhameja",
+      "name_ar": null,
+      "title": "Former Chief Wholesale Banking Officer",
+      "functions": [
+        "Corporate / wholesale"
+      ],
+      "entity": "Sohar International Bank SAOG",
+      "business_unit": "Wholesale Banking",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "A footnote in the FY2025 annual report says he resigned on 27 April 2025.",
+      "previous_roles": "Standard Chartered Bank (multiple leadership roles; UAE, Africa, India). 23+ years of experience.",
+      "education": "Engineer; MBA",
+      "qualifications": "CFA",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "FY2025 annual report profile with resignation footnote (S2 p.17). He is not on the live management page, where Khalil Al Hedaifi is Acting Chief Wholesale Banking Officer (S4).",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "Sohar International runs wealth in three tiers. Premier Lite needs a minimum salary of OMR 700. Sohar Wealth Management, launched in 2019, needs a deposit or investments of OMR 30,000, or a salary of OMR 3,000 a month; it offers a dedicated RM, 'personalized wealth advisory', a Signature debit card and 'access to investment products'. Private Banking for UHNWI, family offices and non-residents sits in a separate International Banking & Private Banking unit. The investment shelf on the site is narrow: fixed and structured deposits, Government Development Bonds and FX. No mutual fund shelf, brokerage or in-app investing was found, and the FSA register shows no brokerage licence. The bank is FSA-licensed as investment manager, portfolio manager, custodian and issuer of structured instruments. It reports off-balance-sheet 'assets under management' of OMR 1,805m (30 Jun 2026), a figure that includes custody. In September 2026 it opened a Hong Kong office. At the same time it signed an exclusive deal to market E-Fund's (China) investment products in Oman and the region through its Asset Management and Origination & Placement businesses, and an MoU with alternatives manager Templewater on investment opportunities and co-investments for eligible clients. A planned 55% acquisition of Neo Group KSA (CMA-licensed asset management and advisory) had not been completed in any source found.",
+    "segments": [
+      {
+        "name": "Premier (Premier Lite)",
+        "tier": "Mass affluent",
+        "eligibility": "Minimum salary OMR 700 (Premier debit card)",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "name": "Sohar Wealth Management",
+        "tier": "Affluent / HNW",
+        "eligibility": "Minimum deposit OMR 30,000, or investments of OMR 30,000 or more, or monthly salary OMR 3,000 or more",
+        "source_ids": [
+          "S7",
+          "S8"
+        ]
+      },
+      {
+        "name": "Private Banking (International Banking & Private Banking)",
+        "tier": "UHNW / family offices / non-residents",
+        "eligibility": "Threshold not published",
+        "source_ids": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "name": "Be Zahiya / Zahiya Plus",
+        "tier": "Retail (women)",
+        "eligibility": "Not captured",
+        "source_ids": [
+          "S2"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "The International Banking & Private Banking unit, led by Aziz Al Jahdhami, provides personalised solutions to family offices, non-residents and UHNWI (note 33). The FY2025 annual report says the private banking proposition 'advanced into a more integrated and relationship-led ecosystem' for HNW and UHNW clients, combining wealth advisory, lifestyle privileges and multi-generational legacy planning, and lists private banking as a 2026 priority. In 2019 the bank signed an alliance with EFG International that gave Omani clients access to a Swiss private banking relationship; its current status is unknown.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4",
+        "S19"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "This is in-house, not a separate entity: 'funds management' sits in the Investment Banking segment. FSA licences cover Investment Manager, Portfolio Management, Fund Administration and Custodian. Fiduciary 'assets under management' (including custody) were OMR 1,805m at 30 Jun 2026. In Sep 2026 E-Fund named the bank its exclusive partner to market E-Fund products through its 'Asset Management and Origination & Placement businesses'. Pending: up to 55% of Neo Group Limited KSA (CMA-licensed asset management and advisory). No in-house fund names were found.",
+      "source_ids": [
+        "S1",
+        "S11",
+        "S12",
+        "S13",
+        "S14"
+      ]
+    },
+    "brokerage": {
+      "present": "No",
+      "detail": "The FSA register does not list Brokerage among Sohar International's licensed securities activities. No brokerage or trading service was found on sib.om.",
+      "source_ids": [
+        "S11",
+        "S21"
+      ]
+    },
+    "digital_investing": {
+      "present": "Not found after research",
+      "detail": "2025 mobile app enhancements cover goal-based savings, bill payments, recurring transfers and Google, Apple and Samsung Pay. An Open Banking API platform was launched in 2025. No investing feature was found in the app or on the site.",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Wealth Management offers a dedicated RM and a 'personalized wealth advisory service'. The bank holds an FSA Investment Advice & Research licence. A Government Investment Advisory unit was set up in 2025 for institutional clients.",
+      "source_ids": [
+        "S7",
+        "S11",
+        "S2"
+      ]
+    },
+    "discretionary": {
+      "present": "Unclear",
+      "detail": "The FSA Portfolio Management licence and the fiduciary note's 'portfolio and investment management' indicate managed portfolios, but no client-facing discretionary mandate product is described.",
+      "source_ids": [
+        "S11",
+        "S1"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found on sib.om or in the annual report.",
+      "source_ids": [
+        "S2",
+        "S10"
+      ]
+    },
+    "funds_platform": {
+      "present": "Unclear",
+      "detail": "Wealth clients get 'access to investment products' (not specified). E-Fund products are to be marketed under the Sep 2026 partnership (announced). The 2019 EFG International alliance gave access to EFG's product shelf. No live third-party fund list was found.",
+      "source_ids": [
+        "S7",
+        "S12",
+        "S19"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Structured Deposits are listed on the Wealth 'Global Market' page. The bank holds an FSA licence as Issuer of Structured Instruments. Terms are not published.",
+      "source_ids": [
+        "S10",
+        "S11"
+      ]
+    },
+    "private_markets": {
+      "present": "Unclear",
+      "detail": "MoU with Templewater (Asia/GCC alternatives manager), 10 Sep 2026, covering investment opportunities for eligible Sohar clients and potential co-investments. It is not yet a product.",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Not found after research",
+      "detail": "Sohar Islamic has 21 branches with Islamic deposits, financing and cards. No Shariah-compliant investment or wealth product was found.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "asset_classes": [
+      "Bonds",
+      "Structured products"
+    ],
+    "partners": [
+      {
+        "partner": "E-Fund Management (China)",
+        "kind": "Product partner (asset manager; exclusive distribution)",
+        "what": "Sohar becomes E-Fund's exclusive partner in Oman and the region, marketing E-Fund investment products through its Asset Management and Origination & Placement businesses. E-Fund will promote Sohar's offerings in China.",
+        "date": "2026-09-10",
+        "status": "Announced",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "partner": "Templewater",
+        "kind": "Alternatives manager (MoU)",
+        "what": "Framework for investment opportunities for eligible clients, co-investments, project financing and banking for portfolio companies in Oman",
+        "date": "2026-09-10",
+        "status": "MoU / pilot",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "partner": "Neo Group Limited KSA",
+        "kind": "Acquisition target (CMA-licensed asset management and advisory)",
+        "what": "Non-binding MoU with Neo Group Limited UAE (holder of 80%) to acquire up to 55%. In-principle CBO approval reported Dec 2025. No completion found.",
+        "date": "2025-08",
+        "status": "Announced",
+        "source_ids": [
+          "S13",
+          "S14",
+          "S2"
+        ]
+      },
+      {
+        "partner": "Insurance House LLC (Bima)",
+        "kind": "Insurtech: API integration and acquisition target",
+        "what": "Integrated through the Open Banking platform in 2025. Non-binding offer for up to 100% in Aug 2025; status not found.",
+        "date": "2025-08",
+        "status": "Unclear",
+        "source_ids": [
+          "S2",
+          "S13"
+        ]
+      },
+      {
+        "partner": "EFG International",
+        "kind": "Private banking / product partner",
+        "what": "Alliance to promote each other's investment products; Omani clients could open a Swiss private banking relationship with EFG",
+        "date": "2019-10-11",
+        "status": "Unclear",
+        "source_ids": [
+          "S19"
+        ]
+      },
+      {
+        "partner": "MetLife Gulf",
+        "kind": "Insurance product partner",
+        "what": "Protection and savings solutions; high-value insurance products relaunched in 2025",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S2"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2025-02-26",
+        "what": "Abdulwahid Al Murshidi confirmed as CEO (acting since 1 Jan 2025) after Ahmed Al Musalmi became CBO Governor",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2025-03",
+        "what": "Designated a Domestic Systemically Important Bank by the CBO",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025-04-07",
+        "what": "Board sent a letter of intent to Ahli Bank proposing a merger by incorporation (share swap at FY2024 book values)",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2025-06-24",
+        "what": "Ahli Bank merger postponed after required regulatory approvals were not received; Ahli Bank proceeded with an OMR 50m rights issue",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "date": "2025-08-17",
+        "what": "Disclosed plans to buy up to 55% of Neo Group KSA (asset management and advisory) and up to 100% of Bima (digital insurance platform)",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "date": "2025-09-24",
+        "what": "Issued OMR 200m perpetual AT1 securities (6.75%)",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Launched an Open Banking API platform and integrated fintechs (Mamun, Behar, Gift, Antom, Bima, Kushki). Retail digital users grew more than 40% and corporate digital usage almost 180%.",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Officially inaugurated the Riyadh branch",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2026-05-14",
+        "what": "Issued OMR 25.95m Mandatory Convertible Bonds (5.25%) to shareholders",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2026-08",
+        "what": "Completed a rights issue of 1.06bn shares at Baisa 141 (OMR 149.3m gross); paid-up capital rose to OMR 849.7m",
+        "source_ids": [
+          "S6"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "what": "Opened the Hong Kong Asia Pacific Office (representative office; HKMA approval Apr 2026, CBO May 2026); signed the E-Fund partnership and Templewater MoU",
+        "source_ids": [
+          "S12"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "The 2026 outlook says it will 'strengthen its Private Banking proposition' with 'personalised advisory, tailored wealth solutions, and exclusive lifestyle and investment services' (S2 p.28).",
+        "The investment shelf on the site is narrow (deposits, structured deposits, Government Development Bonds, FX), and no app investing, model portfolios or fund platform was found (S10, S2).",
+        "It is actively adding investment-product partners: E-Fund exclusive distribution and the Templewater alternatives MoU (Sep 2026) (S12).",
+        "API-first posture: an Open Banking platform with fintech integrations launched in 2025, and the CTDO's remit includes fintech partnerships (S2).",
+        "Fast balance-sheet growth: assets +12% and loans +21% in H1 2026, with fresh capital (OMR 149.3m rights issue in Aug 2026) (S1, S6)."
+      ],
+      "barriers": [
+        "Wealth investing capabilities are built around its own FSA licences (investment manager, portfolio manager, custodian) and planned acquisitions (Neo Group KSA) rather than a third-party platform (S11, S13).",
+        "No brokerage licence, so equity investing would need an execution partner (S11).",
+        "Leadership is in flux: CEO since Feb 2025, acting wholesale head, and titles changed in 2026 (retail-and-wealth, international-and-private banking) (S4, S2).",
+        "Acquisitions and Hong Kong expansion are under way, which may absorb management attention (S12, S13)."
+      ],
+      "incumbent_vendors": [
+        "E-Fund: investment products (announced Sep 2026) (S12)",
+        "Templewater: alternatives MoU (S12)",
+        "EFG International: 2019 alliance, status unclear (S19)",
+        "MetLife Gulf: insurance and savings products (S2)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Sohar International Bank SAOG: Interim condensed consolidated financial statements for the six months ended 30 June 2026 (unaudited)",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://res.cloudinary.com/dtqjagydd/image/upload/v1785663205/sohardevelopment/SIB_Financial_Statements_English_Jun_2026_3ced800a79.pdf",
+      "doc_type": "Interim financial statements",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Approved by the Board 30 Jul 2026. Linked from the official IR Reports page (S3). PDF pages 2-6 are images."
+    },
+    {
+      "id": "S2",
+      "title": "Sohar International Annual Report 2025 (incl. audited consolidated financial statements, corporate governance report, Sohar Islamic statements)",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://res.cloudinary.com/dtqjagydd/image/upload/v1775546757/sohardevelopment/Sohar_Int_Annual_Report2025_English_1_1bf8d40d24.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Auditor KPMG LLC. The file was read with tools/pdftext.py, and page numbers are PDF pages (two printed pages per PDF page)."
+    },
+    {
+      "id": "S3",
+      "title": "Investor Relations: Reports",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://www.sib.om/investor-relations/reports",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Rendered in the browser because WebFetch saw no report list. It lists the H1 and Q1 2026 statements, Basel disclosures and Annual Report 2025. Q3 2026 was not yet posted. The old soharinternational.com domain redirects to sib.om."
+    },
+    {
+      "id": "S4",
+      "title": "Management Team",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://www.sib.om/about-us/management-team",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read in the browser."
+    },
+    {
+      "id": "S5",
+      "title": "Board of Directors",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://www.sib.om/about-us/board-of-directors",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seven directors listed."
+    },
+    {
+      "id": "S6",
+      "title": "Shareholders Information",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://www.sib.om/investor-relations/shareholders-information",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Key shareholders updated 30/06/2026; August 2026 rights issue details."
+    },
+    {
+      "id": "S7",
+      "title": "About Wealth Management",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://www.sib.om/wealth-management/about-wealth-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Eligibility criteria."
+    },
+    {
+      "id": "S8",
+      "title": "Wealth Management account (Signature debit card)",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://www.sib.om/retail-banking/accounts-overview/wealth-management",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S9",
+      "title": "Premier (Premier Lite)",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://www.sib.om/retail-banking/accounts-overview/premier",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S10",
+      "title": "Wealth Management: Global Market (products and services)",
+      "publisher": "Sohar International Bank SAOG",
+      "url": "https://www.sib.om/wealth-management/global-market",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists fixed deposits, call accounts, structured deposits, Government Development Bonds and FX spot."
+    },
+    {
+      "id": "S11",
+      "title": "Licensed & Accredited: Sohar International Bank (Companies working in the field of securities)",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/DisplayCompanyDetails?companyType=6&companyId=32&selectedCompanyType=6",
+      "doc_type": "Regulator register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "FSA registration 03/08/2015, licence expiry 31/12/2027. Activities: Marketing non-Omani Securities, Investment Advice & Research, Issue Management, Fund Administration, Portfolio Management, Issuer of Structured Instruments, Custodian, Investment Manager. The register's shareholder list is out of date (see discrepancies). Opened with curl because WebFetch failed on the certificate."
+    },
+    {
+      "id": "S12",
+      "title": "Sohar International Opens Asia Pacific Office in Hong Kong, Strengthening Connectivity Between Oman and Asia",
+      "publisher": "Viet Nam News (Media OutReach press release)",
+      "url": "https://vietnamnews.vn/media-outreach/1799416/sohar-international-opens-asia-pacific-office-in-hong-kong-strengthening-connectivity-between-oman-and-asia.html",
+      "doc_type": "Press release (republished)",
+      "tier": 5,
+      "published": "2026-09-10",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "The same release on Malay Mail returned HTTP 403. Not found on sib.om because the newsroom did not render."
+    },
+    {
+      "id": "S13",
+      "title": "Sohar International eyes full acquisition of Bima, majority stake in Saudi's Neo Group",
+      "publisher": "Muscat Daily",
+      "url": "https://www.muscatdaily.com/2025/08/17/sohar-international-eyes-full-acquisition-of-bima-majority-stake-in-saudis-neo-group/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-08-17",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S14",
+      "title": "Sohar bank gets nod to buy stakes in Neo Group Saudi",
+      "publisher": "AGBI",
+      "url": "https://www.agbi.com/banking-finance/2025/12/sohar-bank-gets-nod-to-buy-stakes-in-neo-group-saudi/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-12",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (HTTP 403). The snippet says the CBO approved the acquisition of a majority stake in Neo Group Saudi, which is CMA-licensed for asset management and financial advisory."
+    },
+    {
+      "id": "S15",
+      "title": "Sohar International eyes merger with Ahlibank",
+      "publisher": "Muscat Daily",
+      "url": "https://www.muscatdaily.com/2025/04/07/sohar-international-eyes-merger-with-ahlibank/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-04-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S16",
+      "title": "Oman's Sohar International and Ahli Bank halt merger plan citing regulatory delays",
+      "publisher": "Finance Middle East",
+      "url": "https://www.financemiddleeast.com/banking-and-insurance/omans-sohar-international-and-ahli-bank-halt-merger-plan-citing-regulatory-delays/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-06-24",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S17",
+      "title": "Sohar International names Abdulwahid Almurshidi as Chief Executive Officer",
+      "publisher": "People Matters Middle East",
+      "url": "https://me.peoplemattersglobal.com/news/appointments/sohar-international-names-abdulwahid-almurshidi-as-chief-executive-officer-44551",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-02",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Names his previous employer as 'Muscat Capital LLC, a local Islamic bank', which is not credible. That detail is not used."
+    },
+    {
+      "id": "S18",
+      "title": "Sohar International appoints Eng. Aisha Al-Saifi as Chief Transformation Officer",
+      "publisher": "People Matters Middle East",
+      "url": "https://me.peoplemattersglobal.com/news/appointments/sohar-international-appoints-eng-aisha-al-saifi-as-chief-transformation-officer-45724",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-05-27",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S19",
+      "title": "Sohar International signs distribution deal (EFG International)",
+      "publisher": "Funds Global MENA",
+      "url": "https://www.fundsglobalmena.com/sohar-international-signs-distribution-deal/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2019-10-11",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Historical context only."
+    },
+    {
+      "id": "S21",
+      "title": "Licensed & Accredited: Companies working in the field of securities (list)",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/AuthorizedAndAccredited?companyType=6",
+      "doc_type": "Regulator register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read in the browser. 32 entities are listed, including Sohar International Bank."
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Shareholders",
+      "detail": "IR page and H1 note 14 (30 Jun 2026): Royal Court Affairs 19.4%, Dhofar International Development & Investment 13.0%, Seventh Moon 6.4%, Neptune 5.5%, Western Sea 5.4%. The FSA register (undated) lists Oman Investment & Finance Co. 15.37%, Royal Court Affairs 14.57%, Seventh Moon 9.03%, Neptune 7.81% and Oman Investment Fund 7.6%.",
+      "source_ids": [
+        "S6",
+        "S1",
+        "S11"
+      ],
+      "resolution": "Used the bank's 30 Jun 2026 disclosure. The FSA register appears out of date. Holdings after the August 2026 rights issue are unknown."
+    },
+    {
+      "field": "Executive titles",
+      "detail": "FY2025 annual report (as of 31 Dec 2025): Al Sumali was Chief Retail & Premier Banking Officer, Al Jahdhami Chief International Banking Officer, and Al Hedaifi Chief Government & Private Banking Officer. The live page (Oct 2026) shows Chief Retail & Wealth Management Officer, Chief International Business and Private Banking Officer, and Acting Chief Wholesale Banking Officer respectively.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "resolution": "Used live titles. The reorganisation date is not published."
+    },
+    {
+      "field": "Manish Dhameja status",
+      "detail": "He is profiled in the annual report's management list 'as of December 31st, 2025', but a footnote says he resigned on 27 April 2025. He is not on the live page.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "resolution": "Recorded as Departed."
+    },
+    {
+      "field": "Islamic branches",
+      "detail": "FY2025 annual report: 20 Islamic branches. H1 2026 note 1: 21.",
+      "source_ids": [
+        "S2",
+        "S1"
+      ],
+      "resolution": "Different dates. Used 21 at 30 Jun 2026."
+    }
+  ],
+  "open_items": [
+    "Lead check: the HSBC Oman integration is confirmed. The merger by incorporation with HSBC Bank Oman SAOG was completed on 17 Aug 2023 (S2 note 1).",
+    "Lead check: 2025–2026 mergers. No merger has been completed. The April 2025 Ahli Bank merger proposal was put on hold in June 2025 because regulatory approvals were not received. An Oct 2025 report seen in search results mentioned the deal again, but no 2026 revival was found. The H1 2026 statements show no business combination; loan growth is organic.",
+    "Neo Group KSA (55%) and Bima (100%) acquisitions: no completion or definitive agreement found. Neither is mentioned in the H1 2026 statements. Check MSX disclosures.",
+    "The Sohar newsroom (sib.om/newsroom) did not render its article list in the browser, so official 2025-2026 press releases could not be read. Partnership facts rely on a republished Media OutReach release (S12).",
+    "No customer count, wealth client count or private banking threshold was found.",
+    "Dr. Saud Al Shidhani (Chief Corporate Services Officer in the FY2025 annual report) and Khalid Al Subhi (Chief Compliance Officer in that report) are not on the live page. The live page shows Mazin Ali Al-Mamari as Acting Chief Compliance Officer. Their departures were not confirmed.",
+    "MSX ticker BKSB is from data-provider URLs (Simply Wall St, MarketScreener) seen in search results; confirm on msx.om.",
+    "Arabic legal name not captured from an opened source.",
+    "LinkedIn checks for the CEO, Al Sumali and Al Jahdhami returned no profiles. Other people were not checked.",
+    "Q3 2026 results were not yet posted on 12 Oct 2026."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B30",
+  "checked": "2026-10-12"
+}

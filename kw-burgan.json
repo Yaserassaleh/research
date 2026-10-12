@@ -1,0 +1,1571 @@
+{
+ "id": "kw-burgan",
+ "name": "Burgan Bank",
+ "short_name": "Burgan",
+ "legal_name": "Burgan Bank K.P.S.C.",
+ "name_ar": "بنك برقان ش.م.ك.ع",
+ "country": "KW",
+ "hq_city": "Kuwait City",
+ "website": "https://burgan.com",
+ "linkedin_company": "https://www.linkedin.com/company/burgan-bank",
+ "category": "Bank",
+ "type": "Universal / commercial bank",
+ "model": "Conventional",
+ "founded": "1975 (incorporated by Amiri Decree dated 27 Dec 1975 per FY2025 financial statements note 1; the annual report timeline gives 1977 as incorporation as a joint-stock company with the State of Kuwait as majority shareholder)",
+ "regulators": [
+  "CBK",
+  "CMA Kuwait (custodian, investment advisory, portfolio management and unregistered securities brokerage licences)",
+  "CBB - United Gulf Bank (Bahrain subsidiary)"
+ ],
+ "listed": true,
+ "exchange": "Boursa Kuwait",
+ "ticker": null,
+ "parent_id": null,
+ "ownership_summary": "Listed on Boursa Kuwait and a subsidiary of Kuwait Projects Company Holding K.S.C.P. (KIPCO), itself Boursa-listed (FY2025 financial statements, note 1). The FY2025 annual report shows KIPCO (effective) 61%, PIFSS 8% and others 31%. A KD 50m rights issue (277.8m shares at 180 fils) closed on 14 Sep 2026, 133.57% subscribed, raising paid-up capital from KD 399.6m to KD 427.4m; KIPCO publicly committed to it on 12 Sep 2026, but its post-issue stake was not found.",
+ "shareholders": [
+  {
+   "holder": "Kuwait Projects Company Holding K.S.C.P. (KIPCO) - effective holding",
+   "pct": 61,
+   "as_of": "2025",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "holder": "Public Institution for Social Security (PIFSS)",
+   "pct": 8,
+   "as_of": "2025",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "holder": "Others",
+   "pct": 31,
+   "as_of": "2025",
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "government_link": "Indirect - PIFSS (Kuwaiti state pension institution) held 8% per the FY2025 annual report; the controlling shareholder KIPCO is a listed private-sector holding company.",
+ "group_structure": "Burgan Bank K.P.S.C. is the Kuwait parent of a regional banking group: Algeria Gulf Bank (86.01%), Tunis International Bank (86.70%), Burgan Bank A.S. Turkey (47.55%, consolidated), Burgan Bank Financial Services Ltd (DIFC, 100%) and United Gulf Bank B.S.C., Bahrain (100%, acquired in 2025 for USD 190m; shareholders approved renaming it Burgan Bank Bahrain on 3 Sep 2026, subject to MOIC/CBB approvals). Through UGB the group controls Kamco Investment Company K.S.C.P. (Kamco Invest; 63.01% effective interest at 31 Dec 2025, described in the annual report as UGB's 60% stake), which in turn owns First Securities Brokerage Co. (58.74% effective) and Kamco's DIFC, KSA, Jersey and Luxembourg entities. DOUBLE COUNTING: Kamco Invest is profiled separately as kw-kamco; its balance sheet is consolidated into Burgan's group totals, so do not add Kamco's total assets to Burgan's. Kamco's AUM (client assets) is off Burgan's balance sheet but is the group's main AUM figure, so do not count it twice when summing Burgan and Kamco wealth assets. Group figures also include Turkey, Algeria, Tunisia and Bahrain; Kuwait was 72% of total assets before consolidation adjustments in 2025.",
+ "subsidiaries": [
+  {
+   "name": "United Gulf Bank B.S.C. (to be renamed Burgan Bank Bahrain)",
+   "pct": 100.0,
+   "activity": "Wholesale banking, Bahrain; holding company for Kamco Invest",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S6"
+   ]
+  },
+  {
+   "name": "KAMCO Investment Company K.S.C.P. (Kamco Invest)",
+   "pct": 63.01,
+   "activity": "Asset management, wealth management, investment banking, brokerage (held through UGB)",
+   "linked_id": "kw-kamco",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "First Securities Brokerage Company K.S.C. (Closed)",
+   "pct": 58.74,
+   "activity": "Brokerage services, Kuwait (held through Kamco)",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Burgan Bank A.S. (Burgan Bank Turkey)",
+   "pct": 47.55,
+   "activity": "Banking, Turkey (incl. ON digital bank brand); owns Burgan Yatirim Menkul Degerler A.S. (brokerage) and Burgan Financial Kiralama (leasing)",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Algeria Gulf Bank S.P.A.",
+   "pct": 86.01,
+   "activity": "Banking, Algeria",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Tunis International Bank S.A.",
+   "pct": 86.7,
+   "activity": "Banking, Tunisia",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Burgan Bank Financial Services Limited",
+   "pct": 100.0,
+   "activity": "Financial advisory services, DIFC (UAE)",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "footprint": "FY2025 (annual report): 126 branches, 283 ATMs, 4.2k employees and 2.1mn customers group-wide. Kuwait: 132,853 customers, 29 branches, 1,109 employees, 156 ATMs. Algeria 66 branches, Turkey 28, Tunisia 3; UGB/Kamco in Bahrain, with the Kamco network also covering the UAE (DIFC), Saudi Arabia, UK and Jordan as shown on the annual report map.",
+ "customer_segments": "Retail (mass and premium cards, consumer loans, Kanz prize-draw savings account), private banking and wealth management for HNW and UHNW clients, corporate banking, treasury and financial institutions; UGB (Bahrain) is being repositioned to wholesale banking for HNW individuals, family offices, corporates and financial institutions across Kuwait, Bahrain, UAE and Saudi Arabia.",
+ "business_lines": "Kuwait segments: Corporate Banking; Retail Banking; Private and Wealth Management (tailored private banking, investment and advisory solutions for HNW clients, CMA-licensed custody, advisory, portfolio management and unregistered brokerage); Treasury, Financial Institutions and Investments. International: Burgan Bank Turkey (incl. ON digital bank, 1.5mn+ customers in four years), Algeria Gulf Bank, Tunis International Bank, United Gulf Bank. Asset management, investment banking and brokerage come through Kamco Invest (via UGB) and First Securities Brokerage.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 9598929,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (incl. Turkey, Algeria, Tunisia, UGB and Kamco Invest)",
+   "definition": "Total assets (مجموع الموجودات), interim condensed consolidated statement of financial position (unaudited, reviewed by KPMG and RSM)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.8 (statement p.3, Arabic); results form PDF p.2 shows KWD 9,598,929,000",
+   "note": ""
+  },
+  {
+   "metric": "total_assets",
+   "value": 9098815,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, consolidated statement of financial position (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.78 (report pp.154-155)",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 5638322,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Deposits from customers' (ودائع من عملاء) line; excludes due to banks (882,520), due to other financial institutions (1,135,904) and certificates of deposit issued (58,025), KWD thousand",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.8 (statement p.3)",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 5456555,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Deposits from customers' line; excludes due to banks (834,916), due to other financial institutions (846,793) and certificates of deposit issued (61,125), KWD thousand",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.78",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 5087974,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances to customers' (قروض وسلفيات للعملاء) carrying amount on the statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.8 (statement p.3)",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 4830710,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances to customers' carrying amount on the statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.78",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 1039080,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity incl. KWD 150,000k perpetual Tier 1 securities and KWD 30,930k non-controlling interests; equity attributable to equity holders of the Bank KWD 858,150k",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.8 (statement p.3)",
+   "note": "Before the KD 50m rights issue completed in Sep 2026 (S8)."
+  },
+  {
+   "metric": "operating_income",
+   "value": 267798,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Net operating income' (net interest income + net fees and commissions + FX, investment, dividend and other income), consolidated statement of income",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.79",
+   "note": ""
+  },
+  {
+   "metric": "net_profit",
+   "value": 46534,
+   "unit": "thousand",
+   "currency": "KWD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Profit for the year attributable to equity holders of the Bank (total profit for the year KWD 45,779k incl. non-controlling interests)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.79",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 137511000,
+   "unit": "unit",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total Operating Revenue' as reported on the Boursa Kuwait financial results form for the six months to 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.2 (form p.1)",
+   "note": "H1 2025 comparative KWD 125,736,000."
+  },
+  {
+   "metric": "net_profit",
+   "value": 11119000,
+   "unit": "unit",
+   "currency": "KWD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to the owners of the parent company, Boursa results form, six months to 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.2 (form p.1)",
+   "note": "Down 47% from KWD 20,816,000 in H1 2025; the bank cites higher operating expenses, credit-loss provisions and net monetary loss from IAS 29 (Turkey hyperinflation) (S3 PDF p.3)."
+  },
+  {
+   "metric": "customers",
+   "value": 2100000,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "point_in_time",
+   "scope": "Group (all subsidiaries)",
+   "definition": "Customers, 'At a Glance' page; not stated whether active or registered, retail or total",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.6",
+   "note": "Rounded ('2.1mn'). Kuwait alone: 132,853 customers (PDF p.8)."
+  },
+  {
+   "metric": "employees",
+   "value": 4200,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "Employees, 'At a Glance' page",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.6",
+   "note": "Rounded ('4.2k'). Kuwait: 1,109 employees (PDF p.8)."
+  },
+  {
+   "metric": "branches",
+   "value": 126,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "Branches, 'At a Glance' page",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.6",
+   "note": "Kuwait: 29 branches (PDF p.8)."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "No Burgan Bank (bank-level) AUM or private-banking AUM found in the FY2025 annual report (S4), the H1 2026 Boursa filing (S3), the H1 2026 results release (S5) or the wealth management page (S9). The group's labelled AUM sits in Kamco Invest (see kw-kamco)."
+  },
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "FY2025 statements describe the fiduciary-asset accounting policy but no amount was found in the text searched (S4); H1 2026 filing (S3)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "Annual report private banking page gives only growth rates (loans +31%, deposits +37%, net income +35%, 2025 vs 2023) (S4 PDF p.22); no balances in S3, S5, S9."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not found after research",
+   "where_checked": "Digital banking page (S10), wealth page (S9), FY2025 annual report (S4)."
+  }
+ ],
+ "people": [
+  {
+   "name": "Sheikh Abdullah Nasser Sabah Al Ahmad Al Sabah",
+   "name_ar": null,
+   "title": "Chairman",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2022",
+   "appointed_note": "Chairman since 2022 per FY2025 annual report.",
+   "previous_roles": "Vice Chairman, Kamco Investment Co.; Board Member, Kuwait Projects Holding (KIPCO); Chairman, United Gulf Bank - Bahrain (FY2025 annual report).",
+   "education": "Royal Military Academy Sandhurst, UK; BSc Business Administration, New York Institute of Technology, USA",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed as Chairman on official Board page checked 2026-10-12 (S2); signed H1 2026 statements (S3); quoted as Chairman on 30 Jul, 12 Sep and 23 Sep 2026 (S5, S6, S8).",
+   "source_ids": [
+    "S2",
+    "S4",
+    "S3",
+    "S5",
+    "S6",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Faisal M. Sarkhou",
+   "name_ar": null,
+   "title": "Vice Chairman",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2022",
+   "appointed_note": "Vice Chairman since 2022 per FY2025 annual report.",
+   "previous_roles": "CEO, Kamco Invest (profiled in kw-kamco); Vice Chairman, Union of Investment Companies of Kuwait; Board Member, Kuwait Direct Investment Promotion Authority; Board Member, Kuwait Clearing Company (FY2025 annual report).",
+   "education": "BSc Economics (Hons), University of Birmingham, UK; EMBA (distinction), HEC Paris",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed as Vice Chairman on official Board page checked 2026-10-12 (S2) and FY2025 annual report (S4). His executive role and LinkedIn are recorded in kw-kamco.",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Antoine Jean Daher (Tony Daher)",
+   "name_ar": null,
+   "title": "Group Chief Executive Officer",
+   "functions": [
+    "Group CEO"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2023-04",
+   "appointed_note": "Date of joining April 2023 per FY2025 annual report.",
+   "previous_roles": "Chief Executive Officer, Gulf Bank; Deputy CEO, Gulf Bank; General Manager, Domestic Corporate Banking, National Bank of Kuwait; Vice President, Structured Finance, Corporate Banking, National City Bank (FY2025 annual report).",
+   "education": "Advanced Management Program, Harvard Business School; MBA, Case Western Reserve University; BSc Civil Engineering, Cleveland State University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); signed H1 2026 statements as Group CEO (S3); quoted as Group CEO on 30 Jul, 12 Sep and 23 Sep 2026 (S5, S6, S8). LinkedIn search returned no profile.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S3",
+    "S5",
+    "S8"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Fadel Mahmoud Abdullah",
+   "name_ar": null,
+   "title": "Chief Executive Officer - Kuwait",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Kuwait",
+   "scope": "Kuwait",
+   "appointed": "2023-12",
+   "appointed_note": "Appointment as CEO announced 11 Dec 2023, subject to CBK approval (S13); joined Burgan Sep 1998.",
+   "previous_roles": "Chairman, Burgan Bank Financial Services Ltd (DIFC); Board Member, Burgan Bank Turkey; formerly Chief Corporate Banking Officer, General Manager Corporate Banking, and Head of Investment and Real Estate Unit, Burgan Bank (FY2025 annual report).",
+   "education": "BSc Mathematics, Kuwait University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Still listed as CEO - Kuwait on the official Executive Management page checked 2026-10-12 (S1) and in the FY2025 annual report (S4). However, the bank's 30 Jul 2026 Boursa Kuwait cover letter for the H1 2026 statements is signed by Khalid Al Zouman as 'Acting CEO - Kuwait' (S3). This may be a temporary delegation; no departure news found. See discrepancies.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S3",
+    "S13"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Khalid Fahed Al Zouman",
+   "name_ar": null,
+   "title": "Group Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Group Finance",
+   "scope": "Group",
+   "appointed": "2000-01",
+   "appointed_note": "Date of joining January 2000 (FY2025 annual report). Signed the 30 Jul 2026 Boursa letter as Acting CEO - Kuwait (S3).",
+   "previous_roles": "Chief Financial Officer and earlier Head of Risk Management, Burgan Bank; senior financial management roles at Ernst & Young, Kuwait and USA (FY2025 annual report).",
+   "education": "Bachelor's degree in Computer Science, Kuwait University",
+   "qualifications": "Certified Public Accountant (CPA), State of New Hampshire, USA",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); signed H1 2026 statements as Group CFO and the cover letter as Acting CEO - Kuwait (S3).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S3"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Meshari Abduljalil Ahmad (Shehab)",
+   "name_ar": null,
+   "title": "General Manager - Private Banking & Wealth Management",
+   "functions": [
+    "Private banking",
+    "Wealth"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Private Banking & Wealth Management",
+   "scope": "Kuwait",
+   "appointed": "2023-10",
+   "appointed_note": "Date of joining October 2023 (FY2025 annual report).",
+   "previous_roles": "Deputy General Manager, Private Banking & Wealth Management, Ahli United Bank; AGM Priority Banking, Wealth Management & Business Banking, Gulf Bank; Executive Manager - Unit Head, Private Banking Group, NBK; earlier retail/affluent, investments and product development roles at NBK (FY2025 annual report).",
+   "education": "Executive MBA, American University of Beirut; Bachelor's in Finance, University of Miami; General Management Program, Harvard Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on official Executive Management page checked 2026-10-12 as 'Meshari Abduljalil Ahmad' (S1); the FY2025 annual report and a 2024 trade article name him 'Meshari Abduljalil Shehab' with the same title (S4, S12). LinkedIn search returned no matching profile.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S12"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mishary Yousef AlEssa",
+   "name_ar": null,
+   "title": "Deputy General Manager - Investments",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Investments",
+   "scope": "Kuwait",
+   "appointed": "2024-02",
+   "appointed_note": "Date of joining February 2024 (FY2025 annual report).",
+   "previous_roles": "Vice President of Alternative Investments, Kamco Invest; AVP Corporate Finance and Advisory, Arab Investment Company; alternative investment roles, NBK Capital; current Board Member, United Gulf Bank and Middle East Payment Services; Advisory Committee Member, HQ Capital Auda Co-Investment Fund III (FY2025 annual report).",
+   "education": "MBA, MIT Sloan School of Management; Bachelor of Computer Engineering, Kuwait University",
+   "qualifications": "CFA charterholder",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); FY2025 annual report (S4). Bank investment function, not asset management for clients.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Omar Khaled Khalifouh",
+   "name_ar": null,
+   "title": "Deputy General Manager - Digital Transformation",
+   "functions": [
+    "Digital"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Digital Transformation",
+   "scope": "Kuwait",
+   "appointed": "2024-03",
+   "appointed_note": "Date of joining March 2024 (FY2025 annual report).",
+   "previous_roles": "AGM Digital Transformation & Data Intelligence, Kuwait International Bank; Executive Manager Digital Transformation, Warba Bank; former Chairman, Al-Awsat AlOula Holding; former Board Member, Middle East Financial Brokerage Co; Senior Director - Financial Brokerage (FY2025 annual report).",
+   "education": "Bachelor's in Business Administration (Accounting), Kuwait University; executive programs at MIT, Chicago Booth and Harvard Kennedy School",
+   "qualifications": "Certified Agile Leader",
+   "linkedin_url": "https://kw.linkedin.com/in/omar-khalifouh-b792b236",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); FY2025 annual report (S4). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S15"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Manaf Khaled AlMenaifi",
+   "name_ar": null,
+   "title": "General Manager - Strategic Planning & Monitoring",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Strategic Planning & Monitoring",
+   "scope": "Kuwait",
+   "appointed": "2020-10",
+   "appointed_note": "Date of joining October 2020 (FY2025 annual report).",
+   "previous_roles": "Listed experience includes 'General Manager (Acting) Retail - Burgan Bank'; Director General, National Fund for SME Development; Principal, Investcorp; corporate finance roles at KFH, NBK and CBK; current Board Member, K-Net and Gulf Bank Algeria (FY2025 annual report).",
+   "education": "MBA, London Business School; BSc Business Administration (MIS), Northeastern University",
+   "qualifications": "Senior Executive Development Program, Harvard Business School",
+   "linkedin_url": "https://kw.linkedin.com/in/manaf-almenaifi",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); FY2025 annual report (S4). LinkedIn URL carried over from the original workbook (marked verified there; headline showed Gulf Bank Algerie board role); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Abdulmajeed Marafie",
+   "name_ar": null,
+   "title": "General Manager - Treasury & Financial Institutions",
+   "functions": [
+    "Treasury"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Treasury & Financial Institutions",
+   "scope": "Kuwait",
+   "appointed": "2014-07",
+   "appointed_note": "Joined July 2014 (FY2025 annual report). Search results show a Kuwait Times item of 11 Dec 2023 announcing his appointment as GM Treasury after CBK approval (not opened).",
+   "previous_roles": "Deputy General Manager, Investments & Treasury, Burgan Bank; General Manager, Treasury Department, QNB; senior treasury and investment roles, Gulf Bank; Board Member, Real Estate Facilities Investment Co. and Gulf Capital Market Association (FY2025 annual report).",
+   "education": "Bachelor of Electrical Engineering, Cornell University",
+   "qualifications": "Certified Valuation Analyst (IACVA)",
+   "linkedin_url": "https://kw.linkedin.com/in/abdullah-marafie-070a7013",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); FY2025 annual report (S4). LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B25; no contrary evidence.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S17"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammad Najeeb Al-Zanki",
+   "name_ar": null,
+   "title": "General Manager - Corporate Banking",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Corporate Banking",
+   "scope": "Kuwait",
+   "appointed": "2010-01",
+   "appointed_note": "Date of joining January 2010 (FY2025 annual report, spelled 'Mohamed Najeb AL-Zanki').",
+   "previous_roles": "AGM Corporate Banking & Financial Institutions and Head of Contracting Unit, Burgan Bank; managerial roles, Commercial Bank of Kuwait; investment and real estate roles, Al Tijaria (FY2025 annual report).",
+   "education": "BSc International Business Administration (cum laude), University of Baltimore",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); FY2025 annual report (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Barrak Jassem AlMattar",
+   "name_ar": null,
+   "title": "General Manager - Information Technology",
+   "functions": [
+    "Technology"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Information Technology",
+   "scope": "Kuwait",
+   "appointed": "2023-08",
+   "appointed_note": "Date of joining August 2023 (FY2025 annual report).",
+   "previous_roles": "IT General Manager, Kuwait International Bank; Enterprise Solutions Group Leader, EQUATE Petrochemical; Board Member, SAP User Group MENA (FY2025 annual report).",
+   "education": "BSc Management Information Systems, Kuwait University; General Management Program, Harvard Business School",
+   "qualifications": "Six Sigma Green Belt",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); FY2025 annual report (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Venkatakrishnan Menon",
+   "name_ar": null,
+   "title": "Chief Operating Services Officer",
+   "functions": [
+    "Operations"
+   ],
+   "entity": "Burgan Bank K.P.S.C.",
+   "business_unit": "Operating Services",
+   "scope": "Group",
+   "appointed": "2005-04",
+   "appointed_note": "Date of joining April 2005 (FY2025 annual report).",
+   "previous_roles": "Chief Center of Excellence; Group Chief Operations & IT Officer; Chief Retail Banking Officer; Head of Operations - all Burgan Bank; earlier senior roles at QNB, BNP Paribas, Standard Chartered and HDFC Bank (FY2025 annual report).",
+   "education": "MBA and BSc, University of Mumbai",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); FY2025 annual report (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "Burgan's Kuwait Private Banking & Wealth Management unit (GM Meshari Abduljalil Ahmad/Shehab, since Oct 2023) serves HNW and UHNW clients with CMA licences for custody, investment advisory, portfolio management and unregistered securities brokerage, and offers local and international equities, fixed income and alternatives (real estate, private credit, private equity). The FY2025 annual report names building 'best-in-class private banking and wealth management' as a strategic pillar and reports PB loans +31%, deposits +37% and net income +35% (2025 vs 2023). Since acquiring United Gulf Bank in 2025, the bank uses group company Kamco Invest as its product factory: private-banking clients get Kamco funds, bonds, sukuk, structured products, private debt mandates and alternatives. PB is delivered through branches (Al-Shaheed, Al-Adailiya), a dedicated hotline and online banking. The Burgan app and internet banking pages do not mention investing. No bank-level AUM is disclosed. Burgan won Euromoney's 'Best for HNW in Kuwait' (Private Banking Awards 2026).",
+  "segments": [
+   {
+    "name": "Private Banking & Wealth Management",
+    "tier": "Private / HNW-UHNW",
+    "eligibility": "Not published on pages checked",
+    "source_ids": [
+     "S9",
+     "S4"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Private Banking & Wealth Management (Kuwait) for HNW/UHNW clients. Services: investment advisory by CMA-registered advisors, portfolio management, custody, unregistered securities brokerage and credit. Offered at Al-Shaheed and Al-Adailiya branches (second added Sep 2024), plus a PB hotline and online banking. Awards: MEED 2025 Best Client Service (Wealth & Private) and Euromoney Private Banking Awards 2026 Best for HNW in Kuwait.",
+   "source_ids": [
+    "S9",
+    "S12",
+    "S4",
+    "S11"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Through Kamco Invest (63.01% effective, held via UGB; profiled as kw-kamco). The bank itself holds a CMA portfolio management licence. No bank-level fund range found.",
+   "source_ids": [
+    "S4",
+    "S9"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Bank holds a CMA unregistered securities brokerage licence (S9). Group brokerage: First Securities Brokerage Company (58.74% effective, via Kamco) in Kuwait, and Burgan Yatirim Menkul Degerler A.S. in Turkey (S4 note). No retail online brokerage channel found at the bank.",
+   "source_ids": [
+    "S9",
+    "S4"
+   ]
+  },
+  "digital_investing": {
+   "present": "Not found after research",
+   "detail": "The Burgan App, Internet Banking, SMS, phone and WhatsApp channels are described without any investment features (S10). The only investing reference is a 'Daily Investment' deposit account. A 2025 Investor Relations app serves shareholders, not clients.",
+   "source_ids": [
+    "S10",
+    "S4"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Investment advisory licence; investment advisors registered with Kuwait CMA (S9). The annual report describes a 'personalised, client-centric advisory platform' (S4 p.22).",
+   "source_ids": [
+    "S9",
+    "S4"
+   ]
+  },
+  "discretionary": {
+   "present": "Unclear",
+   "detail": "Holds a CMA Portfolio Management licence and offers 'portfolio services' (S9, S4), but discretionary mandates are not described explicitly.",
+   "source_ids": [
+    "S9",
+    "S4"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No model portfolio or robo-advice offering found on the wealth page, digital page or annual report.",
+   "source_ids": [
+    "S9",
+    "S10",
+    "S4"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Private clients get access to Kamco funds, bonds and sukuk (+9.7x clients invested in Kamco funds YoY per annual report). A 2024 article mentions selected funds, bonds and equities, with regional and international options (Dubai, London, KSA). No third-party fund platform provider named.",
+   "source_ids": [
+    "S4",
+    "S12"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "Annual report: the Kamco partnership 'enables client participation in alternative investments, bonds, sukuk, and structured products' (PDF p.23).",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "Wealth page lists alternative investments (real estate, private credit, private equity). The annual report cites private debt mandates (+4.7x YoY) and VC/fund initiatives with Kamco.",
+   "source_ids": [
+    "S9",
+    "S4"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Unclear",
+   "detail": "Sukuk access via Kamco is mentioned (S4). No dedicated Shariah-compliant wealth proposition was found. UGB (to become Burgan Bank Bahrain) will emphasise Islamic financing in wholesale banking (S6).",
+   "source_ids": [
+    "S4",
+    "S6"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "US/international equities",
+   "Mutual funds",
+   "Bonds",
+   "Sukuk",
+   "Structured products",
+   "Private markets / alternatives"
+  ],
+  "partners": [
+   {
+    "partner": "Kamco Invest (group company)",
+    "kind": "Product partner / asset manager",
+    "what": "Supplies funds, bonds, sukuk, structured products, alternatives and private debt mandates to Burgan private-banking clients; co-hosts an annual investment conference",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S4",
+     "S11"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2024-09-09",
+    "what": "Extended private banking services to the Al-Adailiya branch (second PB branch after Al-Shaheed); CMA licences for custody, advisory, portfolio management and brokerage",
+    "source_ids": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Completed acquisition of 100% of United Gulf Bank (USD 190m), bringing UGB's ~60% stake in Kamco Invest into the group; PB/Kamco synergy programme",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Strategy pillars: double retail market share; build best-in-class private banking and wealth management; promote digital offerings for new segments",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2026",
+    "what": "Q1 2026: Euromoney Private Banking Awards 2026 'Best for HNW in Kuwait'; preparing to relaunch the Kanz account",
+    "source_ids": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2026-09-03",
+    "what": "UGB shareholders approved renaming UGB to Burgan Bank Bahrain, focused on wholesale banking for HNW individuals, family offices, corporates and FIs (pending MOIC/CBB approvals)",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2026-09-14",
+    "what": "KD 50m rights issue closed, 133.57% subscribed; Kamco Invest acted as issuance advisor and subscription agent",
+    "source_ids": [
+     "S8"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Building 'best-in-class private banking and wealth management' is a named strategic pillar, alongside 'promote digital offerings for new segments' (FY2025 annual report, S4 p.21).",
+    "Burgan's client channels for wealth are branches, a hotline and online banking. The Burgan App and digital banking pages show no investing features (S10, S12), so there is no evident self-directed or digital wealth channel.",
+    "PB serves HNW/UHNW clients with local and international equities, fixed income and alternatives, using a CMA portfolio-management licence (S9)."
+   ],
+   "barriers": [
+    "The in-group product factory Kamco Invest already supplies funds, bonds, sukuk, structured products and private-market access to Burgan PB clients (S4 p.23), which reduces the need for a third-party product shelf.",
+    "Profit pressure: H1 2026 net profit fell 47% to KWD 11.1m, partly because of higher operating expenses from digital investment (S3, S5).",
+    "Controlled by KIPCO, and group wealth capability sits in Kamco (via UGB), so decisions may be taken at group or Kamco level (S4)."
+   ],
+   "incumbent_vendors": [
+    "Kamco Invest (group asset manager / product provider) (S4)",
+    "First Securities Brokerage Company (group brokerage, via Kamco) (S4)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Executive Management",
+   "publisher": "Burgan Bank",
+   "url": "https://burgan.com/en/executive-management/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "Burgan Bank",
+   "url": "https://burgan.com/en/board-directors/",
+   "doc_type": "Official board page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "Letter 2026/596 to Boursa Kuwait: interim condensed consolidated financial information for the period ended 30 Jun 2026 (results form, KPMG/RSM review report, statements)",
+   "publisher": "Burgan Bank K.P.S.C. via Boursa Kuwait",
+   "url": "https://ifsahdocs.boursakuwait.com.kw/DiscAssets/2026_17703/BB%20letter%20596.pdf",
+   "doc_type": "Exchange disclosure with reviewed interim financial statements (scanned; read visually)",
+   "tier": 1,
+   "published": "2026-07-30",
+   "accessed": "2026-10-12",
+   "language": "ar/en",
+   "note": "Statements are in Arabic; results form is bilingual. Cover letter signed by Khalid Al Zouman as Acting CEO - Kuwait."
+  },
+  {
+   "id": "S4",
+   "title": "Annual Report and Accounts 2025 ('Advancing with Confidence'), incl. audited consolidated financial statements",
+   "publisher": "Burgan Bank K.P.S.C.",
+   "url": "https://burgan.com/en/documents/157/BBAnnualReport2025.pdf",
+   "doc_type": "Annual report with audited financial statements (auditors' report 29 Jan 2026)",
+   "tier": 1,
+   "published": "2026-01-29",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Read with tools/pdftext.py. PDF pages cited; each PDF page is a two-page spread."
+  },
+  {
+   "id": "S5",
+   "title": "Burgan Bank announces financial results for the first half of 2026",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/47340/business/burgan-bank-announces-financial-results-for-the-first-half-of-2026/",
+   "doc_type": "News (results press release)",
+   "tier": 5,
+   "published": "2026-07-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "UGB shareholders approve proposed name change to Burgan Bank Bahrain",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/49616/business/ugb-shareholders-approve-proposed-name-change-to-burgan-bank-bahrain/amp",
+   "doc_type": "News (press release)",
+   "tier": 5,
+   "published": "2026-09-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "KIPCO reaffirms commitment to Burgan Bank and future growth",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/49610/business/kipco-reaffirms-commitment-to-burgan-bank-and-future-growth/",
+   "doc_type": "News (press release)",
+   "tier": 5,
+   "published": "2026-09-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Burgan Bank completes KD 50 million rights issue, oversubscribed 1.34x",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/50314/business/burgan-bank-completes-kd-50-million-rights-issue-oversubscribed-134x/amp",
+   "doc_type": "News (press release)",
+   "tier": 5,
+   "published": "2026-09-23",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "Wealth Management Services",
+   "publisher": "Burgan Bank",
+   "url": "https://burgan.com/en/private-accounts/private-accounts/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Digital Banking",
+   "publisher": "Burgan Bank",
+   "url": "https://burgan.com/en/banking/digital-banking/",
+   "doc_type": "Official product page (footer links the company LinkedIn page)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "Burgan Bank reports its financial results for first quarter of 2026",
+   "publisher": "Kuwait Times",
+   "url": "https://kuwaittimes.com/article/43330/business/burgan-bank-reports-its-financial-results-for-first-quarter-of-2026/",
+   "doc_type": "News (results press release)",
+   "tier": 5,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Publication date not shown in the fetched text; covers Q1 2026."
+  },
+  {
+   "id": "S12",
+   "title": "Burgan Bank private banking expansion",
+   "publisher": "Private Banker International",
+   "url": "https://www.privatebankerinternational.com/news/burgan-bank-private-banking-expansion/",
+   "doc_type": "Trade news",
+   "tier": 5,
+   "published": "2024-09-09",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Burgan Bank names Fadel Mahmoud Abdullah as CEO",
+   "publisher": "People Matters",
+   "url": "https://sea.peoplemattersglobal.com/news/appointments/burgan-bank-names-fadel-mahmoud-abdullah-as-ceo-39734",
+   "doc_type": "Trade news",
+   "tier": 5,
+   "published": "2023-12-11",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Burgan Bank home page",
+   "publisher": "Burgan Bank",
+   "url": "https://burgan.com/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "LinkedIn profile - Omar Khalifouh",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/omar-khalifouh-b792b236",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S16",
+   "title": "LinkedIn profile - Manaf AlMenaifi",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/manaf-almenaifi",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  },
+  {
+   "id": "S17",
+   "title": "LinkedIn profile - Abdullah Marafie",
+   "publisher": "LinkedIn",
+   "url": "https://kw.linkedin.com/in/abdullah-marafie-070a7013",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-08",
+   "language": "en",
+   "note": "URL from the original workbook (marked verified there); not re-opened or re-searched in B25."
+  }
+ ],
+ "original_reconciliation": [
+  {
+   "field": "Institution",
+   "original_value": "Burgan Bank K.P.S.C.",
+   "finding": "Confirmed",
+   "new_value": "Burgan Bank K.P.S.C.",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Country",
+   "original_value": "Kuwait",
+   "finding": "Confirmed",
+   "new_value": "KW",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Institution type",
+   "original_value": "Conventional commercial bank",
+   "finding": "Confirmed",
+   "new_value": "Universal / commercial bank; conventional; Boursa Kuwait-listed regional banking group",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (bn) [formula -> 'burgan_assets_20260630']",
+   "original_value": "9,598,929 KWD thousand (=KWD 9.599bn)",
+   "finding": "Confirmed",
+   "new_value": "KWD 9,598,929 thousand at 30 Jun 2026 (statement of financial position, PDF p.8)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Currency",
+   "original_value": "KWD",
+   "finding": "Confirmed",
+   "new_value": "KWD",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets as of",
+   "original_value": "2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "2026-06-30 (Q3 2026 not found as of 12 Oct 2026)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Deposits (bn) [formula -> 'burgan_customer_deposits_20260630']",
+   "original_value": "5,638,322 KWD thousand",
+   "finding": "Confirmed",
+   "new_value": "KWD 5,638,322 thousand deposits from customers at 30 Jun 2026",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Deposits as of",
+   "original_value": "2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "2026-06-30",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Deposit measure",
+   "original_value": "Deposits from customers",
+   "finding": "Confirmed",
+   "new_value": "'Deposits from customers'; excludes due to banks, due to other FIs and certificates of deposit issued",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Chief executive",
+   "original_value": "Antoine Jean Daher (Tony Daher), Group CEO; Fadel Mahmoud Abdullah, CEO - Kuwait",
+   "finding": "Updated",
+   "new_value": "Daher confirmed as Group CEO (S1, S5, S8). Fadel Mahmoud Abdullah is still listed as CEO - Kuwait on the official page, but the 30 Jul 2026 Boursa letter was signed by Khalid Al Zouman as 'Acting CEO - Kuwait'; status set to Requires verification.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S5",
+    "S8"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Wealth / investment arm",
+   "original_value": "Meshari Abduljalil Ahmad, General Manager - Private Banking & Wealth Management",
+   "finding": "Confirmed",
+   "new_value": "Confirmed on official page (S1); annual report spells the surname 'Shehab' (S4). Group investment capability also via Kamco Invest (kw-kamco).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Business focus",
+   "original_value": "Retail, corporate, treasury, private banking and wealth management; regional banking group with investment-management capabilities through UGB/Kamco Invest",
+   "finding": "Confirmed",
+   "new_value": "Confirmed; segments per annual report: Corporate, Retail, Private & Wealth Management, Treasury/FI/Investments, plus Turkey, Algeria, Tunisia and Bahrain subsidiaries.",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Ownership",
+   "original_value": "KIPCO subsidiary. Burgan acquired 100% of United Gulf Bank in Q1 2025; Kamco Invest is an independently managed Burgan subsidiary through UGB.",
+   "finding": "Updated",
+   "new_value": "KIPCO subsidiary confirmed (effective 61%; PIFSS 8%) (S4). 100% UGB acquisition confirmed for 2025 (USD 190m), but the quarter was not verified. Kamco effective interest was 63.01% at 31 Dec 2025. UGB is being renamed Burgan Bank Bahrain (S6), and a KD 50m rights issue completed Sep 2026 (S8).",
+   "source_ids": [
+    "S4",
+    "S6",
+    "S8"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Research coverage",
+   "original_value": "Public profile and management researched",
+   "finding": "Updated",
+   "new_value": "Re-researched in full 2026-10-12 (batch B25).",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Last prior research",
+   "original_value": null,
+   "finding": "Updated",
+   "new_value": "2026-10-12 (B25)",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Relationship / opportunity",
+   "original_value": "Added at user request, 8 October 2026",
+   "finding": "Could not verify",
+   "new_value": "Internal note - not publicly verifiable; retained as internal context only.",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Website",
+   "original_value": "https://burgan.com/",
+   "finding": "Confirmed",
+   "new_value": "https://burgan.com",
+   "source_ids": [
+    "S14"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Company LinkedIn",
+   "original_value": "https://www.linkedin.com/company/burgan-bank/",
+   "finding": "Confirmed",
+   "new_value": "https://www.linkedin.com/company/burgan-bank (linked from the official website footer)",
+   "source_ids": [
+    "S10"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Gaps / important distinctions: group vs Kuwait figures",
+   "original_value": "Latest verified figures are consolidated group values, not Kuwait-only.",
+   "finding": "Confirmed",
+   "new_value": "Group consolidated; Kuwait was 72% of assets before consolidation adjustments in 2025 (S4).",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Gaps / important distinctions: AUM",
+   "original_value": "No standalone Burgan AUM verified.",
+   "finding": "Confirmed",
+   "new_value": "No bank-level AUM disclosed (see disclosure_checks).",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Gaps / important distinctions: Kamco double counting",
+   "original_value": "Kamco is within the group through UGB; avoid double counting.",
+   "finding": "Confirmed",
+   "new_value": "Kamco is consolidated (63.01% effective via UGB); explained in group_structure.",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Gaps / important distinctions: headquarters",
+   "original_value": "Headquarters: Sharq, Kuwait City.",
+   "finding": "Could not verify",
+   "new_value": "Registered address P.O. Box 5389, Safat 12170, Kuwait (S4); street/district not re-verified in B25.",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Gaps / important distinctions: retail head",
+   "original_value": "Current retail-banking head not confidently verified.",
+   "finding": "Confirmed",
+   "new_value": "No retail head is listed on the official page (S1). The annual report bio of Manaf AlMenaifi lists 'General Manager (Acting) Retail', but its current status is unclear.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Source references (Research notes)",
+   "original_value": "S110, S111, S112, S113, S114, S115",
+   "finding": "Updated",
+   "new_value": "Replaced by field-level sources S1-S17 in this file.",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Prior research source",
+   "original_value": null,
+   "finding": "Confirmed",
+   "new_value": "None",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Assets (USD bn) / Deposits (USD bn) [formulas]",
+   "original_value": "Workbook USD conversion of KWD values",
+   "finding": "Confirmed",
+   "new_value": "Underlying KWD values confirmed; USD conversion done centrally.",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "AUM / AUA (USD bn)",
+   "original_value": "Not found",
+   "finding": "Confirmed",
+   "new_value": "Not publicly disclosed at bank level; Kamco AUM recorded in kw-kamco.",
+   "source_ids": [
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "AUM / AUA measure / as of",
+   "original_value": null,
+   "finding": "Confirmed",
+   "new_value": "n/a",
+   "source_ids": [],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Size metrics: burgan_assets_20260630",
+   "original_value": "9,598,929 KWD thousand, 2026-06-30, BB letter 596",
+   "finding": "Confirmed",
+   "new_value": "9,598,929 KWD thousand (PDF p.8; results form PDF p.2)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Size metrics: burgan_customer_deposits_20260630",
+   "original_value": "5,638,322 KWD thousand, 2026-06-30",
+   "finding": "Confirmed",
+   "new_value": "5,638,322 KWD thousand (PDF p.8)",
+   "source_ids": [
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Antoine Jean Daher - Group Chief Executive Officer",
+   "original_value": "Verified current official role; LinkedIn not verified",
+   "finding": "Confirmed",
+   "new_value": "Listed 12 Oct 2026; quoted 23 Sep 2026; LinkedIn still not verified.",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Fadel Mahmoud Abdullah - Chief Executive Officer - Kuwait",
+   "original_value": "Verified current official role",
+   "finding": "Updated",
+   "new_value": "Still on the official page, but Khalid Al Zouman signed as Acting CEO - Kuwait on 30 Jul 2026; Requires verification.",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Khalid Fahed Al Zouman - Group Chief Financial Officer",
+   "original_value": "Verified current official role",
+   "finding": "Confirmed",
+   "new_value": "Confirmed; also signed as Acting CEO - Kuwait (30 Jul 2026).",
+   "source_ids": [
+    "S1",
+    "S3"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Mohammad Najeeb Al-Zanki - General Manager - Corporate Banking",
+   "original_value": "Verified current official role",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (S1); bio added from annual report.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Abdullah Abdulmajeed Marafie - General Manager - Treasury & Financial Institutions",
+   "original_value": "Verified; LinkedIn kw.linkedin.com/in/abdullah-marafie-070a7013 (verified)",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (S1); LinkedIn kept as carried over.",
+   "source_ids": [
+    "S1",
+    "S17"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Meshari Abduljalil Ahmad - General Manager - Private Banking & Wealth Management",
+   "original_value": "Verified current official role; 2024 annual report used 'Shehab'",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (S1); FY2025 annual report also uses 'Shehab'. LinkedIn not verified.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Material"
+  },
+  {
+   "field": "Person: Manaf Khaled AlMenaifi - General Manager - Strategic Planning & Monitoring",
+   "original_value": "Verified; LinkedIn kw.linkedin.com/in/manaf-almenaifi (verified)",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (S1); LinkedIn kept as carried over.",
+   "source_ids": [
+    "S1",
+    "S16"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Omar Khaled Khalifouh - Deputy General Manager - Digital Transformation",
+   "original_value": "Verified; LinkedIn kw.linkedin.com/in/omar-khalifouh-b792b236 (verified)",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (S1); LinkedIn kept as carried over.",
+   "source_ids": [
+    "S1",
+    "S15"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Mishary Yousef AlEssa - Deputy General Manager - Investments",
+   "original_value": "Verified current official role",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (S1); ex-Kamco VP Alternative Investments, UGB board member (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Barrak Jassem AlMattar - General Manager - Information Technology",
+   "original_value": "Verified current official role",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (S1).",
+   "source_ids": [
+    "S1"
+   ],
+   "materiality": "Minor"
+  },
+  {
+   "field": "Person: Venkatakrishnan Menon - Chief Operating Services Officer",
+   "original_value": "Verified current official role",
+   "finding": "Confirmed",
+   "new_value": "Confirmed (S1); former Chief Retail Banking Officer (S4).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "materiality": "Minor"
+  }
+ ],
+ "discrepancies": [
+  {
+   "field": "CEO - Kuwait",
+   "detail": "Official Executive Management page (checked 12 Oct 2026) and FY2025 annual report list Fadel Mahmoud Abdullah as CEO - Kuwait. The bank's 30 Jul 2026 Boursa cover letter (ref. 2026/596) is signed by Khalid Fahed Al Zouman as 'الرئيس التنفيذي - الكويت بالوكالة' (Acting CEO - Kuwait).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "resolution": "Unresolved. It may be a temporary delegation; Fadel kept with role_status 'Requires verification'."
+  },
+  {
+   "field": "Private banking head surname",
+   "detail": "Official page uses 'Meshari Abduljalil Ahmad'; FY2025 annual report and Private Banker International use 'Meshari Abduljalil Shehab'.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S12"
+   ],
+   "resolution": "Same person and title; recorded as 'Meshari Abduljalil Ahmad (Shehab)'."
+  },
+  {
+   "field": "Kamco ownership",
+   "detail": "Annual report narrative says UGB holds a 60% stake in Kamco Invest; the subsidiaries note gives a 63.01% effective interest at 31 Dec 2025.",
+   "source_ids": [
+    "S4"
+   ],
+   "resolution": "Used 63.01% effective (note); 60% is presumably the direct UGB holding."
+  }
+ ],
+ "open_items": [
+  "Confirm whether Fadel Mahmoud Abdullah is still CEO - Kuwait or whether Khalid Al Zouman's 'Acting CEO - Kuwait' signature (30 Jul 2026) reflects a change; check Boursa Kuwait disclosures for an announcement.",
+  "Boursa Kuwait ticker not confirmed from an official source in this batch (left null).",
+  "No named retail-banking head on the official page; the annual report bio of Manaf AlMenaifi lists 'General Manager (Acting) Retail'.",
+  "KIPCO's shareholding after the Sep 2026 rights issue was not found; the 61% (effective) figure is from the FY2025 annual report.",
+  "Q3 2026 (30 Sep 2026) results were not found as of 12 Oct 2026.",
+  "Press center and financial-information pages on burgan.com load dynamically and could not be read by fetch; the 2026 press releases were taken from Kuwait Times.",
+  "LinkedIn: searches for Tony Daher and Meshari Shehab returned no matching profile. Others with no carried-over URL were not checked.",
+  "Private banking eligibility thresholds are not published."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B25",
+ "checked": "2026-10-12"
+}

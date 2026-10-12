@@ -1,0 +1,1527 @@
+{
+ "id": "bh-nbb",
+ "name": "National Bank of Bahrain",
+ "short_name": "NBB",
+ "legal_name": "National Bank of Bahrain B.S.C.",
+ "name_ar": "بنك البحرين الوطني",
+ "country": "BH",
+ "hq_city": "Manama",
+ "website": "https://nbbonline.com",
+ "linkedin_company": "https://www.linkedin.com/company/nationalbankofbahrain",
+ "category": "Bank",
+ "type": "Universal / commercial bank",
+ "model": "Conventional with Islamic window/subsidiary",
+ "founded": "1957 (incorporated by Amiri decree in January 1957; Bahrain's first locally owned bank)",
+ "regulators": [
+  "CBB (licensed as a conventional retail bank)",
+  "Bahrain Bourse (listed issuer)"
+ ],
+ "listed": true,
+ "exchange": "Bahrain Bourse",
+ "ticker": "NBB",
+ "parent_id": null,
+ "ownership_summary": "Listed on Bahrain Bourse (code NBB). Bahrain Mumtalakat Holding Company holds 44.06% (on behalf of the Government of Bahrain per the Bourse shareholder list) and the Social Insurance Organisation 10.85%; the remaining 45.09% is private and institutional (AR 2025, 31 Dec 2025). NBB has controlled Bahrain Islamic Bank since 2020 (80.2% at 30 Jun 2026). A non-binding MoU to explore a merger with BBK was signed on 2 Nov 2025 and negotiations on terms were still under way in Jul 2026; Group CEO Usman Ahmed's resignation (last day 31 Dec 2026) was announced on 30 Sep 2026.",
+ "shareholders": [
+  {
+   "holder": "Bahrain Mumtalakat Holding Company B.S.C. (c) (on behalf of the Government of Bahrain)",
+   "pct": 44.06,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S4",
+    "S8"
+   ]
+  },
+  {
+   "holder": "Social Insurance Organisation (GOSI, Civil Pension Fund and Military Pension Fund)",
+   "pct": 10.85,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S4",
+    "S8"
+   ]
+  },
+  {
+   "holder": "Private and institutional shareholders (aggregate, none named above 5%)",
+   "pct": 45.09,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "government_link": "Yes - Bahrain Mumtalakat Holding Company (sovereign wealth fund) 44.06% and Social Insurance Organisation 10.85% (as of 31 Dec 2025); Mumtalakat appoints four of eleven board members and SIO one (AR 2025 governance report).",
+ "group_structure": "NBB Group's consolidated statements include NBB and one subsidiary, Bahrain Islamic Bank B.S.C. (BisB; 80.2% at 30 Jun 2026 vs 78.8% at 31 Dec 2025 per S3; Bahrain Bourse shareholder list shows 80.23%). BisB is profiled separately (bh-bisb): NBB's consolidated assets, deposits and profit already include BisB, so never add the two. Overseas branches in Abu Dhabi/Dubai (UAE) and Riyadh (KSA) are part of NBB itself. BBK (bh-bbk) is a separate listed bank; a potential NBB-BBK merger is under discussion (not completed at 12 Oct 2026), so BBK figures must not be added to NBB.",
+ "subsidiaries": [
+  {
+   "name": "Bahrain Islamic Bank B.S.C.",
+   "pct": 80.2,
+   "activity": "Islamic retail bank (separate CBB licence, balance sheet and brand)",
+   "linked_id": "bh-bisb",
+   "source_ids": [
+    "S3",
+    "S30"
+   ]
+  }
+ ],
+ "footprint": "Bahrain (20 branches), UAE (Abu Dhabi and Dubai branches) and KSA (Riyadh branch): 3 overseas branches; plus 7 BisB branches = 30 branches in total (31 Dec 2025). 867 employees (776 Bahrain, 40 KSA, 51 UAE) per AR 2025.",
+ "customer_segments": "Retail (mass market, Prestige Banking affluent tier), Private Banking (HNW/UHNW, family offices), Strategic Accounts (ultra-high-net-worth individuals, government entities and institutional relationships), corporate, commercial and SME, financial institutions, regional (KSA, UAE).",
+ "business_lines": "Retail Banking (incl. Prestige Banking, digital NBB app, Al Watani Trade brokerage); Group Corporate & Commercial Banking; Group Markets & Client Solutions (Corporate Finance, Transaction Banking, Treasury & Capital Markets incl. a dedicated Wealth Management unit and Intermediary & Custody Services); Strategic Accounts; Private Banking; Regional Banking (KSA and UAE); Islamic banking through BisB.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 6372.1,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated (NBB and BisB)",
+   "definition": "Total assets, condensed consolidated statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5",
+    "S2"
+   ],
+   "locator": "S3 PDF p.4 (printed p.2); S5 press release",
+   "note": "Includes BisB in full; NBB reports in BHD millions to one decimal. Q3 2026 results not on the IR page (S2) at 12 Oct 2026."
+  },
+  {
+   "metric": "total_assets",
+   "value": 6276.6,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 PDF p.72; S3 PDF p.4 comparative",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 4480.9,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits'; excludes 'Due to banks and other financial institutions' (BHD 633.3m) and 'Borrowings under repurchase agreements' (BHD 536.5m)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.4",
+   "note": "Up 12% from 31 Dec 2025 per management (S5)."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 3966.2,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Customer deposits' as audited in the 2025 annual report",
+   "status": "Conflicting sources",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.72 and p.4 five-year summary",
+   "note": "The 30 Jun 2026 interim statements re-present the 31 Dec 2025 comparative as BHD 4,015.5m (due to banks shown as 894.7 vs 941.2 audited); see discrepancies."
+  },
+  {
+   "metric": "net_loans",
+   "value": 3384.7,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances to customers', net of impairment loss allowance of BHD 87.7m (note 8)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.4; note 8 PDF p.12",
+   "note": ""
+  },
+  {
+   "metric": "net_loans",
+   "value": 3186.2,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'Loans and advances to customers' (net)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S3"
+   ],
+   "locator": "S4 PDF p.72",
+   "note": ""
+  },
+  {
+   "metric": "gross_loans",
+   "value": 3472.4,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Gross loans and advances to customers before impairment allowance (note 8a, stages 1-3 and POCI)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.12",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 565.1,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity incl. non-controlling interest BHD 14.5m; equity attributable to the Bank's shareholders BHD 550.6m",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.4",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 199.8,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total operating income' (net interest income 141.0 + other income 58.8)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.4 five-year summary",
+   "note": "H1 2026: BHD 102.8m (S3 PDF p.5), vs BHD 106.1m in H1 2025 which included a BHD 9.7m land-sale gain at BisB."
+  },
+  {
+   "metric": "operating_income",
+   "value": 102.8,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'Total operating income', six months ended 30 Jun 2026 (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.5",
+   "note": "Q2 2026 alone: BHD 53.9m."
+  },
+  {
+   "metric": "net_profit",
+   "value": 85.1,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to the shareholders of the Bank (record; +4% y/y)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.7 and p.15",
+   "note": ""
+  },
+  {
+   "metric": "net_profit",
+   "value": 43.1,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit attributable to the shareholders of the Bank, six months to 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S5"
+   ],
+   "locator": "S3 PDF p.5",
+   "note": "Total profit for the period BHD 44.2m; H1 2025 attributable BHD 47.5m incl. one-off BisB land-sale gain; normalised +10% (S5). Q2 2026 attributable BHD 22.5m."
+  },
+  {
+   "metric": "aua",
+   "value": 280.2,
+   "unit": "million",
+   "currency": "BHD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "'Assets under administration' administered on behalf of customers, not on balance sheet (note 30)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.86 (note 30)",
+   "note": "Note 30 is headed 'Assets under management' but its text says assets under administration; 31 Dec 2024: BHD 306.7m. Treated as AUA, not AUM."
+  },
+  {
+   "metric": "capital_adequacy_ratio",
+   "value": 19.8,
+   "unit": "percent",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total capital adequacy ratio (CET1 ratio 19.0%)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "S3 PDF p.23 (note 18)",
+   "note": "31 Dec 2025: 20.5% (CET1 19.6%)."
+  },
+  {
+   "metric": "employees",
+   "value": 867,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "NBB (Bahrain 776, KSA 40, UAE 51)",
+   "definition": "Total employees across NBB",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.6 and p.8",
+   "note": "AR does not say whether BisB staff are included."
+  },
+  {
+   "metric": "branches",
+   "value": 30,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group",
+   "definition": "20 in Bahrain, 3 overseas and 7 under BisB",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.7",
+   "note": ""
+  },
+  {
+   "metric": "wealth_management_revenue_growth",
+   "value": 103,
+   "unit": "percent",
+   "currency": null,
+   "period_end": "2026-03-31",
+   "period_label": "Q1 2026 vs Q1 2025",
+   "period_type": "duration",
+   "scope": "NBB wealth management business (launched 2025)",
+   "definition": "Year-on-year growth in Wealth Management revenue as stated by management; absolute revenue not disclosed",
+   "status": "Verified",
+   "source_ids": [
+    "S6",
+    "S7"
+   ],
+   "locator": "S6 PDF p.3; S7 PDF p.3",
+   "note": "Growth rate only."
+  },
+  {
+   "metric": "structured_deposits_aum_growth",
+   "value": 174,
+   "unit": "percent",
+   "currency": null,
+   "period_end": "2026-03-31",
+   "period_label": "Q1 2026 vs Q1 2025",
+   "period_type": "duration",
+   "scope": "NBB wealth management business",
+   "definition": "Year-on-year growth in 'Structuring Deposits AUM' (presentation wording) / 'structured deposits, assets under management' (call wording); absolute amount not disclosed",
+   "status": "Verified",
+   "source_ids": [
+    "S6",
+    "S7"
+   ],
+   "locator": "S6 PDF p.3; S7 PDF p.3",
+   "note": "Growth rate only; no AUM amount given."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "aum",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 (S4; note 30 is headed AUM but states assets under administration of BHD 280.2m, recorded as aua), H1 2026 statements (S3), 10 Aug 2026 press release (S5), Q1 2026 presentation and call transcript (S6, S7; only growth rates given)."
+  },
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "S4, S5, S6, S7; no private-banking or wealth client-asset figure."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "S4 gives growth in retail customers (8% in 2025) and digital adoption percentages but no customer count; S5, S6."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "S6/S7 say ~70% of T-bill subscriptions are now digital; no user count. Al Watani Trade page (S19) gives no user figure."
+  },
+  {
+   "metric": "brokerage_trading_value",
+   "status": "Not found after research",
+   "where_checked": "S4, S19."
+  }
+ ],
+ "people": [
+  {
+   "name": "Hala Ali Husain Yateem",
+   "name_ar": null,
+   "title": "Chairperson (Independent)",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2018-03",
+   "appointed_note": "Joined the Board in March 2018, elected by shareholders; date she became Chairperson not stated on the sources opened.",
+   "previous_roles": "27+ years in business management, banking and investment. Former board member of Edamah, Yateem Oxygen, Bahrain Tourism Company, Bahrain Family Business Association, Bahrain Businesswomen's Association. Current: Director, Bahrain Economic Development Board; Director, A.M. Yateem Brothers, Ali Hussain Yateem Holding and Yateem Real Estate; Trustee, American University of Bahrain; Deputy Chair, Al Rahma Society.",
+   "education": "Bachelor's degree in Entrepreneurship and Investments, Babson College; Certificate in Blockchain for Business, Columbia Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S1); signed the 30 Jun 2026 statements and quoted in the 10 Aug 2026 release (S3, S5); Bourse key-persons list (S9).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S5",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Yusuf Abdulla Yusuf Akbar Alireza",
+   "name_ar": null,
+   "title": "Vice Chairperson (Independent)",
+   "functions": [
+    "Board"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not stated; biography not extracted from the board page modal.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page checked 2026-10-12 (S1); signed the 30 Jun 2026 statements as Vice Chairperson (S3).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Usman Ahmed",
+   "name_ar": null,
+   "title": "Group Chief Executive Officer",
+   "functions": [
+    "Group CEO",
+    "CEO",
+    "Board"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2023-01",
+   "appointed_note": "Group CEO since 1 Jan 2023 (succeeded Jean-Christophe Durand). Resignation announced on the Bourse on 30 Sep 2026; final day 31 Dec 2026; successor search under way (S14, S15). Also Vice Chairman of Bahrain Islamic Bank.",
+   "previous_roles": "30+ years in international banking. Previously CEO and Executive Board Director, Citi Malaysia; Executive Chairman, Citigroup Global Markets Malaysia; CEO and MD, Citi Bahrain, Kuwait and Qatar and Global Head of Citi Islamic Banking; COO and MD, Citi Asia Pacific Corporate Bank (Hong Kong); Head of Corporate & Commercial Banking for Emerging Markets, Barclays (Dubai); Citi London capital markets origination (S1).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": "https://bh.linkedin.com/in/usman-ahmed-4178ab17",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Still in post until 31 Dec 2026: Official leadership page (S1, 2026-10-12) lists him; Bourse announcement 'Resignation of Chief Executive Officer' dated 30 Sep 2026 (title seen in listing S14, detail page not opened - Cloudflare check); GDN 1 Oct 2026 reports final day 31 Dec 2026 (S15). LinkedIn: search result 'Usman Ahmed - Group CEO, National Bank of Bahrain' (S29), profile not opened.",
+   "source_ids": [
+    "S1",
+    "S14",
+    "S15",
+    "S29"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdul Aziz Al Ahmed",
+   "name_ar": null,
+   "title": "Chief Executive - Strategic Accounts",
+   "functions": [
+    "Private banking",
+    "Wealth",
+    "CEO"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Strategic Accounts",
+   "scope": "Group",
+   "appointed": "1974",
+   "appointed_note": "Joined NBB in 1974.",
+   "previous_roles": "52 years with NBB. Previously Chief Executive of Retail, Commercial and SMEs and Corporate Businesses; General Manager of Retail Banking, Commercial Banking and Corporate Banking. Vice Chairman, Takaful International Company (GIG Takaful); Board, Bahrain Commercial Facilities Company. Oversees relationships with ultra-high-net-worth individuals and strategic government entities (S1).",
+   "education": "Executive Diploma, University of Virginia",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1); Bourse key-persons list (S9).",
+   "source_ids": [
+    "S1",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Subah Abdullatif Al Zayani",
+   "name_ar": null,
+   "title": "Chief Executive - Retail Banking",
+   "functions": [
+    "Retail",
+    "Digital",
+    "CEO"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Retail Banking (incl. Prestige Banking)",
+   "scope": "Group",
+   "appointed": "2019",
+   "appointed_note": "Joined NBB in 2019 as Head of Retail Banking.",
+   "previous_roles": "28 years' professional experience incl. 19 in banking: military service, Batelco, then senior retail/digital transformation/product roles; Deputy Head of Retail Banking, Kuwait Finance House - Bahrain. Chairman, Retail Banking Committee, Bahrain Association of Banks (S1).",
+   "education": "B.S. Business Administration, The Citadel; M.S. Computer Information Systems, American University (Washington D.C.); Executive FinTech accreditation, Georgetown University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1); Bourse key-persons list (S9).",
+   "source_ids": [
+    "S1",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ali Abdulkarim",
+   "name_ar": null,
+   "title": "Group Chief Executive - Corporate & Commercial Banking",
+   "functions": [
+    "Corporate / wholesale",
+    "CEO"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Group Corporate & Commercial Banking",
+   "scope": "Group",
+   "appointed": "2018",
+   "appointed_note": "Joined NBB in 2018; previously Group Head of Coverage.",
+   "previous_roles": "28+ years in banking: Ahli Commercial Bank; Executive Director, MUFG Bank (UAE) and head of Financial Institutions and Sovereign Wealth Funds MENA; Managing Director, Financial Institutions (Islamic banking division), Credit Agricole CIB UAE (S1).",
+   "education": "Associate Diploma in Accounting, University of Bahrain; Certificate in Management, London Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1); Bourse key-persons list (S9).",
+   "source_ids": [
+    "S1",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Husain Almohri",
+   "name_ar": null,
+   "title": "Group Chief Executive - Markets & Client Solutions",
+   "functions": [
+    "Treasury",
+    "Investments / asset management",
+    "CEO"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Group Markets & Client Solutions (Corporate Finance, Transaction Banking, Treasury & Capital Markets)",
+   "scope": "Group",
+   "appointed": "2026-01",
+   "appointed_note": "Announced 18 Nov 2025 (GDN), effective 4 Jan 2026; official page states joined January 2026. Also NBB representative on the BisB board from 12 Apr 2026 and a director of SICO.",
+   "previous_roles": "20+ years in trading, treasury and capital markets across MENAT: Managing Director - Head of Trading MENAT and Regional Head of MENA Markets, HSBC Investment Bank (Dubai); earlier Credit Agricole CIB, Investcorp, Ahli United Bank (S1).",
+   "education": "BSc Business Administration, New York Institute of Technology; Associate Diploma in Business Management, University of Bahrain",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1); GDN 18 Nov 2025 (S25); Bourse key-persons list (S9). LinkedIn search not run for him (search quota).",
+   "source_ids": [
+    "S1",
+    "S9",
+    "S25"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohsin Rahim",
+   "name_ar": null,
+   "title": "Group Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Group Finance, ALM and Investor Relations",
+   "scope": "Group",
+   "appointed": "2024",
+   "appointed_note": "Joined NBB in 2024.",
+   "previous_roles": "26+ years, mainly Citigroup: CFO of Citigroup US Personal Banking & Wealth Management Operations, Citigroup China and Citigroup Philippines (S1).",
+   "education": "Bachelor's in Commerce, University of Karachi; MBA, University of La Verne",
+   "qualifications": "General Securities Series 7 and SIE certifications",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1); Bourse key-persons list (S9).",
+   "source_ids": [
+    "S1",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Zaina Alzayani",
+   "name_ar": null,
+   "title": "Group Chief Strategy and Sustainability Officer",
+   "functions": [
+    "Strategy"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Strategy and Sustainability",
+   "scope": "Group",
+   "appointed": "2017",
+   "appointed_note": "Joined NBB in 2017.",
+   "previous_roles": "20+ years in M&A transaction support, investment management and compliance; supported the 2020 BisB acquisition and leads post-acquisition integration; responsible for the Bank's 3-year growth strategy and proprietary equity portfolio. Earlier Head of Exchange of Financial Information, Central Bank of Bahrain; Manager, Ernst & Young (S1).",
+   "education": "MBA, DePaul University; Bachelor of Commerce in Finance, Concordia University",
+   "qualifications": "ICA International Diploma in Compliance",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1).",
+   "source_ids": [
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Razi Amin",
+   "name_ar": null,
+   "title": "Group Chief Technology Officer",
+   "functions": [
+    "Technology",
+    "Digital"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Technology / Digital Transformation",
+   "scope": "Group",
+   "appointed": "2017",
+   "appointed_note": "Joined NBB in 2017 as Senior IT Manager.",
+   "previous_roles": "26 years in banking: Executive Director, First Energy Bank (digital infrastructure); managerial roles at Bank of Bahrain & Kuwait (S1).",
+   "education": "Bachelor's in Computer Science, UAE University; Chief Technology Officer Executive Programme, Cambridge Judge Business School",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1); Bourse key-persons list (S9). LinkedIn search not run (search quota).",
+   "source_ids": [
+    "S1",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Bassam AlTattan",
+   "name_ar": null,
+   "title": "Head of Private Banking",
+   "functions": [
+    "Private banking",
+    "Wealth"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Private Banking",
+   "scope": "Group (Bahrain, KSA, UAE)",
+   "appointed": "2025",
+   "appointed_note": "Joined NBB in 2025; appointment reported by GDN on 12 Sep 2025.",
+   "previous_roles": "18 years in GCC financial services: senior roles in Ahli United Bank's Private Banking Group, latterly Head of Private Banking Group (Bahrain, Kuwait, Qatar); earlier BNP Paribas and relationship manager at The Family Office (S1, S24).",
+   "education": "Bachelor's in Economics and Management, University of Leeds",
+   "qualifications": "Fixed Income & Equities (Wellington Management); Banking & Finance (New York Institute of Finance); FAP Level 3 (BIBF)",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official leadership page checked 2026-10-12 (S1); GDN 12 Sep 2025 (S24). A LinkedIn profile search on 2026-10-12 returned no match.",
+   "source_ids": [
+    "S1",
+    "S24"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ali Janahi",
+   "name_ar": null,
+   "title": "Head of Wealth Management",
+   "functions": [
+    "Wealth",
+    "Investments / asset management"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Wealth Management (within Treasury & Capital Markets)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Title taken from a Oct 2025 press report; not on the official leadership page; appointment date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Quoted as 'head of wealth management' in GDN article of 20 Oct 2025 on the digital T-bills launch (S21); not listed on NBB leadership page (S1) or Bourse key-persons list (S9). LinkedIn search returned only a colleague's post naming him.",
+   "source_ids": [
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Yusuf Ahmed Abdulla",
+   "name_ar": null,
+   "title": "Head of Prestige Banking",
+   "functions": [
+    "Affluent",
+    "Retail",
+    "Wealth"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Retail Banking - Prestige Banking",
+   "scope": "Bahrain",
+   "appointed": "2025-08",
+   "appointed_note": "Appointment reported by GDN on 14 Aug 2025.",
+   "previous_roles": "20+ years in wealth management and private banking: Julius Baer (latterly Director, Private Banking, Bahrain), Citibank, Mashreq Bank, HSBC (S23).",
+   "education": "Bachelor's in Business Information Technology, Coventry University; training at Wharton and the Chartered Insurance Institute",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Single press source (GDN 14 Aug 2025, S23); not on NBB leadership page (S1).",
+   "source_ids": [
+    "S23"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Kumail Al Noaimi",
+   "name_ar": null,
+   "title": "Group Head of Capital Market Sales & Distribution",
+   "functions": [
+    "Investments / asset management",
+    "Wealth"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Treasury & Capital Markets - Capital Market Sales & Distribution",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Listed as 'Kumaill Alnoaimi, Group Head of Capital Market Sales & Distribution' on the Bahrain Bourse key-persons list (S9, undated); quoted with this title on NBB's bond/sukuk market-making and custody upgrade, GDN 30 Oct 2025 (S22). A LinkedIn search result shows 'Kumail Al Noaimi - National Bank of Bahrain' (title not shown), so no LinkedIn URL is recorded.",
+   "source_ids": [
+    "S9",
+    "S22"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Omar Al Adhami",
+   "name_ar": null,
+   "title": "Head of Retail Digital Banking",
+   "functions": [
+    "Digital",
+    "Retail"
+   ],
+   "entity": "National Bank of Bahrain B.S.C.",
+   "business_unit": "Retail Banking - Digital",
+   "scope": "Bahrain",
+   "appointed": null,
+   "appointed_note": "Date not found.",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Quoted as 'head of retail digital banking' on the digital T-bills launch, GDN 20 Oct 2025 (S21); not on NBB leadership page. A LinkedIn search result shows 'Omar Al Adhami - National Bank of Bahrain' (title not shown), so no LinkedIn URL is recorded.",
+   "source_ids": [
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "NBB built a wealth franchise during 2025: Treasury & Capital Markets created a dedicated Wealth Management unit (fixed income, equities, structured products, alternatives) aimed at emerging affluent and HNW clients, Private Banking got a new head (Bassam AlTattan, Sep 2025) and a digital wealth platform inside the NBB app now handles Treasury bills, government securities and sukuk. Management said ~70% of T-bill subscriptions come through digital channels, wealth revenue grew +103% y/y in Q1 2026 and structured-deposit AUM +174% y/y, and that the offer will add asset classes and explore regional expansion in 2026. Prestige Banking (affluent) lists stocks, bonds, sukuk, T-bills and structured products; Intermediary & Custody Services (bonds, sukuk, T-bills) starts at USD 200,000. Equity trading on Bahrain Bourse is offered through the Al Watani Trade app. No funds shelf, model portfolios or AUM figure was found; assets under administration were BHD 280.2m at 31 Dec 2025. The Islamic side sits in 80%-owned BisB, which has Allfunds and Societe Generale partnerships (see bh-bisb).",
+  "segments": [
+   {
+    "name": "Prestige Banking",
+    "tier": "Affluent",
+    "eligibility": "No threshold published on the page; Prestige Banking sits in Retail Banking (head: Yusuf Ahmed Abdulla, per press).",
+    "source_ids": [
+     "S18",
+     "S23"
+    ]
+   },
+   {
+    "name": "Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "No threshold published; invitation-only Mastercard World Elite Exclusive card for the tier.",
+    "source_ids": [
+     "S17",
+     "S4"
+    ]
+   },
+   {
+    "name": "Strategic Accounts",
+    "tier": "UHNW / government",
+    "eligibility": "Relationship-led unit for UHNW and HNW individuals and government/institutional relationships; no threshold published.",
+    "source_ids": [
+     "S4",
+     "S1"
+    ]
+   },
+   {
+    "name": "Intermediary & Custody Services",
+    "tier": "HNW / institutional",
+    "eligibility": "Minimum investment USD 200,000 (or equivalent), for corporates, institutions, family offices, HNW individuals and insurers.",
+    "source_ids": [
+     "S16"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Private Banking division for UHNW, HNW and family-office clients, integrated across Bahrain, KSA and UAE; led by Bassam AlTattan (joined 2025, ex-Ahli United Bank). Exploring trust and company formation through third-party partners and UK property/mortgage solutions; April 2026 collaboration with BLME for UK property finance (press, search result only).",
+   "source_ids": [
+    "S4",
+    "S1",
+    "S17",
+    "S27"
+   ]
+  },
+  "asset_management": {
+   "present": "Not found after research",
+   "detail": "No in-house asset-management entity or fund range found. Treasury & Capital Markets has Portfolio Management (proprietary investments) and the Wealth Management unit;",
+   "source_ids": [
+    "S4",
+    "S9"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Al Watani Trade: online trading of stocks and other instruments directly on Bahrain Bourse (web/app; launched May 2019 per press, platform listed under Global Trading Network). Onboarding online or via branch with a minimum deposit.",
+   "source_ids": [
+    "S19",
+    "S20",
+    "S26"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "NBB Digital app: wealth management capabilities (government securities, T-bills, sukuk) launched 2025 (investor presentation dates the platform to Aug 2025; press unveiled the digital T-bills flow on 20 Oct 2025); ~70% of T-bill subscriptions now digital (Q1 2026). Al Watani Trade is a separate trading app. End-to-end digital loan origination also launched in 2025.",
+   "source_ids": [
+    "S4",
+    "S6",
+    "S7",
+    "S21"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Prestige Banking advertises 'tailored wealth management' and bespoke financial planning; Private Banking offers personalised financial planning and investment advisory; Strategic Accounts RMs promote wealth products to HNW/UHNW and public-sector clients.",
+   "source_ids": [
+    "S17",
+    "S18",
+    "S4",
+    "S1"
+   ]
+  },
+  "discretionary": {
+   "present": "Unclear",
+   "detail": "Head of Private Banking oversees 'investment advisory, portfolio management and tailored financial solutions' (official bio); no discretionary mandate product or fee schedule found.",
+   "source_ids": [
+    "S1"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No model portfolios or robo-advisory found on NBB pages or in AR 2025/Q1 2026 materials.",
+   "source_ids": [
+    "S4",
+    "S6",
+    "S16",
+    "S18"
+   ]
+  },
+  "funds_platform": {
+   "present": "Not found after research",
+   "detail": "No third-party mutual-fund shelf or platform provider found for NBB (Prestige/Private pages list stocks, bonds, sukuk, T-bills, structured products, alternatives). BisB (subsidiary) partnered with Allfunds in 2025.",
+   "source_ids": [
+    "S17",
+    "S18",
+    "S4"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "Prestige Banking page lists 'Structured Products Offering: capital protection and growth'; AR 2025 says the Wealth Management unit offers structured products; Q1 2026 deck cites structured-deposit AUM +174% y/y. Issuer/manufacturer not named.",
+   "source_ids": [
+    "S18",
+    "S4",
+    "S6"
+   ]
+  },
+  "private_markets": {
+   "present": "Unclear",
+   "detail": "AR 2025 lists 'alternative investments' within the wealth unit's product suite and the Private Banking page mentions 'alternatives'; no named funds or platforms found.",
+   "source_ids": [
+    "S4",
+    "S17"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Sukuk access via NBB Digital and Intermediary & Custody Services; Shariah-compliant investing sits mainly in BisB (80.2%-owned): Islamic credit-linked note, Allfunds-based Shariah fund access.",
+   "source_ids": [
+    "S4",
+    "S16",
+    "S22"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "Bonds",
+   "Sukuk",
+   "Structured products",
+   "Private markets / alternatives"
+  ],
+  "partners": [
+   {
+    "partner": "Global Trading Network (GTN)",
+    "kind": "Brokerage / trading platform technology",
+    "what": "Al Watani Trade login is hosted on watanitrade.globaltradingnetwork.com (link on NBB site) and the App Store listing names GTN as developer (search result); exact role not described.",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S20",
+     "S26"
+    ]
+   },
+   {
+    "partner": "Mubasher Financial Services",
+    "kind": "Online trading platform development",
+    "what": "Press at launch (May 2019) says Al Watani Trade was developed with Mubasher / 'Bahrain Trade'; current relationship not confirmed.",
+    "date": "2019-05",
+    "status": "Unclear",
+    "source_ids": [
+     "S26"
+    ]
+   },
+   {
+    "partner": "Bank of London and The Middle East (BLME)",
+    "kind": "Product partner (UK Shariah property finance)",
+    "what": "Strategic collaboration giving eligible NBB HNW clients access to UK residential, investment and buy-to-let financing; signed at NBB HQ.",
+    "date": "2026-04",
+    "status": "Announced",
+    "source_ids": [
+     "S27"
+    ]
+   },
+   {
+    "partner": "Beyon Connect / Information & eGovernment Authority",
+    "kind": "Digital identity",
+    "what": "First bank in Bahrain to adopt the national eKey for digital onboarding (2025).",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "partner": "Tarabut Gateway",
+    "kind": "Open banking",
+    "what": "NBB website links an Open Banking developer portal hosted on tarabutgateway.io (sandbox); AR 2025 mentions open-banking participation.",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S20",
+     "S4"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2025-08",
+    "what": "Digital wealth platform launched in NBB Digital (date from Q1 2026 investor presentation; press unveiled the digital T-bills flow on 20 Oct 2025).",
+    "source_ids": [
+     "S6",
+     "S21"
+    ]
+   },
+   {
+    "date": "2025-08-14",
+    "what": "Yusuf Ahmed Abdulla named head of Prestige Banking (press).",
+    "source_ids": [
+     "S23"
+    ]
+   },
+   {
+    "date": "2025-09-12",
+    "what": "Bassam AlTattan appointed Head of Private Banking.",
+    "source_ids": [
+     "S24",
+     "S1"
+    ]
+   },
+   {
+    "date": "2025-10-30",
+    "what": "Upgraded fixed-income offer: stronger bond/sukuk market-making and expanded custody for institutional and individual clients (press).",
+    "source_ids": [
+     "S22"
+    ]
+   },
+   {
+    "date": "2025-11-02",
+    "what": "Non-binding MoU with Bank of Bahrain and Kuwait (BBK) to start reciprocal due diligence and negotiate terms of a potential merger.",
+    "source_ids": [
+     "S10",
+     "S4"
+    ]
+   },
+   {
+    "date": "2026-01-04",
+    "what": "Husain Almohri takes over Group Chief Executive - Markets & Client Solutions (announced 18 Nov 2025).",
+    "source_ids": [
+     "S25",
+     "S1"
+    ]
+   },
+   {
+    "date": "2026-03-03",
+    "what": "NBB and BBK stated they were continuing their reciprocal due diligence for the potential merger; at BBK's AGM (31 Mar 2026) its CEO said completion in 2026 was still possible (press).",
+    "source_ids": [
+     "S11",
+     "S28"
+    ]
+   },
+   {
+    "date": "2026-04-26",
+    "what": "NBB submitted a proposal to BBK on key merger terms including the exchange ratio; negotiations followed. BBK said on 21 Jul 2026 discussions are continuing.",
+    "source_ids": [
+     "S12",
+     "S6",
+     "S13"
+    ]
+   },
+   {
+    "date": "2026-04",
+    "what": "Collaboration with BLME for UK Shariah property finance for HNW clients (press, search result only).",
+    "source_ids": [
+     "S27"
+    ]
+   },
+   {
+    "date": "2026-05-19",
+    "what": "Q1 2026 call: wealth revenue +103% y/y, structured-deposit AUM +174%, ~70% of T-bill subscriptions digital; wealth offer to add asset classes in 2026 and explore regional expansion.",
+    "source_ids": [
+     "S6",
+     "S7"
+    ]
+   },
+   {
+    "date": "2026-08-10",
+    "what": "H1 2026 results: record Q2 attributable profit BHD 22.5m, H1 BHD 43.1m; interim dividend 10 fils proposed; management cites 124 promotions and a joint lead manager role on Bahrain's USD 1bn 10-year bond.",
+    "source_ids": [
+     "S5",
+     "S3"
+    ]
+   },
+   {
+    "date": "2026-09-30",
+    "what": "Resignation of Group CEO Usman Ahmed announced (last day 31 Dec 2026); board running a search with an independent executive-search firm; merger said to continue on its own timeline.",
+    "source_ids": [
+     "S14",
+     "S15"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Management plans to widen the digital wealth platform to additional asset classes in 2026 and to explore regional expansion; wealth is described as a key driver of fee-income growth in 2026 (S6 p.3, S7 p.3).",
+    "Wealth Management revenue +103% y/y in Q1 2026 from a business launched in 2025, targeting emerging-affluent and HNW clients through digital capabilities (S4 p.10, S7).",
+    "Current shelf evidenced on NBB pages is stocks, bonds, sukuk, T-bills and structured products; no funds platform, model portfolios or discretionary offer was found (S16-S18).",
+    "Private Banking is exploring third-party solutions (trust/company formation, UK property and mortgage arrangements) - a pattern of sourcing products from partners (S4 p.10, S27)."
+   ],
+   "barriers": [
+    "Group CEO Usman Ahmed resigned (last day 31 Dec 2026) with no successor named at 12 Oct 2026 (S14, S15).",
+    "Potential merger with BBK under negotiation since Nov 2025; platform and vendor decisions for the combined bank are uncertain (S10, S12, S13).",
+    "Wealth proposition is new and fixed-income led, built by the Treasury & Capital Markets unit rather than a separate asset-management arm (S4 p.10).",
+    "Islamic wealth is housed in BisB, which has its own partners (Allfunds, Societe Generale) (see bh-bisb)."
+   ],
+   "incumbent_vendors": [
+    "Global Trading Network - Al Watani Trade platform (login domain and App Store developer listing; role not confirmed) (S20, S26)",
+    "Mubasher Financial Services - developed Al Watani Trade at launch in 2019 per press; current role unconfirmed (S26)",
+    "Tarabut Gateway - open-banking developer portal (sandbox) (S20)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Leadership - Board of Directors and Executive Management (with biographies)",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/about/leadership/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "WebFetch returned HTTP 403; read in the built-in browser; biographies are in page modals."
+  },
+  {
+   "id": "S2",
+   "title": "Investor Relations (reports and disclosures)",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/about/investors/",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Page lists AR 2025, Q1 2026 items and the Q1 call transcript only; H1 2026 files not linked at check date."
+  },
+  {
+   "id": "S3",
+   "title": "National Bank of Bahrain Group - Condensed Consolidated Interim Financial Information 30 June 2026 (reviewed by KPMG Fakhro)",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/wp-content/uploads/2026/08/NBB-Q2-2026-FS-English.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-08-10",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened directly (PDF); not yet linked on the IR page at 2026-10-12. Board approval 10 Aug 2026; Bourse announcement 11 Aug 2026."
+  },
+  {
+   "id": "S4",
+   "title": "Annual Financial and Sustainability Report 2025 (audited statements, governance report)",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/wp-content/uploads/2026/07/NBB_AR2025_Eng_v4.pdf",
+   "doc_type": "Annual report with audited financial statements",
+   "tier": 1,
+   "published": "2026-03-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "NBB Maintains 10% Dividends and Reports 16% Growth in Attributable Profit for the Second Quarter Ended 30 June 2026",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/news/38972/",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-08-10",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "NBB Investors Call Presentation Q1 2026",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/wp-content/uploads/2026/05/NBB-Investors-Call-Presentation-Q1-2026.pdf",
+   "doc_type": "Investor presentation",
+   "tier": 2,
+   "published": "2026-05-19",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Investor Call Transcript - Q1 2026",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/wp-content/uploads/2026/08/Q1-Investor-Call-Transcipt.pdf",
+   "doc_type": "Earnings call transcript",
+   "tier": 2,
+   "published": "2026-08-06",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Major Shareholders - NBB",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/NBB/MajorShareholder.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated issuer-provided list, 'considered up to date'."
+  },
+  {
+   "id": "S9",
+   "title": "List of Key Persons - NBB",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/NBB/Keyperson.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated issuer-provided list; pdftext read of pages 1-3 only."
+  },
+  {
+   "id": "S10",
+   "title": "Disclosure of Material Information - NBB and BBK sign MoU on potential merger (2 Nov 2025)",
+   "publisher": "National Bank of Bahrain via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/NewAttachments/02112025161828/02112025161828_File1.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2025-11-02",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "Disclosure of Material Information - merger due diligence progress (3 Mar 2026)",
+   "publisher": "National Bank of Bahrain via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/NewAttachments/03032026143337/03032026143337_File1.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-03-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Disclosure of Material Information - proposal on key merger terms submitted to BBK (30 Apr 2026)",
+   "publisher": "National Bank of Bahrain via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/NewAttachments/30042026114003/30042026114003_File1.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-04-30",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Bilingual; English text read."
+  },
+  {
+   "id": "S13",
+   "title": "Follow-up Disclosure on the potential Merger with NBB (21 Jul 2026)",
+   "publisher": "Bank of Bahrain and Kuwait via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/NewAttachments/21072026074510/21072026074510_File1.pdf",
+   "doc_type": "Exchange disclosure",
+   "tier": 1,
+   "published": "2026-07-21",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Company Announcements - National Bank of Bahrain (listing filtered to NBB, titles and times)",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/EN/NEWS%20AND%20EVENTS/COMPANYANNOUNCEMENTS",
+   "doc_type": "Exchange announcements listing",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Listing read in the built-in browser. Announcement detail pages (e.g. 'Resignation of Chief Executive Officer', 30 Sep 2026; 'Extraordinary Items', 1 Oct 2026) showed a Cloudflare human-verification page and were not opened or bypassed."
+  },
+  {
+   "id": "S15",
+   "title": "NBB scouts for new CEO as Usman Ahmed resigns",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1408210/NBB-scouts-for-new-CEO-as-Usman-Ahmed-resigns",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-10-01",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "Wealth Management - Intermediary & Custody Services",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/personal/wealth/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Private Banking",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/private/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "Prestige Banking",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/prestige/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "Al Watani Trade",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/personal/al-watani-trade/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "NBB homepage (footer and menu links: Al Watani Trade login, Open Banking, LinkedIn)",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://nbbonline.com/",
+   "doc_type": "Official website",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S21",
+   "title": "NBB unveils digitalised treasury bills platform",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1366222",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-10-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S22",
+   "title": "NBB offers enhanced fixed income and custody services",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1367195",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-10-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S23",
+   "title": "NBB prestige banking head appointed",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1360683",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-08-14",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S24",
+   "title": "NBB names private banking head",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1362913/NBB-names-private-banking-head",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-09-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S25",
+   "title": "NBB announces key appointment (Husain Almohri)",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/1368874/NBB-announces-key-appointment",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2025-11-18",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S26",
+   "title": "National Bank of Bahrain launches online trading platform (Al Watani Trade)",
+   "publisher": "Arab News",
+   "url": "https://www.arabnews.com/node/1499361/amp",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2019-05-20",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); date as reported in the search summary."
+  },
+  {
+   "id": "S27",
+   "title": "NBB partners with BLME to offer UK property finance",
+   "publisher": "Gulf Daily News / TradeArabia",
+   "url": "https://www.gdnonline.com/Details/1392017/NBB-partners-with-BLME-to-offer-UK-property-finance",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-04",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (not opened); TradeArabia copy dated 19 Apr 2026 per search summary."
+  },
+  {
+   "id": "S28",
+   "title": "BBK-NBB merger 'on track for completion this year'",
+   "publisher": "TradeArabia",
+   "url": "https://www.tradearabia.com/News/413506/BBK-NBB-merger-%E2%80%98on-track-for-completion-this-year%E2%80%99/BANK",
+   "doc_type": "News article",
+   "tier": 5,
+   "published": "2026-04-01",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S29",
+   "title": "Usman Ahmed - Group CEO, National Bank of Bahrain (LinkedIn)",
+   "publisher": "LinkedIn",
+   "url": "https://bh.linkedin.com/in/usman-ahmed-4178ab17",
+   "doc_type": "LinkedIn profile",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (profile not opened)."
+  },
+  {
+   "id": "S30",
+   "title": "Major Shareholders - BISB",
+   "publisher": "Bahrain Bourse",
+   "url": "https://bahrainbourse.com/en/Company%20Documents/BISB/MajorShareholder.pdf",
+   "doc_type": "Exchange company document",
+   "tier": 1,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated issuer-provided list: NBB 80.23%."
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Customer deposits at 31 Dec 2025",
+   "detail": "Audited AR 2025: BHD 3,966.2m; the 30 Jun 2026 interim statements show the 31 Dec 2025 comparative as BHD 4,015.5m (due to banks BHD 894.7m vs 941.2m audited; interest payable and other liabilities 157.0 vs 159.8) - a re-presentation, total assets unchanged at 6,276.6.",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "resolution": "Audited figure recorded as the 31 Dec 2025 value; 30 Jun 2026 growth vs Dec (12% per management, S5) uses the re-presented base."
+  },
+  {
+   "field": "Assets under management vs administration",
+   "detail": "Note 30 of the 2025 accounts is titled 'Assets under management' but its text reports 'assets under administration' of BHD 280.2m.",
+   "source_ids": [
+    "S4"
+   ],
+   "resolution": "Recorded as aua only; AUM left undisclosed."
+  },
+  {
+   "field": "Digital wealth platform launch date",
+   "detail": "Q1 2026 investor presentation says 'since its August 2025 launch'; press (GDN 20 Oct 2025) describes the digital T-bills platform as unveiled in Oct 2025.",
+   "source_ids": [
+    "S6",
+    "S21"
+   ],
+   "resolution": "Both recorded; Aug 2025 (issuer) preferred for platform launch, Oct 2025 for the public T-bills announcement."
+  },
+  {
+   "field": "Double counting with BisB",
+   "detail": "NBB fully consolidates BisB (80.2%); NBB's total assets/deposits/profit include BisB's.",
+   "source_ids": [
+    "S3",
+    "S30"
+   ],
+   "resolution": "bh-bisb has parent_id bh-nbb; never add BisB to NBB group totals."
+  },
+  {
+   "field": "Potential double counting with BBK",
+   "detail": "NBB and BBK are separate listed banks; a merger is only under negotiation (MoU 2 Nov 2025).",
+   "source_ids": [
+    "S10",
+    "S13"
+   ],
+   "resolution": "Treat as independent institutions until a binding agreement and approvals are announced."
+  }
+ ],
+ "open_items": [
+  "Group CEO resignation (announced 30 Sep 2026): the Bahrain Bourse announcement itself was not opened (Cloudflare verification page); details taken from GDN 1 Oct 2026. Check for a named successor and for the 1 Oct 2026 'Extraordinary Items' board-meeting result and the 23 Aug / 23 Sep 2026 material-information notices (titles only seen).",
+  "Merger status after 21 Jul 2026 not confirmed: no definitive agreement, exchange ratio or timetable was found; BBK's 21 Jun 2026 disclosure was not read.",
+  "Q3 2026 results not yet published at 12 Oct 2026; add when available.",
+  "AUM, wealth client assets, customer counts and investing-user numbers not disclosed; only growth rates for wealth revenue and structured-deposit AUM.",
+  "Head of Wealth Management (Ali Janahi), Head of Prestige Banking (Yusuf Ahmed Abdulla) and Head of Retail Digital Banking (Omar Al Adhami) rest on single 2025 press reports; none appears on the official leadership page.",
+  "LinkedIn: only Usman Ahmed verified (search-result match); profile searches for Bassam AlTattan and Ali Janahi returned no match; Husain Almohri, Razi Amin not searched (search quota).",
+  "Vice Chairperson Yusuf Alireza's biography and the date Hala Yateem became Chairperson were not captured.",
+  "NBB's wealth platform vendor (digital wealth module, structured products manufacturers) is not named in any source; Global Trading Network/Mubasher links for Al Watani Trade are inferred from a login domain, an App Store listing and 2019 press.",
+  "The NBB-BLME partnership (Apr 2026) was seen only in search results (article pages not opened).",
+  "Lead check (prompt: 'Mumtalakat and others'): confirmed Mumtalakat 44.06% and SIO 10.85% at 31 Dec 2025."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B27",
+ "checked": "2026-10-12"
+}

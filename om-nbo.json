@@ -1,0 +1,1235 @@
+{
+  "id": "om-nbo",
+  "name": "National Bank of Oman",
+  "short_name": "NBO",
+  "legal_name": "National Bank of Oman SAOG",
+  "name_ar": "البنك الوطني العماني",
+  "country": "OM",
+  "hq_city": "Muscat",
+  "website": "https://www.nbo.om",
+  "linkedin_company": null,
+  "category": "Bank",
+  "type": "Universal / commercial bank",
+  "model": "Conventional with Islamic window/subsidiary",
+  "founded": "1973 (first incorporated bank in Oman; joint stock company; shares listed on MSX)",
+  "regulators": [
+    "CBO",
+    "FSA Oman"
+  ],
+  "listed": true,
+  "exchange": "MSX",
+  "ticker": "NBOB",
+  "parent_id": null,
+  "ownership_summary": "At 30 Jun 2026 the Commercial Bank (P.S.Q.C.) of Qatar held 34.90% and Suhail Salim Abdullah Al Mukhaini Bahwan 14.75%; all other holders each held below 10% (50.35% in total). The December 2025 IR page shows 34.90% and 14.74%. The June 2026 presentation says the two holders together hold 49.6% and that government-related holders own more than 30%. The undated FSA register lists the Social Protection Fund at 9.9% and Al Anwar Investments SAOG at 7.55%.",
+  "shareholders": [
+    {
+      "holder": "The Commercial Bank (P.S.Q.C.), Qatar",
+      "pct": 34.9,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "holder": "Suhail Salim Abdullah Al Mukhaini Bahwan",
+      "pct": 14.75,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "holder": "Others (each below 10%)",
+      "pct": 50.35,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "government_link": "Indirect. The June 2026 investor presentation says government institutions hold more than 30% of NBO (S3), and the board includes nominees from the Social Protection Fund, the Public Authority for Social Insurance, the Military and Security Services Pension Fund and the Royal Oman Police (S7). The FSA register (undated) shows the Social Protection Fund at 9.9% (S11). The largest holder is a Qatari bank, not a state entity.",
+  "group_structure": "Single bank with an Islamic window, Muzn Islamic Banking, and branches in the UAE (Dubai and Abu Dhabi). The Egypt branch is being closed (S1 note 1, S3). One immaterial wholly owned SPV, NBO Global Markets Cayman Limited, is consolidated. The Wholesale Banking segment includes investment banking (asset management, corporate advisory and brokerage for retail and institutional clients) (S1 note 28). The Commercial Bank's Chairman (Deputy Chairman of NBO) and its Group CEO both sit on NBO's board (S7).",
+  "subsidiaries": [
+    {
+      "name": "NBO Global Markets Cayman Limited",
+      "pct": 100.0,
+      "activity": "Financial services SPV (not material)",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "footprint": "At 30 Jun 2026: 68 branches and 237 ATM and CCDM units in Oman, plus two branches in the UAE (Dubai and Abu Dhabi); the Egypt branch is in legal closure. Market share about 13.6% of loans and 13.5% of deposits at 31 Mar 2026 (S3).",
+  "customer_segments": "Retail mass, Mazaya (Privilege) preferred banking, Sadara Priority Banking, Private Banking (HNW), Muzn Islamic retail, SME, corporate, government and GREs, financial institutions.",
+  "business_lines": "Five segments in the H1 2026 statements: Retail Banking (including HNW customers), Wholesale Banking (including investment banking, asset management, corporate advisory and brokerage), International (UAE, Egypt), Islamic Banking (Muzn) and the Funding Center (S1 note 28). Retail revenue and wealth products sit with the Chief Retail & Digital Banking Officer; Private Banking & Segments is led by an AGM (S6). Strategy for 2026-2028 is called PRIME (S3).",
+  "metrics": [
+    {
+      "metric": "total_assets",
+      "value": 6218282,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated interim statement of financial position (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "locator": "S1 PDF p.12 (printed p.2)",
+      "note": "Statement page is an image; read visually. Presentation: OMR 6.2bn."
+    },
+    {
+      "metric": "total_assets",
+      "value": 5591224,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, consolidated statement of financial position (audited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 PDF p.12 comparative column",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 4593960,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customers' deposits': term deposits OMR 2,085,652k, current accounts OMR 1,874,708k and savings accounts OMR 633,600k (includes Muzn Islamic deposits). Excludes due to banks and other money market deposits (OMR 491,342k).",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.12 and note 10 (PDF p.21)",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 4009117,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Customers' deposits' (audited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 PDF p.12 and note 10",
+      "note": ""
+    },
+    {
+      "metric": "net_loans",
+      "value": 4443988,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans, advances and Islamic financing assets' as presented on the statement of financial position (net of expected credit losses). Excludes amounts due from banks.",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.12",
+      "note": "Presentation: 'Loans & Advances (Net)' OMR 4,444m."
+    },
+    {
+      "metric": "net_loans",
+      "value": 4150354,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Loans, advances and Islamic financing assets' (audited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 PDF p.12 comparative column",
+      "note": ""
+    },
+    {
+      "metric": "gross_loans",
+      "value": 4.63,
+      "unit": "billion",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "'Gross Loans and Advances' in the chairperson's report (+9.3% year on year)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.4",
+      "note": "Rounded narrative figure. Presentation shows gross loans OMR 4,633m."
+    },
+    {
+      "metric": "total_equity",
+      "value": 906324,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total equity including Tier 1 perpetual bonds (OMR 282,787k); equity attributable to shareholders OMR 623,537k",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.12",
+      "note": "31 Dec 2025: OMR 1,000,006k. A OMR 115.5m perpetual bond was repaid in April 2026."
+    },
+    {
+      "metric": "operating_income",
+      "value": 163494,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income': net interest income and net income from Islamic financing OMR 111,939k, net fee and commission income OMR 29,094k and other operating income OMR 22,461k",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "locator": "S2 PDF p.53",
+      "note": "Presentation: OMR 163.5m."
+    },
+    {
+      "metric": "operating_income",
+      "value": 90886,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Operating income' (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.13",
+      "note": "H1 2025: OMR 79,439k (+14.4%)."
+    },
+    {
+      "metric": "net_profit",
+      "value": 70207,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year; no non-controlling interests shown. Profit before tax OMR 82,563k.",
+      "status": "Verified",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "locator": "S2 PDF p.53",
+      "note": "FY2024: OMR 63,063k."
+    },
+    {
+      "metric": "net_profit",
+      "value": 39090,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period (unaudited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.13",
+      "note": "H1 2025: OMR 34,025k (+14.9%)."
+    },
+    {
+      "metric": "aum",
+      "value": 196629,
+      "unit": "thousand",
+      "currency": "OMR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group (funds managed by the bank)",
+      "definition": "'Fund under management' in the fiduciary assets note: investment management activities as trustee and manager for investment funds and individuals, held off balance sheet. The bank does not label it AUM.",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.69, note 20.5",
+      "note": "31 Dec 2024: OMR 135,820k. Euromoney (2025 awards) says AUM rose 259% over its review period without giving an amount (S12)."
+    },
+    {
+      "metric": "customers",
+      "value": 760,
+      "unit": "thousand",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Retail (Oman)",
+      "definition": "'Approximately 760,000 retail customers' (the source does not say active or registered)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slide 11",
+      "note": "Approximate. The AR says NBO has more than doubled its active retail customer base over five years (S2 p.19)."
+    },
+    {
+      "metric": "customers",
+      "value": 31,
+      "unit": "thousand",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Corporate and SME",
+      "definition": "'31,000 corporate and SME customers'",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slide 11",
+      "note": "Approximate."
+    },
+    {
+      "metric": "employees",
+      "value": 1409,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group",
+      "definition": "Employees (note 20)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 PDF p.25",
+      "note": "30 Jun 2025: 1,405."
+    },
+    {
+      "metric": "branches",
+      "value": 68,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group (Oman and UAE as presented)",
+      "definition": "'68 branches and 237 ATM and CCDM units'; two UAE branches are described separately and the Egypt branch is being closed",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "S3 slide 11",
+      "note": "Whether the 68 includes the UAE branches is not stated."
+    },
+    {
+      "metric": "gross_loans",
+      "value": 396.3,
+      "unit": "million",
+      "currency": "OMR",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Muzn Islamic Banking window",
+      "definition": "Gross financing of Muzn Islamic Banking (+1.0% year on year); customer deposits of Muzn were OMR 370.2m (+12.7%)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 PDF p.7 (printed p.5)",
+      "note": "Included in the group figures above."
+    }
+  ],
+  "disclosure_checks": [
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "FY2025 annual report (S2), H1 2026 statements (S1), June 2026 presentation (S3), private banking and Sadara pages (S8, S9). Euromoney gives only a growth rate (S12)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "S1, S2, S3. The wealth portal and SIP are described, but no user numbers."
+    },
+    {
+      "metric": "aua",
+      "status": "Not found after research",
+      "where_checked": "S2 (fiduciary note gives funds managed only), S3. The FSA register shows a Custodian activity (S11) but no custody figure was found."
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "status": "Not found after research",
+      "where_checked": "S2, S3, S11. NBO is FSA-licensed for Brokerage but no trading volume is published."
+    }
+  ],
+  "people": [
+    {
+      "name": "Amal Suhail Bahwan Al Mukhaini",
+      "name_ar": null,
+      "title": "Chairperson of the Board",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not stated in sources opened; already chairperson in July 2020.",
+      "previous_roles": "Vice-Chairperson of Suhail Bahwan Group Holding LLC, with management experience across the Bahwan Group since 1998; chair of Al Jazeera Steel Products Co SAOG, Al Afia Healthcare Development and Investment Co SAOC, and other boards (S2 p.9, S7).",
+      "education": "Bachelor's in Education and Master's in Administration, Sultan Qaboos University (board page)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page (S7, checked 2026-10-12) and FY2025 annual report chairperson's report (S2 p.6-8). Quoted as chairperson in the July 2020 CEO announcement (S16, seen in search results only). Signed the H1 2026 statements as Chairperson (S1 p.12). No change news found.",
+      "source_ids": [
+        "S7",
+        "S2",
+        "S16"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Sheikh Abdullah Ali Al Thani",
+      "name_ar": null,
+      "title": "Deputy Chairman",
+      "functions": [
+        "Board"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": "2005-07",
+      "appointed_note": "Director since July 2005 (board page); date as deputy chairman not stated.",
+      "previous_roles": "Chairman of The Commercial Bank (Qatar) and board member of United Arab Bank (UAE) (board page).",
+      "education": "BA in Social Science, Qatar University",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Board page lists him as Deputy Chairman (S7, checked 2026-10-12). FSA register lists him as Deputy Chairman (S11).",
+      "source_ids": [
+        "S7",
+        "S11"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdullah Zahran Al Hinai",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2020-07",
+      "appointed_note": "Board announcement dated July 2020 (search results only); a third-party profile gives August 2020 as the start.",
+      "previous_roles": "Previously Chief Wholesale Banking and Strategic Growth Officer at Bank Muscat (S16 and S6, which says 'a leading financial institution'). Over two decades in banking; board member of the Oman Banks Association and several manufacturing and investment boards.",
+      "education": "Executive MBA, IMD Lausanne; Postgraduate Diploma, Manchester Business School; BSc Business Administration, Boston University; AMP INSEAD; GMP Harvard Business School",
+      "qualifications": "Certified Public Accountant (USA); Chartered Financial Analyst",
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6, checked 2026-10-12) and FY2025 annual report senior management lists (S2 p.12, p.25). Appointed July 2020 per press releases (S16, seen in search results only). No departure news found; a LinkedIn search returned no matching profile.",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S16"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Faisal Al Wahaibi",
+      "name_ar": null,
+      "title": "General Manager - Chief Retail & Digital Banking Officer",
+      "functions": [
+        "Retail",
+        "Digital"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Retail & Digital Banking",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "Start date not stated.",
+      "previous_roles": "Over 20 years in financial services with leadership roles at Bank Muscat and Bank Dhofar (management page).",
+      "education": "Bachelor's in Marketing, University of Missouri (USA); Advanced Management Program, Harvard Business School",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6, checked 2026-10-12) and FY2025 annual report (S2 p.12, p.25). He succeeds Tariq Atiq, who was named to this title in April 2021 (search results only) and is shown in the FY2025 report as Chief Operating Officer who left NBO in 2025/26. No appointment announcement found.",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Mustafa Al Lawati",
+      "name_ar": null,
+      "title": "Assistant General Manager - Head of Private Banking & Segments",
+      "functions": [
+        "Private banking",
+        "Affluent"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Private Banking & Segments",
+      "scope": "Oman",
+      "appointed": "2021-03",
+      "appointed_note": "Head of Private Banking since March 2021 (Times of Oman); the 'and Segments' scope was added later (date not found).",
+      "previous_roles": "27 years in banking from 1994 (March 2021 bio): audit, branch operations, brokerage and private banking; former board member of Muscat Clearing and Depository and the Omani Brokerage Association.",
+      "education": "MBA, Strathclyde University (Glasgow); Honors in Banking Diploma, College of Banking and Financial Studies (Muscat); CISI Risk in Financial Services certificate; AAT NVQ Level 4",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page lists him as AGM and Head of Private Banking & Segments (S6, checked 2026-10-12); FY2025 annual report management list (S2 p.12). Named Head of Private Banking in March 2021 (S15) and quoted as head of private banking at the June 2022 launch (S14). A LinkedIn search returned no profile.",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S15",
+        "S14"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Maha Saud Al Raisi",
+      "name_ar": null,
+      "title": "Assistant General Manager - Head of Products",
+      "functions": [
+        "Wealth",
+        "Other"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Products",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "Start date not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page lists her as AGM and Head of Products (S6, checked 2026-10-12); FY2025 annual report (S2 p.12). Quoted as 'Head - Products' in the July 2021 wealth portal announcement (S13). Whether her remit covers investment products is not stated.",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S13"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Ali Salim Al Shekeili",
+      "name_ar": null,
+      "title": "Assistant General Manager - Head of Digital & E-Channels",
+      "functions": [
+        "Digital"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Digital & E-Channels",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "Start date not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "Listed with the title 'Dr.' as AGM and Head of Digital & E-Channels in the FY2025 annual report management list (S2 PDF p.12). Not shown on the live senior management page (S6), so current status is unconfirmed.",
+      "source_ids": [
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Srinivasaraghava Varadachari Giridhar",
+      "name_ar": null,
+      "title": "General Manager - Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": "2021-01",
+      "appointed_note": "Appointed CFO in January 2021 (management page).",
+      "previous_roles": "Over three decades in financial services: Ernst & Young (Bahrain), about two decades at Standard Chartered including six years as Director Finance of PT Bank Permata, and 5.5 years at HSBC (last as Group Head, Finance Operations).",
+      "education": "Bachelor of Commerce, Madras University; MBA, Henley Management College",
+      "qualifications": "Chartered Accountant; member of ICAEW",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6, checked 2026-10-12); FY2025 annual report (S2 p.12, p.25).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Hassan Abdul Amir Shaban",
+      "name_ar": null,
+      "title": "General Manager - Chief Government & Alliance Banking Officer",
+      "functions": [
+        "Corporate / wholesale",
+        "Innovation / partnerships"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Government & Alliance Banking",
+      "scope": "Oman",
+      "appointed": "2004-04",
+      "appointed_note": "Joined NBO in April 2004; date of current role not stated.",
+      "previous_roles": "Over 20 years in government banking, communications, marketing, branding, wealth management and financial services, including Commerzbank (Zurich) and Majan International Bank (management page).",
+      "education": "MBA in General Management, University of Nottingham; Fellow of the AMBA Association",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6, checked 2026-10-12); FY2025 annual report (S2 p.12, p.25). The scope of 'Alliance' banking is not described.",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Salima Obaid Issa Al-Marzoqi",
+      "name_ar": null,
+      "title": "Assistant General Manager - Chief Islamic Banking Officer",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "National Bank of Oman SAOG (Muzn)",
+      "business_unit": "Muzn Islamic Banking",
+      "scope": "Oman",
+      "appointed": null,
+      "appointed_note": "Start date not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Senior management page (S6, checked 2026-10-12); FY2025 annual report (S2 p.12, p.25).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdul Karim Zahran Zahir Al Hinai",
+      "name_ar": null,
+      "title": "Deputy General Manager - Chief Information Officer",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Information Technology",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Retired in 2026 (annual report footnote).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "FY2025 annual report management list marks him 'Retired in 2026' (S2 PDF p.12). He is not on the live management page.",
+      "source_ids": [
+        "S2"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Tariq Atiq",
+      "name_ar": null,
+      "title": "General Manager - Chief Operating Officer",
+      "functions": [
+        "Operations",
+        "Digital"
+      ],
+      "entity": "National Bank of Oman SAOG",
+      "business_unit": "Operations",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Left NBO in 2025 or 2026 (exact date not given).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Departed",
+      "role_evidence": "FY2025 annual report management list marks him as having left NBO in 2025 or 2026 (S2 PDF p.12). He is not on the live management page. A 2021 press item (search results only) named him Chief Retail & Digital Banking Officer.",
+      "source_ids": [
+        "S2",
+        "S6",
+        "S19"
+      ],
+      "checked": "2026-10-12"
+    }
+  ],
+  "capabilities": {
+    "wealth_summary": "NBO runs a three-tier affluent proposition: Mazaya (Privilege) from a 15,000 balance or 1,000 salary transfer, with a certified wealth advisor; Sadara Priority Banking with a dedicated RM and 'Sadara Wealth Management'; and Private Banking, launched on 29 Jun 2022 under Ali Al Lawati and named Best Private Bank in Oman by Euromoney in March 2025. The shelf is global investment funds, structured products (the bank says it was the first in Oman with capital-guaranteed products), securities brokerage, SIPs from OMR 100 a month, lending against securities, and trust and wealth planning through partner networks. NBO is FSA-licensed for Brokerage, Custodian, Investment Manager, Portfolio Management and Fund Administration. In-house funds are the NBO GCC Fund, Global Equity Fund and Money Market Fund (launched 2025); funds under management were OMR 196.6m at 31 Dec 2025. A wealth portal inside the mobile app has offered fund buy/sell and SIPs for Sadara and Mazaya customers since July 2021, and in 2026 customers could subscribe to the OMIFCO IPO through the NBO and Muzn apps. The 2026-2028 PRIME strategy lists API-led partnerships and fintech collaborations.",
+    "segments": [
+      {
+        "name": "Mazaya (Privilege) Banking",
+        "tier": "Mass affluent",
+        "eligibility": "Maintain a balance of 15,000 or a salary transfer of 1,000 and above; currency is an image on the page (OMR likely). Dedicated RM and a certified wealth advisor.",
+        "source_ids": [
+          "S10"
+        ]
+      },
+      {
+        "name": "Sadara Priority Banking",
+        "tier": "Affluent",
+        "eligibility": "Not published on the page opened. Benefits include a dedicated RM, Sadara Elite savings account, Sadara Wealth Management and SIP.",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "name": "Private Banking",
+        "tier": "HNW",
+        "eligibility": "No threshold on the page; a Key Fact Statement PDF is linked. Infinite credit card, lounge and global investment advisory.",
+        "source_ids": [
+          "S8"
+        ]
+      }
+    ],
+    "private_banking": {
+      "present": "Yes",
+      "detail": "Launched 29 Jun 2022 for HNW customers; led by Ali Mustafa Al Lawati (Head of Private Banking since Mar 2021). Services: global investment advisory, global funds, structured products, SIP, trade execution in bonds, equities and FX, lending against marketable securities and real estate, wealth planning and trust services through partner networks. Euromoney named NBO Best Private Bank in Oman (Mar 2025), reporting AUM up 259% over its review period and some UHNW clients moving assets from Swiss banks.",
+      "source_ids": [
+        "S8",
+        "S14",
+        "S15",
+        "S12",
+        "S2"
+      ]
+    },
+    "asset_management": {
+      "present": "Yes",
+      "detail": "In-house, inside Wholesale Banking's investment banking unit (not a separate legal entity). Three open-ended funds: NBO GCC Fund (flagship, CMA-regulated), NBO Global Equity Fund and NBO Money Market Fund (third open-ended fund, public offering closed Feb 2025; daily liquidity, no entry or exit charges per Oct 2025 fact sheet seen in search results). Funds under management OMR 196,629k at 31 Dec 2025 (+45%). FSA activities include Investment Manager, Portfolio Management and Fund Administration. A press item (search results only) names Abdullah Al Jabri as Head of Asset Management; not on the live page.",
+      "source_ids": [
+        "S2",
+        "S18",
+        "S11"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "FSA register lists Brokerage (contact Brokerage@nbo.co.om), Custodian and Issue Management (S11). The annual report's segment note says investment banking offers brokerage to retail and institutional clients (S1). Private Banking offers trade execution in bonds, equities and FX (S8). MSX membership and markets covered were not confirmed.",
+      "source_ids": [
+        "S11",
+        "S1",
+        "S8"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Wealth portal inside the NBO mobile app launched July 2021 for Sadara and Mazaya customers: view portfolio, buy and sell mutual funds, single-fund SIPs, review risk profile, open an investment account (vendor not named). Digital SIP applications added in 2025; OMIFCO IPO subscription through the NBO app and Muzn app in H1 2026. Current feature set of the portal beyond these items was not confirmed.",
+      "source_ids": [
+        "S13",
+        "S2",
+        "S1"
+      ]
+    },
+    "advisory": {
+      "present": "Yes",
+      "detail": "Mazaya includes a certified wealth advisor; Sadara and Private Banking provide RM-led investment advisory and financial planning. FSA activity Investment Advice & Research.",
+      "source_ids": [
+        "S10",
+        "S9",
+        "S8",
+        "S11"
+      ]
+    },
+    "discretionary": {
+      "present": "Unclear",
+      "detail": "The FSA register lists Portfolio Management (S11) and Euromoney credits 'portfolio management solutions' (S12), but no NBO page describes a discretionary mandate or minimum.",
+      "source_ids": [
+        "S11",
+        "S12"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No model portfolios or robo-advice found. The SIP is described as a portfolio into global and local markets and the app supports single-fund SIPs.",
+      "source_ids": [
+        "S9",
+        "S13"
+      ]
+    },
+    "funds_platform": {
+      "present": "Yes",
+      "detail": "Private Banking offers 'global investment funds' (S8); the wealth portal lets clients buy and sell mutual funds (S13). The third-party fund shelf, platform and fund houses are not named.",
+      "source_ids": [
+        "S8",
+        "S13"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Private Banking lists structured products; Euromoney 2025 says NBO was the first bank in Oman to introduce structured investment and capital-guaranteed products, quoting returns of up to 24% (S12). Issuers not named.",
+      "source_ids": [
+        "S8",
+        "S12"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No private equity, private credit or alternatives funds found; real estate appears only as a financing and advice item.",
+      "source_ids": [
+        "S8",
+        "S9"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Unclear",
+      "detail": "Muzn Islamic Banking offers Shari'ah-compliant products and, in 2026, a Shari'ah-compliant IPO subscription through the Muzn app, and runs a Priority Banking proposition. No Shariah-compliant fund or wealth shelf was found.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "GCC equities",
+      "US/international equities",
+      "Mutual funds",
+      "Bonds",
+      "Structured products",
+      "Real estate funds"
+    ],
+    "partners": [
+      {
+        "partner": "Finastra",
+        "kind": "Core banking and digital technology (vendor-published claim)",
+        "what": "Vendor customer story describes a 15+ year relationship supporting NBO's core and digital banking; products and date not confirmed (page returned 403; seen in search results only)",
+        "date": null,
+        "status": "Unclear",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "partner": "Reliance Wealth Management (India)",
+        "kind": "Product partner (private banking, historic)",
+        "what": "2012 alliance to build tailor-made investment product portfolios for NBO private banking customers; no later evidence found",
+        "date": "2012",
+        "status": "Unclear",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "partner": "NBO Fintech Accelerator Programme",
+        "kind": "Fintech collaboration",
+        "what": "Hackathon (300+ applications) and second cohort of six startups with early access to NBO's Developer Platform and Sandbox; programme concludes in 2026",
+        "date": "2025",
+        "status": "Live",
+        "source_ids": [
+          "S2"
+        ]
+      }
+    ],
+    "initiatives": [
+      {
+        "date": "2021-07-25",
+        "what": "Launched a wealth management portal in the mobile app (portfolio view, fund buy/sell, SIP, risk profile) for Sadara and Mazaya customers",
+        "source_ids": [
+          "S13"
+        ]
+      },
+      {
+        "date": "2022-06-29",
+        "what": "Launched the Private Banking proposition for HNW customers",
+        "source_ids": [
+          "S14"
+        ]
+      },
+      {
+        "date": "2025-03-28",
+        "what": "Named Best Private Bank in Oman in the Euromoney Private Banking Awards 2025",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "date": "2025-02",
+        "what": "Public offering of the NBO Money Market Fund closed, the bank's third open-ended mutual fund",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Digital SIP applications through the app, API Gateway for corporates, government and fintech partners, and a second Fintech Accelerator cohort with Developer Platform and Sandbox",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2025-11",
+        "what": "Issued a USD 450m Additional Tier 1 instrument (largest ever by an Omani bank, per the annual report); the OMR 115.5m AT1 from April 2021 was redeemed at its first call in April 2026",
+        "source_ids": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "date": "2026",
+        "what": "H1 2026: digital OMIFCO IPO subscription via the NBO and Muzn apps; MoUs with Oman Airports and Ooredoo; partnerships with Sharakah and SMEDA",
+        "source_ids": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2026-07-29",
+        "what": "H1 2026 results authorised: net profit OMR 39.1m (+14.9%); fee income +20.0%; PRIME 2026-2028 strategy in execution",
+        "source_ids": [
+          "S1",
+          "S3"
+        ]
+      }
+    ],
+    "evidence_for_arta": {
+      "opportunities": [
+        "PRIME 2026-2028 lists 'Ecosystem & Tech Enablement' to strengthen the ecosystem through 'API-led partnerships & fintech collaborations', and NBO runs an API Gateway, a Developer Platform and Sandbox and a Fintech Accelerator (S3 slide 9, S2 p.18).",
+        "The in-app wealth portal dates from July 2021 and covers mutual funds and single-fund SIPs for Sadara and Mazaya customers only; no model portfolios or robo-advice were found (S13).",
+        "Mass-affluent and mass entry points are low-ticket (SIP from OMR 100 a month; Mazaya from a 15,000 balance), across about 760,000 retail customers, with fee income up 20% in H1 2026 (S9, S10, S3, S1).",
+        "Private Banking's third-party shelf (global funds, structured products, partner-network trust services) is unnamed, so product partners are not fixed in public sources (S8).",
+        "Muzn is growing deposits (+12.7%) and already offers Shari'ah-compliant IPO subscription in-app, but no Shariah wealth shelf was found (S1)."
+      ],
+      "barriers": [
+        "Three in-house funds, FSA licences for brokerage, custody, portfolio management and fund administration, and a named private banking head show a vertically integrated model (S11, S2, S6).",
+        "Core banking is reportedly Finastra-based, per a vendor-published story (S17), so integrations would sit on that stack.",
+        "Best Private Bank in Oman (Euromoney 2025) and AUM growth suggest the current private banking set-up is viewed as working (S12).",
+        "Four senior officers (CIO, COO, Head of Strategy & Transformation, Head of Project Finance & Syndication) left or retired in 2025-2026, and a digital head is not confirmed on the live page (S2)."
+      ],
+      "incumbent_vendors": [
+        "Finastra: core and digital banking, per vendor-published story, undated (S17)",
+        "Reliance Wealth Management: 2012 private banking product alliance, no later evidence (S14)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "NBO: Condensed consolidated interim financial statements, 30 June 2026 (unaudited)",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://nbo-ir.eurolandir.com/media/0xgdjcx5/nbo-fs-30-june-2026.pdf",
+      "doc_type": "Interim financial statements (IR site copy)",
+      "tier": 1,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Authorised 29 Jul 2026. PDF pages 3-12 (chairperson's report and statement of financial position) are images and were read visually. Printed page numbers are two lower than PDF pages for statements."
+    },
+    {
+      "id": "S2",
+      "title": "NBO Annual Report 2025",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://nbo-ir.eurolandir.com/media/xjscsiq2/annual-report-2025-english.pdf",
+      "doc_type": "Annual report",
+      "tier": 1,
+      "published": "2026-03",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read with tools/pdftext.py; page numbers are PDF pages. The management list footnotes who left or retired in 2025 and 2026."
+    },
+    {
+      "id": "S3",
+      "title": "Investor Presentation Q2 2026",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://nbo-ir.eurolandir.com/media/5inpu33a/nbo_investor_presentation_q2-2026.pdf",
+      "doc_type": "Investor presentation",
+      "tier": 2,
+      "published": "2026-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S4",
+      "title": "Investor Relations: Financial Information",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://nbo-ir.eurolandir.com/en/financial-information",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "The nbo.om IR page embeds this Euroland page; the nbo.om version rendered empty. Lists Q1 and Q2 2026 statements and presentations; no Q3 2026 on 12 Oct 2026."
+    },
+    {
+      "id": "S5",
+      "title": "Investor Relations: Major Shareholders",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://nbo-ir.eurolandir.com/en/major-shareholders",
+      "doc_type": "Official IR page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Shows December 2025: Commercial Bank of Qatar 34.90%, Suhail Salim Abdullah Al Mukhaini Bahwan 14.74%, others 50.36%."
+    },
+    {
+      "id": "S6",
+      "title": "Senior Management",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://www.nbo.om/en/Pages/About-Us/Senior-Management.aspx",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Eight executives with bios and seven officers with titles only."
+    },
+    {
+      "id": "S7",
+      "title": "Board of Directors",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://www.nbo.om/en/Pages/About-Us/Board-of-Directors.aspx",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "11 directors; Stephen Moss appointed July 2025."
+    },
+    {
+      "id": "S8",
+      "title": "Private Banking",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://www.nbo.om/en/Pages/Personal-Banking/Private-Banking.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S9",
+      "title": "Sadara Priority Banking",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://www.nbo.om/en/Pages/Personal-Banking/Solutions/Sadara-Exclusives.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S10",
+      "title": "Mazaya (Privilege) Banking",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://www.nbo.om/en/Pages/Personal-Banking/Solutions/iMazaya.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S11",
+      "title": "Licensed & Accredited: National Bank of Oman (Companies working in the field of securities)",
+      "publisher": "Financial Services Authority, Oman",
+      "url": "https://fsa.gov.om/Home/DisplayCompanyDetails?companyType=6&companyId=40&selectedCompanyType=6",
+      "doc_type": "Regulator register",
+      "tier": 3,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "FSA registration 23/08/2015, licence expiry 31/12/2027, status Active; activities include Brokerage, Custodian, Investment Manager, Portfolio Management. Shareholders in the register are undated. Staff list: no data. Opened with curl."
+    },
+    {
+      "id": "S12",
+      "title": "Private banking awards national winners 2025: Oman",
+      "publisher": "Euromoney",
+      "url": "https://www.euromoney.com/article/2egmb507s1b7z47bk2pz5/awards/private-banking-awards/private-banking-awards-national-winners-2025-oman",
+      "doc_type": "News / awards write-up",
+      "tier": 5,
+      "published": "2025-03-28",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S13",
+      "title": "National Bank of Oman brings out wealth management portal in its mobile app",
+      "publisher": "GCC Business News",
+      "url": "https://www.gccbusinessnews.com/national-bank-of-oman-brings-out-wealth-management-portal-in-its-mobile-app/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-07-25",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S14",
+      "title": "NBO launches private banking proposition to serve wealthy customers",
+      "publisher": "Private Banker International",
+      "url": "https://www.privatebankerinternational.com/news/nbo-launches-private-banking-proposition-to-serve-wealthy-customers/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2022-06-29",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "The 2012 Reliance Wealth Management alliance was seen only in search result titles (Family Wealth Report, Business Standard)."
+    },
+    {
+      "id": "S15",
+      "title": "NBO appoints Ali Al Lawati as Head of Private Banking",
+      "publisher": "Times of Oman",
+      "url": "https://timesofoman.com/article/99137-nbo-appoints-ali-al-lawati-as-head-of-private-banking",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2021-03-14",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S16",
+      "title": "National Bank of Oman Appoints Abdulla Zahran Al Hinai as CEO",
+      "publisher": "Al Bawaba (press release)",
+      "url": "https://www.albawaba.com/business/pr/national-bank-oman-appoints-abdulla-zahran-al-hinai-ceo-1368938",
+      "doc_type": "News / press release",
+      "tier": 5,
+      "published": "2020-07",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (page not opened); also Oman Observer and Times of Oman versions in search results."
+    },
+    {
+      "id": "S17",
+      "title": "National Bank of Oman leverages the strength of Finastra's robust core banking solution",
+      "publisher": "Finastra",
+      "url": "https://www.finastra.com/customer-stories/national-bank-oman-leverages-strength-finastras-robust-core-banking-solution",
+      "doc_type": "Vendor customer story",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (page returned 403). Vendor-published and undated."
+    },
+    {
+      "id": "S19",
+      "title": "National Bank Of Oman Appoints Tariq Atiq As Chief Retail & Digital Banking Officer",
+      "publisher": "Al Bawaba (press release)",
+      "url": "https://www.albawaba.com/index%2Ephp/business/pr/national-bank-oman-appoints-tariq-atiq-chief-retail-digital-banking-officer-1422215",
+      "doc_type": "News / press release",
+      "tier": 5,
+      "published": "2021-04",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (page not opened)."
+    },
+    {
+      "id": "S18",
+      "title": "NBO GCC Fund",
+      "publisher": "National Bank of Oman SAOG",
+      "url": "https://nbo.om/en/Pages/Corporate-Banking/GCC-Fund/NBO-GCC-Fund.aspx",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Fund fact sheets (e.g. NBO MMF Oct 2025) were seen in search results only."
+    }
+  ],
+  "original_reconciliation": [],
+  "discrepancies": [
+    {
+      "field": "Government ownership",
+      "detail": "The June 2026 presentation says government institutions hold more than 30% of NBO, while the FSA register (undated) lists only the Social Protection Fund at 9.9% and Al Anwar Investments at 7.55% above 5%, and the IR pages show no holder other than The Commercial Bank and Suhail Bahwan above 10%.",
+      "source_ids": [
+        "S3",
+        "S11",
+        "S5"
+      ],
+      "resolution": "Recorded shareholders from S3 and S5; government share stated as the bank's claim. The composition of the >30% is not disclosed."
+    },
+    {
+      "field": "Customers",
+      "detail": "The annual report says NBO more than doubled its 'active' retail customer base over five years, while the June 2026 presentation gives 'approximately 760,000 retail customers' without saying active or registered.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "resolution": "Recorded 760 thousand as retail customers, approximate, basis unspecified."
+    }
+  ],
+  "open_items": [
+    "Merger check 2024-2026: no merger, takeover or acquisition involving NBO was found in the H1 2026 statements, the annual report, the IR pages or search results. A 2018-19 NBO and Bank Dhofar merger discussion is mentioned in search results but was abandoned in 2019 and is outside the review window.",
+    "MSX ticker NBOB is taken from a data-provider URL (Simply Wall St) seen in search results; it is not given on the NBO pages opened. Confirm on msx.om.",
+    "No wealth or private banking client asset figure, no investing user numbers and no AUM beyond the OMR 196.6m fiduciary figure are published.",
+    "The wealth portal feature set is described only by a July 2021 article; no newer description was found. The app store listing was not opened.",
+    "A press item (Al Bawaba, search results only, page returned 403) announces Abdullah Al Jabri as Head of Asset Management; the date and current status were not verified and he is not on the live management page.",
+    "Dr. Ali Salim Al Shekeili (Head of Digital & E-Channels) appears only in the annual report; the live page lists no digital head. Current role unconfirmed.",
+    "Eligibility for Sadara and Private Banking was not published on the pages opened; a Key Fact Statement PDF for Private Banking is linked but was not read.",
+    "Finastra relationship is from a vendor-published, undated story (page returned 403); module scope and whether it is still current are unconfirmed.",
+    "Q3 2026 results were not published on the IR page on 12 Oct 2026. Re-check late October.",
+    "LinkedIn checks for the CEO and the head of private banking returned no matching profiles; other people were not checked."
+  ],
+  "research_status": "Complete",
+  "researched_by": "B31",
+  "checked": "2026-10-12"
+}

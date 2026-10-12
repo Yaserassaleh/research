@@ -1,0 +1,10 @@
+[
+ {
+  "date": "2026-10-12",
+  "institution_id": "kw-kic",
+  "field": "metrics",
+  "change": "Renamed 2 'wealth_client_assets' records labelled 'Fiduciary assets' to metric 'fiduciary_assets'",
+  "reason": "Protocol: fiduciary assets are not relabelled as client assets or AUM",
+  "by": "Central QA"
+ }
+]

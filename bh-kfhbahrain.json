@@ -1,0 +1,1226 @@
+{
+ "id": "bh-kfhbahrain",
+ "name": "Kuwait Finance House (Bahrain)",
+ "short_name": "KFH Bahrain",
+ "legal_name": "Kuwait Finance House B.S.C. (c) (formerly Ahli United Bank B.S.C. (c); renamed 10 Jul 2025)",
+ "name_ar": "بيت التمويل الكويتي ش.م.ب. (م)",
+ "country": "BH",
+ "hq_city": "Manama (Seef District)",
+ "website": "https://www.bh.kfh.com",
+ "linkedin_company": "https://www.linkedin.com/company/kfh-bahrain",
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "Incorporated in Bahrain on 12 Jul 2000 as Ahli United Bank B.S.C.; acquired by KFH in 2022; Islamic retail bank licence from 10 Dec 2023; renamed Kuwait Finance House B.S.C. (c) on 10 Jul 2025",
+ "regulators": [
+  "CBB (Islamic retail bank licence)",
+  "DFSA (DIFC branch)",
+  "PRA/FCA (KFH PLC UK subsidiary)",
+  "CBE (KFH Bank Egypt subsidiary)",
+  "CBI (Commercial Islamic Bank of Iraq subsidiary)"
+ ],
+ "listed": false,
+ "exchange": null,
+ "ticker": null,
+ "parent_id": "kw-kfh",
+ "ownership_summary": "100% owned subsidiary of Kuwait Finance House K.S.C.P. (Boursa Kuwait and Bahrain Bourse listed) since KFH acquired Ahli United Bank in 2022. A closed (unlisted) Bahraini joint-stock company (H1 2026 statements, note 1).",
+ "shareholders": [
+  {
+   "holder": "Kuwait Finance House K.S.C.P.",
+   "pct": 100,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S3"
+   ]
+  }
+ ],
+ "government_link": "Indirect. Parent KFH's largest holders are Kuwaiti state entities (KIA 15.67%, PIFSS 9.09%, Public Authority for Minors Affairs 6.82% at 31 Dec 2025; see kw-kfh).",
+ "group_structure": "KFH Bahrain is both a CBB-licensed Islamic retail bank and an intermediate holding company. It owns Kuwait Finance House PLC (UK, 100%), Kuwait Finance House Bank - Egypt (95.7%) and Commercial Islamic Bank of Iraq (85.3%), has a DIFC branch, and holds associates in Bahrain and Libya (United Bank for Commerce & Investment). Its sale of the Ahli Bank Oman stake was completed in 2025. DOUBLE COUNTING: all KFH Bahrain figures here are consolidated 'KFH Bahrain Group' figures (incl. UK, Egypt, Iraq), and they are fully consolidated into KFH group (kw-kfh) totals. Never add bh-kfhbahrain to kw-kfh. Figures are reported in USD (functional currency) under AAOIFI standards. Customer deposits include quasi-equity (unrestricted investment accounts). Bahrain-only standalone figures are not used here.",
+ "subsidiaries": [
+  {
+   "name": "Kuwait Finance House PLC (U.K.) (formerly Ahli United Bank (UK) PLC)",
+   "pct": 100,
+   "activity": "Islamic banking, private banking and wealth management, UK",
+   "linked_id": null,
+   "source_ids": [
+    "S17",
+    "S5"
+   ]
+  },
+  {
+   "name": "Kuwait Finance House Bank - Egypt S.A.E. (formerly Ahli United Bank Egypt)",
+   "pct": 95.7,
+   "activity": "Islamic banking, Egypt",
+   "linked_id": null,
+   "source_ids": [
+    "S17",
+    "S5"
+   ]
+  },
+  {
+   "name": "Commercial Islamic Bank of Iraq P.S.C.",
+   "pct": 85.3,
+   "activity": "Islamic banking, Iraq",
+   "linked_id": null,
+   "source_ids": [
+    "S17"
+   ]
+  }
+ ],
+ "footprint": "At 31 Dec 2025: 78 branches (Bahrain 21, Egypt 45, Iraq 10, UK 1, DIFC 1), associates in Bahrain and Libya, and over 2,900 employees. The annual report overview says 87 branches.",
+ "customer_segments": "Retail (mass; MyHassad savings), Premium Banking (USD 200k+), Private Banking & Wealth Management (HNW; some products for accredited investors only), business banking/SME, corporate and institutional, treasury clients.",
+ "business_lines": "Four reporting segments: Retail banking; Corporate banking; Treasury and investments (the largest by operating income, USD 266.3m in H1 2026); and Private banking (USD 25.4m). Products include Shariah-compliant accounts and investment deposits, home, auto and personal financing, cards, trade finance, structured, project and syndicated finance, FX and hedging, a gold account, and KFH Trader online trading. Private banking covers mutual funds, sukuk and fixed income, structured products, dual currency deposits, real estate and PE, DPM and trusts.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 29023007,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "TOTAL ASSETS, condensed consolidated interim statement of financial position (reviewed)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.6",
+   "note": "Reported in USD (the bank's functional currency); no BHD figures are published."
+  },
+  {
+   "metric": "total_assets",
+   "value": 29007902,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "TOTAL ASSETS, consolidated balance sheet (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.11",
+   "note": "31 Dec 2024: USD 27,133,833k"
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 12927741,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "Customers' accounts (USD 2,130,966k, liabilities) plus quasi-equity from non-banks and individuals (USD 10,796,775k). Excludes due to banks, quasi-equity from banks (USD 2,044,589k) and sukuk.",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.6",
+   "note": "Derived by adding two printed lines. The bank itself reports this combination as 'Customers' accounts and related quasi equity' (S5)."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 12737930,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "Customers' accounts (USD 2,138,365k) plus quasi-equity from non-banks and individuals (USD 10,599,565k)",
+   "status": "Verified",
+   "source_ids": [
+    "S4",
+    "S5"
+   ],
+   "locator": "S4 PDF p.11; S5 PDF p.9",
+   "note": "The annual report rounds this to 'Customers' accounts and related quasi equity totaled US$ 12.7 billion'."
+  },
+  {
+   "metric": "net_loans",
+   "value": 12963092,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "'Financing contracts' (net of ECL), condensed consolidated statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.6; note 6",
+   "note": "31 Dec 2025: 'Financing receivables and ijarah assets' USD 11,624,056k (S4)"
+  },
+  {
+   "metric": "total_equity",
+   "value": 5353423,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "TOTAL OWNER EQUITY (includes Perpetual Tier 1 Sukuk USD 400,000k and non-controlling interests USD 64,244k)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.6",
+   "note": ""
+  },
+  {
+   "metric": "operating_income",
+   "value": 1291777,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "'OPERATING INCOME' (net financing income after distribution to quasi-equity + fees and other income), before impairment and operating expenses",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.9",
+   "note": "FY2024: USD 1,156,090k"
+  },
+  {
+   "metric": "net_profit",
+   "value": 730585,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "NET PROFIT ATTRIBUTABLE TO THE OWNER OF THE BANK (total net profit USD 738,061k)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.9",
+   "note": "FY2024: USD 718,150k, including discontinued operations"
+  },
+  {
+   "metric": "operating_income",
+   "value": 506540,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "TOTAL OPERATING INCOME, six months ended 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4",
+   "note": "H1 2025: USD 525,069k"
+  },
+  {
+   "metric": "net_profit",
+   "value": 261230,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "Net profit attributable to the owner of the Bank, six months ended 30 Jun 2026",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.4",
+   "note": "H1 2025: USD 305,884k"
+  },
+  {
+   "metric": "aum",
+   "value": 1697971,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "Off-balance-sheet 'Assets under management' (AAOIFI FAS 46). Assets held in a fiduciary capacity on behalf of clients; the policy note says the fiduciary assets disclosed off-balance sheet include 'assets under management and custodial assets'. Discretionary vs other not stated.",
+   "status": "Verified",
+   "source_ids": [
+    "S3",
+    "S4"
+   ],
+   "locator": "S3 PDF p.6 (off-balance sheet line); S4 note 2.5(r)",
+   "note": "Issuer-labelled AUM, but it is an accounting off-balance-sheet line, not a private-banking client-asset total."
+  },
+  {
+   "metric": "aum",
+   "value": 1773183,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group consolidated (Bahrain + DIFC branch + KFH UK, KFH Egypt, CIBIQ Iraq); fully consolidated in kw-kfh",
+   "definition": "Off-balance-sheet 'Assets under management' (audited balance sheet)",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "PDF p.11",
+   "note": "31 Dec 2024: USD 1,738,127k"
+  },
+  {
+   "metric": "private_banking_operating_income",
+   "value": 25431,
+   "unit": "thousand",
+   "currency": "USD",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Segment: Private banking (KFH Bahrain Group)",
+   "definition": "Operating income of the 'Private banking' reporting segment",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "Note 5, PDF p.14",
+   "note": "Profit before tax USD 3,621k. Segment assets USD 861,306k; segment liabilities and quasi-equity USD 2,194,364k at 30 Jun 2026 (private banking client funding incl. quasi-equity)."
+  },
+  {
+   "metric": "capital_adequacy_ratio",
+   "value": 29.2,
+   "unit": "percent",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group (Pillar 3 Table 1)",
+   "definition": "Total Capital Adequacy Ratio (CBB Basel III). CET1+CCB 25.6%; Tier 1 27.8%.",
+   "status": "Verified",
+   "source_ids": [
+    "S6"
+   ],
+   "locator": "PDF p.3",
+   "note": "Total RWA USD 18,320,414k"
+  },
+  {
+   "metric": "branches",
+   "value": 78,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group: Bahrain 21, Egypt 45, Iraq 10, UK 1, DIFC 1",
+   "definition": "Branches, per note 1 of the audited statements",
+   "status": "Conflicting sources",
+   "source_ids": [
+    "S4",
+    "S5"
+   ],
+   "locator": "S4 note 1 (PDF p.17); S5 PDF p.8",
+   "note": "The annual report group overview shows '87 Branches'."
+  },
+  {
+   "metric": "employees",
+   "value": 2900,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "2025 ('Over 2,900')",
+   "period_type": "point_in_time",
+   "scope": "KFH Bahrain Group",
+   "definition": "Employees, stated as 'Over 2,900' in the annual report group overview",
+   "status": "Verified",
+   "source_ids": [
+    "S5"
+   ],
+   "locator": "PDF p.8",
+   "note": "Lower bound, rounded."
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "No private-banking client-asset total is published. Checked H1 2026 and FY2025 statements (S3, S4; only the off-balance-sheet AUM line and private banking segment data), Annual Report 2025 PBWM section (S5) and the private banking web pages (S8-S13)."
+  },
+  {
+   "metric": "aua",
+   "status": "Not publicly disclosed",
+   "where_checked": "Custody assets are mentioned in the fiduciary policy (S4 note 2.5(r)) but not quantified separately; S3, S5, S6"
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "Annual Report 2025 (S5; gives only '+40% monthly active digital customers'), statements S3/S4, website"
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "KFH Trader page (S15), Annual Report 2025 (S5)"
+  }
+ ],
+ "people": [
+  {
+   "name": "Hamad Abdulmohsen Almarzouq",
+   "name_ar": null,
+   "title": "Chairman of the Group Board (Non-Executive Director)",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "Kuwait Finance House B.S.C. (c)",
+   "business_unit": "Board of Directors",
+   "scope": "KFH Bahrain Group",
+   "appointed": "2023-03-22",
+   "appointed_note": "Director since 22 Mar 2023 (AR 2025). The parent AR says he has chaired KFH Bahrain since 2023 and also chaired it in 2015-2023. He is also Chairman of the parent (see kw-kfh).",
+   "previous_roles": "Chairman, Kuwait Finance House K.S.C.P. (2014-); Chairman, Kuveyt Turk; Chairman, KFH Egypt; Chairman & MD, Ahli United Bank Kuwait (2002-2014); Central Bank of Kuwait supervision roles (1990-1998).",
+   "education": "BA Industrial Systems Engineering, USC (1985); MA International Finance, Claremont Graduate University (1987)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official board page (S2). He signed the 30 Jun 2026 statement of financial position as Chairman (S3).",
+   "source_ids": [
+    "S2",
+    "S3",
+    "S5",
+    "S19"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Adel A. El-Labban",
+   "name_ar": null,
+   "title": "Deputy Chairman (Independent Director)",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Kuwait Finance House B.S.C. (c)",
+   "business_unit": "Board of Directors",
+   "scope": "KFH Bahrain Group",
+   "appointed": null,
+   "appointed_note": "Former long-serving AUB Group CEO; now Deputy Chairman.",
+   "previous_roles": "Group CEO, Ahli United Bank B.S.C. (Apr 2022-Mar 2023); Group CEO & MD, AUB (Nov 2000-Apr 2022); CEO, United Bank of Kuwait PLC (UK); MD, Commercial International Bank Egypt; earlier Morgan Stanley (USA) and Arab Banking Corporation. Director, KFH PLC (UK).",
+   "education": "MA and BA Economics, American University in Cairo (1980, 1977)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the board page (S2). Signed the FY2025 statements as Deputy Chairman (S4); biography in AR 2025 (S5).",
+   "source_ids": [
+    "S2",
+    "S4",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Dr. Shadi Zahran",
+   "name_ar": null,
+   "title": "Group Chief Executive Officer",
+   "functions": [
+    "Group CEO",
+    "CEO"
+   ],
+   "entity": "Kuwait Finance House B.S.C. (c)",
+   "business_unit": "Group",
+   "scope": "KFH Bahrain Group",
+   "appointed": "2025-04",
+   "appointed_note": "Group CEO of KFH Bahrain since April 2025 (KFH UK biography). A search result (not opened) gave the effective date as 13 Apr 2025.",
+   "previous_roles": "Group CEO, KFH Bahrain (Apr 2025-); Senior Deputy Group CEO - Finance, KFH Kuwait (2023-2025); Group CFO, KFH (2014-2023); CFO, Ahli United Bank Kuwait; Head of Group Financial Control, AUB Bahrain; Al-Rajhi Bank (KSA); audit roles at Grant Thornton KSA, Ernst & Young and Talal Abu-Ghazaleh. Director of KFH PLC (UK), Kuveyt Turk and AAOIFI; Vice Chairman, CIBAFI.",
+   "education": "MBA; Doctor of Business Administration, Hult International Business School (Boston)",
+   "qualifications": "CPA, CBA, CIPA",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "First on the official management page (S1). He signed the 30 Jun 2026 statements as Group CEO (S3). A 2026 news search found only business-banking and retail appointments, no change at this level (S20).",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S5",
+    "S16",
+    "S20"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Talal Kaiksow",
+   "name_ar": null,
+   "title": "Deputy Group Chief Executive Officer - Private Banking & Wealth Management",
+   "functions": [
+    "Deputy CEO",
+    "Private banking",
+    "Wealth"
+   ],
+   "entity": "Kuwait Finance House B.S.C. (c)",
+   "business_unit": "Private Banking & Wealth Management",
+   "scope": "KFH Bahrain Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not stated in official sources. He chairs the Group New Product Committee (GNPC), which reviews new products and processes for PBWM, Treasury, Retail and other areas across the KFHB Group and recommends them to the Group Executive Management Committee (AR 2025 governance section).",
+   "previous_roles": "Former CEO and Head of Private Banking, EFG Bank (Bahrain); Senior Private Banker, BSI Private Bank (Bahrain); Executive Director, Kaiksow Family Office; Executive Director, Capivest Investment Bank; Principal, Khaleej Finance & Investment.",
+   "education": "Postgraduate degree in Marketing Communication, University of Westminster",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Listed on the official management page and in AR 2025 (S1, S5). A search found a LinkedIn-hosted promotional article but no profile URL. A 2026 news search found only business-banking and retail appointments, no change at this level (S20).",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S20"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Zakout",
+   "name_ar": null,
+   "title": "Deputy Group Chief Executive Officer - Retail Banking",
+   "functions": [
+    "Deputy CEO",
+    "Retail",
+    "Affluent"
+   ],
+   "entity": "Kuwait Finance House B.S.C. (c)",
+   "business_unit": "Retail Banking (incl. Premium Banking)",
+   "scope": "KFH Bahrain Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Former Head of Private Banking & Wealth Management, Emirates NBD Egypt; GM Personal Banking & Wealth Management, Barwa Bank (Qatar); EVP Head of Personal Banking Group, Al Hilal Bank (UAE); Regional Head Retail Banking Levant & North Africa, and Regional Head Qatar/Bahrain/Yemen, Arab Bank.",
+   "education": "Bachelor's in Business Administration (Finance), Golden Gate University, USA",
+   "qualifications": null,
+   "linkedin_url": "https://www.linkedin.com/in/mohamedzaqout/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page (S1), AR 2025 (S5). LinkedIn search result titled 'Mohamed Zakout - Kuwait Finance House B.S.C. (c)' (search snippet only; URL slug spells 'zaqout') (S21).",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Samih Abutaleb",
+   "name_ar": null,
+   "title": "Deputy Group Chief Executive Officer - Technology & Operations",
+   "functions": [
+    "Deputy CEO",
+    "Technology",
+    "Digital",
+    "Operations"
+   ],
+   "entity": "Kuwait Finance House B.S.C. (c)",
+   "business_unit": "Technology & Operations",
+   "scope": "KFH Bahrain Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Former Group Head of IT and Group Head of Digital Transformation, Ahli United Bank B.S.C.; Director, AUB Egypt and AUB Kuwait; Director of Digital Transformation, Al Hilal Bank (UAE); VP Group Digital Office and Head of Agile Delivery, Emirates NBD; TIBCO/MENA eSolutions. Director, Benefit Company (Bahrain) and United Bank for Commerce & Investment (Libya).",
+   "education": "BSc Computer Science & Engineering, Zarka University; Master of IT Management, University of Wollongong; Harvard Business School executive programme",
+   "qualifications": null,
+   "linkedin_url": "https://www.linkedin.com/in/samihabutaleb/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page (S1), AR 2025 (S5). LinkedIn search result 'Samih Abutaleb - Kuwait Finance House' (search snippet only) (S21).",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Bassam Alali",
+   "name_ar": null,
+   "title": "Deputy Group CEO - Treasury & Investments",
+   "functions": [
+    "Deputy CEO",
+    "Treasury",
+    "Investments / asset management"
+   ],
+   "entity": "Kuwait Finance House B.S.C. (c)",
+   "business_unit": "Treasury & Investments",
+   "scope": "KFH Bahrain Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Former AUB B.S.C. Head of Treasury, Regional Head of Treasury ALM, Head of Treasury ALM, Chief Dealer FX & Money Markets; Senior Engineer, MTC-Vodafone (Zain) Bahrain. Director, United Bank for Commerce and Investment (Libya) and International Islamic Financial Market.",
+   "education": "BASc Computer Engineering, University of Ottawa; MSc Quantitative Finance, University of Westminster",
+   "qualifications": "CFA Charterholder",
+   "linkedin_url": "https://www.linkedin.com/in/bassam-alali-cfa-381b92a/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page (S1), AR 2025 (S5). LinkedIn search result 'Bassam Alali, CFA - Kuwait Finance House B.S.C. (c)' (search snippet only) (S21).",
+   "source_ids": [
+    "S1",
+    "S5",
+    "S21"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Assem",
+   "name_ar": null,
+   "title": "Deputy Group Chief Executive Officer - Corporate Banking",
+   "functions": [
+    "Deputy CEO",
+    "Corporate / wholesale"
+   ],
+   "entity": "Kuwait Finance House B.S.C. (c)",
+   "business_unit": "Corporate Banking",
+   "scope": "KFH Bahrain Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Vice Chairman, Commercial Islamic Bank of Iraq; former Chairman, KFH Finance Co. (Egypt); Senior Deputy CEO, AUB Egypt; Country GM, Arab Bank Bahrain; Group Chief Business Officer, Al Khalij Commercial Bank (Qatar); Mashreq (Qatar) and CIB (Egypt).",
+   "education": "Bachelor of Commerce, Ain Shams University",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page (S1), AR 2025 (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Oliver Schwarzhaupt",
+   "name_ar": null,
+   "title": "Deputy Group Chief Executive Officer - Risk and Compliance",
+   "functions": [
+    "Deputy CEO",
+    "Other"
+   ],
+   "entity": "Kuwait Finance House B.S.C. (c)",
+   "business_unit": "Risk & Compliance",
+   "scope": "KFH Bahrain Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Former Group CRO, TNG Holdings (Vietnam); Deputy CEO & CRO, Maritime Bank (Vietnam); Group CRO, Al Khaliji Bank (Qatar); Deputy CRO / Head of Group Risk, Emirates NBD; Commerzbank AG; SGZ-Bank.",
+   "education": "Master's degree in Economics, Justus-Liebig University, Germany",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official management page (S1), AR 2025 (S5).",
+   "source_ids": [
+    "S1",
+    "S5"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Philip Crawford",
+   "name_ar": null,
+   "title": "Chief Executive Officer - Kuwait Finance House PLC (UK)",
+   "functions": [
+    "Subsidiary CEO",
+    "Private banking"
+   ],
+   "entity": "Kuwait Finance House PLC (UK)",
+   "business_unit": "KFH UK (subsidiary of KFH Bahrain)",
+   "scope": "Subsidiary: KFH PLC (UK)",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": "Former MD - Global Market Head Saudi Arabia & Oman, HSBC Private Bank (Switzerland); MD - Head of International, HSBC Private Banking (UK); MD - Business Head MENA, HSBC Private Bank (UK); Head of Private Banking, HSBC Bank Middle East (Oman); Credit Suisse Private Banking (UK) roles incl. Head of Middle East; Barclays Private Banking (UK).",
+   "education": "Postgraduate Diploma in Islamic Banking & Insurance, Institute of Islamic Banking & Insurance (London)",
+   "qualifications": "Chartered Fellow (FCSI), Chartered Institute for Securities & Investment",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Listed in the KFH Bahrain AR 2025 executive management (S5). He accepted the 2026 Euromoney private banking awards in London as CEO of KFH UK (S18).",
+   "source_ids": [
+    "S5",
+    "S18"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "KFH Bahrain (the former Ahli United Bank B.S.C.) runs a Private Banking & Wealth Management division under Deputy Group CEO Talal Kaiksow, serving clients from Bahrain and a DIFC branch, with group subsidiaries in the UK, Egypt and Iraq. Its private banking shelf is open-architecture and partner-led: Allfunds for mutual funds (Azimut, BlackRock, Fidelity, PIMCO, Schroders and others; minimum USD 10,000; 1-3% arrangement fee), TFS for Shariah-compliant structured products, Azimut for fixed-income discretionary portfolios, MubasherTrade for equity trading, LaSalle/Nuveen/JLL for real estate, and IQ-EQ for trusts. In 2025 it launched a GCC Discretionary Portfolio Management offering and selected structured products, and prepared Advisory and DPM services for a 2026 launch. Its 2026 plan is to scale Advisory/DPM and expand alternatives and private markets through KFH subsidiaries. It hosts the KFH Group 'Advent Investment Management platform' (parent AR 2025). Below private banking sits Premium Banking (USD 200,000 minimum relationship balance), and the KFH Trader online platform offers self-directed global trading. All operations have been Shariah-compliant since 10 Dec 2023 in Bahrain.",
+  "segments": [
+   {
+    "name": "KFH Private Banking & Wealth Management",
+    "tier": "Private / HNW",
+    "eligibility": "Not published. Some products are for accredited investors only (S8), and mutual fund access is subject to the bank's qualification criteria (S9).",
+    "source_ids": [
+     "S8",
+     "S9",
+     "S23"
+    ]
+   },
+   {
+    "name": "Premium Banking",
+    "tier": "Affluent",
+    "eligibility": "Minimum relationship balance of USD 200,000",
+    "source_ids": [
+     "S14"
+    ]
+   }
+  ],
+  "private_banking": {
+   "present": "Yes",
+   "detail": "PBWM division (Deputy Group CEO Talal Kaiksow) is a separate reporting segment: H1 2026 operating income USD 25.4m, with segment liabilities and quasi-equity of USD 2.19bn. Services include RM coverage, banking solutions, financing, fixed income, mutual funds, dual currency deposits, structured products, real estate and private equity, and the KFH Trader platform. 'Private Online Banking DIFC Branch' is offered. Awards listed in AR 2025 include MEED 'Best Private Bank - Bahrain'. It works with group entities for a 'seamless, multi-jurisdictional client experience'. Euromoney (Jun 2026) describes KFH's PBWM, including Bahrain, as consolidated into one group-wide PBWM group in 2025.",
+   "source_ids": [
+    "S3",
+    "S5",
+    "S8",
+    "S10",
+    "S23",
+    "S22"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Note 1 describes the group as engaged in 'banking business, global fund management and private banking services'. Off-balance-sheet assets under management were USD 1.70bn at 30 Jun 2026. Real estate fund management and private equity are offered to private clients. No separate asset management subsidiary is named in the documents checked.",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S13"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "KFH Trader is an online trading platform with web and app access, real-time quotes, global markets and portfolio evaluation. Equity trading is through partner MubasherTrade ('online trading access to all major Arab and International stock exchanges'). Fixed income is available via primary and secondary markets, with custody and financing against pledged securities.",
+   "source_ids": [
+    "S15",
+    "S8",
+    "S11"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Self-directed trading via the KFH Trader app. The mobile banking app offers digital physical-gold buy/sell with delivery (launched 2025, described as a first in Bahrain). Mobile app ratings reached 4.8 (iOS) and 4.9 (Android), and monthly active digital customers grew over 40% in 2025. No in-app funds or portfolio product found.",
+   "source_ids": [
+    "S15",
+    "S5"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "RM-led investment advice ('advice, trading and execution'). A formal Advisory service model (policies, committees, controls) was built in 2025 for launch and scaling in 2026.",
+   "source_ids": [
+    "S10",
+    "S5"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "'GCC Discretionary Portfolio Management offering' launched in 2025. A broader DPM service was prepared for 2026. Azimut is the partner for fixed-income discretionary portfolios, with built-in financing.",
+   "source_ids": [
+    "S5",
+    "S8"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No robo-advisor or digital model portfolios on the KFH Bahrain site or in AR 2025.",
+   "source_ids": [
+    "S5",
+    "S10"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "Allfunds provides access to Shariah-compliant funds from Amundi, Azimut, BlackRock, Fidelity, Franklin Templeton, Goldman Sachs, Invesco, MFS, PineBridge, Schroders, Nomura and others. The fund page also lists Barings, BNY Mellon, Janus Henderson, PIMCO and Russell. Minimum subscription USD/GBP/EUR 10,000; arrangement fee 1.0-3.0%. The fund range was expanded across geographies in 2025.",
+   "source_ids": [
+    "S8",
+    "S9",
+    "S5"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "Structured deposits and investments (full or partial principal protection; underlyings include equities, indices, funds, FX and profit rates), sourced via TFS Structured Products (Tradition Group) with access to major issuers. New structured products were launched in 2025.",
+   "source_ids": [
+    "S12",
+    "S8",
+    "S5"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "Real estate fund management and private equity for private clients ('best-in-class managers'); real estate partners LaSalle, Nuveen (UK/US real estate) and JLL. The 2026 plan is to expand alternative and private market offerings through KFH subsidiaries.",
+   "source_ids": [
+    "S13",
+    "S8",
+    "S5"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Islamic retail bank licence (CBB). Conversion to Shariah-compliant operations took effect on 10 Dec 2023 in Bahrain, 22 Aug 2024 in the UK, 1 Sep 2024 in Egypt and 1 Jan 2025 in Iraq. Wealth shelf: Shariah-compliant funds, sukuk, structured products and DPM.",
+   "source_ids": [
+    "S4",
+    "S9"
+   ]
+  },
+  "asset_classes": [
+   "GCC equities",
+   "US/international equities",
+   "Mutual funds",
+   "Sukuk",
+   "Structured products",
+   "Private markets / alternatives",
+   "Real estate funds",
+   "Gold / precious metals"
+  ],
+  "partners": [
+   {
+    "partner": "Allfunds",
+    "kind": "Funds distribution platform",
+    "what": "Access to third-party Shariah-compliant mutual funds for private banking clients",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "partner": "TFS Structured Products (Tradition Group)",
+    "kind": "Product partner (structured products)",
+    "what": "Sourcing of Shariah-compliant structured products from global issuers",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "partner": "Azimut",
+    "kind": "Product partner (discretionary fixed income)",
+    "what": "Customised Shariah-compliant fixed-income discretionary portfolios with built-in financing",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "partner": "MubasherTrade (Mubasher Financial Services)",
+    "kind": "Execution / brokerage platform",
+    "what": "Multi-market equity trading for private clients",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "partner": "LaSalle Investment Management; Nuveen Real Estate; JLL",
+    "kind": "Product partners (real estate)",
+    "what": "Global, UK and US real estate investment opportunities",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "partner": "IQ-EQ (Guernsey); JLT",
+    "kind": "Trust services; universal life",
+    "what": "Trust structuring and universal life cover for private clients",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S8"
+    ]
+   },
+   {
+    "partner": "Advent (Advent Investment Management platform)",
+    "kind": "Wealth / portfolio management technology",
+    "what": "Group portfolio construction, risk management and rebalancing platform hosted at KFH Bahrain, connected to KFH Kuwait and KFH Capital",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S19"
+    ]
+   }
+  ],
+  "initiatives": [
+   {
+    "date": "2023-12-10",
+    "what": "Started operating under an Islamic retail banking licence in Bahrain after converting its conventional business. The UK followed on 22 Aug 2024, Egypt on 1 Sep 2024 and Iraq on 1 Jan 2025.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2025-07-10",
+    "what": "Legal name changed from Ahli United Bank B.S.C. (c) to Kuwait Finance House B.S.C. (c), and the DIFC branch was rebranded. AUB UK became Kuwait Finance House PLC and AUB Egypt became KFH Bank - Egypt in Jan 2025.",
+    "source_ids": [
+     "S3",
+     "S5",
+     "S7"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Sold its stake in Ahli Bank Oman.",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "PBWM launched a GCC Discretionary Portfolio Management offering, selected structured products and an expanded mutual fund range, and formalised Advisory and DPM operating models for a 2026 launch.",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Launched digital physical-gold buy/sell with delivery, digital onboarding and instant debit cards. A UK digital transformation programme delivered new Retail, Corporate and Private Banking platforms.",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2026",
+    "what": "Stated 2026 PBWM focus: scale Advisory and DPM; expand alternatives and private markets through KFH subsidiaries; enhance the mutual fund and discretionary portfolio platforms; digital transformation.",
+    "source_ids": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2026-10",
+    "what": "Diamond sponsor of Fintech Forward 2026 (7-8 Oct 2026, Bahrain), showcasing digital banking services.",
+    "source_ids": [
+     "S20"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "Explicit 2026 plan to 'scale Advisory and Discretionary Portfolio Management services' and 'further enhanc[e] mutual fund and discretionary portfolio platforms' (S5, PDF p.36).",
+    "Wealth is delivered through partners (Allfunds, TFS, Azimut, MubasherTrade), so third-party product and technology is the norm (S8).",
+    "No digital wealth or model-portfolio product found: investing in the app is limited to self-directed KFH Trader and gold, while the retail app's monthly active users grew over 40% in 2025 (S5, S15).",
+    "New wealth products across the KFHB Group (incl. UK, Egypt, Iraq) go through the Group New Product Committee, chaired by DGCEO PBWM Talal Kaiksow (S5).",
+    "Premium Banking (USD 200k minimum) is an affluent tier that is served by RMs only, with no digital investment proposition found (S14)."
+   ],
+   "barriers": [
+    "Islamic-only (CBB Islamic retail licence): every product needs Shari'a Supervisory Board approval (S4).",
+    "100% owned by KFH Kuwait. Group PBWM (Liddle, see kw-kfh) and KFH Capital set group-wide wealth direction, and the Advent platform is already hosted in Bahrain, so vendor choices may be made at group level (inference; not documented) (S19).",
+    "Small PB segment by profit: H1 2026 private banking profit before tax was USD 3.6m on USD 25.4m operating income (S3)."
+   ],
+   "incumbent_vendors": [
+    "Allfunds - mutual fund platform (S8)",
+    "TFS Structured Products (Tradition Group) - structured products (S8)",
+    "Azimut - fixed-income DPM (S8)",
+    "MubasherTrade - equity trading platform (S8)",
+    "Advent - group investment management platform hosted at KFH Bahrain (S19)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Management",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/about/corporate-governance/management/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "The individual biography sub-pages were also read (e.g. /management/dr-shadi-zahran/, /talal-kaiksow/, /mohamed-zakout/). The site footer still reads 'COPYRIGHT 2025' and parts of it show 'Welcome to AUB'."
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/about/corporate-governance/board-of-directors/",
+   "doc_type": "Official board page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "Condensed consolidated interim financial information, 30 June 2026 (reviewed)",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wp-content/uploads/2026/08/KFHB-Financials-Jun-2026-Web-version.pdf",
+   "doc_type": "Reviewed interim financial statements (AAOIFI FAS)",
+   "tier": 1,
+   "published": "2026-08",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "Consolidated financial statements, 31 December 2025 (audited)",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wp-content/uploads/2026/02/KFHB-Financials-Dec-2025-Web-version.pdf",
+   "doc_type": "Audited annual financial statements (authorised 16 Feb 2026)",
+   "tier": 1,
+   "published": "2026-02-16",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Annual Report 2025",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wp-content/uploads/2026/04/KFH-AR-2025-English-low.pdf",
+   "doc_type": "Annual report (incl. directors' report, governance, executive biographies)",
+   "tier": 1,
+   "published": "2026-04",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Pillar 3 Disclosures - Basel III, 30 June 2026 (Regulatory Disclosures 2026 First Half)",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wp-content/uploads/2026/08/Regulatory-Disclosures-2026-First-Half.pdf",
+   "doc_type": "Regulatory (Pillar 3) disclosure",
+   "tier": 1,
+   "published": "2026-08",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Interim & Annual Financials (IR listing)",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/investor-relations/interim-and-annual-financials/",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "File names change from 'AUB-FS-Jun-2025' to 'KFHB-FS-September-2025', which matches the Jul 2025 rename. The latest listed statements are for 30 Jun 2026."
+  },
+  {
+   "id": "S8",
+   "title": "Powerful Partners For Performance",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wealth/powerful-partners-for-performance/",
+   "doc_type": "Official private banking page (accredited investors)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Undated page; its footer text dates from the AUB era."
+  },
+  {
+   "id": "S9",
+   "title": "Mutual Funds (Private > Wealth Management)",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wealth/private-wealth-management/mutual-funds/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "Wealth Management (Private)",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wealth/private-wealth-management/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "Fixed Income Securities (Private > Wealth Management)",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wealth/private-wealth-management/fixed-income-equity-brokerage/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Structured Products (Private > Wealth Management)",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wealth/private-wealth-management/structured-products/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Real Estate Fund Management & Private Equity",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/wealth/private-wealth-management/real-estate-fund-management-private-equity/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Premium Banking",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/premium-banking/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "KFH Trader",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/business/kfhtrader/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "Shadi Ahmed Yacoub Zahran (board biography)",
+   "publisher": "Kuwait Finance House PLC (UK)",
+   "url": "https://www.uk.kfh.com/about/kfh-plc-overview/shadi-ahmed-yacoub-zahran/",
+   "doc_type": "Official biography (group subsidiary site)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Kuwait Finance House K.S.C.P. consolidated financial statements 31 Dec 2025, note 14 (subsidiaries)",
+   "publisher": "Kuwait Finance House K.S.C.P.",
+   "url": "https://www.kfh.com/en/reports/kuwait/Financial-Reports/Year-end-financial-statements-2025/document_en/KFH%20Signed%20Consolidated%20FS%2031%20Dec%202025%20(EN).pdf.pdf",
+   "doc_type": "Parent audited financial statements",
+   "tier": 1,
+   "published": "2026-01-12",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "KFH wins four Euromoney private banking awards (2026)",
+   "publisher": "Kuwait Finance House",
+   "url": "https://www.kfh.com/en/home/Personal/news/2026/Euromoney.html",
+   "doc_type": "Press release (parent)",
+   "tier": 2,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "Kuwait Finance House K.S.C.P. Annual Report 2025 (group PBWM, Advent platform)",
+   "publisher": "Kuwait Finance House K.S.C.P.",
+   "url": "https://www.kfh.com/en/reports/kuwait/Annual-Reports/Annual-Report-2025/document_en/KFH%20Annual%20Report%20En%202025%20(Draft-17)%20Web.pdf.pdf",
+   "doc_type": "Parent annual report",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "Search results: KFH-Bahrain 2026 news (GDN Online, TradeArabia, bh.kfh.com news)",
+   "publisher": "Gulf Daily News / TradeArabia (via web search)",
+   "url": "https://www.gdnonline.com/Details/1405552/KFH-Bahrain-joins-Fintech-Forward-as-diamond-sponsor",
+   "doc_type": "News search results",
+   "tier": 5,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only. Covers Fintech Forward 2026 diamond sponsorship (7-8 Oct 2026), Mohamed Albinmohamed as Head of Business Banking (28 Jul 2026) and retail promotions (Apr 2026). No CEO or wealth-head change found."
+  },
+  {
+   "id": "S21",
+   "title": "LinkedIn search results: Samih Abutaleb, Bassam Alali CFA, Mohamed Zakout; KFH-Bahrain company page",
+   "publisher": "LinkedIn (via web search)",
+   "url": "https://www.linkedin.com/company/kfh-bahrain",
+   "doc_type": "LinkedIn search-result snippets",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only. Profiles returned: https://www.linkedin.com/in/samihabutaleb/ ('Kuwait Finance House'), https://www.linkedin.com/in/bassam-alali-cfa-381b92a/ ('Kuwait Finance House B.S.C. (c)'), https://www.linkedin.com/in/mohamedzaqout/ (titled 'Mohamed Zakout - Kuwait Finance House B.S.C. (c)')."
+  },
+  {
+   "id": "S22",
+   "title": "Middle East's best Islamic bank for wealth management 2026: Kuwait Finance House",
+   "publisher": "Euromoney",
+   "url": "https://www.euromoney.com/article/chrxn7qhyooc4sc4g4kkc8g08/banking/middle-easts-best-islamic-bank-for-wealth-management-2026-kuwait-finance-house/",
+   "doc_type": "Trade press",
+   "tier": 5,
+   "published": "2026-06-17",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S23",
+   "title": "KFH Private Banking (Bahrain landing page)",
+   "publisher": "Kuwait Finance House B.S.C. (c)",
+   "url": "https://www.bh.kfh.com/kfh-private-banking/",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Legal name",
+   "detail": "The batch brief calls the entity 'Kuwait Finance House (Bahrain) B.S.C.(c)'. Its financial statements give the legal name as 'Kuwait Finance House B.S.C. (c)' (formerly Ahli United Bank B.S.C. (c)), and website disclaimers use 'Kuwait Finance House Bank B.S.C. (c)'. 'KFH Bahrain' is the defined short name.",
+   "source_ids": [
+    "S3",
+    "S4",
+    "S11"
+   ],
+   "resolution": "Used the statement name as the legal name; 'Kuwait Finance House (Bahrain)' is kept only as the display name."
+  },
+  {
+   "field": "Branch count",
+   "detail": "Audited statements note 1: 78 branches at 31 Dec 2025. Annual report overview: '87 Branches'.",
+   "source_ids": [
+    "S4",
+    "S5"
+   ],
+   "resolution": "Recorded 78 with status 'Conflicting sources'."
+  },
+  {
+   "field": "Website currency",
+   "detail": "The management page footer reads 'COPYRIGHT 2025' and some pages still show 'Welcome to AUB'. The partners page is undated and may predate the 2025 rebrand.",
+   "source_ids": [
+    "S1",
+    "S8"
+   ],
+   "resolution": "The management list matches AR 2025 (Apr 2026) and the H1 2026 signatories. Partners are recorded as Live per the official site but should be re-confirmed."
+  }
+ ],
+ "open_items": [
+  "KFH Bahrain does not publish a customer count, a private-banking client-asset figure or investing-user numbers. AUM here is the AAOIFI off-balance-sheet line only.",
+  "Re-confirm the private-banking partner list (Allfunds, TFS, Azimut, MubasherTrade, LaSalle/Nuveen/JLL, IQ-EQ, JLT). The page is undated and may predate the Islamic conversion and rebrand.",
+  "Appointment dates for Kaiksow, Zakout, Abutaleb, Alali, Assem and Schwarzhaupt are not in official sources. Zahran's 13 Apr 2025 effective date was seen only in a search result (official UK bio says April 2025).",
+  "No Q3 2026 statements yet (latest listed: 30 Jun 2026). Bahrain-only (solo) figures are not extracted.",
+  "Board members beyond the Chair and Deputy Chair (Alshamlan, Al-Terkait, Dr Khalid Al Saad, Khalid Najibi, Noorur Rahman Abid, Khaled Al Nisf, Muad Al Osaimi, from the board page link list) were not profiled.",
+  "LinkedIn not found for Zahran or Kaiksow. LinkedIn matches for Zakout, Abutaleb and Alali are search snippets only."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B24",
+ "checked": "2026-10-12"
+}
