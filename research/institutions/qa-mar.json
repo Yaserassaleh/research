@@ -1,174 +1,1568 @@
 {
-  "id": "qa-mar",
-  "name": "AlRayan Bank (formerly Masraf Al Rayan)",
-  "short_name": "AlRayan Bank (MAR)",
-  "legal_name": "AlRayan Bank (Q.P.S.C.) (formerly Masraf Al Rayan (Q.P.S.C.))",
-  "name_ar": "بنك الريان",
-  "country": "QA",
-  "hq_city": "Lusail (Doha)",
-  "website": "https://www.alrayan.com",
-  "linkedin_company": "https://qa.linkedin.com/company/alrayanbankgroup",
-  "category": "Bank",
-  "type": "Islamic commercial bank",
-  "model": "Islamic",
-  "founded": "2006 (incorporated 4 January 2006); merged with Al Khalij Commercial Bank (al khaliji) by absorption effective 30 Nov 2021; renamed from Masraf Al Rayan to AlRayan Bank",
-  "regulators": ["QCB", "QFMA (QSE-listed issuer; Al Rayan Investment)", "QFCRA (Al Rayan Investment)", "PRA/FCA (Al Rayan Bank PLC, UK)"],
-  "listed": true,
-  "exchange": "QSE",
-  "ticker": "MARK",
-  "parent_id": null,
-  "ownership_summary": "QSE-listed with about 174k shareholders (126k outside Qatar). At 30 Jun 2026 the top holders were QIA 20.46%, the QAF investment portfolio 7.51% and a pension fund 5.36%. Government/GRE holders total 33.56% and Qatari ownership is 79.52% (Q2 2026 investor presentation).",
-  "shareholders": [
-    {"holder": "Qatar Investment Authority", "pct": 20.46, "as_of": "2026-06-30", "source_ids": ["S5"]},
-    {"holder": "QAF investment portfolio", "pct": 7.51, "as_of": "2026-06-30", "source_ids": ["S5"]},
-    {"holder": "Pension Fund", "pct": 5.36, "as_of": "2026-06-30", "source_ids": ["S5"]}
-  ],
-  "government_link": "Yes - QIA is the largest shareholder (20.46%) and Government/GRE holders total 33.56% at 30 Jun 2026 (S5). Deposits from Government/GRE are 51% and financing to Government/GRE 46% of the portfolio (S5).",
-  "group_structure": "AlRayan Bank (Q.P.S.C.) is the QSE-listed Islamic parent. Subsidiaries (30 Jun 2026): Al Rayan Investment L.L.C. (ARI, 100%, QFC asset manager and corporate advisory, not profiled separately, so its AUM and people are recorded here with subsidiary scope); Al Rayan Bank PLC (UK Islamic bank, 73.91% after a GBP 50m capital increase in H1 2026, from 73.76%); Al Khaliji France S.A. (100%, conventional bank in Paris with 2 UAE branches, held at arm's length: its assets and liabilities are presented in other assets/liabilities and its profit is excluded from income); Al Rayan Partners L.L.C. (100%, real estate consulting, in liquidation); plus sukuk, financing and OTC hedging vehicles (MAR Sukuk Ltd, MAR Finance LLC, Lusail Waterfront Investment Co, Lusail Ltd, AKCB Markets Ltd). Associates (FY2025): National Real Estate Development and Investment SAOC (Oman, 21.48%), Sahb Finance, Beema (Damaan Islamic Insurance) and Linc.",
-  "subsidiaries": [
-    {"name": "Al Rayan Investment L.L.C. (ARI)", "pct": 100, "activity": "Shari'a-compliant asset management (funds, ETF, segregated portfolios, sukuk execution) and corporate financial advisory; QFCRA-authorised, QFMA-regulated; capital USD 100m", "linked_id": null, "source_ids": ["S2", "S10", "S4"]},
-    {"name": "Al Rayan Bank PLC (UK)", "pct": 73.91, "activity": "Islamic bank, London: Structured Real Estate and Premier Banking for GCC-based customers; total assets above GBP 3bn in 2025", "linked_id": null, "source_ids": ["S2", "S4"]},
-    {"name": "Al Khaliji France S.A.", "pct": 100, "activity": "Conventional banking (Paris; 2 UAE branches); not consolidated line-by-line (presented in other assets/liabilities)", "linked_id": null, "source_ids": ["S2", "S5"]},
-    {"name": "Al Rayan Partners L.L.C.", "pct": 100, "activity": "Real estate consulting (Qatar); liquidation in progress", "linked_id": null, "source_ids": ["S2"]},
-    {"name": "MAR Sukuk Limited / MAR Finance L.L.C.", "pct": 100, "activity": "Sukuk issuance vehicles (Cayman / QFC)", "linked_id": null, "source_ids": ["S2"]},
-    {"name": "AKCB Markets Limited", "pct": 100, "activity": "OTC Shari'a-compliant risk management instruments (Cayman)", "linked_id": null, "source_ids": ["S2"]},
-    {"name": "Lusail Waterfront Investment Co. / Lusail Limited", "pct": 100, "activity": "Investment and financing activities (Cayman)", "linked_id": null, "source_ids": ["S2"]},
-    {"name": "National Real Estate Development and Investment SAOC (associate)", "pct": 21.48, "activity": "Real estate services (Oman) - associate", "linked_id": null, "source_ids": ["S3"]},
-    {"name": "Sahb Finance Company; Beema (Damaan Islamic Insurance); Linc (associates)", "pct": null, "activity": "Financing; takaful insurance; facility services - associates (ownership % not extracted)", "linked_id": null, "source_ids": ["S3"]}
-  ],
-  "footprint": "Qatar: 13 branches (11 retail, 2 corporate) and 103-105 ATMs, with AlRayan GO self-service zones (S2, S4, S5). UK: Al Rayan Bank PLC (London). France and UAE: Al Khaliji France (Paris branch and 2 UAE branches). Second-largest listed Islamic bank in Qatar by assets (30% share) (S5).",
-  "customer_segments": "Personal Banking covers Retail, AlRayan Premier (affluent: salary QAR 35k+ or QAR 1m+ deposit/financing) and Private Banking (HNW and affluent families). Wholesale covers government/GRE, corporate, commercial and SME. Treasury & FI covers institutions. ARI serves institutions, family offices, governments, pension funds and HNW individuals. The UK arm serves GCC-based Premier clients (especially Saudi Arabia) and real-estate borrowers.",
-  "business_lines": "Five reportable segments: Corporate Banking, Retail Banking, Treasury and Financial Institutions, Asset Management (ARI: customised equity and fixed income solutions for institutional and HNW investors, mutual funds and an ETF, financial advisory) and International Operations (S2). Group business lines: Corporate & SME; Personal Banking (Retail, Premier and Private); Treasury & FI (primary dealer for QCB and IILM sukuk); Asset Management & Financial Advisory; International (UK, France, UAE) (S4). Retail investing: QSE trading via The Group's Sahl Plus link in the AlRayan GO app (May 2026).",
-  "metrics": [
-    {"metric": "total_assets", "value": 184071482, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "TOTAL ASSETS, interim consolidated statement of financial position (reviewed, PwC, 21 Jul 2026)", "status": "Verified", "source_ids": ["S2", "S5"], "locator": "S2 PDF p.4 (scanned page, read visually)", "note": "Presentation: QAR 184bn."},
-    {"metric": "total_assets", "value": 181258047, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "TOTAL ASSETS (audited)", "status": "Verified", "source_ids": ["S2", "S3"], "locator": "S2 PDF p.4 comparative column", "note": ""},
-    {"metric": "customer_deposits", "value": 119961477, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Customer current accounts (QAR 8,670,892k) plus participatory investment accounts (quasi-equity; QAR 111,290,585k: savings 9.56bn, term 95.54bn, short-term investment 5.50bn, profit payable and fair value reserve share). Excludes due to banks (QAR 24.2bn) and sukuk financing.", "status": "Verified", "source_ids": ["S2", "S17"], "locator": "S2 PDF p.4 and PIA note (PDF p.29)", "note": "Sum computed from statement lines; matches the CEO's 'customer deposits (QR120bn)', up 8.4% YoY (S17)."},
-    {"metric": "customer_deposits", "value": 111138348, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Customer current accounts (QAR 7,839,029k) plus participatory investment accounts (QAR 103,299,319k)", "status": "Verified", "source_ids": ["S2"], "locator": "S2 PDF p.4 comparative column", "note": "Computed."},
-    {"metric": "net_loans", "value": 113731515, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Financing assets (net; Islamic financing), interim statement of financial position", "status": "Verified", "source_ids": ["S2", "S5"], "locator": "S2 PDF p.4", "note": "Presentation: QAR 114bn."},
-    {"metric": "net_loans", "value": 118188326, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Financing assets (net), audited", "status": "Verified", "source_ids": ["S2"], "locator": "S2 PDF p.4 comparative column", "note": ""},
-    {"metric": "investment_securities", "value": 52196923, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Investment securities on the bank's own balance sheet (not client assets, not AUM)", "status": "Verified", "source_ids": ["S2"], "locator": "PDF p.4", "note": ""},
-    {"metric": "total_equity", "value": 25497748, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "TOTAL EQUITY incl. QAR 1,000,000k instrument eligible as additional capital and QAR 337,398k non-controlling interest; excludes quasi-equity", "status": "Verified", "source_ids": ["S2"], "locator": "PDF p.4", "note": "Equity attributable to equity holders of the Bank QAR 24,160,350k."},
-    {"metric": "operating_income", "value": 7846267, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Group consolidated", "definition": "'TOTAL INCOME, NET OF FINANCE EXPENSE', consolidated statement of income, before deducting net profit attributable to quasi-equity (PIA holders)", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.10", "note": "Islamic-bank presentation; FY2024 QAR 8,481,008k."},
-    {"metric": "operating_income", "value": 3707893, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Group consolidated", "definition": "'TOTAL INCOME, NET OF FINANCE EXPENSE', interim statement of income (before quasi-equity share of QAR 2,079,576k)", "status": "Verified", "source_ids": ["S2"], "locator": "PDF p.5", "note": "The presentation reports 'net operating profit' of QAR 1,628m (different basis) (S5)."},
-    {"metric": "net_profit", "value": 1328595, "unit": "thousand", "currency": "QAR", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Group consolidated", "definition": "Net profit for the year attributable to equity holders of the Bank", "status": "Verified", "source_ids": ["S3"], "locator": "PDF p.10", "note": "Total net profit QAR 1,350,612k incl. NCI. A Gulfbase headline (search results only) cites 'QR1,530m for 2025', which does not match the audited statements."},
-    {"metric": "net_profit", "value": 687476, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "H1 2026", "period_type": "duration", "scope": "Group consolidated", "definition": "Net profit for the period attributable to equity holders of the Bank", "status": "Verified", "source_ids": ["S2", "S5"], "locator": "S2 PDF p.5", "note": "H1 2025: QAR 821,383k (-16%)."},
-    {"metric": "aum", "value": 3.9, "unit": "billion", "currency": "QAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Subsidiary: Al Rayan Investment L.L.C.", "definition": "'ARI's assets under management (AUM) across money markets, public equities and sukuk'", "status": "Verified", "source_ids": ["S4"], "locator": "S4 PDF p.24", "note": "The ARI team page says the Head of Asset Management manages 'more than QAR5bn in client portfolios' (undated) (S12). Possibly overlaps with the group's off-balance sheet AUM line (QAR 3.94bn at 31 Dec 2025); do not add the two."},
-    {"metric": "off_balance_sheet_aum", "value": 4889553, "unit": "thousand", "currency": "QAR", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group: off-balance sheet assets under management", "definition": "'Off-balance sheet assets under management' (money market placements QAR 356,298k; sukuk, shares, mutual funds and other securities QAR 4,533,255k); statement of changes in off-balance sheet AUM", "status": "Verified", "source_ids": ["S2"], "locator": "S2 PDF p.4 and p.11", "note": "QAR 3,943,112k at 31 Dec 2025; additions QAR 2.08bn in H1 2026."},
-    {"metric": "fund_size", "value": 460, "unit": "million", "currency": "QAR", "period_end": "2025-12-31", "period_label": "end-2025", "period_type": "point_in_time", "scope": "Fund: Al Rayan Qatar ETF (QATR)", "definition": "Approximate market capitalisation of QATR", "status": "Verified", "source_ids": ["S4"], "locator": "S4 PDF p.24", "note": "Approximate. The Al Rayan GCC Fund had 'assets north of QAR 390 million' (same page)."},
-    {"metric": "branches", "value": 13, "unit": "unit", "currency": null, "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Bank - Qatar", "definition": "Branches in Qatar (11 retail and 2 corporate per AR 2025)", "status": "Verified", "source_ids": ["S2", "S4"], "locator": "S2 note 1; S4 p.21", "note": ""}
-  ],
-  "disclosure_checks": [
-    {"metric": "wealth_client_assets", "status": "Not publicly disclosed", "where_checked": "Private Banking and Premier pages (S7, S8), Annual Report 2025 (S4), Q2 2026 investor presentation (S5)."},
-    {"metric": "customers", "status": "Not found after research", "where_checked": "Annual Report 2025 (S4), Q2 2026 investor presentation (S5), H1 2026 statements (S2)."},
-    {"metric": "investing_users", "status": "Not publicly disclosed", "where_checked": "Sahl Plus release (S13), AlRayan GO release (S14), Annual Report 2025 (S4)."},
-    {"metric": "employees", "status": "Not found after research", "where_checked": "Annual Report 2025 gives only Qatari headcount (192, 33% Qatarization) (S4 p.9); total headcount not found."}
-  ],
-  "people": [
-    {"name": "Sheikh Mohamed Bin Hamad Bin Qassim Al Thani", "name_ar": null, "title": "Chairman of the Board of Directors", "functions": ["Chair", "Board"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Board of Directors", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Signed the 30 Jun 2026 interim statements as Chairman (S2); quoted as Chairman on 1 Oct 2026 (S6); Chairman's message in AR 2025 (S4).", "source_ids": ["S2", "S4", "S6"], "checked": "2026-10-12"},
-    {"name": "Usman Ahmed", "name_ar": null, "title": "Group Chief Executive Officer (appointed; QCB-approved; to assume duties after joining formalities)", "functions": ["Group CEO"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Group", "scope": "Group", "appointed": "2026-10", "appointed_note": "Appointment announced 30 Sep / 1 Oct 2026 with QCB approval; start date not given (S6, S18).", "previous_roles": "30+ years in banking across the Middle East, Asia and Europe: Group CEO, National Bank of Bahrain; Citigroup roles incl. CEO Citi Malaysia, CEO Citi Bahrain, Kuwait and Qatar, and Global Head of Citi Islamic Banking (S6).", "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Requires verification", "role_evidence": "Appointment reported 1 Oct 2026 (S6); not yet on the Executive Management page, which shows Omar Al Emadi as Acting Group CEO (S1). Confirm start date.", "source_ids": ["S6", "S1", "S18"], "checked": "2026-10-12"},
-    {"name": "Omar Al Emadi", "name_ar": "عمر العمادي", "title": "Acting Group Chief Executive Officer and Group Chief Operations and Administration Officer", "functions": ["Group CEO", "Operations"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Group", "scope": "Group", "appointed": "2026-10-01", "appointed_note": "Acting Group CEO from 1 Oct 2026 alongside his existing COO role, until Usman Ahmed takes office (S6). Non-executive director of Al Rayan Bank PLC (UK) since Oct 2022 (S15).", "previous_roles": "Over 20 years of experience (S1).", "education": "BSc in Finance, California State University (S1)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Executive Management page (shareholdings as of 31 Aug 2026) checked 2026-10-12 (S1); 1 Oct 2026 announcement (S6).", "source_ids": ["S1", "S6", "S15"], "checked": "2026-10-12"},
-    {"name": "Fahad Bin Abdulla Al Khalifa", "name_ar": null, "title": "Advisor to the Chairman (Group CEO until 30 Sep 2026)", "functions": ["Other"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Chairman's office", "scope": "Group", "appointed": "2026-10", "appointed_note": "Group CEO from 2021 (S15) to 30 Sep 2026; moved to Advisor to the Chairman (S6). Signed the 30 Jun 2026 statements as Group CEO (S2).", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Departed", "role_evidence": "Departed the Group CEO role on 30 Sep 2026 per 1 Oct 2026 announcement (S6). Al Rayan Bank UK board page still lists him as Group CEO (stale) (S15).", "source_ids": ["S6", "S2", "S15"], "checked": "2026-10-12"},
-    {"name": "Rana Al Asaad", "name_ar": "رنا الأسعد", "title": "GM, Personal Banking", "functions": ["Retail", "Affluent", "Private banking"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Personal Banking (Retail, Premier and Private)", "scope": "Group", "appointed": null, "appointed_note": "Quoted as 'Acting Chief Business Officer' in the Jun 2023 Premier relaunch (S9).", "previous_roles": "26+ years of banking experience (S1).", "education": "BA English Literature, Qatar University; Diploma in Business Management, London Metropolitan University (S1)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Executive Management page checked 2026-10-12 (S1).", "source_ids": ["S1", "S9"], "checked": "2026-10-12"},
-    {"name": "Hassan Al-Jaidah", "name_ar": null, "title": "Head of AlRayan Premier Banking (as of Jun 2023)", "functions": ["Affluent"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Personal Banking - AlRayan Premier", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Requires verification", "role_evidence": "Only source is the 11 Jun 2023 Premier release (S9); not a listed executive.", "source_ids": ["S9"], "checked": "2026-10-12"},
-    {"name": "Houssam Itani", "name_ar": "حسام عيتاني", "title": "Group Chief Strategy and Technology Officer", "functions": ["Strategy", "Technology", "Digital"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Strategy and Technology", "scope": "Group", "appointed": "2026-05", "appointed_note": "Promoted from Group Chief Transformation Officer in May 2026 (S16); led the AlRayan GO launch as Group Chief Transformation Officer (Dec 2024) (S14).", "previous_roles": "20+ years in financial services consulting with financial institutions and central banks (S1).", "education": "MBA, IMD Lausanne; BBA in Finance, American University of Beirut (S1)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official Executive Management page checked 2026-10-12 (S1).", "source_ids": ["S1", "S14", "S16"], "checked": "2026-10-12"},
-    {"name": "Sheikh Mohammed Bin Abdulaziz Al Thani", "name_ar": "الشيخ محمد بن عبد العزيز آل ثاني", "title": "GM, Wholesale Banking", "functions": ["Corporate / wholesale"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Wholesale Banking", "scope": "Group", "appointed": null, "appointed_note": "Spokesperson for the Sahl Plus brokerage link launch (May 2026) (S13).", "previous_roles": "14+ years of experience (S1).", "education": "MBA and a specialised Master's in Strategic Business Unit Management (S1)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Executive Management page checked 2026-10-12 (S1).", "source_ids": ["S1", "S13"], "checked": "2026-10-12"},
-    {"name": "Tahir Pirzada", "name_ar": null, "title": "GM, Group Treasurer and FI", "functions": ["Treasury"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Group Treasury and Financial Institutions", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": "30+ years of experience (S1).", "education": "MBA (Finance), Imperial College of Business Studies, Lahore (S1)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Executive Management page checked 2026-10-12 (S1).", "source_ids": ["S1"], "checked": "2026-10-12"},
-    {"name": "Shahnawaz Niazi", "name_ar": null, "title": "Group Head of Finance", "functions": ["Finance"], "entity": "AlRayan Bank (Q.P.S.C.)", "business_unit": "Finance", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": null, "education": "Bachelor's in Accounting and Commerce, University of Karachi (S1)", "qualifications": "Chartered Accountant (ICAP) (S1)", "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official Executive Management page checked 2026-10-12 (S1).", "source_ids": ["S1"], "checked": "2026-10-12"},
-    {"name": "Akber Khan", "name_ar": null, "title": "Acting Chief Executive Officer, AlRayan Investment (ARI)", "functions": ["Subsidiary CEO", "Investments / asset management"], "entity": "Al Rayan Investment L.L.C.", "business_unit": "ARI", "scope": "Subsidiary: Al Rayan Investment L.L.C.", "appointed": null, "appointed_note": "Joined ARI in 2009 (S12).", "previous_roles": "25+ years in investment; previously Director at Deutsche Bank, London (European and emerging markets equities); focus on corporate financial advisory and asset management (S12).", "education": "Degree from University College London (S12)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "ARI team page checked 2026-10-12 (S12).", "source_ids": ["S12"], "checked": "2026-10-12"},
-    {"name": "Zohaib Pervez", "name_ar": null, "title": "Director, Head of Asset Management, AlRayan Investment", "functions": ["Investments / asset management"], "entity": "Al Rayan Investment L.L.C.", "business_unit": "ARI - Asset Management", "scope": "Subsidiary: Al Rayan Investment L.L.C.", "appointed": null, "appointed_note": "Joined ARI in 2015 (S12).", "previous_roles": "Portfolio manager, JS Investments (Pakistan); research analyst at QNB Financial Services and Samba Capital; manages more than QAR 5bn incl. the Al Rayan GCC Fund (S12).", "education": "MBA, Karachi University (S12)", "qualifications": "CFA charterholder (S12)", "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "ARI team page checked 2026-10-12 (S12).", "source_ids": ["S12"], "checked": "2026-10-12"},
-    {"name": "Giles Cunningham", "name_ar": null, "title": "Chief Executive Officer and Director, Al Rayan Bank PLC (UK)", "functions": ["Subsidiary CEO"], "entity": "Al Rayan Bank PLC", "business_unit": "Al Rayan Bank UK", "scope": "Subsidiary: Al Rayan Bank PLC", "appointed": "2021-09", "appointed_note": "Appointed to the Board in September 2021 (S15).", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Al Rayan Bank UK board and executive page checked 2026-10-12 (S15).", "source_ids": ["S15"], "checked": "2026-10-12"},
-    {"name": "Maisam Fazal", "name_ar": null, "title": "Chief Commercial Officer, Al Rayan Bank PLC (UK)", "functions": ["Affluent", "Retail"], "entity": "Al Rayan Bank PLC", "business_unit": "Al Rayan Bank UK - commercial (Premier Banking, liabilities, products, marketing)", "scope": "Subsidiary: Al Rayan Bank PLC", "appointed": "2018", "appointed_note": "Joined 2013; CCO since 2018; led the pivot to Premier Banking (S15).", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Al Rayan Bank UK board and executive page checked 2026-10-12 (S15).", "source_ids": ["S15"], "checked": "2026-10-12"}
-  ],
-  "capabilities": {
-    "wealth_summary": "AlRayan Bank is fully Islamic. Its wealth offer has two sides. The first is Personal Banking under GM Rana Al Asaad: AlRayan Premier for the affluent (salary QAR 35k+, or QAR 1m+ deposits or financing) and Private Banking with a Private Relationship Manager covering investment planning and asset management, credit, wealth protection and business planning (no product detail or threshold published). The second is the wholly owned Al Rayan Investment (ARI; QFCRA/QFMA), which had AUM of QAR 3.9bn at end-2025 across money markets, Gulf equities and sukuk. ARI runs segregated portfolios for institutions, family offices and HNW clients, a sukuk execution and custody service, and three funds, including the Al Rayan Qatar ETF (QATR, about QAR 460m) and the Al Rayan GCC Fund (over QAR 390m). Retail digital investing is limited: since 12 May 2026, Sahl Plus links the AlRayan GO app to client accounts at broker The Group for QSE trading and transfers. The LEAD strategy (2024-2027) targets growth in Private and Premier Banking through better segmentation and redefined propositions. Leadership is in transition: Group CEO Fahad Al Khalifa left on 30 Sep 2026, and Usman Ahmed (ex-NBB, ex-Citi Global Head of Islamic Banking) is appointed but not yet in post.",
-    "segments": [
-      {"name": "AlRayan Premier", "tier": "Affluent", "eligibility": "Monthly salary QR 35K or more; or deposit with ARB of QR 1 million or more and/or financing relationship starting at QR 1 million or more.", "source_ids": ["S8", "S9"]},
-      {"name": "AlRayan Private Banking", "tier": "Private / HNW", "eligibility": "High net worth and affluent individuals and families; no threshold published. An invitation-only Al Qimma Visa Infinite Privilege card was launched in 2025.", "source_ids": ["S7", "S4"]},
-      {"name": "Retail", "tier": "Mass retail", "eligibility": "Not reviewed in detail.", "source_ids": ["S4"]}
-    ],
-    "private_banking": {"present": "Yes", "detail": "Private Banking for HNW and affluent families, with a dedicated Private Relationship Manager and four areas: investment planning and asset management, credit planning and management, wealth protection, and business planning for private business owners. No products, platform or thresholds are published. The LEAD 2024-2027 strategy prioritises Private and Premier Banking. Al Rayan Bank UK also serves GCC-based Premier clients from London.", "source_ids": ["S7", "S4", "S5"]},
-    "asset_management": {"present": "Yes", "detail": "Al Rayan Investment L.L.C. (100%, est. 2007; QFCRA-authorised, QFMA-regulated; all products Shari'a-compliant). AUM was QAR 3.9bn at end-2025 across money markets, public equities and sukuk. All assets are managed in-house, with a GCC and Turkey focus. Products: segregated portfolios for governments, pension funds, corporates, family offices and HNW individuals; Al Rayan GCC Fund (over QAR 390m; -6% in 2025); Al Rayan Qatar ETF QATR (about QAR 460m market cap, TER 0.50%, tracks the QE Al Rayan Islamic Index); a third regulated fund; USD sukuk portfolios (about +9% net in 2025). Led by Acting CEO Akber Khan; Head of AM Zohaib Pervez.", "source_ids": ["S4", "S10", "S11", "S12"]},
-    "brokerage": {"present": "Yes", "detail": "No in-house broker. Sahl Plus (launched 12 May 2026 with The Group) lets customers link bank accounts to their investment accounts at The Group, trade on QSE and transfer funds within minutes through the AlRayan Bank mobile app. ARI offers a sukuk execution service to institutional and individual investors, with sukuk held in custody by ARI.", "source_ids": ["S13", "S4"]},
-    "digital_investing": {"present": "Yes", "detail": "AlRayan GO app (launched 9 Dec 2024; AI-avatar campaign May 2025; goal-based 'Pockets' savings). In-app investing is limited to QSE trading via The Group (Sahl Plus, May 2026). No in-app purchase of funds, sukuk or international equities was found. QATR can be bought on QSE.", "source_ids": ["S14", "S13", "S4"]},
-    "advisory": {"present": "Yes", "detail": "Private Banking gives investment planning and holistic financial analysis through relationship managers. ARI gives customised investment solutions and financial and strategic advisory.", "source_ids": ["S7", "S11", "S2"]},
-    "discretionary": {"present": "Yes", "detail": "ARI manages segregated portfolios ('bespoke solutions' by goal and risk tolerance) for institutions, family offices and HNW individuals. No retail discretionary product was found at the bank.", "source_ids": ["S11", "S4"]},
-    "model_portfolios_robo": {"present": "Not found after research", "detail": "No robo-advisor or model-portfolio product found on bank, ARI or app pages.", "source_ids": ["S7", "S11", "S14"]},
-    "funds_platform": {"present": "Not found after research", "detail": "Only ARI in-house funds (QATR, Al Rayan GCC Fund, third fund) were found; no third-party fund shelf or platform provider is published. Off-balance sheet AUM includes 'mutual funds and other securities' (S2), which may be client holdings.", "source_ids": ["S11", "S4", "S2"]},
-    "structured_products": {"present": "Unclear", "detail": "Treasury lists structured deposits and hedging solutions among Shari'a-compliant treasury products. No investment-grade structured notes for wealth clients were found.", "source_ids": ["S4"]},
-    "private_markets": {"present": "Not found after research", "detail": "No private equity, private credit or real estate fund offer for clients found. ARI advises on IPOs, sukuk and M&A (corporate advisory, not client investment products).", "source_ids": ["S10", "S4"]},
-    "islamic_wealth": {"present": "Yes", "detail": "Whole group is Shari'a-compliant (AAOIFI). Products: Shari'a-compliant GCC equity/sukuk fund, the Islamic Qatar ETF (QATR), USD sukuk portfolios and sukuk execution.", "source_ids": ["S2", "S11", "S4"]},
-    "asset_classes": ["Local equities", "GCC equities", "ETFs", "Mutual funds", "Sukuk"],
-    "partners": [
-      {"partner": "The Group Securities", "kind": "Brokerage / execution", "what": "Sahl Plus: link bank accounts to The Group investment accounts for QSE trading and fund transfers in the AlRayan app", "date": "2026-05-12", "status": "Live", "source_ids": ["S13"]},
-      {"partner": "Finastra", "kind": "Digital banking technology (corporate)", "what": "Corporate digital banking platform go-live (AlRayan CorpNet launched Nov 2025)", "date": "2025-08-13", "status": "Live", "source_ids": ["S18", "S4"]},
-      {"partner": "Microsoft", "kind": "Technology (AI productivity)", "what": "Adoption of Microsoft 365 Copilot under QCB AI guidelines", "date": "2026-05-21", "status": "Live", "source_ids": ["S18"]}
-    ],
-    "initiatives": [
-      {"date": "2026-10-01", "what": "Usman Ahmed (ex-Group CEO National Bank of Bahrain; ex-Citi Global Head of Islamic Banking) named Group CEO with QCB approval. Fahad Al Khalifa stepped down on 30 Sep 2026 to become Advisor to the Chairman; Omar Al Emadi is acting Group CEO.", "source_ids": ["S6"]},
-      {"date": "2026-05-12", "what": "Launched Sahl Plus with The Group: QSE trading and fund transfers via the bank's mobile app.", "source_ids": ["S13", "S18"]},
-      {"date": "2026-05", "what": "Houssam Itani promoted to Group Chief Strategy and Technology Officer. Microsoft 365 Copilot adopted (21 May 2026).", "source_ids": ["S16", "S18"]},
-      {"date": "2026", "what": "GBP 50m capital increase in Al Rayan Bank PLC (UK) agreed with another shareholder; first GBP 25m tranche paid; stake 73.91%.", "source_ids": ["S2"]},
-      {"date": "2025-12-06", "what": "ARI acted as Joint Lead Manager on the State of Qatar's USD 3bn sovereign sukuk.", "source_ids": ["S18", "S4"]},
-      {"date": "2025", "what": "ARI AUM reached QAR 3.9bn. The AlRayan GO app was enhanced, with 'Pockets' goal-based savings and the invitation-only Al Qimma Visa Infinite Privilege card. LEAD strategy (2024-2027) refocuses personal banking on Private and Premier.", "source_ids": ["S4"]},
-      {"date": "2024-12-09", "what": "Launched the AlRayan GO mobile app (first iteration: accounts, transfers, cards).", "source_ids": ["S14"]}
-    ],
-    "evidence_for_arta": {
-      "opportunities": [
-        "The LEAD strategy (2024-2027) explicitly targets upscaling personal banking, with a focus on Private and Premier Banking through better segmentation and redefined value propositions (S4 p.16).",
-        "Private Banking publishes no product shelf, platform or third-party funds. In-app investing is only QSE trading through a third-party broker (Sahl Plus, May 2026), and there are no model portfolios or in-app funds or sukuk (S7, S13).",
-        "The group has its own Shari'a-compliant manufacturer (ARI: QAR 3.9bn AUM, QATR, GCC Fund) but no evident digital distribution of ARI products to retail and premier clients (S4, S11).",
-        "A new Group CEO arrives in Q4 2026 with a Citi Islamic and retail background, and a new Group Chief Strategy and Technology Officer took over in May 2026 (S6, S16)."
-      ],
-      "barriers": [
-        "Fully Islamic (AAOIFI): every product must be Shari'a-compliant and approved by the Shari'a supervisory board (S2).",
-        "In-house asset manager (ARI) and broker partner (The Group) already cover local equities and sukuk (S11, S13).",
-        "CEO transition (Oct 2026) may delay vendor decisions until the new Group CEO is in post (S6)."
-      ],
-      "incumbent_vendors": [
-        "The Group Securities - QSE brokerage link (Sahl Plus) (S13)",
-        "Finastra - corporate digital banking (S18)",
-        "Microsoft - 365 Copilot (S18)"
-      ]
-    }
+ "id": "qa-mar",
+ "name": "AlRayan Bank (formerly Masraf Al Rayan)",
+ "short_name": "AlRayan Bank (MAR)",
+ "legal_name": "AlRayan Bank (Q.P.S.C.) (formerly Masraf Al Rayan (Q.P.S.C.))",
+ "name_ar": "بنك الريان",
+ "country": "QA",
+ "hq_city": "Lusail (Doha)",
+ "website": "https://www.alrayan.com",
+ "linkedin_company": "https://qa.linkedin.com/company/alrayanbankgroup",
+ "category": "Bank",
+ "type": "Islamic commercial bank",
+ "model": "Islamic",
+ "founded": "2006 (incorporated 4 January 2006); merged with Al Khalij Commercial Bank (al khaliji) by absorption effective 30 Nov 2021; renamed from Masraf Al Rayan to AlRayan Bank",
+ "regulators": [
+  "QCB",
+  "QFMA (QSE-listed issuer; Al Rayan Investment)",
+  "QFCRA (Al Rayan Investment)",
+  "PRA/FCA (Al Rayan Bank PLC, UK)"
+ ],
+ "listed": true,
+ "exchange": "QSE",
+ "ticker": "MARK",
+ "parent_id": null,
+ "ownership_summary": "QSE-listed with about 174k shareholders (126k outside Qatar). At 30 Jun 2026 the top holders were QIA 20.46%, the QAF investment portfolio 7.51% and a pension fund 5.36%. Government/GRE holders total 33.56% and Qatari ownership is 79.52% (Q2 2026 investor presentation).",
+ "shareholders": [
+  {
+   "holder": "Qatar Investment Authority",
+   "pct": 20.46,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S5"
+   ]
   },
-  "sources": [
-    {"id": "S1", "title": "Executive Management", "publisher": "AlRayan Bank", "url": "https://www.alrayan.com/en/about-us/management", "doc_type": "Official leadership page with short bios (shareholdings as of 31 Aug 2026)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Arabic version /about-us/management also opened."},
-    {"id": "S2", "title": "AlRayan Bank (Q.P.S.C.) Interim Condensed Consolidated Financial Statements 30 June 2026", "publisher": "Qatar Stock Exchange (issuer filing)", "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=MARK&reportEndDate=2026-06-30&lang=1", "doc_type": "Reviewed interim financial statements (PwC review report 21 Jul 2026)", "tier": 1, "published": "2026-07-21", "accessed": "2026-10-12", "language": "en", "note": "Statement of financial position is a scanned page; read visually."},
-    {"id": "S3", "title": "AlRayan Bank (Q.P.S.C.) Consolidated Financial Statements 31 December 2025", "publisher": "Qatar Stock Exchange (issuer filing)", "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=MARK&reportEndDate=2025-12-31&lang=1", "doc_type": "Audited consolidated financial statements (121 pp.)", "tier": 1, "published": "2026-01", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S4", "title": "AlRayan Bank Annual Report 2025", "publisher": "AlRayan Bank", "url": "https://marblobstorage.blob.core.windows.net/files/arbfiles/AnnualReports2019/EN/ARB-Annual-Report-2025_en.pdf", "doc_type": "Annual report (244 pp.)", "tier": 1, "published": "2026", "accessed": "2026-10-12", "language": "en", "note": "Linked from alrayan.com annual reports page."},
-    {"id": "S5", "title": "Investor Presentation Q2 2026", "publisher": "AlRayan Bank", "url": "https://marblobstorage.blob.core.windows.net/files/arbfiles/InvestorPresentation/EN/MAR-IR-presentation-Q2-2026.pdf", "doc_type": "Investor presentation (28 pp.)", "tier": 2, "published": "2026-07", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S6", "title": "AlRayan Bank announces new Group CEO", "publisher": "The Peninsula", "url": "https://www.thepeninsulaqatar.com/article/01/10/2026/alrayan-bank-announces-new-group-ceo", "doc_type": "News", "tier": 5, "published": "2026-10-01", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S7", "title": "Private Banking", "publisher": "AlRayan Bank", "url": "https://www.alrayan.com/en/private-banking", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S8", "title": "Premier Banking", "publisher": "AlRayan Bank", "url": "https://www.alrayan.com/en/premier-banking", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S9", "title": "AlRayan Premier Elevates Banking Experience", "publisher": "AlRayan Bank", "url": "https://www.alrayan.com/en/press-release/Al-Rayan-Premier-Elevates-Banking-Experience", "doc_type": "Press release", "tier": 2, "published": "2023-06-11", "accessed": "2026-10-12", "language": "en"},
-    {"id": "S10", "title": "AlRayan Investment", "publisher": "AlRayan Bank / AlRayan Investment", "url": "https://www.alrayan.com/en/investment-banking", "doc_type": "Official subsidiary page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S11", "title": "About Asset Management | AlRayan Investment", "publisher": "AlRayan Investment", "url": "https://www.alrayan.com/en/investment-banking/asset-management-group/about-asset", "doc_type": "Official subsidiary product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S12", "title": "Our Team | AlRayan Investment", "publisher": "AlRayan Investment", "url": "https://www.alrayan.com/en/investment-banking/team", "doc_type": "Official subsidiary leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S13", "title": "AlRayan Bank and The Group Celebrate the Successful Launch of Sahl Plus through Digital Banking Channels", "publisher": "AlRayan Bank", "url": "https://www.alrayan.com/en/press-release/AlRayan-Bank-and-The-Group-Celebrate-the-Successful-Launch-of-Sahl-Plus-through-Digital-Banking-Channels", "doc_type": "Press release", "tier": 2, "published": "2026-05-12", "accessed": "2026-10-12", "language": "en", "note": "Date from the press-release listing page (S18)."},
-    {"id": "S14", "title": "AlRayan Bank Unveils Mobile App 'AlRayan Go': The Future of Shari'a-Compliant Digital Banking", "publisher": "AlRayan Bank", "url": "https://www.alrayan.com/en/press-release/AlRayan-Bank-Unveils-Mobile-App-AlRayan-Go", "doc_type": "Press release", "tier": 2, "published": "2024-12-09", "accessed": "2026-10-12", "language": "en", "note": "Date from the press-release listing page (S18)."},
-    {"id": "S15", "title": "AlRayan Bank UK Board and Executive Teams", "publisher": "Al Rayan Bank PLC", "url": "https://www.alrayanbank.co.uk/investor-relations-alrayan-bank-uk-board-and-executive-teams", "doc_type": "Official subsidiary leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S16", "title": "Houssam Itani appointed as Group Chief Strategy & Technology Officer at AlRayan Bank Group", "publisher": "HR Today", "url": "https://hrtoday.in/houssam-itani-appointed-as-group-chief-strategy-technology-officer-at-alrayan-bank-group/", "doc_type": "News", "tier": 5, "published": "2026-05", "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only."},
-    {"id": "S17", "title": "AlRayan Bank reports net profit of QR687m for H1", "publisher": "The Peninsula / Gulf Times / QNA", "url": "https://thepeninsulaqatar.com/article/22/07/2026/alrayan-bank-reports-net-profit-of-qr687m-for-h1", "doc_type": "News (results coverage)", "tier": 5, "published": "2026-07-22", "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only (CEO quote: customer deposits QR120bn, +8.4% YoY)."},
-    {"id": "S18", "title": "Press Releases", "publisher": "AlRayan Bank", "url": "https://www.alrayan.com/en/press-release", "doc_type": "Official press release listing (titles, dates and summaries incl. new Group CEO, Microsoft 365 Copilot, Finastra go-live, ARI sovereign sukuk)", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"},
-    {"id": "S19", "title": "AlRayan Bank home page (links official LinkedIn company page)", "publisher": "AlRayan Bank", "url": "https://www.alrayan.com/", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en"}
+  {
+   "holder": "QAF investment portfolio",
+   "pct": 7.51,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "holder": "Pension Fund",
+   "pct": 5.36,
+   "as_of": "2026-06-30",
+   "source_ids": [
+    "S5"
+   ]
+  }
+ ],
+ "government_link": "Yes - QIA is the largest shareholder (20.46%) and Government/GRE holders total 33.56% at 30 Jun 2026 (S5). Deposits from Government/GRE are 51% and financing to Government/GRE 46% of the portfolio (S5).",
+ "group_structure": "AlRayan Bank (Q.P.S.C.) is the QSE-listed Islamic parent. Subsidiaries (30 Jun 2026): Al Rayan Investment L.L.C. (ARI, 100%, QFC asset manager and corporate advisory, not profiled separately, so its AUM and people are recorded here with subsidiary scope); Al Rayan Bank PLC (UK Islamic bank, 73.91% after a GBP 50m capital increase in H1 2026, from 73.76%); Al Khaliji France S.A. (100%, conventional bank in Paris with 2 UAE branches, held at arm's length: its assets and liabilities are presented in other assets/liabilities and its profit is excluded from income); Al Rayan Partners L.L.C. (100%, real estate consulting, in liquidation); plus sukuk, financing and OTC hedging vehicles (MAR Sukuk Ltd, MAR Finance LLC, Lusail Waterfront Investment Co, Lusail Ltd, AKCB Markets Ltd). Associates (FY2025): National Real Estate Development and Investment SAOC (Oman, 21.48%), Sahb Finance, Beema (Damaan Islamic Insurance) and Linc.",
+ "subsidiaries": [
+  {
+   "name": "Al Rayan Investment L.L.C. (ARI)",
+   "pct": 100,
+   "activity": "Shari'a-compliant asset management (funds, ETF, segregated portfolios, sukuk execution) and corporate financial advisory; QFCRA-authorised, QFMA-regulated; capital USD 100m",
+   "linked_id": null,
+   "source_ids": [
+    "S2",
+    "S10",
+    "S4"
+   ]
+  },
+  {
+   "name": "Al Rayan Bank PLC (UK)",
+   "pct": 73.91,
+   "activity": "Islamic bank, London: Structured Real Estate and Premier Banking for GCC-based customers; total assets above GBP 3bn in 2025",
+   "linked_id": null,
+   "source_ids": [
+    "S2",
+    "S4"
+   ]
+  },
+  {
+   "name": "Al Khaliji France S.A.",
+   "pct": 100,
+   "activity": "Conventional banking (Paris; 2 UAE branches); not consolidated line-by-line (presented in other assets/liabilities)",
+   "linked_id": null,
+   "source_ids": [
+    "S2",
+    "S5"
+   ]
+  },
+  {
+   "name": "Al Rayan Partners L.L.C.",
+   "pct": 100,
+   "activity": "Real estate consulting (Qatar); liquidation in progress",
+   "linked_id": null,
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "name": "MAR Sukuk Limited / MAR Finance L.L.C.",
+   "pct": 100,
+   "activity": "Sukuk issuance vehicles (Cayman / QFC)",
+   "linked_id": null,
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "name": "AKCB Markets Limited",
+   "pct": 100,
+   "activity": "OTC Shari'a-compliant risk management instruments (Cayman)",
+   "linked_id": null,
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "name": "Lusail Waterfront Investment Co. / Lusail Limited",
+   "pct": 100,
+   "activity": "Investment and financing activities (Cayman)",
+   "linked_id": null,
+   "source_ids": [
+    "S2"
+   ]
+  },
+  {
+   "name": "National Real Estate Development and Investment SAOC (associate)",
+   "pct": 21.48,
+   "activity": "Real estate services (Oman) - associate",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  },
+  {
+   "name": "Sahb Finance Company; Beema (Damaan Islamic Insurance); Linc (associates)",
+   "pct": null,
+   "activity": "Financing; takaful insurance; facility services - associates (ownership % not extracted)",
+   "linked_id": null,
+   "source_ids": [
+    "S3"
+   ]
+  }
+ ],
+ "footprint": "Qatar: 13 branches (11 retail, 2 corporate) and 103-105 ATMs, with AlRayan GO self-service zones (S2, S4, S5). UK: Al Rayan Bank PLC (London). France and UAE: Al Khaliji France (Paris branch and 2 UAE branches). Second-largest listed Islamic bank in Qatar by assets (30% share) (S5).",
+ "customer_segments": "Personal Banking covers Retail, AlRayan Premier (affluent: salary QAR 35k+ or QAR 1m+ deposit/financing) and Private Banking (HNW and affluent families). Wholesale covers government/GRE, corporate, commercial and SME. Treasury & FI covers institutions. ARI serves institutions, family offices, governments, pension funds and HNW individuals. The UK arm serves GCC-based Premier clients (especially Saudi Arabia) and real-estate borrowers.",
+ "business_lines": "Five reportable segments: Corporate Banking, Retail Banking, Treasury and Financial Institutions, Asset Management (ARI: customised equity and fixed income solutions for institutional and HNW investors, mutual funds and an ETF, financial advisory) and International Operations (S2). Group business lines: Corporate & SME; Personal Banking (Retail, Premier and Private); Treasury & FI (primary dealer for QCB and IILM sukuk); Asset Management & Financial Advisory; International (UK, France, UAE) (S4). Retail investing: QSE trading via The Group's Sahl Plus link in the AlRayan GO app (May 2026).",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 184071482,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS, interim consolidated statement of financial position (reviewed, PwC, 21 Jul 2026)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S5"
+   ],
+   "locator": "S2 PDF p.4 (scanned page, read visually)",
+   "note": "Presentation: QAR 184bn."
+  },
+  {
+   "metric": "total_assets",
+   "value": 181258047,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL ASSETS (audited)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S3"
+   ],
+   "locator": "S2 PDF p.4 comparative column",
+   "note": ""
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 119961477,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customer current accounts (QAR 8,670,892k) plus participatory investment accounts (quasi-equity; QAR 111,290,585k: savings 9.56bn, term 95.54bn, short-term investment 5.50bn, profit payable and fair value reserve share). Excludes due to banks (QAR 24.2bn) and sukuk financing.",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S17"
+   ],
+   "locator": "S2 PDF p.4 and PIA note (PDF p.29)",
+   "note": "Sum computed from statement lines; matches the CEO's 'customer deposits (QR120bn)', up 8.4% YoY (S17)."
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 111138348,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customer current accounts (QAR 7,839,029k) plus participatory investment accounts (QAR 103,299,319k)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.4 comparative column",
+   "note": "Computed."
+  },
+  {
+   "metric": "net_loans",
+   "value": 113731515,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Financing assets (net; Islamic financing), interim statement of financial position",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S5"
+   ],
+   "locator": "S2 PDF p.4",
+   "note": "Presentation: QAR 114bn."
+  },
+  {
+   "metric": "net_loans",
+   "value": 118188326,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Financing assets (net), audited",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.4 comparative column",
+   "note": ""
+  },
+  {
+   "metric": "investment_securities",
+   "value": 52196923,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Investment securities on the bank's own balance sheet (not client assets, not AUM)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.4",
+   "note": ""
+  },
+  {
+   "metric": "total_equity",
+   "value": 25497748,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "TOTAL EQUITY incl. QAR 1,000,000k instrument eligible as additional capital and QAR 337,398k non-controlling interest; excludes quasi-equity",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.4",
+   "note": "Equity attributable to equity holders of the Bank QAR 24,160,350k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 7846267,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL INCOME, NET OF FINANCE EXPENSE', consolidated statement of income, before deducting net profit attributable to quasi-equity (PIA holders)",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.10",
+   "note": "Islamic-bank presentation; FY2024 QAR 8,481,008k."
+  },
+  {
+   "metric": "operating_income",
+   "value": 3707893,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "'TOTAL INCOME, NET OF FINANCE EXPENSE', interim statement of income (before quasi-equity share of QAR 2,079,576k)",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "PDF p.5",
+   "note": "The presentation reports 'net operating profit' of QAR 1,628m (different basis) (S5)."
+  },
+  {
+   "metric": "net_profit",
+   "value": 1328595,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit for the year attributable to equity holders of the Bank",
+   "status": "Verified",
+   "source_ids": [
+    "S3"
+   ],
+   "locator": "PDF p.10",
+   "note": "Total net profit QAR 1,350,612k incl. NCI. A Gulfbase headline (search results only) cites 'QR1,530m for 2025', which does not match the audited statements."
+  },
+  {
+   "metric": "net_profit",
+   "value": 687476,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net profit for the period attributable to equity holders of the Bank",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S5"
+   ],
+   "locator": "S2 PDF p.5",
+   "note": "H1 2025: QAR 821,383k (-16%)."
+  },
+  {
+   "metric": "aum",
+   "value": 3.9,
+   "unit": "billion",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Subsidiary: Al Rayan Investment L.L.C.",
+   "definition": "'ARI's assets under management (AUM) across money markets, public equities and sukuk'",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.24",
+   "note": "The ARI team page says the Head of Asset Management manages 'more than QAR5bn in client portfolios' (undated) (S12). Possibly overlaps with the group's off-balance sheet AUM line (QAR 3.94bn at 31 Dec 2025); do not add the two."
+  },
+  {
+   "metric": "off_balance_sheet_aum",
+   "value": 4889553,
+   "unit": "thousand",
+   "currency": "QAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group: off-balance sheet assets under management",
+   "definition": "'Off-balance sheet assets under management' (money market placements QAR 356,298k; sukuk, shares, mutual funds and other securities QAR 4,533,255k); statement of changes in off-balance sheet AUM",
+   "status": "Verified",
+   "source_ids": [
+    "S2"
+   ],
+   "locator": "S2 PDF p.4 and p.11",
+   "note": "QAR 3,943,112k at 31 Dec 2025; additions QAR 2.08bn in H1 2026."
+  },
+  {
+   "metric": "fund_size",
+   "value": 460,
+   "unit": "million",
+   "currency": "QAR",
+   "period_end": "2025-12-31",
+   "period_label": "end-2025",
+   "period_type": "point_in_time",
+   "scope": "Fund: Al Rayan Qatar ETF (QATR)",
+   "definition": "Approximate market capitalisation of QATR",
+   "status": "Verified",
+   "source_ids": [
+    "S4"
+   ],
+   "locator": "S4 PDF p.24",
+   "note": "Approximate. The Al Rayan GCC Fund had 'assets north of QAR 390 million' (same page)."
+  },
+  {
+   "metric": "branches",
+   "value": 13,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Bank - Qatar",
+   "definition": "Branches in Qatar (11 retail and 2 corporate per AR 2025)",
+   "status": "Verified",
+   "source_ids": [
+    "S2",
+    "S4"
+   ],
+   "locator": "S2 note 1; S4 p.21",
+   "note": ""
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "Private Banking and Premier pages (S7, S8), Annual Report 2025 (S4), Q2 2026 investor presentation (S5)."
+  },
+  {
+   "metric": "customers",
+   "status": "Not found after research",
+   "where_checked": "Annual Report 2025 (S4), Q2 2026 investor presentation (S5), H1 2026 statements (S2)."
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "Sahl Plus release (S13), AlRayan GO release (S14), Annual Report 2025 (S4)."
+  },
+  {
+   "metric": "employees",
+   "status": "Not found after research",
+   "where_checked": "Annual Report 2025 gives only Qatari headcount (192, 33% Qatarization) (S4 p.9); total headcount not found."
+  }
+ ],
+ "people": [
+  {
+   "name": "Sheikh Mohamed Bin Hamad Bin Qassim Al Thani",
+   "name_ar": null,
+   "title": "Chairman of the Board of Directors (Non-Executive, Non-Independent)",
+   "functions": [
+    "Chair",
+    "Board"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2021-11",
+   "appointed_note": "Appointed to the Board by QIA/Qatar Holding LLC on 17 Nov 2021 (S20) and elected Chairman by the Board in late Nov 2021 (reported 30 Nov 2021, S33). Re-appointed for the 2023-2025 term on 15 Mar 2023 (S4 p.69) and for the 2026-2028 term on 15 Mar 2026 (S20).",
+   "previous_roles": "Qatar Minister of Commerce and Industry; Deputy Governor, Qatar Central Bank; Chairman, Qatar Financial Markets Authority; Chairman, Qatar Stock Exchange; Chairman, Qatar Financial Centre Regulatory Authority; Chairman, Advisory Council of the Investment Promotion Agency; Board Member, Supreme Council for Economic and Investment Affairs; Board Member, Qatar Investment Authority; Deputy Chairman, Qatar Development Bank (no years given, S20). Current other roles: Board Member, QatarEnergy (S20).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official board page checked 2026-10-12 (S20); AR 2025 board disclosures (S4 p.69); signed the FY2025 statements on 19 Feb 2026 (S4 p.131) and the 30 Jun 2026 interim statements (S2) as Chairman; quoted as Chairman in the 30 Sep 2026 Group CEO release (S21). No education is published.",
+   "source_ids": [
+    "S20",
+    "S4",
+    "S2",
+    "S21",
+    "S33"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Usman Ahmed",
+   "name_ar": null,
+   "title": "Group Chief Executive Officer (appointed 30 Sep 2026 with QCB approval; not yet in office)",
+   "functions": [
+    "Group CEO"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2026-09-30",
+   "appointed_note": "Appointment announced 30 Sep 2026 with Qatar Central Bank approval; he 'is expected to assume his duties following completion of the necessary joining formalities' (S21). NBB said on 1 Oct 2026 that his final day there is 31 Dec 2026 (S22), so the AlRayan start date is open.",
+   "previous_roles": "2022-2026 Group Chief Executive, National Bank of Bahrain (appointment announced Oct 2022, S24; Forbes dates the role to 2023, S23; NBB says 'almost four years', final day 31 Dec 2026, S22); Citigroup: CEO Citi Malaysia; CEO Citi Bahrain, Kuwait and Qatar; Global Head of Citi Islamic Banking (years not given; S21). Current other roles (Aug 2026, S23): Vice Chairman, Bahrain Islamic Bank; Vice Chairman, SICO BSC; board member, GCC Board Directors Institute, Bahrain Association of Banks and INJAZ Bahrain.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Named Group CEO in the official 30 Sep 2026 release (S21) and The Peninsula (S6), but not yet in post: the Executive Management page (checked 2026-10-12) lists Omar Al Emadi as Acting Group CEO (S1), and NBB says he remains its Group CEO until 31 Dec 2026 (S22). Status to be re-checked when he assumes office. Education not found in opened sources (NBB release S24 unreadable).",
+   "source_ids": [
+    "S21",
+    "S6",
+    "S1",
+    "S18",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Omar Al Emadi",
+   "name_ar": "عمر العمادي",
+   "title": "Acting Group Chief Executive Officer and Group Chief Operations and Administration Officer",
+   "functions": [
+    "Group CEO",
+    "Operations"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Group",
+   "scope": "Group",
+   "appointed": "2026-10-01",
+   "appointed_note": "Acting Group CEO from 1 Oct 2026, in addition to his existing role as Group Chief Operations and Administration Officer, until the new GCEO assumes office (S21). Joined the merged bank in 2021 as Group Chief Risk Officer (S26); listed as Group Chief Business Officer at 31 Dec 2025 (S4 pp.89, 94); the Operations and Administration title appears on the executive page by Aug 2026 (S1) - date of that change not published. Non-executive director of Al Rayan Bank PLC since Oct 2022 (S15).",
+   "previous_roles": "2026- Acting Group CEO and Group Chief Operations and Administration Officer, AlRayan Bank; 2025 (at least) Group Chief Business Officer, AlRayan Bank; 2021- Group Chief Risk Officer, AlRayan Bank (formerly Masraf Al Rayan); Group Chief Business Officer, Al Khaliji Commercial Bank (wholesale and private banking clients); earlier leadership roles, Commercial Bank of Qatar (years not given; S26). Current other roles: Non-Executive Director, Al Rayan Bank PLC (UK) (S15, S29); Vice Chairman, Sahb Financing (KSA), representing AlRayan Bank (S4 p.89).",
+   "education": "BSc Finance, California State University (S1, S26)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); 30 Sep 2026 release (S21); AR 2025 senior management (S4 p.89); UK subsidiary board page and bio (S15, S26); Companies House active director (S29).",
+   "source_ids": [
+    "S1",
+    "S21",
+    "S6",
+    "S4",
+    "S15",
+    "S26",
+    "S29"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Fahad Bin Abdulla Al Khalifa",
+   "name_ar": null,
+   "title": "Advisor to the Chairman (Group Chief Executive Officer until 30 Sep 2026)",
+   "functions": [
+    "Other"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Chairman's office",
+   "scope": "Group",
+   "appointed": "2026-09-30",
+   "appointed_note": "Concluded his tenure as Group CEO effective 30 Sep 2026 and transitioned to Advisor to the Chairman (S21). Group CEO of AlRayan Bank from 2021 (S4 p.89, S25); signed the FY2025 statements (19 Feb 2026, S4 p.131) and the 30 Jun 2026 interim statements (S2) as Group CEO.",
+   "previous_roles": "2021-2026 Group Chief Executive Officer, AlRayan Bank (formerly Masraf Al Rayan); 2014-2021 Group CEO, Al Khalij Commercial Bank (al khaliji), overseeing its merger into Masraf Al Rayan (Nov 2021); earlier Group Treasurer and GM Group Corporate Banking and Financial Institutions, Qatar National Bank; Qatar Central Bank (years not given; S25, S4 p.89). Other roles at 31 Dec 2025: board member, Al Rayan Bank PLC (UK); board member, Al Khaliji France; board member, Qatar Finance and Business Academy (S4 p.89). The UK bank's pages still list him as Non-Executive Director and Group CEO (S15, S25).",
+   "education": "BSc Finance, Seattle University (S25)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Departed",
+   "role_evidence": "Departed the Group CEO role on 30 Sep 2026 per the official release (S21) and The Peninsula (S6); no longer on the Executive Management page (S1, checked 2026-10-12). His continuing UK and France board seats were not re-verified after 30 Sep 2026.",
+   "source_ids": [
+    "S21",
+    "S6",
+    "S2",
+    "S4",
+    "S15",
+    "S25",
+    "S1"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Rana Al Asaad",
+   "name_ar": "رنا الأسعد",
+   "title": "GM, Personal Banking",
+   "functions": [
+    "Retail",
+    "Affluent",
+    "Private banking"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Personal Banking (Retail, AlRayan Premier and Private Banking)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not published. Quoted as 'Acting Chief Business Officer' in the Jun 2023 Premier relaunch (S9); listed as GM, Personal Banking in the AR 2025 senior management as of 31 Dec 2025 (S4 p.90, where the surname is spelled 'El Asaad') and on the Oct 2026 executive page (S1).",
+   "previous_roles": "GM Personal Banking, AlRayan Bank (by 2025); Acting Chief Business Officer, AlRayan Bank (Jun 2023, S9); 'over 26 years of banking experience' (S1) - earlier employers not published. Current other roles: Board member, Damaan Islamic Insurance Company (Beema), representing AlRayan Bank (S4 p.90).",
+   "education": "BA English Literature, Qatar University; Diploma in Business Management, London Metropolitan University (S1, S4)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 senior management (S4 p.90). No 2025-2026 appointment or departure news found for the Personal Banking post (search 2026-10-12). A role-based LinkedIn search found no profile.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S9"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Hassan Al-Jaidah",
+   "name_ar": null,
+   "title": "Head of AlRayan Premier Banking (as of Jun 2023)",
+   "functions": [
+    "Affluent"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Personal Banking - AlRayan Premier",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Requires verification",
+   "role_evidence": "Only source is the 11 Jun 2023 Premier release (S9). Not listed on the Executive Management page (S1, checked 2026-10-12) or in the AR 2025 senior management (S4), both of which stop at GM/AGM level, so absence is not evidence of departure. A 2025-2026 news search for AlRayan Premier/Private Banking heads returned nothing.",
+   "source_ids": [
+    "S9",
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Houssam Itani",
+   "name_ar": "حسام عيتاني",
+   "title": "Group Chief Strategy and Technology Officer",
+   "functions": [
+    "Strategy",
+    "Technology",
+    "Digital"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Strategy and Technology",
+   "scope": "Group",
+   "appointed": "2026-05",
+   "appointed_note": "Promoted from Group Chief Transformation Officer in May 2026 per an HR trade report seen in search results only (S16; page returns 403); the current executive page confirms the new title (S1). Group Chief Transformation Officer at 31 Dec 2025 (S4 p.90) and at the AlRayan GO launch in Dec 2024 (S14). Joining date not published.",
+   "previous_roles": "2026- Group Chief Strategy and Technology Officer, AlRayan Bank; c.2024-2026 Group Chief Transformation Officer, AlRayan Bank (S4, S14); before that 'over 20 years of financial services consulting experience collaborating with financial institutions and central banks' (S1) - firms not named.",
+   "education": "MBA, IMD Lausanne; BBA Finance, American University of Beirut; Future of Fintech & E-commerce certificate, Massachusetts Institute of Technology (S1, S4 p.90)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.90); S14; S16 (search snippet). No LinkedIn profile found in the B20 search or this pass's role-based search.",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S14",
+    "S16"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Sheikh Mohammed Bin Abdulaziz Al Thani",
+   "name_ar": "الشيخ محمد بن عبد العزيز آل ثاني",
+   "title": "GM, Wholesale",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Wholesale Banking",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not published. Titled 'GM, Corporate Banking' in the AR 2025 senior management (S4 p.90) and 'GM, Wholesale' on the executive page (S1). Spokesperson for the Sahl Plus brokerage link launch, May 2026 (S13).",
+   "previous_roles": "GM Wholesale (Corporate Banking), AlRayan Bank; 'extensive experience in government and public sector banking, corporate finance and strategic relationship management' (S4 p.90); 'over 14 years of experience' (S1); earlier employers not published. Current other roles: AR 2025 lists none at 31 Dec 2025 (S4); the ARI board page lists a 'Sheikh Mohammed Abdulaziz S. H. Al-Thani' as board member (S34), probably him - not confirmed.",
+   "education": "Specialised Master's in Strategic Business Unit Management, HEC Paris in Qatar; MBA, Anglia Ruskin University; BSc Business Administration (Marketing), Arab Academy for Science, Technology and Maritime Transport (S4 p.90; S1)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.90).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S13",
+    "S34"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Tahir Pirzada",
+   "name_ar": null,
+   "title": "GM, Group Treasurer and FI",
+   "functions": [
+    "Treasury"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Group Treasury and Financial Institutions",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not published. Full name Tahir Hayat Pirzada (S4 p.91); the AR 2025 shareholding table styles the post 'AGM, Group Treasury and Financial Institutions' while the bio and executive page say GM (S4 p.92, S1).",
+   "previous_roles": "GM, Group Treasurer and FI, AlRayan Bank; 'over 30 years of experience' (S1) - earlier employers not published. Current other roles: Board member, Al Rayan Investment LLC, representing AlRayan Bank (S4 p.91, S34).",
+   "education": "MBA (Finance), Imperial College of Business Studies, Lahore (S1, S4)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.91); ARI board page (S34).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S34"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Shahnawaz Niazi",
+   "name_ar": null,
+   "title": "Group Chief Financial Officer",
+   "functions": [
+    "Finance"
+   ],
+   "entity": "AlRayan Bank (Q.P.S.C.)",
+   "business_unit": "Finance",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not published. Title corrected in this pass from 'Group Head of Finance' to the official 'Group Chief Financial Officer' (S1; AR 2025 'Group Chief Finance Officer', S4 p.90).",
+   "previous_roles": "Group CFO, AlRayan Bank; earlier career not published (S1, S4).",
+   "education": "Bachelor's in Accounting and Commerce, University of Karachi (S1, S4)",
+   "qualifications": "Chartered Accountant, Institute of Chartered Accountants of Pakistan (S1, S4)",
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 senior management and organisation chart (S4 pp.90, 94).",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Akber Khan",
+   "name_ar": null,
+   "title": "Acting Chief Executive Officer, AlRayan Investment (ARI)",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management"
+   ],
+   "entity": "Al Rayan Investment L.L.C.",
+   "business_unit": "ARI",
+   "scope": "Subsidiary: Al Rayan Investment L.L.C.",
+   "appointed": "2023",
+   "appointed_note": "Acting CEO since 2023 per Forbes Middle East (Jul 2026, S31); the ARI team page gives no date (S12). Joined ARI in 2009 as head of asset management (S12, S32). Full name Akber Ahmed Khan (S31).",
+   "previous_roles": "2023- Acting CEO, AlRayan Investment; 2009-2023 Head of Asset Management (Senior Director, Asset Management Group), AlRayan Investment - oversaw the launch of the Al Rayan GCC Fund and the QSE-listed Al Rayan Qatar ETF (S32, S12); before 2009 Director, Deutsche Bank, London - over 11 years in European and emerging-market equities (trading, research, proprietary investment) (S32, S12).",
+   "education": "BA History and Economics, University College London (S32; S12 says 'a degree from University College London')",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "ARI team page checked 2026-10-12 (S12); Forbes Middle East Top 50 Asset Managers, Jul 2026 (S31). No 2026 news of a permanent ARI CEO appointment found (search 2026-10-12). A role-based LinkedIn search found no profile.",
+   "source_ids": [
+    "S12",
+    "S31",
+    "S32"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Zohaib Pervez",
+   "name_ar": null,
+   "title": "Director, Head of Asset Management, AlRayan Investment",
+   "functions": [
+    "Investments / asset management"
+   ],
+   "entity": "Al Rayan Investment L.L.C.",
+   "business_unit": "ARI - Asset Management",
+   "scope": "Subsidiary: Al Rayan Investment L.L.C.",
+   "appointed": null,
+   "appointed_note": "Joined ARI in 2015 (S12). The date he became head of Asset Management is not stated (Akber Khan headed the unit until he became Acting CEO in 2023, S31/S32).",
+   "previous_roles": "2015- AlRayan Investment, now Director heading Asset Management, responsible for 'more than QAR5bn in client portfolios' incl. the AlRayan GCC Fund; earlier Portfolio Manager, JS Investments Limited (Pakistan); Research Analyst, QNB Financial Services (Qatar); Research Analyst, Samba Capital (Saudi Arabia) (years not given; S12).",
+   "education": "MBA, Karachi University (S12)",
+   "qualifications": "CFA charterholder (S12)",
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "ARI team page checked 2026-10-12 (S12). A role-based LinkedIn search found no profile.",
+   "source_ids": [
+    "S12",
+    "S31",
+    "S32"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Giles Cunningham",
+   "name_ar": null,
+   "title": "Chief Executive Officer and Director, Al Rayan Bank PLC (UK)",
+   "functions": [
+    "Subsidiary CEO"
+   ],
+   "entity": "Al Rayan Bank PLC",
+   "business_unit": "Al Rayan Bank UK",
+   "scope": "Subsidiary: Al Rayan Bank PLC",
+   "appointed": "2021-09",
+   "appointed_note": "Appointment as CEO announced 13 Sep 2021, pending regulatory approval, succeeding Peter Horton (S28); appointed to the Board in September 2021 (S15, S27). Full name Giles Hullah Cunningham (S29).",
+   "previous_roles": "2021- CEO and Director, Al Rayan Bank PLC; Group CEO, Bank of London and The Middle East (BLME); CEO International, Qatar Islamic Bank (Doha) - in Islamic banking since 2012; Group CEO, The Zubair Corporation (Oman); 17 years at Lloyds Banking Group incl. International Transformation Director, Managing Director International Retail Banking & Strategy, CEO Middle East, Strategy Director Lloyds TSB General Insurance and Finance Director Brazil (years not given; S27, S28).",
+   "education": "MBA (institution not stated); Harvard Business School alumnus (S27)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "UK board and executive page checked 2026-10-12 (S15) and his bio page (S27); Companies House lists him as an active director (S29). No 2026 departure news found (search 2026-10-12).",
+   "source_ids": [
+    "S15",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Maisam Fazal",
+   "name_ar": null,
+   "title": "Chief Commercial Officer, Al Rayan Bank PLC (UK)",
+   "functions": [
+    "Affluent",
+    "Retail"
+   ],
+   "entity": "Al Rayan Bank PLC",
+   "business_unit": "Al Rayan Bank UK - commercial (Premier Banking, liabilities, product management, marketing and communications)",
+   "scope": "Subsidiary: Al Rayan Bank PLC",
+   "appointed": "2018-10",
+   "appointed_note": "Interim CCO from Oct 2018, confirmed as CCO on 26 Mar 2019 (S30); the UK page says 'appointed as CCO in 2018' (S15). Joined the bank in 2013.",
+   "previous_roles": "2018- Chief Commercial Officer, Al Rayan Bank PLC (interim Oct 2018-Mar 2019); 2013-2018 Al Rayan Bank PLC, most recently Senior Head of Commercial Banking, building the commercial book from GBP 11.7m (end-2012) to almost GBP 500m; earlier 'over 20 years of experience in front line banking, with 18 years accrued across commercial and retail departments' (S30) - employers not named.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "UK board and executive page checked 2026-10-12 (S15); appointment release Mar 2019 (S30).",
+   "source_ids": [
+    "S15",
+    "S30"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "AlRayan Bank is fully Islamic. Its wealth offer has two sides. The first is Personal Banking under GM Rana Al Asaad: AlRayan Premier for the affluent (salary QAR 35k+, or QAR 1m+ deposits or financing) and Private Banking with a Private Relationship Manager covering investment planning and asset management, credit, wealth protection and business planning (no product detail or threshold published). The second is the wholly owned Al Rayan Investment (ARI; QFCRA/QFMA), which had AUM of QAR 3.9bn at end-2025 across money markets, Gulf equities and sukuk. ARI runs segregated portfolios for institutions, family offices and HNW clients, a sukuk execution and custody service, and three funds, including the Al Rayan Qatar ETF (QATR, about QAR 460m) and the Al Rayan GCC Fund (over QAR 390m). Retail digital investing is limited: since 12 May 2026, Sahl Plus links the AlRayan GO app to client accounts at broker The Group for QSE trading and transfers. The LEAD strategy (2024-2027) targets growth in Private and Premier Banking through better segmentation and redefined propositions. Leadership is in transition: Group CEO Fahad Al Khalifa left on 30 Sep 2026, and Usman Ahmed (ex-NBB, ex-Citi Global Head of Islamic Banking) is appointed but not yet in post.",
+  "segments": [
+   {
+    "name": "AlRayan Premier",
+    "tier": "Affluent",
+    "eligibility": "Monthly salary QR 35K or more; or deposit with ARB of QR 1 million or more and/or financing relationship starting at QR 1 million or more.",
+    "source_ids": [
+     "S8",
+     "S9"
+    ]
+   },
+   {
+    "name": "AlRayan Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "High net worth and affluent individuals and families; no threshold published. An invitation-only Al Qimma Visa Infinite Privilege card was launched in 2025.",
+    "source_ids": [
+     "S7",
+     "S4"
+    ]
+   },
+   {
+    "name": "Retail",
+    "tier": "Mass retail",
+    "eligibility": "Not reviewed in detail.",
+    "source_ids": [
+     "S4"
+    ]
+   }
   ],
-  "original_reconciliation": [],
-  "discrepancies": [
-    {"field": "Group CEO", "detail": "The 30 Jun 2026 statements (approved 21 Jul 2026) are signed by Group CEO Fahad Bin Abdulla Al Khalifa. The Oct 2026 executive page lists Omar Al Emadi as Acting Group CEO. The 1 Oct 2026 announcement names Usman Ahmed as incoming Group CEO. The UK subsidiary page still lists Al Khalifa as Group CEO.", "source_ids": ["S2", "S1", "S6", "S15"], "resolution": "Al Khalifa recorded as Departed (30 Sep 2026); Al Emadi as acting (Verified current); Usman Ahmed as Requires verification until he assumes office."},
-    {"field": "ARI AUM", "detail": "Annual Report 2025: ARI AUM QAR 3.9bn at end-2025. ARI team page: Head of AM manages 'more than QAR5bn in client portfolios' (undated).", "source_ids": ["S4", "S12"], "resolution": "Used the dated annual report figure."},
-    {"field": "Branches/ATMs", "detail": "Statements: 13 branches in Qatar. AR 2025: 11 retail + 2 corporate branches, 103 ATMs. Presentation: 13 branches, 105 ATMs (Qatar).", "source_ids": ["S2", "S4", "S5"], "resolution": "13 branches recorded; ATM count differs by date."},
-    {"field": "FY2025 net profit", "detail": "A Gulfbase headline (search results only) cites 'net profit of QR1,530m for 2025'; the audited statements show QAR 1,328,595k attributable to equity holders (QAR 1,350,612k total).", "source_ids": ["S3"], "resolution": "Audited figure used; the headline figure is unexplained (possibly a different measure) and not recorded."}
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Private Banking for HNW and affluent families, with a dedicated Private Relationship Manager and four areas: investment planning and asset management, credit planning and management, wealth protection, and business planning for private business owners. No products, platform or thresholds are published. The LEAD 2024-2027 strategy prioritises Private and Premier Banking. Al Rayan Bank UK also serves GCC-based Premier clients from London.",
+   "source_ids": [
+    "S7",
+    "S4",
+    "S5"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Al Rayan Investment L.L.C. (100%, est. 2007; QFCRA-authorised, QFMA-regulated; all products Shari'a-compliant). AUM was QAR 3.9bn at end-2025 across money markets, public equities and sukuk. All assets are managed in-house, with a GCC and Turkey focus. Products: segregated portfolios for governments, pension funds, corporates, family offices and HNW individuals; Al Rayan GCC Fund (over QAR 390m; -6% in 2025); Al Rayan Qatar ETF QATR (about QAR 460m market cap, TER 0.50%, tracks the QE Al Rayan Islamic Index); a third regulated fund; USD sukuk portfolios (about +9% net in 2025). Led by Acting CEO Akber Khan; Head of AM Zohaib Pervez.",
+   "source_ids": [
+    "S4",
+    "S10",
+    "S11",
+    "S12"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "No in-house broker. Sahl Plus (launched 12 May 2026 with The Group) lets customers link bank accounts to their investment accounts at The Group, trade on QSE and transfer funds within minutes through the AlRayan Bank mobile app. ARI offers a sukuk execution service to institutional and individual investors, with sukuk held in custody by ARI.",
+   "source_ids": [
+    "S13",
+    "S4"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "AlRayan GO app (launched 9 Dec 2024; AI-avatar campaign May 2025; goal-based 'Pockets' savings). In-app investing is limited to QSE trading via The Group (Sahl Plus, May 2026). No in-app purchase of funds, sukuk or international equities was found. QATR can be bought on QSE.",
+   "source_ids": [
+    "S14",
+    "S13",
+    "S4"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Private Banking gives investment planning and holistic financial analysis through relationship managers. ARI gives customised investment solutions and financial and strategic advisory.",
+   "source_ids": [
+    "S7",
+    "S11",
+    "S2"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "ARI manages segregated portfolios ('bespoke solutions' by goal and risk tolerance) for institutions, family offices and HNW individuals. No retail discretionary product was found at the bank.",
+   "source_ids": [
+    "S11",
+    "S4"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Not found after research",
+   "detail": "No robo-advisor or model-portfolio product found on bank, ARI or app pages.",
+   "source_ids": [
+    "S7",
+    "S11",
+    "S14"
+   ]
+  },
+  "funds_platform": {
+   "present": "Not found after research",
+   "detail": "Only ARI in-house funds (QATR, Al Rayan GCC Fund, third fund) were found; no third-party fund shelf or platform provider is published. Off-balance sheet AUM includes 'mutual funds and other securities' (S2), which may be client holdings.",
+   "source_ids": [
+    "S11",
+    "S4",
+    "S2"
+   ]
+  },
+  "structured_products": {
+   "present": "Unclear",
+   "detail": "Treasury lists structured deposits and hedging solutions among Shari'a-compliant treasury products. No investment-grade structured notes for wealth clients were found.",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  "private_markets": {
+   "present": "Not found after research",
+   "detail": "No private equity, private credit or real estate fund offer for clients found. ARI advises on IPOs, sukuk and M&A (corporate advisory, not client investment products).",
+   "source_ids": [
+    "S10",
+    "S4"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Whole group is Shari'a-compliant (AAOIFI). Products: Shari'a-compliant GCC equity/sukuk fund, the Islamic Qatar ETF (QATR), USD sukuk portfolios and sukuk execution.",
+   "source_ids": [
+    "S2",
+    "S11",
+    "S4"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "GCC equities",
+   "ETFs",
+   "Mutual funds",
+   "Sukuk"
   ],
-  "open_items": [
-    "Q3 2026 (30 Sep 2026) results not yet published: QSE financial-statement API returned 404 for MARK 2026-09-30 on 12 Oct 2026.",
-    "Usman Ahmed's start date as Group CEO is not yet confirmed; re-check the executive page in Q4 2026.",
-    "No named head of Private Banking. Hassan Al-Jaidah (Premier) is sourced only from a 2023 release.",
-    "Private Banking product shelf, thresholds and any custody or platform vendor are unpublished. Whether a third-party fund shelf exists is unknown.",
-    "Ownership % of associates Sahb, Beema and Linc not extracted from FY2025 note 12.",
-    "LinkedIn: one search for Houssam Itani returned no profile match; other key people not checked (search budget); all LinkedIn fields left null.",
-    "The H1 2026 results release and QNA article were seen in search results only; the deposits figure was reconstructed from the statements."
+  "partners": [
+   {
+    "partner": "The Group Securities",
+    "kind": "Brokerage / execution",
+    "what": "Sahl Plus: link bank accounts to The Group investment accounts for QSE trading and fund transfers in the AlRayan app",
+    "date": "2026-05-12",
+    "status": "Live",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "partner": "Finastra",
+    "kind": "Digital banking technology (corporate)",
+    "what": "Corporate digital banking platform go-live (AlRayan CorpNet launched Nov 2025)",
+    "date": "2025-08-13",
+    "status": "Live",
+    "source_ids": [
+     "S18",
+     "S4"
+    ]
+   },
+   {
+    "partner": "Microsoft",
+    "kind": "Technology (AI productivity)",
+    "what": "Adoption of Microsoft 365 Copilot under QCB AI guidelines",
+    "date": "2026-05-21",
+    "status": "Live",
+    "source_ids": [
+     "S18"
+    ]
+   }
   ],
-  "research_status": "Complete",
-  "researched_by": "B20",
-  "checked": "2026-10-12"
+  "initiatives": [
+   {
+    "date": "2026-10-01",
+    "what": "Usman Ahmed (ex-Group CEO National Bank of Bahrain; ex-Citi Global Head of Islamic Banking) named Group CEO with QCB approval. Fahad Al Khalifa stepped down on 30 Sep 2026 to become Advisor to the Chairman; Omar Al Emadi is acting Group CEO.",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2026-05-12",
+    "what": "Launched Sahl Plus with The Group: QSE trading and fund transfers via the bank's mobile app.",
+    "source_ids": [
+     "S13",
+     "S18"
+    ]
+   },
+   {
+    "date": "2026-05",
+    "what": "Houssam Itani promoted to Group Chief Strategy and Technology Officer. Microsoft 365 Copilot adopted (21 May 2026).",
+    "source_ids": [
+     "S16",
+     "S18"
+    ]
+   },
+   {
+    "date": "2026",
+    "what": "GBP 50m capital increase in Al Rayan Bank PLC (UK) agreed with another shareholder; first GBP 25m tranche paid; stake 73.91%.",
+    "source_ids": [
+     "S2"
+    ]
+   },
+   {
+    "date": "2025-12-06",
+    "what": "ARI acted as Joint Lead Manager on the State of Qatar's USD 3bn sovereign sukuk.",
+    "source_ids": [
+     "S18",
+     "S4"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "ARI AUM reached QAR 3.9bn. The AlRayan GO app was enhanced, with 'Pockets' goal-based savings and the invitation-only Al Qimma Visa Infinite Privilege card. LEAD strategy (2024-2027) refocuses personal banking on Private and Premier.",
+    "source_ids": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2024-12-09",
+    "what": "Launched the AlRayan GO mobile app (first iteration: accounts, transfers, cards).",
+    "source_ids": [
+     "S14"
+    ]
+   }
+  ],
+  "evidence_for_arta": {
+   "opportunities": [
+    "The LEAD strategy (2024-2027) explicitly targets upscaling personal banking, with a focus on Private and Premier Banking through better segmentation and redefined value propositions (S4 p.16).",
+    "Private Banking publishes no product shelf, platform or third-party funds. In-app investing is only QSE trading through a third-party broker (Sahl Plus, May 2026), and there are no model portfolios or in-app funds or sukuk (S7, S13).",
+    "The group has its own Shari'a-compliant manufacturer (ARI: QAR 3.9bn AUM, QATR, GCC Fund) but no evident digital distribution of ARI products to retail and premier clients (S4, S11).",
+    "A new Group CEO arrives in Q4 2026 with a Citi Islamic and retail background, and a new Group Chief Strategy and Technology Officer took over in May 2026 (S6, S16)."
+   ],
+   "barriers": [
+    "Fully Islamic (AAOIFI): every product must be Shari'a-compliant and approved by the Shari'a supervisory board (S2).",
+    "In-house asset manager (ARI) and broker partner (The Group) already cover local equities and sukuk (S11, S13).",
+    "CEO transition (Oct 2026) may delay vendor decisions until the new Group CEO is in post (S6)."
+   ],
+   "incumbent_vendors": [
+    "The Group Securities - QSE brokerage link (Sahl Plus) (S13)",
+    "Finastra - corporate digital banking (S18)",
+    "Microsoft - 365 Copilot (S18)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Executive Management",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/en/about-us/management",
+   "doc_type": "Official leadership page with short bios (shareholdings as of 31 Aug 2026)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Arabic version /about-us/management also opened."
+  },
+  {
+   "id": "S2",
+   "title": "AlRayan Bank (Q.P.S.C.) Interim Condensed Consolidated Financial Statements 30 June 2026",
+   "publisher": "Qatar Stock Exchange (issuer filing)",
+   "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=MARK&reportEndDate=2026-06-30&lang=1",
+   "doc_type": "Reviewed interim financial statements (PwC review report 21 Jul 2026)",
+   "tier": 1,
+   "published": "2026-07-21",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Statement of financial position is a scanned page; read visually."
+  },
+  {
+   "id": "S3",
+   "title": "AlRayan Bank (Q.P.S.C.) Consolidated Financial Statements 31 December 2025",
+   "publisher": "Qatar Stock Exchange (issuer filing)",
+   "url": "https://www.qe.com.qa/qdisclosure/api/XBRL/GetFSAttachmentAPI?attachmentType=1&symCode=MARK&reportEndDate=2025-12-31&lang=1",
+   "doc_type": "Audited consolidated financial statements (121 pp.)",
+   "tier": 1,
+   "published": "2026-01",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "AlRayan Bank Annual Report 2025",
+   "publisher": "AlRayan Bank",
+   "url": "https://marblobstorage.blob.core.windows.net/files/arbfiles/AnnualReports2019/EN/ARB-Annual-Report-2025_en.pdf",
+   "doc_type": "Annual report (244 pp.)",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Linked from alrayan.com annual reports page. Governance section: Board of Directors pp.69-72; Senior Management (as of 31 Dec 2025) pp.89-91; organisation chart p.94; FS signatures p.131."
+  },
+  {
+   "id": "S5",
+   "title": "Investor Presentation Q2 2026",
+   "publisher": "AlRayan Bank",
+   "url": "https://marblobstorage.blob.core.windows.net/files/arbfiles/InvestorPresentation/EN/MAR-IR-presentation-Q2-2026.pdf",
+   "doc_type": "Investor presentation (28 pp.)",
+   "tier": 2,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "AlRayan Bank announces new Group CEO",
+   "publisher": "The Peninsula",
+   "url": "https://www.thepeninsulaqatar.com/article/01/10/2026/alrayan-bank-announces-new-group-ceo",
+   "doc_type": "News",
+   "tier": 5,
+   "published": "2026-10-01",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "Private Banking",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/en/private-banking",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "Premier Banking",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/en/premier-banking",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "AlRayan Premier Elevates Banking Experience",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/en/press-release/Al-Rayan-Premier-Elevates-Banking-Experience",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2023-06-11",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "AlRayan Investment",
+   "publisher": "AlRayan Bank / AlRayan Investment",
+   "url": "https://www.alrayan.com/en/investment-banking",
+   "doc_type": "Official subsidiary page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "About Asset Management | AlRayan Investment",
+   "publisher": "AlRayan Investment",
+   "url": "https://www.alrayan.com/en/investment-banking/asset-management-group/about-asset",
+   "doc_type": "Official subsidiary product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "Our Team | AlRayan Investment",
+   "publisher": "AlRayan Investment",
+   "url": "https://www.alrayan.com/en/investment-banking/team",
+   "doc_type": "Official subsidiary leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "AlRayan Bank and The Group Celebrate the Successful Launch of Sahl Plus through Digital Banking Channels",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/en/press-release/AlRayan-Bank-and-The-Group-Celebrate-the-Successful-Launch-of-Sahl-Plus-through-Digital-Banking-Channels",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-05-12",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Date from the press-release listing page (S18)."
+  },
+  {
+   "id": "S14",
+   "title": "AlRayan Bank Unveils Mobile App 'AlRayan Go': The Future of Shari'a-Compliant Digital Banking",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/en/press-release/AlRayan-Bank-Unveils-Mobile-App-AlRayan-Go",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2024-12-09",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Date from the press-release listing page (S18)."
+  },
+  {
+   "id": "S15",
+   "title": "AlRayan Bank UK Board and Executive Teams",
+   "publisher": "Al Rayan Bank PLC",
+   "url": "https://www.alrayanbank.co.uk/investor-relations-alrayan-bank-uk-board-and-executive-teams",
+   "doc_type": "Official subsidiary leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "Houssam Itani appointed as Group Chief Strategy & Technology Officer at AlRayan Bank Group",
+   "publisher": "HR Today",
+   "url": "https://hrtoday.in/houssam-itani-appointed-as-group-chief-strategy-technology-officer-at-alrayan-bank-group/",
+   "doc_type": "News",
+   "tier": 5,
+   "published": "2026-05",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only; the page returned HTTP 403 to scripted requests on 2026-10-12."
+  },
+  {
+   "id": "S17",
+   "title": "AlRayan Bank reports net profit of QR687m for H1",
+   "publisher": "The Peninsula / Gulf Times / QNA",
+   "url": "https://thepeninsulaqatar.com/article/22/07/2026/alrayan-bank-reports-net-profit-of-qr687m-for-h1",
+   "doc_type": "News (results coverage)",
+   "tier": 5,
+   "published": "2026-07-22",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (CEO quote: customer deposits QR120bn, +8.4% YoY)."
+  },
+  {
+   "id": "S18",
+   "title": "Press Releases",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/en/press-release",
+   "doc_type": "Official press release listing (titles, dates and summaries incl. new Group CEO, Microsoft 365 Copilot, Finastra go-live, ARI sovereign sukuk)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "AlRayan Bank home page (links official LinkedIn company page)",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/",
+   "doc_type": "Official website page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "Board of Directors",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/en/about-us/board",
+   "doc_type": "Official board page (member profiles, appointment dates, 2026-2028 term elected 15 Mar 2026, shareholdings as of 31 Aug 2026)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Last entry (Abdulla Al Romaihi) truncated in the fetched text."
+  },
+  {
+   "id": "S21",
+   "title": "AlRayan Bank Announces New Group CEO",
+   "publisher": "AlRayan Bank",
+   "url": "https://www.alrayan.com/en/press-release/AlRayan-Bank-Announces-New-Group-CEO",
+   "doc_type": "Press release (Group CEO change; Usman Ahmed appointed; Omar Al Emadi acting from 1 Oct 2026)",
+   "tier": 2,
+   "published": "2026-09-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S22",
+   "title": "NBB scouts for new CEO as Usman Ahmed resigns",
+   "publisher": "Gulf Daily News (GDN Online)",
+   "url": "https://www.gdnonline.com/Details/1408210/NBB-scouts-for-new-CEO-as-Usman-Ahmed-resigns",
+   "doc_type": "News (NBB statement: Usman Ahmed steps down after almost four years; final day 31 Dec 2026)",
+   "tier": 5,
+   "published": "2026-10-01",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S23",
+   "title": "Top 100 CEOs 2026 - Usman Ahmed (Group CEO, National Bank of Bahrain)",
+   "publisher": "Forbes Middle East",
+   "url": "https://www.forbesmiddleeast.com/lists/top-100-ceos-2026/usman-ahmed/",
+   "doc_type": "Ranking profile (current outside board roles)",
+   "tier": 5,
+   "published": "2026-08-06",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Says he 'assumed his current position in 2023'; NBB announced the appointment in Oct 2022 (S24)."
+  },
+  {
+   "id": "S24",
+   "title": "NBB announces retirement of CEO Jean-Christophe Durand and appointment of Usman Ahmed as Group CEO",
+   "publisher": "National Bank of Bahrain",
+   "url": "https://www.nbbonline.com/news/nbb-announces-retirement-ceo-jean-christophe-durand-appointment-usman-ahmed-group-ceo",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2022-10-13",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only: the page is script-rendered and returned no readable text to pdftext.py or curl on 2026-10-12."
+  },
+  {
+   "id": "S25",
+   "title": "Investor relations: Fahad Al Khalifa, Non-Executive Director",
+   "publisher": "Al Rayan Bank PLC",
+   "url": "https://www.alrayanbank.co.uk/investor-relations-fahad-al-khalifa",
+   "doc_type": "Official subsidiary biography page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Still describes him as Group CEO of AlRayan Bank QPSC (stale after 30 Sep 2026)."
+  },
+  {
+   "id": "S26",
+   "title": "Investor relations: Omar Al Emadi, Non-Executive Director",
+   "publisher": "Al Rayan Bank PLC",
+   "url": "https://www.alrayanbank.co.uk/investor-relations-omar-al-emadi",
+   "doc_type": "Official subsidiary biography page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Describes his 2021 appointment as Group CRO; predates his later group titles."
+  },
+  {
+   "id": "S27",
+   "title": "Investor relations: Giles Cunningham, CEO and Director",
+   "publisher": "Al Rayan Bank PLC",
+   "url": "https://www.alrayanbank.co.uk/investor-relations-giles-cunningham-ceo-and-director",
+   "doc_type": "Official subsidiary biography page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S28",
+   "title": "Giles Cunningham appointed as Al Rayan Bank CEO",
+   "publisher": "Al Rayan Bank PLC",
+   "url": "https://alrayanbank.co.uk/latest-news/giles-cunningham-appointed-al-rayan-bank-ceo",
+   "doc_type": "Press release (CEO appointment pending regulatory approval; succeeds Peter Horton)",
+   "tier": 2,
+   "published": "2021-09-13",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S29",
+   "title": "AL RAYAN BANK PLC (company 04483430) - Officers",
+   "publisher": "Companies House (UK)",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04483430/officers",
+   "doc_type": "Regulator / company register (directors of the UK subsidiary)",
+   "tier": 3,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Lists Giles Hullah Cunningham and Omar Abdulrazaq Al-Emadi as active directors; Fahad Abdulla Alkhalifa also appears (status line not captured)."
+  },
+  {
+   "id": "S30",
+   "title": "Maisam Fazal appointed as chief commercial officer of Al Rayan Bank",
+   "publisher": "The Asian Banker (press release)",
+   "url": "https://www.theasianbanker.com/press-releases/maisam-fazal-appointed-as-chief-commercial-officer-of-al-rayan-bank",
+   "doc_type": "Press release reproduced by trade publication",
+   "tier": 5,
+   "published": "2019-03-26",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S31",
+   "title": "Top 50 Asset Managers 2026 - Akber Ahmed Khan (Acting CEO, AlRayan Investment)",
+   "publisher": "Forbes Middle East",
+   "url": "https://www.forbesmiddleeast.com/lists/top-50-asset-managers-2026/akber-ahmed-khan/",
+   "doc_type": "Ranking profile",
+   "tier": 5,
+   "published": "2026-07-09",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Also states ARI AUM of USD 1.4bn in 2025 (not used for metrics in this pass)."
+  },
+  {
+   "id": "S32",
+   "title": "Panelist biography: Akber Khan, Senior Director, Asset Management Group, Al Rayan Investment",
+   "publisher": "Hamad Bin Khalifa University (HBKU)",
+   "url": "https://www.hbku.edu.qa/sites/default/files/panelist_2_akber_khan.pdf",
+   "doc_type": "Official biography published by a third party (conference panel; undated, pre-2023)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S33",
+   "title": "Sheikh Mohammed appointed chairman of Masraf Al Rayan",
+   "publisher": "Qatar Tribune",
+   "url": "https://www.qatar-tribune.com/news-details/id/224878",
+   "doc_type": "News (board elects chairman under Article 22; QIA board representative under Article 19)",
+   "tier": 5,
+   "published": "2021-11-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S34",
+   "title": "Board of Directors | AlRayan Investment",
+   "publisher": "AlRayan Investment",
+   "url": "https://www.alrayan.com/en/investment-banking/board-directors",
+   "doc_type": "Official subsidiary board page (Chairman Mohammed Jaber Al-Sulaiti; members incl. Tahir Hayat Pirzada and Sheikh Mohammed Abdulaziz S. H. Al-Thani)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  }
+ ],
+ "original_reconciliation": [],
+ "discrepancies": [
+  {
+   "field": "Group CEO",
+   "detail": "The 30 Jun 2026 statements (approved 21 Jul 2026) are signed by Group CEO Fahad Bin Abdulla Al Khalifa. The Oct 2026 executive page lists Omar Al Emadi as Acting Group CEO. The 1 Oct 2026 announcement names Usman Ahmed as incoming Group CEO. The UK subsidiary page still lists Al Khalifa as Group CEO.",
+   "source_ids": [
+    "S2",
+    "S1",
+    "S6",
+    "S15"
+   ],
+   "resolution": "Al Khalifa recorded as Departed (30 Sep 2026); Al Emadi as acting (Verified current); Usman Ahmed as Requires verification until he assumes office."
+  },
+  {
+   "field": "ARI AUM",
+   "detail": "Annual Report 2025: ARI AUM QAR 3.9bn at end-2025. ARI team page: Head of AM manages 'more than QAR5bn in client portfolios' (undated).",
+   "source_ids": [
+    "S4",
+    "S12"
+   ],
+   "resolution": "Used the dated annual report figure."
+  },
+  {
+   "field": "Branches/ATMs",
+   "detail": "Statements: 13 branches in Qatar. AR 2025: 11 retail + 2 corporate branches, 103 ATMs. Presentation: 13 branches, 105 ATMs (Qatar).",
+   "source_ids": [
+    "S2",
+    "S4",
+    "S5"
+   ],
+   "resolution": "13 branches recorded; ATM count differs by date."
+  },
+  {
+   "field": "FY2025 net profit",
+   "detail": "A Gulfbase headline (search results only) cites 'net profit of QR1,530m for 2025'; the audited statements show QAR 1,328,595k attributable to equity holders (QAR 1,350,612k total).",
+   "source_ids": [
+    "S3"
+   ],
+   "resolution": "Audited figure used; the headline figure is unexplained (possibly a different measure) and not recorded."
+  },
+  {
+   "field": "Usman Ahmed start date",
+   "detail": "AlRayan (30 Sep 2026) says he will assume duties 'following completion of the necessary joining formalities'. NBB (1 Oct 2026) says he stays as NBB Group CEO through an agreed transition and his final day is 31 Dec 2026. Forbes dates his NBB role to 2023, while NBB's announcement was in Oct 2022.",
+   "source_ids": [
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "resolution": "Recorded as appointed but not in office (Requires verification); re-check in Q1 2027."
+  },
+  {
+   "field": "Omar Al Emadi title",
+   "detail": "AR 2025 lists him as Group Chief Business Officer at 31 Dec 2025 (with Stuart Rennie as Group COO). The Aug/Oct 2026 executive page and the 30 Sep 2026 release call him Group Chief Operations and Administration Officer; Rennie is no longer listed.",
+   "source_ids": [
+    "S4",
+    "S1",
+    "S21"
+   ],
+   "resolution": "Current official title used; date of the change and Rennie's status unknown (open item)."
+  },
+  {
+   "field": "Sheikh Mohammed Bin Abdulaziz Al Thani title",
+   "detail": "Executive page: 'GM, Wholesale'. AR 2025: 'GM, Corporate Banking'.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "resolution": "Executive page title used; both describe the same wholesale/corporate remit."
+  },
+  {
+   "field": "Maisam Fazal CCO appointment",
+   "detail": "UK board page: appointed CCO in 2018. Asian Banker release: interim CCO from Oct 2018, confirmed 26 Mar 2019.",
+   "source_ids": [
+    "S15",
+    "S30"
+   ],
+   "resolution": "Recorded Oct 2018 (interim) with the Mar 2019 confirmation in the note."
+  },
+  {
+   "field": "Rana Al Asaad spelling",
+   "detail": "Executive page: 'Rana Al Asaad'; AR 2025: 'Rana El Asaad'.",
+   "source_ids": [
+    "S1",
+    "S4"
+   ],
+   "resolution": "Executive page spelling kept."
+  }
+ ],
+ "open_items": [
+  "Q3 2026 (30 Sep 2026) results not yet published: QSE financial-statement API returned 404 for MARK 2026-09-30 on 12 Oct 2026.",
+  "Private Banking product shelf, thresholds and any custody or platform vendor are unpublished. Whether a third-party fund shelf exists is unknown.",
+  "Ownership % of associates Sahb, Beema and Linc not extracted from FY2025 note 12.",
+  "The H1 2026 results release and QNA article were seen in search results only; the deposits figure was reconstructed from the statements.",
+  "Usman Ahmed: start date as Group CEO unconfirmed. NBB says his final day there is 31 Dec 2026 (S22); AlRayan says he joins after 'joining formalities' (S21). His education could not be verified: the NBB 2022 release (S24) is script-rendered and unreadable to pdftext.py/curl; Forbes (S23) gives no degrees. Re-check the executive page in Q1 2027.",
+  "No named head of Private Banking or AlRayan Premier on official pages. Hassan Al-Jaidah (Premier) is sourced only from the Jun 2023 release; a 2025-2026 news search for Premier/Private Banking heads returned nothing.",
+  "Executive changes since 31 Dec 2025 not explained by any announcement: Stuart Rennie (Group COO) and Hamad Al Kubaisi (Group CHRO) in AR 2025 (S4 pp.89-90) are absent from the Oct 2026 executive page, which shows Fouzia Al Ansari as GM Human Resources and gives Omar Al Emadi the Operations and Administration remit (S1).",
+  "LinkedIn: no verified profile for any AlRayan person. Role-based searches (GM Personal Banking; ARI head of asset management) returned no profiles; the search tool declines name-based look-ups, so Al Emadi, Usman Ahmed, Akber Khan, Cunningham and the chairman were not checked by name. All linkedin_url fields remain null.",
+  "hrtoday.in (S16, Itani promotion) returns HTTP 403 to scripted requests; the May 2026 date rests on a search snippet, while the title itself is confirmed by the executive page (S1).",
+  "Board term 2026-2028 elected 15 Mar 2026 (S20): new member Nasser Mohsin Al Adba (Al Qayqiyan Investment Group); Abdulla Al Romaihi's profile was truncated in the fetched page. Only the Chairman is profiled in people.",
+  "ARI governance: the ARI board page (S34) names Mohammed Jaber Al-Sulaiti as ARI Chairman and lists a 'Sheikh Mohammed Abdulaziz S. H. Al-Thani' - probably the bank's GM Wholesale - and Tahir Hayat Pirzada; no permanent ARI CEO has been announced (Akber Khan acting since 2023, S31)."
+ ],
+ "research_status": "Complete",
+ "researched_by": "B20",
+ "checked": "2026-10-12"
 }
