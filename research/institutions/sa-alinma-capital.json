@@ -377,16 +377,17 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": "2023-12",
-      "appointed_note": "Chairman 'since December 2023' (S2); parent AR 2025 says 2023–present (S9). Also on Alinma Bank's board (Chairman of the bank's Risk Committee).",
-      "previous_roles": "CEO, Savola Group; CEO, SEDCO Holding Group; General Manager and Senior Credit Officer, Citibank/Samba Financial Group; former board member of Saudi National Bank, Almarai, Savola Foods (Vice Chairman), Panda Retail (Vice Chairman), United Sugar (Vice Chairman), Herfy (Vice Chairman), Knowledge Economic City, Elaf Group",
-      "education": "Master's in Engineering Administration (honors) and Bachelor's in Civil Engineering (honors), George Washington University",
+      "appointed_note": "Chairman 'since December 2023' (board page, S2/S29); parent AR 2025: 'Chairman of the Board, alinma capital (2023 – Present)' (S9 PDF p.88). Chairman of Alinma Capital's Executive Committee and member of its Nominations and Remuneration Committee (AR 2025, S5 p.13). Board member of Alinma Bank since 21 May 2022 (Chairman of its Risk Committee from 21 May 2025) — see sa-alinma.",
+      "previous_roles": "Chief Executive Officer, Savola Group; Chief Executive Officer, SEDCO Holding Group; General Manager and Senior Credit Officer, Citibank/Samba Financial Group; earlier role at Procter & Gamble (Arabic bio only; years not published). Former board seats: Saudi National Bank; Almarai; Vice Chairman, Savola Foods; Vice Chairman, Panda Retail; Vice Chairman, United Sugar; Vice Chairman, Afia International; Chairman, Variety Foods (Al Khabeer); Vice Chairman, Herfy Food Services; Knowledge Economic City; Elaf Group; Board of Trustees, Savola World; Mohammed bin Laden Real Estate Development & Investment; Chairman, AlShiaka. Current other roles: Board member and Chairman of the Risk Committee, Alinma Bank (2022–); Chairman, Fakieh Poultry Farms (2024–); Board member, Fakieh Tourism and Leisure Group (2024–); Board member, Murooj Jeddah (2024–); Chairman, Al Tazaj Fakieh (2023–); Board member, Jeddah Transport Company (2023–); Board member, Halwani Brothers (2023–); Board member, Abdul Latif Jameel Enterprises (2022–); Board member, Jeddah Development & Urban Regeneration (2021–); Board member, Dar Al Tamleek (2021–); Board member, Dr. Suliman Fakeeh Hospital (2019–); Supervisory Board member, Effat University (2010–); Board member, Almatajer Alkoubra (bank board page).",
+      "education": "Master's in Engineering Management (with honors), George Washington University (US) (printed 'Engineering Administration' on the Alinma Capital page); Bachelor's in Civil Engineering (with honors), George Washington University; Senior Executive Management Program, Columbia University; Executive Program in Global Administration, Harvard University; Global CEOs Program, Wharton (programmes per parent AR 2025)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2); Alinma Capital AR 2025 board list (S5)",
+      "role_evidence": "Official board page (EN and AR) checked 2026-10-12 (S2, S29); Alinma Capital AR 2025 board and committee lists (S5 p.13); parent AR 2025 biography (S9 PDF p.88); EN/AR searches for a 2025–2026 change of Alinma Capital's chairman or board found none.",
       "source_ids": [
         "S2",
+        "S29",
         "S5",
         "S9"
       ],
@@ -395,24 +396,25 @@
     {
       "name": "Abdullah Ali AlKhalifa",
       "name_ar": "عبدالله بن علي الخليفة",
-      "title": "Vice Chairman of the Board",
+      "title": "Vice Chairman of the Board of Directors",
       "functions": [
         "Board"
       ],
       "entity": "Alinma Capital Company",
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
-      "appointed": null,
-      "appointed_note": "Parent AR 2025: board member of alinma capital 2021–present. He is MD & CEO of Alinma Bank (see sa-alinma).",
-      "previous_roles": "CFO, Banque Saudi Fransi; CFO, Al Rajhi Bank; CFO, Arab National Bank; roles at Samba Financial Group",
-      "education": "Master's in Accounting, University of Miami; Bachelor's in Accounting, King Saud University",
+      "appointed": "2021",
+      "appointed_note": "Board member of alinma capital '2021 – Present' per parent AR 2025 (S9 PDF p.85); date of election as Vice Chairman not published. Chairman of Alinma Capital's Nominations and Remuneration Committee and member of its Executive Committee (S5 p.13). Managing Director and CEO of Alinma Bank (CEO from 3 Jan 2021; board member–MD from 21 May 2025) — full profile in sa-alinma.",
+      "previous_roles": "3 Jan 2021– Chief Executive Officer (Managing Director from 21 May 2025), Alinma Bank; Chief Financial Officer, Banque Saudi Fransi; Chief Financial Officer, Al Rajhi Bank; Chief Financial Officer / Financial Director, Arab National Bank; earlier roles at Samba Financial Group (years not published). Former board seats: Arabian Shield Cooperative Insurance; Saudi Credit Bureau (SIMAH); alinma Tokio Marine. Current other roles: Chairman, Saudi Fintech Company (2021–); Chairman, TechStrike (2025–); Vice Chairman, Ersal Financial Remittance Company (2021–); Vice Chairman, alinma Jeddah Economic City Real Estate Fund (2024–).",
+      "education": "Master of Accounting, University of Miami (US); Bachelor of Accounting, King Saud University",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5)",
+      "role_evidence": "Official board page (EN and AR) checked 2026-10-12 (S2, S29); AR 2025 board and committee lists (S5 p.13); parent AR 2025 biography (S9 PDF p.85); named Managing Director and CEO of Alinma Bank in an official bank release of May 2026 (see sa-alinma).",
       "source_ids": [
         "S2",
+        "S29",
         "S5",
         "S9"
       ],
@@ -430,26 +432,28 @@
       "business_unit": "Executive Management",
       "scope": "Subsidiary",
       "appointed": "2020",
-      "appointed_note": "Promoted to CEO and MD of Alinma Investment in 2020 (Arab News, 7 May 2024). Exact date not found in an official source.",
-      "previous_roles": "Joined Alinma Investment in 2016 per the official bio (Arab News says 2017, as Chief Investment Officer). Before that: Chief Investment Officer, HSBC Saudi Arabia (official bio; Arab News says head of investment management); head of Saudi and GCC equities, Saudi Fransi Capital (Arab News); roles at Riyad Bank. Managed investment funds and discretionary portfolios across Saudi/GCC equity and money markets. Board member of Tawzea Company and Go Station Company; former board member of Jabal Omar Development Company. Ranked 5th in Forbes Middle East Top 50 Asset Managers 2026.",
-      "education": "Bachelor's in Finance, KFUPM; INSEAD Transition to General Management Programme; IMD Board Readiness Diploma",
+      "appointed_note": "Forbes Middle East (9 Jul 2026): 'joined Alinma Capital in 2016 and assumed his current role in 2020' (S19); Arab News (7 May 2024) also gives 2020 (S18). No official announcement with an exact date found: the Alinma Capital news page now lists only recent fund notices (checked 2026-10-12). Board member and Executive Committee member (S5 p.13).",
+      "previous_roles": "2020– Chief Executive Officer & Managing Director, Alinma Capital (formerly Alinma Investment); 2016–2020 Chief Investment Officer, Alinma Investment (joined 2016 per official bio; Arab News says 2017); Chief Investment Officer, HSBC Saudi Arabia; Head of Saudi and GCC equities, Saudi Fransi Capital (Arab News); earlier roles at Riyad Bank (years not published). Managed investment funds and discretionary portfolios in Saudi and GCC equity and money markets. Former: Board member, Jabal Omar Development Company. Current other roles: Board member, Tawzea Company; Board member, Go Station Company; Executive Committee member, Alinma Capital. Ranked 5th in Forbes Middle East Top 50 Asset Managers 2026 (S19).",
+      "education": "Bachelor's in Finance, King Fahd University of Petroleum and Minerals (KFUPM); Transition to General Management Programme, INSEAD; Board Readiness Diploma, IMD",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives and board pages checked 2026-10-12 (S1, S2); Alinma Capital AR 2025 (S5); Forbes ME 2026 list (S19); no departure news found",
+      "role_evidence": "Official senior executives and board pages (EN and AR) checked 2026-10-12 (S1, S2, S28, S29); AR 2025 board list and organisation chart (S5 pp.13, 28); Forbes ME list dated 9 Jul 2026 (S19); EN/AR role-based searches for a 2026 CEO change at Alinma Capital found none.",
       "source_ids": [
         "S1",
         "S2",
         "S5",
         "S18",
-        "S19"
+        "S19",
+        "S28",
+        "S29"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Zaki Alawami",
-      "name_ar": null,
+      "name_ar": "زكي العوامي",
       "title": "Chief Asset Management Officer",
       "functions": [
         "Investments / asset management"
@@ -458,23 +462,25 @@
       "business_unit": "Asset Management",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Joined Alinma Capital in 2013; date of current title not found",
-      "previous_roles": "Research and portfolio management at Global Investment House – Saudi Arabia and Saudi Kuwait Finance House. At Alinma Capital: managed discretionary mandates and funds across asset classes and the research team.",
-      "education": "Bachelor's in Finance, KFUPM; executive programmes at Harvard and INSEAD",
+      "appointed_note": "Joined Alinma Capital (then Alinma Investment) in 2013 (S1); date of appointment as Chief Asset Management Officer not published.",
+      "previous_roles": "2013– Alinma Capital: Chief Asset Management Officer (current); earlier managed discretionary mandates and funds across asset classes and the research team; before 2013: research and portfolio management, Global Investment House – Saudi Arabia; research and portfolio management, Saudi Kuwait Finance House (order and years not published). Current other roles: none published.",
+      "education": "Bachelor's in Finance, King Fahd University of Petroleum and Minerals (KFUPM); executive programmes in management, Harvard and INSEAD",
       "qualifications": null,
       "linkedin_url": "https://www.linkedin.com/in/awami/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives page checked 2026-10-12 (S1). LinkedIn search result shows 'Zaki Alawami - alinma capital - الإنماء المالية' with KFUPM education, consistent with the official bio; title not shown in the snippet (S24).",
+      "role_evidence": "Official senior executives page (EN and AR) checked 2026-10-12 (S1, S28); post shown in the AR 2025 organisation chart (S5 p.28); LinkedIn search-result match recorded in the earlier pass kept, no contrary evidence (S24); role-based search for a 2026 asset-management head appointment found none.",
       "source_ids": [
         "S1",
+        "S28",
+        "S5",
         "S24"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Sari Abutaleb",
-      "name_ar": null,
+      "name_ar": "ساري أبوطالب",
       "title": "Chief Brokerage Officer",
       "functions": [
         "Brokerage"
@@ -482,24 +488,26 @@
       "entity": "Alinma Capital Company",
       "business_unit": "Brokerage (local and international; institutional and retail)",
       "scope": "Subsidiary",
-      "appointed": null,
-      "appointed_note": "Not in the AR 2025 org chart, which had no brokerage chief. Likely appointed late 2025 or 2026; date not found.",
-      "previous_roles": "Senior Vice President and Head of Securities Trading, SNB Capital; earlier leadership roles at Derayah Financial, Alinma Capital, Samba and Riyad Bank",
-      "education": "Bachelor's in Economics, King Saud University; MBA, Shippensburg University (US)",
+      "appointed": "2025",
+      "appointed_note": "Arabic official bio: 'before his return to Alinma Capital in 2025' (S28); month not published. The post does not appear in the AR 2025 organisation chart, which shows no brokerage chief (S5 p.28).",
+      "previous_roles": "2025– Chief Brokerage Officer, Alinma Capital; Senior Vice President and Head of Securities Trading, SNB Capital; leadership roles at Derayah Financial, Alinma Capital (earlier spell), Samba Financial Group and Riyad Bank (years not published). Current other roles: none published.",
+      "education": "MBA (AACSB-accredited), Shippensburg University (US); Bachelor's in Economics, King Saud University",
       "qualifications": null,
       "linkedin_url": "https://sa.linkedin.com/in/sari-abutaleb-mba-3b80b5122",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives page checked 2026-10-12 (S1). LinkedIn search result shows 'Sari Abutaleb, MBA - alinma capital - الإنماء المالية' with Chief Brokerage Officer title and Shippensburg MBA (S26).",
+      "role_evidence": "Official senior executives page (EN and AR) checked 2026-10-12 (S1, S28); LinkedIn search-result match recorded in the earlier pass kept (S26); Arabic search for a brokerage-head appointment announcement found nothing.",
       "source_ids": [
         "S1",
-        "S26"
+        "S28",
+        "S26",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Sultan Alkusayer",
-      "name_ar": null,
+      "name_ar": "سلطان القصير",
       "title": "Chief Alternative Investments Officer",
       "functions": [
         "Investments / asset management"
@@ -508,22 +516,24 @@
       "business_unit": "Alternative Investments (real estate and private equity funds)",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Joined the Alternative Investments division in 2014",
-      "previous_roles": "Portfolio Manager, Swicorp; Blominvest",
+      "appointed_note": "Joined the Alternative Investments division in 2014 and has since led the team (S1); date of the chief title not published.",
+      "previous_roles": "2014– Alinma Capital Alternative Investments: Chief Alternative Investments Officer (current), leading the real estate and private equity funds team; Portfolio Manager, Swicorp; Portfolio Manager, Blominvest (years not published). Current other roles: none published.",
       "education": "Bachelor's in Finance, Real Estate and Economics, Villanova University (US)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives page checked 2026-10-12 (S1). A same-name LinkedIn profile at 'Alinma Investment' appeared in search, but the snippet's education and activity did not clearly match the official bio, so it was not recorded.",
+      "role_evidence": "Official senior executives page (EN and AR) checked 2026-10-12 (S1, S28); post shown in the AR 2025 organisation chart (S5 p.28); role-based search for a 2026 alternative-investments head appointment found none. A same-name LinkedIn profile at 'Alinma Investment' seen in the earlier pass was not recorded because its snippet did not clearly match the official bio.",
       "source_ids": [
-        "S1"
+        "S1",
+        "S28",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Mohammad Allouzi",
-      "name_ar": null,
+      "name_ar": "محمد اللوزي",
       "title": "Chief Investment Banking Officer",
       "functions": [
         "Other"
@@ -532,22 +542,24 @@
       "business_unit": "Investment Banking",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Joined Alinma Capital in 2020",
-      "previous_roles": "Managing Director of Investment Banking, Saudi Kuwaiti Finance House and FALCOM Financial Services; earlier positions at SAMA and Jordan's Social Security Investment Fund; board member of several companies in Saudi Arabia and Jordan",
-      "education": "Bachelor's in Economics & Statistics, University of Jordan; Master's in Corporate Finance, University of Salford (UK)",
-      "qualifications": "CFA charterholder",
+      "appointed_note": "Joined Alinma Capital in 2020 (S1).",
+      "previous_roles": "2020– Chief Investment Banking Officer, Alinma Capital; Managing Director of Investment Banking, Saudi Kuwaiti Finance House; Managing Director of Investment Banking, FALCOM Financial Services; earlier positions at the Saudi Central Bank (SAMA; Arabic bio: its Institute of Banking) and Jordan's Social Security Investment Fund; board member of several companies in Saudi Arabia and Jordan (years not published). Current other roles: not published.",
+      "education": "Master's in Corporate Finance, University of Salford (UK); Bachelor's in Economics & Statistics, University of Jordan",
+      "qualifications": "CFA charterholder, CFA Institute",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "role_evidence": "Official senior executives page (EN and AR) checked 2026-10-12 (S1, S28); post shown in the AR 2025 organisation chart (S5 p.28).",
       "source_ids": [
-        "S1"
+        "S1",
+        "S28",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Saud Balghonaim",
-      "name_ar": null,
+      "name_ar": "سعود بالغنيم",
       "title": "Chief Financial Officer",
       "functions": [
         "Finance"
@@ -556,23 +568,25 @@
       "business_unit": "Finance (incl. proprietary investment)",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Joined Alinma Capital in 2018",
-      "previous_roles": "Executive positions in financial accounting at Ernst & Young, Saudi Hollandi Capital and Ashmore Investment",
-      "education": "Bachelor's in Accounting, King Saud University; Master's in Operation and Project Management, Southern New Hampshire University",
+      "appointed_note": "Joined Alinma Capital in 2018 (S1).",
+      "previous_roles": "2018– Chief Financial Officer, Alinma Capital (accounting and proprietary investment); executive financial-accounting positions at Ashmore Investment, Saudi Hollandi Capital and Ernst & Young (order and years not published). Current other roles: none published.",
+      "education": "Master's in Operation and Project Management, Southern New Hampshire University (US); Bachelor's in Accounting, King Saud University",
       "qualifications": null,
       "linkedin_url": "https://www.linkedin.com/in/saud-balghonaim-84b18856/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives page checked 2026-10-12 (S1). LinkedIn search result 'Saud Balghonaim - Alinma Investment - الإنماء للاستثمار' (company's former name) seen incidentally (S25).",
+      "role_evidence": "Official senior executives page (EN and AR) checked 2026-10-12 (S1, S28); post shown in the AR 2025 organisation chart (S5 p.28); LinkedIn search-result match recorded in the earlier pass kept (S25).",
       "source_ids": [
         "S1",
+        "S28",
+        "S5",
         "S25"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Abdullah Alhussaini",
-      "name_ar": null,
+      "name_ar": "عبدالله الحصيني",
       "title": "Chief Operating Officer",
       "functions": [
         "Operations",
@@ -582,22 +596,24 @@
       "business_unit": "Operations and support (investment operations, IT, custody, customer care)",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Joined Alinma Capital in 2008",
-      "previous_roles": "Manager, operations departments at Albilad Capital and Samba Financial Group",
+      "appointed_note": "Joined Alinma Capital in 2008 (S1); date of the COO appointment not published. Arabic bio: previously headed Investment Operations at Alinma Capital (S28).",
+      "previous_roles": "2008– Alinma Capital: Chief Operating Officer (current; investment operations, information technology, custody and customer care), earlier Head of Investment Operations; Manager, Operations Department, Albilad Capital; Manager, Operations Department, Samba Financial Group (years not published). Current other roles: none published.",
       "education": "Bachelor's in Business Administration, Imam Muhammad bin Saud Islamic University",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "role_evidence": "Official senior executives page (EN and AR) checked 2026-10-12 (S1, S28); post shown in the AR 2025 organisation chart (S5 p.28); no 2025–2026 change news found in role-based searches.",
       "source_ids": [
-        "S1"
+        "S1",
+        "S28",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Thamer Bin Moammar",
-      "name_ar": null,
+      "name_ar": "ثامر بن محمد بن معمر",
       "title": "Chief Governance Officer & Secretary of the Board of Directors",
       "functions": [
         "Other"
@@ -606,22 +622,24 @@
       "business_unit": "Governance (Legal & Sharia, Compliance & AML, Risk Management)",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Joined Alinma Capital in 2018",
-      "previous_roles": "Executive positions in asset management and investment operations at Arab National Bank and Falcom Financial Services",
+      "appointed_note": "Joined Alinma Capital in 2018 (S1).",
+      "previous_roles": "2018– Chief Governance Officer & Secretary of the Board of Directors, Alinma Capital (Legal & Sharia, Compliance & AML, Risk Management); executive positions in asset management and investment operations at Arab National Bank and Falcom Financial Services (years not published). Current other roles: none published.",
       "education": "Bachelor's in Business Administration, King Saud University",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "role_evidence": "Official senior executives page (EN and AR) checked 2026-10-12 (S1, S28); post shown in the AR 2025 organisation chart (S5 p.28).",
       "source_ids": [
-        "S1"
+        "S1",
+        "S28",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Saeed Alqhtani",
-      "name_ar": null,
+      "name_ar": "سعيد القحطاني",
       "title": "Chief Human Capital & Administration Officer",
       "functions": [
         "Other"
@@ -630,22 +648,24 @@
       "business_unit": "Human Capital & Administration",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Leading human capital at Alinma Capital since 2008",
-      "previous_roles": "Senior Personnel Manager, Assistant General Manager of Human Capital and Director of Performance and Talent Management at Alinma Bank; HR and Administration Services Manager, Al-Hamrani Group",
+      "appointed_note": "Has led human capital at Alinma Capital since 2008 (S1); date of the current title not published.",
+      "previous_roles": "2008– Chief Human Capital & Administration Officer, Alinma Capital (leading human capital strategy and operations since 2008); Alinma Bank: Senior Personnel Manager, Assistant General Manager of Human Capital, Director of Performance and Talent Management (as listed in the bio; years not published); Human Resources and Administration Services Manager, Al-Hamrani Group. Current other roles: none published.",
       "education": "MBA, Bahrain University College",
-      "qualifications": "Chartered Fellow, CIPD (FCIPD)",
+      "qualifications": "Chartered Fellow (FCIPD), Chartered Institute of Personnel and Development (UK)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "role_evidence": "Official senior executives page (EN and AR) checked 2026-10-12 (S1, S28); post shown in the AR 2025 organisation chart (S5 p.28).",
       "source_ids": [
-        "S1"
+        "S1",
+        "S28",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Fahad Alhargan",
-      "name_ar": null,
+      "name_ar": "فهد الحرقان",
       "title": "Internal Audit Director",
       "functions": [
         "Other"
@@ -654,16 +674,18 @@
       "business_unit": "Internal Audit",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "More than 15 years in internal audit, governance and risk management (employers not stated)",
-      "education": "Bachelor's in Accounting, KFUPM",
+      "appointed_note": "Date not published.",
+      "previous_roles": "Internal Audit Director, Alinma Capital (current); more than 15 years in internal audit, governance and risk management in the banking, investment and real estate development sectors (employers not named in the bio).",
+      "education": "Bachelor's in Accounting, King Fahd University of Petroleum and Minerals (KFUPM)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official senior executives page checked 2026-10-12 (S1)",
+      "role_evidence": "Official senior executives page (EN and AR) checked 2026-10-12 (S1, S28); post shown in the AR 2025 organisation chart (S5 p.28).",
       "source_ids": [
-        "S1"
+        "S1",
+        "S28",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
@@ -678,16 +700,17 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Also member of the Nominations and Remuneration Committee (AR 2025)",
-      "previous_roles": "Executive Vice President of Investment, Saudi Arabian Airlines Group (current per official bio); earlier commercial and investment banking at Saudi National Bank and SAMBA; board member of Catrion, SAL Saudi Logistics Services, Saudi Airlines Cargo and Saudia Aerospace Engineering Industries",
-      "education": "Bachelor's in Finance, KFUPM; MISK 2030 Leaders Program; programmes at Columbia, Stanford and INSEAD",
+      "appointed_note": "Appointment date not published. Member of the Nominations and Remuneration Committee (AR 2025, S5 p.13).",
+      "previous_roles": "Executive Vice President of Investment, Saudi Arabian Airlines Group (current); earlier executive positions in commercial and investment banking at Saudi National Bank and Samba Financial Group (years not published). Former board seats: Alsalam Aerospace Industries; Aircraft Accessories & Components Company. Current other roles: Board member, Catrion Catering Holding; Board member, SAL Saudi Logistics Services; Board member, Saudi Airlines Cargo; Board member, Saudia Aerospace Engineering Industries.",
+      "education": "Bachelor's in Finance, King Fahd University of Petroleum and Minerals (KFUPM); MISK Foundation 2030 Leaders Program; Advanced Management Program, Columbia University; executive programmes, Stanford Graduate School of Business and INSEAD",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5)",
+      "role_evidence": "Official board page (EN and AR) checked 2026-10-12 (S2, S29); AR 2025 board and committee lists (S5 p.13).",
       "source_ids": [
         "S2",
+        "S29",
         "S5"
       ],
       "checked": "2026-10-12"
@@ -703,16 +726,17 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Chief Corporate Banking Officer of Alinma Bank (see sa-alinma)",
-      "previous_roles": "Bank AlBilad (GM Corporate Banking); Banque Saudi Fransi (corporate and business banking)",
+      "appointed_note": "Appointment date not published. Member of Alinma Capital's Audit Committee (AR 2025, S5 p.13). Chief Corporate Banking Officer of Alinma Bank (see sa-alinma).",
+      "previous_roles": "Chief Corporate Banking Officer (Head of Corporate Banking Group), Alinma Bank (current); General Manager, Corporate Banking, Bank AlBilad; Acting Head, Corporate Banking Group, Banque Saudi Fransi; Regional Head, Business Banking Group, Banque Saudi Fransi (bank executive page; years not published). Current other roles: Audit Committee member, Alinma Capital.",
       "education": "Bachelor's in Administrative Sciences (Business Administration), King Saud University",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5)",
+      "role_evidence": "Official board page (EN and AR) checked 2026-10-12 (S2, S29); AR 2025 board and committee lists (S5 p.13); listed on Alinma Bank's executive management page (see sa-alinma).",
       "source_ids": [
         "S2",
+        "S29",
         "S5"
       ],
       "checked": "2026-10-12"
@@ -728,16 +752,17 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Leadership positions at Aljazira Capital, AlBilad Capital and The Investor; former board member of AlBilad Capital; former Chairman of Al Jazira Dawawin Real Estate Fund board",
-      "education": "Bachelor's in Business Management, King Abdulaziz University; advanced certificate in banking and finance, University of California Riverside",
+      "appointed_note": "Appointment date not published. Not shown on any Alinma Capital board committee in AR 2025 (S5 p.13).",
+      "previous_roles": "Leadership positions at Aljazira Capital, AlBilad Capital and The Investor for Securities (years not published); former board member, AlBilad Capital; former Chairman, Al Jazira Dawawin Real Estate Fund board; board member of several investment funds. Current other roles: not published.",
+      "education": "Bachelor's in Business Management, King Abdulaziz University; Advanced certificate in banking and finance, University of California Riverside (US)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2); AR 2025 (S5)",
+      "role_evidence": "Official board page (EN and AR) checked 2026-10-12 (S2, S29); AR 2025 board list (S5 p.13).",
       "source_ids": [
         "S2",
+        "S29",
         "S5"
       ],
       "checked": "2026-10-12"
@@ -1252,6 +1277,28 @@
       "published": "2026-02-04",
       "accessed": "2026-10-12",
       "language": "en"
+    },
+    {
+      "id": "S28",
+      "title": "Senior Executives (كبار التنفيذيين) — Arabic page",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/ar/executive-team",
+      "doc_type": "Official leadership page (Arabic)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
+    },
+    {
+      "id": "S29",
+      "title": "Board of Directors (مجلس الإدارة) — Arabic page",
+      "publisher": "Alinma Capital",
+      "url": "https://alinmacapital.com/ar/Board-of-Directors",
+      "doc_type": "Official leadership page (Arabic)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar"
     }
   ],
   "original_reconciliation": [],
@@ -1286,11 +1333,12 @@
     },
     {
       "field": "Executive structure",
-      "detail": "AR 2025 org chart shows a Chief Business Development Officer and no Chief Brokerage Officer. The website (Oct 2026) lists a Chief Brokerage Officer (Sari Abutaleb) and no Business Development chief.",
-      "resolution": "Used the website as current. The Business Development role holder is unknown.",
+      "detail": "AR 2025 org chart (p.28) shows a Chief Business Development Officer and no Chief Brokerage Officer. The website (Oct 2026) lists a Chief Brokerage Officer (Sari Abutaleb; Arabic bio: returned to Alinma Capital in 2025) and no Business Development chief.",
+      "resolution": "Used the website as current. The Business Development role holder is unknown; the 'Company organizational structure' web page is an image and could not be read (2026-10-12).",
       "source_ids": [
         "S5",
-        "S1"
+        "S1",
+        "S28"
       ]
     },
     {
@@ -1301,6 +1349,15 @@
         "S5",
         "S4"
       ]
+    },
+    {
+      "field": "Chairman's master's degree wording",
+      "detail": "Alinma Capital board page (EN) says 'Master Degree in Engineering Administration'; the parent's AR 2025 and board page say 'Master's of Engineering Management (Sciences)'. Same university (George Washington).",
+      "resolution": "Recorded 'Engineering Management' per the tier-1 parent AR, with the alternative wording noted. Minor.",
+      "source_ids": [
+        "S2",
+        "S9"
+      ]
     }
   ],
   "open_items": [
@@ -1308,10 +1365,14 @@
     "Number of clients, brokerage accounts and app users not disclosed.",
     "GTN relationship inferred from hosting domain and app package ID only. Confirm vendor and scope (international execution vs full trading app).",
     "Whether 'Nasih' is client-facing (robo/suitability) or an adviser tool: unclear.",
-    "Name of the Chief Business Development Officer (AR 2025 org chart) not found. Appointment date of the Chief Brokerage Officer not found.",
     "LinkedIn company page appears in search as 'Alinma Investment - الإنماء للاستثمار' (company/alinma-investment-company) but is not linked from the official site, so linkedin_company is left null.",
     "International brokerage execution partners ('major prestigious brokerage companies') not named.",
-    "Saudi Exchange announcement pages returned HTTP 403; CMA authorised-person register entry not checked directly (licence taken from audited FS)."
+    "Saudi Exchange announcement pages returned HTTP 403; CMA authorised-person register entry not checked directly (licence taken from audited FS).",
+    "People pass X16 (2026-10-12): the name of the Chief Business Development Officer (AR 2025 org chart p.28) is still not published; alinmacapital.com/en/Structure renders the chart as an image with no extractable text. The Chief Brokerage Officer's start month is not published (Arabic bio: returned to Alinma Capital in 2025).",
+    "Board appointment dates for Fahad Moussa, Jameel Alhamdan and Walid bin Ghaith are not published (board page, AR 2025); only the Chairman (Dec 2023) and the Vice Chairman (board member since 2021 per parent AR) are dated.",
+    "No official announcement of Mazin Baghdadi's 2020 appointment as CEO found; the Alinma Capital news page shows only recent fund notices. The 2020 date rests on Arab News (2024) and Forbes Middle East (2026).",
+    "Alinma Capital Audit Committee (AR 2025 p.13) is chaired by Dr. Mohammed Sultan AlSehali (Alinma Bank's Chief Internal Audit Officer) with Dr. Mohammed Abdulrahman AlJabn and Jameel Alhamdan; the two non-board members are not profiled. Executive Committee: Moumina (chair), AlKhalifa, Baghdadi. NRC: AlKhalifa (chair), Moumina, Moussa.",
+    "LinkedIn: the search tool declines name-based look-ups, so no new profiles were verified in the people pass; the three existing search-result matches were kept."
   ],
   "research_status": "Complete",
   "researched_by": "P2",
