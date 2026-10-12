@@ -412,7 +412,7 @@
     {
       "name": "Hesham Abdulla Al Qassim",
       "name_ar": null,
-      "title": "Chairman",
+      "title": "Chairman, Non-Independent Non-Executive Director",
       "functions": [
         "Chair",
         "Board"
@@ -420,51 +420,55 @@
       "entity": "Emirates Islamic Bank P.J.S.C.",
       "business_unit": "Board of Directors",
       "scope": "EI",
-      "appointed": null,
-      "appointed_note": "Date of EI chairmanship not stated on EI page; ENBD board member since 25 Jun 2011.",
-      "previous_roles": "Vice Chairman & MD, Emirates NBD; Chairman of Emirates NBD Egypt and DenizBank; CEO, Wasl Asset Management Group; Vice Chairman, Dubai Real Estate Corporation (S1, S16).",
-      "education": "Bachelor's degree in Banking and Finance; Master's degrees in International Business Management and Executive Leadership Development (institutions not stated)",
+      "appointed": "2011-06-25",
+      "appointed_note": "Date of appointment to the EI board per Annual Report 2025 (S5, report p.28); the date he became Chairman is not stated separately. The EI board page shows the title as 'Chairman' (S1). Director of Emirates NBD since 25 Jun 2011 (S23).",
+      "previous_roles": "Current other roles: Vice Chairman and Managing Director, Emirates NBD Bank P.J.S.C. (board member since 25 Jun 2011); Chairman, Emirates NBD Egypt and DenizBank A.Ş. (Türkiye); Chief Executive Officer (board page: Vice Chairman and CEO), Wasl Asset Management Group; Vice Chairman, Dubai Real Estate Corporation; Chairman, Dubai Sports Corporation; Vice Chairman, Dubai Autism Centre; Director, Emirates Telecommunications Group Company (e&), DIFC Investments LLC, Dubai International Financial Centre Authority and Itissalat Al-Maghrib (Maroc Telecom). Career: 'more than 20 years' experience in the banking industry' (no earlier employers or years published).",
+      "education": "Bachelor's degree, Banking and Finance (institution not stated); Master's degree, International Business Management and Executive Leadership Development (institution not stated)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "EI board page checked 2026-10-12 (S1); quoted as Chairman in EI H1 2026 release, 23 Jul 2026 (S4).",
+      "role_evidence": "EI board page checked 2026-10-12 (S1); Annual Report 2025 board biography with EI appointment date (S5, report p.28); ENBD board page checked 2026-10-12 lists him as Vice Chairman and Managing Director and Chairman of Emirates Islamic (S23); quoted as Chairman in the EI H1 2026 results release of 23 Jul 2026 (S4).",
       "source_ids": [
         "S1",
         "S4",
-        "S16"
+        "S5",
+        "S16",
+        "S23"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Buti Obaid Buti Al Mulla",
       "name_ar": null,
-      "title": "Vice Chairman",
+      "title": "Vice Chairman, Non-Independent Non-Executive Director",
       "functions": [
         "Board"
       ],
       "entity": "Emirates Islamic Bank P.J.S.C.",
       "business_unit": "Board of Directors",
       "scope": "EI",
-      "appointed": "2007",
-      "appointed_note": "Vice Chairman of EI since 2007 (EI board page).",
-      "previous_roles": "Chairman, Mohamad and Obaid Al Mulla Group; Director, Emirates NBD (since 18 Jul 2007); Chairman, Oman Refreshment Company; Director, Emaar Properties (S1, S16).",
-      "education": "Diploma in Business Administration, Newberry College, Boston, USA",
+      "appointed": "2011-07-18",
+      "appointed_note": "Annual Report 2025 gives 'Date of appointment: 18 July 2011' (S5, report p.28). The EI board page says 'Vice Chairman of Emirates Islamic Bank since 2007' (S1) and the ENBD board page gives his ENBD board appointment as 18 July 2007 (S23) - see discrepancies.",
+      "previous_roles": "Current other roles: Chairman, Mohamad and Obaid Al Mulla Group (family group founded 1942: hospitality, healthcare and pharmaceuticals, real estate, travel and tourism, investments); Chairman, Dubai Insurance Company P.S.C.; Chairman, Oman Refreshment Company; Director, Emirates NBD Bank P.J.S.C. (since 18 Jul 2007), Emaar Properties P.J.S.C. and Dubai Refreshment Company P.J.S.C. Career: over 34 years (since January 1990 per the EI board page) across banking, finance, real estate, hospitality and investment; no earlier employers or years published.",
+      "education": "Diploma, Business Administration, Newberry College, Boston, USA (spelt 'Newbury College' in one paragraph of the EI board page)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "EI board page checked 2026-10-12 (S1); CG Report 2025 lists him as Vice Chairman, Emirates Islamic Bank (S16).",
+      "role_evidence": "EI board page checked 2026-10-12 (S1); Annual Report 2025 board biography (S5, report p.28); ENBD board page checked 2026-10-12 (S23); ENBD CG Report 2025 lists him as Vice Chairman of Emirates Islamic (S16).",
       "source_ids": [
         "S1",
-        "S16"
+        "S5",
+        "S16",
+        "S23"
       ],
       "checked": "2026-10-12"
     },
     {
       "name": "Shayne Nelson",
       "name_ar": null,
-      "title": "Director (Group CEO, Emirates NBD)",
+      "title": "Non-Independent Non-Executive Director (Group Chief Executive Officer, Emirates NBD)",
       "functions": [
         "Board",
         "Group CEO"
@@ -472,18 +476,20 @@
       "entity": "Emirates Islamic Bank P.J.S.C.",
       "business_unit": "Board of Directors",
       "scope": "EI board; ENBD Group",
-      "appointed": "2013",
-      "appointed_note": "Director of EI since 2013 (EI board page).",
-      "previous_roles": "See ae-enbd: CEO Standard Chartered Private Bank (Singapore); Regional CEO Standard Chartered MENA; CEO Standard Chartered Malaysia.",
+      "appointed": "2013-12-05",
+      "appointed_note": "EI board appointment date per Annual Report 2025 (S5, report p.30). Group CEO of Emirates NBD since 2013 (S16, S24); full career record in ae-enbd.",
+      "previous_roles": "2013– Group Chief Executive Officer, Emirates NBD Bank P.J.S.C.; before joining Emirates NBD: CEO, Standard Chartered Private Bank (Singapore); Chairman, Standard Chartered Saadiq Advisory Board; board member, Standard Chartered Bank (China) Ltd; Regional CEO Middle East and North Africa, Standard Chartered Bank; Chairman, Standard Chartered (Pakistan) Limited; Chairman, Banking Advisory Council to the board of the DIFC; Chief Executive Officer and Managing Director, Standard Chartered Bank Malaysia Berhad (years not published in EI sources). Current other roles: Chairman, Emirates NBD Capital PSC; Vice Chairman, DenizBank A.Ş. (Türkiye) and Emirates NBD Egypt SAE; Director, Emirates NBD Capital Ltd, Emirates NBD Global Services LLC and Marsh Emirates Insurance Brokers; Member of the Advisory Board, University of Wollongong Dubai.",
       "education": null,
-      "qualifications": "Graduate Member, Australian Institute of Company Directors; Associate Fellow, Australian Institute of Managers",
+      "qualifications": "Graduate Member, Australian Institute of Company Directors; Associate Fellow, Australian Institute of Managers (S5); Company Directors Course, Australian Institute of Company Directors (S16)",
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "EI board page checked 2026-10-12 (S1); ENBD management page lists him as Group CEO (see ae-enbd).",
+      "role_evidence": "EI board page checked 2026-10-12 (S1); Annual Report 2025 board biography (S5, report p.30); ENBD management team page checked 2026-10-12 lists him as Group CEO (S24); quoted as Group CEO in ENBD's 2 Aug 2026 DFM release (see ae-enbd). A role-based search for Group CEO succession news (12 Oct 2026) found no departure or successor announcement. No degree is published in official sources.",
       "source_ids": [
         "S1",
-        "S16"
+        "S5",
+        "S16",
+        "S24"
       ],
       "checked": "2026-10-12"
     },
@@ -498,19 +504,21 @@
       "business_unit": "Executive management",
       "scope": "EI",
       "appointed": "2023-09-05",
-      "appointed_note": "CEO from 5 Sep 2023, succeeding Salah Amin (S13). CG Report 2025 'Year appointed: 1991' refers to joining the Group.",
-      "previous_roles": "Emirates Islamic: Head of Consumer Banking and Wealth Management (until Sep 2023; responsible for personal and business banking, branches, products, customer experience, wealth management and digital banking); Deputy Head RBWM; Head of Home Finance; Head of Distribution (S13, S16).",
+      "appointed_note": "CEO from 5 Sep 2023, succeeding Salah Amin (S13). Annual Report 2025 gives 'Year joined: 2006' (S5, report p.32) while the ENBD CG Report 2025 gives 'Year appointed: 1991' (S16) and the 2023 release cites a 'thirty-two-year industry track record' - see discrepancies.",
+      "previous_roles": "2023– Chief Executive Officer, Emirates Islamic (also member of the Emirates NBD Group executive management team); until Sep 2023 Head of Retail Banking and Wealth Management, Emirates Islamic (the Sep 2023 release calls the post Head of Consumer Banking and Wealth Management), responsible for personal and business banking, branches and ATMs, products, customer experience, wealth management and digital banking; earlier Emirates Islamic roles: Deputy Head – Retail Banking and Wealth Management; Head of Home Finance; Head of Distribution (years not published).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "EI management page checked 2026-10-12 (S1); quoted as CEO in H1 2026 release, 23 Jul 2026 (S4); ENBD management team page. LinkedIn: several similarly named profiles at EI (e.g. 'Farid Mohammed Almulla', 'Mohammad Farid Almulla'); none unambiguous.",
+      "role_evidence": "EI management page checked 2026-10-12 (S1); Annual Report 2025 senior management biography (S5, report p.32); ENBD CG Report 2025 biography (S16); ENBD management team page checked 2026-10-12 lists him as CEO, Emirates Islamic (S24); quoted as CEO in the H1 2026 results release of 23 Jul 2026 (S4). Role-based searches for Emirates Islamic CEO/deputy CEO/head of retail appointments 2025-2026 found none. Education not published in any official source. LinkedIn: several similarly named EI profiles in earlier searches; none unambiguous, and name-based look-ups are not available.",
       "source_ids": [
         "S1",
         "S4",
+        "S5",
         "S13",
-        "S16"
+        "S16",
+        "S24"
       ],
       "checked": "2026-10-12"
     },
@@ -519,25 +527,29 @@
       "name_ar": null,
       "title": "Deputy Chief Executive Officer",
       "functions": [
-        "Deputy CEO"
+        "Deputy CEO",
+        "Retail",
+        "Wealth"
       ],
       "entity": "Emirates Islamic Bank P.J.S.C.",
       "business_unit": "Executive management",
       "scope": "EI",
-      "appointed": null,
-      "appointed_note": "Appointment date not found.",
-      "previous_roles": null,
-      "education": null,
+      "appointed": "2019",
+      "appointed_note": "Annual Report 2025 gives 'Year joined: 2019' (S5, report p.32); it does not say whether he joined Emirates Islamic as Deputy CEO, and no appointment announcement was found (role-based searches). He leads all revenue-generating functions incl. retail banking and wealth management, business banking, treasury, corporate and institutional banking and transaction banking (S5).",
+      "previous_roles": "2019– Deputy Chief Executive Officer, Emirates Islamic; Group CEO, Emerald Palace Group (dates not published); May 2012–Sep 2018 Chief Executive Officer, Emirates NBD Capital Limited (appointed May 2012; resigned Sep 2018 per Bloomberg/Gulf News, S25); also CEO, Emirates Financial Services, and Group Head of International Wholesale Banking and Financial Institutions, Emirates NBD (over 20 years with the Group in total; years per role not published); before Emirates NBD: National Bank of Abu Dhabi and Mashreq Bank. Former board member, Shuaa Capital PSC and Emaar Industries and Investment. Current other roles: member of boards and committees including Emirates NBD Global Services (S5).",
+      "education": "BA, Aligarh Muslim University, India; MBA, Aligarh Muslim University, India",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "EI management page checked 2026-10-12 (S1); quoted as Deputy CEO in H1 2026 results (S4), digital gold/silver launch 27 Apr 2026 (S11) and Euromoney Private Banking 2026 award release (S12).",
+      "role_evidence": "EI management page checked 2026-10-12 (S1); Annual Report 2025 senior management biography (S5, report p.32); quoted as Deputy CEO in the H1 2026 results release of 23 Jul 2026 (S4), the digital gold/silver launch of 27 Apr 2026 (S11) and the Euromoney Private Banking 2026 release (S12). The AR 2025 bio confirms he is the same person who was CEO of Emirates NBD Capital 2012-2018 (S25), resolving the earlier open item.",
       "source_ids": [
         "S1",
         "S4",
+        "S5",
         "S11",
-        "S12"
+        "S12",
+        "S25"
       ],
       "checked": "2026-10-12"
     },
@@ -555,16 +567,17 @@
       "business_unit": "Retail Banking and Wealth Management",
       "scope": "EI",
       "appointed": null,
-      "appointed_note": "Appointment date not found.",
-      "previous_roles": null,
-      "education": null,
+      "appointed_note": "Annual Report 2025 gives 'Year joined: 2017' (S5, report p.38); the date he became Head of RBWM is not published. The post was held by Farid AlMulla until his appointment as CEO on 5 Sep 2023 (S13).",
+      "previous_roles": "Head of Retail Banking and Wealth Management, Emirates Islamic (joined 2017; responsible for personal, priority, private and business banking segments, the branch network and digital channels); earlier leadership positions across Emirates NBD Group in Retail Distribution, Priority Banking, Strategy and Wealth Management (years not published).",
+      "education": "BSc Accounting and MIS, American University of Sharjah, UAE; Executive MBA, Bayes Business School, UK; Executive Education, Harvard Business School, USA",
       "qualifications": null,
       "linkedin_url": "https://www.linkedin.com/in/mohamed-al-hadi-3a005b1b/",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "EI management page checked 2026-10-12 (S1); quoted with this title in digital gold/silver release 27 Apr 2026 (S11) and Euromoney Private Banking 2026 award release (S12). LinkedIn search snippet: 'Mohamed Al Hadi - Emirates Islamic', 'currently the Head of Retail Banking' (S20).",
+      "role_evidence": "EI management page checked 2026-10-12 (S1); Annual Report 2025 'Other key management' biography (S5, report p.38); quoted with this title in the digital gold/silver release of 27 Apr 2026 (S11) and the Euromoney Private Banking 2026 release (S12). Role-based search for an EI head of retail/wealth appointment 2025-2026 found none. LinkedIn URL from the P1 search-result match ('Mohamed Al Hadi - Emirates Islamic', 'Head of Retail Banking') retained (S20); not re-verified, no contrary evidence.",
       "source_ids": [
         "S1",
+        "S5",
         "S11",
         "S12",
         "S20"
@@ -582,16 +595,17 @@
       "business_unit": "Treasury and Markets",
       "scope": "EI",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
-      "education": null,
+      "appointed_note": "Annual Report 2025 gives 'Year joined: 2012' and says he has been Head of Treasury and Markets 'for over six years' (S5, report p.38); exact start date not published.",
+      "previous_roles": "Head of Treasury and Markets, Emirates Islamic (over six years in the post per AR 2025; manages liquidity, the strategic balance sheet, treasury sales, structuring and execution, and the investment book); earlier roles at Emirates NBD and Emirates Islamic: Head of Treasury Sales and Structuring; Head of Flow and Execution Desk; Branch Manager (joined 2012; years per role not published).",
+      "education": "Bachelor's degree, Information Systems, University of Melbourne, Australia; Master's degree, International Business, Monash University, Australia",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "EI management page checked 2026-10-12 (S1); quoted as Head of Treasury and Markets in 27 Apr 2026 release (S11). Treasury & Markets runs sukuk, fractional sukuk and equity/funds execution.",
+      "role_evidence": "EI management page checked 2026-10-12 (S1); Annual Report 2025 'Other key management' biography (S5, report p.38); quoted as Head of Treasury and Markets in the 27 Apr 2026 release (S11).",
       "source_ids": [
         "S1",
+        "S5",
         "S11"
       ],
       "checked": "2026-10-12"
@@ -604,19 +618,20 @@
         "Islamic / Shariah"
       ],
       "entity": "Emirates Islamic Bank P.J.S.C.",
-      "business_unit": "Shariah",
+      "business_unit": "Shariah (Internal Shariah Control Division)",
       "scope": "EI",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
-      "education": null,
+      "appointed": "2021",
+      "appointed_note": "Has led the Internal Shariah Control Division since 2021 (S5, report p.36; the AR styles the post 'Head of Internal Shariah Control Division', the management page 'Head of Shariah'). 'Year joined: 2007' per AR 2025.",
+      "previous_roles": "2021– Head of Internal Shariah Control Division, Emirates Islamic (Shariah compliance across products, services and investments; adherence to Higher Shariah Authority and Internal Shariah Supervision Committee resolutions); previously Head of the Shariah Department, Emirates Islamic, and played a key role in establishing the new Shariah department after the merger with Dubai Bank; before that Shariah Advisor and Head of Shariah Department, Dubai Bank (built its Shariah function after conversion to a fully Shariah-compliant model). Over 15 years managing Shariah departments in UAE Islamic banks (years per role not published).",
+      "education": "Bachelor's degree, Islamic Studies, UAE University, UAE; Master's degree, Transactional Jurisprudence, American University, UK (as printed); PhD, Transactional Jurisprudence, The Scandinavian University, Norway (as printed)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "EI management page checked 2026-10-12 (S1). No separate news search performed.",
+      "role_evidence": "EI management page checked 2026-10-12 (S1); Annual Report 2025 senior management biography (S5, report p.36). The Internal Shariah Supervision Committee members are listed separately on S1 and are not recorded here.",
       "source_ids": [
-        "S1"
+        "S1",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
@@ -631,16 +646,17 @@
       "business_unit": "Corporate Banking",
       "scope": "EI",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
-      "education": null,
-      "qualifications": null,
+      "appointed_note": "Annual Report 2025 gives 'Year joined: 2019' (S5, report p.38); it does not state whether he joined as Head of Corporate Banking.",
+      "previous_roles": "Head of Corporate Banking, Emirates Islamic (joined 2019; leads Corporate and Institutional Banking; member of the Executive Committee and the Wholesale Banking Islamic Sustainable Finance Committee); Group CFO, Emerald Palace Group, UAE (dates not published); 16 years within Emirates NBD Group incl. Regional Head of Institutional and International Banking and Debt Capital Markets, Emirates NBD, and Head of Loan Syndications, Emirates NBD Capital (years not published); over 23 years in banking and corporate finance.",
+      "education": "MBA, Finance and Marketing, Indian Institute of Foreign Trade (IIFT), India",
+      "qualifications": "Chartered Accountant, India; Company Secretary, India",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "EI management page checked 2026-10-12 (S1). No separate news search performed.",
+      "role_evidence": "EI management page checked 2026-10-12 (S1); Annual Report 2025 'Other key management' biography (S5, report p.38).",
       "source_ids": [
-        "S1"
+        "S1",
+        "S5"
       ],
       "checked": "2026-10-12"
     }
@@ -928,7 +944,7 @@
       "title": "Annual Report 2025 - Innovation. Purpose. Prosperity.",
       "publisher": "Emirates Islamic Bank",
       "url": "https://www.emiratesislamic.ae/-/media/ei/pdfs/financial-information/annual-report-pdf/2025/ei_annualreport_2025_eng.pdf",
-      "doc_type": "Annual report",
+      "doc_type": "Annual report (governance section: Board of Directors and Senior Management biographies, report pp.28-39)",
       "tier": 1,
       "published": null,
       "accessed": "2026-10-12",
@@ -1120,6 +1136,39 @@
       "published": null,
       "accessed": "2026-10-12",
       "language": "en"
+    },
+    {
+      "id": "S23",
+      "title": "Board of Directors",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/about-emirates-nbd/corporate-governance/board-of-directors",
+      "doc_type": "Official board page (biographies and appointment dates)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S24",
+      "title": "Corporate Governance - Management Team",
+      "publisher": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com/en/about-emirates-nbd/corporate-governance/management-team",
+      "doc_type": "Official leadership page (Group Executive Team roster)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S25",
+      "title": "Emirates NBD Capital says CEO Kamran Wajid leaves bank",
+      "publisher": "Gulf News (Bloomberg)",
+      "url": "https://gulfnews.com/business/banking/emirates-nbd-capital-says-ceo-kamran-wajid-leaves-bank-1.1663865",
+      "doc_type": "News article (appointment May 2012, resignation Sep 2018)",
+      "tier": 5,
+      "published": "2018-09-15",
+      "accessed": "2026-10-12",
+      "language": "en"
     }
   ],
   "original_reconciliation": [],
@@ -1169,12 +1218,45 @@
       "source_ids": [
         "S4"
       ]
+    },
+    {
+      "field": "Buti Al Mulla - EI board appointment date",
+      "detail": "Annual Report 2025 gives 'Date of appointment: 18 July 2011' for the EI board; the EI board page says he has been Vice Chairman of Emirates Islamic since 2007; the ENBD board page gives his ENBD board appointment as 18 July 2007.",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S23"
+      ],
+      "resolution": "Tier-1 AR 2025 date (2011-07-18) recorded in `appointed`; 2007 noted. The AR date may conflate the 2007 ENBD date with 2011; unresolved."
+    },
+    {
+      "field": "Farid AlMulla - joining year and pre-CEO title",
+      "detail": "EI Annual Report 2025 gives 'Year joined: 2006'; ENBD CG Report 2025 gives 'Year appointed: 1991'; the 5 Sep 2023 appointment release cites a 'thirty-two-year industry track record' (consistent with 1991 as an industry start date, not necessarily with the Group). The release calls his previous post 'Head of Consumer Banking and Wealth Management'; AR 2025 and CG Report 2025 call it 'Head of Retail Banking and Wealth Management'.",
+      "source_ids": [
+        "S5",
+        "S16",
+        "S13"
+      ],
+      "resolution": "`appointed` = CEO date 5 Sep 2023 (S13). Joining year left unresolved and both figures noted; both titles recorded in previous_roles."
+    },
+    {
+      "field": "Dr. Abdulsalam Kilani - title",
+      "detail": "EI management page: 'Head of Shariah'; Annual Report 2025: 'Head of Internal Shariah Control Division'.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "resolution": "Live page title kept; AR title recorded in business_unit and appointed_note."
     }
   ],
   "open_items": [
-    "EI digital/technology head not identified on the official management page; check for a Chief Digital Officer or Head of Digital at EI.",
+    "EI digital/technology head: the official management page and AR 2025 senior management list no Chief Digital Officer; the COO (Leslie Isaac, 'Year joined: 2006') is responsible for IT projects and digitisation (S5). Not added (operations role). Check for a Head of Digital below executive level.",
+    "Mohammad Kamran Wajid: AR 2025 bio (S5) confirms he is the former Emirates NBD Capital CEO (May 2012-Sep 2018, S25); his appointment date as EI Deputy CEO is not published ('Year joined: 2019').",
+    "Farid AlMulla: no degree or professional qualification published in AR 2025, CG Report 2025 or the 2023 appointment release.",
+    "Mohamed Al Hadi: date of appointment as Head of Retail Banking and Wealth Management not published (AR 2025 'Year joined: 2017').",
+    "LinkedIn: the search tool declines name-based look-ups, so no new LinkedIn checks were possible for Farid AlMulla, Wajid or Al Hadi; Al Hadi's URL from P1 retained.",
+    "EI management page source carries commented-out alternative entries (Asim Rasheed, CFO; Fuad Mohamed, COO) beside Huda Sabil Abdulla (CFO) and Leslie Isaac (COO); AR 2025 lists Abdulla and Isaac. Support-function heads (CFO, COO, CRO, CHRO, Compliance, Credit, Audit, Legal, Shariah Audit) are in AR 2025 pp.32-37 but not recorded (not wealth/digital roles).",
     "Executing broker / custodian and technology vendors behind EI+ equities, funds and fractional sukuk not disclosed; 'EI Securities' named on the digital wealth page is not an entity found in EI's subsidiary list (EI's own brokerage subsidiary is being dissolved).",
-    "Mohammad Kamran Wajid: no official biography or appointment date found; trade press shows a person of the same name was CEO of Emirates NBD Capital from 2012 - not confirmed as the same person.",
     "EI does not disclose AUM; Private Banking AUM growth (~94% over two years) only.",
     "Date of the Euromoney Private Banking 2026 award release not shown on Zawya; EI newsroom not checked for the original.",
     "EI Q3 2026 results not checked (ENBD Q3 2026 not published as of 12 Oct 2026).",
