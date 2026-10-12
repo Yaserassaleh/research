@@ -556,7 +556,7 @@
   {
    "name": "Shaikh Khalid bin Mustahail Al Mashani",
    "name_ar": null,
-   "title": "Chairman (H.E.)",
+   "title": "Chairman of the Board of Directors",
    "functions": [
     "Chair",
     "Board"
@@ -564,27 +564,31 @@
    "entity": "Al Salam Bank B.S.C.",
    "business_unit": "Board of Directors",
    "scope": "Group",
-   "appointed": null,
-   "appointed_note": "Appointment date and biography not obtained (official board page blocked).",
-   "previous_roles": null,
-   "education": null,
+   "appointed": "2020-04",
+   "appointed_note": "Appointed Chairman in April 2020 after Khaleefa Butti bin Omair Al Muhairi resigned as Chairman and director; the appointment was disclosed to the DFM on Monday 13 Apr 2020 (Mubasher, S31; the bank's own release is on the blocked site). Director since 5 May 2014; non-executive; current three-year term started 31 Mar 2024 after election at the AGM of 31 Mar 2024 (S26, S27), so the next board election is due in 2027. Styled H.E. in the Annual Report and on the Bourse list.",
+   "previous_roles": "Apr 2020– Chairman, Al Salam Bank B.S.C. (director since 5 May 2014); earlier directorships at Bank Muscat S.A.O.G., Al Omaniya Financial Services Company S.A.O.G. and Dhofar International Development & Investment Holding Company S.A.O.G. (2020 release); no dated executive career is published (AR 2025: 'over 30 years of experience'). Current other roles: Chairman, Solidarity Group Holding B.S.C. (c) and Solidarity Bahrain B.S.C.; Chairman, Bank Muscat S.A.O.G. (Oman); Chairman, Dhofar International Development & Investment Holding Company S.A.O.G. (Oman); Director, Al Omaniya Financial Services Company S.A.O.G., Dhofar Food and Investment Co. S.A.O.G. (Oman) and Maalem Holding (Bahrain); DFSA Authorised Individual of ASB Capital Limited since 6 Aug 2024 (board role).",
+   "education": "Bachelor's degree, Economics (institution not stated in the Annual Report); MA International Boundary Studies, School of Oriental and African Studies (SOAS), University of London",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Signed the 31 Mar 2026 interim statements as Chairman (S3), quoted as Chairman in the 12 May 2026 and H1 2026 releases (S4, S6), listed on the Bourse key-persons list (S1).",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26); elected at the 31 Mar 2024 AGM for the 2024-2027 term (Bourse election-results filing, S27); Bourse key-persons list dated 25 Feb 2026 (S1); signed the 31 Mar 2026 interim statements as Chairman (S3) and quoted as Chairman in the 12 May 2026 and Aug 2026 results releases (S4, S6); DFSA register lists him as an authorised individual of ASB Capital (S28). Role-based searches for a 2026 board election or chairman change found none (the 12 Mar 2026 AGM agenda seen in search results had no board election).",
    "source_ids": [
     "S1",
     "S3",
     "S4",
-    "S6"
+    "S6",
+    "S26",
+    "S27",
+    "S28",
+    "S31"
    ],
    "checked": "2026-10-12"
   },
   {
    "name": "Matar Mohamed Al Blooshi",
    "name_ar": null,
-   "title": "Deputy Chairman (listed as Vice Chairman on the Bourse list)",
+   "title": "Deputy Chairman",
    "functions": [
     "Board"
    ],
@@ -592,74 +596,83 @@
    "business_unit": "Board of Directors",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Appointment date and biography not obtained.",
-   "previous_roles": null,
-   "education": null,
+   "appointed_note": "Director since 22 Mar 2018; non-executive; current term started 31 Mar 2024 (AR 2025, S26; elected at the 31 Mar 2024 AGM, S27). The date he became Deputy Chairman is not published. The Bourse key-persons list calls him Vice Chairman (S1); he signed the 31 Mar 2026 statements as Deputy Chairman (S3).",
+   "previous_roles": "22 Mar 2018– Director and Deputy Chairman, Al Salam Bank B.S.C.; Group Chief Investment Officer, Das Holding LLC (UAE) (current); Oct 2006 Senior Manager, Asset Management Group, National Bank of Abu Dhabi; Feb 2005 Head of Domestic Capital Market Group, National Bank of Abu Dhabi, and General Manager, Abu Dhabi Financial Services (NBAD subsidiary); 2001 Head of Foreign Exchange and Commodities, National Bank of Abu Dhabi; 1998 Head of Treasury & Investment, First Gulf Bank; 1995 Portfolio Manager, Abu Dhabi Investment Company; 1992 Dealer, Treasury department, Central Bank of the UAE. Current other roles: board member, SAYACORP B.S.C. (c) (Bahrain), Etisalat Misr and Air Arabia; Chief Investment Officer and member, Emirates Strategic Investment Company (UAE); DFSA Authorised Individual of ASB Capital Limited since 6 Aug 2024 (board role).",
+   "education": "Bachelor's degree, Banking & Financial Management, University of Arkansas (USA)",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Signed the 31 Mar 2026 interim statements as Deputy Chairman (S3); listed as Vice Chairman on the Bourse key-persons list (S1).",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26); 31 Mar 2024 AGM election results (S27); Bourse key-persons list of 25 Feb 2026 (S1); signed the 31 Mar 2026 interim statements as Deputy Chairman (S3); DFSA register (S28). Board member only: no news check run.",
    "source_ids": [
     "S1",
-    "S3"
+    "S3",
+    "S26",
+    "S27",
+    "S28"
    ],
    "checked": "2026-10-12"
   },
   {
    "name": "Rafik Nayed",
    "name_ar": null,
-   "title": "Group Chief Executive Officer; also Managing Director, ASB Capital",
+   "title": "Group Chief Executive Officer",
    "functions": [
     "Group CEO",
-    "CEO",
-    "Board"
+    "CEO"
    ],
    "entity": "Al Salam Bank B.S.C.",
    "business_unit": "Group",
    "scope": "Group",
    "appointed": "2018-04",
-   "appointed_note": "Appointed Group CEO in April 2018 after regulatory approval (TradeArabia, 24 Apr 2018; search result only). Also Managing Director of ASB Capital (DIFC), Chairman of Gulf African Bank, Chairman of Al Salam Bank Algeria and a board member of Solidarity Group (S9, 29 Jul 2026).",
-   "previous_roles": "Group CEO, Al Salam Bank since 2018. Before that, senior Deutsche Bank executive: Vice Chairman MENA, Chief Country Officer UAE and Senior Executive Officer, Deutsche Bank AG Dubai (DIFC) (S10). Earlier CEO of the Libyan Investment Authority (S9). More than 25 years of banking experience at appointment (S10).",
+   "appointed_note": "Appointed Group Chief Executive following regulatory approvals; reported by Gulf Daily News on 25 Apr 2018 (S30; TradeArabia 24 Apr 2018, S10, seen in search results only). The exact effective date is not published. He is not a member of the Board (the nine directors in AR 2025 and the Bourse list are all non-executive or independent), so the 'Board' function recorded earlier has been removed. DFSA Authorised Individual of ASB Capital Limited since 6 Aug 2024 (S28).",
+   "previous_roles": "Apr 2018– Group Chief Executive Officer, Al Salam Bank B.S.C.; to 2018 Deutsche Bank AG: Vice Chairman MENA region, Chief Country Officer UAE and Senior Executive Officer of Deutsche Bank AG Dubai (DIFC) (years not published); earlier Chief Executive Officer, Libyan Investment Authority; before that senior international positions in the oil and gas and financial services industries (employers not named; 'more than 25 years of experience' at appointment in 2018, 'over 33 years' in AR 2025). Current other roles: Managing Director, ASB Capital Limited (DIFC); Chairman, ASB Capital Services (Bahrain); Chairman, Al Salam Bank Algeria; Chairman, Gulf African Bank (Kenya); board member, Solidarity Group Holding B.S.C. (c) and Al Salam Bank - Seychelles.",
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not verified",
    "role_status": "Verified current",
-   "role_evidence": "Signed the 31 Mar 2026 statements as Group CEO (S3); quoted as Group CEO in the 12 May 2026 and H1 2026 releases and as ASB Capital MD on 5 Oct 2026 (S4, S6, S13); profiled by Entrepreneur ME on 29 Jul 2026 (S9). A LinkedIn search surfaced the company page listing him but no personal profile URL; none recorded.",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26); signed the 31 Mar 2026 interim statements as Group CEO (S3); quoted as Group CEO in the 12 May 2026 and Aug 2026 results releases (S4, S6, S7, S8), profiled by Entrepreneur ME on 29 Jul 2026 (S9) and quoted as ASB Capital Managing Director on 5 Oct 2026 (S13); DFSA register lists him as an authorised individual of ASB Capital since 6 Aug 2024 (S28); Bourse key-persons list of 25 Feb 2026 (S1); appointment reported Apr 2018 (S30, S10). AR 2025 notes he was named among Forbes Middle East's Top Influential CEOs 2025. Role-based searches for a 2025-2026 CEO change found none. LinkedIn: no personal profile found (the Annual Report carries no links; the official site is blocked; name-based look-ups are declined in this environment).",
    "source_ids": [
     "S1",
     "S3",
     "S4",
     "S6",
+    "S7",
+    "S8",
     "S9",
     "S10",
-    "S13"
+    "S13",
+    "S26",
+    "S28",
+    "S30"
    ],
    "checked": "2026-10-12"
   },
   {
-   "name": "Anwar Murad",
+   "name": "Anwar Mohammed Murad",
    "name_ar": null,
-   "title": "Deputy Chief Executive Officer",
+   "title": "Deputy Group Chief Executive Officer - Banking",
    "functions": [
     "Deputy CEO"
    ],
    "entity": "Al Salam Bank B.S.C.",
-   "business_unit": "Group",
+   "business_unit": "Banking (Group)",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Date not found. The bank's own profile page (search result only, S22) describes him as Executive Vice President - Head of Private Banking since May 2006, an earlier role; an undated Bourse list has shown him as Acting CEO.",
-   "previous_roles": null,
+   "appointed_note": "Appointment date not published. He already carried the title 'Deputy Group CEO - Banking' on 28 Sep 2016 (quoted in a Diyar Al Muharraq financing release hosted by Bahrain Bourse, S32), after serving as Executive Vice President - Head of Private Banking from May 2006 (AR 2025, S26). The Bourse key-persons list shortens the title to 'Deputy CEO' (S1). The earlier research's note of an 'Anwar Khalifa - Deputy CEO' LinkedIn result is unexplained; the Annual Report gives the full name Anwar Mohammed Murad.",
+   "previous_roles": "By Sep 2016– Deputy Group Chief Executive Officer - Banking, Al Salam Bank B.S.C.; May 2006–(end date not published) Executive Vice President - Head of Private Banking, Al Salam Bank; earlier Head of Private Banking, BMI Bank (Bahrain); Regional Market Risk Manager for the MENA region and head of Treasury Operations in Bahrain, ABN AMRO Bank; various senior positions, Citibank Bahrain (years not published; AR 2025 cites over 32 years of experience in private banking, treasury, market risk management and retail banking).",
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not verified",
-   "role_status": "Requires verification",
-   "role_evidence": "Listed as 'Deputy CEO' on the Bourse key-persons list (S1) and by MarketScreener (aggregator, not cited). A LinkedIn search also returned 'Anwar Khalifa - Deputy CEO at Al Salam Bank' (different surname; unresolved). Official leadership page blocked.",
+   "role_status": "Verified current",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26) lists him second in Executive Management as Deputy Group Chief Executive Officer - Banking; Bourse key-persons list of 25 Feb 2026 ('Deputy CEO', S1); title already in use in Sep 2016 (S32). Official profile page (S22) seen in search results only (site blocked). Role-based searches for a 2025-2026 deputy CEO appointment found nothing newer. LinkedIn: not found (see open_items).",
    "source_ids": [
     "S1",
-    "S22"
+    "S22",
+    "S26",
+    "S32"
    ],
    "checked": "2026-10-12"
   },
@@ -674,47 +687,50 @@
    "business_unit": "Wealth Management",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Date not found; not covered by any news source opened.",
-   "previous_roles": null,
-   "education": null,
-   "qualifications": null,
+   "appointed_note": "Appointment date not published. He joined from Kuwait Finance House - Bahrain (the former KFH Bahrain that Al Salam acquired in May 2024, now ASB Finance), where he headed Wealth Management and Private Banking (S26). The Annual Report spells the name 'Rashid Alkhan'; the Bourse list 'Rashed Khaled Al Khan' (S1); the official executive page (blocked) also lists him (S33, search result).",
+   "previous_roles": "Head of Wealth Management, Al Salam Bank B.S.C. (date not published); earlier Head of Wealth Management and Private Banking, Kuwait Finance House - Bahrain (set up its wealth management function and led growth in customers and assets under management); before that senior member of the KFH-Bahrain investment team covering private markets and alternative investments globally (years not published; AR 2025 cites over 21 years in banking and investment). Author of 'Islamic Securitization: A Revolution in the Banking Industry' (2006).",
+   "education": "MBA, London Business School (2018); MSc Islamic Economics, Banking & Finance, Loughborough University (UK); Bachelor's degree, Finance, John Molson School of Business, Concordia University (Canada); Executive Education, INSEAD",
+   "qualifications": "CAIA (Chartered Alternative Investment Analyst)",
    "linkedin_url": null,
    "linkedin_status": "Not verified",
-   "role_status": "Requires verification",
-   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed. LinkedIn search returned no match.",
+   "role_status": "Verified current",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26) (Executive Management, 'Head of Wealth Management'); Bourse key-persons list of 25 Feb 2026 (S1); official Executive Management page lists him (S33, seen in search results only; site blocked). A role-based search for a 2025-2026 head of wealth management appointment at Al Salam returned only these profile pages. LinkedIn: not found (see open_items).",
    "source_ids": [
-    "S1"
+    "S1",
+    "S26",
+    "S33"
    ],
    "checked": "2026-10-12"
   },
   {
-   "name": "Ali Qassim",
+   "name": "Ali Habib Qassim",
    "name_ar": null,
-   "title": "Head of Private Banking",
+   "title": "Chief Private Banking Officer",
    "functions": [
     "Private banking"
    ],
    "entity": "Al Salam Bank B.S.C.",
    "business_unit": "Private Banking",
    "scope": "Group",
-   "appointed": null,
-   "appointed_note": "Date not found. The official team page lists a 'Mr. Ali Habib Qassim' (search result only; title and identity link not confirmed).",
-   "previous_roles": null,
-   "education": null,
+   "appointed": "2011",
+   "appointed_note": "Head of Private Banking since 2011 (AR 2025, S26); the date the title became Chief Private Banking Officer is not published. The Bourse key-persons list still says 'Head of Private Banking' (S1). The list also shows a 'COO Private Banking' (Ousama Nusseir), not profiled.",
+   "previous_roles": "2011– Head of Private Banking (title in AR 2025: Chief Private Banking Officer), Al Salam Bank B.S.C.; before 2011 responsible for marketing the Bank's corporate banking products across local and GCC markets and for relationships with financial institutions and government entities, Al Salam Bank (years not published; AR 2025 cites over 26 years across corporate, investment and private banking).",
+   "education": "Master of Science, Emerson College, Boston (field not stated)",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not verified",
-   "role_status": "Requires verification",
-   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed. LinkedIn search returned no match.",
+   "role_status": "Verified current",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26) (Executive Management, 'Chief Private Banking Officer'); Bourse key-persons list of 25 Feb 2026 ('Head of Private Banking', S1). No 2025-2026 appointment or departure news found in role-based searches. LinkedIn: not found (see open_items).",
    "source_ids": [
-    "S1"
+    "S1",
+    "S26"
    ],
    "checked": "2026-10-12"
   },
   {
-   "name": "Mohammed Hasan Janahi",
+   "name": "Mohammed Yaqoob Buhijji",
    "name_ar": null,
-   "title": "Executive Vice President, Retail Banking",
+   "title": "Chief Retail Banking Officer",
    "functions": [
     "Retail",
     "Affluent"
@@ -723,16 +739,42 @@
    "business_unit": "Retail Banking (incl. Al Ruwad)",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Date not found. The same Bourse list also shows a 'Mohammed Buhijji, Head of Retail', so retail leadership needs confirmation.",
+   "appointed_note": "Added in this pass: the Annual Report 2025 names him Chief Retail Banking Officer (S26) and the Bourse key-persons list 'Head of Retail' (S1); the file previously carried only Mohammed Hasan Janahi (EVP Retail Banking). Appointment date not published; he joined Al Salam Bank in 2007.",
+   "previous_roles": "Chief Retail Banking Officer, Al Salam Bank B.S.C. (date not published; Bourse list title 'Head of Retail'); 2007– Al Salam Bank (joined to establish the Internal Audit division and departmental policies and procedures; later led integration and conversion work in the acquisitions of Bahraini Saudi Bank and BMI Bank and the retail banking transformation); earlier Ernst & Young (audit and consultancy; years not published; AR 2025 cites more than 24 years in banking and consultancy).",
+   "education": "MBA, University of Strathclyde (Glasgow); Executive Management Programs, Harvard Business School (Boston) and Ivey Business School (Canada)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26) (Executive Management, 'Chief Retail Banking Officer'); Bourse key-persons list of 25 Feb 2026 ('Head of Retail', S1). No 2025-2026 appointment news found in role-based searches. LinkedIn: not found (see open_items).",
+   "source_ids": [
+    "S1",
+    "S26"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Hasan Janahi",
+   "name_ar": null,
+   "title": "Executive Vice President, Retail Banking (per Bourse key-persons list)",
+   "functions": [
+    "Retail"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Retail Banking",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date not found. He appears on the issuer-provided Bourse key-persons list of 25 Feb 2026 (S1) but not in the Executive Management section of the Annual Report 2025 (S26), which names Mohammed Yaqoob Buhijji as Chief Retail Banking Officer (added above). He may hold an EVP post below the Chief Retail Banking Officer; the official page that would settle this is blocked.",
    "previous_roles": null,
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Requires verification",
-   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed.",
+   "role_evidence": "Listed as 'Executive Vice President, Retail Banking' on the Bourse key-persons list of 25 Feb 2026 (S1). Not among the executives profiled in the Annual Report 2025 (S26). The official leadership page is blocked (Incapsula), and no appointment or departure news was found in role-based searches, so the role is not independently confirmed.",
    "source_ids": [
-    "S1"
+    "S1",
+    "S26"
    ],
    "checked": "2026-10-12"
   },
@@ -747,16 +789,44 @@
    "business_unit": "Digital Channels",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Date not found.",
-   "previous_roles": null,
-   "education": null,
+   "appointed_note": "Appointment date not published. Previously Head of Business Development at Al Salam Bank (S26).",
+   "previous_roles": "Head of Digital Channels, Al Salam Bank B.S.C. (leads the bank's digital strategy and implementation roadmap and the digital channels business; date not published); earlier Head of Business Development, Al Salam Bank (strategic business relationships, retail product development; also led e-channels management); before that Head of Product Development, BMI Bank (Bahrain) (product development, market analysis, strategic planning) (years not published; AR 2025 cites over 24 years in banking and finance).",
+   "education": "MBA, University of Texas Pan American; BBA Finance, University of Texas at Brownsville",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not verified",
-   "role_status": "Requires verification",
-   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed. No LinkedIn search run (search quota).",
+   "role_status": "Verified current",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26) (Executive Management, 'Head of Digital Channels'); Bourse key-persons list of 25 Feb 2026 (S1); official Executive Management page lists him (S33, search result only). No 2025-2026 appointment news found in a role-based search. LinkedIn: not found (see open_items).",
    "source_ids": [
-    "S1"
+    "S1",
+    "S26",
+    "S33"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Alshehabi",
+   "name_ar": null,
+   "title": "Head of Innovation",
+   "functions": [
+    "Innovation / partnerships",
+    "Digital"
+   ],
+   "entity": "Al Salam Bank B.S.C.",
+   "business_unit": "Innovation (digital strategy and fintech initiatives)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Added in this pass: listed in the Annual Report 2025 Executive Management with responsibility for the Bank's digital strategy and fintech initiatives (S26); also on the official Executive Management page (S33, search result only). Joined Al Salam Bank in 2018; the date he took the Head of Innovation title is not published. Not on the Bourse key-persons list (S1).",
+   "previous_roles": "Head of Innovation, Al Salam Bank B.S.C. (digital strategy and fintech initiatives; joined 2018, title date not published); to 2018 Corporate Banking team (business coverage), Citi Bahrain, after several years in Citi's Treasury & Trade Solutions unit covering Bahrain and Saudi Arabia; earlier Business Development team (financial services), Bahrain Economic Development Board; started his career in the Debt Capital Markets team of Arab Banking Corporation and at ABC Islamic Bank (years not published; AR 2025 cites over 19 years in banking).",
+   "education": "BSc Accounting; BBA E-Business (institutions not stated)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26) (Executive Management, 'Head of Innovation'); official Executive Management page (S33, seen in search results only; site blocked). No 2025-2026 appointment news found in a role-based search. LinkedIn: not found (see open_items).",
+   "source_ids": [
+    "S26",
+    "S33"
    ],
    "checked": "2026-10-12"
   },
@@ -771,23 +841,25 @@
    "business_unit": "Technology",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Date not found.",
-   "previous_roles": null,
-   "education": null,
-   "qualifications": null,
+   "appointed_note": "Appointment date not published. The Annual Report writes the name 'Hemantha Wijesinghe' (S26); the Bourse list 'Don Hemantha Wijesinghe' (S1).",
+   "previous_roles": "Chief Technology Officer, Al Salam Bank B.S.C. (date not published); earlier UK-based global IT management roles in banking and finance, and roles covering Asia, the Middle East, North America and Europe (employers not named; AR 2025 cites over 25 years of IT management experience).",
+   "education": "MSc Strategic Business Information Technology, University of Portsmouth (UK); higher IT studies, NCC Education (UK)",
+   "qualifications": "Chartered Institute for IT (BCS, UK) qualification and various international systems-engineering and IT qualifications (as stated in AR 2025; not itemised)",
    "linkedin_url": null,
    "linkedin_status": "Not checked",
-   "role_status": "Requires verification",
-   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed.",
+   "role_status": "Verified current",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26) (Executive Management, 'Chief Technology Officer'); Bourse key-persons list of 25 Feb 2026 (S1); official Executive Management page (S33, search result only). No 2025-2026 appointment news found in a role-based search.",
    "source_ids": [
-    "S1"
+    "S1",
+    "S26",
+    "S33"
    ],
    "checked": "2026-10-12"
   },
   {
    "name": "Hamed Yousef Mashal",
    "name_ar": null,
-   "title": "Head of Real Estate and Investments (LinkedIn snippet: Chief Investment Officer)",
+   "title": "Chief Investment Officer (Head of Real Estate and Investments)",
    "functions": [
     "Investments / asset management"
    ],
@@ -795,48 +867,50 @@
    "business_unit": "Real Estate and Investments",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Date not found.",
-   "previous_roles": null,
-   "education": null,
-   "qualifications": "CFA (per LinkedIn profile title in search result)",
+   "appointed_note": "Appointment date not published. The Annual Report 2025 heads his profile 'Chief Investment Officer' and describes him as head of real estate and investments (S26); the Bourse list says 'Head of Real Estate and Investments' (S1). Joined Kuwait Finance House - Bahrain in 2007; date of joining Al Salam not published.",
+   "previous_roles": "Chief Investment Officer / Head of Real Estate and Investments, Al Salam Bank B.S.C. (manages the bank's real estate portfolio and non-real-estate investment portfolio; date not published); earlier Head of Retail Banking, Kuwait Finance House - Bahrain (branch network, consumer finance, business development, digital development, contact centre, cards and e-channels); 2007 joined Kuwait Finance House - Bahrain; before that Deutsche Bank Graduate Program, London (years not published; AR 2025 cites over 21 years of experience). Current other roles (per AR 2025): board member, Seef Properties, Bareeq Al Retaj Real Estate Services and Fraser Suites Seef - Bahrain. Author of 'Islamic Real Estate Investment Trusts: A Property Selection Methodology'.",
+   "education": "BSc (Hons) Computer and Business Studies, University of Warwick; MBA (with distinction), Warwick Business School (2016)",
+   "qualifications": "CFA charterholder (2010); PMP (Project Management Professional); MRICS, Royal Institution of Chartered Surveyors (2017)",
    "linkedin_url": "https://www.linkedin.com/in/hamedmashal/",
    "linkedin_status": "Verified (profile/search match)",
-   "role_status": "Requires verification",
-   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed. LinkedIn: search result 'Hamed Mashal, CFA - Al Salam Bank' with a Chief Investment Officer description (profile not opened); the title differs from the Bourse list wording.",
+   "role_status": "Verified current",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26) (Executive Management, 'Chief Investment Officer'); Bourse key-persons list of 25 Feb 2026 (S1). LinkedIn URL kept from the earlier pass (search result 'Hamed Mashal, CFA - Al Salam Bank' with a Chief Investment Officer description, S25), which now matches the Annual Report title and CFA designation; profile not opened.",
    "source_ids": [
     "S1",
-    "S25"
+    "S25",
+    "S26"
    ],
    "checked": "2026-10-12"
   },
   {
    "name": "Ahmed Abdulla Saif",
    "name_ar": null,
-   "title": "Head of Strategy & Planning",
+   "title": "Group Chief Strategy Officer",
    "functions": [
     "Strategy"
    ],
    "entity": "Al Salam Bank B.S.C.",
    "business_unit": "Strategy & Planning",
    "scope": "Group",
-   "appointed": null,
-   "appointed_note": "Date not found.",
-   "previous_roles": null,
-   "education": null,
+   "appointed": "2018",
+   "appointed_note": "Head of Strategy and Planning since 2018 (AR 2025, S26); the Bourse list still uses that title (S1); the date of the Group Chief Strategy Officer title is not published.",
+   "previous_roles": "2018– Head of Strategy and Planning (title in AR 2025: Group Chief Strategy Officer), Al Salam Bank B.S.C.; 2016–2018 Head of Strategic Acquisition and Investment Management, Al Salam Bank; 2012–2016 Head of Investment Middle Office Department, Al Salam Bank; 2008–2012 Investment Team, Al Salam Bank; before 2008 Investment Analyst, DBS (Singapore). Current other roles: board member, Al Salam Bank - Algeria, Al Salam Bank - Seychelles and First Insurance (Solidarity Jordan); Board Advisor, ASB Capital.",
+   "education": "MSc Finance and Financial Law (Honours), SOAS University of London; BSc (Honours) Commerce, Finance & Economics, DePaul University (USA)",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
-   "role_status": "Requires verification",
-   "role_evidence": "Listed on the issuer-provided Bahrain Bourse key-persons list (S1; PDF created 25 Feb 2026 per file metadata, otherwise undated). Official Al Salam leadership pages were blocked (Incapsula check) and no appointment or departure news was found in the one news search run, so the role is not independently confirmed.",
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Annual Report 2025 (published on Bahrain Bourse in May 2026; Board of Directors pp.14-18, Fatwa & Shari'a Supervisory Board p.19, Executive Management pp.20-31 of the printed report), read 2026-10-12 (S26) (Executive Management, 'Group Chief Strategy Officer'); Bourse key-persons list of 25 Feb 2026 ('Head of Strategy & Planning', S1). No 2025-2026 appointment news found. LinkedIn: not found (see open_items).",
    "source_ids": [
-    "S1"
+    "S1",
+    "S26"
    ],
    "checked": "2026-10-12"
   },
   {
    "name": "Hichem Djouhri",
    "name_ar": null,
-   "title": "Senior Executive Officer, ASB Capital",
+   "title": "Senior Executive Officer, ASB Capital Limited",
    "functions": [
     "Subsidiary CEO",
     "Investments / asset management"
@@ -844,18 +918,21 @@
    "entity": "ASB Capital Limited",
    "business_unit": "ASB Capital (DIFC)",
    "scope": "Subsidiary: ASB Capital",
-   "appointed": null,
-   "appointed_note": "Described in 2025 trade press as leading ASB Capital since launch; date not stated.",
-   "previous_roles": null,
+   "appointed": "2024-08-06",
+   "appointed_note": "DFSA register: Authorised Individual of ASB Capital Limited with the licensed functions Senior Executive Officer and Senior Manager, effective 6 Aug 2024 (the firm's licence date), no withdrawal date (S28, S34). Forbes Middle East (Mar 2025) says he has led the firm since its launch (operations began Nov 2024) (S29).",
+   "previous_roles": "6 Aug 2024– Senior Executive Officer, ASB Capital Limited (DIFC asset manager, 100% owned by Al Salam Bank); earlier Chief Operating Officer and Head of Asset Management, Three Comma Capital; Alkhair Capital; about ten years at SHUAA Capital as fund manager and Head of Asset Management (years not published).",
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not verified",
-   "role_status": "Requires verification",
-   "role_evidence": "Named as Senior Executive Officer in 2025 coverage of the ASB Capital / State Street fund (search results only, S16); not on the Bourse list; the 5 Oct 2026 StepStone release quotes Rafik Nayed as ASB Capital managing director instead (S13). DFSA register not checked.",
+   "role_status": "Verified current",
+   "role_evidence": "DFSA public register, checked 2026-10-12: firm entry for ASB Capital Limited lists him as an Authorised Individual since 06-Aug-2024 (S28) and his individual entry gives the functions 'Senior Manager, Senior Executive Officer' with no withdrawal date (S34); Forbes Middle East Top 40 Asset Managers 2025 profile (S29); 2025 fund coverage (S16, search results only). He is not in the parent's Annual Report executive section (S26), which names Rafik Nayed as Managing Director of ASB Capital, nor on the Bourse list. A role-based search for a 2026 ASB Capital SEO change found nothing; no ASB Capital website was reachable (asbcapital.com/.ae did not resolve).",
    "source_ids": [
+    "S13",
     "S16",
-    "S13"
+    "S28",
+    "S29",
+    "S34"
    ],
    "checked": "2026-10-12"
   }
@@ -1145,7 +1222,7 @@
    "published": null,
    "accessed": "2026-10-12",
    "language": "en",
-   "note": "Issuer-provided, undated list; PDF metadata shows creation on 25 Feb 2026. Read with pdftext (3 pages, 46 names)."
+   "note": "Issuer-provided, undated list; PDF metadata shows creation on 25 Feb 2026. Re-read with pdftext on 12 Oct 2026 (3 pages, 69 entries incl. auditors and the LTIP trust). Titles are shorter than in the Annual Report (e.g. 'Deputy CEO', 'Head of Private Banking', 'Head of Strategy & Planning')."
   },
   {
    "id": "S2",
@@ -1251,7 +1328,7 @@
    "published": "2018-04-24",
    "accessed": "2026-10-12",
    "language": "en",
-   "note": "Seen in search results only (page not opened). Date and career as given in the search summary."
+   "note": "Seen in search results only. Opened 12 Oct 2026 but the URL now returns the TradeArabia home page, so the 2018 content was not read; the GDN report of 25 Apr 2018 (S30) was opened instead."
   },
   {
    "id": "S11",
@@ -1395,7 +1472,7 @@
    "published": null,
    "accessed": "2026-10-12",
    "language": "en",
-   "note": "Seen in search results only (page not opened)."
+   "note": "Seen in search results only (page not opened; site blocked by Incapsula on 12 Oct 2026)."
   },
   {
    "id": "S23",
@@ -1432,6 +1509,111 @@
    "accessed": "2026-10-12",
    "language": "en",
    "note": "Seen in search results only (page not opened)."
+  },
+  {
+   "id": "S26",
+   "title": "Al Salam Bank B.S.C. Annual Report 2025 ('20 Years Written by You')",
+   "publisher": "Al Salam Bank (copy filed with Bahrain Bourse)",
+   "url": "https://bahrainbourse.com/Documents/05052026150455En/05052026150455En_File2.pdf",
+   "doc_type": "Annual report — Board of Directors, Fatwa & Shari'a Supervisory Board and Executive Management biographies (printed pp.14-31; PDF pp.16-33)",
+   "tier": 1,
+   "published": "2026-05",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "228-page PDF read with tools/pdftext.py (pages 1-40). The bank's own copy (alsalambank.com/wp-content/uploads/2026/04/ASB_AR_2025_English_V3-3.pdf) is behind the Incapsula check. Board entries give 'Director since' and 'Current term started' dates; executive entries give careers and degrees but no appointment dates."
+  },
+  {
+   "id": "S27",
+   "title": "Board of Directors Election Results — Annual General Meeting of 31 March 2024",
+   "publisher": "Al Salam Bank via Bahrain Bourse",
+   "url": "https://bahrainbourse.com/File%20Attachments/01042024085728/01042024085728_File1.pdf",
+   "doc_type": "Exchange announcement — board election results (nine directors for the 2024-2027 term)",
+   "tier": 1,
+   "published": "2024-04-01",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S28",
+   "title": "DFSA Public Register — ASB Capital Limited (firm entry: licence 06-Aug-2024; authorised individuals)",
+   "publisher": "Dubai Financial Services Authority",
+   "url": "https://dfsa.ae/public-register/firms/asb-capital-limited",
+   "doc_type": "Regulator register",
+   "tier": 3,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Lists Rafik Ali Nayed, Hichem Djouhri, Yusuf Ahmed Ebrahim Hasan and the Al Salam directors Al Mashani, Alblooshi, Alhalyan, Kassim, Alsuwaidi and Al Aujaili as Authorised Individuals (effective 06-Aug-2024 unless stated), plus Heather Marie Murray (02-Jun-2025); van Houten and AlShamsi withdrawn."
+  },
+  {
+   "id": "S29",
+   "title": "The Middle East's Top 40 Asset Managers 2025 — Hichem Djouhri, Senior Executive Officer, ASB Capital",
+   "publisher": "Forbes Middle East",
+   "url": "https://www.forbesmiddleeast.com/lists/top-40-asset-managers-2025/hichem-djouhri/",
+   "doc_type": "Ranking profile",
+   "tier": 5,
+   "published": "2025-03-15",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S30",
+   "title": "Al Salam Bank names group chief executive",
+   "publisher": "Gulf Daily News",
+   "url": "https://www.gdnonline.com/Details/349174/Al-Salam-Bank-names-group-chief-executive",
+   "doc_type": "News article (appointment of Rafik Nayed)",
+   "tier": 5,
+   "published": "2018-04-25",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened."
+  },
+  {
+   "id": "S31",
+   "title": "Al Salam Bank appoints new chairman (Al Mashani replaces Khaleefa Butti Al Muhairi)",
+   "publisher": "Mubasher",
+   "url": "https://english.mubasher.info/news/3614332/Al-Salam-Bank-appoints-new-chairman/",
+   "doc_type": "News article (relays the bank's DFM disclosure)",
+   "tier": 5,
+   "published": "2020-04-13",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Opened. The bank's own release (alsalambank.com/?p=6107) and the Zawya/Arab News copies were seen in search results only."
+  },
+  {
+   "id": "S32",
+   "title": "Diyar Al Muharraq Signs USD 366 Million Murabaha Contract to finance 'Deerat Al Oyoun' project (quotes Anwar Murad, Deputy Group CEO - Banking)",
+   "publisher": "Al Salam Bank via Bahrain Bourse (company announcement)",
+   "url": "https://bahrainbourse.com/sysimages/companyannouncement/documents/SALAM_20160928_PREN.pdf_26635.pdf",
+   "doc_type": "Exchange company announcement — press release",
+   "tier": 1,
+   "published": "2016-09-28",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S33",
+   "title": "Executive Management (team page)",
+   "publisher": "Al Salam Bank",
+   "url": "https://www.alsalambank.com/en/member-group/executive-managment/",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only (page not opened: alsalambank.com answers every path, including PDFs, with an Incapsula challenge). Search summaries mention Al Khan, Wijesinghe, Al Haddad and Alshehabi."
+  },
+  {
+   "id": "S34",
+   "title": "DFSA Public Register — Mr Hichem Djouhri (I019500): ASB Capital Limited, Authorised Individual, functions Senior Manager and Senior Executive Officer, effective 06-Aug-2024",
+   "publisher": "Dubai Financial Services Authority",
+   "url": "https://dfsa.ae/public-register/individuals/mr-hichem-djouhri",
+   "doc_type": "Regulator register (individual entry)",
+   "tier": 3,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
   }
  ],
  "original_reconciliation": [],
@@ -1477,14 +1659,6 @@
    "resolution": "All recorded with their scopes; no reconciliation between ASB Capital AUM and the off-balance-sheet statement was found."
   },
   {
-   "field": "Deputy CEO and retail head on key-persons list",
-   "detail": "The Bourse list shows 'Anwar Murad - Deputy CEO' and both 'Mohammed Hasan Janahi - EVP Retail Banking' and 'Mohammed Buhijji - Head of Retail'; a LinkedIn search surfaced 'Anwar Khalifa - Deputy CEO'.",
-   "source_ids": [
-    "S1"
-   ],
-   "resolution": "Role status left as Requires verification; official leadership page needed."
-  },
-  {
    "field": "Name 'Kuwait Finance House (Bahrain)'",
    "detail": "Al Salam acquired the old Kuwait Finance House (Bahrain) B.S.C. (c) (May 2024), now ASB Finance. The existing bh-kfhbahrain file covers a different entity: the former Ahli United Bank, renamed Kuwait Finance House B.S.C. (c) in Jul 2025.",
    "source_ids": [
@@ -1492,6 +1666,43 @@
     "S18"
    ],
    "resolution": "No change made to the other file; flagged for central review."
+  },
+  {
+   "field": "Retail banking head",
+   "detail": "The Bourse key-persons list (25 Feb 2026) shows both 'Mohammed Hasan Janahi - Executive Vice President, Retail Banking' and 'Mohammed Buhijji - Head of Retail'. The Annual Report 2025 (May 2026) profiles only Mohammed Yaqoob Buhijji, as Chief Retail Banking Officer, and does not mention Janahi.",
+   "source_ids": [
+    "S1",
+    "S26"
+   ],
+   "resolution": "Buhijji added as the retail head (Verified current); Janahi kept with status Requires verification pending the blocked official page."
+  },
+  {
+   "field": "Executive titles: Bourse list vs Annual Report 2025",
+   "detail": "Bourse list: Deputy CEO / Head of Private Banking / Head of Strategy & Planning / Head of Real Estate and Investments. Annual Report 2025: Deputy Group Chief Executive Officer - Banking / Chief Private Banking Officer / Group Chief Strategy Officer / Chief Investment Officer (bio: head of real estate and investments).",
+   "source_ids": [
+    "S1",
+    "S26"
+   ],
+   "resolution": "Annual Report titles used (tier 1, later document); Bourse wording noted in appointed_note."
+  },
+  {
+   "field": "Deputy CEO identity",
+   "detail": "The earlier pass recorded a LinkedIn search result 'Anwar Khalifa - Deputy CEO at Al Salam Bank'. The Annual Report 2025 and the 2016 Bourse-hosted release name the Deputy Group CEO - Banking as Anwar Mohammed Murad.",
+   "source_ids": [
+    "S26",
+    "S32",
+    "S1"
+   ],
+   "resolution": "Anwar Mohammed Murad recorded; the 'Anwar Khalifa' result is unexplained and was not used."
+  },
+  {
+   "field": "Rafik Nayed board membership",
+   "detail": "The earlier pass gave him a 'Board' function. The Annual Report 2025 board section and the 31 Mar 2024 election results list nine non-executive/independent directors and do not include him.",
+   "source_ids": [
+    "S26",
+    "S27"
+   ],
+   "resolution": "'Board' function removed."
   }
  ],
  "open_items": [
@@ -1499,12 +1710,15 @@
   "H1 2026 (30 Jun 2026) figures are rounded USD numbers from press coverage of the issuer's release (S6-S8). The reviewed H1 2026 statements and the Bahrain Bourse announcement pages could not be read (Bourse detail pages returned empty content and then HTTP 429 in the browser). Replace with BHD statement figures when accessible.",
   "FY2025 operating (total) income was not obtained; FY2025 net profit (BD 76.8m), assets, deposits and equity come from the issuer's FY2025 release and the Q1 2026 comparatives.",
   "Group headcount, customer numbers, wealth client assets, investing users and Al Salam Invest vendor not found.",
-  "People: official leadership page blocked, so all executives other than Chairman, Deputy Chairman and CEO rest on the issuer-provided Bourse key-persons list (undated; PDF created 25 Feb 2026). Biographies, appointment dates and education not obtained. LinkedIn: no personal URL verified except a search-result match for Hamed Mashal (title differs).",
-  "Deputy CEO identity: Bourse list says Anwar Murad; a LinkedIn search showed Anwar Khalifa as Deputy CEO; check the official page.",
   "Arabic legal name not verified from a source opened; name_ar left null.",
   "Check whether ASB Finance (ex-KFH Bahrain) has been merged into Al Salam Bank or still operates separately, and whether Al Salam's economic interest in the 26.2% BBK stake (via FINCORP W.L.L.) affects the NBB-BBK merger talks; B27 left Fincorp's ownership unestablished and note 7 of S3 now explains the link.",
   "Q3 2026 results (30 Sep 2026) not yet published at 12 Oct 2026.",
-  "Lead check: 'subsidiaries such as Al Salam Bank Seychelles, ASB Capital' confirmed (70.0% and 100%, S3); 'absorbed Ithmaar Bank's banking business' corrected to the retail business only (see discrepancies)."
+  "Lead check: 'subsidiaries such as Al Salam Bank Seychelles, ASB Capital' confirmed (70.0% and 100%, S3); 'absorbed Ithmaar Bank's banking business' corrected to the retail business only (see discrepancies).",
+  "People pass X23 (12 Oct 2026): alsalambank.com still answers every path, including the Annual Report and FY2025 statements PDFs, with an Incapsula challenge (HTTP 200, no content); not bypassed. Biographies were taken instead from the Annual Report 2025 copy filed with Bahrain Bourse (S26). Executive appointment dates are not published in that report or in any Bourse/DFM disclosure found; only Qassim (Head of Private Banking since 2011), Saif (Head of Strategy and Planning since 2018) and Murad (title in use by Sep 2016) have dated milestones.",
+  "LinkedIn (X23): the Annual Report carries no LinkedIn links, the official site is blocked and the search tool declines name-based look-ups of individuals, so no personal URL could be sought; decision-makers without a URL are marked 'Not verified', others 'Not checked'. Hamed Mashal's URL from the earlier pass is kept (title and CFA now match the Annual Report).",
+  "Board (X23): the nine directors elected on 31 Mar 2024 serve 2024-2027 (S27); only the Chairman and Deputy Chairman are profiled. Other directors (Al Mahmeed, Al Awadi, Al Amin, Al Suwaidi, Al Saie, Al Aujaili, Kassim) and the four Shari'a Board members have biographies in S26 if needed later. ASB Capital's board (Al Mashani, Alblooshi, Alhalyan, Kassim, Alsuwaidi, Al Aujaili, Nayed, Ebrahim Hasan per the DFSA register) is not profiled.",
+  "Not added (X23): Deputy Group CEO - Corporate Affairs Eihab Abdellatif Ahmed, CFO Yousif Ahmed Ebrahim, Chief Corporate Banking Officer Ahmed Jasim Murad, Chief Treasury Officer Hussain Abdulhaq (CFA), COO Mazar Rashed Jalal, CRO Krishnan Hariharan, CMO Mahmood Qannati, CHRO Muna Al Balooshi, Chief Legal Officer Qassim Taqawi, Chief Auditor Essa Bohijji, Chief Compliance Officer Ali Al Khaja, Head of Shari'a Compliance Dr Mohammed Burhan Arbouna and Head of Internal Shari'a Audit Sheikh Ahmed Al Mahmood (all with bios in S26); the Bourse list's 'COO Private Banking' (Ousama Nusseir), 'EVP - Head of Intl Banking' (Sadeq Shaikh Hasan) and 'EVP-IT Integration' (Yusuf Alkhan) have no published bios.",
+  "Mohammed Hasan Janahi (EVP Retail Banking on the Bourse list) does not appear in the Annual Report 2025 executive section; confirm his post from the official page when reachable."
  ],
  "research_status": "Partial",
  "researched_by": "B28",
