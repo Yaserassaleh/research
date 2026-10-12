@@ -1,1558 +1,1682 @@
 {
-  "id": "sa-bsf",
-  "name": "Banque Saudi Fransi",
-  "short_name": "BSF",
-  "legal_name": "Banque Saudi Fransi (a Saudi Joint Stock Company)",
-  "name_ar": "البنك السعودي الفرنسي",
-  "country": "SA",
-  "hq_city": "Riyadh",
-  "website": "https://bsf.sa",
-  "linkedin_company": "https://www.linkedin.com/company/bsf_sa/",
-  "category": "Bank",
-  "type": "Universal / commercial bank",
-  "model": "Conventional with Islamic window/subsidiary",
-  "founded": "1977 (Royal Decree M/23 dated 4 Jun 1977; began operations 11 Dec 1977 by taking over the Saudi branches of Banque de l'Indochine et de Suez). CR 1010073368. Rebranded 'BSF' on 4 Jun 2024.",
-  "regulators": [
-    "SAMA",
-    "CMA"
-  ],
-  "listed": true,
-  "exchange": "Tadawul",
-  "ticker": "1050",
-  "parent_id": null,
-  "ownership_summary": "Listed on the Saudi Exchange; share capital SAR 25bn (2,500m shares). Substantial shareholders at 31 Dec 2025: Kingdom Holding Company 16.199% and Rashed Abdul Rahman Al Rashed & Sons Co. 9.999% (unchanged during 2025). Foreign ownership 15.9% (1H 2026 presentation). Crédit Agricole (former 31.1% holder via CA-CIB) fully divested by 2019.",
-  "shareholders": [
-    {
-      "holder": "Kingdom Holding Company",
-      "pct": 16.199,
-      "as_of": "2025-12-31",
-      "source_ids": [
-        "S6"
-      ]
-    },
-    {
-      "holder": "Rashed Abdul Rahman Al Rashed & Sons Co.",
-      "pct": 9.999,
-      "as_of": "2025-12-31",
-      "source_ids": [
-        "S6"
-      ]
-    }
-  ],
-  "government_link": "No government entity among substantial (5%+) shareholders at 31 Dec 2025 (AR 2025). One director (Abdulmajid Al Hagbani) is a senior director at the Public Investment Fund per his official bio; the bio does not say he represents PIF.",
-  "group_structure": "Parent bank with 100% subsidiaries: Saudi Fransi Capital (BSF Capital: brokerage, asset management, corporate finance; profiled separately as sa-bsf-capital), Saudi Fransi for Finance Leasing (JB: Islamic auto leasing and personal finance), Sakan Real Estate Financing, Sur Multi Family Office Limited (UK; wealth management for HNW clients), BSF Markets Limited and BSF Finance Limited (Cayman), plus Saudi Fransi Insurance Agency, Sofinco Saudi Fransi and Saudi Fransi Digital Ventures (all under liquidation). Associate: Banque BEMO Saudi Fransi (Syria). Double counting: BSF Capital is consolidated; its AUM and the 'Investment banking and brokerage' segment appear in both sa-bsf and sa-bsf-capital. Never add them.",
-  "subsidiaries": [
-    {
-      "name": "Saudi Fransi Capital (BSF Capital)",
-      "pct": 100.0,
-      "activity": "Brokerage, asset management and corporate finance (CMA-licensed)",
-      "linked_id": "sa-bsf-capital",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "name": "Saudi Fransi for Finance Leasing (JB)",
-      "pct": 100.0,
-      "activity": "Islamic lease financing for vehicles and personal financing",
-      "linked_id": null,
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "name": "Sur Multi Family Office Limited",
-      "pct": 100.0,
-      "activity": "Wealth management services to BSF's high net worth clients and their families (UK-registered, inc. 1 Feb 2023)",
-      "linked_id": null,
-      "source_ids": [
-        "S4",
-        "S23"
-      ]
-    },
-    {
-      "name": "Sakan Real Estate Financing",
-      "pct": 100.0,
-      "activity": "Holds title deeds on behalf of the bank",
-      "linked_id": null,
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "name": "BSF Markets Limited",
-      "pct": 100.0,
-      "activity": "Derivative trading and repo (Cayman Islands)",
-      "linked_id": null,
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "name": "BSF Finance Limited",
-      "pct": 100.0,
-      "activity": "SPV for debt issuance (Cayman Islands)",
-      "linked_id": null,
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "name": "Saudi Fransi Insurance Agency; Sofinco Saudi Fransi; Saudi Fransi Digital Ventures",
-      "pct": 100.0,
-      "activity": "Under liquidation",
-      "linked_id": null,
-      "source_ids": [
-        "S4"
-      ]
-    }
-  ],
-  "footprint": "Saudi Arabia: 78 branches, 353 ATMs and 33,787 POS terminals at 30 Jun 2026; private banking centres in Riyadh, Jeddah and Alkhobar. Abroad: Sur Multi Family Office Limited (London, UK) and Cayman SPVs; associate in Syria.",
-  "customer_segments": "Corporate and institutional (about 79% of the loan book), SME/business banking, retail mass market, affluent (Advance, Privilege, Elite, Elite Plus), private banking (HNW), resident expatriates (premium programmes for residents), consumer finance via JB.",
-  "business_lines": "Corporate banking (45% of H1 2026 operating income), Retail banking (incl. private banking), Treasury (17%), Investment banking and brokerage via BSF Capital (5%). H1 2026 segment operating income (SAR '000): retail 1,799,482; corporate 2,486,763; treasury 972,174; investment banking and brokerage 298,701.",
-  "metrics": [
-    {
-      "metric": "total_assets",
-      "value": 327983331,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total assets, condensed interim consolidated statement of financial position (unaudited, reviewed)",
-      "status": "Verified",
-      "locator": "S4 p.1 (PDF p.3)",
-      "note": "Press release S10 gives SAR 327,983 million, consistent.",
-      "source_ids": [
-        "S4",
-        "S10"
-      ]
-    },
-    {
-      "metric": "total_assets",
-      "value": 309005786,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total assets, audited consolidated statement of financial position",
-      "status": "Verified",
-      "locator": "S5 p.1 (PDF p.10)",
-      "note": "Extra record (FY2025 year-end).",
-      "source_ids": [
-        "S5"
-      ]
-    },
-    {
-      "metric": "customer_deposits",
-      "value": 204587870,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Customers' deposits: demand 83,006,253; saving 939,327; time 115,733,014; other 4,909,276 (SAR '000). Time deposits include Shariah-based deposits of SAR 66,882 million. Excludes due to Saudi Central Bank (11,397,468), due to banks and other FIs (13,921,948) and debt securities/CDs.",
-      "status": "Verified",
-      "locator": "S4 p.1 and note 12 (PDF p.28)",
-      "note": "",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "customer_deposits",
-      "value": 195219089,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Customers' deposits, audited consolidated statement of financial position (excludes due to SAMA and banks)",
-      "status": "Verified",
-      "locator": "S5 p.1 (PDF p.10)",
-      "note": "Extra record.",
-      "source_ids": [
-        "S5"
-      ]
-    },
-    {
-      "metric": "net_loans",
-      "value": 224241367,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Loans and advances, net (held at amortised cost, net of ECL allowance of 3,523,724). Gross loans include Shariah-based loans and advances of SAR 165,667 million.",
-      "status": "Verified",
-      "locator": "S4 p.1 and note 8 (PDF p.20)",
-      "note": "",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "net_loans",
-      "value": 214891263,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Loans and advances, net, audited consolidated statement of financial position",
-      "status": "Verified",
-      "locator": "S5 p.1 (PDF p.10)",
-      "note": "Extra record.",
-      "source_ids": [
-        "S5"
-      ]
-    },
-    {
-      "metric": "gross_loans",
-      "value": 227765091,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total loans and advances before impairment allowance (overdraft and commercial 179,935,794; credit cards 954,301; consumer 46,874,996), note 8",
-      "status": "Verified",
-      "locator": "S4 note 8 (PDF p.20)",
-      "note": "",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "total_equity",
-      "value": 51394285,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total equity, including Tier I capital (sukuk) of 7,937,500. Equity attributable to the shareholders of the Bank: 43,456,785.",
-      "status": "Verified",
-      "locator": "S4 p.1 (PDF p.3)",
-      "note": "",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "total_equity",
-      "value": 50659438,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "Total equity, audited consolidated statement of financial position (includes Tier I capital)",
-      "status": "Verified",
-      "locator": "S5 p.1 (PDF p.10)",
-      "note": "Extra record.",
-      "source_ids": [
-        "S5"
-      ]
-    },
-    {
-      "metric": "operating_income",
-      "value": 10536764,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "FY2025",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "Total operating income, audited consolidated statement of income",
-      "status": "Verified",
-      "locator": "S5 p.2 (PDF p.11)",
-      "note": "Press release S11: SAR 10,537 million, +9% YoY.",
-      "source_ids": [
-        "S5",
-        "S11"
-      ]
-    },
-    {
-      "metric": "operating_income",
-      "value": 5557120,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "H1 2026",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "Total operating income, six months ended 30 Jun 2026",
-      "status": "Verified",
-      "locator": "S4 p.2 (PDF p.4)",
-      "note": "",
-      "source_ids": [
-        "S4",
-        "S10"
-      ]
-    },
-    {
-      "metric": "net_profit",
-      "value": 5353419,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "FY2025",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "Net income for the year (after zakat). All subsidiaries are 100% owned, so there are no non-controlling interests; figure is before deducting Tier 1 sukuk costs used for EPS.",
-      "status": "Verified",
-      "locator": "S5 p.2 (PDF p.11)",
-      "note": "Press release S11: SAR 5,353 million, +18% YoY.",
-      "source_ids": [
-        "S5",
-        "S11"
-      ]
-    },
-    {
-      "metric": "net_profit",
-      "value": 2867807,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "H1 2026",
-      "period_type": "duration",
-      "scope": "Group consolidated",
-      "definition": "Net income for the period, six months ended 30 Jun 2026 (no non-controlling interests)",
-      "status": "Verified",
-      "locator": "S4 p.2 (PDF p.4)",
-      "note": "Press release S10: SAR 2,868 million.",
-      "source_ids": [
-        "S4",
-        "S10"
-      ]
-    },
-    {
-      "metric": "aum",
-      "value": 34.8,
-      "unit": "billion",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "2Q 2026",
-      "period_type": "point_in_time",
-      "scope": "Subsidiary: BSF Capital (Saudi Fransi Capital)",
-      "definition": "Assets under management, Investment Banking and Brokerage segment slide (BSF Capital)",
-      "status": "Verified",
-      "locator": "S7 slide 57",
-      "note": "Labelled 'Assets Under Management' by the bank. 2Q25 32.0, 3Q25 33.5, 4Q25 31.0, 1Q26 36.4, 2Q26 34.8 (SAR bn). Also in sa-bsf-capital; do not add.",
-      "source_ids": [
-        "S7"
-      ]
-    },
-    {
-      "metric": "aum",
-      "value": 31.0,
-      "unit": "billion",
-      "currency": "SAR",
-      "period_end": "2025-12-31",
-      "period_label": "4Q 2025",
-      "period_type": "point_in_time",
-      "scope": "Subsidiary: BSF Capital (Saudi Fransi Capital)",
-      "definition": "Assets under management (bank investor presentation)",
-      "status": "Verified",
-      "locator": "S7 slide 57; S5 note 41 (PDF p.137)",
-      "note": "FS note 41: investment funds managed through the subsidiary had net asset value of SAR 30,971 million (2024: 30,494 million), including Islamic mutual funds of SAR 3,303 million. Consistent.",
-      "source_ids": [
-        "S7",
-        "S5"
-      ]
-    },
-    {
-      "metric": "customers",
-      "value": 1361311,
-      "unit": "unit",
-      "currency": null,
-      "period_end": "2025-12-31",
-      "period_label": "31 Dec 2025",
-      "period_type": "point_in_time",
-      "scope": "Bank: Personal Banking Group",
-      "definition": "'Total Number of Personal Banking Customers' (retail incl. private banking). Not stated whether active or registered.",
-      "status": "Verified",
-      "locator": "S6 PDF p.63",
-      "note": "2024: 1,300,016 (+4.7%). Affluent customers (Elite, Elite Plus, Privilege) grew 10% YoY; count not given.",
-      "source_ids": [
-        "S6"
-      ]
-    },
-    {
-      "metric": "customers",
-      "value": 1.4,
-      "unit": "million",
-      "currency": null,
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Group consolidated",
-      "definition": "'serving 1.4 million customers' (factsheet; segment scope not stated)",
-      "status": "Verified",
-      "locator": "S21 p.1",
-      "note": "Rounded.",
-      "source_ids": [
-        "S21"
-      ]
-    },
-    {
-      "metric": "employees",
-      "value": 3171,
-      "unit": "unit",
-      "currency": null,
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Bank",
-      "definition": "People employed by the Bank (FS note 1)",
-      "status": "Verified",
-      "locator": "S4 note 1 (PDF p.8)",
-      "note": "30 Jun 2025: 3,087. FY2025: 3,120.",
-      "source_ids": [
-        "S4"
-      ]
-    },
-    {
-      "metric": "branches",
-      "value": 78,
-      "unit": "unit",
-      "currency": null,
-      "period_end": "2026-06-30",
-      "period_label": "30 Jun 2026",
-      "period_type": "point_in_time",
-      "scope": "Bank",
-      "definition": "Branches in Saudi Arabia (FS note 1)",
-      "status": "Verified",
-      "locator": "S4 note 1 (PDF p.8)",
-      "note": "31 Dec 2025: 79. Factsheet also gives 353 ATMs and 33,787 POS terminals.",
-      "source_ids": [
-        "S4",
-        "S21"
-      ]
-    },
-    {
-      "metric": "investment_brokerage_segment_operating_income",
-      "value": 298701,
-      "unit": "thousand",
-      "currency": "SAR",
-      "period_end": "2026-06-30",
-      "period_label": "H1 2026",
-      "period_type": "duration",
-      "scope": "Segment: Investment banking and brokerage",
-      "definition": "Total operating income of the 'Investment banking and brokerage' operating segment (investment management, asset management, custody, retail investment products, corporate finance, local and international share brokerage, insurance). Segment net income before zakat: 132,366; segment total assets: 3,507,189.",
-      "status": "Verified",
-      "locator": "S4 note 19 (PDF p.35)",
-      "note": "H1 2025: 330,908 (-10%). Segment is close to but not identical to BSF Capital standalone.",
-      "source_ids": [
-        "S4",
-        "S7"
-      ]
-    }
-  ],
-  "disclosure_checks": [
-    {
-      "metric": "wealth_client_assets",
-      "status": "Not publicly disclosed",
-      "where_checked": "AR 2025 Personal Banking and Private Banking sections (S6 pp.63-68); 1H 2026 investor and earnings presentations (S7, S8); factsheet (S21)"
-    },
-    {
-      "metric": "investing_users",
-      "status": "Not publicly disclosed",
-      "where_checked": "AR 2025 BSF Capital and digital sections (S6 pp.74-79, 148-154); 1H 2026 presentations (S7, S8); Q2 2026 call (S9)"
-    },
-    {
-      "metric": "private_banking_clients",
-      "status": "Not publicly disclosed",
-      "where_checked": "AR 2025 (S6 pp.63-68); Private Banking page (S13)"
-    },
-    {
-      "metric": "q3_2026_results",
-      "status": "Not found after research",
-      "where_checked": "BSF Quarterly Results page checked 12 Oct 2026 (S27): latest documents are 2Q 2026"
-    }
-  ],
-  "people": [
-    {
-      "name": "Mazin Abdulrazzak AlRomaih",
-      "name_ar": null,
-      "title": "Chairman of the Board of Directors",
-      "functions": [
-        "Chair"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Board of Directors",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Appointment date as Chairman not stated on the pages read.",
-      "previous_roles": "Current: CEO, Future Generation Investment Company; Chair of the Board, Saudi Tadawul Group; Chair of the Board, King Faisal Specialist Hospital & Research Center; board member, Real Estate Development Fund and NEOM (official bio). Previous: Member of the Board, Capital Market Authority (2009–2014); CEO, Samba Capital & Investment Management (2007–2009); GM Corporate Finance, CMA (2004–2007); Director of M&A, Samba Financial Group (2003–2004); Gulf International Bank (2002–2003); Merrill Lynch International (1998–2002); Ernst & Young (1993–1998). Former Chairman of Saudi Fransi Capital.",
-      "education": "Bachelor of Accounting and Financial Management, University of Buckingham (1992)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2); signs H1 2026 FS as Chairman (S4); AR 2025 board report (S6 PDF p.218); no departure news found",
-      "source_ids": [
-        "S2",
-        "S4",
-        "S6"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Talal Ibrahim Al Maiman",
-      "name_ar": null,
-      "title": "Vice Chairman of the Board; Chairman, Board Strategy & ESG Committee",
-      "functions": [
-        "Board"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Board of Directors",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "CEO and board member, Kingdom Holding Company (AR 2025); CEO and Chairman, Kingdom Real Estate Development (2009–2024); Executive Director for Development & Domestic Investments, Kingdom Holding (1996–2016); Saudi Central Bank (1986–1996).",
-      "education": "MBA, University of Liverpool (2009); BSc Electrical Engineering, University of Evansville (1979)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official board page checked 2026-10-12 (S2); 1H 2026 investor presentation names him Chairman of the Board Strategy & ESG Committee (S7 slide 21). Kingdom Holding owns 16.2% of BSF.",
-      "source_ids": [
-        "S2",
-        "S6",
-        "S7"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Bader Hamad AlSalloom",
-      "name_ar": null,
-      "title": "Chief Executive Officer",
-      "functions": [
-        "CEO"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Executive Management",
-      "scope": "Group",
-      "appointed": "2022-09",
-      "appointed_note": "Official bio: 'CEO of BSF since September 2022'.",
-      "previous_roles": "2021–2022 Head of Wholesale Banking Group, BSF (joined April 2021); 2019–2021 Deputy General Manager, Corporate Banking, Saudi Investment Bank; 2004–2019 SABB, Corporate Banking and Global Markets, last role Deputy General Manager of Commercial Banking. Also Vice Chairman of BSF Capital and Vice Chairman of Allianz Saudi Fransi (official bio); director of Sur Multi Family Office Limited (UK) since 1 Feb 2023 (Companies House).",
-      "education": "BSc Finance, King Fahd University of Petroleum and Minerals",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
-      "role_status": "Verified current",
-      "role_evidence": "Official management page and bio checked 2026-10-12 (S1, S3); quoted as CEO in H1 2026 release (S10) and on the 27 Jul 2026 call (S9); signs H1 2026 FS (S4); no departure news found",
-      "source_ids": [
-        "S1",
-        "S3",
-        "S4",
-        "S9",
-        "S10",
-        "S23"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Ramzy Darwish",
-      "name_ar": null,
-      "title": "Chief Strategy and Finance Officer",
-      "functions": [
-        "Finance",
-        "Strategy"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Executive Management",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Head, Treasury Group, Saudi National Bank (AR 2025). 20 years in banking.",
-      "education": "Bachelor of Science in Industrial and Labor Relations (2005)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official management page checked 2026-10-12 (S1); signs H1 2026 FS as CFO (S4); on Q2 2026 call (S9); quoted in Strategy 2030 release (S12)",
-      "source_ids": [
-        "S1",
-        "S4",
-        "S6",
-        "S9",
-        "S12"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Mohammed Abdulrahman Alsheikh",
-      "name_ar": null,
-      "title": "Chief Personal Banking Officer",
-      "functions": [
-        "Retail",
-        "Affluent",
-        "Private banking"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Personal Banking Group (Retail Banking Group and Private Banking)",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Head of Branch Network for Retail Banking, Al Rajhi Bank (AR 2025). 20 years in Islamic and retail banking.",
-      "education": "Bachelor of Industrial Engineering, King Saud University (2005)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
-      "role_status": "Verified current",
-      "role_evidence": "Official management page checked 2026-10-12 (S1); quoted as Chief Personal Banking Officer in the Diriyah MoU release of 29 Sep 2026 (S19); AR 2025 (S6). Personal Banking Group covers Retail Banking (mass and affluent) and Private Banking (S6 PDF p.63).",
-      "source_ids": [
-        "S1",
-        "S6",
-        "S19"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Zuhair M. Mardam",
-      "name_ar": null,
-      "title": "Chief Treasury and Investment Officer",
-      "functions": [
-        "Treasury",
-        "Investments / asset management"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Treasury and Investment Group",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Head of Global Markets, BSF (AR 2025). 21 years in treasury.",
-      "education": "Bachelor of Finance, Prince Sultan University (2004)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official management page checked 2026-10-12 (S1); on Q2 2026 call (S9)",
-      "source_ids": [
-        "S1",
-        "S6",
-        "S9"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Majed Alsadhan",
-      "name_ar": null,
-      "title": "Chief Wholesale Banking Officer",
-      "functions": [
-        "Corporate / wholesale"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Wholesale Banking Group",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Head of Corporate Banking, BSF (AR 2025). 21 years in banking.",
-      "education": "Bachelor of Accounting, King Faisal University (2004); Master of Accounting and Finance, University of Southampton (2007)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Official management page checked 2026-10-12 (S1); AR 2025 (S6)",
-      "source_ids": [
-        "S1",
-        "S6"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Majed A. Alghanemi",
-      "name_ar": null,
-      "title": "Chief Transformation Officer",
-      "functions": [
-        "Strategy",
-        "Digital"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Executive Management",
-      "scope": "Group",
-      "appointed": "2025-03-12",
-      "appointed_note": "AR 2025: appointed 12 March 2025.",
-      "previous_roles": "Vice Minister of Social Development, Ministry of Human Resources and Social Development; Chief Operating Officer, SAB (AR 2025). 25+ years across banking, government, telecom, defense and healthcare.",
-      "education": "MSc Computer Science, King Saud University (2000); MBA, King Saud University (2004)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Listed in AR 2025 executive team (S6 PDF pp.175, 228). Not listed on the official Management Team page checked 2026-10-12 (S1). The 1H 2026 investor presentation governance chart still shows a 'Chief Transformation Officer' role but no name (S7 slide 21). No departure news found (one search).",
-      "source_ids": [
-        "S6",
-        "S1",
-        "S7"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Abdullah Alwabel",
-      "name_ar": null,
-      "title": "Head of Retail Digital Banking (also described as Head of Digital Banking and Innovation)",
-      "functions": [
-        "Digital",
-        "Retail"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Personal Banking Group / Digital",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
-      "education": null,
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Named with this title on a Backbase podcast page dated 29 Jul 2025 (S25). Not on the official executive page (not an executive-committee role). No 2026 confirmation found.",
-      "source_ids": [
-        "S25"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Mohammed Almisfer",
-      "name_ar": null,
-      "title": "Chief Business Technology and Digital Officer (former)",
-      "functions": [
-        "Technology",
-        "Digital"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Executive Management",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "General Director of Business Technology, Saudi Central Bank (AR 2025).",
-      "education": "BSc, King Saud University (1995); MSc, Florida Atlantic University (1999)",
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Departed",
-      "role_evidence": "AR 2025: resigned 13 May 2025 (S6 PDF p.228). No named successor found on the official page (S1) or in news.",
-      "source_ids": [
-        "S6",
-        "S1"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Yasminah Abbas",
-      "name_ar": null,
-      "title": "Head of Group Commercial Delivery and Investor Relations",
-      "functions": [
-        "Strategy",
-        "Other"
-      ],
-      "entity": "Banque Saudi Fransi",
-      "business_unit": "Group Commercial Delivery / Investor Relations",
-      "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": null,
-      "education": null,
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Verified current",
-      "role_evidence": "Introduced with this title on the Q2 2026 earnings call, 27 Jul 2026 (S9); listed in 'Meet the IR team' on the BSF IR page (S27)",
-      "source_ids": [
-        "S9",
-        "S27"
-      ],
-      "checked": "2026-10-12"
-    },
-    {
-      "name": "Khalid (Khaled) bin Waleed Al Braikan",
-      "name_ar": null,
-      "title": "Chief Executive Officer, BSF Capital",
-      "functions": [
-        "Subsidiary CEO",
-        "Investments / asset management",
-        "Wealth"
-      ],
-      "entity": "Saudi Fransi Capital (BSF Capital)",
-      "business_unit": "BSF Capital",
-      "scope": "Subsidiary: BSF Capital",
-      "appointed": "2026",
-      "appointed_note": "IFN Investor headline 'BSF Capital appoints new CEO' dated 3 Apr 2026; name seen in search results only. Predecessor Salam Al-Khunaizi (CEO in Feb 2025, S24). See sa-bsf-capital.",
-      "previous_roles": "Per IFN snippet (search result only): Head of Asset Management at NCB Capital; earlier roles at HSBC Saudi Arabia and Samba Capital.",
-      "education": null,
-      "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "IFN Investor, 3 Apr 2026 (S26, name from search snippet); BSF Capital website blocked (Permission Denied) so not confirmed officially. Full record in sa-bsf-capital.",
-      "source_ids": [
-        "S26",
-        "S24"
-      ],
-      "checked": "2026-10-12"
-    }
-  ],
-  "capabilities": {
-    "wealth_summary": "BSF serves wealth clients through its Personal Banking Group (Retail Banking for mass and affluent clients, plus Private Banking) and through its 100% investment arm Saudi Fransi Capital (BSF Capital), which held SAR 34.8bn AUM at 30 Jun 2026. Published affluent tiers are Advance, Privilege, Elite and Elite Plus (Elite Plus: SAR 3m initial deposit or SAR 1.5m six-month average); affluent customers grew 10% in 2025 within 1.36m personal banking customers. Private Banking (centres in Riyadh, Jeddah and Alkhobar) relaunched its strategy in early 2025 and aims to be 'the Kingdom's leading private bank' from 2026; the bank also owns Sur Multi Family Office Limited (UK, incorporated Feb 2023) for HNW families. Investment products (funds, discretionary portfolios, brokerage, advisory) are provided by BSF Capital, which expanded its BlackRock partnership in Feb 2025 for globally diversified, Shariah-compliant multi-asset portfolios and planned a mobile 'BSF Invest App' for early 2026. Strategy 2030 (16 Feb 2026) names 'Accelerate Wealth Management in BSFC', 'Upgrade brokerage ecosystem' and 'Differentiation in Affluent' as priorities, while the bank app offers only IPO subscription for investing.",
-    "segments": [
-      {
-        "name": "Advance Banking",
-        "tier": "Mass affluent",
-        "eligibility": "Salary transfer SAR 10,000; or initial deposit SAR 100,000 (new customer) / 6-month average balance SAR 50,000 (existing) (as published)",
-        "source_ids": [
-          "S17"
-        ]
-      },
-      {
-        "name": "Privilege Banking",
-        "tier": "Affluent",
-        "eligibility": "Salary transfer SAR 20,000; or initial deposit SAR 350,000 (new) / 6-month average balance SAR 100,000 (existing) (as published)",
-        "source_ids": [
-          "S15",
-          "S17"
-        ]
-      },
-      {
-        "name": "Elite Banking",
-        "tier": "Affluent / upper affluent",
-        "eligibility": "Salary transfer SAR 40,000; or initial deposit SAR 1,000,000 (new) / 6-month average balance SAR 500,000 (existing) (as published). Dedicated centres and personal RM.",
-        "source_ids": [
-          "S14",
-          "S17"
-        ]
-      },
-      {
-        "name": "Elite Plus",
-        "tier": "Upper affluent / HNW entry",
-        "eligibility": "Current account initial deposit SAR 3,000,000 (new) / 6-month average balance SAR 1,500,000 (existing) (as published). Benefits include 'local and global investment opportunities', Lombard lending and structured deposits.",
-        "source_ids": [
-          "S16"
-        ]
-      },
-      {
-        "name": "BSF Private Banking",
-        "tier": "Private / HNW",
-        "eligibility": "Not published ('ultimate high net worth individuals'). Dedicated RM; private banking centres in Riyadh, Jeddah and Alkhobar.",
-        "source_ids": [
-          "S13"
-        ]
-      }
-    ],
-    "private_banking": {
-      "present": "Yes",
-      "detail": "Private Banking (within the Personal Banking Group) serves HNW clients with dedicated RMs and centres in Riyadh, Jeddah and Alkhobar. Offer per official page: conventional and Islamic banking, term and structured deposits, derivatives/FX/commodities, Lombard-style advances, personal and home finance, offshore tax and estate planning, Shariah-compliant investments and investment solutions through BSF Capital. New PB strategy launched early 2025 with four pillars (products and service excellence incl. project-based financing for HNW project investors and a family programme with netting; client personas; sales acceleration; enablers incl. digital/AI investment tools). Targets leadership in Saudi private banking from 2026. 29 Sep 2026: one-year MoU with Diriyah Company for PB clients (investment packages with luxury real estate, Shariah financing). UK subsidiary Sur Multi Family Office Limited provides wealth management services to BSF's HNW clients and families (BSF loan to it SAR 46m at end-2025). Q2 2026 call: retail personal loan growth included Lombard loans.",
-      "source_ids": [
-        "S13",
-        "S6",
-        "S19",
-        "S4",
-        "S23",
-        "S9"
-      ]
-    },
-    "asset_management": {
-      "present": "Yes",
-      "detail": "Through BSF Capital (100%): AUM SAR 34.8bn at 30 Jun 2026 (31.0bn at 31 Dec 2025). Mutual funds (conventional and Shariah-compliant, KSA and international), discretionary portfolios, private placements and public funds. FY2025 FS: funds managed had NAV SAR 30,971m, including Islamic funds of SAR 3,303m. 2025: eight real estate funds initiated (expected development value above SAR 5bn), a Rixos resort fund, a film fund and an industrial city fund. See sa-bsf-capital.",
-      "source_ids": [
-        "S7",
-        "S5",
-        "S13",
-        "S6"
-      ]
-    },
-    "brokerage": {
-      "present": "Yes",
-      "detail": "Through BSF Capital: local and international share brokerage, custody and margin lending (segment description and PB page). Brokerage trading value SAR 17.8bn in 2Q 2026 and 13.9bn in 1Q 2026. H1 2026 brokerage and asset management fees fell 17% YoY. Strategy 2030 includes 'Upgrade brokerage ecosystem'/'brokerage system upgrade' at BSF Capital. On the Q4 2025 call management said it would 'push for more of our fair share of brokerage and asset management fees'.",
-      "source_ids": [
-        "S4",
-        "S7",
-        "S8",
-        "S9",
-        "S13",
-        "S22"
-      ]
-    },
-    "digital_investing": {
-      "present": "Yes",
-      "detail": "Limited in the bank app: the BSF Mobile services list includes IPO subscription and transfers to brokerage companies, but no funds, equities or portfolios. Trading runs on BSF Capital's own channels. BSF Capital planned a 'BSF Invest App' (mobile-first, globally diversified portfolios, later BSF Capital mutual and private funds) for early 2026 (AR 2025); launch not confirmed in sources read. Bank digital KPIs: active digital user rate 72% of registered users and 90% of transactions on mobile (2025); digital penetration of clients 65-70% in 1H 2026 vs 100% target for 2030.",
-      "source_ids": [
-        "S18",
-        "S6",
-        "S7"
-      ]
-    },
-    "advisory": {
-      "present": "Yes",
-      "detail": "Investment advisory provided by BSF Capital for Private Banking clients (PB page). In 2025 BSF Capital moved from a product-driven to an advisory-led wealth model and built a specialist internal investment solutions team; Elite and Privilege clients have RMs; the AR reports 'enhanced advisory services for affluent clients'.",
-      "source_ids": [
-        "S13",
-        "S6"
-      ]
-    },
-    "discretionary": {
-      "present": "Yes",
-      "detail": "'Discretionary portfolio management' listed under BSF Capital asset management on the Private Banking page. No discretionary AUM split disclosed.",
-      "source_ids": [
-        "S13"
-      ]
-    },
-    "model_portfolios_robo": {
-      "present": "Unclear",
-      "detail": "AR 2025: through the BlackRock alliance 'clients now have access to investment portfolios which are globally diversified and sharia compliant' (advisory-led), and the planned BSF Invest App will offer diversified investment portfolios. No evidence found that a self-directed robo/model-portfolio app is live as of Oct 2026.",
-      "source_ids": [
-        "S6",
-        "S24"
-      ]
-    },
-    "funds_platform": {
-      "present": "Yes",
-      "detail": "BSF Capital funds plus third-party funds: the PB page says the relationship with BlackRock, Nomura and Ashmore brings their funds and private placements to Saudi investors. No fund-platform technology provider named.",
-      "source_ids": [
-        "S13",
-        "S24"
-      ]
-    },
-    "structured_products": {
-      "present": "Yes",
-      "detail": "Structured deposits for Private Banking and Elite Plus; derivatives, FX and commodities products for PB clients. A revised Derivatives Sales Policy for Corporate and PB clients was adopted (AR 2025). Issuers not named.",
-      "source_ids": [
-        "S13",
-        "S16",
-        "S6"
-      ]
-    },
-    "private_markets": {
-      "present": "Yes",
-      "detail": "BSF Capital private placements and real estate/hospitality/film/industrial funds launched in 2025; PB page mentions 'other private placement opportunities'. PB-Diriyah MoU (Sep 2026) for real estate investment packages.",
-      "source_ids": [
-        "S6",
-        "S13",
-        "S19"
-      ]
-    },
-    "islamic_wealth": {
-      "present": "Yes",
-      "detail": "Conventional bank with Islamic products under an independent Shariah Board. Shariah-compliant investments for PB; Islamic mutual funds of SAR 3,303m (end-2025); BlackRock portfolios described as Shariah compliant; Shariah-based deposits SAR 66.9bn and Shariah-based loans SAR 165.7bn at 30 Jun 2026.",
-      "source_ids": [
-        "S13",
-        "S5",
-        "S6",
-        "S4"
-      ]
-    },
-    "asset_classes": [
-      "Local equities",
-      "US/international equities",
-      "Mutual funds",
-      "Bonds",
-      "Sukuk",
-      "Structured products",
-      "Private markets / alternatives",
-      "Real estate funds"
-    ],
-    "partners": [
-      {
-        "partner": "BlackRock",
-        "kind": "Global asset manager / product partner",
-        "what": "Expanded partnership with BSF Capital to offer multi-asset investment strategies with global exposure; AR 2025 says clients now access globally diversified, Shariah-compliant portfolios. Relationship dates back to a 2013 agreement (search lead only).",
-        "date": "2025-02-04",
-        "status": "Live",
-        "source_ids": [
-          "S24",
-          "S6"
-        ]
-      },
-      {
-        "partner": "Nomura",
-        "kind": "Fund provider",
-        "what": "Named on the Private Banking page as a relationship bringing funds and private placements to Saudi investors",
-        "date": null,
-        "status": "Unclear",
-        "source_ids": [
-          "S13"
-        ]
-      },
-      {
-        "partner": "Ashmore",
-        "kind": "Fund provider",
-        "what": "Named on the Private Banking page as a relationship bringing funds to Saudi investors",
-        "date": null,
-        "status": "Unclear",
-        "source_ids": [
-          "S13"
-        ]
-      },
-      {
-        "partner": "Diriyah Company",
-        "kind": "Real estate / lifestyle partner",
-        "what": "One-year MoU: investment packages, Shariah financing, events for Private Banking clients",
-        "date": "2026-09-29",
-        "status": "MoU / pilot",
-        "source_ids": [
-          "S19"
-        ]
-      },
-      {
-        "partner": "Finastra (Kondor)",
-        "kind": "Technology (treasury platform)",
-        "what": "Treasury and trading operations automated with Finastra Kondor (AR 2025). Not a wealth platform.",
-        "date": "2025",
-        "status": "Live",
-        "source_ids": [
-          "S6"
-        ]
-      },
-      {
-        "partner": "BSF Capital (in-house subsidiary)",
-        "kind": "Product / investment arm",
-        "what": "Supplies funds, discretionary portfolios, advisory, brokerage and custody to bank clients",
-        "date": null,
-        "status": "Live",
-        "source_ids": [
-          "S4",
-          "S13"
-        ]
-      }
-    ],
-    "initiatives": [
-      {
-        "date": "2023-02-01",
-        "what": "Incorporated Sur Multi Family Office Limited (UK; SIC 66300 fund management) to provide wealth management services to BSF's HNW clients and their families",
-        "source_ids": [
-          "S23",
-          "S4"
-        ]
-      },
-      {
-        "date": "2024-06-04",
-        "what": "Rebranded from Banque Saudi Fransi to 'BSF'; identity extended to BSF Capital",
-        "source_ids": [
-          "S20"
-        ]
-      },
-      {
-        "date": "2025-02-04",
-        "what": "BSF Capital expanded its partnership with BlackRock for global multi-asset strategies",
-        "source_ids": [
-          "S24"
-        ]
-      },
-      {
-        "date": "2025",
-        "what": "New Private Banking strategy launched in early 2025 (proactive sales model, client personas, family banking, project-based financing for HNW investors)",
-        "source_ids": [
-          "S6"
-        ]
-      },
-      {
-        "date": "2025",
-        "what": "BSF Capital started implementing a digital wealth platform; first output to be the 'BSF Invest App', scheduled for early 2026",
-        "source_ids": [
-          "S6"
-        ]
-      },
-      {
-        "date": "2025",
-        "what": "Omni digital platform rebranded and enhanced; 100% of mandated Open Banking APIs certified; GenAI exploration track launched",
-        "source_ids": [
-          "S6"
-        ]
-      },
-      {
-        "date": "2026-02-16",
-        "what": "Strategy 2030 announced: ROE >15%, net income market share 8-10%, >75% STP, 50+ AI use cases; priorities include 'Accelerate Wealth Management in BSFC', 'Upgrade brokerage ecosystem', 'Differentiation in Affluent' and Private Banking product expansion",
-        "source_ids": [
-          "S12",
-          "S7"
-        ]
-      },
-      {
-        "date": "2026-07-27",
-        "what": "Q2 2026 call: BSF Capital strategy 'refreshed around institutional and private banking'; affluent 'launched new propositions and channels'; Private Banking 'started to broaden its proposition'",
-        "source_ids": [
-          "S9"
-        ]
-      },
-      {
-        "date": "2026-09-29",
-        "what": "MoU with Diriyah Company for Private Banking clients",
-        "source_ids": [
-          "S19"
-        ]
-      }
-    ],
-    "evidence_for_arta": {
-      "opportunities": [
-        "Strategy 2030 lists 'Accelerate Wealth Management in BSFC' and 'Upgrade brokerage ecosystem' among its priorities, and expects BSF Capital, Retail and Treasury to drive >50% of net income growth to 2030 (S7 slides 16-18)",
-        "BSF Capital profit is falling: H1 2026 segment net income before zakat SAR 132m, -27% YoY; brokerage and asset management fees -17% YoY (S7 slide 57, S9)",
-        "The bank app offers only IPO subscription for investing; no funds, portfolios or international investing found in BSF Mobile (S18)",
-        "Private Banking plans to use AI to 'deliver value-added features such as sophisticated investment tools and analytics' and to unify its digital platform with RBG (S6 PDF pp.67-68)",
-        "Elite Plus advertises 'local and global investment opportunities' to clients holding SAR 1.5m+ (S16); affluent customers grew 10% in 2025 (S6 PDF p.63)",
-        "Digital penetration target of 100% of clients by 2030, from 65-70% in 1H 2026 (S7 slide 19)"
-      ],
-      "barriers": [
-        "BlackRock is the incumbent global partner for globally diversified Shariah-compliant portfolios and multi-asset strategies (S6 PDF p.74, S24)",
-        "BSF Capital is building its own digital wealth platform and 'BSF Invest App' (S6 PDF p.77); vendor not named",
-        "Investment licences sit with BSF Capital (CMA), so product contracts would likely be with the subsidiary (S6 PDF p.74)",
-        "The bank says 90% of digital design leadership is in-house, 'reducing vendor dependence' (S6 PDF p.151)",
-        "Products for Islamic-preferring clients must pass the bank's Shariah Board (S4 note 1)"
-      ],
-      "incumbent_vendors": [
-        "BlackRock (multi-asset strategies and portfolios; S6, S24)",
-        "Nomura and Ashmore (funds; S13)",
-        "Finastra Kondor (treasury platform; S6)"
-      ]
-    }
+ "id": "sa-bsf",
+ "name": "Banque Saudi Fransi",
+ "short_name": "BSF",
+ "legal_name": "Banque Saudi Fransi (a Saudi Joint Stock Company)",
+ "name_ar": "البنك السعودي الفرنسي",
+ "country": "SA",
+ "hq_city": "Riyadh",
+ "website": "https://bsf.sa",
+ "linkedin_company": "https://www.linkedin.com/company/bsf_sa/",
+ "category": "Bank",
+ "type": "Universal / commercial bank",
+ "model": "Conventional with Islamic window/subsidiary",
+ "founded": "1977 (Royal Decree M/23 dated 4 Jun 1977; began operations 11 Dec 1977 by taking over the Saudi branches of Banque de l'Indochine et de Suez). CR 1010073368. Rebranded 'BSF' on 4 Jun 2024.",
+ "regulators": [
+  "SAMA",
+  "CMA"
+ ],
+ "listed": true,
+ "exchange": "Tadawul",
+ "ticker": "1050",
+ "parent_id": null,
+ "ownership_summary": "Listed on the Saudi Exchange; share capital SAR 25bn (2,500m shares). Substantial shareholders at 31 Dec 2025: Kingdom Holding Company 16.199% and Rashed Abdul Rahman Al Rashed & Sons Co. 9.999% (unchanged during 2025). Foreign ownership 15.9% (1H 2026 presentation). Crédit Agricole (former 31.1% holder via CA-CIB) fully divested by 2019.",
+ "shareholders": [
+  {
+   "holder": "Kingdom Holding Company",
+   "pct": 16.199,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S6"
+   ]
   },
-  "sources": [
-    {
-      "id": "S1",
-      "title": "Management Team",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/the-bank/managament-team",
-      "doc_type": "Official leadership page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S2",
-      "title": "Board of Directors (listing and individual member bio pages)",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/the-bank/boardofdirectors",
-      "doc_type": "Official leadership page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S3",
-      "title": "Bader Alsalloom, Chief Executive Officer (bio page)",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/the-bank/managament-team/bader-alsalloom",
-      "doc_type": "Official biography",
-      "tier": 4,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S4",
-      "title": "Condensed Interim Consolidated Financial Statements for the six month period ended June 30, 2026",
-      "publisher": "Banque Saudi Fransi",
-      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF%20Financial%20Q2%202026%20-%20English.pdf",
-      "doc_type": "Reviewed interim financial statements",
-      "tier": 1,
-      "published": "2026-07",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S5",
-      "title": "Consolidated Financial Statements for the year ended December 31, 2025",
-      "publisher": "Banque Saudi Fransi",
-      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/Financial_Statments_Q4_2025.pdf",
-      "doc_type": "Audited financial statements (joint auditors EY and Deloitte per AR 2025)",
-      "tier": 1,
-      "published": "2026-01",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S6",
-      "title": "Integrated Annual Report 2025",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/ContentFiles/integrated_annual_report/2025/services/pdf/BSFIR25-English.pdf",
-      "doc_type": "Annual report (incl. Board of Directors' report)",
-      "tier": 1,
-      "published": "2026",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S7",
-      "title": "BSF Investor Presentation 1H 2026",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF%20InvestorPresentation%20Q2%202026.pdf",
-      "doc_type": "Investor presentation",
-      "tier": 2,
-      "published": "2026-07",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S8",
-      "title": "BSF Earnings Presentation 2Q 2026 (27/07/2026)",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF%20EarningsPresentation%20Q2%202026.pdf",
-      "doc_type": "Investor presentation",
-      "tier": 2,
-      "published": "2026-07-27",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S9",
-      "title": "BSF Earnings Call Q2 2026 transcript (July 27, 2026)",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/TRANSCRIPT%20BSF%20Q2%202026%20Earnings%20Call%20(1).pdf",
-      "doc_type": "Earnings call transcript",
-      "tier": 2,
-      "published": "2026-07-27",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S10",
-      "title": "H1 2026 results press release (20 July 2026)",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/news/q2-press-release",
-      "doc_type": "Press release",
-      "tier": 2,
-      "published": "2026-07-20",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S11",
-      "title": "BSF Reports record earnings of 5,353 Million SAR Net Profit in 2025",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/news/net-profit-in-2025",
-      "doc_type": "Press release",
-      "tier": 2,
-      "published": "2026-01-26",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S12",
-      "title": "BSF announces its 2030 Strategy, targeting >15% ROE",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/news/bsf-strategy-2030",
-      "doc_type": "Press release",
-      "tier": 2,
-      "published": "2026-02-16",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S13",
-      "title": "Private Banking",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/private-banking",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S14",
-      "title": "Elite Banking",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/personal/banking-programs/elite-program",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S15",
-      "title": "Privilege Banking",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/personal/banking-programs/privilege-program",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S16",
-      "title": "Elite Plus",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/personal/banking-packages/elite-plus",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S17",
-      "title": "Premium banking programs for KSA residents (Elite, Privilege, Advance criteria table)",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/personal/banking-packages/premium-banking-programs-for-ksa-residents",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S18",
-      "title": "BSF Mobile",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/banking-with-us/bsf-mobile",
-      "doc_type": "Official product page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S19",
-      "title": "BSF and Diriyah Company Sign MoU to Enhance Investment Opportunities and Develop Financial and Banking Solutions",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/news/diriyah",
-      "doc_type": "Press release",
-      "tier": 2,
-      "published": "2026-09-29",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S20",
-      "title": "Banque Saudi Fransi unveils it's new identity to BSF",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/news/rebrand-press-release",
-      "doc_type": "Press release",
-      "tier": 2,
-      "published": "2024-06-04",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S21",
-      "title": "BSF Factsheet 1H 2026",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSFFactsheet%20Q2%202026.pdf",
-      "doc_type": "Investor factsheet",
-      "tier": 2,
-      "published": "2026-07",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S22",
-      "title": "BSF Q4 2025 Earnings Call transcript (2 February 2026)",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF_Q4_2025_Earning_Call_Transcript.pdf",
-      "doc_type": "Earnings call transcript",
-      "tier": 2,
-      "published": "2026-02-02",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S23",
-      "title": "SUR MULTI FAMILY OFFICE LIMITED (14631840): overview and officers",
-      "publisher": "UK Companies House",
-      "url": "https://find-and-update.company-information.service.gov.uk/company/14631840/officers",
-      "doc_type": "Company register (UK)",
-      "tier": 3,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S24",
-      "title": "BSF Capital partners with BlackRock to deliver innovative investment solutions in Saudi Arabia",
-      "publisher": "Arab News",
-      "url": "https://www.arabnews.com/node/2588926/corporate-news",
-      "doc_type": "News (labelled sponsored content)",
-      "tier": 5,
-      "published": "2025-02-04",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S25",
-      "title": "Banking Reinvented episode 59: Vision 2030, BSF on leading change in Saudi banking",
-      "publisher": "Backbase",
-      "url": "https://www.backbase.com/insights/banking-reinvented-episode-59-vision-2030-bsf-on-leading-change-in-saudi-banking",
-      "doc_type": "Vendor podcast page",
-      "tier": 5,
-      "published": "2025-07-29",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S26",
-      "title": "BSF Capital appoints new CEO",
-      "publisher": "IFN Investor",
-      "url": "https://ifninvestor.com/bsf-capital-appoints-new-ceo",
-      "doc_type": "News (paywalled)",
-      "tier": 5,
-      "published": "2026-04-03",
-      "accessed": "2026-10-12",
-      "language": "en"
-    },
-    {
-      "id": "S27",
-      "title": "Investor Relations / Quarterly Results listing",
-      "publisher": "BSF",
-      "url": "https://bsf.sa/english/top-menu/investorrelation/quarterly-results",
-      "doc_type": "Official IR page",
-      "tier": 2,
-      "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
-    }
+  {
+   "holder": "Rashed Abdul Rahman Al Rashed & Sons Co.",
+   "pct": 9.999,
+   "as_of": "2025-12-31",
+   "source_ids": [
+    "S6"
+   ]
+  }
+ ],
+ "government_link": "No government entity among substantial (5%+) shareholders at 31 Dec 2025 (AR 2025). One director (Abdulmajid Al Hagbani) is a senior director at the Public Investment Fund per his official bio; the bio does not say he represents PIF.",
+ "group_structure": "Parent bank with 100% subsidiaries: Saudi Fransi Capital (BSF Capital: brokerage, asset management, corporate finance; profiled separately as sa-bsf-capital), Saudi Fransi for Finance Leasing (JB: Islamic auto leasing and personal finance), Sakan Real Estate Financing, Sur Multi Family Office Limited (UK; wealth management for HNW clients), BSF Markets Limited and BSF Finance Limited (Cayman), plus Saudi Fransi Insurance Agency, Sofinco Saudi Fransi and Saudi Fransi Digital Ventures (all under liquidation). Associate: Banque BEMO Saudi Fransi (Syria). Double counting: BSF Capital is consolidated; its AUM and the 'Investment banking and brokerage' segment appear in both sa-bsf and sa-bsf-capital. Never add them.",
+ "subsidiaries": [
+  {
+   "name": "Saudi Fransi Capital (BSF Capital)",
+   "pct": 100.0,
+   "activity": "Brokerage, asset management and corporate finance (CMA-licensed)",
+   "linked_id": "sa-bsf-capital",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Saudi Fransi for Finance Leasing (JB)",
+   "pct": 100.0,
+   "activity": "Islamic lease financing for vehicles and personal financing",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Sur Multi Family Office Limited",
+   "pct": 100.0,
+   "activity": "Wealth management services to BSF's high net worth clients and their families (UK-registered, inc. 1 Feb 2023)",
+   "linked_id": null,
+   "source_ids": [
+    "S4",
+    "S23"
+   ]
+  },
+  {
+   "name": "Sakan Real Estate Financing",
+   "pct": 100.0,
+   "activity": "Holds title deeds on behalf of the bank",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "BSF Markets Limited",
+   "pct": 100.0,
+   "activity": "Derivative trading and repo (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "BSF Finance Limited",
+   "pct": 100.0,
+   "activity": "SPV for debt issuance (Cayman Islands)",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "name": "Saudi Fransi Insurance Agency; Sofinco Saudi Fransi; Saudi Fransi Digital Ventures",
+   "pct": 100.0,
+   "activity": "Under liquidation",
+   "linked_id": null,
+   "source_ids": [
+    "S4"
+   ]
+  }
+ ],
+ "footprint": "Saudi Arabia: 78 branches, 353 ATMs and 33,787 POS terminals at 30 Jun 2026; private banking centres in Riyadh, Jeddah and Alkhobar. Abroad: Sur Multi Family Office Limited (London, UK) and Cayman SPVs; associate in Syria.",
+ "customer_segments": "Corporate and institutional (about 79% of the loan book), SME/business banking, retail mass market, affluent (Advance, Privilege, Elite, Elite Plus), private banking (HNW), resident expatriates (premium programmes for residents), consumer finance via JB.",
+ "business_lines": "Corporate banking (45% of H1 2026 operating income), Retail banking (incl. private banking), Treasury (17%), Investment banking and brokerage via BSF Capital (5%). H1 2026 segment operating income (SAR '000): retail 1,799,482; corporate 2,486,763; treasury 972,174; investment banking and brokerage 298,701.",
+ "metrics": [
+  {
+   "metric": "total_assets",
+   "value": 327983331,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, condensed interim consolidated statement of financial position (unaudited, reviewed)",
+   "status": "Verified",
+   "locator": "S4 p.1 (PDF p.3)",
+   "note": "Press release S10 gives SAR 327,983 million, consistent.",
+   "source_ids": [
+    "S4",
+    "S10"
+   ]
+  },
+  {
+   "metric": "total_assets",
+   "value": 309005786,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total assets, audited consolidated statement of financial position",
+   "status": "Verified",
+   "locator": "S5 p.1 (PDF p.10)",
+   "note": "Extra record (FY2025 year-end).",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 204587870,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customers' deposits: demand 83,006,253; saving 939,327; time 115,733,014; other 4,909,276 (SAR '000). Time deposits include Shariah-based deposits of SAR 66,882 million. Excludes due to Saudi Central Bank (11,397,468), due to banks and other FIs (13,921,948) and debt securities/CDs.",
+   "status": "Verified",
+   "locator": "S4 p.1 and note 12 (PDF p.28)",
+   "note": "",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "metric": "customer_deposits",
+   "value": 195219089,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Customers' deposits, audited consolidated statement of financial position (excludes due to SAMA and banks)",
+   "status": "Verified",
+   "locator": "S5 p.1 (PDF p.10)",
+   "note": "Extra record.",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "metric": "net_loans",
+   "value": 224241367,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Loans and advances, net (held at amortised cost, net of ECL allowance of 3,523,724). Gross loans include Shariah-based loans and advances of SAR 165,667 million.",
+   "status": "Verified",
+   "locator": "S4 p.1 and note 8 (PDF p.20)",
+   "note": "",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "metric": "net_loans",
+   "value": 214891263,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Loans and advances, net, audited consolidated statement of financial position",
+   "status": "Verified",
+   "locator": "S5 p.1 (PDF p.10)",
+   "note": "Extra record.",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "metric": "gross_loans",
+   "value": 227765091,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total loans and advances before impairment allowance (overdraft and commercial 179,935,794; credit cards 954,301; consumer 46,874,996), note 8",
+   "status": "Verified",
+   "locator": "S4 note 8 (PDF p.20)",
+   "note": "",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "metric": "total_equity",
+   "value": 51394285,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity, including Tier I capital (sukuk) of 7,937,500. Equity attributable to the shareholders of the Bank: 43,456,785.",
+   "status": "Verified",
+   "locator": "S4 p.1 (PDF p.3)",
+   "note": "",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "metric": "total_equity",
+   "value": 50659438,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "Total equity, audited consolidated statement of financial position (includes Tier I capital)",
+   "status": "Verified",
+   "locator": "S5 p.1 (PDF p.10)",
+   "note": "Extra record.",
+   "source_ids": [
+    "S5"
+   ]
+  },
+  {
+   "metric": "operating_income",
+   "value": 10536764,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Total operating income, audited consolidated statement of income",
+   "status": "Verified",
+   "locator": "S5 p.2 (PDF p.11)",
+   "note": "Press release S11: SAR 10,537 million, +9% YoY.",
+   "source_ids": [
+    "S5",
+    "S11"
+   ]
+  },
+  {
+   "metric": "operating_income",
+   "value": 5557120,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Total operating income, six months ended 30 Jun 2026",
+   "status": "Verified",
+   "locator": "S4 p.2 (PDF p.4)",
+   "note": "",
+   "source_ids": [
+    "S4",
+    "S10"
+   ]
+  },
+  {
+   "metric": "net_profit",
+   "value": 5353419,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "FY2025",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net income for the year (after zakat). All subsidiaries are 100% owned, so there are no non-controlling interests; figure is before deducting Tier 1 sukuk costs used for EPS.",
+   "status": "Verified",
+   "locator": "S5 p.2 (PDF p.11)",
+   "note": "Press release S11: SAR 5,353 million, +18% YoY.",
+   "source_ids": [
+    "S5",
+    "S11"
+   ]
+  },
+  {
+   "metric": "net_profit",
+   "value": 2867807,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Group consolidated",
+   "definition": "Net income for the period, six months ended 30 Jun 2026 (no non-controlling interests)",
+   "status": "Verified",
+   "locator": "S4 p.2 (PDF p.4)",
+   "note": "Press release S10: SAR 2,868 million.",
+   "source_ids": [
+    "S4",
+    "S10"
+   ]
+  },
+  {
+   "metric": "aum",
+   "value": 34.8,
+   "unit": "billion",
+   "currency": "SAR",
+   "period_end": "2026-06-30",
+   "period_label": "2Q 2026",
+   "period_type": "point_in_time",
+   "scope": "Subsidiary: BSF Capital (Saudi Fransi Capital)",
+   "definition": "Assets under management, Investment Banking and Brokerage segment slide (BSF Capital)",
+   "status": "Verified",
+   "locator": "S7 slide 57",
+   "note": "Labelled 'Assets Under Management' by the bank. 2Q25 32.0, 3Q25 33.5, 4Q25 31.0, 1Q26 36.4, 2Q26 34.8 (SAR bn). Also in sa-bsf-capital; do not add.",
+   "source_ids": [
+    "S7"
+   ]
+  },
+  {
+   "metric": "aum",
+   "value": 31.0,
+   "unit": "billion",
+   "currency": "SAR",
+   "period_end": "2025-12-31",
+   "period_label": "4Q 2025",
+   "period_type": "point_in_time",
+   "scope": "Subsidiary: BSF Capital (Saudi Fransi Capital)",
+   "definition": "Assets under management (bank investor presentation)",
+   "status": "Verified",
+   "locator": "S7 slide 57; S5 note 41 (PDF p.137)",
+   "note": "FS note 41: investment funds managed through the subsidiary had net asset value of SAR 30,971 million (2024: 30,494 million), including Islamic mutual funds of SAR 3,303 million. Consistent.",
+   "source_ids": [
+    "S7",
+    "S5"
+   ]
+  },
+  {
+   "metric": "customers",
+   "value": 1361311,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2025-12-31",
+   "period_label": "31 Dec 2025",
+   "period_type": "point_in_time",
+   "scope": "Bank: Personal Banking Group",
+   "definition": "'Total Number of Personal Banking Customers' (retail incl. private banking). Not stated whether active or registered.",
+   "status": "Verified",
+   "locator": "S6 PDF p.63",
+   "note": "2024: 1,300,016 (+4.7%). Affluent customers (Elite, Elite Plus, Privilege) grew 10% YoY; count not given.",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "metric": "customers",
+   "value": 1.4,
+   "unit": "million",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Group consolidated",
+   "definition": "'serving 1.4 million customers' (factsheet; segment scope not stated)",
+   "status": "Verified",
+   "locator": "S21 p.1",
+   "note": "Rounded.",
+   "source_ids": [
+    "S21"
+   ]
+  },
+  {
+   "metric": "employees",
+   "value": 3171,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Bank",
+   "definition": "People employed by the Bank (FS note 1)",
+   "status": "Verified",
+   "locator": "S4 note 1 (PDF p.8)",
+   "note": "30 Jun 2025: 3,087. FY2025: 3,120.",
+   "source_ids": [
+    "S4"
+   ]
+  },
+  {
+   "metric": "branches",
+   "value": 78,
+   "unit": "unit",
+   "currency": null,
+   "period_end": "2026-06-30",
+   "period_label": "30 Jun 2026",
+   "period_type": "point_in_time",
+   "scope": "Bank",
+   "definition": "Branches in Saudi Arabia (FS note 1)",
+   "status": "Verified",
+   "locator": "S4 note 1 (PDF p.8)",
+   "note": "31 Dec 2025: 79. Factsheet also gives 353 ATMs and 33,787 POS terminals.",
+   "source_ids": [
+    "S4",
+    "S21"
+   ]
+  },
+  {
+   "metric": "investment_brokerage_segment_operating_income",
+   "value": 298701,
+   "unit": "thousand",
+   "currency": "SAR",
+   "period_end": "2026-06-30",
+   "period_label": "H1 2026",
+   "period_type": "duration",
+   "scope": "Segment: Investment banking and brokerage",
+   "definition": "Total operating income of the 'Investment banking and brokerage' operating segment (investment management, asset management, custody, retail investment products, corporate finance, local and international share brokerage, insurance). Segment net income before zakat: 132,366; segment total assets: 3,507,189.",
+   "status": "Verified",
+   "locator": "S4 note 19 (PDF p.35)",
+   "note": "H1 2025: 330,908 (-10%). Segment is close to but not identical to BSF Capital standalone.",
+   "source_ids": [
+    "S4",
+    "S7"
+   ]
+  }
+ ],
+ "disclosure_checks": [
+  {
+   "metric": "wealth_client_assets",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 Personal Banking and Private Banking sections (S6 pp.63-68); 1H 2026 investor and earnings presentations (S7, S8); factsheet (S21)"
+  },
+  {
+   "metric": "investing_users",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 BSF Capital and digital sections (S6 pp.74-79, 148-154); 1H 2026 presentations (S7, S8); Q2 2026 call (S9)"
+  },
+  {
+   "metric": "private_banking_clients",
+   "status": "Not publicly disclosed",
+   "where_checked": "AR 2025 (S6 pp.63-68); Private Banking page (S13)"
+  },
+  {
+   "metric": "q3_2026_results",
+   "status": "Not found after research",
+   "where_checked": "BSF Quarterly Results page checked 12 Oct 2026 (S27): latest documents are 2Q 2026"
+  }
+ ],
+ "people": [
+  {
+   "name": "Mazin Abdulrazzak AlRomaih",
+   "name_ar": null,
+   "title": "Chairman of the Board of Directors",
+   "functions": [
+    "Chair"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2025-01",
+   "appointed_note": "Re-appointed Chairman for the Board term 1 Jan 2025–31 Dec 2027: board decision of 23 Dec 2024, SAMA non-objection received 20 Jan 2025 (Argaam, S28; term stated in AR 2025, S6 p.168). Previously re-appointed Chairman for the 2022–2024 term after the 8 Dec 2021 General Assembly (Argaam headline, S35, search result only). Date first appointed Chairman not found.",
+   "previous_roles": "Current: Founder and CEO, Future Generation Investment Company; Chairman of the Board, Saudi Tadawul Group; Chairman of the Board, King Faisal Specialist Hospital & Research Center; board member, Real Estate Development Fund; board member, NEOM (S29; S6 p.218). Previous: 2009–2014 Member of the Board, Capital Market Authority; 2007–2009 Chief Executive Officer, Samba Capital & Investment Management Company; 2004–2007 General Manager, Corporate Finance Department, Capital Market Authority; 2003–2004 Director, Mergers & Acquisitions Department, Samba Financial Group; 2002–2003 Senior Manager, Gulf International Bank; 1998–2002 Senior Associate, Merrill Lynch International; 1993–1998 Senior Auditor and Consultant, Ernst & Young (S6 p.218). Former board and advisory roles (official bio, no dates, S29): Chairman of the Board, Saudi Fransi Capital; board member, Saudi Arabian Airlines; Vice Chairman, Dr. Sulaiman Al Habib Medical Group; board member, Saudi Tourism Authority; member, Ministry of Transport Advisory Council; Local Content & Government Procurement Authority; board member, HSBC Saudi Arabia Limited, Al Yamamah Steel Company and Alissa Holding Group; former partner, Food Concepts Ltd.",
+   "education": "Bachelor of Accounting and Financial Management, University of Buckingham (1992)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page and bio page checked 2026-10-12 (S2, S29); AR 2025 board biography (S6 p.218) and board-term statement (S6 p.168); Argaam 20 Jan 2025 re-appointment (S28); signs the H1 2026 financial statements as Chairman (S4). Role-based news search 2026-10-12 found no later board change. No personal LinkedIn link on official pages.",
+   "source_ids": [
+    "S2",
+    "S4",
+    "S6",
+    "S28",
+    "S29",
+    "S35"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Talal Ibrahim Al Maiman",
+   "name_ar": null,
+   "title": "Vice Chairman of the Board; Chairman, Board Strategy & ESG Committee",
+   "functions": [
+    "Board"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Board of Directors",
+   "scope": "Group",
+   "appointed": "2025-01",
+   "appointed_note": "Re-appointed Vice Chairman for the Board term 1 Jan 2025–31 Dec 2027 (board decision 23 Dec 2024, SAMA non-objection 20 Jan 2025; Argaam, S28). Also Vice Chairman in the 2022–2024 term (S35, search result only).",
+   "previous_roles": "Current: CEO and Board Member, Kingdom Holding Company; CEO, Fashion Village (S6 p.218); Chairman of the Board, Care Shield Holding Company (S30). Previous: 2009–2024 CEO and Chairman, Kingdom Real Estate Development Company; 1996–2016 Executive Director for Development & Domestic Investments, Kingdom Holding Company; 1986–1996 Director, Computer Department, Saudi Central Bank; 1979–1986 Director of Operations and Maintenance, Ministry of Interior (S6 p.218). Current other roles: Chairman, BSF Board Strategy & ESG Committee; member, Board Executive Committee (S6 pp.221, 225; S7 slide 21). Kingdom Holding owns 16.2% of BSF.",
+   "education": "MBA, University of Liverpool (2009); BSc Electrical Engineering, University of Evansville, Indiana (1979); Executive Management Program, Harvard University (1986); Diploma in Computer Science, Computer Sciences Corporation, Herndon, Virginia (1981)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Board page and bio page checked 2026-10-12 (S2, S30); AR 2025 board biography (S6 p.218); 1H 2026 investor presentation names him Chairman of the Board Strategy & ESG Committee (S7 slide 21); Argaam 20 Jan 2025 re-appointment (S28).",
+   "source_ids": [
+    "S2",
+    "S6",
+    "S7",
+    "S28",
+    "S30"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Bader Hamad AlSalloom",
+   "name_ar": null,
+   "title": "Chief Executive Officer",
+   "functions": [
+    "CEO"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Executive Management",
+   "scope": "Group",
+   "appointed": "2022-09-06",
+   "appointed_note": "Board decision of 5 Sep 2022, effective 6 Sep 2022, per Tadawul statement reported by Argaam (S33); official bio says 'CEO of BSF since September 2022' (S3). Acting CEO from 1 Jun 2022 (board decision 29 May 2022, S34) after MD & CEO Rayan Fayez's resignation effective 31 May 2022.",
+   "previous_roles": "6 Sep 2022– Chief Executive Officer, BSF; 1 Jun–5 Sep 2022 Acting CEO, BSF; Apr 2021–2022 Head of Wholesale Banking Group, BSF; 2019–2021 Deputy General Manager, Corporate Banking, Saudi Investment Bank; 2004–2019 Saudi British Bank (SABB), Corporate Banking and Global Markets, last role Deputy General Manager, Commercial Banking (S3; S33; S34). Current other roles: Vice Chairman, BSF Capital; Vice Chairman, Allianz Saudi Fransi (S3); director, Sur Multi Family Office Limited (UK) since 1 Feb 2023 (Companies House, S23).",
+   "education": "BSc Finance, King Fahd University of Petroleum and Minerals (2004 per AR 2025, S6 p.226)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (English and Arabic) and bio page checked 2026-10-12 (S1, S31, S3); AR 2025 executive management (S6 pp.175, 226); quoted as CEO in the H1 2026 release (S10) and on the 27 Jul 2026 call (S9); signs the H1 2026 financial statements (S4); Argaam appointment reports of 30 May 2022 and 6 Sep 2022 (S34, S33). No departure news found (role-based search 2026-10-12). No personal LinkedIn link on official pages; name-based look-ups not permitted.",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S4",
+    "S6",
+    "S9",
+    "S10",
+    "S23",
+    "S31",
+    "S33",
+    "S34"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Ramzy Darwish",
+   "name_ar": null,
+   "title": "Chief Strategy and Finance Officer",
+   "functions": [
+    "Finance",
+    "Strategy"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Executive Management",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not published in the sources read. Signs the financial statements as Chief Financial Officer (S4).",
+   "previous_roles": "Chief Strategy and Finance Officer, BSF (date not published); previously Head, Treasury Group, Saudi National Bank (AR 2025, no years). '20 years' experience in banking sector' (S6 p.226).",
+   "education": "BSc Industrial and Labor Relations (2005; institution not stated in AR 2025)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (English and Arabic) checked 2026-10-12 (S1, S31); AR 2025 executive management biography (S6 pp.175, 226); signs the H1 2026 FS as CFO (S4); on the Q2 2026 call (S9); quoted in the Strategy 2030 release (S12).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S6",
+    "S9",
+    "S12",
+    "S31"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Abdulrahman Alsheikh",
+   "name_ar": null,
+   "title": "Chief Personal Banking Officer",
+   "functions": [
+    "Retail",
+    "Affluent",
+    "Private banking"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Personal Banking Group (Retail Banking Group and Private Banking)",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not published. An older version of the management page listed him as 'Head of Personal Banking Group' (search result only); the current page uses 'Chief Personal Banking Officer' (S1, S32).",
+   "previous_roles": "Chief Personal Banking Officer, BSF (date not published; earlier titled Head of Personal Banking Group); previously Head of Branch Network, Retail Banking, Al Rajhi Bank (AR 2025, no years). '20 years' experience in Islamic and Retail Banking' (S6 p.226).",
+   "education": "Bachelor of Industrial Engineering, King Saud University (2005)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (English and Arabic) and bio page (title only) checked 2026-10-12 (S1, S31, S32); AR 2025 executive management biography (S6 pp.175, 226); quoted as Chief Personal Banking Officer in the Diriyah MoU release of 29 Sep 2026 (S19). Personal Banking Group covers Retail Banking (mass and affluent) and Private Banking (S6 PDF p.63). No personal LinkedIn link on official pages; name-based look-ups not permitted.",
+   "source_ids": [
+    "S1",
+    "S6",
+    "S19",
+    "S31",
+    "S32"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Zuhair M. Mardam",
+   "name_ar": null,
+   "title": "Chief Treasury and Investment Officer",
+   "functions": [
+    "Treasury",
+    "Investments / asset management"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Treasury and Investment Group",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not published in the sources read.",
+   "previous_roles": "Chief Treasury and Investment Officer, BSF (date not published); previously Head of Global Markets, BSF (AR 2025, no years). '21 years' experience in treasury' (S6 p.226).",
+   "education": "Bachelor of Finance, Prince Sultan University (2004)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (English and Arabic) checked 2026-10-12 (S1, S31); AR 2025 executive management biography (S6 pp.175, 226); on the Q2 2026 call (S9). No personal LinkedIn link on official pages; name-based look-ups not permitted.",
+   "source_ids": [
+    "S1",
+    "S6",
+    "S9",
+    "S31"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Majed Alsadhan",
+   "name_ar": null,
+   "title": "Chief Wholesale Banking Officer",
+   "functions": [
+    "Corporate / wholesale"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Wholesale Banking Group",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not published in the sources read.",
+   "previous_roles": "Chief Wholesale Banking Officer, BSF (date not published); previously Head of Corporate Banking, BSF (AR 2025, no years). '21 years' experience in banking sector' (S6 p.226).",
+   "education": "Bachelor of Accounting, King Faisal University (2004); Master of Accounting and Finance, University of Southampton (2007)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Official Management Team page (English and Arabic) checked 2026-10-12 (S1, S31); AR 2025 executive management biography (S6 pp.175, 226).",
+   "source_ids": [
+    "S1",
+    "S6",
+    "S31"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Majed A. Alghanemi",
+   "name_ar": null,
+   "title": "Chief Transformation Officer",
+   "functions": [
+    "Strategy",
+    "Digital"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Executive Management",
+   "scope": "Group",
+   "appointed": "2025-03-12",
+   "appointed_note": "AR 2025: appointed 12 March 2025 (S6 p.228).",
+   "previous_roles": "12 Mar 2025– Chief Transformation Officer, BSF; Vice Minister of Social Development, Ministry of Human Resources and Social Development (HRSD); Chief Operating Officer, SAB (Saudi Awwal Bank) (AR 2025, no years). '25+ years of diverse leadership experiences (banking, government, telecom, defense and healthcare)' (S6 p.228).",
+   "education": "MSc Computer Science, King Saud University (2000); MBA, King Saud University (2004)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Conflicting sources",
+   "role_evidence": "AR 2025 (published 2026) lists him as Chief Transformation Officer in the executive team as of 31 Dec 2025 (S6 pp.175, 228). Neither the English nor the Arabic Management Team page lists a Chief Transformation Officer (checked 2026-10-12; S1, S31); the 1H 2026 investor presentation shows the role without a name (S7 slide 21). Role-based news searches on 2026-10-12 found no appointment or departure report. See discrepancies.",
+   "source_ids": [
+    "S6",
+    "S1",
+    "S7",
+    "S31"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Abdullah Alwabel",
+   "name_ar": null,
+   "title": "Head of Retail Digital Banking (also described as Head of Digital Banking and Innovation)",
+   "functions": [
+    "Digital",
+    "Retail"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Personal Banking Group / Digital",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Backbase podcast page of 29 Jul 2025: guest card 'Head of Retail Digital Banking, BSF'; episode text 'Head of Digital Banking and Innovation at BSF' (S25).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "Named with these titles on a Backbase podcast page dated 29 Jul 2025 (S25, re-read 2026-10-12). Not on the official Management Team pages (not an executive-committee role; S1, S31) and not in AR 2025. No 2026 source found (role-based search 2026-10-12). No LinkedIn link on the pages read.",
+   "source_ids": [
+    "S25",
+    "S1",
+    "S31"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Mohammed Almisfer",
+   "name_ar": null,
+   "title": "Chief Business Technology and Digital Officer (former)",
+   "functions": [
+    "Technology",
+    "Digital"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Executive Management",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Resigned from the position on 13 May 2025 (AR 2025, S6 p.228). Appointment date not published.",
+   "previous_roles": "–13 May 2025 Chief Business Technology and Digital Officer, BSF; previously General Director of Business Technology, Saudi Central Bank (AR 2025, no years). '23 years' experience in banking sector' (S6 p.228).",
+   "education": "BSc, King Saud University (1995); MSc, Florida Atlantic University (1999)",
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Departed",
+   "role_evidence": "AR 2025: resigned 13 May 2025 (S6 p.228). No successor named on the English or Arabic Management Team page (checked 2026-10-12; S1, S31) or in news (role-based search 2026-10-12).",
+   "source_ids": [
+    "S6",
+    "S1",
+    "S31"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Yasminah Abbas",
+   "name_ar": null,
+   "title": "Head of Group Commercial Delivery and Investor Relations",
+   "functions": [
+    "Strategy",
+    "Other"
+   ],
+   "entity": "Banque Saudi Fransi",
+   "business_unit": "Group Commercial Delivery / Investor Relations",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Appointment date not published. Introduced as 'Yasmina Abbas, the Head of Group Commercial Delivery Investor Relations' on the Q4 2025 call of 2 Feb 2026 (S22) and with the current title on the Q2 2026 call of 27 Jul 2026 (S9).",
+   "previous_roles": null,
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not checked",
+   "role_status": "Verified current",
+   "role_evidence": "Introduced with this title on the Q4 2025 (2 Feb 2026) and Q2 2026 (27 Jul 2026) earnings calls (S22, S9); listed in 'Meet the IR team' on the BSF IR page (S27). Not on the Management Team page (not an executive-committee role). No biography published.",
+   "source_ids": [
+    "S9",
+    "S22",
+    "S27"
+   ],
+   "checked": "2026-10-12"
+  },
+  {
+   "name": "Khalid (Khaled) bin Waleed Al Braikan",
+   "name_ar": null,
+   "title": "Chief Executive Officer, BSF Capital",
+   "functions": [
+    "Subsidiary CEO",
+    "Investments / asset management",
+    "Wealth"
+   ],
+   "entity": "Saudi Fransi Capital (BSF Capital)",
+   "business_unit": "BSF Capital",
+   "scope": "Subsidiary: BSF Capital",
+   "appointed": "2026-04",
+   "appointed_note": "IFN Investor headline 'BSF Capital appoints new CEO' dated 3 Apr 2026 (S26; body paywalled); name seen in search snippets only. Predecessor Salam Al-Khunaizi (CEO in Feb 2025, S24). Full record in sa-bsf-capital.",
+   "previous_roles": "Apr 2026– Chief Executive Officer, BSF Capital (per IFN headline, S26). Per search snippets only, not confirmed officially: Head of Asset Management, NCB Capital (about 13 years); earlier HSBC Saudi Arabia and Samba Capital.",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": null,
+   "linkedin_status": "Not verified",
+   "role_status": "Requires verification",
+   "role_evidence": "IFN Investor, 3 Apr 2026 (S26; headline opened, body paywalled, name from search snippet). BSF Capital website blocked ('Permission Denied' on every path, 2026-10-12), so not confirmed officially; role-based searches 2026-10-12 (English/Arabic) found no other report. A LinkedIn profile mentioned in a search summary could not be matched to a URL. See sa-bsf-capital.",
+   "source_ids": [
+    "S26",
+    "S24"
+   ],
+   "checked": "2026-10-12"
+  }
+ ],
+ "capabilities": {
+  "wealth_summary": "BSF serves wealth clients through its Personal Banking Group (Retail Banking for mass and affluent clients, plus Private Banking) and through its 100% investment arm Saudi Fransi Capital (BSF Capital), which held SAR 34.8bn AUM at 30 Jun 2026. Published affluent tiers are Advance, Privilege, Elite and Elite Plus (Elite Plus: SAR 3m initial deposit or SAR 1.5m six-month average); affluent customers grew 10% in 2025 within 1.36m personal banking customers. Private Banking (centres in Riyadh, Jeddah and Alkhobar) relaunched its strategy in early 2025 and aims to be 'the Kingdom's leading private bank' from 2026; the bank also owns Sur Multi Family Office Limited (UK, incorporated Feb 2023) for HNW families. Investment products (funds, discretionary portfolios, brokerage, advisory) are provided by BSF Capital, which expanded its BlackRock partnership in Feb 2025 for globally diversified, Shariah-compliant multi-asset portfolios and planned a mobile 'BSF Invest App' for early 2026. Strategy 2030 (16 Feb 2026) names 'Accelerate Wealth Management in BSFC', 'Upgrade brokerage ecosystem' and 'Differentiation in Affluent' as priorities, while the bank app offers only IPO subscription for investing.",
+  "segments": [
+   {
+    "name": "Advance Banking",
+    "tier": "Mass affluent",
+    "eligibility": "Salary transfer SAR 10,000; or initial deposit SAR 100,000 (new customer) / 6-month average balance SAR 50,000 (existing) (as published)",
+    "source_ids": [
+     "S17"
+    ]
+   },
+   {
+    "name": "Privilege Banking",
+    "tier": "Affluent",
+    "eligibility": "Salary transfer SAR 20,000; or initial deposit SAR 350,000 (new) / 6-month average balance SAR 100,000 (existing) (as published)",
+    "source_ids": [
+     "S15",
+     "S17"
+    ]
+   },
+   {
+    "name": "Elite Banking",
+    "tier": "Affluent / upper affluent",
+    "eligibility": "Salary transfer SAR 40,000; or initial deposit SAR 1,000,000 (new) / 6-month average balance SAR 500,000 (existing) (as published). Dedicated centres and personal RM.",
+    "source_ids": [
+     "S14",
+     "S17"
+    ]
+   },
+   {
+    "name": "Elite Plus",
+    "tier": "Upper affluent / HNW entry",
+    "eligibility": "Current account initial deposit SAR 3,000,000 (new) / 6-month average balance SAR 1,500,000 (existing) (as published). Benefits include 'local and global investment opportunities', Lombard lending and structured deposits.",
+    "source_ids": [
+     "S16"
+    ]
+   },
+   {
+    "name": "BSF Private Banking",
+    "tier": "Private / HNW",
+    "eligibility": "Not published ('ultimate high net worth individuals'). Dedicated RM; private banking centres in Riyadh, Jeddah and Alkhobar.",
+    "source_ids": [
+     "S13"
+    ]
+   }
   ],
-  "original_reconciliation": [
-    {
-      "field": "Institution",
-      "original_value": "Banque Saudi Fransi (BSF)",
-      "finding": "Confirmed",
-      "new_value": "Banque Saudi Fransi (Saudi joint stock company; CR 1010073368); trading brand 'BSF' since 4 Jun 2024",
-      "materiality": "Minor",
-      "source_ids": [
-        "S4",
-        "S20"
-      ]
-    },
-    {
-      "field": "Total assets (SAR bn, 2026-06-30)",
-      "original_value": "327.983 SAR bn, 2026-06-30, consolidated, source bsf.sa/english/news/q2-press-release",
-      "finding": "Confirmed",
-      "new_value": "SAR 327,983,331 thousand at 30 Jun 2026 (reviewed interim FS); release gives SAR 327,983 million",
-      "materiality": "Material",
-      "source_ids": [
-        "S4",
-        "S10"
-      ]
-    },
-    {
-      "field": "Customer deposits (SAR bn, 2026-06-30)",
-      "original_value": "204.588 SAR bn, 2026-06-30, consolidated",
-      "finding": "Confirmed",
-      "new_value": "Customers' deposits SAR 204,587,870 thousand at 30 Jun 2026 (excludes due to SAMA and banks)",
-      "materiality": "Material",
-      "source_ids": [
-        "S4",
-        "S10"
-      ]
-    },
-    {
-      "field": "Source URL for size metrics",
-      "original_value": "https://bsf.sa/english/news/q2-press-release",
-      "finding": "Confirmed",
-      "new_value": "Page live (20 Jul 2026). Primary source now the reviewed interim FS (S4).",
-      "materiality": "Minor",
-      "source_ids": [
-        "S10",
-        "S4"
-      ]
-    },
-    {
-      "field": "Management: Bader AlSalloom",
-      "original_value": "Chief Executive Officer; Function CEO; LinkedIn not verified",
-      "finding": "Confirmed",
-      "new_value": "CEO since Sep 2022 (official bio); current per management page, H1 2026 FS and 27 Jul 2026 call. LinkedIn still not verified (one search, no matching profile).",
-      "materiality": "Material",
-      "source_ids": [
-        "S1",
-        "S3",
-        "S4",
-        "S9"
-      ]
-    },
-    {
-      "field": "Management: Majed Alsadhan",
-      "original_value": "Chief Wholesale Banking Officer; Function Corporate",
-      "finding": "Confirmed",
-      "new_value": "Chief Wholesale Banking Officer (official page, AR 2025). Function recorded as 'Corporate / wholesale'.",
-      "materiality": "Minor",
-      "source_ids": [
-        "S1",
-        "S6"
-      ]
-    },
-    {
-      "field": "Management: Mohammed Abdulrahman Alsheikh",
-      "original_value": "Chief Personal Banking Officer; Function Retail",
-      "finding": "Updated",
-      "new_value": "Confirmed as Chief Personal Banking Officer (official page; Diriyah MoU 29 Sep 2026). Functions widened to Retail, Affluent and Private banking because the Personal Banking Group includes Private Banking (AR 2025 p.63). Official listing spells the surname 'Al Alshaikh'.",
-      "materiality": "Minor",
-      "source_ids": [
-        "S1",
-        "S19",
-        "S6"
-      ]
-    },
-    {
-      "field": "Original evidence note 'Q1 2026 presentation role'",
-      "original_value": "Q1 2026 presentation role; CEO corroborated in July 2026 results; ref S075",
-      "finding": "Updated",
-      "new_value": "Roles now checked against the official management page (12 Oct 2026), AR 2025 and the Q2 2026 call/presentation.",
-      "materiality": "Minor",
-      "source_ids": [
-        "S1",
-        "S6",
-        "S9"
-      ]
-    }
+  "private_banking": {
+   "present": "Yes",
+   "detail": "Private Banking (within the Personal Banking Group) serves HNW clients with dedicated RMs and centres in Riyadh, Jeddah and Alkhobar. Offer per official page: conventional and Islamic banking, term and structured deposits, derivatives/FX/commodities, Lombard-style advances, personal and home finance, offshore tax and estate planning, Shariah-compliant investments and investment solutions through BSF Capital. New PB strategy launched early 2025 with four pillars (products and service excellence incl. project-based financing for HNW project investors and a family programme with netting; client personas; sales acceleration; enablers incl. digital/AI investment tools). Targets leadership in Saudi private banking from 2026. 29 Sep 2026: one-year MoU with Diriyah Company for PB clients (investment packages with luxury real estate, Shariah financing). UK subsidiary Sur Multi Family Office Limited provides wealth management services to BSF's HNW clients and families (BSF loan to it SAR 46m at end-2025). Q2 2026 call: retail personal loan growth included Lombard loans.",
+   "source_ids": [
+    "S13",
+    "S6",
+    "S19",
+    "S4",
+    "S23",
+    "S9"
+   ]
+  },
+  "asset_management": {
+   "present": "Yes",
+   "detail": "Through BSF Capital (100%): AUM SAR 34.8bn at 30 Jun 2026 (31.0bn at 31 Dec 2025). Mutual funds (conventional and Shariah-compliant, KSA and international), discretionary portfolios, private placements and public funds. FY2025 FS: funds managed had NAV SAR 30,971m, including Islamic funds of SAR 3,303m. 2025: eight real estate funds initiated (expected development value above SAR 5bn), a Rixos resort fund, a film fund and an industrial city fund. See sa-bsf-capital.",
+   "source_ids": [
+    "S7",
+    "S5",
+    "S13",
+    "S6"
+   ]
+  },
+  "brokerage": {
+   "present": "Yes",
+   "detail": "Through BSF Capital: local and international share brokerage, custody and margin lending (segment description and PB page). Brokerage trading value SAR 17.8bn in 2Q 2026 and 13.9bn in 1Q 2026. H1 2026 brokerage and asset management fees fell 17% YoY. Strategy 2030 includes 'Upgrade brokerage ecosystem'/'brokerage system upgrade' at BSF Capital. On the Q4 2025 call management said it would 'push for more of our fair share of brokerage and asset management fees'.",
+   "source_ids": [
+    "S4",
+    "S7",
+    "S8",
+    "S9",
+    "S13",
+    "S22"
+   ]
+  },
+  "digital_investing": {
+   "present": "Yes",
+   "detail": "Limited in the bank app: the BSF Mobile services list includes IPO subscription and transfers to brokerage companies, but no funds, equities or portfolios. Trading runs on BSF Capital's own channels. BSF Capital planned a 'BSF Invest App' (mobile-first, globally diversified portfolios, later BSF Capital mutual and private funds) for early 2026 (AR 2025); launch not confirmed in sources read. Bank digital KPIs: active digital user rate 72% of registered users and 90% of transactions on mobile (2025); digital penetration of clients 65-70% in 1H 2026 vs 100% target for 2030.",
+   "source_ids": [
+    "S18",
+    "S6",
+    "S7"
+   ]
+  },
+  "advisory": {
+   "present": "Yes",
+   "detail": "Investment advisory provided by BSF Capital for Private Banking clients (PB page). In 2025 BSF Capital moved from a product-driven to an advisory-led wealth model and built a specialist internal investment solutions team; Elite and Privilege clients have RMs; the AR reports 'enhanced advisory services for affluent clients'.",
+   "source_ids": [
+    "S13",
+    "S6"
+   ]
+  },
+  "discretionary": {
+   "present": "Yes",
+   "detail": "'Discretionary portfolio management' listed under BSF Capital asset management on the Private Banking page. No discretionary AUM split disclosed.",
+   "source_ids": [
+    "S13"
+   ]
+  },
+  "model_portfolios_robo": {
+   "present": "Unclear",
+   "detail": "AR 2025: through the BlackRock alliance 'clients now have access to investment portfolios which are globally diversified and sharia compliant' (advisory-led), and the planned BSF Invest App will offer diversified investment portfolios. No evidence found that a self-directed robo/model-portfolio app is live as of Oct 2026.",
+   "source_ids": [
+    "S6",
+    "S24"
+   ]
+  },
+  "funds_platform": {
+   "present": "Yes",
+   "detail": "BSF Capital funds plus third-party funds: the PB page says the relationship with BlackRock, Nomura and Ashmore brings their funds and private placements to Saudi investors. No fund-platform technology provider named.",
+   "source_ids": [
+    "S13",
+    "S24"
+   ]
+  },
+  "structured_products": {
+   "present": "Yes",
+   "detail": "Structured deposits for Private Banking and Elite Plus; derivatives, FX and commodities products for PB clients. A revised Derivatives Sales Policy for Corporate and PB clients was adopted (AR 2025). Issuers not named.",
+   "source_ids": [
+    "S13",
+    "S16",
+    "S6"
+   ]
+  },
+  "private_markets": {
+   "present": "Yes",
+   "detail": "BSF Capital private placements and real estate/hospitality/film/industrial funds launched in 2025; PB page mentions 'other private placement opportunities'. PB-Diriyah MoU (Sep 2026) for real estate investment packages.",
+   "source_ids": [
+    "S6",
+    "S13",
+    "S19"
+   ]
+  },
+  "islamic_wealth": {
+   "present": "Yes",
+   "detail": "Conventional bank with Islamic products under an independent Shariah Board. Shariah-compliant investments for PB; Islamic mutual funds of SAR 3,303m (end-2025); BlackRock portfolios described as Shariah compliant; Shariah-based deposits SAR 66.9bn and Shariah-based loans SAR 165.7bn at 30 Jun 2026.",
+   "source_ids": [
+    "S13",
+    "S5",
+    "S6",
+    "S4"
+   ]
+  },
+  "asset_classes": [
+   "Local equities",
+   "US/international equities",
+   "Mutual funds",
+   "Bonds",
+   "Sukuk",
+   "Structured products",
+   "Private markets / alternatives",
+   "Real estate funds"
   ],
-  "discrepancies": [
-    {
-      "field": "Chief Transformation Officer",
-      "detail": "AR 2025 lists Majed A. Alghanemi as Chief Transformation Officer (appointed 12 Mar 2025) in the executive team, but the official Management Team page (checked 12 Oct 2026) does not list him. The 1H 2026 investor presentation still shows the role without a name.",
-      "resolution": "Recorded with role_status 'Requires verification'.",
-      "source_ids": [
-        "S6",
-        "S1",
-        "S7"
-      ]
-    },
-    {
-      "field": "Chief Personal Banking Officer name spelling",
-      "detail": "Official listing: 'Mohammed Abdulrahman Al Alshaikh'; bio URL slug 'alsheikh'; AR 2025: 'Mohammad Alsheikh' / 'Mohammed Al-Sheikh'; Diriyah release: 'Mohammed bin Abdulrahman Al-Sheikh'.",
-      "resolution": "Used 'Mohammed Abdulrahman Alsheikh' (as in original extract). Same person.",
-      "source_ids": [
-        "S1",
-        "S6",
-        "S19"
-      ]
-    },
-    {
-      "field": "BSF Capital CEO",
-      "detail": "Arab News (Feb 2025) and Forbes ME (Mar 2025) name Salam Al-Khunaizi as CEO; IFN Investor (3 Apr 2026) reports a new CEO, named in search snippets as Khalid bin Waleed Al Braikan.",
-      "resolution": "Al Braikan recorded as 'Requires verification'; see sa-bsf-capital.",
-      "source_ids": [
-        "S24",
-        "S26"
-      ]
-    }
+  "partners": [
+   {
+    "partner": "BlackRock",
+    "kind": "Global asset manager / product partner",
+    "what": "Expanded partnership with BSF Capital to offer multi-asset investment strategies with global exposure; AR 2025 says clients now access globally diversified, Shariah-compliant portfolios. Relationship dates back to a 2013 agreement (search lead only).",
+    "date": "2025-02-04",
+    "status": "Live",
+    "source_ids": [
+     "S24",
+     "S6"
+    ]
+   },
+   {
+    "partner": "Nomura",
+    "kind": "Fund provider",
+    "what": "Named on the Private Banking page as a relationship bringing funds and private placements to Saudi investors",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "partner": "Ashmore",
+    "kind": "Fund provider",
+    "what": "Named on the Private Banking page as a relationship bringing funds to Saudi investors",
+    "date": null,
+    "status": "Unclear",
+    "source_ids": [
+     "S13"
+    ]
+   },
+   {
+    "partner": "Diriyah Company",
+    "kind": "Real estate / lifestyle partner",
+    "what": "One-year MoU: investment packages, Shariah financing, events for Private Banking clients",
+    "date": "2026-09-29",
+    "status": "MoU / pilot",
+    "source_ids": [
+     "S19"
+    ]
+   },
+   {
+    "partner": "Finastra (Kondor)",
+    "kind": "Technology (treasury platform)",
+    "what": "Treasury and trading operations automated with Finastra Kondor (AR 2025). Not a wealth platform.",
+    "date": "2025",
+    "status": "Live",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "partner": "BSF Capital (in-house subsidiary)",
+    "kind": "Product / investment arm",
+    "what": "Supplies funds, discretionary portfolios, advisory, brokerage and custody to bank clients",
+    "date": null,
+    "status": "Live",
+    "source_ids": [
+     "S4",
+     "S13"
+    ]
+   }
   ],
-  "open_items": [
-    "Head of Private Banking not named in any source found (official page, AR 2025, two searches). Ehab Taleb Farhan resigned as a director of Sur Multi Family Office on 21 Jul 2025 (Companies House); his BSF role is not confirmed.",
-    "Successor to the Chief Business Technology and Digital Officer (Mohammed Almisfer, resigned 13 May 2025) not found.",
-    "Chief Transformation Officer Majed Alghanemi: in AR 2025 but not on the Oct 2026 management page. Confirm if he is still in role.",
-    "BSF Invest App (scheduled early 2026 per AR 2025): launch not confirmed in any source read; app store not checked.",
-    "Ticker 1050 is from search-result leads (Saudi Exchange pages return 403/DNS errors); not seen on an opened official page.",
-    "Lead check: the original 'CEO Bader AlSalloom' is confirmed. Leads on private/premier propositions and partnerships are confirmed and specified (Elite/Elite Plus/Privilege/Advance; BlackRock). Lead on digital investing in the BSF app: only IPO subscription found; no funds or equities in the bank app.",
-    "BSF Capital website (bsfcapital.sa) returns 'Permission Denied' to automated access; BSF Capital's own statements and Pillar 3 were not read (see sa-bsf-capital).",
-    "Some BSF pages intermittently return a 'Permission Denied' page (e.g. /english/about-bsf/executive-management); equivalent pages were read instead.",
-    "Q3 2026 results not yet published (checked 12 Oct 2026)."
+  "initiatives": [
+   {
+    "date": "2023-02-01",
+    "what": "Incorporated Sur Multi Family Office Limited (UK; SIC 66300 fund management) to provide wealth management services to BSF's HNW clients and their families",
+    "source_ids": [
+     "S23",
+     "S4"
+    ]
+   },
+   {
+    "date": "2024-06-04",
+    "what": "Rebranded from Banque Saudi Fransi to 'BSF'; identity extended to BSF Capital",
+    "source_ids": [
+     "S20"
+    ]
+   },
+   {
+    "date": "2025-02-04",
+    "what": "BSF Capital expanded its partnership with BlackRock for global multi-asset strategies",
+    "source_ids": [
+     "S24"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "New Private Banking strategy launched in early 2025 (proactive sales model, client personas, family banking, project-based financing for HNW investors)",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "BSF Capital started implementing a digital wealth platform; first output to be the 'BSF Invest App', scheduled for early 2026",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2025",
+    "what": "Omni digital platform rebranded and enhanced; 100% of mandated Open Banking APIs certified; GenAI exploration track launched",
+    "source_ids": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2026-02-16",
+    "what": "Strategy 2030 announced: ROE >15%, net income market share 8-10%, >75% STP, 50+ AI use cases; priorities include 'Accelerate Wealth Management in BSFC', 'Upgrade brokerage ecosystem', 'Differentiation in Affluent' and Private Banking product expansion",
+    "source_ids": [
+     "S12",
+     "S7"
+    ]
+   },
+   {
+    "date": "2026-07-27",
+    "what": "Q2 2026 call: BSF Capital strategy 'refreshed around institutional and private banking'; affluent 'launched new propositions and channels'; Private Banking 'started to broaden its proposition'",
+    "source_ids": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2026-09-29",
+    "what": "MoU with Diriyah Company for Private Banking clients",
+    "source_ids": [
+     "S19"
+    ]
+   }
   ],
-  "research_status": "Complete",
-  "researched_by": "R4",
-  "checked": "2026-10-12"
+  "evidence_for_arta": {
+   "opportunities": [
+    "Strategy 2030 lists 'Accelerate Wealth Management in BSFC' and 'Upgrade brokerage ecosystem' among its priorities, and expects BSF Capital, Retail and Treasury to drive >50% of net income growth to 2030 (S7 slides 16-18)",
+    "BSF Capital profit is falling: H1 2026 segment net income before zakat SAR 132m, -27% YoY; brokerage and asset management fees -17% YoY (S7 slide 57, S9)",
+    "The bank app offers only IPO subscription for investing; no funds, portfolios or international investing found in BSF Mobile (S18)",
+    "Private Banking plans to use AI to 'deliver value-added features such as sophisticated investment tools and analytics' and to unify its digital platform with RBG (S6 PDF pp.67-68)",
+    "Elite Plus advertises 'local and global investment opportunities' to clients holding SAR 1.5m+ (S16); affluent customers grew 10% in 2025 (S6 PDF p.63)",
+    "Digital penetration target of 100% of clients by 2030, from 65-70% in 1H 2026 (S7 slide 19)"
+   ],
+   "barriers": [
+    "BlackRock is the incumbent global partner for globally diversified Shariah-compliant portfolios and multi-asset strategies (S6 PDF p.74, S24)",
+    "BSF Capital is building its own digital wealth platform and 'BSF Invest App' (S6 PDF p.77); vendor not named",
+    "Investment licences sit with BSF Capital (CMA), so product contracts would likely be with the subsidiary (S6 PDF p.74)",
+    "The bank says 90% of digital design leadership is in-house, 'reducing vendor dependence' (S6 PDF p.151)",
+    "Products for Islamic-preferring clients must pass the bank's Shariah Board (S4 note 1)"
+   ],
+   "incumbent_vendors": [
+    "BlackRock (multi-asset strategies and portfolios; S6, S24)",
+    "Nomura and Ashmore (funds; S13)",
+    "Finastra Kondor (treasury platform; S6)"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Management Team",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/the-bank/managament-team",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S2",
+   "title": "Board of Directors (listing and individual member bio pages)",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/the-bank/boardofdirectors",
+   "doc_type": "Official leadership page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S3",
+   "title": "Bader Alsalloom, Chief Executive Officer (bio page)",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/the-bank/managament-team/bader-alsalloom",
+   "doc_type": "Official biography",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S4",
+   "title": "Condensed Interim Consolidated Financial Statements for the six month period ended June 30, 2026",
+   "publisher": "Banque Saudi Fransi",
+   "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF%20Financial%20Q2%202026%20-%20English.pdf",
+   "doc_type": "Reviewed interim financial statements",
+   "tier": 1,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S5",
+   "title": "Consolidated Financial Statements for the year ended December 31, 2025",
+   "publisher": "Banque Saudi Fransi",
+   "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/Financial_Statments_Q4_2025.pdf",
+   "doc_type": "Audited financial statements (joint auditors EY and Deloitte per AR 2025)",
+   "tier": 1,
+   "published": "2026-01",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S6",
+   "title": "Integrated Annual Report 2025",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/ContentFiles/integrated_annual_report/2025/services/pdf/BSFIR25-English.pdf",
+   "doc_type": "Annual report (incl. Board of Directors' report)",
+   "tier": 1,
+   "published": "2026",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S7",
+   "title": "BSF Investor Presentation 1H 2026",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF%20InvestorPresentation%20Q2%202026.pdf",
+   "doc_type": "Investor presentation",
+   "tier": 2,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S8",
+   "title": "BSF Earnings Presentation 2Q 2026 (27/07/2026)",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF%20EarningsPresentation%20Q2%202026.pdf",
+   "doc_type": "Investor presentation",
+   "tier": 2,
+   "published": "2026-07-27",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S9",
+   "title": "BSF Earnings Call Q2 2026 transcript (July 27, 2026)",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/TRANSCRIPT%20BSF%20Q2%202026%20Earnings%20Call%20(1).pdf",
+   "doc_type": "Earnings call transcript",
+   "tier": 2,
+   "published": "2026-07-27",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S10",
+   "title": "H1 2026 results press release (20 July 2026)",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/news/q2-press-release",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-07-20",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S11",
+   "title": "BSF Reports record earnings of 5,353 Million SAR Net Profit in 2025",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/news/net-profit-in-2025",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-01-26",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S12",
+   "title": "BSF announces its 2030 Strategy, targeting >15% ROE",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/news/bsf-strategy-2030",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-02-16",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S13",
+   "title": "Private Banking",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/private-banking",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S14",
+   "title": "Elite Banking",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/personal/banking-programs/elite-program",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S15",
+   "title": "Privilege Banking",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/personal/banking-programs/privilege-program",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S16",
+   "title": "Elite Plus",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/personal/banking-packages/elite-plus",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S17",
+   "title": "Premium banking programs for KSA residents (Elite, Privilege, Advance criteria table)",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/personal/banking-packages/premium-banking-programs-for-ksa-residents",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S18",
+   "title": "BSF Mobile",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/banking-with-us/bsf-mobile",
+   "doc_type": "Official product page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S19",
+   "title": "BSF and Diriyah Company Sign MoU to Enhance Investment Opportunities and Develop Financial and Banking Solutions",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/news/diriyah",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2026-09-29",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S20",
+   "title": "Banque Saudi Fransi unveils it's new identity to BSF",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/news/rebrand-press-release",
+   "doc_type": "Press release",
+   "tier": 2,
+   "published": "2024-06-04",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S21",
+   "title": "BSF Factsheet 1H 2026",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSFFactsheet%20Q2%202026.pdf",
+   "doc_type": "Investor factsheet",
+   "tier": 2,
+   "published": "2026-07",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S22",
+   "title": "BSF Q4 2025 Earnings Call transcript (2 February 2026)",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/Library/Assets/Gallery/Documents/Investor_Presentations/BSF_Q4_2025_Earning_Call_Transcript.pdf",
+   "doc_type": "Earnings call transcript",
+   "tier": 2,
+   "published": "2026-02-02",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S23",
+   "title": "SUR MULTI FAMILY OFFICE LIMITED (14631840): overview and officers",
+   "publisher": "UK Companies House",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14631840/officers",
+   "doc_type": "Company register (UK)",
+   "tier": 3,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S24",
+   "title": "BSF Capital partners with BlackRock to deliver innovative investment solutions in Saudi Arabia",
+   "publisher": "Arab News",
+   "url": "https://www.arabnews.com/node/2588926/corporate-news",
+   "doc_type": "News (labelled sponsored content)",
+   "tier": 5,
+   "published": "2025-02-04",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S25",
+   "title": "Banking Reinvented episode 59: Vision 2030, BSF on leading change in Saudi banking",
+   "publisher": "Backbase",
+   "url": "https://www.backbase.com/insights/banking-reinvented-episode-59-vision-2030-bsf-on-leading-change-in-saudi-banking",
+   "doc_type": "Vendor podcast page",
+   "tier": 5,
+   "published": "2025-07-29",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S26",
+   "title": "BSF Capital appoints new CEO",
+   "publisher": "IFN Investor",
+   "url": "https://ifninvestor.com/bsf-capital-appoints-new-ceo",
+   "doc_type": "News (paywalled)",
+   "tier": 5,
+   "published": "2026-04-03",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S27",
+   "title": "Investor Relations / Quarterly Results listing",
+   "publisher": "BSF",
+   "url": "https://bsf.sa/english/top-menu/investorrelation/quarterly-results",
+   "doc_type": "Official IR page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S28",
+   "title": "BSF reappoints Mazin AlRomaih as Chairman, Talal Al Maiman as Vice Chairman",
+   "publisher": "Argaam",
+   "url": "https://www.argaam.com/en/article/articledetail/id/1783674",
+   "doc_type": "News report on a Tadawul announcement — board chairman and vice chairman re-appointment (board decision 23 Dec 2024; SAMA non-objection 20 Jan 2025)",
+   "tier": 5,
+   "published": "2025-01-20",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Page opened 2026-10-12: headline and date rendered; the article body did not render without JavaScript, so the 23 Dec 2024 / 20 Jan 2025 details come from the search snippet."
+  },
+  {
+   "id": "S29",
+   "title": "Mazin Abdulrazzak AlRomaih, Chairman (bio page)",
+   "publisher": "Banque Saudi Fransi (BSF)",
+   "url": "https://bsf.sa/english/the-bank/boardofdirectors/mazin-abdulrazzak-alromaih",
+   "doc_type": "Official board member biography",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S30",
+   "title": "Talal Ibrahim Al Maiman, Vice Chairman (bio page)",
+   "publisher": "Banque Saudi Fransi (BSF)",
+   "url": "https://bsf.sa/english/the-bank/boardofdirectors/talalalmaiman",
+   "doc_type": "Official board member biography (qualifications and experience)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S31",
+   "title": "فريق الإدارة (Management Team, Arabic)",
+   "publisher": "Banque Saudi Fransi (BSF)",
+   "url": "https://bsf.sa/arabic/the-bank/managament-team",
+   "doc_type": "Official leadership page (Arabic) — same ten executive roles as the English page; no Chief Transformation or technology officer listed",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "ar"
+  },
+  {
+   "id": "S32",
+   "title": "Mohammed Abdulrahman Al Alshaikh, Chief Personal Banking Officer (bio page)",
+   "publisher": "Banque Saudi Fransi (BSF)",
+   "url": "https://bsf.sa/english/the-bank/managament-team2/mohammed-abdulrahman-alsheikh",
+   "doc_type": "Official executive bio page (title only; no biography text)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S33",
+   "title": "Banque Saudi Fransi appoints Bader Alsalloom as CEO",
+   "publisher": "Argaam",
+   "url": "https://www.argaam.com/en/article/articledetail/id/1586181",
+   "doc_type": "News report on a Tadawul statement — CEO appointment (board decision 5 Sep 2022, effective 6 Sep 2022)",
+   "tier": 5,
+   "published": "2022-09-06",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S34",
+   "title": "Banque Saudi Fransi board names Bader Alsalloom acting CEO",
+   "publisher": "Argaam",
+   "url": "https://www.argaam.com/en/article/articledetail/id/1563779",
+   "doc_type": "News report on a bourse filing — acting CEO appointment (board decision 29 May 2022, as of 1 Jun 2022; Rayan Fayez's resignation effective 31 May 2022)",
+   "tier": 5,
+   "published": "2022-05-30",
+   "accessed": "2026-10-12",
+   "language": "en"
+  },
+  {
+   "id": "S35",
+   "title": "Banque Saudi Fransi shareholders reappoint Mazin AlRomaih as Chairman",
+   "publisher": "Argaam",
+   "url": "https://www.argaam.com/en/article/articledetail/id/1523305",
+   "doc_type": "News report — chairman and vice chairman re-appointment after the 8 Dec 2021 General Assembly (2022–2024 Board term)",
+   "tier": 5,
+   "published": "2021-12",
+   "accessed": "2026-10-12",
+   "language": "en",
+   "note": "Seen in search results only."
+  }
+ ],
+ "original_reconciliation": [
+  {
+   "field": "Institution",
+   "original_value": "Banque Saudi Fransi (BSF)",
+   "finding": "Confirmed",
+   "new_value": "Banque Saudi Fransi (Saudi joint stock company; CR 1010073368); trading brand 'BSF' since 4 Jun 2024",
+   "materiality": "Minor",
+   "source_ids": [
+    "S4",
+    "S20"
+   ]
+  },
+  {
+   "field": "Total assets (SAR bn, 2026-06-30)",
+   "original_value": "327.983 SAR bn, 2026-06-30, consolidated, source bsf.sa/english/news/q2-press-release",
+   "finding": "Confirmed",
+   "new_value": "SAR 327,983,331 thousand at 30 Jun 2026 (reviewed interim FS); release gives SAR 327,983 million",
+   "materiality": "Material",
+   "source_ids": [
+    "S4",
+    "S10"
+   ]
+  },
+  {
+   "field": "Customer deposits (SAR bn, 2026-06-30)",
+   "original_value": "204.588 SAR bn, 2026-06-30, consolidated",
+   "finding": "Confirmed",
+   "new_value": "Customers' deposits SAR 204,587,870 thousand at 30 Jun 2026 (excludes due to SAMA and banks)",
+   "materiality": "Material",
+   "source_ids": [
+    "S4",
+    "S10"
+   ]
+  },
+  {
+   "field": "Source URL for size metrics",
+   "original_value": "https://bsf.sa/english/news/q2-press-release",
+   "finding": "Confirmed",
+   "new_value": "Page live (20 Jul 2026). Primary source now the reviewed interim FS (S4).",
+   "materiality": "Minor",
+   "source_ids": [
+    "S10",
+    "S4"
+   ]
+  },
+  {
+   "field": "Management: Bader AlSalloom",
+   "original_value": "Chief Executive Officer; Function CEO; LinkedIn not verified",
+   "finding": "Confirmed",
+   "new_value": "CEO since Sep 2022 (official bio); current per management page, H1 2026 FS and 27 Jul 2026 call. LinkedIn still not verified (one search, no matching profile).",
+   "materiality": "Material",
+   "source_ids": [
+    "S1",
+    "S3",
+    "S4",
+    "S9"
+   ]
+  },
+  {
+   "field": "Management: Majed Alsadhan",
+   "original_value": "Chief Wholesale Banking Officer; Function Corporate",
+   "finding": "Confirmed",
+   "new_value": "Chief Wholesale Banking Officer (official page, AR 2025). Function recorded as 'Corporate / wholesale'.",
+   "materiality": "Minor",
+   "source_ids": [
+    "S1",
+    "S6"
+   ]
+  },
+  {
+   "field": "Management: Mohammed Abdulrahman Alsheikh",
+   "original_value": "Chief Personal Banking Officer; Function Retail",
+   "finding": "Updated",
+   "new_value": "Confirmed as Chief Personal Banking Officer (official page; Diriyah MoU 29 Sep 2026). Functions widened to Retail, Affluent and Private banking because the Personal Banking Group includes Private Banking (AR 2025 p.63). Official listing spells the surname 'Al Alshaikh'.",
+   "materiality": "Minor",
+   "source_ids": [
+    "S1",
+    "S19",
+    "S6"
+   ]
+  },
+  {
+   "field": "Original evidence note 'Q1 2026 presentation role'",
+   "original_value": "Q1 2026 presentation role; CEO corroborated in July 2026 results; ref S075",
+   "finding": "Updated",
+   "new_value": "Roles now checked against the official management page (12 Oct 2026), AR 2025 and the Q2 2026 call/presentation.",
+   "materiality": "Minor",
+   "source_ids": [
+    "S1",
+    "S6",
+    "S9"
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "field": "Chief Transformation Officer",
+   "detail": "AR 2025 lists Majed A. Alghanemi as Chief Transformation Officer (appointed 12 Mar 2025) in the executive team as of 31 Dec 2025 (S6 pp.175, 228), but neither the English nor the Arabic Management Team page (checked 12 Oct 2026) lists the role or the person (S1, S31). The 1H 2026 investor presentation shows a 'Chief Transformation Officer' box without a name (S7 slide 21). No appointment/departure news found.",
+   "resolution": "Recorded with role_status 'Conflicting sources' (official page vs 2026-published annual report). Confirm at the next check.",
+   "source_ids": [
+    "S6",
+    "S1",
+    "S7",
+    "S31"
+   ]
+  },
+  {
+   "field": "Chief Personal Banking Officer name spelling",
+   "detail": "Official listing: 'Mohammed Abdulrahman Al Alshaikh'; bio URL slug 'alsheikh'; AR 2025: 'Mohammad Alsheikh' / 'Mohammed Al-Sheikh'; Diriyah release: 'Mohammed bin Abdulrahman Al-Sheikh'.",
+   "resolution": "Used 'Mohammed Abdulrahman Alsheikh' (as in original extract). Same person.",
+   "source_ids": [
+    "S1",
+    "S6",
+    "S19"
+   ]
+  },
+  {
+   "field": "BSF Capital CEO",
+   "detail": "Arab News (Feb 2025) and Forbes ME (Mar 2025) name Salam Al-Khunaizi as CEO; IFN Investor (3 Apr 2026) reports a new CEO, named in search snippets as Khalid bin Waleed Al Braikan.",
+   "resolution": "Al Braikan recorded as 'Requires verification'; see sa-bsf-capital.",
+   "source_ids": [
+    "S24",
+    "S26"
+   ]
+  },
+  {
+   "field": "Investor Relations head's first name",
+   "detail": "Q4 2025 call transcript: 'Yasmina Abbas' (S22); Q2 2026 call transcript and IR page: 'Yasminah Abbas' (S9, S27).",
+   "source_ids": [
+    "S22",
+    "S9",
+    "S27"
+   ],
+   "resolution": "Kept 'Yasminah Abbas' as on the IR page."
+  }
+ ],
+ "open_items": [
+  "Head of Private Banking not named in any source found (official page, AR 2025, two searches). Ehab Taleb Farhan resigned as a director of Sur Multi Family Office on 21 Jul 2025 (Companies House); his BSF role is not confirmed.",
+  "Successor to the Chief Business Technology and Digital Officer (Mohammed Almisfer, resigned 13 May 2025) not found.",
+  "Chief Transformation Officer Majed Alghanemi: in AR 2025 (as of 31 Dec 2025) but on neither the English nor the Arabic management page in Oct 2026, and the 1H 2026 deck shows the role unnamed; marked 'Conflicting sources'. Confirm if he is still in role.",
+  "BSF Invest App (scheduled early 2026 per AR 2025): launch not confirmed in any source read; app store not checked.",
+  "Ticker 1050 is from search-result leads (Saudi Exchange pages return 403/DNS errors); not seen on an opened official page.",
+  "Lead check: the original 'CEO Bader AlSalloom' is confirmed. Leads on private/premier propositions and partnerships are confirmed and specified (Elite/Elite Plus/Privilege/Advance; BlackRock). Lead on digital investing in the BSF app: only IPO subscription found; no funds or equities in the bank app.",
+  "BSF Capital website (bsfcapital.sa) returns a 'Permission Denied' page on every path tried (2026-10-12); BSF Capital's board, management, statements and Pillar 3 were not read (see sa-bsf-capital). Its CEO (Al Braikan) rests on IFN search snippets only.",
+  "Some BSF pages intermittently return a 'Permission Denied' page (e.g. /english/about-bsf/executive-management); equivalent pages were read instead.",
+  "Q3 2026 results not yet published (checked 12 Oct 2026).",
+  "LinkedIn: BSF's official pages link only the bank's company page and the search tool declines name-based look-ups, so no personal profiles were verified (CEO, Alsheikh, Mardam, Alghanemi, Alwabel, Al Braikan and the Chairman: 'Not verified'; others 'Not checked').",
+  "Official bio pages: only the CEO's and the two board officers' pages carry biography text; the Chief Personal Banking Officer's page shows the title only and the 'management-teamold' page is empty (checked 2026-10-12). Appointment dates for the Chief Strategy & Finance, Personal Banking, Treasury & Investment and Wholesale officers are not published; AR 2025 gives previous roles without years.",
+  "Argaam article bodies do not render without JavaScript: the Jan 2025 chairman re-appointment details (S28) come from the search snippet; the 2022 CEO appointment articles (S33, S34) did render. The Arab News article on the three-year board term returned no text.",
+  "Board: ten members elected for 1 Jan 2025–31 Dec 2027 (AR 2025 p.168); only the Chairman and Vice Chairman are profiled here. AR 2025 pp.218-225 carry biographies for all ten and for the external Board Risk Committee member Vanessa Eastham Fisk."
+ ],
+ "research_status": "Complete",
+ "researched_by": "R4",
+ "checked": "2026-10-12"
 }
