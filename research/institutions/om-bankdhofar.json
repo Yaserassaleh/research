@@ -464,25 +464,32 @@
       "name_ar": null,
       "title": "Chairman of the Board of Directors",
       "functions": [
-        "Chair"
+        "Chair",
+        "Board"
       ],
       "entity": "BankDhofar SAOG",
       "business_unit": "Board",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Appointment date not stated in sources opened. Chairs the Board Executive Committee.",
-      "previous_roles": "Promoter shareholder of Bank Dhofar, Dhofar International Development & Investment Holding Co. SAOG, Dhofar Power Company SAOC and Oman Aviation Services Co. SAOG (board page). The FSA register lists a past post as Minister of Agriculture, period shown as 1989 (S14).",
-      "education": "Master's degree in mechanical engineering (board page; institution not stated)",
+      "appointed_note": "First election as Chairman not published in the documents opened. He signed the FY2007 financial statements as Chairman (S30, 'Al-Aujaili' spelling) and is Chairman in every annual report read from 2012 to 2025 (S29, S28, S27, S26, S25, S24, S23, S22, S21, S2) and chaired the 2022 and 2023 AGMs (S49, S50). Re-elected at the board election of 23 Mar 2025; the current board's term expires in March 2028 (S2 PDF pp.24, 28). Classified as a non-independent shareholder director (S2 pp.15, 27).",
+      "previous_roles": "Since at least Dec 2007- Chairman, Bank Dhofar SAOG (S30); promoter shareholder of BankDhofar, Dhofar International Development & Investment Holding Co. SAOG, Dhofar Power Company SAOC and Oman Aviation Services Co. SAOG (S6, S2 p.25); until 2025 Chairman of the Board Executive Committee, dissolved by Board Resolution 1/2/2025 with its powers transferred to the full Board (S2 p.25). The FSA register lists a past post as Minister of Agriculture, period shown as 1989 (S14). No dated career chronology is published. Current other roles: largest shareholder with his companies (24.99% at 31 Dec 2025, S2).",
+      "education": "Master's degree, Mechanical Engineering (institution not stated; S6, S2 p.25)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Board page lists him as Chairman (S6, checked 2026-10-12). He signed the H1 2026 statements as Chairman (S1 p.6). FSA register lists him as Chairman (S14). No change news found.",
+      "role_evidence": "Board page checked 2026-10-12 lists him as Chairman (S6); AR 2025 board profile, composition and attendance tables (S2 pp.15, 25-28); signed the H1 2026 statements (S1 p.6) and the FY2025 statements (S2 p.132) as Chairman; shown as Chairman on the board slides of the 2024 presentations (S32-S34). Role-based searches on the 2025 AGM/board election found no change.",
       "source_ids": [
         "S6",
         "S1",
         "S2",
-        "S14"
+        "S14",
+        "S30",
+        "S29",
+        "S28",
+        "S32",
+        "S49",
+        "S50"
       ],
       "checked": "2026-10-12"
     },
@@ -496,18 +503,24 @@
       "entity": "BankDhofar SAOG",
       "business_unit": "Board",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Chairs the Board Nomination & Remuneration Committee and sits on the Risk and Audit Committees.",
-      "previous_roles": "Over 36 years of public-sector experience in law, finance, investment and administration (board page). FSA register shows Civil Service Pension Fund employment (S14).",
-      "education": "Master of International Business Law (board page)",
+      "appointed": "2019",
+      "appointed_note": "Deputy (Vice) Chairman first shown in the Annual Report 2019 (S25 p.24); the Annual Reports 2017 and 2018 name Sheikh Hamoud bin Mustahail Al Mashani as Vice Chairman (S27 p.21, S26 p.22), so he took the post in 2019. Director since at least 2012 (S29 pp.12, 21; S28). Re-elected 23 Mar 2025; term to March 2028 (S2).",
+      "previous_roles": "2019- Deputy Chairman, Bank Dhofar SAOG (director since at least 2012); Chairman of the Board Nomination & Remuneration Committee, Deputy Chairman of the Board Risk Committee and member of the Board Audit Committee (S2 pp.25, 29; S6). Over 38 years in the public sector in law, finance, investment and administration (AR 2025 p.25; the board page says 36 years); employers not named in the bios; the FSA register shows Civil Service Pension Fund employment (S14). Classified independent, non-shareholder director (S2 p.27).",
+      "education": "Master of International Business Law (institution not stated; S6, S2 p.25)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Board page lists him as Deputy Chairman (S6, checked 2026-10-12). The FSA register lists him as a board member (S14).",
+      "role_evidence": "Board page checked 2026-10-12 lists him as Deputy Chairman (S6); AR 2025 profile, composition and committee tables (S2 pp.25-29); board slides of the Q2-Q4 2024 presentations (S32-S34); FSA register lists him as a board member (S14). No change news.",
       "source_ids": [
         "S6",
-        "S14"
+        "S14",
+        "S2",
+        "S25",
+        "S26",
+        "S27",
+        "S29",
+        "S32"
       ],
       "checked": "2026-10-12"
     },
@@ -521,21 +534,30 @@
       "entity": "BankDhofar SAOG",
       "business_unit": "Executive management",
       "scope": "Group",
-      "appointed": "2021-11",
-      "appointed_note": "Joined as Deputy CEO in November 2021 (S5, S2 p.39). The date he became Acting CEO is not stated in official sources opened; a third-party profile (not cited) gives 5 Sep 2024.",
-      "previous_roles": "Joined BankDhofar as Deputy CEO in Nov 2021. Over 31 years across wholesale and retail banking, treasury and FI, investment banking, asset management, private banking, financial control and operations; previously held leadership positions at banks in Oman.",
-      "education": "MBA, IMD Lausanne",
-      "qualifications": "Chartered Accountant, Cost Accountant and Company Secretary (India); member CIMA (London), ACI, Corporate Treasurers (London)",
+      "appointed": "2024",
+      "appointed_note": "Acting CEO since the second half of 2024: the Q2 2024 investor presentation (results to 30 Jun 2024) still shows Abdul Hakeem Omar Al Ojaili as Chief Executive Officer and Gopakumar as Deputy CEO (S32 slide 28); the Q3 2024 presentation shows Gopakumar as Acting CEO (S33 slide 28), and the GCC Equity Fund prospectus approved by the FSA on 27 Nov 2024 describes him as 'currently the Acting CEO' (S37 p.33). A third-party data profile (not cited) gives 5 Sep 2024; no MSX disclosure of the change was found (S18). Joined as Deputy CEO in Nov 2021 (S5, S2, S24).",
+      "previous_roles": "2024- Acting Chief Executive Officer, Bank Dhofar SAOG; Nov 2021-2024 Deputy Chief Executive Officer, Bank Dhofar (chaired the Assets & Liabilities Committee and the Management Credit Committee; member of the Management Executive and Management Risk Committees, AR 2021 p.38); before Nov 2021 'several leadership positions at banks in Oman' (employers and dates not published; the bios state more than 33 years in wholesale banking, retail banking, treasury & FI, investment banking, asset management, private banking, financial control and operations). Current other roles: member of the Fund Management Body of the Bank Dhofar GCC Equity Fund (initial body, Nov 2024) and of other registered Omani funds (S37 p.33).",
+      "education": "MBA, IMD Lausanne (Switzerland)",
+      "qualifications": "Chartered Accountant, Cost Accountant and Company Secretary (India); member, Chartered Institute of Management Accountants (London); member, ACI - The Financial Markets Association; member of 'the Corporate Treasurers, London' (as written in the official bio)",
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Management page (S5, checked 2026-10-12) and MSX administration listing (S18) show him as Acting CEO. He signed the FY2025 and H1 2026 statements as Acting CEO (S2 p.132, S1 p.6). No news of a permanent CEO appointment found.",
+      "role_evidence": "Management page checked 2026-10-12 (S5); Q2 2026 presentation org chart (S3 slide 33); signed the H1 2026 statements (S1 p.6) and the FY2025 statements (S2 p.132) as Acting CEO; MSX administration listing (S18); quoted as Deputy CEO at the Jun 2024 private banking launch (S38). Role-based searches in English and Arabic for a 2025-2026 BankDhofar CEO appointment or departure found nothing, and the bank's news page carries no leadership item (S17). Predecessor: Abdul Hakeem Omar Al Ojaili, acting CEO from Oct 2013 and CEO from 18 Apr 2017 (S47, S48), last shown as CEO in the Q2 2024 presentation (S32). LinkedIn: role-based search surfaced no profile.",
       "source_ids": [
         "S5",
         "S2",
         "S1",
         "S18",
-        "S13"
+        "S13",
+        "S3",
+        "S24",
+        "S32",
+        "S33",
+        "S37",
+        "S38",
+        "S47",
+        "S48",
+        "S17"
       ],
       "checked": "2026-10-12"
     },
@@ -549,18 +571,24 @@
       "entity": "BankDhofar SAOG (Dhofar Islamic)",
       "business_unit": "Dhofar Islamic",
       "scope": "Oman",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Over two decades in Islamic and conventional banking; has led strategic and transformation initiatives (management page). No earlier posts stated.",
+      "appointed": "2025",
+      "appointed_note": "Promoted in 2025: he is 'DGM Retail Banking' in the Dhofar Islamic management lists of the Annual Reports 2023 and 2024 (S22 p.251, S21 p.120) and 'DGM & Head of Retail Banking, Dhofar Islamic' in a 17 Apr 2025 release (S43); the Q3 2025 investor presentation (S35 slide 31) and the Annual Report 2025 (S2) show him as Chief (Dhofar) Islamic Banking Officer. Predecessor: Kamal Uddin Hassan Al Maraza, Chief Maisarah Islamic Banking Officer from Jun 2020 (S31), 'General Manager & Chief Dhofar Islamic' in AR 2024 (S21). Exact date not found; a GlobalCapital headline on the appointment is paywalled and undated (seen in search results only). The investor presentations use the title 'Chief Dhofar Islamic Banking Officer' (S35, S36, S3).",
+      "previous_roles": "2025- Chief Islamic Banking Officer, Dhofar Islamic (BankDhofar's Islamic banking window; 31 branches, 113K customers); by 2023-Apr 2025 Deputy General Manager & Head of Retail Banking, Dhofar Islamic (formerly Maisarah Islamic Banking Services) (S22, S21, S43); earlier roles in Islamic and conventional banking over two decades (employers and dates not published; S5).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Management page (S5, checked 2026-10-12); FY2025 annual report lists him in the Dhofar Islamic management (S2 p.260, p.39).",
+      "role_evidence": "Management page checked 2026-10-12 (S5); AR 2025 executive profile and Dhofar Islamic management team (S2 pp.39, 260); Q2 2026 presentation org chart as 'Chief Dhofar Islamic Banking Officer' (S3 slide 33). Role-based search for a new Chief Islamic Banking Officer returned only the undated GlobalCapital headline.",
       "source_ids": [
         "S5",
-        "S2"
+        "S2",
+        "S3",
+        "S21",
+        "S22",
+        "S31",
+        "S35",
+        "S43"
       ],
       "checked": "2026-10-12"
     },
@@ -574,18 +602,24 @@
       "entity": "BankDhofar SAOG",
       "business_unit": "Retail & Government Banking",
       "scope": "Oman",
-      "appointed": null,
-      "appointed_note": "Date of the move to the retail and government role not found.",
-      "previous_roles": "29 years in banking and finance (management page).",
-      "education": "MBA, University of Hull (UK); Bachelor's in Mass Communication, Sultan Qaboos University; Executive Leadership Program, London Business School",
+      "appointed": "2026",
+      "appointed_note": "Title first shown in the Q2 2026 investor presentation org chart (S3 slide 33, published Jul 2026) and on the management page (S5). The Q4 2025 presentation (S36 slide 31) and the Annual Report 2025 (S2 pp.17, 40) still list him as Chief Corporate Services Officer, so the move dates to H1 2026; no announcement found. Retail Banking includes Al Riadah, Al Rifaa, Private Banking and Retail Wealth Management (S2).",
+      "previous_roles": "2026- Chief Retail & Government Banking Officer, Bank Dhofar SAOG; 2022-2026 Chief Corporate Services Officer, Bank Dhofar (AR 2022-AR 2025; S23, S22, S21, S2); by 2021-2022 General Manager & Chief Operating Officer, Bank Dhofar (AR 2021 p.39; chaired the Disciplinary Committee); earlier assignments at BankDhofar in management, sales and marketing, government banking, quality assurance, investment banking and priority banking (AR 2021; dates not published). Bios state 31 years in banking and finance (AR 2025).",
+      "education": "MBA, University of Hull (UK); Bachelor's degree, Mass Communication, Sultan Qaboos University; Executive Leadership Program, London Business School",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Conflicting sources",
-      "role_evidence": "The live management page (checked 2026-10-12) shows this title, but his bio text says he 'currently serves as the Chief Corporate Services Officer'. The FY2025 annual report (Jan 2026) lists him as Chief Corporate Services Officer (S2 p.17). The titles of Al Ibrahim and Al Lawati appear to have been swapped in 2026; no announcement found.",
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Management page checked 2026-10-12 shows the title (S5); the Q2 2026 presentation org chart confirms it (S3 slide 33). His page bio still says he 'currently serves as the Chief Corporate Services Officer' (stale text). AR 2025 (Jan 2026) and the Q4 2025 presentation list him as Chief Corporate Services Officer (S2, S36). Role-based search for the new title found no announcement; LinkedIn role-based search found no profile.",
       "source_ids": [
         "S5",
-        "S2"
+        "S3",
+        "S2",
+        "S36",
+        "S23",
+        "S24",
+        "S21",
+        "S22"
       ],
       "checked": "2026-10-12"
     },
@@ -594,24 +628,26 @@
       "name_ar": null,
       "title": "Chief Corporate Services Officer",
       "functions": [
-        "Retail",
         "Other"
       ],
       "entity": "BankDhofar SAOG",
-      "business_unit": "Corporate Services (previously Retail Banking)",
+      "business_unit": "Corporate Services (Retail Banking until 2026)",
       "scope": "Oman",
-      "appointed": "2022-08",
-      "appointed_note": "Joined as Chief Retail Banking Officer in August 2022.",
-      "previous_roles": "27 years in retail banking at GCC banks (management page).",
-      "education": "Bachelor's in Business Information Systems, Lincolnshire & Humberside University (UK)",
+      "appointed": "2026",
+      "appointed_note": "Title first shown in the Q2 2026 investor presentation org chart (S3 slide 33, Jul 2026) and on the management page (S5); the Q4 2025 presentation (S36 slide 31) and AR 2025 (S2 pp.17, 41) still list him as Chief Retail Banking Officer, so the move dates to H1 2026. Joined BankDhofar as Chief Retail Banking Officer in Aug 2022 (S5, S2).",
+      "previous_roles": "2026- Chief Corporate Services Officer, Bank Dhofar SAOG; Aug 2022-2026 Chief Retail Banking Officer, Bank Dhofar (quoted in branch-opening releases); before Aug 2022 retail banking roles at GCC banks over 29 years (employers and dates not published).",
+      "education": "Bachelor's degree, Business Information Systems, Lincolnshire & Humberside University (UK)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Conflicting sources",
-      "role_evidence": "The live management page (checked 2026-10-12) shows this title, but his bio says he joined as Chief Retail Banking Officer in Aug 2022 and the FY2025 annual report lists him as Chief Retail Banking Officer (S2 p.17). Press releases quote him as Chief Retail Banking Officer (search results only). Possible 2026 swap with Al Ibrahim; no announcement found.",
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Management page checked 2026-10-12 (S5) and the Q2 2026 presentation org chart (S3 slide 33) both show Chief Corporate Services Officer; his page bio still describes the Aug 2022 retail appointment. AR 2025 and the Q4 2025 presentation list him as Chief Retail Banking Officer (S2, S36). No announcement found; LinkedIn role-based search found no profile.",
       "source_ids": [
         "S5",
-        "S2"
+        "S3",
+        "S2",
+        "S36",
+        "S23"
       ],
       "checked": "2026-10-12"
     },
@@ -625,20 +661,26 @@
         "Investments / asset management"
       ],
       "entity": "BankDhofar SAOG",
-      "business_unit": "Wholesale Banking",
+      "business_unit": "Wholesale Banking (incl. Investment Banking and Asset Management per the 2025-2026 org charts)",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Start date not stated.",
-      "previous_roles": "27 years in treasury, capital markets, investments, corporate and SME banking, syndications and global financial institutions at global banks (management page).",
-      "education": "Advanced Management Program, Harvard Business School; MBA, SP Jain Institute (Mumbai); B.Tech, IIT Kharagpur",
+      "appointed": "2022",
+      "appointed_note": "Joined in 2022: absent from the Annual Report 2021 executive roster (S24 p.17, published Apr 2022) and quoted as Chief Wholesale Banking Officer on 17 Oct 2022 (S39); exact month not published. The investor presentations from Q3 2025 to Q2 2026 title him 'Chief Wholesale and Investment Banking Officer' (S35, S36, S3 slide 33), placing Investment Banking (Asset Management, Corporate Financial Advisory, Proprietary Investment) under him; the management page and AR 2025 use the shorter title.",
+      "previous_roles": "2022- Chief Wholesale Banking Officer (presentation title: Chief Wholesale and Investment Banking Officer), Bank Dhofar SAOG; before 2022 roles in treasury, capital markets, investments, corporate and SME banking, syndications and global financial institutions at global banks over 29 years (employers and dates not published).",
+      "education": "MBA, SP Jain Institute of Management (Mumbai); Bachelor of Technology, IIT Kharagpur; Advanced Management Program, Harvard Business School",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Management page (S5, checked 2026-10-12); FY2025 annual report management list (S2 p.17). The reporting line of Asset Management and Investment Banking to him is not stated.",
+      "role_evidence": "Management page checked 2026-10-12 (S5); AR 2025 (S2 pp.17, 41); Q2 2026 presentation org chart (S3 slide 33). Quoted as Chief Wholesale Banking Officer in Oct 2022 and Oct 2023 releases (S39, S52). Role-based searches found no appointment release and no LinkedIn profile.",
       "source_ids": [
         "S5",
-        "S2"
+        "S2",
+        "S3",
+        "S24",
+        "S35",
+        "S36",
+        "S39",
+        "S52"
       ],
       "checked": "2026-10-12"
     },
@@ -653,18 +695,22 @@
       "entity": "BankDhofar SAOG",
       "business_unit": "Information Technology",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Over 23 years in banking, telecom and oil and gas; previously Chief Retail Banking Officer and Digital Banking & Information Officer at BankDhofar (management page).",
-      "education": "PhD in Management (Research), Abdul Malik Sa'adi University (Morocco); Master of Management in IT, University of Ballarat (Australia); HND Computer Science, College of Banking & Financial Studies (Oman)",
+      "appointed": "2022",
+      "appointed_note": "Chief Information Officer by the Annual Report 2022 (S23 p.22, published 2023); the Annual Report 2021 (S24 p.17) still lists him as Chief Retail Banking Officer, the post he took in Jun 2020 (FY2020 board report, S31 p.3), and his successor in retail joined in Aug 2022 (S5). Exact date not published. Styled 'Dr.' in AR 2023-2025.",
+      "previous_roles": "2022- Chief Information Officer, Bank Dhofar SAOG; Jun 2020-2022 Chief Retail Banking Officer, Bank Dhofar (S31); earlier Digital Banking & Information Officer, Bank Dhofar (dates not published; S5); over 25 years in banking, telecom and oil & gas (employers not published).",
+      "education": "PhD Management (Research), Abdul Malik Sa'adi University (Morocco); Master of Management in Information Technology, University of Ballarat (Australia); Higher National Diploma Computer Science, College of Banking & Financial Studies (Oman)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Management page (S5, checked 2026-10-12); FY2025 annual report (S2 p.17).",
+      "role_evidence": "Management page checked 2026-10-12 (S5); AR 2025 (S2 pp.17, 40); Q2 2026 presentation org chart (S3 slide 33). Role-based search for a CIO appointment found none; LinkedIn role-based search found no profile.",
       "source_ids": [
         "S5",
-        "S2"
+        "S2",
+        "S3",
+        "S23",
+        "S24",
+        "S31"
       ],
       "checked": "2026-10-12"
     },
@@ -679,17 +725,19 @@
       "business_unit": "Finance",
       "scope": "Group",
       "appointed": "2021-09",
-      "appointed_note": "Joined in September 2021.",
-      "previous_roles": "Previously CFO at Al Masraf (UAE) and MD & Group CFO at Techcom Bank (Vietnam); over 25 years at HSBC, Standard Chartered, ABN AMRO and Emirates NBD (management page).",
-      "education": "Bachelor of Commerce (Honours) in Accounting",
-      "qualifications": "ACA (ICAEW and ICAI)",
+      "appointed_note": "Joined as Chief Financial Officer in Sep 2021 (S5, S2 p.42). The previous CFO, Shankar Sharma, resigned in Nov 2020 (S31).",
+      "previous_roles": "Sep 2021- Chief Financial Officer, Bank Dhofar SAOG; Chief Financial Officer, Al Masraf (UAE); Managing Director & Group Chief Financial Officer, Techcombank (Vietnam); earlier senior roles at HSBC, Standard Chartered, ABN AMRO and Emirates NBD (dates not published; career of over 26 years per AR 2025).",
+      "education": "Bachelor of Commerce (Honours), Accounting (institution not stated)",
+      "qualifications": "ACA, Institute of Chartered Accountants in England & Wales (ICAEW); Chartered Accountant, Institute of Chartered Accountants of India (ICAI)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Management page (S5, checked 2026-10-12); FY2025 annual report (S2 p.17).",
+      "role_evidence": "Management page checked 2026-10-12 (S5); AR 2025 (S2 pp.17, 42); Q2 2026 presentation org chart (S3 slide 33).",
       "source_ids": [
         "S5",
-        "S2"
+        "S2",
+        "S3",
+        "S31"
       ],
       "checked": "2026-10-12"
     },
@@ -702,19 +750,26 @@
         "Islamic / Shariah"
       ],
       "entity": "BankDhofar SAOG (Dhofar Islamic)",
-      "business_unit": "Dhofar Islamic",
+      "business_unit": "Dhofar Islamic - Investment Banking & Capital Markets",
       "scope": "Oman",
       "appointed": null,
-      "appointed_note": "Not stated.",
-      "previous_roles": null,
-      "education": null,
-      "qualifications": null,
+      "appointed_note": "Appointment date not published. Listed with this title in the Dhofar Islamic management teams of the Annual Reports 2023, 2024 and 2025 (S22 p.251, S21 p.120, S2 p.260) and in the IFN Oman Forum speaker lists of 2024, 2025 and 2026 (S44-S46).",
+      "previous_roles": "By 2023- Head of Investment Banking & Capital Markets, Dhofar Islamic - Bank Dhofar (sukuk structuring, private equity, corporate finance, asset management and advisory; led Oman's first sukuk restructuring and the OQBI Shariah advisory mandate in 2025, S2 p.262); nearly two decades in investment banking, capital markets and investments (earlier employers not named in the official bios); took part in Oman's first sukuk issuance (2013) and the government's first sovereign retail sukuk (2020) (S46). Current other roles: Grand Councilor / board member, Chartered Institute of Islamic Finance (Malaysia) (S46).",
+      "education": "Master of Business (Applied Finance), Queensland University of Technology (Australia); Bachelor of Accounting (Hons), Universiti Tenaga Nasional (Malaysia)",
+      "qualifications": "Fellow Chartered Professional in Islamic Finance, Chartered Institute of Islamic Finance (CIIF); Chartered Islamic Finance Professional, INCEIF",
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Listed in the Dhofar Islamic management list in the FY2025 annual report (S2 PDF p.260). Not on the live executive page (which lists only the 11 chief officers); no later check possible.",
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "AR 2025 Dhofar Islamic management team (S2 p.260; report published 2026); the IFN Oman Forum 2026 programme (forum of 14 Sep 2026) lists him as Head of Investment Banking and Capital Markets, Dhofar Islamic, with biography (S46); earlier confirmations in AR 2023/2024 (S22, S21), IFN 2024/2025 (S44, S45) and a Sep 2024 forum report (S42). Not on the bank's management page, which lists chief officers only (S5). Role-based search surfaced no LinkedIn profile.",
       "source_ids": [
-        "S2"
+        "S2",
+        "S21",
+        "S22",
+        "S42",
+        "S44",
+        "S45",
+        "S46",
+        "S5"
       ],
       "checked": "2026-10-12"
     },
@@ -727,19 +782,22 @@
         "Islamic / Shariah"
       ],
       "entity": "BankDhofar SAOG (Dhofar Islamic)",
-      "business_unit": "Dhofar Islamic",
+      "business_unit": "Dhofar Islamic - Retail Banking",
       "scope": "Oman",
-      "appointed": null,
-      "appointed_note": "Not stated.",
-      "previous_roles": null,
+      "appointed": "2025",
+      "appointed_note": "First listed in the Annual Report 2025 Dhofar Islamic management team (S2 p.260); the Annual Report 2024 list (S21 p.120) shows Amor Al Amri as DGM Retail Banking, so Al Raiisi took the retail post in 2025 after Al Amri's promotion. Exact date not published.",
+      "previous_roles": "2025- Assistant General Manager & Head of Retail Banking, Dhofar Islamic (BankDhofar); earlier career not published in the documents opened.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Listed in the Dhofar Islamic management list in the FY2025 annual report (S2 PDF p.260). Not on the live executive page; no later check possible.",
+      "role_status": "Verified current",
+      "role_evidence": "Listed in the Dhofar Islamic management team of AR 2025 (S2 p.260, published 2026); no later official listing (not on the bank's management page, S5, which lists chief officers only) and no contrary news in a role-based search. Dhofar Islamic's website has no management page (S12).",
       "source_ids": [
-        "S2"
+        "S2",
+        "S21",
+        "S5",
+        "S12"
       ],
       "checked": "2026-10-12"
     }
@@ -1056,7 +1114,7 @@
       "published": "2026-07",
       "accessed": "2026-10-12",
       "language": "en",
-      "note": null
+      "note": "Slide 33 is an organisational chart naming the executive team as at Jul 2026 (Acting CEO; Chief Dhofar Islamic Banking Officer; Chief Retail & Government Banking Officer; Chief Corporate Services Officer; Chief Wholesale and Investment Banking Officer; CIO; CFO; CRO; CHRO; CCO; Acting Chief Internal Auditor)."
     },
     {
       "id": "S4",
@@ -1080,7 +1138,7 @@
       "published": null,
       "accessed": "2026-10-12",
       "language": "en",
-      "note": "11 executives. Bio text for Al Ibrahim and Al Lawati is out of step with their titles."
+      "note": "11 executives (re-read 2026-10-12). Titles of Al Ibrahim and Al Lawati changed in 2026 and match the Q2 2026 presentation org chart; their bio text still describes the previous roles. No LinkedIn links on the page."
     },
     {
       "id": "S6",
@@ -1092,7 +1150,7 @@
       "published": null,
       "accessed": "2026-10-12",
       "language": "en",
-      "note": "Nine non-executive directors."
+      "note": "Nine non-executive directors (re-read 2026-10-12). Still says the Chairman chairs the Board Executive Committee, which AR 2025 reports as dissolved in 2025. No LinkedIn links on the page."
     },
     {
       "id": "S7",
@@ -1261,18 +1319,404 @@
       "accessed": "2026-10-12",
       "language": "en",
       "note": "Administration section lists the Acting CEO and Acting Chief Internal Auditor. The news section was empty when opened."
+    },
+    {
+      "id": "S21",
+      "title": "BankDhofar Annual Report 2024",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/gqmiu4xa/annual-report-2024_v2_english.pdf",
+      "doc_type": "Annual report — executive team (pp.9-10), profiles of the executives (pp.18-19), Dhofar Islamic management team (p.120)",
+      "tier": 1,
+      "published": "2025",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "PDF page numbers (printed numbers differ). Shows Gopakumar as Acting CEO, Kamal Al Maraza as General Manager & Chief Dhofar Islamic, Al Amri as DGM Retail Banking (Dhofar Islamic), Nicola Thompson as Chief Internal Auditor."
+    },
+    {
+      "id": "S22",
+      "title": "Bank Dhofar Annual Report 2023",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/et3bji0w/annual-report-2023-en-v8.pdf",
+      "doc_type": "Annual report — executive team (pp.17-18), profiles (p.40 ff.), Maisarah/Dhofar Islamic management team (p.251)",
+      "tier": 1,
+      "published": "2024",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists Abdul Hakeem Omar Al Ojaili as CEO, Gopakumar as Deputy CEO, Faisal Al Wahaibi as Chief Government Banking & Investment Banking Officer."
+    },
+    {
+      "id": "S23",
+      "title": "BankDhofar Annual Report 2022",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/vbfkgfn3/annual-report-2022-en.pdf",
+      "doc_type": "Annual report — executive team (pp.8-9) and profiles (pp.20-23)",
+      "tier": 1,
+      "published": "2023",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "First annual report showing Taha as Chief Information Officer, Korisepati as Chief Wholesale Banking Officer and Al Lawati as Chief Retail Banking Officer. Board term then stated to expire March 2025 (p.12)."
+    },
+    {
+      "id": "S24",
+      "title": "BankDhofar Annual Report 2021",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/2k0pj0mt/annual-report-2021-en5-april-final.pdf",
+      "doc_type": "Annual report — executive team (p.17) and profiles (pp.38-40)",
+      "tier": 1,
+      "published": "2022",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Roster: CEO Al Ojaili; Deputy CEO Gopakumar; Al Ibrahim as General Manager & Chief Operating Officer; Taha as Chief Retail Banking Officer; Hani Habib Macki as Head of Asset & Wealth Management. Korisepati not yet listed."
+    },
+    {
+      "id": "S25",
+      "title": "Bank Dhofar Annual Report 2019",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/43ul3dfp/2019-bd-annual-report-english_2019-final_1.pdf",
+      "doc_type": "Annual report — board profiles (p.24)",
+      "tier": 1,
+      "published": "2020",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "First report read in which Al Mahrezi is Deputy (Vice) Chairman."
+    },
+    {
+      "id": "S26",
+      "title": "Bank Dhofar Annual Report 2018",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/hwfpxbf1/2018-bd-annual-report-2018_en-web.pdf",
+      "doc_type": "Annual report — board profiles (p.22)",
+      "tier": 1,
+      "published": "2019",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Vice Chairman was Sheikh Hamoud bin Mustahail Al Mashani."
+    },
+    {
+      "id": "S27",
+      "title": "Bank Dhofar Annual Report 2017",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/jahlm5oq/2017-annual-report-en-cs6_lowres.pdf",
+      "doc_type": "Annual report — board composition (p.21)",
+      "tier": 1,
+      "published": "2018",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Vice Chairman: Sheikh Hamoud Mustahail Al Mashani."
+    },
+    {
+      "id": "S28",
+      "title": "Bank Dhofar Annual Report 2013",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/ds2mcy5v/2013_annual_report_en_23072014.pdf",
+      "doc_type": "Annual report — chairman's statement and board composition (pp.11-12, 21-27)",
+      "tier": 1,
+      "published": "2014",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Al Ojaili (Al-Aujaili spelling) as Chairman; Al Mahrezi and Tariq Al Aujaili as directors."
+    },
+    {
+      "id": "S29",
+      "title": "Bank Dhofar Annual Report 2012",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/u1tpk4ip/2012-annual_report_english_2012.pdf",
+      "doc_type": "Annual report — chairman's statement and board composition (pp.11-13, 21-22)",
+      "tier": 1,
+      "published": "2013",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Al Ojaili as Chairman (shareholder director); Al Mahrezi listed as a director (representative capacity)."
+    },
+    {
+      "id": "S30",
+      "title": "Bank Dhofar SAOG: Financial statements for the year ended 31 December 2007",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/bphhaawt/dec2007.pdf",
+      "doc_type": "Audited financial statements — signature page (p.5)",
+      "tier": 1,
+      "published": "2008",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Signed by Eng. Abdul Hafidh Salim Rajab Al-Aujaili as Chairman."
+    },
+    {
+      "id": "S31",
+      "title": "Bank Dhofar SAOG: Financial statements for the year ended 31 December 2020 (incl. Board of Directors' report)",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/veqbpudb/bank-dhofar-fs-2020_-english.pdf",
+      "doc_type": "Audited financial statements — board report 'Top Management Changes' (p.3)",
+      "tier": 1,
+      "published": "2021",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "2020 appointments: Kamal Al Maraza Chief Maisarah Islamic Banking Officer (Jun 2020); Leen Kumar Sugumaran GM & CRO (Mar 2020); Tariq Taha Chief Retail Banking Officer (Jun 2020); Sohail Niazi Chief Institutional Banking Officer; Faisal Al-Wahaibi Chief Strategic Business Officer (Jun 2020). CFO Shankar Sharma resigned Nov 2020."
+    },
+    {
+      "id": "S32",
+      "title": "Investor Presentation Q2 2024 (as at 30 June 2024)",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/j25ek0u2/ir-presentation-q2-2024-final.pdf",
+      "doc_type": "Investor presentation — board and management slides (pp.27-28)",
+      "tier": 2,
+      "published": "2024",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Management slide still shows Abdul Hakeem Omar Al Ojaili as Chief Executive Officer and Gopakumar as Deputy CEO."
+    },
+    {
+      "id": "S33",
+      "title": "Investor Presentation Q3 2024 (as at 30 September 2024)",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/1kxltnzo/ir-presentation-q3-2024.pdf",
+      "doc_type": "Investor presentation — management slide (p.28)",
+      "tier": 2,
+      "published": "2024",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "First presentation showing Gopakumar as Acting Chief Executive Officer."
+    },
+    {
+      "id": "S34",
+      "title": "Investor Presentation Q4 2024 (as at 31 December 2024)",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/v0jjvinl/ir-presentation-q4-2024-final.pdf",
+      "doc_type": "Investor presentation — board and management slides (pp.27-28)",
+      "tier": 2,
+      "published": "2025",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S35",
+      "title": "Investor Presentation Q3 2025 (as at 30 September 2025)",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/2zldglyu/ir-presentation-q3-2025.pdf",
+      "doc_type": "Investor presentation — organisational structure slide (p.31)",
+      "tier": 2,
+      "published": "2025",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "First presentation showing Al Amri as Chief Dhofar Islamic Banking Officer and Korisepati as Chief Wholesale and Investment Banking Officer; Al Lawati still Chief Retail Banking Officer, Al Ibrahim still Chief Corporate Services Officer."
+    },
+    {
+      "id": "S36",
+      "title": "Investor Presentation Q4 2025 (as at 31 December 2025)",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/5o5duphm/ir-presentation-q4-2025-final.pdf",
+      "doc_type": "Investor presentation — organisational structure slide (p.31)",
+      "tier": 2,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Al Lawati still Chief Retail Banking Officer and Al Ibrahim Chief Corporate Services Officer. The Q1 2026 presentation (ir-presentation-q1-2026.pdf) has no organisational slide."
+    },
+    {
+      "id": "S37",
+      "title": "Bank Dhofar GCC Equity Fund (Shariah compliant) — Prospectus",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://www.bankdhofar.com/media/fbyjr2lf/bankdhofar-gcc-equity-fund-shariah-compliant-prospectus-en.pdf",
+      "doc_type": "Fund prospectus approved by the FSA (resolution K/69/2024 of 27 Nov 2024) — Fund Management Body biographies (pp.33-34)",
+      "tier": 2,
+      "published": "2024-11",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Describes Gopakumar as 'currently the Acting CEO of BankDhofar' and a member of fund management bodies of registered Omani funds; Kamal Al Maraza bio as GM & Chief Islamic Banking Officer, Dhofar Islamic."
+    },
+    {
+      "id": "S38",
+      "title": "BankDhofar launches its private banking segment",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://bankdhofar.com/news/bankdhofar-launches-its-private-banking-segment/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-06-27",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Only executive quoted: Deputy CEO K. Gopakumar. No head of private banking named. Also carried by Muscat Daily (27 Jun 2024)."
+    },
+    {
+      "id": "S39",
+      "title": "BankDhofar organizes Wholesale Banking Partners' Meet",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://bankdhofar.com/news/bankdhofar-organizes-wholesale-banking-partners-meet/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2022-10-17",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Quotes CEO Abdul Hakeem Omar Al Ojaili and Mallikarjuna Korisepati, Chief Wholesale Banking Officer (earliest dated evidence of his post)."
+    },
+    {
+      "id": "S40",
+      "title": "BankDhofar Investment Banking: sustaining customer value with innovative financial strategies",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://bankdhofar.com/news/bankdhofar-investment-banking-sustaining-customer-value-with-innovative-financial-strategies/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-01-14",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Quotes Faisal Hamed Sulaiman Al Wahaibi as Chief Government Banking & Investment Banking Officer; describes the Asset Management Department (funds, discretionary and non-discretionary portfolios, fund administration)."
+    },
+    {
+      "id": "S41",
+      "title": "Achieving 92% Omanization: BankDhofar continues to empower Omani national competencies in leadership positions",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://bankdhofar.com/news/achieving-92-omanization-bankdhofar-continues-to-empower-omani-national-competencies-in-leadership-positions/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2024-05-21",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Promotions of Maryam Al Balushi (AGM Large Corporates), Ezideen Al Mazroui (AGM & Deputy CRO) and Saleh Al Hadhrami (AGM Head of Legal, Board Secretary); no chief-officer changes."
+    },
+    {
+      "id": "S42",
+      "title": "IFN Oman Forum: Dhofar Islamic boosts its commitment towards Islamic finance",
+      "publisher": "International Business Magazine",
+      "url": "https://intlbm.com/2024/09/12/ifn-oman-forum-dhofar-islamic-boosts-its-commitment-towards-islamic-finance/",
+      "doc_type": "Trade press (Dhofar Islamic release)",
+      "tier": 5,
+      "published": "2024-09-12",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Names Mohsin Shaik Mohamed as Head of Investment Banking & Capital Markets, Dhofar Islamic (moderator)."
+    },
+    {
+      "id": "S43",
+      "title": "Dhofar Islamic boosts the Islamic banking sector through 25 branches in Oman",
+      "publisher": "International Business Magazine",
+      "url": "https://intlbm.com/?p=59016",
+      "doc_type": "Trade press (Dhofar Islamic release)",
+      "tier": 5,
+      "published": "2025-04-17",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Quotes Amor Said Mohamed Al Amri as 'DGM & Head of Retail Banking, Dhofar Islamic'. The Zawya copy of the same release returned HTTP 400."
+    },
+    {
+      "id": "S44",
+      "title": "IFN Oman Forum 2024 — programme and speaker biographies",
+      "publisher": "REDmoney Events (Islamic Finance news)",
+      "url": "https://redmoneyevents.com/event/ifnoman2024/",
+      "doc_type": "Conference speaker listing and biographies",
+      "tier": 5,
+      "published": "2024",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists Mohsin Shaik Sehu Mohamed (Head of Investment Banking and Capital Markets, Dhofar Islamic) and Anand Raghavendran (Head of Asset Management, BankDhofar) with biographies."
+    },
+    {
+      "id": "S45",
+      "title": "IFN Oman Forum 2025 — programme and speaker biographies",
+      "publisher": "REDmoney Events (Islamic Finance news)",
+      "url": "https://redmoneyevents.com/event/ifnoman2025/",
+      "doc_type": "Conference speaker listing and biographies",
+      "tier": 5,
+      "published": "2025",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists Mohsin Shaik Sehu Mohamed with biography; no BankDhofar asset-management speaker."
+    },
+    {
+      "id": "S46",
+      "title": "IFN Oman Forum 2026 (14 September 2026) — programme and speaker biographies",
+      "publisher": "REDmoney Events (Islamic Finance news)",
+      "url": "https://redmoneyevents.com/event/ifnoman2026/",
+      "doc_type": "Conference speaker listing and biographies",
+      "tier": 5,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Lists Mohsin Shaik Sehu Mohamed as Head of Investment Banking and Capital Markets, Dhofar Islamic (moderator), with biography (education, designations). Adjacent speaker bios on the page belong to other people."
+    },
+    {
+      "id": "S47",
+      "title": "Al Ojaili named Bank Dhofar CEO",
+      "publisher": "Mubasher",
+      "url": "https://english.mubasher.info/news/3092479/Al-Ojaili-named-Bank-Dhofar-CEO/",
+      "doc_type": "News (MSM filing summary)",
+      "tier": 5,
+      "published": "2017-04-18",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Abdul Hakeem Omar Al Ojaili appointed CEO after serving as acting CEO since October 2013."
+    },
+    {
+      "id": "S48",
+      "title": "New chairman for Oman Banks Association",
+      "publisher": "Black & White Oman",
+      "url": "https://blackandwhiteoman.com/new-chairman-for-oman-banks-association/",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2020-07-17",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "BankDhofar CEO Abdul Hakeem Omar Al Ojaili appointed OBA chairman for 2020-2022 (biography)."
+    },
+    {
+      "id": "S49",
+      "title": "BankDhofar holds annual general meeting (22 March 2022)",
+      "publisher": "Oman Observer",
+      "url": "https://www.omanobserver.om/ampArticle/1116904",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2022-03-29",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "AGM chaired by Eng. Abdulhafidh bin Salim bin Rajab al Aujaili, Chairman; the meeting elected the Board of Directors for a new term and appointed the new Sharia Supervisory Board."
+    },
+    {
+      "id": "S50",
+      "title": "BankDhofar Holds Annual General Meeting (22 March 2023)",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://bankdhofar.com/news/bankdhofar-holds-annual-general-meeting/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2023-03-26",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "AGM chaired by Eng. Abdul Hafidh Salim Rajab Al Aujaili, Chairman of the Board."
+    },
+    {
+      "id": "S51",
+      "title": "BankDhofar drives the advancement of professional asset management in Oman",
+      "publisher": "Zawya (BankDhofar press release)",
+      "url": "https://www.zawya.com/en/press-release/bankdhofar-drives-the-advancement-of-professional-asset-management-in-oman-482855",
+      "doc_type": "Press release (Zawya copy)",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Undated on the page as read (content refers to the AI capex cycle, so 2025-2026). Quotes Juma Al Jabri, Assistant General Manager - Treasury & Investment Banking, BankDhofar, on the asset management team."
+    },
+    {
+      "id": "S52",
+      "title": "BankDhofar elevates commitment to exceptional service and collaboration at Wholesale Banking Partners Event",
+      "publisher": "Bank Dhofar SAOG",
+      "url": "https://bankdhofar.com/news/bankdhofar-elevates-commitment-to-exceptional-service-and-collaboration-at-wholesale-banking-partners-event/",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2023-10-09",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Quotes Mallikarjuna Korisepati, Chief Wholesale Banking Officer."
     }
   ],
   "original_reconciliation": [],
   "discrepancies": [
     {
       "field": "Titles of Ahmed Al Ibrahim and Amjad Al Lawati",
-      "detail": "The FY2025 annual report (Jan 2026) lists Ahmed Al Ibrahim as Chief Corporate Services Officer and Amjad Al Lawati as Chief Retail Banking Officer. The live management page (12 Oct 2026) shows Al Ibrahim as Chief Retail & Government Banking Officer and Al Lawati as Chief Corporate Services Officer, but each bio still describes the other role.",
+      "detail": "AR 2025 (published Jan-Mar 2026) and the Q4 2025 investor presentation list Al Ibrahim as Chief Corporate Services Officer and Al Lawati as Chief Retail Banking Officer. The management page (12 Oct 2026) and the Q2 2026 presentation org chart (Jul 2026) show Al Ibrahim as Chief Retail & Government Banking Officer and Al Lawati as Chief Corporate Services Officer, while each page bio still describes the previous role.",
       "source_ids": [
         "S2",
-        "S5"
+        "S36",
+        "S5",
+        "S3"
       ],
-      "resolution": "Used the live page titles, flagged both as Conflicting sources. No announcement found. Retail (which includes wealth and private banking) therefore appears to have a new head in 2026."
+      "resolution": "Used the 2026 titles, confirmed by the dated Q2 2026 presentation; both set to Verified current with the change dated H1 2026. No announcement found. Retail (incl. wealth and private banking) is therefore led by Al Ibrahim since 2026."
     },
     {
       "field": "Branch count",
@@ -1292,19 +1736,65 @@
         "S13"
       ],
       "resolution": "Both recorded. Model portfolios marked Yes on the strength of the annual report; product details not published."
+    },
+    {
+      "field": "Chairman's committee role",
+      "detail": "The board page says the Chairman chairs the Board Executive Committee; AR 2025 states the Board Executive Committee was dissolved and its authorities transferred to the full Board (Board Resolution 1/2/2025).",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "resolution": "Recorded the committee as dissolved in 2025 (annual report, tier 1); the board page is stale."
+    },
+    {
+      "field": "Title of Mallikarjuna Korisepati",
+      "detail": "Management page and AR 2025: 'Chief Wholesale Banking Officer'. Investor presentations Q3 2025, Q4 2025 and Q2 2026: 'Chief Wholesale and Investment Banking Officer'.",
+      "source_ids": [
+        "S5",
+        "S2",
+        "S35",
+        "S36",
+        "S3"
+      ],
+      "resolution": "Kept the management-page title; the longer title is recorded in the notes and shows Investment Banking reports to him."
+    },
+    {
+      "field": "Title of Amor Al Amri",
+      "detail": "Management page and AR 2025: 'Chief Islamic Banking Officer'. Investor presentations Q3 2025 to Q2 2026: 'Chief Dhofar Islamic Banking Officer'. AR 2024 and an Apr 2025 release still show him as DGM (& Head of) Retail Banking, Dhofar Islamic.",
+      "source_ids": [
+        "S5",
+        "S2",
+        "S35",
+        "S3",
+        "S21",
+        "S43"
+      ],
+      "resolution": "Kept the management-page title; promotion dated to 2025 from the sequence of documents."
+    },
+    {
+      "field": "Al Mahrezi years of experience",
+      "detail": "Board page: more than 36 years; AR 2025 profile: more than 38 years.",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "resolution": "Used the annual report figure (later document); no career dates are published."
     }
   ],
   "open_items": [
     "Lead check: 'Maisarah Islamic window' is the former name. The FY2025 annual report says the window is 'Dhofar Islamic (formerly Maisarah Islamic Banking services)' (S2 note 1). The rebrand date was not found; the annual report's Basel text still says 'Maisarah entity' in one place.",
     "Lead check: relationship with Ubhar Capital is not supported. No Bank Dhofar shareholding in Ubhar Capital or joint deal was found in the annual report, the FSA register or search results, consistent with om-ubhar.json (owners are Jabreen Capital/OMINVEST and Arab Bank (Switzerland)). The only link is indirect: OMINVEST (Ubhar's controlling group) led a rival 2023 bid for Ahli Bank against Bank Dhofar (S16).",
     "Merger check 2024-2026: no merger involving Bank Dhofar was found other than the completed acquisition of Bank of Baroda's Oman branch (1 Apr 2025). In 2023 Bank Dhofar proposed to merge with Ahli Bank (rejected by Ahli's board, April 2023; S19) and then made a takeover offer in May 2023 against a competing OMINVEST-led offer (S16); neither is recorded as completed and Ahli Bank still files its own results (see om-ahlibank). The July 2026 Bank Nizwa proposal to buy Alizz Islamic Bank from Oman Arab Bank does not involve Bank Dhofar.",
-    "The date Gopakumar became Acting CEO and the reason are not in official sources opened. A third-party profile (Simply Wall St, not cited) gives 5 Sep 2024. Check MSX disclosures for the announcement and any permanent CEO appointment.",
-    "No named head of Private Banking, Retail Wealth Management or Asset Management was found. The live page lists only 11 chief officers; the annual report names Dhofar Islamic heads (two included as Requires verification).",
     "BlackRock partnership: which BlackRock products, platform and technology are used, and the start date for clients, are not published. The announcement states no minimum or eligibility.",
     "Al Rifaa Privilege eligibility, and the currency of the Al Riadah and Private Banking thresholds, are not stated on the pages opened (OMR is likely but not confirmed).",
     "Q3 2026 results were not published on the IR page on 12 Oct 2026. Re-check late October.",
-    "LinkedIn search for the Acting CEO returned no matching profile; other people were not checked.",
-    "Ticker BKDB is taken from the IR page's link to the MSX snapshot; the MSX page itself showed no news items."
+    "Ticker BKDB is taken from the IR page's link to the MSX snapshot; the MSX page itself showed no news items.",
+    "Acting CEO: the change from CEO Abdul Hakeem Omar Al Ojaili (acting CEO Oct 2013, CEO Apr 2017; S47) to Acting CEO Gopakumar falls between the Q2 2024 and Q3 2024 investor presentations (S32, S33); no MSX disclosure, bank release or news item on the departure or on a permanent CEO appointment was found up to 12 Oct 2026 (MSX snapshot news empty, S18; bank news page, S17; EN/AR role-based searches). The former CEO is not profiled (not in the file before this pass). A third-party data profile gives 5 Sep 2024 (not cited).",
+    "Asset management leadership (leads, not added): the IFN Oman Forum 2024 speaker list names Anand Raghavendran as Head of Asset Management, BankDhofar (Sep 2024; previously SVP Gulf Islamic Investments and Fund Manager Private Markets at Bank Muscat per the conference bio, S44); he does not appear on official pages or in the 2025/2026 IFN lists. An undated BankDhofar release on Zawya quotes Juma Al Jabri, Assistant General Manager - Treasury & Investment Banking, on the asset management team (S51). AR 2021 listed Hani Habib Macki as Head of Asset & Wealth Management (S24). The Jul 2026 org chart places Investment Banking under Korisepati (S3). No head of Private Banking or Retail Wealth Management is named anywhere opened; the Jun 2024 launch release quotes only the Deputy CEO (S38).",
+    "Faisal Hamed Sulaiman Al Wahaibi, Chief Government Banking & Investment Banking Officer in AR 2022-AR 2023 and quoted in Jan 2024 (S40), is absent from the AR 2024 and later rosters; no departure announcement found. Government Banking now sits with Al Ibrahim (2026 title) and Investment Banking with Korisepati (S3 slide 33).",
+    "Blocked or unreadable in this pass: zawya.com copy of the Apr 2025 Dhofar Islamic release (HTTP 400; intlbm copy used, S43); GlobalCapital article 'Oman: Bank Dhofar appoints new chief Islamic banking officer' (JavaScript/paywall, undated, not cited); Arabic management page (404); 2003 and 1995 reports are scanned PDFs without text; the Q1 2026 presentation has no organisational slide; dhofarislamic.com has no management page.",
+    "LinkedIn: no official links on the board or management pages. Role-based searches for the Acting CEO, Chief Information Officer, Chief Wholesale Banking Officer and Chief Retail Banking Officer surfaced no profiles; name-based look-ups are not permitted in this environment, so all linkedin_url remain null.",
+    "Not profiled (outside the pass scope): the seven other directors with AR 2025 bios (S2 pp.25-26), the five Sharia Supervisory Board members (Sheikh Abdullah bin Ali bin Aslam Al Shihri, Chairman; Sheikh Azzan bin Nasser bin Farfoor Al Amri, Deputy Chairman; Sheikh Dr. Abdul Rub Al Yafai; Sheikh Dr. Hilal Al Lawati; Dr. Amin Fateh; S2 pp.27, 258, 310), control-function chiefs (Sugumaran CRO since Mar 2020, Al Hamadani CHRO, Al Zadjali CCO, Al Mazroui Acting CIA) and the other Dhofar Islamic heads (Fawaz Al Ojaili, Acting AGM & Head Corporate Banking; Yahya Al Sharaiqi, Head of Treasury; Abdul Hakim bin Osman, Head of Shariah Compliance & Audit; S2 p.260)."
   ],
   "research_status": "Complete",
   "researched_by": "B31",
