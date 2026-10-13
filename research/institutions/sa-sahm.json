@@ -12,91 +12,792 @@
   "type": "Brokerage / investment platform",
   "model": "Not applicable",
   "founded": "2022 (established 20 Jan 2022 in Riyadh; CMA licence 22251-25 for dealing, custody and advising; operations began 1 Oct 2023; Sahm App launched Dec 2023)",
-  "regulators": ["CMA", "DFSA"],
+  "regulators": [
+    "CMA",
+    "DFSA"
+  ],
   "listed": false,
   "exchange": null,
   "ticker": null,
   "parent_id": null,
   "ownership_summary": "Wholly owned (100%, 9,375,000 shares, SAR 93.75m capital) by Valuable Capital Group Limited (VCGL) at 31 Dec 2025; the audited statements call VCGL the ultimate parent and controlling party. PIF-backed ewpartners (formerly eWTP Arabia Capital) led a USD 48m strategic investment in VCGL on 12 Feb 2025 (stake and valuation not disclosed); no investor sits directly in Sahm Capital.",
   "shareholders": [
-    {"holder": "Valuable Capital Group Limited (VCGL)", "pct": 100, "as_of": "2025-12-31", "source_ids": ["S3", "S2"]},
-    {"holder": "ewpartners (PIF-backed; investor in the parent VCGL, not in Sahm Capital directly; USD 48m, stake undisclosed)", "pct": null, "as_of": "2025-02-12", "source_ids": ["S14"]}
+    {
+      "holder": "Valuable Capital Group Limited (VCGL)",
+      "pct": 100,
+      "as_of": "2025-12-31",
+      "source_ids": [
+        "S3",
+        "S2"
+      ]
+    },
+    {
+      "holder": "ewpartners (PIF-backed; investor in the parent VCGL, not in Sahm Capital directly; USD 48m, stake undisclosed)",
+      "pct": null,
+      "as_of": "2025-02-12",
+      "source_ids": [
+        "S14"
+      ]
+    }
   ],
   "government_link": "Indirect only: ewpartners, described as PIF-backed, led a USD 48m strategic investment in the parent group VCGL in Feb 2025 (S14). No state holding in Sahm Capital itself (S3).",
   "group_structure": "Sahm Capital Financial Company is the CMA-licensed Saudi operating entity of Valuable Capital Group Limited, which also has licensed entities in Hong Kong, the US, Singapore, the UAE and Kazakhstan (CEO speech, 5 Oct 2026). The UAE entity, Sahm Financial Limited (DIFC, DFSA ref F012218, company CL10742), is a VCGL subsidiary with the same chairman, not a subsidiary of Sahm Capital KSA. Brokerage technology, execution and clearing are bought from group affiliates (Valuable Capital Limited, Tickrs Clearing LLC), which charged SAR 126.9m and SAR 32.1m in 2025 (S3 note 13). Sahm Capital has a branch (CR 1010810235, named 'Sahm al-mal Professional Services Company' in the statements and 'Sahm Business Services Company' on the website) and opened a Jeddah customer-service office in 2026.",
   "subsidiaries": [
-    {"name": "Sahm al-mal Professional Services Company (branch, CR 1010810235)", "pct": null, "activity": "Branch of Sahm Capital included in the financial statements; name differs on the website", "linked_id": null, "source_ids": ["S3", "S2"]}
+    {
+      "name": "Sahm al-mal Professional Services Company (branch, CR 1010810235)",
+      "pct": null,
+      "activity": "Branch of Sahm Capital included in the financial statements; name differs on the website",
+      "linked_id": null,
+      "source_ids": [
+        "S3",
+        "S2"
+      ]
+    }
   ],
   "footprint": "Riyadh head office (KAFD) and a customer-service office in Jeddah (Al Zahra district, opened 2026). Services Saudi and US markets; onboards foreign individual investors worldwide from Feb 2026; UAE residents via Sahm Financial Limited (DIFC) from Sep 2026. Checked 2026-10-12.",
   "customer_segments": "Mass retail investors (no account or transaction minimums), active traders using margin and options, foreign individual investors onboarding to Saudi equities from Feb 2026, and UAE investors from Sep 2026.",
   "business_lines": "Digital stockbroking through the Sahm App: Saudi and US stocks, ETFs, options (US index options since Oct 2024), warrants, OTC, REITs, IPO subscriptions and margin (including Murabaha margin); Sahm AI assistant, Sahm Academy and Sahm Community. Brokerage commission and handling charges were 92% of FY2025 operating income. Licensed for fund management but asset management fee income was SAR 16,938 in 2025.",
   "metrics": [
-    {"metric": "total_assets", "value": 343809804, "unit": "unit", "currency": "SAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Company (single entity)", "definition": "Total assets, audited statement of financial position (31 Dec 2024: 124,064,050)", "status": "Verified", "source_ids": ["S3"], "locator": "printed p.3 (PDF p.5)", "note": "Audited by KPMG, report signed 30 Mar 2026. No 30 Jun 2026 or other interim statements published. Includes cash SAR 180.1m and margin financing receivables SAR 104.2m."},
-    {"metric": "total_equity", "value": 162844522, "unit": "unit", "currency": "SAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Company (single entity)", "definition": "Total equity (share capital 93,750,000; additional capital contribution 24,814,962; retained earnings 44,279,560)", "status": "Verified", "source_ids": ["S3"], "locator": "printed p.3", "note": "31 Dec 2024: 83,793,447."},
-    {"metric": "operating_income", "value": 494099133, "unit": "unit", "currency": "SAR", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Company (single entity)", "definition": "Total operating income: brokerage commission and handling charge income 453,576,400; special commission income 25,425,375; other operating income 15,080,420; asset management fee 16,938", "status": "Verified", "source_ids": ["S3"], "locator": "printed p.4 and note 16", "note": "FY2024: 118,854,727 (4.2x growth)."},
-    {"metric": "net_profit", "value": 78982526, "unit": "unit", "currency": "SAR", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Company (single entity)", "definition": "Net income for the year after income tax of 16,678,151 and deferred tax charge of 11,179,053 (pre-tax 106,839,730)", "status": "Verified", "source_ids": ["S3"], "locator": "printed p.4", "note": "FY2024 net loss 7,061,870. Whole profit accrues to the single shareholder."},
-    {"metric": "margin_client_receivables", "value": 104211111, "unit": "unit", "currency": "SAR", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Company (single entity)", "definition": "Receivables against margin financing, statement of financial position (31 Dec 2024: 32,233,228)", "status": "Verified", "source_ids": ["S3"], "locator": "printed p.3", "note": ""},
-    {"metric": "selling_and_marketing_expense", "value": 147935215, "unit": "unit", "currency": "SAR", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Company (single entity)", "definition": "Selling and marketing expenses (30% of operating income; FY2024: 57,509,078)", "status": "Verified", "source_ids": ["S3"], "locator": "printed p.4", "note": "Commission, handling and settlement expenses were a further SAR 166.5m, largely paid to group affiliates."},
-    {"metric": "customers", "value": 2000000, "unit": "unit", "currency": null, "period_end": "2026-05-20", "period_label": "Announced 20 May 2026 ('more than 2 million users')", "period_type": "point_in_time", "scope": "Sahm App", "definition": "'Users' of the Sahm App as stated by the company; registered, funded or active not defined (an Oct 2026 CEO speech calls them 'registered users')", "status": "Requires verification", "source_ids": ["S12", "S13"], "locator": "", "note": "Company claim in paid press releases. Earlier: over 1 million users in Dec 2024 / Jan 2025 (S15); 'nearly 70% user growth in 2025' (Dec 2025 release seen in search results only, S20)."},
-    {"metric": "customers", "value": 1500000, "unit": "unit", "currency": null, "period_end": "2026-10-12", "period_label": "Sahm website, accessed 12 Oct 2026 (undated)", "period_type": "point_in_time", "scope": "Sahm website", "definition": "'Registered users 1.5 Million+' on the homepage next to 'Cumulative active users 3.3 Million+' and 'Cumulative downloads 3.8 Million+'", "status": "Conflicting sources", "source_ids": ["S1"], "locator": "Why Choose Us section", "note": "Lower than the 2m+ users announced in May 2026 and 'cumulative active users' exceed registered users, so definitions differ. Treat all as indicative."},
-    {"metric": "investing_users", "value": 3300000, "unit": "unit", "currency": null, "period_end": "2026-10-12", "period_label": "Sahm website, accessed 12 Oct 2026 (undated)", "period_type": "point_in_time", "scope": "Sahm website", "definition": "'Cumulative active users 3.3 Million+' as labelled by the company; 'cumulative' basis and time window not defined", "status": "Requires verification", "source_ids": ["S1"], "locator": "Why Choose Us section", "note": "Not a count of funded accounts."}
+    {
+      "metric": "total_assets",
+      "value": 343809804,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Company (single entity)",
+      "definition": "Total assets, audited statement of financial position (31 Dec 2024: 124,064,050)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "printed p.3 (PDF p.5)",
+      "note": "Audited by KPMG, report signed 30 Mar 2026. No 30 Jun 2026 or other interim statements published. Includes cash SAR 180.1m and margin financing receivables SAR 104.2m."
+    },
+    {
+      "metric": "total_equity",
+      "value": 162844522,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Company (single entity)",
+      "definition": "Total equity (share capital 93,750,000; additional capital contribution 24,814,962; retained earnings 44,279,560)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "printed p.3",
+      "note": "31 Dec 2024: 83,793,447."
+    },
+    {
+      "metric": "operating_income",
+      "value": 494099133,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Company (single entity)",
+      "definition": "Total operating income: brokerage commission and handling charge income 453,576,400; special commission income 25,425,375; other operating income 15,080,420; asset management fee 16,938",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "printed p.4 and note 16",
+      "note": "FY2024: 118,854,727 (4.2x growth)."
+    },
+    {
+      "metric": "net_profit",
+      "value": 78982526,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Company (single entity)",
+      "definition": "Net income for the year after income tax of 16,678,151 and deferred tax charge of 11,179,053 (pre-tax 106,839,730)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "printed p.4",
+      "note": "FY2024 net loss 7,061,870. Whole profit accrues to the single shareholder."
+    },
+    {
+      "metric": "margin_client_receivables",
+      "value": 104211111,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Company (single entity)",
+      "definition": "Receivables against margin financing, statement of financial position (31 Dec 2024: 32,233,228)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "printed p.3",
+      "note": ""
+    },
+    {
+      "metric": "selling_and_marketing_expense",
+      "value": 147935215,
+      "unit": "unit",
+      "currency": "SAR",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Company (single entity)",
+      "definition": "Selling and marketing expenses (30% of operating income; FY2024: 57,509,078)",
+      "status": "Verified",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "printed p.4",
+      "note": "Commission, handling and settlement expenses were a further SAR 166.5m, largely paid to group affiliates."
+    },
+    {
+      "metric": "customers",
+      "value": 2000000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-05-20",
+      "period_label": "Announced 20 May 2026 ('more than 2 million users')",
+      "period_type": "point_in_time",
+      "scope": "Sahm App",
+      "definition": "'Users' of the Sahm App as stated by the company; registered, funded or active not defined (an Oct 2026 CEO speech calls them 'registered users')",
+      "status": "Requires verification",
+      "source_ids": [
+        "S12",
+        "S13"
+      ],
+      "locator": "",
+      "note": "Company claim in paid press releases. Earlier: over 1 million users in Dec 2024 / Jan 2025 (S15); 'nearly 70% user growth in 2025' (Dec 2025 release seen in search results only, S20)."
+    },
+    {
+      "metric": "customers",
+      "value": 1500000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Sahm website, accessed 12 Oct 2026 (undated)",
+      "period_type": "point_in_time",
+      "scope": "Sahm website",
+      "definition": "'Registered users 1.5 Million+' on the homepage next to 'Cumulative active users 3.3 Million+' and 'Cumulative downloads 3.8 Million+'",
+      "status": "Conflicting sources",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "Why Choose Us section",
+      "note": "Lower than the 2m+ users announced in May 2026 and 'cumulative active users' exceed registered users, so definitions differ. Treat all as indicative."
+    },
+    {
+      "metric": "investing_users",
+      "value": 3300000,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-10-12",
+      "period_label": "Sahm website, accessed 12 Oct 2026 (undated)",
+      "period_type": "point_in_time",
+      "scope": "Sahm website",
+      "definition": "'Cumulative active users 3.3 Million+' as labelled by the company; 'cumulative' basis and time window not defined",
+      "status": "Requires verification",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "Why Choose Us section",
+      "note": "Not a count of funded accounts."
+    }
   ],
   "disclosure_checks": [
-    {"metric": "aum", "status": "Not publicly disclosed", "where_checked": "Website (S1, S2), audited FY2025 statements (S3: asset management fee income only SAR 16,938), press releases 2024-2026 (S8, S12, S16, S19)."},
-    {"metric": "aua", "status": "Not publicly disclosed", "where_checked": "Same sources; no client assets, custody or trading value figure published (checked 2026-10-12)."},
-    {"metric": "brokerage_trading_value", "status": "Not publicly disclosed", "where_checked": "Website, FY2025 statements and press releases; no traded value or market-share figure found."},
-    {"metric": "employees", "status": "Not publicly disclosed", "where_checked": "About page (S2) and FY2025 statements (S3: salary and benefits expense SAR 23.7m; no headcount). VCGL says over 70% of group staff work in R&D (S10)."},
-    {"metric": "net_profit_1H2026", "status": "Not publicly disclosed", "where_checked": "No interim statements or 2026 results on sahmcapital.com/about (disclosure section lists FY2023-FY2025 only)."}
+    {
+      "metric": "aum",
+      "status": "Not publicly disclosed",
+      "where_checked": "Website (S1, S2), audited FY2025 statements (S3: asset management fee income only SAR 16,938), press releases 2024-2026 (S8, S12, S16, S19)."
+    },
+    {
+      "metric": "aua",
+      "status": "Not publicly disclosed",
+      "where_checked": "Same sources; no client assets, custody or trading value figure published (checked 2026-10-12)."
+    },
+    {
+      "metric": "brokerage_trading_value",
+      "status": "Not publicly disclosed",
+      "where_checked": "Website, FY2025 statements and press releases; no traded value or market-share figure found."
+    },
+    {
+      "metric": "employees",
+      "status": "Not publicly disclosed",
+      "where_checked": "About page (S2) and FY2025 statements (S3: salary and benefits expense SAR 23.7m; no headcount). VCGL says over 70% of group staff work in R&D (S10)."
+    },
+    {
+      "metric": "net_profit_1H2026",
+      "status": "Not publicly disclosed",
+      "where_checked": "No interim statements or 2026 results on sahmcapital.com/about (disclosure section lists FY2023-FY2025 only)."
+    }
   ],
   "people": [
-    {"name": "Yeh Hung (Steven) Chou", "name_ar": null, "title": "Chairman of Sahm Capital (KSA) and Sahm Financial Limited (DIFC); Chief Strategy Officer, Valuable Capital Group Ltd", "functions": ["Chair", "Strategy"], "entity": "Sahm Capital Financial Company", "business_unit": "Board", "scope": "Group", "appointed": null, "appointed_note": "Appointment date not stated; named as chairman in Feb 2025 (DealStreetAsia).", "previous_roles": "Over 20 years in financial markets and regulatory bodies across Mainland China, Hong Kong, Taiwan and Japan, including HKEX and the Taiwan Futures Exchange; licensed HKEX participant; Hong Kong SFC Type 1, 2 and 5 Responsible Officer and Type 4 Representative; in 2025 appointed Chairman of the Fintech and Innovation Committee of the Arab Federation of Capital Markets (S2).", "education": "Master of Science, State University of New York; executive studies, MIT Sloan School of Management", "qualifications": "HKEX participant licence; HK SFC Types 1, 2, 4, 5", "linkedin_url": "https://sa.linkedin.com/in/steven-y-chou-aa34709", "linkedin_status": "Verified (profile/search match)", "role_status": "Verified current", "role_evidence": "Official About page (S2); quoted as Chairman in releases of 20 May 2026 (S12) and 29 Sep 2026 (S11). LinkedIn search result headline 'Chairman of Sahm Capital, KSA' (S18). No departure news found; checked 2026-10-12.", "source_ids": ["S2", "S11", "S12", "S14", "S18"], "checked": "2026-10-12"},
-    {"name": "Ting (Jess) Cheung", "name_ar": null, "title": "Vice Chairman of the Board; Co-founder and CEO, Valuable Capital Group Ltd", "functions": ["Board"], "entity": "Sahm Capital Financial Company", "business_unit": "Board", "scope": "Group", "appointed": null, "appointed_note": "CEO of VCGL since 2016 and VCGL board member since Jul 2017 (About page); Sahm board date not stated.", "previous_roles": "Co-founder and CEO of Valuable Capital Group; founded TRR Trading Co. (2015); co-founded Pearlica Technologies Limited (S2).", "education": "MBA, Cheung Kong Graduate School of Business (2015); bachelor's degree, Simon Fraser University (2010)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official About page (S2); quoted as co-founder and CEO of VCGL at the AFCM conference on 5 Oct 2026 (S13) and on the Feb 2025 ewpartners deal (S14). A LinkedIn search result (linkedin.com/in/jesscheungvcgl) shows the name and VCGL but no title, so it is not recorded. Checked 2026-10-12.", "source_ids": ["S2", "S13", "S14"], "checked": "2026-10-12"},
-    {"name": "Sze Yin Lee (Ryan)", "name_ar": null, "title": "General Manager, Chief Operating Officer and Personal Data Protection Officer", "functions": ["CEO", "Operations"], "entity": "Sahm Capital Financial Company", "business_unit": "Management", "scope": "Group", "appointed": null, "appointed_note": "Start date not stated.", "previous_roles": "Over a decade in international financial markets across Saudi Arabia and Hong Kong (About page bio); oversees strategy, business development, operations, governance and compliance.", "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Conflicting sources", "role_evidence": "The official management page lists him as General Manager (S2), but company releases from Oct 2024 to Feb 2025 name Hadeel Bedeeri as General Manager (S9, S15, S24) and no 2026 release names either as GM. A search for his name beside Sahm returned nothing. Checked 2026-10-12.", "source_ids": ["S2", "S9", "S15", "S24"], "checked": "2026-10-12"},
-    {"name": "Hadeel Bedeeri", "name_ar": "هديل بديري", "title": "General Manager (as named in company releases Oct 2024 to Feb 2025)", "functions": ["CEO"], "entity": "Sahm Capital Financial Company", "business_unit": "Management", "scope": "Group", "appointed": null, "appointed_note": "Start date not found.", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Requires verification", "role_evidence": "Quoted as General Manager on 15-16 Oct 2024 (S8, S9), in the one-million-users release of Dec 2024 / Jan 2025 (S15) and at the CMF Riyadh bootcamp in Feb 2025 (S24). She is not on the current official management page (S2). No 2026 source found; LinkedIn not matched.", "source_ids": ["S8", "S9", "S15", "S24"], "checked": "2026-10-12"},
-    {"name": "Mohammed Asiri", "name_ar": null, "title": "Chief Financial Officer", "functions": ["Finance"], "entity": "Sahm Capital Financial Company", "business_unit": "Finance", "scope": "Group", "appointed": null, "appointed_note": "Start date not found.", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Requires verification", "role_evidence": "Quoted as CFO of Sahm in the Feb 2026 foreign-investor release (S16) and the 2026 Jeddah office release (S17); also in a Dec 2025 release seen in search results only (S20). Not listed on the official management page (S2).", "source_ids": ["S16", "S17", "S20", "S2"], "checked": "2026-10-12"},
-    {"name": "Huma Ejaz", "name_ar": null, "title": "VP, Advisory and Asset Management", "functions": ["Investments / asset management"], "entity": "Sahm Capital Financial Company", "business_unit": "Advisory and asset management", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": "Over 17 years in corporate finance, accountancy, financial reporting, audit and risk, including chartered accountant firms, hospitality, microfinance and tech start-ups (About page bio).", "education": null, "qualifications": "Certified Public Accountant (ICPAP); accountancy and finance certification from the Institute of Chartered Accountants of Pakistan (ICAP); financial modelling, valuation and corporate finance certificates", "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Official About page (S2). A LinkedIn search result shows 'Huma Ejaz Ahmed - Sahm Capital' without a title, so it is not recorded. Checked 2026-10-12.", "source_ids": ["S2"], "checked": "2026-10-12"},
-    {"name": "Lina Assaf", "name_ar": null, "title": "Head of Compliance and AML", "functions": ["Other"], "entity": "Sahm Capital Financial Company", "business_unit": "Compliance", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": "Financial services and investment career from 2008; Compliance and AML manager at several financial companies (About page bio).", "education": "Bachelor of Business Administration, King Abdulaziz University", "qualifications": "CMA certificates in compliance control and AML reporting", "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official About page (S2); checked 2026-10-12.", "source_ids": ["S2"], "checked": "2026-10-12"},
-    {"name": "Mahmood Saeed", "name_ar": null, "title": "Head of IT", "functions": ["Technology"], "entity": "Sahm Capital Financial Company", "business_unit": "Information technology", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": "Career from 2000; consultant at the Ministry of Finance; multinational experience at Samsung and SASCO (About page bio).", "education": "Bachelor's degree in information technology; pursuing an MBA at Anglia Ruskin University (UK)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official About page (S2); checked 2026-10-12.", "source_ids": ["S2"], "checked": "2026-10-12"},
-    {"name": "Gary Lee", "name_ar": null, "title": "Board member; Overall Management Oversight at Valuable Capital Limited", "functions": ["Board"], "entity": "Sahm Capital Financial Company", "business_unit": "Board", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": "Responsible Officer at Valuable Capital Limited (Hong Kong SFC Types 1, 2, 4, 5, 9), overseeing ECM, DCM, brokerage, asset management, wealth management and custody (About page bio).", "education": null, "qualifications": "HK SFC Responsible Officer, Types 1, 2, 4, 5, 9", "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official About page (S2); checked 2026-10-12.", "source_ids": ["S2"], "checked": "2026-10-12"},
-    {"name": "Vernon Cassin", "name_ar": null, "title": "Independent Board Member", "functions": ["Board"], "entity": "Sahm Capital Financial Company", "business_unit": "Board", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": "International finance lawyer in New York, Singapore and Riyadh; 15 years as partner-in-charge of a leading international law firm's Riyadh office; early venture investor (About page bio).", "education": "Princeton University; Harvard Law School", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official About page (S2); checked 2026-10-12.", "source_ids": ["S2"], "checked": "2026-10-12"},
-    {"name": "Shiu Shan (Andrew) Chan", "name_ar": null, "title": "Independent Board Member; President, Yuzhou Financial Holdings (Hong Kong) Limited", "functions": ["Board"], "entity": "Sahm Capital Financial Company", "business_unit": "Board", "scope": "Group", "appointed": null, "appointed_note": "", "previous_roles": "Head of Investment Manager Services, BNP Paribas Securities Services (Australia) in 2005; director or CEO roles in petroleum, electricity and food companies (About page bio).", "education": "Executive MBA, City University of Hong Kong", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official About page (S2); checked 2026-10-12.", "source_ids": ["S2"], "checked": "2026-10-12"}
+    {
+      "name": "Yeh Hung (Steven) Chou",
+      "name_ar": null,
+      "title": "Chairman of Sahm Capital (KSA) and Sahm Financial Limited (DIFC); Chief Strategy Officer, Valuable Capital Group Ltd",
+      "functions": [
+        "Chair",
+        "Strategy"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not stated. Named Chairman of Sahm Capital and Chief Strategy Officer of Valuable Capital Group Limited in the release of 8 Sep 2024 (S27); the Annual Board Report 2025 lists him as non-executive Chairman and he signed it (S26).",
+      "previous_roles": "Chairman, Sahm Capital (non-executive, per the 2025 board report); Chief Strategy Officer, Valuable Capital Group Ltd; before that more than 20 years in financial markets and regulatory bodies across Mainland China, Hong Kong, Taiwan and Japan, including roles at HKEX and the Taiwan Futures Exchange, with senior management, board and committee positions for more than a decade in business development, marketing and corporate strategy (years per role not stated). Current other roles: Chairman, Sahm Financial Limited (DIFC) (S12); Chairman of the Fintech and Innovation Committee, Arab Federation of Capital Markets (appointed 2025); the 2025 board report lists no other directorships for him (S26).",
+      "education": "Master of Science, State University of New York (campus and field not stated); executive studies, MIT Sloan School of Management",
+      "qualifications": "Licensed participant of HKEX; Hong Kong SFC Responsible Officer for Types 1, 2 and 5 and Representative for Type 4",
+      "linkedin_url": "https://sa.linkedin.com/in/steven-y-chou-aa34709",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page checked 2026-10-13: board section read from the site's text file (S25) and the server-delivered page (S2); Annual Board Report 2025 signed as Chairman (S26); quoted as Chairman in releases of 20 May 2026 (S12) and 29 Sep 2026 (S11) and on 8 Sep 2024 (S27). LinkedIn search results on 2026-10-13 again returned the profile with the headline 'Chairman of Sahm Capital, KSA' (S18). No departure news found.",
+      "source_ids": [
+        "S2",
+        "S11",
+        "S12",
+        "S14",
+        "S18",
+        "S25",
+        "S26",
+        "S27"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Ting (Jess) Cheung",
+      "name_ar": null,
+      "title": "Vice Chairman of the Board (non-executive); Co-founder and CEO, Valuable Capital Group Ltd",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Sahm board date not stated. Vice Chairman (non-executive) per the 2025 board report (S26). Co-founder of Valuable Capital Group, its CEO since 2016 and on its board since Jul 2017 (S25).",
+      "previous_roles": "Vice Chairman, Sahm Capital Board; Co-founder and CEO, Valuable Capital Group Ltd (CEO since 2016; board since Jul 2017); founded TRR Trading Co., Ltd (2015; wholesale trade); earlier co-founded Pearlica Technologies Limited (local network security hardware). Current other roles: director of Valuable Capital Group Ltd and a long list of group companies in the 2025 board report, among them Valuable Capital Limited, Valuable Era Limited, Valuable Investment Limited, Valuable Wealth Limited, Tickrs US Holdings Inc., Tickrs Financial Singapore PTE. LTD., Navigator Holding (HK) Limited, Consolidated Capital Group Holding Limited, Regional Headquarter Valuable Capital Group and Gravity Capital Management Limited (S26).",
+      "education": "MBA, Cheung Kong Graduate School of Business (2015); bachelor's degree, Simon Fraser University (2010) (field not stated)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page checked 2026-10-13 (board text from S25); Annual Board Report 2025 (S26); quoted as co-founder and CEO of Valuable Capital Group at the AFCM conference on 5 Oct 2026 (S13) and on the Feb 2025 ewpartners deal (S14). LinkedIn role searches on 2026-10-13 returned two profiles under this name at Valuable Capital entities with no title in the snippet, so no URL is recorded.",
+      "source_ids": [
+        "S2",
+        "S13",
+        "S14",
+        "S25",
+        "S26"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Sze Yin Lee (Ryan)",
+      "name_ar": null,
+      "title": "General Manager, Chief Operating Officer and Personal Data Protection Officer",
+      "functions": [
+        "CEO",
+        "Operations"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Management",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date as General Manager not stated in any source found. The page does not say whether he took over from the previous General Manager (see Hadeel Bedeeri).",
+      "previous_roles": "General Manager, Chief Operating Officer and Personal Data Protection Officer, Sahm Capital; before that over a decade in international financial markets across Saudi Arabia and Hong Kong (employers and years not stated on the page). Role scope per the page: strategic direction, business development and operational excellence; also credited with driving growth, enhancing governance and ensuring regulatory compliance. Current other roles: none stated.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page checked 2026-10-13: lists him as General Manager and Chief Operating Officer and Personal Data Protection Officer (S2; same text in S25). He is the only General Manager shown on the page and the page no longer shows the previous General Manager (see Hadeel Bedeeri). No release or news item found that names him; English and Arabic news searches on 2026-10-13 found no GM appointment or departure news. LinkedIn role searches did not return his profile. Appointment date unknown.",
+      "source_ids": [
+        "S2",
+        "S25"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Hadeel Bedeeri",
+      "name_ar": "هديل بديري",
+      "title": "General Manager of Sahm Capital & Head of Dealing (title in the site's own text; last named as General Manager in company releases to Feb 2025)",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Management",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not found. The site text says 'in her new role as the General Manager' without a date (S25); first dated mention as General Manager is 15 Oct 2024 (S8).",
+      "previous_roles": "General Manager of Sahm Capital and Head of Dealing; before that built and ran several brokerage departments (retail and institutional), set up local, GCC and international trading desks and fixed-income trading, and expanded the dealing department to money-market products, with Shariah-compliant services (the site text says over 15 years in the financial industry, brokerage and international business management with a focus on the Saudi market; employers and years not stated) (S25).",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Quoted as General Manager on 15-16 Oct 2024 (S8, S9), in the one-million-users release of Dec 2024 / Jan 2025 (S15) and at the CMF Riyadh bootcamp in Feb 2025 (S24). Not on the About page read 2026-10-13: the Management Team now lists Sze Yin Lee as General Manager (S2), although her biography is still held in the site's text file (S25) and is not displayed. No 2026 source names her and no departure announcement was found, so 'Departed' cannot be shown. LinkedIn role searches did not return her profile.",
+      "source_ids": [
+        "S2",
+        "S8",
+        "S9",
+        "S15",
+        "S24",
+        "S25"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Mohammed Asiri",
+      "name_ar": null,
+      "title": "Chief Financial Officer",
+      "functions": [
+        "Finance"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Finance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not found.",
+      "previous_roles": "Chief Financial Officer, Sahm Capital; before that financial-reporting roles in aviation at SAMI Alsalam Aerospace and GDC Middle East, and in investment banking and financial services at ADIB and HSBC Saudi Arabia (the site text says over 15 years in financial reporting across industries; years and titles not stated) (S25).",
+      "education": "Bachelor's degree in accounting and finance, SEU (abbreviation as printed on the site)",
+      "qualifications": null,
+      "linkedin_url": "https://sa.linkedin.com/in/maseeri888",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Quoted as Chief Financial Officer in the Feb 2026 release on foreign-investor access (S16) and the 2026 Jeddah office release (S17; month inferred), and in a Dec 2025 release seen in search results only (S20). His biography with the CFO title is in the site's text file but he is not shown on the About page Management Team read 2026-10-13 (S2, S25). The audited 2025 statements, authorised on 30 Mar 2026, carry a Chief Financial Officer signature block with no name extractable (S3). LinkedIn search result shows Sahm Capital, Riyadh and financial reporting (S30). No departure news found; last dated mention is Feb 2026.",
+      "source_ids": [
+        "S16",
+        "S17",
+        "S20",
+        "S2",
+        "S3",
+        "S25",
+        "S30"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Huma Ejaz",
+      "name_ar": null,
+      "title": "VP, Advisory and Asset Management",
+      "functions": [
+        "Investments / asset management"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Advisory and asset management",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not stated.",
+      "previous_roles": "VP, Advisory and Asset Management, Sahm Capital; before that more than 17 years in corporate finance, accountancy, financial reporting, audit and assurance, risk and internal controls and due diligence reporting, including chartered accountant firms, hospitality, microfinance, tech start-ups and transaction advisory (fund-raising for start-ups, consultancy, CSR) (employers and years not stated).",
+      "education": null,
+      "qualifications": "Certified Public Accountant (CPA) from ICPAP; certified in accountancy and finance by the Institute of Chartered Accountants of Pakistan (ICAP); certificates in financial modelling, business valuation, corporate finance and national economic security",
+      "linkedin_url": "https://www.linkedin.com/in/humaejaz/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page Management Team checked 2026-10-13 (S2, S25). LinkedIn search result 'Huma Ejaz Ahmed - Sahm Capital' with the snippet 'At Sahm Capital, I lead the Advisory and Asset Management function' (S28); the title 'VP' is not shown there. No departure news found.",
+      "source_ids": [
+        "S2",
+        "S25",
+        "S28"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Lina Assaf",
+      "name_ar": null,
+      "title": "Head of Compliance and AML",
+      "functions": [
+        "Other"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Compliance",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not stated.",
+      "previous_roles": "Head of Compliance and AML, Sahm Capital; before joining Sahm, Compliance and AML manager at several financial companies; career in financial services and investment from 2008 (employers not named).",
+      "education": "Bachelor of Business Administration, King Abdulaziz University",
+      "qualifications": "Capital Market Authority certificates in compliance control and AML reporting, plus other related professional certificates (not named)",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page Management Team checked 2026-10-13 (S2, S25). No departure news found.",
+      "source_ids": [
+        "S2",
+        "S25"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Mahmood Saeed",
+      "name_ar": null,
+      "title": "Head of IT",
+      "functions": [
+        "Technology"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Information technology",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Start date not stated.",
+      "previous_roles": "Head of IT, Sahm Capital; before joining Sahm, consultant at the Ministry of Finance, and multinational experience at Samsung and SASCO ('etc.'); career from 2000 with 14 years of direct IT experience and 5 years in management positions (years per employer not stated).",
+      "education": "Bachelor's degree in Science of Information Technology (institution not named); MBA in progress, Anglia Ruskin University (UK)",
+      "qualifications": null,
+      "linkedin_url": "https://sa.linkedin.com/in/mahmood-s-mubarak",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page Management Team checked 2026-10-13 (S2, S25). LinkedIn search result 'Mahmood Saeed - Sahm Capital', Riyadh, titled 'IT Director' (S29). No departure news found.",
+      "source_ids": [
+        "S2",
+        "S25",
+        "S29"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Gary Lee",
+      "name_ar": null,
+      "title": "Board member (non-executive); Overall Management Oversight at Valuable Capital Limited",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Board date not stated. The 2025 board report names the fifth director in Arabic as 'Tshing Lee' and lists him as a non-executive member with seats at Valuable Capital Group Ltd, Valuable Capital Limited and Navigator Holding (HK) Limited; matched to Gary Lee by this seat and the site's board of five, not confirmed by name (S26).",
+      "previous_roles": "Responsible Officer at Valuable Capital Limited (Hong Kong SFC Types 1, 2, 4, 5 and 9) with overall management oversight of its regulated business lines: ECM, DCM, brokerage, asset management, wealth management and custody (S25). Current other roles: director of Valuable Capital Group Ltd, Valuable Capital Limited and Navigator Holding (HK) Limited per the 2025 board report (S26).",
+      "education": null,
+      "qualifications": "Hong Kong SFC Responsible Officer, Types 1, 2, 4, 5 and 9",
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page board carousel (text from S25) checked 2026-10-13; board of five in the 2025 board report (S26). No departure news found.",
+      "source_ids": [
+        "S2",
+        "S25",
+        "S26"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Vernon Cassin",
+      "name_ar": null,
+      "title": "Independent Board Member",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Board date not stated.",
+      "previous_roles": "Practised international commercial and finance law in New York, Singapore and Riyadh; 15 years as Partner-in-Charge of the Riyadh office of a leading international law firm; from the 1990s an early investor in PayPal and other technology and biotech ventures; since then independent legal practice for sovereign and corporate clients (years not stated). Current other roles: legal advisor to a charitable foundation established by the Saudi royal family; active investor in technology, finance, hospitality, oil and gas and fashion ventures; on the boards of several companies and institutions, listed in the 2025 board report as LPM Holding, King Faisal School and Afex Global Ltd (S26).",
+      "education": "Princeton University; Harvard Law School (degrees not stated)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page board carousel (text from S25) checked 2026-10-13; independent member of the board of five in the 2025 board report (S26). No departure news found.",
+      "source_ids": [
+        "S2",
+        "S25",
+        "S26"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Shiu Shan (Andrew) Chan",
+      "name_ar": null,
+      "title": "Independent Board Member; President, Yuzhou Financial Holdings (Hong Kong) Limited",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Sahm Capital Financial Company",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Board date not stated. The 2025 board report names his company as Sunhigh Financial Holdings Limited (see discrepancies).",
+      "previous_roles": "President, Yuzhou Financial Holdings (Hong Kong) Limited and Vice President, Yuzhou Financial Holdings Group (the 2025 board report says President of Sunhigh Financial Holdings Limited); director or CEO roles in petroleum, electricity and food companies; Head of Investment Manager Services, BNP Paribas Securities Services (Australia) in 2005. Current other roles: Vice Honorary Secretary (the board report says Vice President) of the Hong Kong Chinese Importers' and Exporters' Association and Chairman of its Industrial and Commercial Committee.",
+      "education": "Executive MBA, City University of Hong Kong",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official About page board carousel (text from S25) checked 2026-10-13; independent member of the board of five in the 2025 board report (S26). No departure news found.",
+      "source_ids": [
+        "S2",
+        "S25",
+        "S26"
+      ],
+      "checked": "2026-10-13"
+    }
   ],
   "capabilities": {
     "wealth_summary": "Sahm is a CMA-licensed digital brokerage (licence 22251-25: dealing, custody, advising, arranging, managing investments and operating funds) wholly owned by Valuable Capital Group, which sells and clears through affiliates. The Sahm App (launched Dec 2023) trades Saudi and US stocks, ETFs, options (US index options from Oct 2024), warrants, OTC, REITs, IPO subscriptions and margin (Murabaha margin certified Shariah-compliant by Raqaba), with a Sahm AI assistant, academy and community. It reports more than 2 million users (20 May 2026, undefined) and FY2025 operating income of SAR 494m with net income of SAR 79m, 92% from brokerage commissions and handling charges. No funds shelf, robo-advice, discretionary service, structured products or private markets were found, and asset management fee income was only SAR 16,938 in 2025. Sahm opened to foreign individual investors in Feb 2026 and to UAE investors through Sahm Financial Limited (DFSA licence Apr 2026, launch Sep 2026).",
     "segments": [
-      {"name": "Retail investors (KSA)", "tier": "Mass market", "eligibility": "No account or transaction minimums; Saudi commission 0.105% of net amount (0% during limited-time offers); US stocks and ETFs USD 0.015 per share; margin 7% (US) and 8% Murabaha (KSA offer), as at 27 Jan 2026", "source_ids": ["S4"]},
-      {"name": "Foreign individual investors (Saudi equities)", "tier": "Mass market", "eligibility": "Onboarding open to eligible individuals worldwide after the CMA opened the market from 1 Feb 2026; lifetime zero commission on Saudi stocks", "source_ids": ["S16"]},
-      {"name": "UAE investors (Sahm Financial Limited, DIFC)", "tier": "Mass market", "eligibility": "Saudi and US securities accounts for eligible UAE users; retail clients permitted under the DFSA licence", "source_ids": ["S10", "S11"]}
+      {
+        "name": "Retail investors (KSA)",
+        "tier": "Mass market",
+        "eligibility": "No account or transaction minimums; Saudi commission 0.105% of net amount (0% during limited-time offers); US stocks and ETFs USD 0.015 per share; margin 7% (US) and 8% Murabaha (KSA offer), as at 27 Jan 2026",
+        "source_ids": [
+          "S4"
+        ]
+      },
+      {
+        "name": "Foreign individual investors (Saudi equities)",
+        "tier": "Mass market",
+        "eligibility": "Onboarding open to eligible individuals worldwide after the CMA opened the market from 1 Feb 2026; lifetime zero commission on Saudi stocks",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "name": "UAE investors (Sahm Financial Limited, DIFC)",
+        "tier": "Mass market",
+        "eligibility": "Saudi and US securities accounts for eligible UAE users; retail clients permitted under the DFSA licence",
+        "source_ids": [
+          "S10",
+          "S11"
+        ]
+      }
     ],
-    "private_banking": {"present": "No", "detail": "No private-banking or HNW service found; the only tiering is by trading fees.", "source_ids": ["S1", "S4"]},
-    "asset_management": {"present": "Unclear", "detail": "CMA approved managing investments and operating funds activities (licence approval dated 1 Feb 2024; business commenced Oct 2024) and the management team includes a VP Advisory and Asset Management. No fund or managed product is published; asset management fee income was SAR 16,938 in FY2025, and the statements mention a 'Sahm Murabaha Fund' (payable SAR 4.7m; fund disposed to a group entity for SAR 5.07m in 2025).", "source_ids": ["S6", "S2", "S3"]},
-    "brokerage": {"present": "Yes", "detail": "Sahm Capital Financial Company; Saudi (Tadawul) and US markets through the Sahm App (web, tablet, mobile; trading only via the official app). Stocks, ETFs, options, warrants, OTC, REITs, IPO subscriptions and margin. Execution and clearing services are bought from affiliates Valuable Capital Limited and Tickrs Clearing LLC (SAR 158.9m of charges in 2025).", "source_ids": ["S1", "S3", "S4", "S5"]},
-    "digital_investing": {"present": "Yes", "detail": "Sahm App launched Dec 2023; Smart Selection screening, analysis and trading tools, Sahm AI chatbot (over 1 million interactions), Sahm Community (over 600,000 participants), Sahm Academy; web, tablet and mobile; Arabic and English.", "source_ids": ["S1", "S12", "S21"]},
-    "advisory": {"present": "Unclear", "detail": "Licensed to advise on securities and employs a VP Advisory and Asset Management, but no advisory service is described; guidance is delivered through AI features and content.", "source_ids": ["S2", "S1"]},
-    "discretionary": {"present": "Not found after research", "detail": "No discretionary portfolio service published.", "source_ids": ["S1", "S3"]},
-    "model_portfolios_robo": {"present": "Not found after research", "detail": "No model portfolios or robo-advisor found on the website or in releases.", "source_ids": ["S1", "S12"]},
-    "funds_platform": {"present": "Not found after research", "detail": "No third-party mutual fund shelf; investable universe is listed securities, ETFs, REITs and IPOs.", "source_ids": ["S1", "S5"]},
-    "structured_products": {"present": "Not found after research", "detail": "Not on the product list (stocks, ETFs, options, warrants, OTC, REITs, IPOs, margin).", "source_ids": ["S1"]},
-    "private_markets": {"present": "Not found after research", "detail": "Only IPO subscriptions (SAR 345,458 of IPO income in 2025) and OTC trading; no private-markets product.", "source_ids": ["S1", "S3"]},
-    "islamic_wealth": {"present": "Yes", "detail": "Shariah-compliant stock screening and a Shariah-compliant Murabaha margin product certified by Raqaba (certificate س-1-2024); a Shariah auditor's report is published each year; UAE launch lists Shariah-compliant trading options.", "source_ids": ["S2", "S11"]},
-    "asset_classes": ["Local equities", "US/international equities", "ETFs", "Options (US index and equity)", "Warrants", "REITs", "OTC", "IPOs"],
+    "private_banking": {
+      "present": "No",
+      "detail": "No private-banking or HNW service found; the only tiering is by trading fees.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ]
+    },
+    "asset_management": {
+      "present": "Unclear",
+      "detail": "CMA approved managing investments and operating funds activities (licence approval dated 1 Feb 2024; business commenced Oct 2024) and the management team includes a VP Advisory and Asset Management. No fund or managed product is published; asset management fee income was SAR 16,938 in FY2025, and the statements mention a 'Sahm Murabaha Fund' (payable SAR 4.7m; fund disposed to a group entity for SAR 5.07m in 2025).",
+      "source_ids": [
+        "S6",
+        "S2",
+        "S3"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Sahm Capital Financial Company; Saudi (Tadawul) and US markets through the Sahm App (web, tablet, mobile; trading only via the official app). Stocks, ETFs, options, warrants, OTC, REITs, IPO subscriptions and margin. Execution and clearing services are bought from affiliates Valuable Capital Limited and Tickrs Clearing LLC (SAR 158.9m of charges in 2025).",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4",
+        "S5"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Sahm App launched Dec 2023; Smart Selection screening, analysis and trading tools, Sahm AI chatbot (over 1 million interactions), Sahm Community (over 600,000 participants), Sahm Academy; web, tablet and mobile; Arabic and English.",
+      "source_ids": [
+        "S1",
+        "S12",
+        "S21"
+      ]
+    },
+    "advisory": {
+      "present": "Unclear",
+      "detail": "Licensed to advise on securities and employs a VP Advisory and Asset Management, but no advisory service is described; guidance is delivered through AI features and content.",
+      "source_ids": [
+        "S2",
+        "S1"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary portfolio service published.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "No model portfolios or robo-advisor found on the website or in releases.",
+      "source_ids": [
+        "S1",
+        "S12"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No third-party mutual fund shelf; investable universe is listed securities, ETFs, REITs and IPOs.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ]
+    },
+    "structured_products": {
+      "present": "Not found after research",
+      "detail": "Not on the product list (stocks, ETFs, options, warrants, OTC, REITs, IPOs, margin).",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "Only IPO subscriptions (SAR 345,458 of IPO income in 2025) and OTC trading; no private-markets product.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Shariah-compliant stock screening and a Shariah-compliant Murabaha margin product certified by Raqaba (certificate س-1-2024); a Shariah auditor's report is published each year; UAE launch lists Shariah-compliant trading options.",
+      "source_ids": [
+        "S2",
+        "S11"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "US/international equities",
+      "ETFs",
+      "Options (US index and equity)",
+      "Warrants",
+      "REITs",
+      "OTC",
+      "IPOs"
+    ],
     "partners": [
-      {"partner": "Valuable Capital Limited (Hong Kong affiliate)", "kind": "Parent-group technical service, brokerage and handling", "what": "Financial technical service and brokerage commission and handling charges of SAR 126.9m in 2025 (SAR 26.3m in 2024); balance due SAR 28.9m", "date": "2025-12-31", "status": "Live", "source_ids": ["S3"]},
-      {"partner": "Tickrs Clearing LLC (group affiliate)", "kind": "Clearing / brokerage services", "what": "Charges of SAR 32.1m in 2025; balance due SAR 63.8m. Tickrs Financial Singapore Pte Ltd held a balance 'to facilitate the US market trade' in 2024.", "date": "2025-12-31", "status": "Live", "source_ids": ["S3"]},
-      {"partner": "Raqaba", "kind": "Shariah certification", "what": "Islamic financial certification of Shariah-compliant stocks and Murabaha margin", "date": "2024", "status": "Live", "source_ids": ["S2"]},
-      {"partner": "Saudi Tadawul Group", "kind": "Financial literacy programme", "what": "Exclusive sponsor of the 'Invest Wisely Program'", "date": "2024-10", "status": "Live", "source_ids": ["S9", "S15"]},
-      {"partner": "Macao Development Bank Limited", "kind": "Lender", "what": "USD 6.15m loan at 6.3%, repayable 1 Sep 2026 (refinancing status unknown)", "date": "2025", "status": "Unclear", "source_ids": ["S3"]},
-      {"partner": "ewpartners (formerly eWTP Arabia Capital)", "kind": "Strategic investor in the parent VCGL", "what": "Led USD 48m strategic investment in Valuable Capital Group", "date": "2025-02-12", "status": "Live", "source_ids": ["S14"]}
+      {
+        "partner": "Valuable Capital Limited (Hong Kong affiliate)",
+        "kind": "Parent-group technical service, brokerage and handling",
+        "what": "Financial technical service and brokerage commission and handling charges of SAR 126.9m in 2025 (SAR 26.3m in 2024); balance due SAR 28.9m",
+        "date": "2025-12-31",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Tickrs Clearing LLC (group affiliate)",
+        "kind": "Clearing / brokerage services",
+        "what": "Charges of SAR 32.1m in 2025; balance due SAR 63.8m. Tickrs Financial Singapore Pte Ltd held a balance 'to facilitate the US market trade' in 2024.",
+        "date": "2025-12-31",
+        "status": "Live",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "Raqaba",
+        "kind": "Shariah certification",
+        "what": "Islamic financial certification of Shariah-compliant stocks and Murabaha margin",
+        "date": "2024",
+        "status": "Live",
+        "source_ids": [
+          "S2"
+        ]
+      },
+      {
+        "partner": "Saudi Tadawul Group",
+        "kind": "Financial literacy programme",
+        "what": "Exclusive sponsor of the 'Invest Wisely Program'",
+        "date": "2024-10",
+        "status": "Live",
+        "source_ids": [
+          "S9",
+          "S15"
+        ]
+      },
+      {
+        "partner": "Macao Development Bank Limited",
+        "kind": "Lender",
+        "what": "USD 6.15m loan at 6.3%, repayable 1 Sep 2026 (refinancing status unknown)",
+        "date": "2025",
+        "status": "Unclear",
+        "source_ids": [
+          "S3"
+        ]
+      },
+      {
+        "partner": "ewpartners (formerly eWTP Arabia Capital)",
+        "kind": "Strategic investor in the parent VCGL",
+        "what": "Led USD 48m strategic investment in Valuable Capital Group",
+        "date": "2025-02-12",
+        "status": "Live",
+        "source_ids": [
+          "S14"
+        ]
+      }
     ],
     "initiatives": [
-      {"date": "2023-12", "what": "Sahm App launched; CMA full licences completed in stages (dealing, advising, custody in 2022-23; arranging, managing and fund operation approved 1 Feb 2024, business commenced Oct 2024)", "source_ids": ["S2", "S6", "S7", "S8"]},
-      {"date": "2024-10-16", "what": "Launched US index options (S&P 500 and Mini S&P 500) and a lifetime 70% commission discount on Saudi trades for new registrants", "source_ids": ["S9"]},
-      {"date": "2025-02-12", "what": "PIF-backed ewpartners led a USD 48m strategic investment in parent VCGL; Sahm reported over one million users by 31 Dec 2024", "source_ids": ["S14", "S15"]},
-      {"date": "2026-02", "what": "Opened onboarding to global individual investors for Saudi equities, ETFs and REITs after the CMA opened the market to all foreign investors from 1 Feb 2026; lifetime zero commission on Saudi stocks", "source_ids": ["S16"]},
-      {"date": "2026-04", "what": "Sahm Financial Limited (DIFC) granted a DFSA licence (advising, arranging, dealing as agent; retail clients; holding client assets)", "source_ids": ["S10", "S13"]},
-      {"date": "2026-04", "what": "Opened a customer-service office in Jeddah (month taken from a search-result URL date)", "source_ids": ["S17"]},
-      {"date": "2026-05-20", "what": "Announced more than 2 million Sahm App users", "source_ids": ["S12"]},
-      {"date": "2026-09-29", "what": "Launched services for UAE investors through Sahm Financial Limited (Saudi and US equity accounts)", "source_ids": ["S11", "S19"]}
+      {
+        "date": "2023-12",
+        "what": "Sahm App launched; CMA full licences completed in stages (dealing, advising, custody in 2022-23; arranging, managing and fund operation approved 1 Feb 2024, business commenced Oct 2024)",
+        "source_ids": [
+          "S2",
+          "S6",
+          "S7",
+          "S8"
+        ]
+      },
+      {
+        "date": "2024-10-16",
+        "what": "Launched US index options (S&P 500 and Mini S&P 500) and a lifetime 70% commission discount on Saudi trades for new registrants",
+        "source_ids": [
+          "S9"
+        ]
+      },
+      {
+        "date": "2025-02-12",
+        "what": "PIF-backed ewpartners led a USD 48m strategic investment in parent VCGL; Sahm reported over one million users by 31 Dec 2024",
+        "source_ids": [
+          "S14",
+          "S15"
+        ]
+      },
+      {
+        "date": "2026-02",
+        "what": "Opened onboarding to global individual investors for Saudi equities, ETFs and REITs after the CMA opened the market to all foreign investors from 1 Feb 2026; lifetime zero commission on Saudi stocks",
+        "source_ids": [
+          "S16"
+        ]
+      },
+      {
+        "date": "2026-04",
+        "what": "Sahm Financial Limited (DIFC) granted a DFSA licence (advising, arranging, dealing as agent; retail clients; holding client assets)",
+        "source_ids": [
+          "S10",
+          "S13"
+        ]
+      },
+      {
+        "date": "2026-04",
+        "what": "Opened a customer-service office in Jeddah (month taken from a search-result URL date)",
+        "source_ids": [
+          "S17"
+        ]
+      },
+      {
+        "date": "2026-05-20",
+        "what": "Announced more than 2 million Sahm App users",
+        "source_ids": [
+          "S12"
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "what": "Launched services for UAE investors through Sahm Financial Limited (Saudi and US equity accounts)",
+        "source_ids": [
+          "S11",
+          "S19"
+        ]
+      }
     ],
     "evidence_for_arta": {
       "opportunities": [
@@ -119,48 +820,430 @@
     }
   },
   "sources": [
-    {"id": "S1", "title": "Sahm Stock Trading: Trade US & Saudi Stocks in One App (homepage)", "publisher": "Sahm Capital", "url": "https://www.sahmcapital.com/", "doc_type": "Official website", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Read through WebFetch and the browser; alsahm.com redirects here."},
-    {"id": "S2", "title": "About Us (company facts, management team, board, disclosures)", "publisher": "Sahm Capital", "url": "https://www.sahmcapital.com/about", "doc_type": "Official leadership page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Read in the browser; the board section is missing from automated fetch output."},
-    {"id": "S3", "title": "Financial Statements for the year ended 31 December 2025 (KPMG audited)", "publisher": "Sahm Capital Financial Company", "url": "https://r.sahmstatic.com/fe/hs-sa-res/commons/pdf/financial-report/signed_report_2025_en.pdf", "doc_type": "Audited financial statements", "tier": 1, "published": "2026-03-30", "accessed": "2026-10-12", "language": "en", "note": "PDF link taken from the About page disclosure cards."},
-    {"id": "S4", "title": "Sahm pricing (data as of 27 Jan 2026)", "publisher": "Sahm Capital", "url": "https://www.sahmcapital.com/pricing", "doc_type": "Official product page", "tier": 2, "published": "2026-01-27", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S5", "title": "US stock market page", "publisher": "Sahm Capital", "url": "https://www.sahmcapital.com/invest/us-stock-market", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S6", "title": "CMA: Sahm Capital Financial Company completes commencement requirements for arranging, managing investments and operating funds (CMA_N_3651)", "publisher": "Capital Market Authority (Saudi Arabia)", "url": "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_3651.aspx", "doc_type": "Regulator announcement", "tier": 3, "published": "2024-10-10", "accessed": "2026-10-12", "language": "en", "note": "Licence approval dated 1 Feb 2024."},
-    {"id": "S7", "title": "CMA: Valuable Capital Financial Company notifies name change to Sahm Capital Financial Company (CMA_N_3482)", "publisher": "Capital Market Authority (Saudi Arabia)", "url": "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_3482.aspx", "doc_type": "Regulator announcement", "tier": 3, "published": "2024-02", "accessed": "2026-10-12", "language": "en", "note": "Publication date shown as 08/02/2024 (day-month order ambiguous); no licence number on the page."},
-    {"id": "S8", "title": "Sahm Capital Becomes the First Fintech-Driven Financial Company Granted Full Licenses by the CMA", "publisher": "Sahm Capital", "url": "https://www.alsahm.com/company-news/detail/sahm-capital-becomes-the-first-fintech-driven-financial-company-granted-full-licenses-by-the-cma", "doc_type": "Company press release", "tier": 2, "published": "2024-10-15", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S9", "title": "Sahm Capital Introduces Index Option Trading to Empower Saudi Investors", "publisher": "Sahm Capital", "url": "https://www.alsahm.com/company-news/detail/sahm-capital-introduces-index-option-trading-to-empower-saudi-investors", "doc_type": "Company press release", "tier": 2, "published": "2024-10-16", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S10", "title": "Sahm Obtains DFSA Licence in the DIFC to Strengthen Its Presence in the UAE", "publisher": "Zawya (company press release)", "url": "https://www.zawya.com/en/press-release/companies-news/sahm-obtains-dfsa-licence-in-the-difc-to-strengthen-its-presence-in-the-uae-ub8fk3yu", "doc_type": "Company press release (republished)", "tier": 5, "published": "2026-04", "accessed": "2026-10-12", "language": "en", "note": "Page shows no date; April 2026 licence date comes from the CEO speech report (S13)."},
-    {"id": "S11", "title": "Sahm Financial Limited launches investment services for UAE investors", "publisher": "Gulf News", "url": "https://gulfnews.com/business/corporate-news/sahm-financial-limited-launches-investment-services-for-uae-investors-1.500691642", "doc_type": "Sponsored company news", "tier": 5, "published": "2026-09-29", "accessed": "2026-10-12", "language": "en", "note": "Date is the page's last-updated stamp; gives DFSA ref F012218 and DIFC licence CL10742."},
-    {"id": "S12", "title": "Sahm App Exceeds 2 Million Users, Marking a New Milestone in Its Growth Journey", "publisher": "Newswav (company press release)", "url": "https://newswav.com/article/sahm-app-exceeds-2-million-users-marking-a-new-milestone-in-its-growth-jour-A2605_u2oybP", "doc_type": "Company press release (republished)", "tier": 5, "published": "2026-05-20", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S13", "title": "Valuable Capital Group CEO shares Sahm's perspective on the rise of the new investor (AFCM Annual Conference 2026)", "publisher": "NewKerala", "url": "https://www.newkerala.com/news/a/valuable-capital-group-ceo-shares-sahms-perspective-rise-631.htm", "doc_type": "Company press release (republished)", "tier": 5, "published": "2026-10-05", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S14", "title": "PIF-backed ewpartners leads $48m deal in Valuable Capital Group", "publisher": "DealStreetAsia", "url": "https://media.dealstreetasia.com/stories/ewpartners-valuable-capital-group-430215", "doc_type": "News", "tier": 5, "published": "2025-02-14", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S15", "title": "Sahm App Acquires Over One Million Users in Just One Year", "publisher": "Argaam (advertorial)", "url": "https://www.argaam.com/en/article/articledetail/id/1779569", "doc_type": "Company press release (republished)", "tier": 5, "published": "2025-01", "accessed": "2026-10-12", "language": "en", "note": "Page date shown as 01/01/2025; tagged 'Ads - PR'."},
-    {"id": "S16", "title": "Sahm App becomes one of the first platforms to roll out full Saudi stock investment access to global investors", "publisher": "Zawya (company press release)", "url": "https://www.zawya.com/en/press-release/companies-news/sahm-app-becomes-one-of-the-first-platforms-to-roll-out-full-saudi-stock-investment-access-to-global-investors-la4o9kcx", "doc_type": "Company press release (republished)", "tier": 5, "published": "2026-02", "accessed": "2026-10-12", "language": "en", "note": "Undated page; refers to the CMA announcement of 6 Jan 2026 effective 1 Feb 2026."},
-    {"id": "S17", "title": "Sahm Capital Opens New Jeddah Office", "publisher": "Zawya (company press release)", "url": "https://www.zawya.com/en/press-release/companies-news/sahm-capital-opens-new-jeddah-office-s3nt0fxo", "doc_type": "Company press release (republished)", "tier": 5, "published": "2026", "accessed": "2026-10-12", "language": "en", "note": "Undated page; April 2026 is inferred from a search-result URL date."},
-    {"id": "S18", "title": "Steven Y. Chou - Chairman of Sahm Capital, KSA (LinkedIn)", "publisher": "LinkedIn", "url": "https://sa.linkedin.com/in/steven-y-chou-aa34709", "doc_type": "LinkedIn profile (search-result match)", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only (profile not opened)."},
-    {"id": "S19", "title": "Sahm Financial Limited now serving UAE investors, providing access to Saudi and U.S. equity markets through Sahm App", "publisher": "Zawya (Arab Newswire press release)", "url": "https://www.zawya.com/en/press-release/sahm-financial-limited-now-serving-uae-investors-providing-access-to-saudi-and-u.s.-equity-markets-through-sahm-app-1269412", "doc_type": "Company press release (republished)", "tier": 5, "published": "2026-09", "accessed": "2026-10-12", "language": "en", "note": "Undated page; same text as the 29 Sep 2026 Gulf News piece (S11)."},
-    {"id": "S20", "title": "Sahm Capital reports nearly 70% year-on-year user growth", "publisher": "Al Bawaba (company press release)", "url": "https://www.albawaba.com/business/pr/sahm-capital-reports-nearly-70-year-year-1618811", "doc_type": "Company press release (republished)", "tier": 5, "published": "2025-12", "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only; page returned HTTP 403."},
-    {"id": "S21", "title": "Sahm Capital website (Arabic homepage)", "publisher": "Sahm Capital", "url": "https://www.sahmcapital.com/ar-sa/", "doc_type": "Official website", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "ar", "note": "Read in the browser; used for the Arabic legal name and product list."},
-    {"id": "S24", "title": "Sahm Capital Empowers Investors at CMF Riyadh 2025 Investor Bootcamp", "publisher": "The Sun (Malaysia), company press release", "url": "https://thesun.my/business/corporate-news/sahm-capital-empowers-investors-at-cmf-riyadh-2025-investor-bootcamp-ah13727986/", "doc_type": "Company press release (republished)", "tier": 5, "published": "2025-02", "accessed": "2026-10-12", "language": "en", "note": "Seen in search results only; Hadeel Bedeeri named as General Manager."}
+    {
+      "id": "S1",
+      "title": "Sahm Stock Trading: Trade US & Saudi Stocks in One App (homepage)",
+      "publisher": "Sahm Capital",
+      "url": "https://www.sahmcapital.com/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read through WebFetch and the browser; alsahm.com redirects here."
+    },
+    {
+      "id": "S2",
+      "title": "About Us (company facts, management team, board, disclosures)",
+      "publisher": "Sahm Capital",
+      "url": "https://www.sahmcapital.com/about",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Re-read 2026-10-13 with tools/pdftext.py (server-delivered text): Management Team lists four people (Sze Yin Lee, Huma Ejaz, Lina Assaf, Mahmood Saeed); the Board of Directors section is filled in by the browser, so its text was read from the site's script file (S25) and checked against the 2025 board report (S26). The Organizational Chart is an image showing functions only (BOD, Business Committee, GM, Advisory, Arranging, Asset Management, Dealing, Finance, HR, Admin, Operations & Custody, Technology Operation, Risk, Compliance & AML, Legal; no names)."
+    },
+    {
+      "id": "S3",
+      "title": "Financial Statements for the year ended 31 December 2025 (KPMG audited)",
+      "publisher": "Sahm Capital Financial Company",
+      "url": "https://r.sahmstatic.com/fe/hs-sa-res/commons/pdf/financial-report/signed_report_2025_en.pdf",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-03-30",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "PDF link taken from the About page disclosure cards. Opened 2026-10-13: signature block names positions only (Chairman of the Board, Deputy Chairman of the Board, Chief Financial Officer); statements authorised for issue by the Board on 30 Mar 2026."
+    },
+    {
+      "id": "S4",
+      "title": "Sahm pricing (data as of 27 Jan 2026)",
+      "publisher": "Sahm Capital",
+      "url": "https://www.sahmcapital.com/pricing",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": "2026-01-27",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S5",
+      "title": "US stock market page",
+      "publisher": "Sahm Capital",
+      "url": "https://www.sahmcapital.com/invest/us-stock-market",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S6",
+      "title": "CMA: Sahm Capital Financial Company completes commencement requirements for arranging, managing investments and operating funds (CMA_N_3651)",
+      "publisher": "Capital Market Authority (Saudi Arabia)",
+      "url": "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_3651.aspx",
+      "doc_type": "Regulator announcement",
+      "tier": 3,
+      "published": "2024-10-10",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Licence approval dated 1 Feb 2024."
+    },
+    {
+      "id": "S7",
+      "title": "CMA: Valuable Capital Financial Company notifies name change to Sahm Capital Financial Company (CMA_N_3482)",
+      "publisher": "Capital Market Authority (Saudi Arabia)",
+      "url": "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_3482.aspx",
+      "doc_type": "Regulator announcement",
+      "tier": 3,
+      "published": "2024-02",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Publication date shown as 08/02/2024 (day-month order ambiguous); no licence number on the page."
+    },
+    {
+      "id": "S8",
+      "title": "Sahm Capital Becomes the First Fintech-Driven Financial Company Granted Full Licenses by the CMA",
+      "publisher": "Sahm Capital",
+      "url": "https://www.alsahm.com/company-news/detail/sahm-capital-becomes-the-first-fintech-driven-financial-company-granted-full-licenses-by-the-cma",
+      "doc_type": "Company press release",
+      "tier": 2,
+      "published": "2024-10-15",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S9",
+      "title": "Sahm Capital Introduces Index Option Trading to Empower Saudi Investors",
+      "publisher": "Sahm Capital",
+      "url": "https://www.alsahm.com/company-news/detail/sahm-capital-introduces-index-option-trading-to-empower-saudi-investors",
+      "doc_type": "Company press release",
+      "tier": 2,
+      "published": "2024-10-16",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S10",
+      "title": "Sahm Obtains DFSA Licence in the DIFC to Strengthen Its Presence in the UAE",
+      "publisher": "Zawya (company press release)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/sahm-obtains-dfsa-licence-in-the-difc-to-strengthen-its-presence-in-the-uae-ub8fk3yu",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2026-04",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page shows no date; April 2026 licence date comes from the CEO speech report (S13)."
+    },
+    {
+      "id": "S11",
+      "title": "Sahm Financial Limited launches investment services for UAE investors",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/corporate-news/sahm-financial-limited-launches-investment-services-for-uae-investors-1.500691642",
+      "doc_type": "Sponsored company news",
+      "tier": 5,
+      "published": "2026-09-29",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Date is the page's last-updated stamp; gives DFSA ref F012218 and DIFC licence CL10742."
+    },
+    {
+      "id": "S12",
+      "title": "Sahm App Exceeds 2 Million Users, Marking a New Milestone in Its Growth Journey",
+      "publisher": "Newswav (company press release)",
+      "url": "https://newswav.com/article/sahm-app-exceeds-2-million-users-marking-a-new-milestone-in-its-growth-jour-A2605_u2oybP",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2026-05-20",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S13",
+      "title": "Valuable Capital Group CEO shares Sahm's perspective on the rise of the new investor (AFCM Annual Conference 2026)",
+      "publisher": "NewKerala",
+      "url": "https://www.newkerala.com/news/a/valuable-capital-group-ceo-shares-sahms-perspective-rise-631.htm",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2026-10-05",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S14",
+      "title": "PIF-backed ewpartners leads $48m deal in Valuable Capital Group",
+      "publisher": "DealStreetAsia",
+      "url": "https://media.dealstreetasia.com/stories/ewpartners-valuable-capital-group-430215",
+      "doc_type": "News",
+      "tier": 5,
+      "published": "2025-02-14",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S15",
+      "title": "Sahm App Acquires Over One Million Users in Just One Year",
+      "publisher": "Argaam (advertorial)",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1779569",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2025-01",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Page date shown as 01/01/2025; tagged 'Ads - PR'."
+    },
+    {
+      "id": "S16",
+      "title": "Sahm App becomes one of the first platforms to roll out full Saudi stock investment access to global investors",
+      "publisher": "Zawya (company press release)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/sahm-app-becomes-one-of-the-first-platforms-to-roll-out-full-saudi-stock-investment-access-to-global-investors-la4o9kcx",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2026-02",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Undated page; refers to the CMA announcement of 6 Jan 2026 effective 1 Feb 2026."
+    },
+    {
+      "id": "S17",
+      "title": "Sahm Capital Opens New Jeddah Office",
+      "publisher": "Zawya (company press release)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/sahm-capital-opens-new-jeddah-office-s3nt0fxo",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2026",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Undated page; April 2026 is inferred from a search-result URL date."
+    },
+    {
+      "id": "S18",
+      "title": "Steven Y. Chou - Chairman of Sahm Capital, KSA (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://sa.linkedin.com/in/steven-y-chou-aa34709",
+      "doc_type": "LinkedIn profile (search-result match)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only (profile not opened)."
+    },
+    {
+      "id": "S19",
+      "title": "Sahm Financial Limited now serving UAE investors, providing access to Saudi and U.S. equity markets through Sahm App",
+      "publisher": "Zawya (Arab Newswire press release)",
+      "url": "https://www.zawya.com/en/press-release/sahm-financial-limited-now-serving-uae-investors-providing-access-to-saudi-and-u.s.-equity-markets-through-sahm-app-1269412",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2026-09",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Undated page; same text as the 29 Sep 2026 Gulf News piece (S11)."
+    },
+    {
+      "id": "S20",
+      "title": "Sahm Capital reports nearly 70% year-on-year user growth",
+      "publisher": "Al Bawaba (company press release)",
+      "url": "https://www.albawaba.com/business/pr/sahm-capital-reports-nearly-70-year-year-1618811",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2025-12",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only; page returned HTTP 403."
+    },
+    {
+      "id": "S21",
+      "title": "Sahm Capital website (Arabic homepage)",
+      "publisher": "Sahm Capital",
+      "url": "https://www.sahmcapital.com/ar-sa/",
+      "doc_type": "Official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "ar",
+      "note": "Read in the browser; used for the Arabic legal name and product list."
+    },
+    {
+      "id": "S24",
+      "title": "Sahm Capital Empowers Investors at CMF Riyadh 2025 Investor Bootcamp",
+      "publisher": "The Sun (Malaysia), company press release",
+      "url": "https://thesun.my/business/corporate-news/sahm-capital-empowers-investors-at-cmf-riyadh-2025-investor-bootcamp-ah13727986/",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2025-02",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Seen in search results only; Hadeel Bedeeri named as General Manager. Her statement as General Manager is also in the company release S8 (opened)."
+    },
+    {
+      "id": "S25",
+      "title": "About Us page text bundle (board and management biographies in the site's script file app.698a7bba.6e9a5ef.js)",
+      "publisher": "Sahm Capital",
+      "url": "https://r.sahmstatic.com/fe/hs-sa-web-nuxt-www-alsahm/app.698a7bba.6e9a5ef.js",
+      "doc_type": "Official website content (English text strings served with the About page)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "The About page renders its Board of Directors section in the browser only, so the server-delivered page text (S2) omits it. The site's own script file carries the English biographies. Board carousel shown on the page = Chou, Gary Lee, Cheung, Cassin, Chan (component chunk-common.26ac34a4.72bb75b.js). The text file also holds biographies that the page does not display: a former General Manager (Bedeeri), the CFO (Asiri) and two further independent directors (Yousef AlYousefi, Yi Song). Read 2026-10-13."
+    },
+    {
+      "id": "S26",
+      "title": "Annual Board of Directors Report 2025 (Arabic)",
+      "publisher": "Sahm Capital Financial Company",
+      "url": "https://r.sahmstatic.com/fe/hs-sa-res/commons/pdf/financial-report/annual_board_of_directores_report_2025_ar.pdf",
+      "doc_type": "Annual board report (PDF, 14 pages)",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "ar",
+      "note": "Linked from the About page disclosure cards. Section 2 (PDF pp.4-5): board of five at end-2025 with outside memberships and attendance at the four meetings (24 Apr, 10 Jul, 6 Nov, 31 Dec 2025); signed by the Chairman. Table read visually because the text layer is garbled."
+    },
+    {
+      "id": "S27",
+      "title": "Sahm Capital Chairman Highlights Technology's Role in Driving Growth and Innovation at 24 Fintech in Riyadh (8 Sep 2024)",
+      "publisher": "Malay Mail (Media OutReach newswire, issued by Sahm Capital)",
+      "url": "https://www.malaymail.com/news/money/mediaoutreach/2024/09/08/sahm-capital-chairman-highlights-technologys-role-in-driving-growth-and-innovation-at-24-fintech-in-riyadh/323045",
+      "doc_type": "Company press release (republished)",
+      "tier": 5,
+      "published": "2024-09-08",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Opened 2026-10-13 (first seen in a search result). Earliest dated source found naming Steven Chou as Chairman of Sahm Capital and Chief Strategy Officer of Valuable Capital Group Limited."
+    },
+    {
+      "id": "S28",
+      "title": "Huma Ejaz Ahmed - Sahm Capital (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/humaejaz/",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only (profile not opened). Snippet: 'At Sahm Capital, I lead the Advisory and Asset Management function'. Name shown with the surname Ahmed added."
+    },
+    {
+      "id": "S29",
+      "title": "Mahmood Saeed - Sahm Capital (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://sa.linkedin.com/in/mahmood-s-mubarak",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only (profile not opened). Result shows Sahm Capital, Riyadh, with the title 'IT Director' (the About page says Head of IT)."
+    },
+    {
+      "id": "S30",
+      "title": "Mohammed Asiri - Sahm Capital (LinkedIn)",
+      "publisher": "LinkedIn",
+      "url": "https://sa.linkedin.com/in/maseeri888",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only (profile not opened). Result shows Sahm Capital, Riyadh, a financial-reporting background and the Chief Financial Officer title as returned in the search summary."
+    }
   ],
   "original_reconciliation": [],
   "discrepancies": [
-    {"field": "User numbers", "detail": "Releases say more than 2 million users (20 May 2026) and 'registered users' (5 Oct 2026); the website shows registered users 1.5 million+, cumulative active users 3.3 million+ and cumulative downloads 3.8 million+. Earlier releases say over 1 million (Dec 2024) and 'nearly 70%' growth in 2025.", "source_ids": ["S1", "S12", "S13", "S15", "S20"], "resolution": "Recorded the 2m+ release figure and both website figures as indicative with definitions unresolved; no funded-account count exists."},
-    {"field": "General Manager", "detail": "Official management page names Sze Yin Lee (Ryan) as General Manager and COO; company releases Oct 2024 to Feb 2025 name Hadeel Bedeeri as General Manager.", "source_ids": ["S2", "S9", "S15", "S24"], "resolution": "Both recorded with role_status noted; unresolved."},
-    {"field": "CMA licence 22251-25 date", "detail": "The audited statements date it 2 Nov 2022 (8 Rabi II 1444H); the website says 19 Oct 2022; one search summary also said 19 Oct 2022.", "source_ids": ["S3", "S2"], "resolution": "Used the audited statements; the CMA register itself was not reachable."},
-    {"field": "Fund-management licence date", "detail": "CMA announcement: licence approval 1 Feb 2024 (published 10 Oct 2024). Website: licensed 8 Feb 2024 and activities commenced 9 Oct 2024.", "source_ids": ["S6", "S2"], "resolution": "Used the CMA announcement (1 Feb 2024 approval)."},
-    {"field": "Branch name", "detail": "Website: 'Sahm Business Services Company'; financial statements: 'Sahm al-mal Professional Services Company' (CR 1010810235).", "source_ids": ["S2", "S3"], "resolution": "Used the audited statements."},
-    {"field": "Licensed activities wording", "detail": "Statements list 'advisory, custody, dealing, fund operation and arranging'; the website lists dealing, custody, advising plus arranging, managing investments and operating funds.", "source_ids": ["S3", "S2", "S6"], "resolution": "Recorded the CMA announcement wording for the 2024 activities."}
+    {
+      "field": "User numbers",
+      "detail": "Releases say more than 2 million users (20 May 2026) and 'registered users' (5 Oct 2026); the website shows registered users 1.5 million+, cumulative active users 3.3 million+ and cumulative downloads 3.8 million+. Earlier releases say over 1 million (Dec 2024) and 'nearly 70%' growth in 2025.",
+      "source_ids": [
+        "S1",
+        "S12",
+        "S13",
+        "S15",
+        "S20"
+      ],
+      "resolution": "Recorded the 2m+ release figure and both website figures as indicative with definitions unresolved; no funded-account count exists."
+    },
+    {
+      "field": "General Manager",
+      "detail": "Official management page (read 2026-10-13) names Sze Yin Lee (Ryan) as General Manager and COO and no longer shows Hadeel Bedeeri, whose 'General Manager of Sahm Capital & Head of Dealing' biography is still in the site's text file but not displayed; company releases from Oct 2024 to Feb 2025 name Hadeel Bedeeri as General Manager; no 2026 release names either as GM.",
+      "source_ids": [
+        "S2",
+        "S25",
+        "S8",
+        "S9",
+        "S15",
+        "S24"
+      ],
+      "resolution": "Treated as a handover: Lee 'Verified current' on the official page; Bedeeri 'Requires verification' (no departure announcement, last named Feb 2025). Lee's start date and the date of the change are unknown; unresolved."
+    },
+    {
+      "field": "CMA licence 22251-25 date",
+      "detail": "The audited statements date it 2 Nov 2022 (8 Rabi II 1444H); the website says 19 Oct 2022; one search summary also said 19 Oct 2022.",
+      "source_ids": [
+        "S3",
+        "S2"
+      ],
+      "resolution": "Used the audited statements; the CMA register itself was not reachable."
+    },
+    {
+      "field": "Fund-management licence date",
+      "detail": "CMA announcement: licence approval 1 Feb 2024 (published 10 Oct 2024). Website: licensed 8 Feb 2024 and activities commenced 9 Oct 2024.",
+      "source_ids": [
+        "S6",
+        "S2"
+      ],
+      "resolution": "Used the CMA announcement (1 Feb 2024 approval)."
+    },
+    {
+      "field": "Branch name",
+      "detail": "Website: 'Sahm Business Services Company'; financial statements: 'Sahm al-mal Professional Services Company' (CR 1010810235).",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "resolution": "Used the audited statements."
+    },
+    {
+      "field": "Licensed activities wording",
+      "detail": "Statements list 'advisory, custody, dealing, fund operation and arranging'; the website lists dealing, custody, advising plus arranging, managing investments and operating funds.",
+      "source_ids": [
+        "S3",
+        "S2",
+        "S6"
+      ],
+      "resolution": "Recorded the CMA announcement wording for the 2024 activities."
+    },
+    {
+      "field": "Andrew Chan: employer name and association post",
+      "detail": "The website biography says President of Yuzhou Financial Holdings (Hong Kong) Limited and Vice Honorary Secretary of the Hong Kong Chinese Importers' and Exporters' Association; the 2025 board report says President of Sunhigh Financial Holdings Limited and Vice President of the association.",
+      "source_ids": [
+        "S25",
+        "S26"
+      ],
+      "resolution": "Kept the website wording in the title (official biography) and noted the board report wording; possibly a company rename, unresolved."
+    }
   ],
   "open_items": [
     "CMA public register not reachable (cma.gov.sa pages other than news announcements); licence 22251-25 and activities come from the company, its audited statements and CMA news items. DFSA public register returned HTTP 403, so the Sahm Financial Limited licence (ref F012218, CL10742) comes from company releases only.",
     "No interim 2026 financials are published; H1 2026 and Q3 2026 results unavailable as at 12 Oct 2026.",
-    "Confirm who currently runs the company day to day (Sze Yin Lee versus Hadeel Bedeeri) and the CFO's status; the management page lists neither a CEO nor a CFO.",
     "Ownership above VCGL not researched (founders, ewpartners stake, other VCGL investors). 'Valuable Capital Group' headquarters and group accounts not found.",
     "Execution and clearing set-up is inferred from related-party notes (Valuable Capital Limited, Tickrs Clearing LLC); the actual US clearing and custody chain and Saudi custody arrangements are not published.",
     "The status of the USD 6.15m Macao Development Bank loan (due 1 Sep 2026) is unknown.",
-    "LinkedIn: only the chairman matched; candidates for Jess Cheung (linkedin.com/in/jesscheungvcgl) and Huma Ejaz (linkedin.com/in/humaejaz) lacked titles in the snippets and are not recorded.",
     "Jeddah office month (April 2026) and the December 2025 'nearly 70%' user growth release come from search results only.",
-    "Leads from internal notes: licence, ownership, users and international markets were confirmed; funding as a Sahm Capital round was not (the USD 48m was invested in the parent VCGL)."
+    "Leads from internal notes: licence, ownership, users and international markets were confirmed; funding as a Sahm Capital round was not (the USD 48m was invested in the parent VCGL).",
+    "People pass 2026-10-13: the About page Management Team lists four people (Lee, Ejaz, Assaf, Saeed); neither a CEO nor a CFO is listed. Who the General Manager is stays the main open point: the page names Sze Yin Lee (Ryan), earlier releases (to Feb 2025) name Hadeel Bedeeri, and 2026 releases quote only the Chairman and the CFO. Check the CMA register (approved-person list) or ask the company before treating either as the day-to-day head.",
+    "The site's script file (S25) also holds biographies of two further independent directors, Yousef AlYousefi and Yi Song (Crystal), who are not shown in the board carousel and not in the 2025 board report's board of five; presumed former directors, not added and not verified.",
+    "2025 board report (S26): the fifth director is named in Arabic only ('Tshing Lee', non-executive); matching to 'Gary Lee' on the website rests on the seat and the board of five, not on a printed name. Non-executive Chairman and Vice Chairman and three further members; no executive director.",
+    "LinkedIn (role searches 2026-10-13, no names in queries): matches recorded for Huma Ejaz, Mahmood Saeed and Mohammed Asiri (S28-S30) and re-seen for the Chairman (S18); no profile returned for the General Manager, the former General Manager or the Vice Chairman (two profiles under his name at Valuable Capital entities show no title). Search results also show other Sahm staff not on the official page, for example a Head of Brokerage and Asset Management Operations; not added (no official listing).",
+    "Education fields left blank where the source gives no degree: Sze Yin Lee, Hadeel Bedeeri, Gary Lee. Career years are not published for any Sahm executive."
   ],
   "research_status": "Complete",
   "researched_by": "B17",
