@@ -334,15 +334,16 @@
       "business_unit": "Group",
       "scope": "Bank",
       "appointed": "2022-05",
-      "appointed_note": "Appointment announced 10 May 2022 after the CBUAE licence (S11). Entrepreneur ME (Jul 2026) says he assumed the role in 2020, i.e. during the pre-licence build phase (S17). Power of Attorney as CEO runs to May 2028 (S5).",
-      "previous_roles": "Senior strategic roles at Emirates NBD, where he led retail strategy and digital transformation and launched the digital bank Liv.; earlier Deloitte and IBM in the United States (S5, S17).",
-      "education": "BSc Civil Engineering, Southern Illinois University Edwardsville; MS Mechanical Engineering, University of Illinois; MBA, Tuck School of Business at Dartmouth (Entrepreneur ME profile, S17)",
+      "appointed_note": "Appointment as CEO announced 10 May 2022 after the CBUAE licence (S11). Entrepreneur ME (Jul 2026) says he assumed the role in 2020, i.e. during the pre-licence project (see discrepancies). CGR 2025 records a power of attorney to him as CEO until May 2028 (S5).",
+      "previous_roles": "2022- CEO, Wio Bank PJSC; Emirates NBD: spearheaded the group's digital transformation strategy, then launched and led Liv., the UAE's first digital lifestyle bank (years not given); senior roles at Deloitte and IBM in the United States advising Fortune 500 clients (years not given); 20 years of experience in digital transformation, banking and fintech per Wio. Current other roles: none stated.",
+      "education": "MBA, Tuck School of Business at Dartmouth; MS Mechanical Engineering, University of Illinois Urbana-Champaign; degree in Civil Engineering, Southern Illinois University Edwardsville",
       "qualifications": null,
       "linkedin_url": "https://ae.linkedin.com/in/jayesh-patel-984b5117",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Signed FY2025 statements as CEO (S3); CGR 2025 (S5); quoted as CEO of Wio Bank on 22 Jun 2026 (S16) and profiled as CEO on 29 Jul 2026 (S17). No departure news found. LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B07; no contrary evidence.",
+      "role_evidence": "About page (S1) checked 2026-10-13 shows him as CEO with biography; CGR 2025 senior-management section and delegation table (S5); Entrepreneur ME profiles of Feb and Jul 2026 (S17, search result and opened page); a role-based LinkedIn search on 2026-10-13 returned the profile 'Jayesh Patel - CEO at Wio Bank' (S23). No 2025-2026 departure or CEO-change news found.",
       "source_ids": [
+        "S1",
         "S3",
         "S5",
         "S11",
@@ -350,34 +351,35 @@
         "S17",
         "S23"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "H.E. Mansour AlMulla",
       "name_ar": null,
-      "title": "Chairman of the Board",
+      "title": "Chairman",
       "functions": [
         "Chair"
       ],
       "entity": "Wio Bank PJSC",
       "business_unit": "Board",
       "scope": "Bank",
-      "appointed": "2025-05",
-      "appointed_note": "Chairman appointment announced 15 May 2025, succeeding H.E. Salem Al Nuaimi (S10); CGR lists him as a member since Mar 2025 (S5).",
-      "previous_roles": "Deputy Group CEO of ADQ at appointment (May 2025, S10). Other roles per CGR 2025: Vice Chairman of Etihad; board member of Etihad Rail, AD Ports and Ammroc (S5).",
-      "education": "Business Administration, Portland State University (S5)",
+      "appointed": "2025-05-15",
+      "appointed_note": "Appointment as Chairman announced 15 May 2025, succeeding H.E. Salem Al Nuaimi (S10); CGR 2025 lists him as a board member since first election in March 2025 (S5). The official About page spells the name 'H.E. Mansour Mohamed AlMulla'.",
+      "previous_roles": "2025- Chairman, Wio Bank PJSC; Deputy Group Chief Executive Officer, ADQ (responsible for the Food & Agriculture, Transport & Logistics, Financial Services and Real Estate Investments clusters; start date not given); earlier Managing Director & CEO, EDGE Group; Group Chief Investment Officer, ADQ; CFO of the Petroleum & Petrochemicals Platform, Mubadala Investment Company (years not given; over two decades in structured finance, capital markets, M&A, strategy and risk per Wio). Current other roles: Vice Chairman, Etihad Aviation Group; Board member, Abu Dhabi National Energy Company (TAQA), AD Ports Group, Abu Dhabi Global Market (ADGM), Etihad Rail and Abu Dhabi Aviation (About page); CGR 2025 also lists Ammroc.",
+      "education": "BSc Business Administration, Portland State University (Oregon, USA)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Listed as Chairman on the official About page, checked 2026-10-12 (S1); signed FY2025 statements (S3).",
+      "role_evidence": "About page (S1) checked 2026-10-13: listed as Chairman with biography; Wio announcement of 15 May 2025 (S10); CGR 2025 (S5, board table and committees). ADQ's assets were consolidated under L'IMAD on 30 Jan 2026 (S18); his ADQ title is quoted from the Wio page and was not re-verified. No 2025-2026 departure news found.",
       "source_ids": [
         "S1",
         "S3",
         "S5",
-        "S10"
+        "S10",
+        "S18"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Gaurav Ganwani",
@@ -392,20 +394,21 @@
       "business_unit": "Wio Invest",
       "scope": "Affiliate",
       "appointed": null,
-      "appointed_note": "Titled Deputy General Manager at Wio Securities LLC on 23 Jul 2025 (S8) and Acting General Manager, Wio Invest in the Jun 2026 iShares release (S15). Date of the acting appointment not found.",
-      "previous_roles": "Deputy General Manager, Wio Securities LLC (2025) (S8).",
+      "appointed_note": "Titled Deputy General Manager at Wio Securities LLC on 23 Jul 2025 (S8) and Acting General Manager, Wio Invest in the iShares release reported on 10 Jun 2026 (S15, S27). Date of the acting appointment not found.",
+      "previous_roles": "2026- Acting General Manager, Wio Invest (as quoted 10 Jun 2026); 2025 Deputy General Manager, Wio Securities LLC (S8). Earlier career not found in official sources. Current other roles: none stated.",
       "education": null,
       "qualifications": null,
       "linkedin_url": "https://ae.linkedin.com/in/gaurav-ganwani",
       "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Quoted as Acting General Manager, Wio Invest in the official Jun 2026 release (S15); no later change found. LinkedIn URL carried over from the original workbook (marked verified there); not re-opened in B07; no contrary evidence.",
+      "role_evidence": "Quoted as Acting General Manager, Wio Invest in the official release of 10 Jun 2026 (S15; date from S27, seen in search results only) and as Deputy General Manager, Wio Securities LLC in the release of 23 Jul 2025 (S8). Not listed on the About page (which covers the bank, not Wio Securities). A role-based LinkedIn search on 2026-10-13 did not return his profile; LinkedIn URL kept from the original research (marked verified there), no contrary evidence. No later change found.",
       "source_ids": [
         "S8",
         "S15",
-        "S24"
+        "S24",
+        "S27"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Marwan Rashed BinHashim",
@@ -419,20 +422,21 @@
       "business_unit": "Wio Invest",
       "scope": "Affiliate",
       "appointed": null,
-      "appointed_note": "",
+      "appointed_note": "General Manager, Wio Securities in Oct 2024 (S22) and Jan 2025 (S21) press coverage; start date not found.",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Requires verification",
-      "role_evidence": "Quoted as GM, Wio Securities in Oct 2024 (S22) and Jan 2025 (S21). By Jun 2026 Gaurav Ganwani is 'Acting General Manager, Wio Invest' (S15), which suggests he no longer holds the role, but no departure notice was found.",
+      "role_evidence": "Quoted as GM, Wio Securities in Oct 2024 (S22) and Jan 2025 (S21). By Jul 2025 the Wio release quotes Gaurav Ganwani as Deputy General Manager (S8) and on 10 Jun 2026 as Acting General Manager, Wio Invest (S15), which suggests BinHashim no longer holds the role, but no departure notice was found. Role-based LinkedIn search on 2026-10-13 (Wio Invest / Wio Securities general manager) returned no matching profile.",
       "source_ids": [
         "S21",
         "S22",
-        "S15"
+        "S15",
+        "S8"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Prateek Vahie",
@@ -446,19 +450,20 @@
       "business_unit": "Commercial",
       "scope": "Bank",
       "appointed": null,
-      "appointed_note": "Start date not found.",
-      "previous_roles": "Senior Vice President – Head of Retail Assets, Emirates NBD; earlier National Bank of Dubai, ICICI Bank and GE Money (S5). Leads commercial vision, business development strategy, growth initiatives and strategic alliances (S5).",
-      "education": null,
+      "appointed_note": "Start date not found: not stated on the About page, in CGR 2025 or elsewhere.",
+      "previous_roles": "Chief Commercial Officer, Wio Bank PJSC (start date not given); Senior Vice President - Head of Retail Assets, Emirates NBD; earlier roles at National Bank of Dubai, ICICI Bank and GE Money (years not given; more than 20 years in retail banking and financial innovation per Wio). Current other roles: none stated.",
+      "education": "MBA Marketing, Boston University; Post Graduate Diploma in Digital Business, Emeritus Institute of Management; Big Data and Analytics programme, Harvard Business School",
       "qualifications": null,
       "linkedin_url": "https://ae.linkedin.com/in/prateek2007",
       "linkedin_status": "Verified (profile/search match)",
-      "role_status": "Requires verification",
-      "role_evidence": "Named in Corporate Governance Report 2025 (as of 31 Dec 2025; document dated Mar 2026) (S5). Wio publishes no management page; 2026 departure/appointment news could not be searched (B07 search budget exhausted). LinkedIn URL carried over from the original workbook (marked verified); not re-opened.",
+      "role_status": "Verified current",
+      "role_evidence": "About page (S1) checked 2026-10-13 shows him as Chief Commercial Officer with biography; CGR 2025 senior-management section (S5). Role-based LinkedIn search for the Chief Commercial Officer on 2026-10-13 names him in the role (search-result summary; his profile URL was not returned, so the LinkedIn URL is kept from the original research). No 2025-2026 departure news found.",
       "source_ids": [
+        "S1",
         "S5",
         "S26"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Mona Walid",
@@ -473,18 +478,19 @@
       "scope": "Bank",
       "appointed": null,
       "appointed_note": "Start date not found.",
-      "previous_roles": "Leadership positions at MOHRE, MOFA, Etihad Airways, Emirates Airlines and HSBC Bank (S5).",
-      "education": null,
+      "previous_roles": "Chief People Officer and Head of Strategic Partnerships, Wio Bank PJSC (start date not given); senior roles at the Ministry of Human Resources and Emiratisation (MOHRE), Ministry of Foreign Affairs and International Cooperation (MOFA), Etihad Airways, Emirates Airline and HSBC (years not given; more than 30 years in human capital and organisational leadership per Wio). Current other roles: none stated.",
+      "education": "BSc General Business, New York University",
       "qualifications": null,
       "linkedin_url": "https://ae.linkedin.com/in/mona-walid-31a5907",
       "linkedin_status": "Verified (profile/search match)",
-      "role_status": "Requires verification",
-      "role_evidence": "Named with this exact title in CGR 2025 (as of 31 Dec 2025) (S5). No management page; 2026 news not searchable in B07. LinkedIn URL carried over from the original workbook (marked verified); not re-opened.",
+      "role_status": "Verified current",
+      "role_evidence": "About page (S1) checked 2026-10-13 shows her as Chief People Officer & Head of Strategic Partnerships with biography; CGR 2025 senior-management section (S5). LinkedIn URL kept from the original research (marked verified there), not re-opened. No 2025-2026 departure news found.",
       "source_ids": [
+        "S1",
         "S5",
         "S25"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Prakash Sunkara",
@@ -498,18 +504,18 @@
       "scope": "Bank",
       "appointed": null,
       "appointed_note": "Start date not found.",
-      "previous_roles": "Regional Finance Director for Europe, Elavon (U.S. Bancorp); earlier American Express and HSBC (S5).",
+      "previous_roles": "Chief Financial Officer, Wio Bank PJSC (start date not given); Regional Finance Director for Europe, Elavon (U.S. Bancorp); leadership positions at American Express and HSBC; key role in building the UK-based banking platform LQID (years not given; 25 years in global banking and fintech per CGR 2025). Current other roles: none stated.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Signed the FY2025 audited statements as CFO (S3) and named in CGR 2025 (S5). No 2026 check possible beyond these.",
+      "role_status": "Verified current",
+      "role_evidence": "About page (S1) checked 2026-10-13 shows him as Chief Financial Officer with biography; CGR 2025 senior-management section (S5). No education published. No 2025-2026 departure news found in role-based searches.",
       "source_ids": [
-        "S3",
+        "S1",
         "S5"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Yannick Janssen",
@@ -523,17 +529,18 @@
       "scope": "Bank",
       "appointed": null,
       "appointed_note": "Acting appointment; date not found.",
-      "previous_roles": "CEO of KeplerWorx; senior technology roles at AXA Gulf Insurance; earlier e&, Accenture, Dell and Air France (S5).",
+      "previous_roles": "Acting Chief Technology Officer, Wio Bank PJSC (as of 31 Dec 2025 per CGR 2025); CEO, KeplerWorx (AWS Rising Star Partner of the Year, Middle East, 2020); senior technology leadership roles at AXA Gulf Insurance (UAE, Oman, Bahrain, Qatar); earlier roles at e&, Accenture, Dell and Air France; contributions to Expo 2020 (years not given; 23 years in technology leadership per CGR 2025). Current other roles: none stated.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Requires verification",
-      "role_evidence": "Named as Acting CTO in CGR 2025 (as of 31 Dec 2025) (S5). Whether a permanent CTO has since been named was not found.",
+      "role_evidence": "Listed as Acting CTO in CGR 2025, as of 31 Dec 2025 (S5). He is not on the About page management list checked 2026-10-13 (S1), which shows seven executives without a technology head, and no 2026 source confirms the role or a permanent appointment. Role-based LinkedIn search for the CTO on 2026-10-13 returned no matching profile.",
       "source_ids": [
+        "S1",
         "S5"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Amina Taher",
@@ -548,17 +555,18 @@
       "scope": "Bank",
       "appointed": null,
       "appointed_note": "Start date not found.",
-      "previous_roles": "Senior roles at Etihad Airways and Mubadala Investment Company; leads marketing, communications, brand and partnerships (S5).",
+      "previous_roles": "Chief Marketing Officer, Wio Bank PJSC (as of 31 Dec 2025 per CGR 2025; leads marketing, communications, brand and partnerships); senior leadership roles at Etihad Airways and Mubadala Investment Company (years not given; over 20 years in brand transformation per CGR 2025). Current other roles: none stated.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Requires verification",
-      "role_evidence": "Named in CGR 2025 (as of 31 Dec 2025) (S5).",
+      "role_evidence": "Listed as Chief Marketing Officer in CGR 2025, as of 31 Dec 2025 (S5). She is not on the About page management list checked 2026-10-13 (S1) and no 2026 source was opened that confirms the role; a role-based LinkedIn search summary mentioned an event listing naming her as CMO (not opened, undated).",
       "source_ids": [
+        "S1",
         "S5"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Faisal Abushaar",
@@ -571,18 +579,19 @@
       "business_unit": "Risk",
       "scope": "Bank",
       "appointed": null,
-      "appointed_note": "Start date not found.",
-      "previous_roles": "Group Chief Risk Officer, Abu Dhabi Islamic Bank; Chief Risk Officer UAE and Middle East, Standard Chartered Bank (S5).",
-      "education": null,
+      "appointed_note": "Start date not found. The About page spells the name 'Faisal Abu Shaar'; CGR 2025 'Faisal Abushaar'.",
+      "previous_roles": "Chief Risk Officer, Wio Bank PJSC (start date not given); Group Chief Risk Officer, Abu Dhabi Islamic Bank (ADIB); Standard Chartered Bank: progressively senior roles across the UAE, Singapore, Thailand and Jordan, including Chief Risk Officer for UAE and Middle East (CGR 2025); earlier Chief Operating Officer, HSBC Jordan (years not given; over 30 years in risk management and banking per Wio). Current other roles: none stated.",
+      "education": "Master's degree in Political Science and International Relations, University of Jordan; Bachelor's degree in Political Science, Economics and Statistics, University of Jordan",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Named in CGR 2025 (as of 31 Dec 2025) (S5).",
+      "role_status": "Verified current",
+      "role_evidence": "About page (S1) checked 2026-10-13 shows him as Chief Risk Officer with biography; CGR 2025 senior-management section (S5). No 2025-2026 departure news found.",
       "source_ids": [
+        "S1",
         "S5"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Eng. Hamad Al Ameri",
@@ -595,26 +604,26 @@
       "business_unit": "Board",
       "scope": "Bank",
       "appointed": "2025-03",
-      "appointed_note": "Member since Mar 2025 per CGR; announced 15 May 2025 (S5, S10).",
-      "previous_roles": "Managing Director and Group CEO of Alpha Dhabi Holding since 2021 (S5).",
-      "education": "MBA, Canadian University in Dubai; BSc Civil Engineering, American University in Dubai (Alpha Dhabi AR 2025, S6)",
+      "appointed_note": "CGR 2025 lists him as a member since first election in March 2025 (S5); new board members announced 15 May 2025 (S10). Group CEO of Alpha Dhabi Holding since 2021 (S6, S1).",
+      "previous_roles": "2021- Managing Director and Group CEO, Alpha Dhabi Holding PJSC. Current other roles (About page): Vice Chairman, National Marine Dredging Company (NMDC Group); Board member, Aldar Properties PJSC, Pure Health Holding PJSC and ADC Acquisition Corporation PJSC; Chairman, Trojan Construction Holding L.L.C., ADMO Lifestyle Holding and Mawarid Holding Investment; CGR 2025 lists Board member, Etihad Credit Insurance. (Alpha Dhabi's annual report instead names him Vice Chairman of Pure Health Holding.)",
+      "education": "MBA, Canadian University in Dubai; bachelor's degree in civil engineering, American University in Dubai (Alpha Dhabi Holding AR 2025, p.8)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Listed as board member on the official About page, checked 2026-10-12 (S1).",
+      "role_evidence": "About page (S1) checked 2026-10-13: listed as board member with biography; CGR 2025 board table (S5); Alpha Dhabi Holding AR 2025 board biography (S6). Not listed in the Wio announcement of continuing members; named among new members 15 May 2025 (S10). No 2025-2026 departure news found.",
       "source_ids": [
         "S1",
         "S5",
         "S6",
         "S10"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Dr. Jaap Kalkman",
       "name_ar": null,
-      "title": "Board member (Chief Investment Officer, ADQ, per CGR 2025)",
+      "title": "Board member (Group Chief Investment Officer, ADQ)",
       "functions": [
         "Board"
       ],
@@ -622,19 +631,21 @@
       "business_unit": "Board",
       "scope": "Bank",
       "appointed": "2025-03",
-      "appointed_note": "Member since Mar 2025 per CGR; announced 15 May 2025 (S5, S10).",
-      "previous_roles": "Chief Investment Officer of ADQ; board member of Etihad Airways; Chairman of Arcera (CGR 2025, S5).",
-      "education": "PhD in theoretical physics, University of Utrecht (S5)",
+      "appointed_note": "CGR 2025 lists him as a member since first election in March 2025 (S5); new board members announced 15 May 2025 (S10). Joined ADQ in 2019 (About page, S1).",
+      "previous_roles": "2019- Group Chief Investment Officer, ADQ; before 2019 Managing Partner (Global Head of Energy & Utilities), Arthur D. Little; Partner, Roland Berger Strategy Consultants (Middle East, Turkey and Africa); Director and Head of Infrastructure Investments for the Middle East and Asia, Arcapita; over a decade at McKinsey & Company (Bahrain, the Philippines, the Netherlands); started as post-doctoral research fellow, MIT. Current other roles: Board member, Etihad Airways; Chairman, Arcera (CGR 2025).",
+      "education": "PhD in theoretical physics, University of Utrecht (CGR 2025; the About page says 'PhD in Mathematics and Physics'); MSc Physics and MSc Mathematics (cum laude), University of Utrecht; BSc General Philosophy, University of Utrecht",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Listed as board member on the official About page, checked 2026-10-12 (S1). His ADQ title is as of 31 Dec 2025 and was not re-checked after the L'IMAD consolidation.",
+      "role_evidence": "About page (S1) checked 2026-10-13: listed as board member with biography; CGR 2025 board table (S5); announcement of 15 May 2025 (S10). ADQ's assets were consolidated under L'IMAD on 30 Jan 2026 (S18); his ADQ title is quoted from the Wio page and not re-verified. No 2025-2026 departure news found.",
       "source_ids": [
         "S1",
-        "S5"
+        "S5",
+        "S10",
+        "S18"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Samy Ben-Jaafar",
@@ -647,20 +658,21 @@
       "business_unit": "Board",
       "scope": "Bank",
       "appointed": "2025-03",
-      "appointed_note": "Member since Mar 2025 per CGR (S5).",
-      "previous_roles": "Manages Alpha Dhabi's banking platform including the Wio investment (Alpha Dhabi AR 2025, S6); 25+ years in banking, impact investing and renewable infrastructure investing; involved in launching the Green Climate Fund (S5).",
-      "education": null,
-      "qualifications": null,
+      "appointed_note": "CGR 2025 lists him as a member since first election in March 2025 (S5); new board members announced 15 May 2025 (S10).",
+      "previous_roles": "Group Director, Sustainability, debt capital markets and financial services portfolio, Alpha Dhabi Holding (manages its banking platform including Wio; start date not given); Senior Director for Private Sector Investments, United Nations Green Climate Fund; inaugural CEO, Dubai Green Fund; senior leadership roles in corporate finance, investment banking and strategy at Citibank (New York and London) and Abu Dhabi Islamic Bank (years not given; 25 years of banking and impact investing per Wio). Current other roles: Board member, MICAD (USD 2.5 billion private credit fund) and Mawarid (nature-based solutions).",
+      "education": "Studied French literature, economics and finance at SFU and UBC; Masters specialised in Portfolio Theory (institution not named) (About page)",
+      "qualifications": "Professional certification in corporate finance from the UK financial services regulator (as printed on the About page)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Listed as board member on the official About page, checked 2026-10-12 (S1).",
+      "role_evidence": "About page (S1) checked 2026-10-13: listed as board member with biography; CGR 2025 board table (S5); Alpha Dhabi Holding AR 2025 p.142 (S6). No 2025-2026 departure news found.",
       "source_ids": [
         "S1",
         "S5",
-        "S6"
+        "S6",
+        "S10"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     }
   ],
   "capabilities": {
@@ -959,14 +971,15 @@
   "sources": [
     {
       "id": "S1",
-      "title": "About Us (board list, shareholder logos)",
+      "title": "About Us (board and management lists with biographies; shareholder logos)",
       "publisher": "Wio Bank",
       "url": "https://wio.io/about-us",
       "doc_type": "Official website",
       "tier": 2,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Re-read 2026-10-13 with curl. The visible tabs show the board; the page payload also carries the management list: CEO, CFO, Chief People Officer & Head of Strategic Partnerships, Chief Commercial Officer, Chief Compliance Officer, Head of Internal Audit and Chief Risk Officer, each with a biography, plus seven directors (Mansour AlMulla, Hamad Al Ameri, Khalifa Al Forah AlShamsi, Futoon Al Mazrouei, Jaap Kalkman, Jawad Shafique, Samy Ben-Jaafar). No Acting CTO or CMO is listed."
     },
     {
       "id": "S2",
@@ -1010,7 +1023,8 @@
       "tier": 1,
       "published": "2026-03",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Board table and committees (member-since dates) and section 7.1 senior-management biographies read with pdftext on 2026-10-13; lists the Acting CTO and CMO as of 31 Dec 2025."
     },
     {
       "id": "S6",
@@ -1021,7 +1035,8 @@
       "tier": 1,
       "published": "2026",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": " Board biographies read 2026-10-13: Hamad Al Ameri (printed p.8, education) and Samy Ben-Jaafar (p.142)."
     },
     {
       "id": "S7",
@@ -1120,7 +1135,8 @@
       "tier": 2,
       "published": "2026-06",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Zawya copy of the Wio press release; the page shows no date, the release was reported on 10 Jun 2026 (S27). Quotes Gaurav Ganwani as Acting General Manager, Wio Invest."
     },
     {
       "id": "S16",
@@ -1208,7 +1224,8 @@
       "tier": 4,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Search-result match re-seen 2026-10-13 ('Jayesh Patel - CEO at Wio Bank'); original-workbook URL, profile not opened."
     },
     {
       "id": "S24",
@@ -1219,7 +1236,8 @@
       "tier": 4,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Original-workbook URL (marked verified there); not re-opened. Not returned by role-based LinkedIn searches on 2026-10-13, no contrary evidence."
     },
     {
       "id": "S25",
@@ -1230,7 +1248,8 @@
       "tier": 4,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Original-workbook URL (marked verified there); not re-opened. Not returned by role-based LinkedIn searches on 2026-10-13, no contrary evidence."
     },
     {
       "id": "S26",
@@ -1241,7 +1260,20 @@
       "tier": 4,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Original-workbook URL (marked verified there); not re-opened. Not returned by role-based LinkedIn searches on 2026-10-13, no contrary evidence."
+    },
+    {
+      "id": "S27",
+      "title": "Wio Invest Names iShares by BlackRock for Tax-Efficient UCITS ETFs",
+      "publisher": "International Business Magazine (intlbm.com)",
+      "url": "https://intlbm.com/2026/06/10/wio-invest-names-ishares-by-blackrock-for-tax-efficient-ucits-etfs/",
+      "doc_type": "Trade press copy of the Wio press release",
+      "tier": 5,
+      "published": "2026-06-10",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only; used for the date of the iShares release (S15)."
     }
   ],
   "original_reconciliation": [
@@ -1510,18 +1542,47 @@
         "S18",
         "S5"
       ]
+    },
+    {
+      "field": "Jaap Kalkman doctorate",
+      "detail": "CGR 2025 (board table) says 'PhD in theoretical physics from the University of Utrecht'; the Wio About page says 'PhD in Mathematics and Physics' and lists MSc degrees in Physics and Mathematics (cum laude) and a BSc in General Philosophy.",
+      "source_ids": [
+        "S5",
+        "S1"
+      ],
+      "resolution": "CGR (tier 1) wording used for the doctorate; the About page's further degrees added. Likely the same degree described differently."
+    },
+    {
+      "field": "Hamad Al Ameri outside directorships",
+      "detail": "The Wio About page names him Vice Chairman of NMDC Group and a board member of Aldar, Pure Health Holding and ADC Acquisition Corporation; Alpha Dhabi's AR 2025 names him Vice Chairman of Pure Health Holding and board member of NMDC, Aldar and Wio.",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "resolution": "Wio page used for current outside roles (it is the later page); both recorded in the person's career text. Not resolved."
+    },
+    {
+      "field": "Executive roster vs CGR 2025",
+      "detail": "CGR 2025 (as of 31 Dec 2025) lists an Acting CTO (Yannick Janssen) and a CMO (Amina Taher); the About page checked 2026-10-13 lists seven executives (CEO, CFO, Chief People Officer, Chief Commercial Officer, Chief Compliance Officer, Head of Internal Audit, CRO) and no technology or marketing head.",
+      "source_ids": [
+        "S5",
+        "S1"
+      ],
+      "resolution": "Janssen and Taher kept as 'Requires verification'; the other four named executives re-confirmed from the About page."
     }
   ],
   "open_items": [
-    "B07 web-search budget was exhausted part-way through the batch, so 2026 departure/appointment news for executives named only in CGR 2025 (CFO, CCO, CPO, Acting CTO, CMO, CRO) was not searched; they are marked 'Requires verification'.",
-    "LinkedIn URLs for Jayesh Patel, Gaurav Ganwani, Mona Walid and Prateek Vahie are carried over from the original workbook (marked verified there) and were not re-opened.",
+    "2026 departure/appointment news for the executives named only in CGR 2025 was checked only through role-based searches on 2026-10-13 (CTO, CMO, CFO, Wio Invest head, board changes); nothing found. CFO, Chief People Officer, Chief Commercial Officer and CRO are re-confirmed from the About page; Acting CTO and CMO remain 'Requires verification' because the About page no longer lists them.",
+    "LinkedIn URLs for Gaurav Ganwani, Mona Walid and Prateek Vahie are carried over from the original workbook (marked verified there) and were not re-opened; Jayesh Patel's URL was re-seen in a role-based search result on 2026-10-13 ('Jayesh Patel - CEO at Wio Bank'). Role-based searches for the CTO, CMO and Wio Invest/Wio Securities head returned no matching profiles.",
     "Lead not confirmed: 'Arta Finance powers part of Wio Invest' — public sources only show Arta's Oct 2024 announcement of Wio Invest as its first wealth-as-a-service partner; no public source names the provider of Wio Wealth portfolios or confirms go-live.",
     "Lead not confirmed: Gaurav Ganwani LinkedIn claim of USD 2bn+ AUA / 100k+ Invest users — not found in any official or press source; no Wio Invest user count is published.",
     "Lead corrected: L'imad did not simply 'absorb ADQ's 31.85% stake'; ADQ's assets were consolidated under L'IMAD on 30 Jan 2026 (see discrepancies). Check Wio's 2026 AGM / CGR 2026 for the registered holder, and whether Wio Securities' owner ADQ Financial Services LLC moved too.",
     "Deposits and profit at 30 Jun 2026 are not published (no interim statements; Pillar 3 has no deposit line). Q3 2026 Pillar 3 not yet on the IR page (checked 12 Oct 2026).",
     "Confirm whether Fadel Abdulbaqi Al Ali and Masood M. Sharif Mahmood left the board in 2026 and whether a permanent CTO was appointed.",
     "Marwan Rashed BinHashim (GM, Wio Securities in 2024–Jan 2025): current role unknown.",
-    "The Wio Bank–Mambu (Nov 2022) and Paymentology (Mar 2023) releases were seen only as titles on the press page; not opened."
+    "The Wio Bank–Mambu (Nov 2022) and Paymentology (Mar 2023) releases were seen only as titles on the press page; not opened.",
+    "Board changes since CGR 2025 (31 Dec 2025): the About page checked 2026-10-13 lists Khalifa Al Forah AlShamsi (CEO e& life and e& international), Futoon Al Mazrouei (Group Head of Personal, Business, Wealth and Privileged Client Banking, FAB) and Jawad Shafique, none profiled here; CGR 2025 names Fadel Abdulbaqi Al Ali and Masood M. Sharif Mahmood instead of AlShamsi and Shafique. Executives Hanan Mansour (Chief Compliance Officer) and Ali Al Bulooki (Head of Internal Audit) are on the About page but not profiled. Re-check the ADQ titles of AlMulla and Kalkman after ADQ's consolidation under L'IMAD (30 Jan 2026).",
+    "No Wio Invest or Wio Securities leadership page exists (wioinvest.io has no team page): Gaurav Ganwani's title rests on press releases (S8, S15). Confirm in the SCA/CMA register of approved persons for Wio Securities LLC if access allows."
   ],
   "research_status": "Complete",
   "researched_by": "B07",

@@ -12,85 +12,697 @@
   "type": "Islamic commercial bank",
   "model": "Islamic",
   "founded": "1975 (public joint stock company by Emiri Decree of the Ruler of Sharjah); fully converted to Islamic banking on 31 Mar 2002",
-  "regulators": ["CBUAE", "SCA"],
+  "regulators": [
+    "CBUAE",
+    "SCA"
+  ],
   "listed": true,
   "exchange": "ADX",
   "ticker": "SIB",
   "parent_id": null,
   "ownership_summary": "ADX-listed; the ultimate controlling party is the Government of Sharjah. At 30 Jun 2026 Sharjah Asset Management LLC held 25.00% and the Sharjah Social Security Fund 19.69%, both wholly owned by the Government of Sharjah; at 31 Dec 2025 the figures were 28.46% and 16.12% (S1, S2). Share capital rose from AED 3,235,677,638 to AED 4,314,236,850 through a rights issue of 1,078,559,212 shares at AED 2.40 (AGM approval 9 Mar 2026). The Government committed to take up its full entitlement (S1, S10, S11).",
   "shareholders": [
-    {"holder": "Sharjah Asset Management LLC (Government of Sharjah)", "pct": 25.0, "as_of": "2026-06-30", "source_ids": ["S1"]},
-    {"holder": "Sharjah Social Security Fund (Government of Sharjah)", "pct": 19.69, "as_of": "2026-06-30", "source_ids": ["S1"]}
+    {
+      "holder": "Sharjah Asset Management LLC (Government of Sharjah)",
+      "pct": 25.0,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "holder": "Sharjah Social Security Fund (Government of Sharjah)",
+      "pct": 19.69,
+      "as_of": "2026-06-30",
+      "source_ids": [
+        "S1"
+      ]
+    }
   ],
   "government_link": "Yes. The Government of Sharjah is the ultimate controlling party, holding 44.69% through Sharjah Asset Management LLC and the Sharjah Social Security Fund at 30 Jun 2026 (S1).",
   "group_structure": "Sharjah Islamic Bank PJSC and wholly owned UAE subsidiaries: Sharjah National Hotels (hospitality), Sharjah Islamic Securities LLC SP (brokerage in local Shari'a-compliant shares, styled 'Sharjah Islamic Financial Services LLC (SIFS)' on the bank and subsidiary websites) and ASAS Real Estate LLC SP (real estate). Cayman SPVs SIB Sukuk Company III Limited and SIB Tier 1 Sukuk IIND Limited issue the bank's sukuk (S1, S6). The fully Islamic bank has no separately profiled subsidiaries.",
   "subsidiaries": [
-    {"name": "Sharjah Islamic Securities LLC SP (SIFS – Sharjah Islamic Financial Services)", "pct": 100.0, "activity": "Brokerage of Shari'a-compliant shares on ADX and DFM (SCA-licensed; launched 2005)", "linked_id": null, "source_ids": ["S1", "S4", "S6", "S13"]},
-    {"name": "ASAS Real Estate LLC SP", "pct": 100.0, "activity": "Real estate investment, development and property management", "linked_id": null, "source_ids": ["S1", "S6"]},
-    {"name": "Sharjah National Hotels", "pct": 100.0, "activity": "Hotels and resorts", "linked_id": null, "source_ids": ["S1", "S6"]},
-    {"name": "SIB Sukuk Company III Limited / SIB Tier 1 Sukuk IIND Limited", "pct": 100.0, "activity": "Cayman SPVs for the sukuk programme", "linked_id": null, "source_ids": ["S1"]}
+    {
+      "name": "Sharjah Islamic Securities LLC SP (SIFS – Sharjah Islamic Financial Services)",
+      "pct": 100.0,
+      "activity": "Brokerage of Shari'a-compliant shares on ADX and DFM (SCA-licensed; launched 2005)",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S4",
+        "S6",
+        "S13"
+      ]
+    },
+    {
+      "name": "ASAS Real Estate LLC SP",
+      "pct": 100.0,
+      "activity": "Real estate investment, development and property management",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S6"
+      ]
+    },
+    {
+      "name": "Sharjah National Hotels",
+      "pct": 100.0,
+      "activity": "Hotels and resorts",
+      "linked_id": null,
+      "source_ids": [
+        "S1",
+        "S6"
+      ]
+    },
+    {
+      "name": "SIB Sukuk Company III Limited / SIB Tier 1 Sukuk IIND Limited",
+      "pct": 100.0,
+      "activity": "Cayman SPVs for the sukuk programme",
+      "linked_id": null,
+      "source_ids": [
+        "S1"
+      ]
+    }
   ],
   "footprint": "UAE only: 35 branches at 30 Jun 2026, up from 34 at 31 Dec 2025 (S1). The 2025 ESG report lists 34 branches (17 in Sharjah City, 3 on the Sharjah East Coast, 5 in Abu Dhabi and Al Ain, 7 in Dubai, 1 in Fujairah and 1 in Ras Al Khaimah), 152 ATMs, 80 CCDMs and 7 smart banking kiosks (S4). Checked 2026-10-12.",
   "customer_segments": "Government and corporate (including high net worth individuals), retail (individuals and business banking), investment and treasury, and subsidiaries for hospitality, brokerage and real estate (S1, S4). The website shows no named affluent, priority or private-banking tier (S22).",
   "business_lines": "Four reported segments. Government & Corporate: AED 43.0bn of assets at 30 Jun 2026 and 37% of H1 2026 operating income. Retail: AED 5.7bn of assets (6%) and AED 139m (10%) of H1 2026 operating income. Investment & Treasury: AED 39.7bn of assets and 38% of income. Hospitality, Brokerage & Real Estate: 16% of income (S1). Treasury sells sukuk investment (with optional financing up to 3x), the 'SIB FX Investment' product, bespoke Shari'a-compliant structured products and customer Wakala deposits (S8). Brokerage on ADX and DFM runs through SIFS (S6, S13). A proprietary direct-investment book of AED 480m covers 18 holdings (S7).",
   "metrics": [
-    {"metric": "total_assets", "value": 94545094, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Total assets, condensed consolidated interim statement of financial position (reviewed)", "status": "Verified", "source_ids": ["S1", "S3"], "locator": "S1 statement of financial position, printed p.4 (PDF p.3)", "note": "Directors' report rounds to AED 94.5bn."},
-    {"metric": "total_assets", "value": 90313099, "unit": "thousand", "currency": "AED", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Total assets (audited)", "status": "Verified", "source_ids": ["S1", "S2"], "locator": "S1 comparative column; S2 segment note PDF p.79", "note": ""},
-    {"metric": "customer_deposits", "value": 59367812, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Customer deposits: current AED 14,837,265k, saving AED 4,298,757k, Watani/call AED 2,482,535k, escrow AED 3,548,631k, time AED 2,250,755k, Wakala AED 31,170,107k, margins AED 779,762k. Excludes due to banks (AED 13,890,926k) and sukuk payable.", "status": "Verified", "source_ids": ["S1", "S3"], "locator": "S1 note 13, printed p.25 (PDF p.24)", "note": ""},
-    {"metric": "customer_deposits", "value": 55672922, "unit": "thousand", "currency": "AED", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Customer deposits (audited comparative)", "status": "Verified", "source_ids": ["S1", "S2"], "locator": "S1 note 13 comparative column", "note": ""},
-    {"metric": "net_loans", "value": 49873452, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Net investments in Islamic financing (murabaha, ijarah, syndicate, istisna'a, qard hasan, covered cards), net of deferred profit and loss allowance of AED 1,695,212k", "status": "Verified", "source_ids": ["S1"], "locator": "S1 note 10.1, printed p.21 (PDF p.20)", "note": "Gross before loss allowance: AED 51,568,664k."},
-    {"metric": "net_loans", "value": 45550062, "unit": "thousand", "currency": "AED", "period_end": "2025-12-31", "period_label": "31 Dec 2025", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Net investments in Islamic financing (audited comparative)", "status": "Verified", "source_ids": ["S1", "S2"], "locator": "S1 note 10.1 comparative", "note": ""},
-    {"metric": "total_equity", "value": 12177368, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Total shareholders' equity incl. Tier 1 sukuk (AED 1,836,500k), after the rights issue (net increase AED 2,583,542k)", "status": "Verified", "source_ids": ["S1"], "locator": "S1 statement of financial position, printed p.4", "note": "AED 9,530,076k at 31 Dec 2025."},
-    {"metric": "operating_income", "value": 2485929, "unit": "thousand", "currency": "AED", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Group consolidated", "definition": "'Total operating income' (net income from financing and investment products, net fees and commission, investment, FX and other income)", "status": "Verified", "source_ids": ["S2"], "locator": "S2 consolidated statement of profit or loss, PDF p.10", "note": ""},
-    {"metric": "operating_income", "value": 1401032, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "H1 2026 (six months)", "period_type": "duration", "scope": "Group consolidated", "definition": "'Total operating income', condensed consolidated interim statement of profit or loss", "status": "Verified", "source_ids": ["S1", "S3"], "locator": "S1 printed p.5 (PDF p.4)", "note": ""},
-    {"metric": "net_profit", "value": 1317461, "unit": "thousand", "currency": "AED", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Group consolidated", "definition": "Profit for the year attributable to the shareholders of the Bank (profit before tax AED 1,447,565k)", "status": "Verified", "source_ids": ["S2"], "locator": "S2 PDF p.10", "note": ""},
-    {"metric": "net_profit", "value": 803899, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "H1 2026 (six months)", "period_type": "duration", "scope": "Group consolidated", "definition": "Profit for the period attributable to the shareholders of the Bank (profit before tax AED 884,547k)", "status": "Verified", "source_ids": ["S1", "S3"], "locator": "S1 printed p.5 (PDF p.4)", "note": ""},
-    {"metric": "retail_segment_operating_income", "value": 250501, "unit": "thousand", "currency": "AED", "period_end": "2025-12-31", "period_label": "FY2025", "period_type": "duration", "scope": "Segment: Retail", "definition": "Total operating income of the Retail segment (Islamic financial services to individuals)", "status": "Verified", "source_ids": ["S2"], "locator": "S2 note 31, PDF p.79", "note": "10.1% of group operating income."},
-    {"metric": "retail_segment_operating_income", "value": 138945, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "H1 2026 (six months)", "period_type": "duration", "scope": "Segment: Retail", "definition": "Total operating income of the Retail segment; segment assets AED 5,675,637k at 30 Jun 2026", "status": "Verified", "source_ids": ["S1"], "locator": "S1 note 23, printed p.30 (PDF p.29)", "note": ""},
-    {"metric": "hnw_financing_gross", "value": 3381669, "unit": "thousand", "currency": "AED", "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "Group consolidated", "definition": "Investments in Islamic financing to 'High net worth individuals' (sector analysis, gross before deferred profit and loss allowance); reported within the Government and Corporate segment", "status": "Verified", "source_ids": ["S1"], "locator": "S1 note 10.1(b), printed p.21", "note": "AED 2,829,691k at 31 Dec 2025. A lending exposure, not client assets."},
-    {"metric": "branches", "value": 35, "unit": "unit", "currency": null, "period_end": "2026-06-30", "period_label": "30 Jun 2026", "period_type": "point_in_time", "scope": "UAE", "definition": "Branches established in the UAE", "status": "Verified", "source_ids": ["S1"], "locator": "S1 note 1, printed p.11 (PDF p.10)", "note": "34 at 31 Dec 2025. The 30 Mar 2026 press release says 33 physical branches plus 1 digital branch (S11)."}
+    {
+      "metric": "total_assets",
+      "value": 94545094,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets, condensed consolidated interim statement of financial position (reviewed)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 statement of financial position, printed p.4 (PDF p.3)",
+      "note": "Directors' report rounds to AED 94.5bn."
+    },
+    {
+      "metric": "total_assets",
+      "value": 90313099,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total assets (audited)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 comparative column; S2 segment note PDF p.79",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 59367812,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customer deposits: current AED 14,837,265k, saving AED 4,298,757k, Watani/call AED 2,482,535k, escrow AED 3,548,631k, time AED 2,250,755k, Wakala AED 31,170,107k, margins AED 779,762k. Excludes due to banks (AED 13,890,926k) and sukuk payable.",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 note 13, printed p.25 (PDF p.24)",
+      "note": ""
+    },
+    {
+      "metric": "customer_deposits",
+      "value": 55672922,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Customer deposits (audited comparative)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 note 13 comparative column",
+      "note": ""
+    },
+    {
+      "metric": "net_loans",
+      "value": 49873452,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Net investments in Islamic financing (murabaha, ijarah, syndicate, istisna'a, qard hasan, covered cards), net of deferred profit and loss allowance of AED 1,695,212k",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 note 10.1, printed p.21 (PDF p.20)",
+      "note": "Gross before loss allowance: AED 51,568,664k."
+    },
+    {
+      "metric": "net_loans",
+      "value": 45550062,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "31 Dec 2025",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Net investments in Islamic financing (audited comparative)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "locator": "S1 note 10.1 comparative",
+      "note": ""
+    },
+    {
+      "metric": "total_equity",
+      "value": 12177368,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Total shareholders' equity incl. Tier 1 sukuk (AED 1,836,500k), after the rights issue (net increase AED 2,583,542k)",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 statement of financial position, printed p.4",
+      "note": "AED 9,530,076k at 31 Dec 2025."
+    },
+    {
+      "metric": "operating_income",
+      "value": 2485929,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income' (net income from financing and investment products, net fees and commission, investment, FX and other income)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 consolidated statement of profit or loss, PDF p.10",
+      "note": ""
+    },
+    {
+      "metric": "operating_income",
+      "value": 1401032,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "'Total operating income', condensed consolidated interim statement of profit or loss",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 printed p.5 (PDF p.4)",
+      "note": ""
+    },
+    {
+      "metric": "net_profit",
+      "value": 1317461,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the year attributable to the shareholders of the Bank (profit before tax AED 1,447,565k)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 PDF p.10",
+      "note": ""
+    },
+    {
+      "metric": "net_profit",
+      "value": 803899,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Group consolidated",
+      "definition": "Profit for the period attributable to the shareholders of the Bank (profit before tax AED 884,547k)",
+      "status": "Verified",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "locator": "S1 printed p.5 (PDF p.4)",
+      "note": ""
+    },
+    {
+      "metric": "retail_segment_operating_income",
+      "value": 250501,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2025-12-31",
+      "period_label": "FY2025",
+      "period_type": "duration",
+      "scope": "Segment: Retail",
+      "definition": "Total operating income of the Retail segment (Islamic financial services to individuals)",
+      "status": "Verified",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "S2 note 31, PDF p.79",
+      "note": "10.1% of group operating income."
+    },
+    {
+      "metric": "retail_segment_operating_income",
+      "value": 138945,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "H1 2026 (six months)",
+      "period_type": "duration",
+      "scope": "Segment: Retail",
+      "definition": "Total operating income of the Retail segment; segment assets AED 5,675,637k at 30 Jun 2026",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 note 23, printed p.30 (PDF p.29)",
+      "note": ""
+    },
+    {
+      "metric": "hnw_financing_gross",
+      "value": 3381669,
+      "unit": "thousand",
+      "currency": "AED",
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "Group consolidated",
+      "definition": "Investments in Islamic financing to 'High net worth individuals' (sector analysis, gross before deferred profit and loss allowance); reported within the Government and Corporate segment",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 note 10.1(b), printed p.21",
+      "note": "AED 2,829,691k at 31 Dec 2025. A lending exposure, not client assets."
+    },
+    {
+      "metric": "branches",
+      "value": 35,
+      "unit": "unit",
+      "currency": null,
+      "period_end": "2026-06-30",
+      "period_label": "30 Jun 2026",
+      "period_type": "point_in_time",
+      "scope": "UAE",
+      "definition": "Branches established in the UAE",
+      "status": "Verified",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "S1 note 1, printed p.11 (PDF p.10)",
+      "note": "34 at 31 Dec 2025. The 30 Mar 2026 press release says 33 physical branches plus 1 digital branch (S11)."
+    }
   ],
   "disclosure_checks": [
-    {"metric": "aum", "status": "Not found after research", "where_checked": "H1 2026 and FY2025 financial statements (S1, S2), H1 2026 MD&A (S3), ESG report 2025 (S4), Investment and Direct Investment pages (S7). The bank has no asset-management arm. The AED 480m direct-investment book is proprietary, not client AUM."},
-    {"metric": "wealth_client_assets", "status": "Not publicly disclosed", "where_checked": "S1-S4, S7, S8, S22. No wealth or priority segment is reported."},
-    {"metric": "customers", "status": "Not found after research", "where_checked": "S1-S4, rights issue materials (S10-S12), About Us page (S18)."},
-    {"metric": "investing_users", "status": "Not publicly disclosed", "where_checked": "SIFS website (S13, S14), SIFS Trading app listing (S15), S1-S4."},
-    {"metric": "employees", "status": "Not found after research", "where_checked": "ESG report 2025 (S4) gives only workforce percentages (38.57% UAE nationals, 35.98% women, 38 nationalities). The FY2025 statements give staff costs only (AED 571.6m)."}
+    {
+      "metric": "aum",
+      "status": "Not found after research",
+      "where_checked": "H1 2026 and FY2025 financial statements (S1, S2), H1 2026 MD&A (S3), ESG report 2025 (S4), Investment and Direct Investment pages (S7). The bank has no asset-management arm. The AED 480m direct-investment book is proprietary, not client AUM."
+    },
+    {
+      "metric": "wealth_client_assets",
+      "status": "Not publicly disclosed",
+      "where_checked": "S1-S4, S7, S8, S22. No wealth or priority segment is reported."
+    },
+    {
+      "metric": "customers",
+      "status": "Not found after research",
+      "where_checked": "S1-S4, rights issue materials (S10-S12), About Us page (S18)."
+    },
+    {
+      "metric": "investing_users",
+      "status": "Not publicly disclosed",
+      "where_checked": "SIFS website (S13, S14), SIFS Trading app listing (S15), S1-S4."
+    },
+    {
+      "metric": "employees",
+      "status": "Not found after research",
+      "where_checked": "ESG report 2025 (S4) gives only workforce percentages (38.57% UAE nationals, 35.98% women, 38 nationalities). The FY2025 statements give staff costs only (AED 571.6m)."
+    }
   ],
   "people": [
-    {"name": "H.E. Abdulrahman Mohamed Nassir Salem Al Owais", "name_ar": null, "title": "Chairman of the Board of Directors", "functions": ["Chair"], "entity": "Sharjah Islamic Bank PJSC", "business_unit": "Board", "scope": "Group", "appointed": null, "appointed_note": "Appointment date not stated in sources opened.", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Listed as Chairman on the official corporate governance page, checked 2026-10-12 (S5). Signed the H1 2026 statements as Chairman on 13 Jul 2026 (S1) and is quoted as Chairman in the 30 Mar 2026 rights issue release (S11). Other directors on S5: H.E. Othman Mohamed Sharif Abdalla Zaman (Vice Chairman), H.E. Noura Mohamed Ibrahim Almayyahi Alnuaimi, H.E. Ali Salim Ali Salim Almazroua, H.E. Dr. Salah Butti Obaid Binbutti Almheiri, H.E. Jasim Mohamed Abdalla Ahmed Alkhayyal, H.E. Dr. Abdalla Mohamed Obaid Belhaif AlNuaimi, H.E. Dr. Khawla Abdelrahman Hassan Almulla Alsaabri, H.E. Dr. Eisa Saif Ahmed Handhal Altamimi. Name spelled 'Abdul Rahman Mohamed Nasser Al Owais' in S1.", "source_ids": ["S5", "S1", "S11", "S4"], "checked": "2026-10-12"},
-    {"name": "H.E. Othman Mohamed Sharif Abdalla Zaman", "name_ar": null, "title": "Vice Chairman; Chairman of the Board Executive Committee", "functions": ["Board"], "entity": "Sharjah Islamic Bank PJSC", "business_unit": "Board", "scope": "Group", "appointed": null, "appointed_note": "Not stated.", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official corporate governance page, checked 2026-10-12 (S5). Also listed as a member of the Audit Committee.", "source_ids": ["S5"], "checked": "2026-10-12"},
-    {"name": "Mohamed Ahmed Abdalla", "name_ar": null, "title": "Chief Executive Officer", "functions": ["CEO"], "entity": "Sharjah Islamic Bank PJSC", "business_unit": "Executive management", "scope": "Group", "appointed": "2006-11", "appointed_note": "MEED (2010) gives November 2006; the Emirates Institute of Finance profile says 'since 2007' (see discrepancies).", "previous_roles": "Joined SIB in 1984 and held several senior positions before becoming CEO (S17). Current external roles: Deputy Chairman of ASAS and of Sharjah National Hotels (SIB subsidiaries); board member, Emirates Institute of Finance; Board of Trustees member and Finance Committee chairman, University of Sharjah; board member, Al Batha BMW Finance and Al Batha BMW Leasing (S16).", "education": "Bachelor of Arts in Business Administration and Accounting (S16)", "qualifications": null, "linkedin_url": null, "linkedin_status": "Not verified", "role_status": "Verified current", "role_evidence": "Signed the H1 2026 statements as CEO, 13 Jul 2026 (S1); quoted as CEO in the 30 Mar 2026 rights issue release (S11); 'Message from CEO' on the official About Us page, checked 2026-10-12 (S18). No departure news found. One LinkedIn search returned no matching profile.", "source_ids": ["S1", "S11", "S18", "S16", "S17"], "checked": "2026-10-12"},
-    {"name": "H.E. Jasim Mohamed Abdalla Ahmed Al Khayyal", "name_ar": null, "title": "Board Member, SIB; Chairman, Sharjah Islamic Financial Services (SIFS)", "functions": ["Board", "Brokerage"], "entity": "Sharjah Islamic Bank PJSC / Sharjah Islamic Securities LLC SP", "business_unit": "Board; brokerage subsidiary board", "scope": "Subsidiary: SIFS", "appointed": null, "appointed_note": "Not stated.", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "SIB board member and Executive Committee member on the official governance page, checked 2026-10-12 (S5). Listed as SIFS Chairman on the SIFS About page (S13), whose footer is dated 2025.", "source_ids": ["S5", "S13"], "checked": "2026-10-12"},
-    {"name": "Abdulnasser Jassim Al Midfa", "name_ar": null, "title": "Deputy Chairman, Sharjah Islamic Financial Services (SIFS)", "functions": ["Board", "Brokerage"], "entity": "Sharjah Islamic Securities LLC SP (SIFS)", "business_unit": "Brokerage subsidiary board", "scope": "Subsidiary: SIFS", "appointed": null, "appointed_note": "Not stated.", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Requires verification", "role_evidence": "SIFS About page lists him as Deputy Chairman (S13). The page carries a 2025 copyright and no date, and no other source was found. Other SIFS board members listed: Saif Hamdan Al Alkeem, Khalid Ismail Al Hosani, Waleed Abdelqadir Al Amoodi.", "source_ids": ["S13"], "checked": "2026-10-12"},
-    {"name": "Dr. Ibrahim Ali Al Mansoori", "name_ar": null, "title": "Chairman and Executive Member, Internal Sharia Supervision Committee (ISSC)", "functions": ["Islamic / Shariah"], "entity": "Sharjah Islamic Bank PJSC", "business_unit": "Internal Sharia Supervision Committee", "scope": "Group", "appointed": null, "appointed_note": "Not stated.", "previous_roles": null, "education": null, "qualifications": null, "linkedin_url": null, "linkedin_status": "Not checked", "role_status": "Verified current", "role_evidence": "Official corporate governance page, checked 2026-10-12 (S5). The ISSC approves products for Shari'a compatibility; other members are Dr. Ali Husain Al Junaidi (Vice Chairman), Dr. Mohammed Obadeh Adi and Dr. Abdulrahman Abdullah Al Saadi.", "source_ids": ["S5"], "checked": "2026-10-12"}
+    {
+      "name": "H.E. Abdulrahman Mohamed Nassir Salem Al Owais",
+      "name_ar": null,
+      "title": "Chairman of the Board of Directors",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Sharjah Islamic Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Chairman's appointment date is not stated in any source opened (SIB's governance page and filings give no date); the AGM of 9 Mar 2026 agenda (S24) contains no board election item.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Listed as Chairman on the official corporate governance page, checked 2026-10-12 (S5; sib.ae returned HTTP 403 to pdftext and curl on 2026-10-13, so this listing was not re-read (earlier browser read of 2026-10-12).) Signed the FY2025 directors' report on 22 Jan 2026 and the H1 2026 statements as Chairman on 13 Jul 2026 (S2, S1, S23) and is quoted as Chairman in the 30 Mar 2026 rights issue release (S11, S25). Other directors on S5: H.E. Othman Mohamed Sharif Abdalla Zaman (Vice Chairman), H.E. Noura Mohamed Ibrahim Almayyahi Alnuaimi, H.E. Ali Salim Ali Salim Almazroua, H.E. Dr. Salah Butti Obaid Binbutti Almheiri, H.E. Jasim Mohamed Abdalla Ahmed Alkhayyal, H.E. Dr. Abdalla Mohamed Obaid Belhaif AlNuaimi, H.E. Dr. Khawla Abdelrahman Hassan Almulla Alsaabri, H.E. Dr. Eisa Saif Ahmed Handhal Altamimi. Name spelled 'Abdul Rahman Mohamed Nasser Al Owais' in S1. No biography, education or career is published in any source reachable (see open_items). No departure news found.",
+      "source_ids": [
+        "S5",
+        "S1",
+        "S2",
+        "S11",
+        "S4",
+        "S23",
+        "S24",
+        "S25"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "H.E. Othman Mohamed Sharif Abdalla Zaman",
+      "name_ar": null,
+      "title": "Vice Chairman; Chairman of the Board Executive Committee",
+      "functions": [
+        "Board"
+      ],
+      "entity": "Sharjah Islamic Bank PJSC",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official corporate governance page, checked 2026-10-12 (S5): Vice Chairman and chairman of the Board Executive Committee; also a member of the Audit Committee. sib.ae returned HTTP 403 to pdftext and curl on 2026-10-13, so this listing was not re-read (earlier browser read of 2026-10-12). No biography published; no 2025-2026 departure news found.",
+      "source_ids": [
+        "S5"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Mohamed Ahmed Abdalla",
+      "name_ar": null,
+      "title": "Chief Executive Officer",
+      "functions": [
+        "CEO"
+      ],
+      "entity": "Sharjah Islamic Bank PJSC",
+      "business_unit": "Executive management",
+      "scope": "Group",
+      "appointed": "2006-11",
+      "appointed_note": "MEED (2010) gives November 2006 as the CEO appointment; the Emirates Institute of Finance profile (page updated 2026-01-29) says 'since 2007' (see discrepancies). MEED: joined SIB in 1984.",
+      "previous_roles": "2006-11- Chief Executive Officer, Sharjah Islamic Bank (EIF: since 2007); 1984-2006 joined SIB in 1984 and held many senior positions before becoming CEO (positions not itemised; part of the team that oversaw SIB's conversion to an Islamic bank in 2002, per MEED 2010). Current other roles (EIF page updated 2026-01-29): Board member, Emirates Institute of Finance; Member of the Board of Trustees and Chairman of the Finance Committee, University of Sharjah; Board member, Sharjah Equestrian Club; Deputy Chairman, ASAS Company; Deputy Chairman, Sharjah National Hotels; Board member, Al Batha BMW Finance Company and Al Batha BMW Leasing Co. Earlier external roles per MEED (2010): board of Al-Qassimi Hospital and of Ruwad; board member and financial manager, UAE Handicapped Guardian's Association.",
+      "education": "B.A. Business Administration and Accounting (institution not named; Emirates Institute of Finance profile)",
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Verified current",
+      "role_evidence": "Signed the H1 2026 statements as Chief Executive Officer on 13 Jul 2026 (S23); quoted as CEO in the 30 Mar 2026 rights issue release (S11, S25); listed as CEO on the Emirates Institute of Finance board page, updated 2026-01-29 (S16); 'Message from CEO' on the official About Us page, checked 2026-10-12 (S18). No 2025-2026 departure news found. Role-based LinkedIn searches on 2026-10-13 returned only a search-result summary naming him, no profile URL.",
+      "source_ids": [
+        "S1",
+        "S11",
+        "S16",
+        "S17",
+        "S18",
+        "S23",
+        "S25"
+      ],
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "H.E. Jasim Mohamed Abdalla Ahmed Al Khayyal",
+      "name_ar": null,
+      "title": "Board Member, SIB; Chairman, Sharjah Islamic Financial Services (SIFS)",
+      "functions": [
+        "Board",
+        "Brokerage"
+      ],
+      "entity": "Sharjah Islamic Bank PJSC / Sharjah Islamic Securities LLC SP",
+      "business_unit": "Board; brokerage subsidiary board",
+      "scope": "Subsidiary: SIFS",
+      "appointed": null,
+      "appointed_note": "Not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "SIB board member and Executive Committee member on the official governance page, checked 2026-10-12 (S5; sib.ae returned HTTP 403 to pdftext and curl on 2026-10-13, so this listing was not re-read (earlier browser read of 2026-10-12).) Listed as SIFS Chairman on the SIFS About page (S13), whose footer is dated 2025; sifs.ae also returned HTTP 403 on 2026-10-13. No biography published.",
+      "source_ids": [
+        "S5",
+        "S13"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Abdulnasser Jassim Al Midfa",
+      "name_ar": null,
+      "title": "Deputy Chairman, Sharjah Islamic Financial Services (SIFS)",
+      "functions": [
+        "Board",
+        "Brokerage"
+      ],
+      "entity": "Sharjah Islamic Securities LLC SP (SIFS)",
+      "business_unit": "Brokerage subsidiary board",
+      "scope": "Subsidiary: SIFS",
+      "appointed": null,
+      "appointed_note": "Not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Requires verification",
+      "role_evidence": "SIFS About page lists him as Deputy Chairman (S13). The page carries a 2025 copyright and no date, and no other source was found; sifs.ae returned HTTP 403 on 2026-10-13 so it could not be re-read. Other SIFS board members listed: Saif Hamdan Al Alkeem, Khalid Ismail Al Hosani, Waleed Abdelqadir Al Amoodi.",
+      "source_ids": [
+        "S13"
+      ],
+      "checked": "2026-10-12"
+    },
+    {
+      "name": "Dr. Ibrahim Ali Al Mansoori",
+      "name_ar": null,
+      "title": "Chairman and Executive Member, Internal Sharia Supervision Committee (ISSC)",
+      "functions": [
+        "Islamic / Shariah"
+      ],
+      "entity": "Sharjah Islamic Bank PJSC",
+      "business_unit": "Internal Sharia Supervision Committee",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Not stated.",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not checked",
+      "role_status": "Verified current",
+      "role_evidence": "Official corporate governance page, checked 2026-10-12 (S5; sib.ae returned HTTP 403 to pdftext and curl on 2026-10-13, so this listing was not re-read (earlier browser read of 2026-10-12).) The ISSC approves products for Shari'a compatibility; other members are Dr. Ali Husain Al Junaidi (Vice Chairman), Dr. Mohammed Obadeh Adi and Dr. Abdulrahman Abdullah Al Saadi. The AGM of 9 Mar 2026 voted on renewing the appointment of Dr Abdulrahman Abdulla Abdulhameed Saad Alsaadi as an ISSC member (S24), consistent with that roster. No biography published.",
+      "source_ids": [
+        "S5",
+        "S24"
+      ],
+      "checked": "2026-10-12"
+    }
   ],
   "capabilities": {
     "wealth_summary": "SIB does not publish a wealth, priority or private-banking proposition. The personal-banking pages offer accounts, cards, financing and digital banking but no affluent tier, and the 'Wealth management' link on the Investment page is inactive. Retail is small: 6% of assets and about 10% of H1 2026 operating income. HNW individuals are served inside the Government & Corporate segment, with AED 3.38bn of HNW financing at 30 Jun 2026. Client investment products come from Treasury: sukuk investment with no leverage or up to 3x financing, 'SIB FX Investment' (an Islamic alternative to margin FX), bespoke Shari'a-compliant structured products and customer Wakala deposits. Local-share brokerage on ADX and DFM runs through the subsidiary Sharjah Islamic Securities / SIFS (est. 2005), which offers online trading and margin financing and released a 'SIFS Trading' iOS app on 19 Dec 2025. The SIB Digital banking app lists no investing features. No AUM, fund shelf, discretionary or model-portfolio offering was found.",
     "segments": [
-      {"name": "Retail Banking", "tier": "Mass market / mass affluent", "eligibility": "No named affluent or priority tier or threshold published", "source_ids": ["S4", "S22"]},
-      {"name": "High net worth individuals (within Government & Corporate)", "tier": "HNW", "eligibility": "Not published; appears only as a financing exposure category in the financial statements", "source_ids": ["S1"]}
+      {
+        "name": "Retail Banking",
+        "tier": "Mass market / mass affluent",
+        "eligibility": "No named affluent or priority tier or threshold published",
+        "source_ids": [
+          "S4",
+          "S22"
+        ]
+      },
+      {
+        "name": "High net worth individuals (within Government & Corporate)",
+        "tier": "HNW",
+        "eligibility": "Not published; appears only as a financing exposure category in the financial statements",
+        "source_ids": [
+          "S1"
+        ]
+      }
     ],
-    "private_banking": {"present": "Not found after research", "detail": "No private-banking unit or page. The segment note says Government & Corporate 'includes exposure to high net worth individuals' (financing of AED 3.38bn at 30 Jun 2026).", "source_ids": ["S1", "S22"]},
-    "asset_management": {"present": "Not found after research", "detail": "No asset-management subsidiary or fund range. 'Direct Investment' is the bank's proprietary book: AED 480m across 18 holdings in listed and private equities, funds, alternatives and real estate.", "source_ids": ["S6", "S7"]},
-    "brokerage": {"present": "Yes", "detail": "Sharjah Islamic Securities LLC SP, branded SIFS (Sharjah Islamic Financial Services) and 100% owned since 2005. It is SCA-licensed and offers Shari'a-compliant share trading on ADX and DFM: NIN issuance, share transfers, margin financing, cash sweeps to SIB accounts and an online trading platform. SIB provides AED 100m guarantees each to ADX and DFM for its brokerage operations.", "source_ids": ["S1", "S2", "S4", "S6", "S13", "S14"]},
-    "digital_investing": {"present": "Yes", "detail": "Limited to local shares through SIFS. It offers an online trading platform and a 'SIFS Trading' app published by Sharjah Islamic Bank, with iOS v1.0 released 19 Dec 2025 offering Shari'a-compliant instruments in Arabic and English. The SIB Digital banking app lists payments, transfers and account opening but no investing.", "source_ids": ["S14", "S15", "S9"]},
-    "advisory": {"present": "Unclear", "detail": "Treasury 'offers advisory and product solutions' to customers with profit-rate or FX exposure. This is hedging advisory, not a wealth advisory service.", "source_ids": ["S8"]},
-    "discretionary": {"present": "Not found after research", "detail": "No discretionary portfolio management found.", "source_ids": ["S7", "S8"]},
-    "model_portfolios_robo": {"present": "Not found after research", "detail": "None found on the bank or SIFS sites.", "source_ids": ["S9", "S14"]},
-    "funds_platform": {"present": "Not found after research", "detail": "No mutual fund distribution pages found.", "source_ids": ["S22", "S7"]},
-    "structured_products": {"present": "Yes", "detail": "Treasury Client Solutions offers 'bespoke sharia`a compliant structured products for their investment needs'. The product range is not published.", "source_ids": ["S8"]},
-    "private_markets": {"present": "Not found after research", "detail": "No client access found. Private equity and alternatives sit only in the proprietary Direct Investment book.", "source_ids": ["S7"]},
-    "islamic_wealth": {"present": "Yes", "detail": "Fully Islamic bank. Client offerings include sukuk investment (unleveraged or with up to 3x financing), customer Wakala deposits (AED 31.2bn of deposits at 30 Jun 2026), Mudaraba investment deposits and Shari'a-compliant share brokerage through SIFS.", "source_ids": ["S8", "S1", "S13"]},
-    "asset_classes": ["Local equities", "Sukuk", "Structured products"],
+    "private_banking": {
+      "present": "Not found after research",
+      "detail": "No private-banking unit or page. The segment note says Government & Corporate 'includes exposure to high net worth individuals' (financing of AED 3.38bn at 30 Jun 2026).",
+      "source_ids": [
+        "S1",
+        "S22"
+      ]
+    },
+    "asset_management": {
+      "present": "Not found after research",
+      "detail": "No asset-management subsidiary or fund range. 'Direct Investment' is the bank's proprietary book: AED 480m across 18 holdings in listed and private equities, funds, alternatives and real estate.",
+      "source_ids": [
+        "S6",
+        "S7"
+      ]
+    },
+    "brokerage": {
+      "present": "Yes",
+      "detail": "Sharjah Islamic Securities LLC SP, branded SIFS (Sharjah Islamic Financial Services) and 100% owned since 2005. It is SCA-licensed and offers Shari'a-compliant share trading on ADX and DFM: NIN issuance, share transfers, margin financing, cash sweeps to SIB accounts and an online trading platform. SIB provides AED 100m guarantees each to ADX and DFM for its brokerage operations.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4",
+        "S6",
+        "S13",
+        "S14"
+      ]
+    },
+    "digital_investing": {
+      "present": "Yes",
+      "detail": "Limited to local shares through SIFS. It offers an online trading platform and a 'SIFS Trading' app published by Sharjah Islamic Bank, with iOS v1.0 released 19 Dec 2025 offering Shari'a-compliant instruments in Arabic and English. The SIB Digital banking app lists payments, transfers and account opening but no investing.",
+      "source_ids": [
+        "S14",
+        "S15",
+        "S9"
+      ]
+    },
+    "advisory": {
+      "present": "Unclear",
+      "detail": "Treasury 'offers advisory and product solutions' to customers with profit-rate or FX exposure. This is hedging advisory, not a wealth advisory service.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    "discretionary": {
+      "present": "Not found after research",
+      "detail": "No discretionary portfolio management found.",
+      "source_ids": [
+        "S7",
+        "S8"
+      ]
+    },
+    "model_portfolios_robo": {
+      "present": "Not found after research",
+      "detail": "None found on the bank or SIFS sites.",
+      "source_ids": [
+        "S9",
+        "S14"
+      ]
+    },
+    "funds_platform": {
+      "present": "Not found after research",
+      "detail": "No mutual fund distribution pages found.",
+      "source_ids": [
+        "S22",
+        "S7"
+      ]
+    },
+    "structured_products": {
+      "present": "Yes",
+      "detail": "Treasury Client Solutions offers 'bespoke sharia`a compliant structured products for their investment needs'. The product range is not published.",
+      "source_ids": [
+        "S8"
+      ]
+    },
+    "private_markets": {
+      "present": "Not found after research",
+      "detail": "No client access found. Private equity and alternatives sit only in the proprietary Direct Investment book.",
+      "source_ids": [
+        "S7"
+      ]
+    },
+    "islamic_wealth": {
+      "present": "Yes",
+      "detail": "Fully Islamic bank. Client offerings include sukuk investment (unleveraged or with up to 3x financing), customer Wakala deposits (AED 31.2bn of deposits at 30 Jun 2026), Mudaraba investment deposits and Shari'a-compliant share brokerage through SIFS.",
+      "source_ids": [
+        "S8",
+        "S1",
+        "S13"
+      ]
+    },
+    "asset_classes": [
+      "Local equities",
+      "Sukuk",
+      "Structured products"
+    ],
     "partners": [
-      {"partner": "Infosys Finacle", "kind": "Core banking technology (not confirmed)", "what": "The ESG report lists a 2021 'Infosys Finacle Innovation Award'. Use of Finacle as core banking system is not stated.", "date": "2021", "status": "Unclear", "source_ids": ["S4"]}
+      {
+        "partner": "Infosys Finacle",
+        "kind": "Core banking technology (not confirmed)",
+        "what": "The ESG report lists a 2021 'Infosys Finacle Innovation Award'. Use of Finacle as core banking system is not stated.",
+        "date": "2021",
+        "status": "Unclear",
+        "source_ids": [
+          "S4"
+        ]
+      }
     ],
     "initiatives": [
-      {"date": "2026-05", "what": "Completed a rights issue of 1,078,559,212 new shares at AED 2.40 (net AED 2,583,542k credited to equity). Share capital rose to AED 4.31bn and CAR to 19.5%. Purpose: capital headroom and balance-sheet growth.", "source_ids": ["S1", "S3", "S11", "S12"]},
-      {"date": "2026-03-30", "what": "Launched a strategic rights issue of up to AED 2.59bn with Emirates NBD Capital as lead manager. The Government of Sharjah committed to its full pro-rata take-up.", "source_ids": ["S11", "S10"]},
-      {"date": "2025-12-19", "what": "Released the SIFS Trading iOS app (v1.0) for Shari'a-compliant trading through the brokerage subsidiary.", "source_ids": ["S15"]},
-      {"date": "2025", "what": "Digital onboarding grew 110% year on year (ESG report key highlights).", "source_ids": ["S4"]}
+      {
+        "date": "2026-05",
+        "what": "Completed a rights issue of 1,078,559,212 new shares at AED 2.40 (net AED 2,583,542k credited to equity). Share capital rose to AED 4.31bn and CAR to 19.5%. Purpose: capital headroom and balance-sheet growth.",
+        "source_ids": [
+          "S1",
+          "S3",
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "date": "2026-03-30",
+        "what": "Launched a strategic rights issue of up to AED 2.59bn with Emirates NBD Capital as lead manager. The Government of Sharjah committed to its full pro-rata take-up.",
+        "source_ids": [
+          "S11",
+          "S10"
+        ]
+      },
+      {
+        "date": "2025-12-19",
+        "what": "Released the SIFS Trading iOS app (v1.0) for Shari'a-compliant trading through the brokerage subsidiary.",
+        "source_ids": [
+          "S15"
+        ]
+      },
+      {
+        "date": "2025",
+        "what": "Digital onboarding grew 110% year on year (ESG report key highlights).",
+        "source_ids": [
+          "S4"
+        ]
+      }
     ],
     "evidence_for_arta": {
       "opportunities": [
@@ -109,44 +721,359 @@
     }
   },
   "sources": [
-    {"id": "S1", "title": "Sharjah Islamic Bank PJSC: Directors' report and condensed consolidated interim financial statements for the six month period ended 30 June 2026 (authorised 13 Jul 2026)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/docs/default-source/default-document-library/en---sib-fs-q2-2026.pdf?sfvrsn=598bbf11_2", "doc_type": "Reviewed interim financial statements", "tier": 1, "published": "2026-07-13", "accessed": "2026-10-12", "language": "en", "note": "sib.ae returns HTTP 403 to WebFetch/curl; the PDF was fetched and parsed (pdf.js) inside a normal browser session on sib.ae."},
-    {"id": "S2", "title": "Sharjah Islamic Bank PJSC: Directors' report and consolidated financial statements for the year ended 31 December 2025 (KPMG; authorised 22 Jan 2026)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/docs/default-source/default-document-library/sharjah-islamic-bank-pjsc._31-dec-2025_english-fs.pdf?sfvrsn=362c556e_2", "doc_type": "Audited financial statements", "tier": 1, "published": "2026-01-22", "accessed": "2026-10-12", "language": "en", "note": "Read in a browser session (see S1)."},
-    {"id": "S3", "title": "Management discussion and analysis report for the six month period ended 30 June 2026", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/docs/default-source/default-document-library/en---management-report---q2-2026.pdf?sfvrsn=cb156b1b_2", "doc_type": "MD&A", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Partly OCR-garbled text; figures cross-checked to S1."},
-    {"id": "S4", "title": "SIB ESG Report 2025", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/docs/default-source/default-document-library/esg-report-2025.pdf?sfvrsn=46e8230e_4", "doc_type": "ESG report", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Also bundled in the scanned Integrated Report 2025 (https://www.sib.ae/docs/default-source/default-document-library/integrated-report-2025---en.pdf?sfvrsn=860d3c8b_2), which has no extractable text."},
-    {"id": "S5", "title": "Corporate Governance (Board of Directors, committees, ISSC)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/about-us/corporate-governance", "doc_type": "Official board page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Opened in a browser."},
-    {"id": "S6", "title": "Subsidiaries", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/about-us/subsidiaries", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Opened in a browser."},
-    {"id": "S7", "title": "Direct Investment", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/investment/direct-investment", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Proprietary investments: AED 480m / ~USD 130m, 18 holdings (date not stated). The Investment overview page (https://www.sib.ae/en/investment) has an inactive 'Wealth management' link."},
-    {"id": "S8", "title": "Treasury Division (Client Solutions, Sukuk Investment, Customer Wakala Deposits)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/investment/treasury-division", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Opened in a browser."},
-    {"id": "S9", "title": "Mobile Banking – SIB Digital", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/personal-banking/ways-of-banking/mobile-banking", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S10", "title": "Rights Issue (overview and key documents)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/RI", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S11", "title": "SIB launches strategic Rights Issue to raise gross proceeds of up to AED 2.59 billion (30 March 2026)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/docs/default-source/default-document-library/sib-launches-strategic-rights-issue-to-raise-gross-proceeds-of-up-to-aed-2.pdf?sfvrsn=51874812_2", "doc_type": "Press release", "tier": 2, "published": "2026-03-30", "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S12", "title": "Invitation to subscribe for new shares by way of rights issue (approved by CBUAE and the Capital Market Authority)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/docs/default-source/default-document-library/sharjah-islamic-bank-fp-27032026-col.pdf?sfvrsn=f1d86e51_3", "doc_type": "Regulatory offering document", "tier": 1, "published": "2026-03-27", "accessed": "2026-10-12", "language": "en", "note": "Single-page invitation; no management section."},
-    {"id": "S13", "title": "SIFS – About Us (board members)", "publisher": "Sharjah Islamic Financial Services", "url": "https://www.sifs.ae/en/about", "doc_type": "Subsidiary official website", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Footer copyright 2025."},
-    {"id": "S14", "title": "SIFS – Home (online trading, mobile apps, commissions)", "publisher": "Sharjah Islamic Financial Services", "url": "https://www.sifs.ae/en", "doc_type": "Subsidiary official website", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Services and News pages rendered no content."},
-    {"id": "S15", "title": "SIFS Trading (App Store listing; seller Sharjah Islamic Bank)", "publisher": "Apple App Store", "url": "https://apps.apple.com/us/app/sifs-trading/id6743483239", "doc_type": "App store listing", "tier": 2, "published": "2025-12-19", "accessed": "2026-10-12", "language": "en", "note": "Version 1.0 dated 12/19/2025; latest 1.5."},
-    {"id": "S16", "title": "Mohamed Ahmed Abdalla – Board Member", "publisher": "Emirates Institute of Finance", "url": "https://eif.gov.ae/board-members/mohamed-ahmed-abdalla/", "doc_type": "Official biography", "tier": 4, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S17", "title": "Mohamed Abdalla is chief executive of Sharjah Islamic Bank", "publisher": "MEED", "url": "https://www.meed.com/mohamed-abdalla/", "doc_type": "News profile", "tier": 5, "published": "2010-11-18", "accessed": "2026-10-12", "language": "en", "note": "Dated profile, used for career history only."},
-    {"id": "S18", "title": "About Us (SIB at a glance; Message from CEO)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/about-us", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "No executive management list on the site."},
-    {"id": "S19", "title": "Share Graph (Euroland IR tool, company code AE-SIB)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/about-us/investor-relations/share-graph", "doc_type": "Official investor relations page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Ticker inferred from the embedded Euroland code AE-SIB."},
-    {"id": "S20", "title": "Investor Relations (document library, shareholder communications)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/about-us/investor-relations", "doc_type": "Official investor relations page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "Governance reports after 2021 are not posted."},
-    {"id": "S21", "title": "Sharjah Islamic Bank homepage (social links incl. LinkedIn)", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en", "doc_type": "Official website page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": null},
-    {"id": "S22", "title": "Retail Accounts", "publisher": "Sharjah Islamic Bank", "url": "https://www.sib.ae/en/personal-banking/accounts", "doc_type": "Official product page", "tier": 2, "published": null, "accessed": "2026-10-12", "language": "en", "note": "No premium, priority or wealth account tier listed."}
+    {
+      "id": "S1",
+      "title": "Sharjah Islamic Bank PJSC: Directors' report and condensed consolidated interim financial statements for the six month period ended 30 June 2026 (authorised 13 Jul 2026)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/docs/default-source/default-document-library/en---sib-fs-q2-2026.pdf?sfvrsn=598bbf11_2",
+      "doc_type": "Reviewed interim financial statements",
+      "tier": 1,
+      "published": "2026-07-13",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "sib.ae returns HTTP 403 to WebFetch/curl; the PDF was fetched and parsed (pdf.js) inside a normal browser session on sib.ae. An ADX copy of the same report is readable with pdftext (S23)."
+    },
+    {
+      "id": "S2",
+      "title": "Sharjah Islamic Bank PJSC: Directors' report and consolidated financial statements for the year ended 31 December 2025 (KPMG; authorised 22 Jan 2026)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/docs/default-source/default-document-library/sharjah-islamic-bank-pjsc._31-dec-2025_english-fs.pdf?sfvrsn=362c556e_2",
+      "doc_type": "Audited financial statements",
+      "tier": 1,
+      "published": "2026-01-22",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Read in a browser session (see S1). An ADX copy (https://apigateway.adx.ae/adx/cdn/1.0/content/download/4678892) is readable with pdftext on 2026-10-13: p.9 shows the statements authorised on 22 Jan 2026 and signed by the Chairman and a second signatory whose name is OCR-garbled (title not legible)."
+    },
+    {
+      "id": "S3",
+      "title": "Management discussion and analysis report for the six month period ended 30 June 2026",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/docs/default-source/default-document-library/en---management-report---q2-2026.pdf?sfvrsn=cb156b1b_2",
+      "doc_type": "MD&A",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Partly OCR-garbled text; figures cross-checked to S1."
+    },
+    {
+      "id": "S4",
+      "title": "SIB ESG Report 2025",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/docs/default-source/default-document-library/esg-report-2025.pdf?sfvrsn=46e8230e_4",
+      "doc_type": "ESG report",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Also bundled in the scanned Integrated Report 2025 (https://www.sib.ae/docs/default-source/default-document-library/integrated-report-2025---en.pdf?sfvrsn=860d3c8b_2), which has no extractable text."
+    },
+    {
+      "id": "S5",
+      "title": "Corporate Governance (Board of Directors, committees, ISSC)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/about-us/corporate-governance",
+      "doc_type": "Official board page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Opened in a browser."
+    },
+    {
+      "id": "S6",
+      "title": "Subsidiaries",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/about-us/subsidiaries",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Opened in a browser."
+    },
+    {
+      "id": "S7",
+      "title": "Direct Investment",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/investment/direct-investment",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Proprietary investments: AED 480m / ~USD 130m, 18 holdings (date not stated). The Investment overview page (https://www.sib.ae/en/investment) has an inactive 'Wealth management' link."
+    },
+    {
+      "id": "S8",
+      "title": "Treasury Division (Client Solutions, Sukuk Investment, Customer Wakala Deposits)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/investment/treasury-division",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Opened in a browser."
+    },
+    {
+      "id": "S9",
+      "title": "Mobile Banking – SIB Digital",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/personal-banking/ways-of-banking/mobile-banking",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S10",
+      "title": "Rights Issue (overview and key documents)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/RI",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S11",
+      "title": "SIB launches strategic Rights Issue to raise gross proceeds of up to AED 2.59 billion (30 March 2026)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/docs/default-source/default-document-library/sib-launches-strategic-rights-issue-to-raise-gross-proceeds-of-up-to-aed-2.pdf?sfvrsn=51874812_2",
+      "doc_type": "Press release",
+      "tier": 2,
+      "published": "2026-03-30",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S12",
+      "title": "Invitation to subscribe for new shares by way of rights issue (approved by CBUAE and the Capital Market Authority)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/docs/default-source/default-document-library/sharjah-islamic-bank-fp-27032026-col.pdf?sfvrsn=f1d86e51_3",
+      "doc_type": "Regulatory offering document",
+      "tier": 1,
+      "published": "2026-03-27",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Single-page invitation on sib.ae; the ADX copy (S25) has a second page carrying the 30 Mar 2026 release with the Chairman and CEO quotes. No management section."
+    },
+    {
+      "id": "S13",
+      "title": "SIFS – About Us (board members)",
+      "publisher": "Sharjah Islamic Financial Services",
+      "url": "https://www.sifs.ae/en/about",
+      "doc_type": "Subsidiary official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Footer copyright 2025."
+    },
+    {
+      "id": "S14",
+      "title": "SIFS – Home (online trading, mobile apps, commissions)",
+      "publisher": "Sharjah Islamic Financial Services",
+      "url": "https://www.sifs.ae/en",
+      "doc_type": "Subsidiary official website",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Services and News pages rendered no content."
+    },
+    {
+      "id": "S15",
+      "title": "SIFS Trading (App Store listing; seller Sharjah Islamic Bank)",
+      "publisher": "Apple App Store",
+      "url": "https://apps.apple.com/us/app/sifs-trading/id6743483239",
+      "doc_type": "App store listing",
+      "tier": 2,
+      "published": "2025-12-19",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Version 1.0 dated 12/19/2025; latest 1.5."
+    },
+    {
+      "id": "S16",
+      "title": "Mohamed Ahmed Abdalla – Board Member",
+      "publisher": "Emirates Institute of Finance",
+      "url": "https://eif.gov.ae/board-members/mohamed-ahmed-abdalla/",
+      "doc_type": "Official biography",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S17",
+      "title": "Mohamed Abdalla is chief executive of Sharjah Islamic Bank",
+      "publisher": "MEED",
+      "url": "https://www.meed.com/mohamed-abdalla/",
+      "doc_type": "News profile",
+      "tier": 5,
+      "published": "2010-11-18",
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Dated profile, used for career history only."
+    },
+    {
+      "id": "S18",
+      "title": "About Us (SIB at a glance; Message from CEO)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/about-us",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "No executive management list on the site."
+    },
+    {
+      "id": "S19",
+      "title": "Share Graph (Euroland IR tool, company code AE-SIB)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/about-us/investor-relations/share-graph",
+      "doc_type": "Official investor relations page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Ticker inferred from the embedded Euroland code AE-SIB."
+    },
+    {
+      "id": "S20",
+      "title": "Investor Relations (document library, shareholder communications)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/about-us/investor-relations",
+      "doc_type": "Official investor relations page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "Governance reports after 2021 are not posted."
+    },
+    {
+      "id": "S21",
+      "title": "Sharjah Islamic Bank homepage (social links incl. LinkedIn)",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": null
+    },
+    {
+      "id": "S22",
+      "title": "Retail Accounts",
+      "publisher": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae/en/personal-banking/accounts",
+      "doc_type": "Official product page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-12",
+      "language": "en",
+      "note": "No premium, priority or wealth account tier listed."
+    },
+    {
+      "id": "S23",
+      "title": "Sharjah Islamic Bank PJSC: Directors' report and condensed consolidated interim financial statements, six months ended 30 June 2026 (ADX copy)",
+      "publisher": "Abu Dhabi Securities Exchange (SIB filing)",
+      "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/5168450",
+      "doc_type": "Exchange filing (ADX), reviewed interim statements",
+      "tier": 1,
+      "published": "2026-07-13",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Opened with pdftext (the sib.ae copy, S1, is bot-protected). Directors' report signed by the Chairman on 13 Jul 2026 (p.2); statement of financial position signed by 'Mohamed Ahmed Abdalla, Chief Executive Officer' (p.5)."
+    },
+    {
+      "id": "S24",
+      "title": "Invitation of Annual General Meeting Sharjah Islamic Bank (P.J.S.C), 9 March 2026",
+      "publisher": "Abu Dhabi Securities Exchange (SIB filing)",
+      "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/4701414",
+      "doc_type": "Exchange filing (ADX), AGM notice",
+      "tier": 1,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Opened with pdftext; text is partly OCR-garbled. Notice of the AGM held 9 Mar 2026 (the notice date is not printed). Agenda item 5 renews the appointment of Dr Abdulrahman Abdulla Abdulhameed Saad Alsaadi as an Internal Shari'ah Supervisory Committee member; no board election item."
+    },
+    {
+      "id": "S25",
+      "title": "Sharjah Islamic bank FP 27032026 col (rights issue invitation and 30 Mar 2026 release, ADX copy)",
+      "publisher": "Abu Dhabi Securities Exchange (SIB filing)",
+      "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/4792045",
+      "doc_type": "Exchange filing (ADX), rights issue invitation and press release",
+      "tier": 1,
+      "published": "2026-03-30",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Opened with pdftext (2 pages). Page 2 quotes 'H.E. Abdulrahman Alowais, Chairman of SIB' and 'H.E. Mohamed Abdalla, CEO of SIB' and says the AGM was held on 9 Mar 2026."
+    }
   ],
   "original_reconciliation": [],
   "discrepancies": [
-    {"field": "CEO appointment date", "detail": "MEED (2010): appointed CEO in November 2006. Emirates Institute of Finance profile: CEO 'since 2007'.", "source_ids": ["S17", "S16"], "resolution": "Recorded 2006-11 with both dates noted. Unresolved."},
-    {"field": "Branch count", "detail": "H1 2026 statements: 35 branches (34 at 31 Dec 2025). ESG report 2025: 34 branches. Rights issue release (30 Mar 2026): 33 physical branches plus 1 digital branch.", "source_ids": ["S1", "S4", "S11"], "resolution": "Used the 30 Jun 2026 statements figure."},
-    {"field": "Brokerage subsidiary name", "detail": "Financial statements and ESG report: 'Sharjah Islamic Securities LLC SP (SIBS)'. Bank subsidiaries page and SIFS website: 'Sharjah Islamic Financial Services LLC (SIFS)'.", "source_ids": ["S1", "S4", "S6", "S13"], "resolution": "Treated as the same entity (same activity and ownership); both names recorded."},
-    {"field": "Government shareholding", "detail": "Sharjah Asset Management 28.46% and Sharjah Social Security Fund 16.12% at 31 Dec 2025, vs 25.00% and 19.69% at 30 Jun 2026 after the rights issue.", "source_ids": ["S2", "S1"], "resolution": "Recorded the 30 Jun 2026 holdings."}
+    {
+      "field": "CEO appointment date",
+      "detail": "MEED (2010): appointed CEO in November 2006. Emirates Institute of Finance profile: CEO 'since 2007'.",
+      "source_ids": [
+        "S17",
+        "S16"
+      ],
+      "resolution": "Recorded 2006-11 with both dates noted. Unresolved."
+    },
+    {
+      "field": "Branch count",
+      "detail": "H1 2026 statements: 35 branches (34 at 31 Dec 2025). ESG report 2025: 34 branches. Rights issue release (30 Mar 2026): 33 physical branches plus 1 digital branch.",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S11"
+      ],
+      "resolution": "Used the 30 Jun 2026 statements figure."
+    },
+    {
+      "field": "Brokerage subsidiary name",
+      "detail": "Financial statements and ESG report: 'Sharjah Islamic Securities LLC SP (SIBS)'. Bank subsidiaries page and SIFS website: 'Sharjah Islamic Financial Services LLC (SIFS)'.",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S6",
+        "S13"
+      ],
+      "resolution": "Treated as the same entity (same activity and ownership); both names recorded."
+    },
+    {
+      "field": "Government shareholding",
+      "detail": "Sharjah Asset Management 28.46% and Sharjah Social Security Fund 16.12% at 31 Dec 2025, vs 25.00% and 19.69% at 30 Jun 2026 after the rights issue.",
+      "source_ids": [
+        "S2",
+        "S1"
+      ],
+      "resolution": "Recorded the 30 Jun 2026 holdings."
+    }
   ],
   "open_items": [
-    "SIB publishes no executive management list on its website, and governance reports after 2021 are not on the IR page. The ADX filing of the 2025 governance report could not be downloaded (ADX blocks automated access, and a browser attempt triggered a file-save prompt that was not pursued). Heads of retail, treasury/investments, digital and SIFS are unidentified.",
+    "SIB publishes no executive management list or director biographies on its website, and governance reports after 2021 are not on the IR page. sib.ae, m.sib.ae and sifs.ae answer HTTP 403 to pdftext and curl (re-tested 2026-10-13), so board, ISSC and SIFS listings (S5, S13) could not be re-read and rest on the 2026-10-12 browser read. Education, career and appointment dates are therefore not recorded for the Chairman, Vice Chairman, Al Khayyal, Al Midfa and Dr Al Mansoori. The ADX filings of the 2025 governance report and the Integrated Report 2025 (scanned) were not found; ADX documents found through search can be read with pdftext (used for S23-S25). A lead from an aggregator (not cited) gives the Chairman's board start as 2013; unverified.",
     "Customer numbers and absolute headcount are not disclosed in the opened sources.",
     "sib.ae returns HTTP 403 to WebFetch/curl. Pages and PDFs were read in a browser session. The Integrated Report 2025 is scanned with no text layer. The website news page last shows 2024 items.",
     "The SIFS Services, News and commission pages rendered no content. The trading platform vendor and markets beyond ADX/DFM are unconfirmed. The Google Play package name 'com.fitoman.SIFS' hints at a third-party developer but this is not verified.",
-    "LinkedIn: one search for the CEO returned no profile match. Other people not checked.",
+    "LinkedIn: role-based searches (CEO; head of retail, treasury, digital, general manager) on 2026-10-13 returned no matching profile for any person in the file. Unverified leads from search-result snippets only (not opened, not recorded as people): a 'Head of Retail Banking' (Nabil Abou Alwan), an 'SVP - Head of Treasury' (Bobby Shankeshwar, profile shows Jan 2018 to present) and a 'deputy CEO' (Ahmed Saad Ibrahim, from a LinkedIn update snippet). None is confirmed by an official SIB source; the heads of retail, treasury/investments, digital and SIFS remain unidentified in official sources.",
     "Possible leads not opened: a USD 500m sukuk (Finance Middle East, 4 Nov 2025), a 2024–2028 five-year strategy, and a 2024 Noqodi payments partnership, all seen in search results only.",
-    "The SCA appears in the rights-issue invitation as the 'Capital Market Authority (CMA)'."
+    "The SCA appears in the rights-issue invitation as the 'Capital Market Authority (CMA)'.",
+    "Board term: the AGM of 9 Mar 2026 had no board election item (S24); a search summary says the Feb 2022 AGM approved a nine-member board for three years, but no 2025 election announcement was found. Check the 2025 governance report for the current term and any change among the nine directors listed on S5.",
+    "ISSC: S5 names Dr Ibrahim Ali Al Mansoori as chairman; a search result for the ISSC annual report 2024 (sib.ae PDF, 403, not opened) names Dr Ali Hussein Al Junaidi as deputy chairman, and the AGM notice (S24) renews Dr Abdulrahman Alsaadi. Dr Al Junaidi, Dr Mohamed Obadah Adi and Dr Alsaadi are not profiled."
   ],
   "research_status": "Partial",
   "researched_by": "R1",
