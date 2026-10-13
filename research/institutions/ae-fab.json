@@ -467,7 +467,7 @@
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official Board of Directors page, checked 2026-10-12 (S3); Annual Report 2025 board biography (S38, pp.182-183). FAB's individual 'View full bio' pages returned an 'Under Maintenance' page on 2026-10-12. Board member: no news check required.",
       "source_ids": [
@@ -492,7 +492,7 @@
       "education": "Degree in international economics and history, American University of Paris (S38)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official Board of Directors page, checked 2026-10-12 (S3); Annual Report 2025 board biography (S38, p.183).",
       "source_ids": [
@@ -580,7 +580,7 @@
       "education": "BSc Accounting, University of South Africa; MBA (finance, markets and strategy), University of Cape Town (S2, S40)",
       "qualifications": "Chartered Accountant (South Africa) (S2)",
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.199); quoted in the H1 2026 results release (S6). No departure news found.",
       "source_ids": [
@@ -608,7 +608,7 @@
       "education": "BSc (First Class Honours) Business Economics, Queen Mary & Westfield College, University of London; MPhil (Merit) Finance, Robinson College, University of Cambridge (S2)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.200). Hiring reported Feb-Mar 2025 (S36, S43).",
       "source_ids": [
@@ -636,7 +636,7 @@
       "education": "Institut d'Etudes Politiques de Paris; BA History & Law, Paris Nanterre University; Master's in Law, La Sorbonne University, Paris (S25, S2)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.199); FAB Suisse governance page (S25). Division change reported 6 Mar 2025 (S43, S44).",
       "source_ids": [
@@ -698,7 +698,7 @@
       "education": "First-Class Honours degree in Mathematics (specialisation in Fluid Mechanics and Computer Science), Heriot-Watt University (S2)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.202).",
       "source_ids": [
@@ -724,7 +724,7 @@
       "education": "LLB, University of London (S2)",
       "qualifications": "Fellow, Institute of Chartered Accountants in England & Wales (ICAEW); Fellow, Institute of Chartered Accountants of Pakistan (ICAP) (S2)",
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official Senior Management page checked 2026-10-12 (S1); EXCO biography (S2); Annual Report 2025 (S38, p.201). Joining reported Feb-Mar 2025 (S44, S45).",
       "source_ids": [
@@ -777,7 +777,7 @@
       "education": "MBA, Geneva Business School (S25)",
       "qualifications": "Banking diplomas from the Chartered Institute for Securities & Investment (CISI) and the Emirates Institute for Banking & Financial Studies (S25)",
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "FAB Private Bank (Suisse) SA corporate governance page, checked 2026-10-12 (S25); page undated.",
       "source_ids": [
@@ -1845,7 +1845,9 @@
     "Gareth Nicholson (FAB Asset Management CIO) is known only from trade press (S28, S29); not in the AR 2025 or on the EXCO page; title and reporting line unconfirmed.",
     "FAB's individual board-member biography pages ('View full bio' links on S3) returned an 'Under Maintenance' page on 2026-10-12; board education and career were taken from the Annual Report 2025 (S38) instead.",
     "No official FAB source states the start dates of Divyesh Vithlani, Linos Lekkas, Omar Hafeez or Keith Macdonald, nor Fouad Hamiyeh's date of appointment as CEO of FAB Suisse; dates recorded come from press reports (S42-S46) or are left null. Zawya articles are paywalled beyond the first paragraph.",
-    "LinkedIn (people pass X03): role-based searches returned no profile for Hana Al Rostamani, Futoon Al Mazrouei or Fouad Hamiyeh; name-based look-ups are not permitted in this environment. Divyesh Vithlani's URL kept from the earlier search-result match (S32)."
+    "LinkedIn (people pass X03): role-based searches returned no profile for Hana Al Rostamani, Futoon Al Mazrouei or Fouad Hamiyeh; name-based look-ups are not permitted in this environment. Divyesh Vithlani's URL kept from the earlier search-result match (S32).",
+    "LinkedIn pass L01 (13 Oct 2026): a search result shows Clarence Singam-Zhou as Head of International Banking Group, First Abu Dhabi Bank (profile summary: since Feb 2021), which overlaps the roster title Group Head of International (Omar Hafeez); a separate search summary names Hafeez as Group Head of International Banking in posts by FAB staff. Not recorded as a person; verify against official sources.",
+    "LinkedIn pass L01 (13 Oct 2026): 12 role-based LinkedIn searches (no names in queries); 0 new profile match(es) recorded; existing verified URLs kept; decision-makers searched by role and not found set to 'Not verified'."
   ],
   "research_status": "Complete",
   "researched_by": "B01",

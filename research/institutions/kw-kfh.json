@@ -497,7 +497,7 @@
    "education": "BA Industrial Systems Engineering, University of Southern California (1985); MA International Finance and Business Management, Claremont Graduate University (1987)",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official board page checked 2026-10-12 (S1); AR 2025 board biography (S4); signed the 30 Jun 2026 statement of financial position as Chairman (S2); the 31 Mar 2026 'Formation of Board of Directors' disclosure follows the 2026 AGM (S5). 2026 news searches found no departure.",
    "source_ids": [
@@ -702,7 +702,7 @@
    "education": "BA Mechanical Engineering Technology, Metropolitan State University, USA (1989); Harvard Business School leadership programmes",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official executive roster checked 2026-10-12 (S1); AR 2025 biography (S4); appointment disclosure (S26); listed as Executive Director with biography on KFH Bahrain's board page, checked 2026-10-12 (S33).",
    "source_ids": [
@@ -871,7 +871,7 @@
    "education": "Bachelor of Arts, USA (2000); programmes at Columbia Business School, INSEAD and Harvard Business School",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official executive roster checked 2026-10-12 (S1); appointment disclosure (S28); AR 2025 biography (S4).",
    "source_ids": [
@@ -922,7 +922,7 @@
    "education": "BA Business Administration (Finance and Banking), Kuwait University (1987); Senior Executive Leadership Program, Harvard Business School (2008); Global Banking Program, Columbia University (2022); executive programmes at London Business School, INSEAD and the Wharton School",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official executive roster checked 2026-10-12 (S1); AR 2025 biography (S4).",
    "source_ids": [
@@ -2107,7 +2107,9 @@
   "No public customer count or KFH Wealth/KFH Trade user numbers found.",
   "LinkedIn: name-based look-ups are not available in this environment. Not found for Alshamlan, Alghannam, Al-Haddad, Alali or ElMeligy; URLs for O'Loan, AlSamdan, Alsumait, Almukhaizeem and Al-Tabtebai were carried over from the original research without re-checking; Liddle and Almunaikh were re-seen in search results (S20).",
   "kfh.com answered scripted requests on 12 Oct 2026 (board/management page, disclosures list and disclosure PDFs read with tools/pdftext.py); the first pass recorded HTTP 406.",
-  "IFN Investor (paywalled, undated; seen in search results only, S35) reports Alan Higgins as KFH Group Chief Investment Officer based in Bahrain, leading group investment management incl. Kuveyt Turk Portfoy and KFH Capital. He is not on the official roster (S1) or KFH Capital's leadership page (S14) and was not added. Verify with KFH; relevant to who owns investment-product decisions in Group PBWM."
+  "IFN Investor (paywalled, undated; seen in search results only, S35) reports Alan Higgins as KFH Group Chief Investment Officer based in Bahrain, leading group investment management incl. Kuveyt Turk Portfoy and KFH Capital. He is not on the official roster (S1) or KFH Capital's leadership page (S14) and was not added. Verify with KFH; relevant to who owns investment-product decisions in Group PBWM.",
+  "LinkedIn pass L01 (13 Oct 2026): search-result summaries name Samih Abutaleb as Deputy Group CEO Technology & Operations and Talal Kaiksow as Deputy Group CEO Private Banking & Wealth Management at 'Kuwait Finance House B.S.C. (c)' (KFH Bahrain, formerly Ahli United Bank). The roster holds these titles at KFH K.S.C.P. as Haitham Al-Terkait and Alexander Liddle respectively; the Bahrain entries may be subsidiary-level titles. Not recorded as people; verify against official KFH and KFH Bahrain management pages.",
+  "LinkedIn pass L01 (13 Oct 2026): 12 role-based LinkedIn searches (no names in queries); 0 new profile match(es) recorded; existing verified URLs kept; decision-makers searched by role and not found set to 'Not verified'."
  ],
  "research_status": "Complete",
  "researched_by": "B24",

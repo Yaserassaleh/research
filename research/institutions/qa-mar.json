@@ -461,7 +461,7 @@
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official board page checked 2026-10-12 (S20); AR 2025 board disclosures (S4 p.69); signed the FY2025 statements on 19 Feb 2026 (S4 p.131) and the 30 Jun 2026 interim statements (S2) as Chairman; quoted as Chairman in the 30 Sep 2026 Group CEO release (S21). No education is published.",
    "source_ids": [
@@ -489,7 +489,7 @@
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Requires verification",
    "role_evidence": "Named Group CEO in the official 30 Sep 2026 release (S21) and The Peninsula (S6), but not yet in post: the Executive Management page (checked 2026-10-12) lists Omar Al Emadi as Acting Group CEO (S1), and NBB says he remains its Group CEO until 31 Dec 2026 (S22). Status to be re-checked when he assumes office. Education not found in opened sources (NBB release S24 unreadable).",
    "source_ids": [
@@ -519,8 +519,8 @@
    "previous_roles": "2026- Acting Group CEO and Group Chief Operations and Administration Officer, AlRayan Bank; 2025 (at least) Group Chief Business Officer, AlRayan Bank; 2021- Group Chief Risk Officer, AlRayan Bank (formerly Masraf Al Rayan); Group Chief Business Officer, Al Khaliji Commercial Bank (wholesale and private banking clients); earlier leadership roles, Commercial Bank of Qatar (years not given; S26). Current other roles: Non-Executive Director, Al Rayan Bank PLC (UK) (S15, S29); Vice Chairman, Sahb Financing (KSA), representing AlRayan Bank (S4 p.89).",
    "education": "BSc Finance, California State University (S1, S26)",
    "qualifications": null,
-   "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_url": "https://www.linkedin.com/in/omar-al-emadi-35580161/",
+   "linkedin_status": "Verified (profile/search match)",
    "role_status": "Verified current",
    "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); 30 Sep 2026 release (S21); AR 2025 senior management (S4 p.89); UK subsidiary board page and bio (S15, S26); Companies House active director (S29).",
    "source_ids": [
@@ -530,7 +530,8 @@
     "S4",
     "S15",
     "S26",
-    "S29"
+    "S29",
+    "S35"
    ],
    "checked": "2026-10-12"
   },
@@ -608,7 +609,7 @@
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Requires verification",
    "role_evidence": "Only source is the 11 Jun 2023 Premier release (S9). Not listed on the Executive Management page (S1, checked 2026-10-12) or in the AR 2025 senior management (S4), both of which stop at GM/AGM level, so absence is not evidence of departure. A 2025-2026 news search for AlRayan Premier/Private Banking heads returned nothing.",
    "source_ids": [
@@ -663,7 +664,7 @@
    "education": "Specialised Master's in Strategic Business Unit Management, HEC Paris in Qatar; MBA, Anglia Ruskin University; BSc Business Administration (Marketing), Arab Academy for Science, Technology and Maritime Transport (S4 p.90; S1)",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.90).",
    "source_ids": [
@@ -690,7 +691,7 @@
    "education": "MBA (Finance), Imperial College of Business Studies, Lahore (S1, S4)",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 (S4 p.91); ARI board page (S34).",
    "source_ids": [
@@ -716,7 +717,7 @@
    "education": "Bachelor's in Accounting and Commerce, University of Karachi (S1, S4)",
    "qualifications": "Chartered Accountant, Institute of Chartered Accountants of Pakistan (S1, S4)",
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official Executive Management page checked 2026-10-12 (S1); AR 2025 senior management and organisation chart (S4 pp.90, 94).",
    "source_ids": [
@@ -794,7 +795,7 @@
    "education": "MBA (institution not stated); Harvard Business School alumnus (S27)",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "UK board and executive page checked 2026-10-12 (S15) and his bio page (S27); Companies House lists him as an active director (S29). No 2026 departure news found (search 2026-10-12).",
    "source_ids": [
@@ -822,7 +823,7 @@
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "UK board and executive page checked 2026-10-12 (S15); appointment release Mar 2019 (S30).",
    "source_ids": [
@@ -1458,6 +1459,18 @@
    "published": null,
    "accessed": "2026-10-12",
    "language": "en"
+  },
+  {
+   "id": "S35",
+   "title": "Omar Al-Emadi - LinkedIn",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/omar-al-emadi-35580161/",
+   "doc_type": "LinkedIn profile (search result)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Seen in search results only"
   }
  ],
  "original_reconciliation": [],
@@ -1560,7 +1573,9 @@
   "LinkedIn: no verified profile for any AlRayan person. Role-based searches (GM Personal Banking; ARI head of asset management) returned no profiles; the search tool declines name-based look-ups, so Al Emadi, Usman Ahmed, Akber Khan, Cunningham and the chairman were not checked by name. All linkedin_url fields remain null.",
   "hrtoday.in (S16, Itani promotion) returns HTTP 403 to scripted requests; the May 2026 date rests on a search snippet, while the title itself is confirmed by the executive page (S1).",
   "Board term 2026-2028 elected 15 Mar 2026 (S20): new member Nasser Mohsin Al Adba (Al Qayqiyan Investment Group); Abdulla Al Romaihi's profile was truncated in the fetched page. Only the Chairman is profiled in people.",
-  "ARI governance: the ARI board page (S34) names Mohammed Jaber Al-Sulaiti as ARI Chairman and lists a 'Sheikh Mohammed Abdulaziz S. H. Al-Thani' - probably the bank's GM Wholesale - and Tahir Hayat Pirzada; no permanent ARI CEO has been announced (Akber Khan acting since 2023, S31)."
+  "ARI governance: the ARI board page (S34) names Mohammed Jaber Al-Sulaiti as ARI Chairman and lists a 'Sheikh Mohammed Abdulaziz S. H. Al-Thani' - probably the bank's GM Wholesale - and Tahir Hayat Pirzada; no permanent ARI CEO has been announced (Akber Khan acting since 2023, S31).",
+  "LinkedIn pass L01 (13 Oct 2026): a search result titled 'Houssam Itani - AlRayan Bank Group' was returned, but the search summary also mentions a recent post about a new role as Chief Operating Officer, Technology Consulting, MENA (employer not shown). Doubt about the current employer, so no URL recorded and role_status unchanged; verify Houssam Itani's current role against official sources.",
+  "LinkedIn pass L01 (13 Oct 2026): 13 role-based LinkedIn searches (no names in queries); 1 new profile match(es) recorded; existing verified URLs kept; decision-makers searched by role and not found set to 'Not verified'."
  ],
  "research_status": "Complete",
  "researched_by": "B20",

@@ -659,7 +659,7 @@
       "education": "Bachelor's degree, Political Science, University of Denver, Colorado, USA",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official Board of Directors page checked 2026-10-12 (S13), with appointment date; CG Report 2025 board section (S10). Board member: official page and annual report suffice; no change news seen in the 2025-2026 role-based searches run for this file.",
       "source_ids": [
@@ -684,7 +684,7 @@
       "education": "Bachelor's degree, Banking and Finance (institution not stated); Master's degree, International Business Management and Executive Leadership Development (institution not stated)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official Board page checked 2026-10-12 (S13); CG Report 2025 (S10); EI Annual Report 2025 board biography (S42); quoted with this title in the H1 2026 results release of 23 Jul 2026 (S4) and the DFM release of 2 Aug 2026 (S12).",
       "source_ids": [
@@ -741,14 +741,15 @@
       "previous_roles": "2020– Group Chief Financial Officer, Emirates NBD (financial reporting, planning, liquidity and capital management, procurement, investor communication). Standard Chartered: Group Financial Controller; CFO, Standard Chartered China; Greater China Head of Finance, Wholesale Banking (years not published). Earlier: PricewaterhouseCoopers, banking and capital markets, in multiple countries. Over 30 years in banking and finance in the UK, China (incl. Hong Kong), New Zealand, Russia and the UAE.",
       "education": "Bachelor of Business Studies, Massey University, New Zealand",
       "qualifications": "Chartered Accountant, Chartered Accountants Australia and New Zealand",
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_url": "https://ae.linkedin.com/in/patrick-sullivan-70b7192a",
+      "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
       "role_evidence": "Official management team page checked 2026-10-12 (S1); CG Report 2025 biography (S10); quoted as Group CFO in the H1 2026 results release (S4).",
       "source_ids": [
         "S1",
         "S10",
-        "S4"
+        "S4",
+        "S47"
       ],
       "checked": "2026-10-12"
     },
@@ -854,7 +855,7 @@
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Conflicting sources",
       "role_evidence": "ENBD AM 'About us' page re-read 2026-10-12 still lists him as 'Group Head of Wealth Management, Emirates NBD' with a bio dating itself to about 2023 (S18). Caproasia (18 Dec 2025, re-read 2026-10-12) reports his appointment as Group Head of RBWM International with Raed Al Jaser as Head of Wealth Management (S32). No official ENBD release or org page found in role-based searches ('Retail Banking and Wealth Management International', 12 Oct 2026); not on the Group Executive Team page (S1).",
       "source_ids": [
@@ -903,14 +904,15 @@
       "previous_roles": "Nov 2023– Senior Executive Officer, Emirates NBD Asset Management (DFSA-regulated; leads the Group's asset management business); before: Managing Director and KSA market leader, BNP Paribas Wealth Management, and member of the BNP Paribas DIFC executive committee; Head of Private Banking, Credit Suisse Saudi Arabia (execution, advisory and discretionary mandate business); over 12 years at Housing Bank (Jordan), incl. Executive Manager, Investment and Financial Advisory Department (years per role not published; 'over 17 years' in investment management per S18).",
       "education": "Master's degree, Law and Accounting, London School of Economics and Political Science, UK",
       "qualifications": "CFA charterholder; Professional Risk Manager (PRM); Chartered Alternative Investment Analyst (CAIA); Certified Wealth Management Advisor (CWMA) (S18)",
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
+      "linkedin_url": "https://ae.linkedin.com/in/michail-e-samawi-1b716114",
+      "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
       "role_evidence": "Official ENBD Asset Management leadership page re-read 2026-10-12 (S18); Forbes Middle East 2026 list profile dated 9 Jul 2026 (S43) and 2024 profile (S44). Role-based search for an ENBD AM senior executive officer appointment (12 Oct 2026) found no later change. An earlier LinkedIn result 'Michail E. Samawi - CEO' did not show the employer, so not recorded.",
       "source_ids": [
         "S18",
         "S43",
-        "S44"
+        "S44",
+        "S48"
       ],
       "checked": "2026-10-12"
     },
@@ -989,7 +991,7 @@
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Named with this title on the official Fintech & Digital Partnerships page, re-read 2026-10-12 (S30). A Singapore Fintech Festival speaker listing with the same title appeared in search results, but the page returned HTTP 404 when opened (S46). No official biography (education, career) found; name-based look-ups not available.",
       "source_ids": [
@@ -1014,7 +1016,7 @@
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Named with this title on the official Fintech & Digital Partnerships page, re-read 2026-10-12 (S30), and as moderator ('Head of Fintech Engagement, Emirates NBD') in ENBD's Dubai FinTech Summit agenda PDF (undated, 12-13 May; S45). No official biography found.",
       "source_ids": [
@@ -1935,6 +1937,30 @@
       "accessed": "2026-10-12",
       "language": "en",
       "note": "Seen in search results only; the page returned HTTP 404 when opened on 2026-10-12."
+    },
+    {
+      "id": "S47",
+      "title": "Patrick Sullivan - LinkedIn",
+      "publisher": "LinkedIn",
+      "url": "https://ae.linkedin.com/in/patrick-sullivan-70b7192a",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only"
+    },
+    {
+      "id": "S48",
+      "title": "Michail E. Samawi - LinkedIn",
+      "publisher": "LinkedIn",
+      "url": "https://ae.linkedin.com/in/michail-e-samawi-1b716114",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only"
     }
   ],
   "original_reconciliation": [
@@ -2404,7 +2430,9 @@
     "Emirates NBD Securities leadership not named on its website; Emirates NBD Capital CEO (Hitesh Asarpota per Euromoney 2026, search result only) not verified on an official page.",
     "Q3 2026 results not yet published (IR quarterly results page checked 12 Oct 2026, S31); add 30 Sep 2026 balance-sheet record when released.",
     "Company LinkedIn: ENBD homepage footer could not be read (page too long for fetch); URL taken from search result and original workbook.",
-    "Strategic Report 2025 and CG Report 2025 publication dates not shown in the PDFs."
+    "Strategic Report 2025 and CG Report 2025 publication dates not shown in the PDFs.",
+    "LinkedIn pass L01 (13 Oct 2026): Michail Samawi's profile headline in the search result reads 'CEO' (employer not shown in the title); the snippet text, as summarised by the search tool, gives 'SEO, Group Head of Asset Management' at ENBD Asset Management (UAE). Matched on name and function and recorded; verify the exact title (file: Senior Executive Officer) against official sources.",
+    "LinkedIn pass L01 (13 Oct 2026): 14 role-based LinkedIn searches (no names in queries); 2 new profile match(es) recorded; existing verified URLs kept; decision-makers searched by role and not found set to 'Not verified'."
   ],
   "research_status": "Complete",
   "researched_by": "P1",
