@@ -75,3 +75,26 @@ files did not arrive.
 ## Central QA
 - research/qa_accepted.json — flags reviewed and accepted, with reasons.
 - research/central_edits.json — every edit made centrally to agent files, with reason.
+
+## Executive deep-dive (12–13 Oct 2026; in progress, handed over 13 Oct 06:00 UTC — see HANDOVER.md)
+Goal set by the user on 12 Oct: verify every executive (title, appointment, career, education, qualifications,
+LinkedIn, current-role status), decision-makers first. Rules: research/PEOPLE_DEEP_DIVE.md (binding addendum);
+plan and measurement: tools/people_pass.py; notes per batch in research/people_pass/.
+- [x] Network access enabled by the user (environment setting "Full"); agents read pages with tools/pdftext.py and
+      curl because WebFetch cannot resolve hosts in the cloud environment.
+- [x] 47 batches planned (X01–X47, institution groups in ARTA-score order, ≈32 people each); 40 done (X01–X40,
+      82 institutions). Each finished batch validated (build_db --only), committed and pushed separately.
+- [x] Coverage (decision-makers, 787): education 58→66%, career with years 32→73%, qualifications 16→18%,
+      appointment date 50→58%, LinkedIn verified 12→16%, role Verified current 81→85%; 31 people added
+      (successors, missing wealth/digital heads); 26 records marked Departed with dated evidence (12 of them
+      decision-maker changes in 2025–2026, listed in HANDOVER.md §2).
+- [x] Build 13 Oct 06:00 UTC: 96 institutions, 1,223 people, 1,318 metrics, 2,933 sources; 0 invalid JSON / broken
+      source refs / vocabulary errors; QA role_not_verified_current 192→149, other flags unchanged. Website
+      republished at https://claude.ai/artifact/1eKXkN8WvRUvXGnTEhbMaH.
+- [ ] X41–X47 (14 small institutions) not run.
+- [ ] LinkedIn pass: L01–L02 done (7 URLs from 149 role-based searches); L03–L16 paused pending the user's decision
+      (automated pass vs manual worklist; HANDOVER.md §4).
+- [ ] Older backlog unchanged (10 unresearched institutions, 22 partial profiles, link and number checks).
+- Incidents: usage limit hit three times (12 Oct 14:22 with 16 agents; 12 Oct ≈20:35 and 13 Oct ≈02:00 with 6);
+  killed agents' valid partial files were kept and the batches relaunched with an "interrupted run" note; X36 and
+  X40 were found complete on disk and their notes compiled centrally.

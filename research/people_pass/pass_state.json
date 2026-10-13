@@ -1,0 +1,24 @@
+{
+ "as_of": "2026-10-13T06:00Z",
+ "note": "Tracker of the executive deep-dive (research/PEOPLE_DEEP_DIVE.md). Copied into the repository at handover; the next session should keep it current (one line per batch launched / done).",
+ "main_batches": {
+  "plan": "research/people_pass/plan.json",
+  "total": 47,
+  "done": ["X01", "X02", "X03", "X04", "X05", "X06", "X07", "X08", "X09", "X10", "X11", "X12", "X13", "X14", "X15", "X16", "X17", "X18", "X19", "X20", "X21", "X22", "X23", "X24", "X25", "X26", "X27", "X28", "X29", "X30", "X31", "X32", "X33", "X34", "X35", "X36", "X37", "X38", "X39", "X40"],
+  "remaining": ["X41", "X42", "X43", "X44", "X45", "X46", "X47"],
+  "running": [],
+  "partial_files_on_disk": [],
+  "notes": "X36 and X40: the agents were stopped by the usage limit after writing and validating every institution file but before writing the batch note; notes compiled centrally on 2026-10-13. X41-X44 were launched on 12-13 Oct and killed by the same limit before writing anything (their files are unchanged)."
+ },
+ "linkedin_batches": {
+  "plan": "research/people_pass/linkedin_plan.json",
+  "done": ["L01", "L02"],
+  "remaining": ["L03", "L04", "L05", "L06", "L07", "L08", "L09", "L10", "L11", "L12", "L13", "L14", "L15", "L16"],
+  "policy": "Paused after L02 (7 verified URLs from 149 role-based searches) pending the user's decision; see HANDOVER.md section 4. Run an L batch only after the X batches of its institutions are done."
+ },
+ "incidents": [
+  "2026-10-12 14:22 UTC: usage limit with ~16 concurrent agents; resumed 17:15 with <=6 concurrent.",
+  "2026-10-12 ~20:35 UTC: usage limit; X24, X25, X27, X28, L01, L02 killed; relaunched 00:45 UTC 13 Oct with the 'previous run interrupted' note (valid partial files kept).",
+  "2026-10-13 ~02:00 UTC: usage limit; X36, X40, X41, X42, X43, X44 killed. X36 and X40 files were complete; X41-X44 had written nothing. Handover requested by the user at 05:45 UTC before relaunch."
+ ]
+}

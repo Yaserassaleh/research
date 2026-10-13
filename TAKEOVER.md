@@ -8,6 +8,11 @@ Project folder:
 
 ## 0. Cloud session status (12 Oct 2026, after 15:20) — read this first
 
+**13 Oct 2026:** the executive deep-dive (people pass; research/PEOPLE_DEEP_DIVE.md) ran after this section was
+written and stopped at 40 of 47 batches. `HANDOVER.md` at the repository root has its state, the remaining batches,
+the exact prompts and the order of the remaining work (people pass → LinkedIn decision → the backlog below → final
+build and publication). Read HANDOVER.md before §1.
+
 The project now also lives in GitHub: `Yaserassaleh/research`, branch `claude/tender-volta-xqmo8b`, with the same
 layout as §2 at the repository root (no `00 Original workbook (unchanged)/` and no `research/original_extracts/` —
 they were not uploaded). In a cloud session, read the Mac paths below as paths under the repository root.

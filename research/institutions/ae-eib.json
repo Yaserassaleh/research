@@ -282,25 +282,29 @@
       "business_unit": "Board",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Board tenure about 20 years (governance report 2025).",
-      "previous_roles": "Vice-Chairman of Al Futtaim Group; Vice Chairman of Orient Insurance PJSC; member of the Board of Dubai Chamber (governance report 2025).",
-      "education": null,
+      "appointed_note": "Date of appointment as Chairman not found. Governance Report 2025 gives a board tenure of 20 years (S3, Board Composition table, PDF p.78). The Chairman Message page (S27) and the Board page (S5) name him as Chairman.",
+      "previous_roles": "2001– Vice Chairman & CEO, Al-Futtaim Group (Al-Futtaim website, S16; the Governance Report 2025 lists him as 'Vice-Chairman of Al Futtaim Group'); before 2001, 12 years in various positions across the Al-Futtaim family portfolio (S16). Current other roles (Governance Report 2025, S3): Vice Chairman of the Board, Orient Insurance PJSC; Chairman, Al Futtaim Education Foundation; Member of the Board, Dubai Chamber.",
+      "education": "Bachelor's degree in Economics, Macalester College, Minnesota, USA (Al-Futtaim website, S16)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Signed the H1 2026 statements as Chairman (S1); board page (S5).",
+      "role_evidence": "Board page and Chairman Message page checked 2026-10-13 (S5, S27); Governance Report 2025, director table (S3); named as Chairman in the 13 May 2026 CEO-appointment release (S17); signed the H1 2026 statements as Chairman (S1). The Al-Futtaim biography (S16) is matched to this record by name and by the Vice-Chairman role of Al-Futtaim Group shown in the Governance Report. No 2025-2026 departure news found. AGM resolutions of 31 Mar 2026 (S14) release the directors from liability for 2025 and record no board change.",
       "source_ids": [
         "S1",
         "S3",
-        "S5"
+        "S5",
+        "S16",
+        "S17",
+        "S27",
+        "S14"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Christophe de Backer",
       "name_ar": null,
-      "title": "Independent Non-Executive Director",
+      "title": "Independent Non-Executive Director; Chairman, Board Audit Committee; member, Board Credit & Investment Committee",
       "functions": [
         "Board",
         "Private banking"
@@ -309,24 +313,27 @@
       "business_unit": "Board",
       "scope": "Group",
       "appointed": "2025-06-19",
-      "appointed_note": "Elected at the general meeting of 19 Jun 2025, subject to CBUAE no-objection.",
-      "previous_roles": "Former Group CEO of Edmond de Rothschild; former Global Head of Wholesale Business, HSBC Global Asset Management; Non-Executive Chairman of Transactions & Compagnie (governance report 2025).",
+      "appointed_note": "Elected at the general meeting of 19 Jun 2025, subject to CBUAE no-objection (S10); Governance Report 2025 gives first election 19.06.2025 (S3, PDF p.80). Chairs the Board Audit Committee and sits on the Board Credit & Investment Committee (S3, PDF pp.86, 104).",
+      "previous_roles": "Former Group CEO, Edmond de Rothschild; former Global Head of Wholesale Business, HSBC Global Asset Management (Governance Report 2025, S3; years not given). Current other roles: Non-Executive Chairman, Transactions & Compagnie; Independent Board Member, 'Norman K.' (as printed) (S3). A June 2025 news report describes him as managing partner of Transactions & Compagnie with a past role as CEO of HSBC France (S22; see discrepancies).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "GM resolution 19 Jun 2025 (S10); governance report 2025 (S3). He is not in the website board list, which looks out of date.",
+      "role_evidence": "Governance Report 2025: board of eight incl. him, Audit Committee chairman, Credit & Investment Committee member (S3); general-meeting resolutions of 19 Jun 2025 (S10); news of his election (S22). Not on the website director list (S27), which pre-dates his election. No departure news found. AGM resolutions of 31 Mar 2026 (S14) release the directors from liability for 2025 and record no board change.",
       "source_ids": [
+        "S3",
         "S10",
-        "S3"
+        "S22",
+        "S27",
+        "S14"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Georges Makhoul",
       "name_ar": null,
-      "title": "Independent Non-Executive Director; Chairman, Board Risk Committee",
+      "title": "Independent Non-Executive Director; Chairman, Board Risk Committee; member, Board Audit Committee",
       "functions": [
         "Board"
       ],
@@ -334,19 +341,20 @@
       "business_unit": "Board",
       "scope": "Group",
       "appointed": "2025-04-16",
-      "appointed_note": "",
-      "previous_roles": "Founder of AEP; former CEO of Constellation Holdings; former President of Morgan Stanley in MENA (governance report 2025).",
+      "appointed_note": "First election 16.04.2025 per the Governance Report 2025 (S3, PDF p.79). Chairs the Board Risk Committee (S3, PDF p.86) and is a member of the Board Audit Committee (S3, PDF p.104).",
+      "previous_roles": "Former President of Morgan Stanley in MENA; former CEO, Constellation Holdings (Governance Report 2025, S3; years not given). Current other roles: Founder, AEP (S3).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Governance report 2025 (S3); website director list (S5).",
+      "role_evidence": "Governance Report 2025 director table and committee pages (S3); Chairman Message page director list checked 2026-10-13 (S27). No 2025-2026 departure news found. AGM resolutions of 31 Mar 2026 (S14) release the directors from liability for 2025 and record no board change.",
       "source_ids": [
         "S3",
-        "S5"
+        "S27",
+        "S14"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Michel Longhini",
@@ -359,47 +367,58 @@
       "entity": "Emirates Investment Bank P.J.S.C.",
       "business_unit": "Group",
       "scope": "Group",
-      "appointed": "2025",
-      "appointed_note": "Exact date not found. He followed Kishore Venkat (interim CEO from 17 Jun 2025) and signed the FY2025 statements on 10 Feb 2026.",
-      "previous_roles": "Group Head of Private Banking, First Abu Dhabi Bank; CEO of Group Private Banking, Edmond de Rothschild; CEO Private Banking, Union Bancaire Privée; BNP Paribas (Global Head of Investment Services, CEO Private Banking Asia, CEO International Wealth Management) (official bio).",
-      "education": "MSc in Management, emlyon business school",
+      "appointed": "2026-02",
+      "appointed_note": "Exact effective date not published; no CEO-appointment disclosure is listed on the IR page (S8). Earliest evidence: Enterprise reported on 4 Feb 2026 that he had been appointed CEO, citing a LinkedIn post (S19); he signed the CEO statement in the Integrated Report on 10 Feb 2026 (S3); the bank's formal announcement is dated 13 May 2026 (S17, S18). Succeeded the interim CEO (17 Jun 2025 onward, S11, S21), who succeeded the former CEO (resigned April 2025, S20). Corrects the first-pass value '2025'.",
+      "previous_roles": "2026– Chief Executive Officer, Emirates Investment Bank; 2023–2026 Group Head of Global Private Banking and member of the Executive Committee, First Abu Dhabi Bank (appointed Feb 2023, S24, S25; end date not published); 2019–2023 CEO of Private Banking (CEO of the Group Private Banking division), Edmond de Rothschild, Geneva (joined 2019, S24); earlier CEO of Private Banking, Union Bancaire Privée (UBP SA), Geneva (years not given in the sources opened); earlier senior roles at BNP Paribas Group incl. Global Head of Investment Services, CEO Private Banking Asia and CEO International Wealth Management (years not given). Current other roles: none stated.",
+      "education": "MSc in Management, emlyon business school, Lyon, France",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Executive committee page checked 2026-10-12 (S4); signed the FY2025 (S2) and H1 2026 (S1, 7 Aug 2026) statements; MD&A signed 10 Feb 2026 (S3).",
+      "role_evidence": "Executive Committee page checked 2026-10-13 (S4); listed as CEO, Emirates Investment Bank on the Al-Futtaim leadership page (S16); announcement release 13 May 2026 (S17, S18); signed the Integrated Report CEO statement (10 Feb 2026) and the H1 2026 statements (7 Aug 2026) (S3, S1). No departure news found. LinkedIn: role-based LinkedIn searches on 2026-10-13 returned no personal profile for the CEO; a news article (S19) links a profile, which is not an official link or a search match and is therefore not recorded.",
       "source_ids": [
-        "S4",
         "S1",
-        "S2",
-        "S3"
+        "S3",
+        "S4",
+        "S8",
+        "S11",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S24",
+        "S25"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Kishore Venkat",
       "name_ar": null,
-      "title": "Chief Financial Officer (Interim CEO from 17 Jun 2025)",
+      "title": "Chief Financial Officer",
       "functions": [
         "Finance"
       ],
       "entity": "Emirates Investment Bank P.J.S.C.",
       "business_unit": "Finance",
       "scope": "Group",
-      "appointed": "2014",
-      "appointed_note": "Joined 2014. CBUAE confirmed him as interim CEO from 17 Jun 2025; now listed as CFO.",
-      "previous_roles": "Tamweel/Dubai Islamic Bank (6 years, financial accounting and reporting); Ernst & Young Dubai (5 years).",
-      "education": "MBA Finance, Middlesex University; BCom, University of Bombay",
-      "qualifications": "Chartered Accountant (India)",
+      "appointed": null,
+      "appointed_note": "Joined the bank in 2014 (S4). Date of appointment as CFO not found. Served as Interim CEO from 17 Jun 2025 (confirmed by the CBUAE, S11) until the permanent CEO took office (see the CEO record).",
+      "previous_roles": "2025 (from 17 Jun)– Interim Chief Executive Officer, Emirates Investment Bank, in addition to the CFO post (S11, S21); 2014– joined Emirates Investment Bank (S4); 6 years, Tamweel / Dubai Islamic Bank, financial accounting and reporting; 5 years before that, Ernst & Young Dubai, statutory audit (accounts incl. Emirates NBD and DP World) (S4; the page gives durations, not calendar years). Current other roles: none stated.",
+      "education": "MBA in Finance, Middlesex University; Bachelor of Commerce (Accounting and Finance), University of Bombay",
+      "qualifications": "Chartered Accountant (India; awarding body not named on the page)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Executive committee page (S4); interim CEO disclosure 18 Jun 2025 (S11).",
+      "role_evidence": "Executive Committee page checked 2026-10-13 (S4); interim-CEO letter to DFM/SCA of 18 Jun 2025 (S11) and news (S21). The interim role has ended: the Integrated Report CEO statement of 10 Feb 2026 is signed by the permanent CEO (S3). No departure news found.",
       "source_ids": [
+        "S3",
         "S4",
-        "S11"
+        "S11",
+        "S21"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Anthony Jaganathan",
@@ -413,18 +432,21 @@
       "business_unit": "Operations",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
+      "appointed_note": "Not found.",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Requires verification",
-      "role_evidence": "Quoted as EIB COO in Avaloq's release of 23 Oct 2025 (S12); not on EIB's executive committee page (S4).",
+      "role_evidence": "Quoted as Chief Operating Officer in Avaloq's release of 23 Oct 2025 (S12) and in Fintech News UAE's copy of it (S26). He is not on the Executive Committee page checked 2026-10-13 (S4) and no 2026 source names him; the Integrated Report 2025 organisation chart shows an 'Operations & Settlements' function without a name (S3). A role-based LinkedIn search on 2026-10-13 returned no matching profile. No biography is published.",
       "source_ids": [
-        "S12"
+        "S3",
+        "S4",
+        "S12",
+        "S26"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Vinod Yadav",
@@ -437,18 +459,20 @@
       "business_unit": "Technology",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
+      "appointed_note": "Not found.",
       "previous_roles": null,
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Requires verification",
-      "role_evidence": "Quoted as EIB Head of Technology in Avaloq's release of 23 Oct 2025 (S12); not on the executive committee page (S4).",
+      "role_evidence": "Quoted as Head of Technology in Avaloq's release of 23 Oct 2025 (S12; the page returned HTTP 403 on 2026-10-13, text read in the first pass). He is not on the Executive Committee page checked 2026-10-13 (S4) and no 2026 source names him; the Integrated Report 2025 organisation chart shows an 'Information Technology' function without a name (S3). A role-based LinkedIn search on 2026-10-13 returned no matching profile. No biography is published.",
       "source_ids": [
+        "S3",
+        "S4",
         "S12"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Asad Khan",
@@ -461,18 +485,19 @@
       "business_unit": "Asset Management",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Al Rajhi Capital, Riyadh (CIO / Head of Fixed Income and Multi Assets); board member, Bahrain Investment Professionals Society 2007-2009.",
-      "education": "MBA and BBA (Hons) Finance, IBA Karachi",
-      "qualifications": "CFA (2002)",
+      "appointed_note": "Date of joining or appointment not found (official page gives 'over 22 years of experience in Banking and Investment Management').",
+      "previous_roles": "Al Rajhi Capital, Riyadh: Chief Investment Officer / Head of Fixed Income and Multi Assets, directly managing large institutional clients (page states overall assets under management of USD 11bn equivalent; years not given). Current other roles: none stated. Earlier: Board member, Bahrain Investment Professionals Society, 2007-2009.",
+      "education": "MBA, Institute of Business Administration (IBA), Karachi; BBA (Hons) in Finance, Institute of Business Administration (IBA), Karachi",
+      "qualifications": "CFA charter (awarded 2002)",
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Executive committee page checked 2026-10-12 (S4).",
+      "role_evidence": "Executive Committee page checked 2026-10-13 (S4); the Board Credit & Investment and Investment Committee structure is described on the Board page (S5). No 2025-2026 departure news found. A role-based LinkedIn search on 2026-10-13 showed a company-page employee entry labelled 'Investment Management' with a matching name but no title or profile URL in the snippet, so it is not recorded.",
       "source_ids": [
-        "S4"
+        "S4",
+        "S5"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Osama Al Rahma",
@@ -485,18 +510,18 @@
       "business_unit": "Business Development",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Al Fardan Exchange / Al Fardan Group from 1993, CEO from 2011 and Director.",
-      "education": "Degree in Electronics Engineering; Postgraduate Diploma in Management Studies, University of Hull",
+      "appointed_note": "Date of joining the bank not found. The official page gives over 28 years in the financial sector.",
+      "previous_roles": "Al Fardan Exchange LLC / Al Fardan Group from 1993 in several leadership roles; CEO from 2011 and Director of the Group (end date not given on the official page). Other roles listed: Vice Chairman, Foreign Exchange and Remittance Group (FERG) under Dubai Chamber of Commerce; former Vice Chairman, Dubai Quality Group. Current other roles: none stated.",
+      "education": "Degree in Electronics Engineering and Postgraduate Diploma in Management Studies, University of Hull (official wording: 'a degree in Electronics Engineering and a Postgraduate Diploma in Management Studies from the University of Hull'); Executive Program in Leadership, Harvard Kennedy School (alumnus, per official bio)",
       "qualifications": "Harvard Fintech Certificate",
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Executive committee page (S4).",
+      "role_evidence": "Executive Committee page checked 2026-10-13 (S4). No 2025-2026 departure news found. LinkedIn: a role-based LinkedIn search on 2026-10-13 returned no matching profile; a third-party conference page that carries a profile link is not an official link and is not recorded.",
       "source_ids": [
         "S4"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Dhananjay Uplekar",
@@ -509,18 +534,18 @@
       "business_unit": "Treasury",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Al Futtaim Group Treasury (financial risk, about 11 years); ICICI Bank DIFC; MF Global Commodities India.",
-      "education": "Master's in Management Studies and BCom, Mumbai University",
-      "qualifications": "FRM (GARP)",
+      "appointed_note": "Date of joining the bank not found. The official page gives over 18 years in treasury, trading, market advisory and sales.",
+      "previous_roles": "Al Futtaim Group Treasury, managing the Financial Risk function for nearly 11 years across more than 20 geographies; ICICI Bank DIFC; Trader, MF Global Commodities, India. Current other roles: none stated.",
+      "education": "Postgraduate Master's in Management Studies, Mumbai University; Bachelor of Commerce (Accounting and Finance), Mumbai University",
+      "qualifications": "Financial Risk Manager (FRM), Global Association of Risk Professionals (GARP)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Executive committee page (S4).",
+      "role_evidence": "Executive Committee page checked 2026-10-13 (S4). No 2025-2026 departure news found.",
       "source_ids": [
         "S4"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Laurent Valet",
@@ -533,19 +558,19 @@
       "business_unit": "Compliance",
       "scope": "Group",
       "appointed": "2024-10-03",
-      "appointed_note": "",
-      "previous_roles": "29 years at BNP Paribas, incl. Global WM Compliance COO, Wealth Management (MEA) COO and Head of Compliance Wealth Management (MEA).",
-      "education": "PhD Computer Science, University of Leeds; MSc Computer Science, INSA de Lyon",
-      "qualifications": "CAMS; Compliance Experts Certificate, Ecole Supérieure de Banque",
+      "appointed_note": "Date of appointment as Compliance Officer 03 October 2024 (Governance Report 2025, S3, PDF p.92).",
+      "previous_roles": "29 years at BNP Paribas (Panama, Miami, Madrid, Paris, Bahrain, Dubai), incl. Global WM Compliance Chief Operating Officer, Wealth Management (MEA) Chief Operating Officer and Head of Compliance, Wealth Management (MEA) (years not given). The official page states over 11 years in the GCC in AML/CFT compliance, wealth management, operational risk and financial crime. Current other roles: none stated.",
+      "education": "PhD in Computer Science, University of Leeds; MSc in Computer Science, INSA de Lyon; Master-level Compliance Experts Certificate, Ecole Supérieure de Banque, Paris",
+      "qualifications": "Certified Anti-Money Laundering Specialist (CAMS)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Executive committee page (S4); governance report 2025 (S3).",
+      "role_evidence": "Executive Committee page checked 2026-10-13 (S4); Governance Report 2025 names him as Compliance Officer with appointment date 3 Oct 2024 (S3). No 2025-2026 departure news found.",
       "source_ids": [
-        "S4",
-        "S3"
+        "S3",
+        "S4"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Saeed Al Tayer",
@@ -558,18 +583,19 @@
       "business_unit": "Corporate Affairs",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "With the bank for 25 years (official bio).",
-      "previous_roles": null,
-      "education": "Bachelor in Technical Management, Wentworth Institute of Technology; Diploma in Business Administration, New Bury College",
+      "appointed_note": "With the bank for twenty-five years (official bio, S4); date of appointment to the current post not found. Named as the investor relations contact on the Our Bank page.",
+      "previous_roles": "Emirates Investment Bank, 25 years (current post: heads Corporate Affairs, oversees the relationship with regulators, Human Resources, external affairs and shareholder communication; coordinates activities with brokers across the MENA region). Current other roles: none stated.",
+      "education": "Bachelor in Technical Management, Wentworth Institute of Technology, Boston, US; Diploma in Business Administration, New Bury College, Boston",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Executive committee page and Our Bank page (S4).",
+      "role_evidence": "Executive Committee page checked 2026-10-13 (S4); Governance Report 2025 lists him as investor relations officer (S3). No 2025-2026 departure news found.",
       "source_ids": [
+        "S3",
         "S4"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Gaurav Shah",
@@ -581,22 +607,28 @@
       "entity": "Emirates Investment Bank P.J.S.C.",
       "business_unit": "Group",
       "scope": "Group",
-      "appointed": "2020-02",
-      "appointed_note": "Named CEO on 10 Feb 2020 (media centre, S15). Signed the 2024 integrated report CEO statement (S13).",
-      "previous_roles": null,
-      "education": null,
+      "appointed": "2020-02-10",
+      "appointed_note": "Named CEO in the press release of 10 Feb 2020 (S23, S15). Signed the CEO statement of the 2024 Integrated Report (S13).",
+      "previous_roles": "2020-2025 Chief Executive Officer, Emirates Investment Bank (resignation effective 30 Apr 2025; final working day 30 Oct 2025, per a DFM disclosure as reported in S20); nine years as CEO, Al Rajhi Capital, Saudi Arabia (to 2020); before that Managing Director and Global Head of Product and Investment Solutions, Credit Suisse Global Investors (London, Zurich); senior management positions at Morgan Stanley and Deutsche Bank (S23; the release states over 20 years of experience).",
+      "education": "MBA, Manchester Business School; Bachelor of Commerce in Accounting and Finance, Sydenham College, University of Mumbai (S23)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Departed",
-      "role_evidence": "Interim CEO appointed 17 Jun 2025 (S11) and Michel Longhini CEO by Feb 2026 (S2). The departure date was not separately announced in the sources opened.",
+      "role_evidence": "Resignation effective 30 Apr 2025 with a final working day of 30 Oct 2025, per a DFM disclosure reported by Enterprise on 2 May 2025 (S20; the disclosure itself was not opened); interim CEO from 17 Jun 2025 (S11, S21); permanent CEO in office by Feb 2026 (S3, S19). The successor is already in the file (Michel Longhini). The Chairman message page's CEO teaser still names an earlier CEO (S5, S27).",
       "source_ids": [
+        "S3",
+        "S5",
         "S11",
         "S13",
         "S15",
-        "S2"
+        "S19",
+        "S20",
+        "S21",
+        "S23",
+        "S27"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     }
   ],
   "capabilities": {
@@ -825,8 +857,9 @@
       "doc_type": "Annual / integrated report",
       "tier": 1,
       "published": "2026-02",
-      "accessed": "2026-10-12",
-      "language": "en"
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Governance Report 2025 (PDF pp.77-103) is image-only and was read visually on 2026-10-13: board composition PDF pp.78-80 (printed Governance Report pp.2-4), Board Risk and Credit & Investment committees PDF p.86, compliance officer and head of internal audit PDF p.92; Board Audit Committee annual report PDF pp.104-105 (text)."
     },
     {
       "id": "S4",
@@ -836,8 +869,9 @@
       "doc_type": "Official leadership page",
       "tier": 2,
       "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Re-read 2026-10-13: ten executives with biographies (CEO, CFO, Head of Corporate Affairs & HR, Head of Asset Management, Head of Business Development, Head of Internal Audit, Head of Treasury, Chief Legal Counsel & Board Secretary, Chief Risk Officer, Chief Compliance Officer). No COO, Head of Technology, Head of Wealth or Head of Private Banking is listed. The CEO Message teaser at the foot of the page still names a former CEO (Khaled Sifri)."
     },
     {
       "id": "S5",
@@ -847,8 +881,9 @@
       "doc_type": "Official leadership page",
       "tier": 2,
       "published": null,
-      "accessed": "2026-10-12",
-      "language": "en"
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Re-read 2026-10-13: the Board of Directors page names only the Chairman and lists the committees (no director list). The director list (seven names, without Christophe de Backer) is on the Chairman Message page (S27)."
     },
     {
       "id": "S6",
@@ -925,7 +960,8 @@
       "tier": 2,
       "published": "2025-10-23",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Re-read attempt 2026-10-13 returned HTTP 403 (bot protection); quotes were read in the first pass. The COO quote is corroborated by Fintech News UAE (S26)."
     },
     {
       "id": "S13",
@@ -947,7 +983,8 @@
       "tier": 1,
       "published": "2026-03-31",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Read visually 2026-10-13 (scanned, 2 pages): approves FY2025 accounts, no dividend, directors' fees and release from liability, appointment of Ernst & Young for 2026; no board election or change."
     },
     {
       "id": "S15",
@@ -959,15 +996,160 @@
       "published": null,
       "accessed": "2026-10-12",
       "language": "en"
+    },
+    {
+      "id": "S16",
+      "title": "About Us (leadership, Al-Futtaim Group)",
+      "publisher": "Al-Futtaim",
+      "url": "https://www.alfuttaim.com/en/about-us/",
+      "doc_type": "Official biography (shareholder group website)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Biography of Omar Al Futtaim (Vice Chairman & CEO of Al-Futtaim since 2001; bachelor's degree in economics, Macalester College, Minnesota) and a leadership list that shows Michel Longhini as CEO, Emirates Investment Bank. Read 2026-10-13."
+    },
+    {
+      "id": "S17",
+      "title": "Emirates Investment Bank Appoints Michel Longhini as CEO to Drive Strategic Transformation",
+      "publisher": "Al-Futtaim",
+      "url": "https://www.alfuttaim.com/?p=11564",
+      "doc_type": "Press release (as published on the shareholder group's site)",
+      "tier": 2,
+      "published": "2026-05-13",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Page dated 13 May 2026; quotes the Chairman and the CEO. Read 2026-10-13."
+    },
+    {
+      "id": "S18",
+      "title": "Emirates Investment Bank appoints Michel Longhini as CEO",
+      "publisher": "Finance Middle East",
+      "url": "https://www.financemiddleeast.com/?p=34668",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2026-05-14",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Reports the bank's announcement; page dated 14 May 2026. Read 2026-10-13."
+    },
+    {
+      "id": "S19",
+      "title": "New appointments at EIB, Network International, and Enviroserve",
+      "publisher": "Enterprise (EnterpriseAM)",
+      "url": "https://enterpriseam.com/uae/2026/02/04/new-appointments-at-eib-network-international-and-enviroserve/",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2026-02-04",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Says the new CEO was appointed 'according to a post on LinkedIn'. Read 2026-10-13."
+    },
+    {
+      "id": "S20",
+      "title": "Emirates Investment Bank's CEO resigns",
+      "publisher": "Enterprise (EnterpriseAM)",
+      "url": "https://enterpriseam.com/uae/2025/05/02/emirates-investment-banks-ceo-resigns/",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2025-05-02",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Citing a DFM disclosure: resignation effective 30 Apr 2025, final working day 30 Oct 2025. The DFM disclosure itself was not opened. Read 2026-10-13."
+    },
+    {
+      "id": "S21",
+      "title": "New leadership at Emirates Investment Bank and HSA; Rakbank departure",
+      "publisher": "Enterprise (EnterpriseAM)",
+      "url": "https://enterpriseam.com/uae/2025/06/19/new-leadership-at-emirates-investment-bank-and-hsa-rakbank-departure/",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2025-06-19",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Interim CEO effective 17 Jun 2025, confirmed by the CBUAE. Read 2026-10-13."
+    },
+    {
+      "id": "S22",
+      "title": "New appointments at Barclays and Emirates Investment Bank",
+      "publisher": "Enterprise (EnterpriseAM)",
+      "url": "https://enterpriseam.com/uae/2025/06/20/new-appointments-at-barclays-and-emirates-investment-bank/",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2025-06-20",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Election of the new independent director per a bourse disclosure; describes his past roles differently from the Governance Report (see discrepancies). Read 2026-10-13."
+    },
+    {
+      "id": "S23",
+      "title": "Emirates Investment Bank names Gaurav B. Shah as Chief Executive Officer (press release, 10 Feb 2020)",
+      "publisher": "Emirates Investment Bank (DFM disclosure feed)",
+      "url": "https://feeds.dfm.ae/documents/2020/Feb/10/1c7d3c49-78bf-47bf-9cef-0f4cfa9175f2/EIBANK_PR_E_10_02_2020.pdf",
+      "doc_type": "Exchange disclosure (press release)",
+      "tier": 1,
+      "published": "2020-02-10",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Biography of the former CEO (career, MBA and bachelor's degree). URL seen in search results and opened 2026-10-13."
+    },
+    {
+      "id": "S24",
+      "title": "Top Swiss Private Banker Joins First Abu Dhabi Bank",
+      "publisher": "finews.asia",
+      "url": "https://finews.asia/finance/38673-first-abu-dhabi-bank-michel-longhini-asia-apac",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2023-02-22",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "FAB appointment of the current CEO (Feb 2023); says he joined Edmond de Rothschild in 2019 after being CEO of private banking at UBP. Read 2026-10-13."
+    },
+    {
+      "id": "S25",
+      "title": "First Abu Dhabi Bank appoints Michel Longhini as Group Head of Global Private Banking",
+      "publisher": "The Digital Banker",
+      "url": "https://thedigitalbanker.com/first-abu-dhabi-bank-appoints-michel-longhini-as-group-head-of-global-private-banking/",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Career and education summary at the time of the FAB appointment (2023; page date not captured). Read 2026-10-13."
+    },
+    {
+      "id": "S26",
+      "title": "Emirates Investment Bank Adopts Avaloq Platform to Modernise Core Operations",
+      "publisher": "Fintech News UAE",
+      "url": "https://fintechnews.ae/?p=28369",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2025-10",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Quotes the bank's Chief Operating Officer (Oct 2025); does not quote the Head of Technology. Read 2026-10-13."
+    },
+    {
+      "id": "S27",
+      "title": "Chairman Message (with director list)",
+      "publisher": "Emirates Investment Bank",
+      "url": "https://eibank.com/chairman-message",
+      "doc_type": "Official website page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Lists seven directors (Chairman plus six): Hamad Omar Al Futtaim, Mira Omar Al Futtaim, Abdulla Abdulrahman Qassem, Georges Makhoul, Edward Quinlan, Eric Shehadeh. Does not list Christophe de Backer. Read 2026-10-13."
     }
   ],
   "original_reconciliation": [],
   "discrepancies": [
     {
       "field": "Board list",
-      "detail": "The website director list (S5) shows seven directors and omits Christophe de Backer, who was elected 19 Jun 2025 (S10) and appears in the governance report 2025 (S3, eight members).",
+      "detail": "The website Chairman Message page (S27) lists seven directors (Chairman plus six) and omits Christophe de Backer, who was elected 19 Jun 2025 (S10) and appears in the Governance Report 2025 (S3, eight members). The Board of Directors page (S5) names only the Chairman (checked 2026-10-13).",
       "resolution": "Treated the governance report as current; the website looks out of date. The chairman-message page also still teases a CEO message from former CEO Khaled Sifri.",
       "source_ids": [
+        "S27",
         "S5",
         "S10",
         "S3"
@@ -981,6 +1163,37 @@
         "S12",
         "S4"
       ]
+    },
+    {
+      "field": "CEO appointment date (Michel Longhini)",
+      "detail": "First-pass value '2025' had no source. Enterprise reported his appointment on 4 Feb 2026 (S19) and he signed the Integrated Report CEO statement on 10 Feb 2026 (S3), but the bank's own announcement is dated 13 May 2026 (S17, S18). No disclosure on the IR page (S8) gives an effective date.",
+      "source_ids": [
+        "S3",
+        "S17",
+        "S18",
+        "S19",
+        "S8"
+      ],
+      "resolution": "Recorded appointed = 2026-02 (first evidenced) and explained the later announcement in appointed_note; exact effective date unresolved."
+    },
+    {
+      "field": "Christophe de Backer: past roles",
+      "detail": "The Governance Report 2025 lists him as former Group CEO of Edmond de Rothschild and former Global Head of Wholesale Business at HSBC Global Asset Management (S3). A June 2025 news report calls him managing partner of Transactions & Compagnie and a former CEO of HSBC France (S22).",
+      "source_ids": [
+        "S3",
+        "S22"
+      ],
+      "resolution": "Used the Governance Report (tier 1) for career; the HSBC France statement is noted but not recorded as a role. Unresolved."
+    },
+    {
+      "field": "Kishore Venkat title",
+      "detail": "First-pass title read 'Chief Financial Officer (Interim CEO from 17 Jun 2025)'. The Integrated Report CEO statement of 10 Feb 2026 is signed by the permanent CEO (S3), so the interim role has ended.",
+      "source_ids": [
+        "S3",
+        "S11",
+        "S21"
+      ],
+      "resolution": "Title corrected to Chief Financial Officer; interim period moved to previous_roles."
     }
   ],
   "open_items": [
@@ -988,7 +1201,15 @@
     "Avaloq lead verified from Avaloq's own release (23 Oct 2025). EIB's accounts do not name the vendor. Programme figures are recorded only as the accounts state them (capital commitments AED 45.0m at 30 Jun 2026; intangible purchases AED 42.7m in H1 2026; FY2025 intangible under development AED 35.3m). None of these is a vendor contract value.",
     "Michel Longhini's exact start date not found (between 17 Jun 2025 and 10 Feb 2026); no CEO appointment disclosure is listed on the IR page.",
     "Discretionary AUM and client numbers are not disclosed.",
-    "Governance report executive pay and organisation chart were provided in a 'sealed envelope', not published."
+    "Governance report executive pay and organisation chart were provided in a 'sealed envelope', not published.",
+    "People pass 2026-10-13: Gulf Business interview with the CEO (gulfbusiness.com/en/2026/interviews/...), Avaloq's news page, the Zawya and Private Banker International copies of the Avaloq release, the finance news page on FAB's hire (fintechfutures.com) and fbc-gulf.org returned HTTP 403/404 to automated reads; recorded as blocked, not bypassed. The eibank.com pages and the Al-Futtaim and Enterprise pages were read.",
+    "Governance Report 2025 (PDF pp.77-103) is image-only; the board, committee and compliance-officer data were read visually from rendered pages. Executive pay and the organisation chart are in a sealed envelope (not published).",
+    "Five directors in the Governance Report 2025 are not profiled in this file by design of the people pass: Mira Omar Al Futtaim, Edward Bagot Quinlan, Hamad Omar Al Futtaim, Eric Imad Shehadeh (first elected 30 Apr 2024 per S3; the Al-Futtaim leadership page lists an Eric Shehadeh as Group Head, Financial Services - same-person link not verified) and Abdulla Abdulrahman Qassem. Also not in the file: the Executive Committee page (S4) lists Ahmad Ali (Chief Risk Officer), Anuj Agarwal (Head of Internal Audit; appointed 2 Aug 2011 per S3) and Raymond Mouracade (Chief Legal Counsel & Board Secretary).",
+    "Head of Private Banking / Wealth Management: no such post is on the Executive Committee page (S4). A search-tool summary of LinkedIn snippets (2026-10-13; no profile URL returned, nothing opened) says a Head of Private Banking, Rasha Badawi (formerly CEO, Barclays Private Bank UAE), was announced recently. Not confirmed by any official page, filing or news article; not added to the file. Verify against EIB announcements or the next governance report.",
+    "COO (Anthony Jaganathan) and Head of Technology (Vinod Yadav) remain 'Requires verification': named only in the Oct 2025 Avaloq release, absent from the 2026 official pages.",
+    "Appointment dates not found: Chairman (board member for about 20 years per S3), CFO, Head of Asset Management, Head of Business Development, Head of Treasury, Head of Corporate Affairs & HR. The CEO's exact effective date is unpublished (see discrepancies).",
+    "LinkedIn (2026-10-13): role-based LinkedIn searches (CEO; asset management; COO / technology; business development; private banking) returned no matching profile for the decision-makers. Candidates seen but not recorded because no official link or title-matching snippet: a profile link to the CEO in Enterprise's article (S19) and to the new director in S22; an employer-and-name match without title for the Chief Compliance Officer (ae.linkedin.com/in/laurent-valet-phd-247b0115, seen in search results only).",
+    "No 2025-2026 departure news found for the Chairman, CEO, CFO, Head of Asset Management, Head of Business Development, Head of Treasury, Chief Compliance Officer or Head of Corporate Affairs & HR; the CEO departure of April 2025 (former CEO) is recorded."
   ],
   "research_status": "Partial",
   "researched_by": "B06",

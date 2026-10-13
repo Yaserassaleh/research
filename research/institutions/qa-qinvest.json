@@ -188,20 +188,23 @@
       "business_unit": "Board",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Appointment date not found. Named as QInvest chairman in July 2021 (S7).",
-      "previous_roles": "QIB Annual Report 2025 describes him as QIB's Chairman (board member since June 2004, Chairman since April 2005 per the qa-qib file), also Chairman of QInvest, Milaha and Damaan Islamic Insurance (Beema), Vice Chairman of QTerminals, and a member of the Credit Suisse board from April 2010 to April 2017.",
-      "education": null,
+      "appointed_note": "Already Chairman of QInvest on 23 Nov 2012 (S16) and in Jul 2021 (S7); the date he took the chair was not found. Separately a QIB director since June 2004 and QIB Chairman since April 2005 (S14, S4 p.21).",
+      "previous_roles": "Apr 2005- Chairman, Qatar Islamic Bank (board member since Jun 2004); Apr 2010-Apr 2017 member of the boards of Credit Suisse Group AG and Credit Suisse AG, Zurich. Current other roles: Chairman, QInvest; Chairman, Qatar Navigation (Milaha); Chairman, Damaan Islamic Insurance Co. (Beema); Vice Chairman, QTerminals.",
+      "education": "Graduate, Royal Military Academy Sandhurst, UK; advanced leadership training courses",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "QIB Group page lists him as QInvest chairman (S1, read 2026-10-12); QIB Annual Report 2025 director biography states he is Chairman of QInvest (S4). No departure news found.",
+      "role_evidence": "QIB Board page checked 2026-10-13 (S14, board elected for 2026-2028) and QIB Group page (S1) state he is Chairman of QInvest; QIB AR 2025 biography (S4 p.21); quoted as QInvest Chairman in Nov 2012 (S16) and Jul 2021 (S7). QInvest's own site is a placeholder (S5). No departure or change news found (search 2026-10-13).",
       "source_ids": [
         "S1",
         "S4",
-        "S7"
+        "S5",
+        "S7",
+        "S14",
+        "S16"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Hussein Fakhreddine",
@@ -214,22 +217,24 @@
       "business_unit": "Group",
       "scope": "Group",
       "appointed": "2021-07",
-      "appointed_note": "Appointed Co-CEO (with Hussain Abdulla) in July 2021 (S7, release dated 26 Jul 2021). Co-CEO Abdulla resigned effective 26 May 2024 (S8). The 'Acting' designation appears in Forbes ME 2025 and on the QIB Group page; the date it began was not found.",
-      "previous_roles": "2021- Co-CEO then Acting CEO, QInvest; earlier in investment banking at Emirates NBD and at Al Shall (Kuwait) per Forbes ME; the 2021 release cites 22+ years of combined experience at QInvest with his co-CEO.",
-      "education": "MSc in Finance, George Washington University, Washington DC, and American University of Beirut (as stated in the Jul 2021 release; the split between the two is not stated)",
+      "appointed_note": "Appointed Co-CEO (with Hussain Abdulla) in July 2021 (S7, release dated 26 Jul 2021). Co-CEO Abdulla resigned effective 26 May 2024 (S8). The \"Acting\" designation appears in Forbes ME (published 15 Mar 2025, S6) and on the QIB Group page (S1); the date it began, and why the post is \"acting\", were not found.",
+      "previous_roles": "Jul 2021- Co-CEO, then Acting CEO, QInvest (Forbes ME: assumed his current role in 2021; AUM of USD 2 billion for QInvest and affiliates in 2024; 2024 joint lead manager and bookrunner roles on QIB and Dukhan Bank sukuk); earlier at QInvest (the 2021 release cites 22+ years of combined QInvest experience with his co-CEO); previously in the investment banking division at Emirates NBD and at Al Shall (Kuwait) per Forbes ME.",
+      "education": "MSc Finance, George Washington University, Washington DC, and American University of Beirut (the 2021 release names both; the split is not stated)",
       "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
+      "linkedin_url": "https://www.linkedin.com/in/husseinfakhreddine/",
+      "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "QIB Group page lists 'Acting Chief Executive Officer' for QInvest (S1, read 2026-10-12); Forbes ME Top 40 Asset Managers 2025 lists Acting CEO (S6). Searches for a permanent CEO appointment in 2025-2026 found none. LinkedIn search returned no profile matching name plus QInvest.",
+      "role_evidence": "QIB Group page lists \"Acting Chief Executive Officer\" for QInvest (S1, read 2026-10-13); Forbes ME Top 40 Asset Managers 2025 lists Acting CEO (S6); LinkedIn search result with his name and QInvest LLC (S17, text shows Acting CEO or Co-CEO). Searches 2026-10-13 for a permanent CEO appointment in 2025-2026 found none. QInvest's own site is a placeholder (S5).",
       "source_ids": [
         "S1",
+        "S5",
         "S6",
         "S7",
         "S8",
-        "S10"
+        "S10",
+        "S17"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Hussain Abdulla",
@@ -242,19 +247,19 @@
       "business_unit": "Group",
       "scope": "Group",
       "appointed": "2021-07",
-      "appointed_note": "Co-CEO from July 2021; resignation accepted by the board, effective 26 May 2024 (Qatar Tribune, 27 May 2024).",
-      "previous_roles": "BA in Banking and Financial Studies, University of Qatar, and 22+ years of combined experience at QInvest with Fakhreddine, per the 2021 release.",
-      "education": "BA in Banking and Financial Studies, University of Qatar (S7)",
+      "appointed_note": "Co-CEO from July 2021 (S7); resignation accepted by the board, effective 26 May 2024 (Qatar Tribune, 27 May 2024, S8). No successor named; his next role was not found.",
+      "previous_roles": "Jul 2021-26 May 2024 Co-CEO, QInvest; the 2021 release cites 22+ years of combined QInvest experience with his co-CEO (S7); earlier roles not published in the sources opened.",
+      "education": "BA Banking and Financial Studies, University of Qatar",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Departed",
-      "role_evidence": "Qatar Tribune, 27 May 2024 (S8).",
+      "role_evidence": "Qatar Tribune, 27 May 2024 (S8): board accepted his resignation effective 26 May 2024. No later QInvest role found (search 2026-10-13).",
       "source_ids": [
         "S7",
         "S8"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Bassel Gamal",
@@ -267,18 +272,19 @@
       "business_unit": "Board",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Board appointment date not found. Group CEO of QIB since February 2013.",
-      "previous_roles": "Group CEO, Qatar Islamic Bank since Feb 2013; Chairman of QIB-UK (QIB Annual Report 2025). Full biography in qa-qib.json.",
+      "appointed_note": "QInvest board appointment date not found. Group CEO of QIB since February 2013 (S15, S4 p.29).",
+      "previous_roles": "Feb 2013- Group Chief Executive Officer, Qatar Islamic Bank; 2006-early 2009 CEO, Ahli Bank Qatar (Deputy CEO 2004-2006); 2001- Ahli United Bank Group, Bahrain, last role Senior Deputy Group CEO - Banking Group (corporate banking, retail banking, treasury & investment, private banking & wealth management and financial institutions across eight countries); 1990-c.2001 Commercial International Bank (Chase National Bank), Egypt. Current other roles: Chairman, QIB-UK; Board Member, QInvest.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "QIB Annual Report 2025 executive biography states he is a Board Member of QInvest (S4, PDF p.29).",
+      "role_evidence": "QIB Senior Management page checked 2026-10-13 (S15) states he is Group CEO and a Board Member of QInvest; QIB AR 2025 executive biography (S4 PDF p.29). No education is published in either. Full record in qa-qib.json.",
       "source_ids": [
-        "S4"
+        "S4",
+        "S15"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     }
   ],
   "capabilities": {
@@ -640,6 +646,54 @@
       "accessed": "2026-10-12",
       "language": "en",
       "note": "Page opened but only the lead is visible (sign-up wall); no article date shown. Lead says the stake went to SPVs funded by QInvest and QIB retains 5%. Date of July 2026 comes from search-result summaries (sale agreement 9 Jul, listing 12 Jul 2026); consistent with QIB holding 18.75% at 31 Dec 2025 (S2)."
+    },
+    {
+      "id": "S14",
+      "title": "Board of Directors",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/board-of-directors",
+      "doc_type": "Official board page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Opened 2026-10-13. Reflects the board elected for 2026-2028 (several members 'since March 2026'); Sheikh Jassim is Chairman and 'also the Chairman of QInvest'."
+    },
+    {
+      "id": "S15",
+      "title": "Senior Management",
+      "publisher": "Qatar Islamic Bank",
+      "url": "https://www.qib.com.qa/en/about-us/senior-management",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Opened 2026-10-13. Group CEO biography states he is 'a Board Member of QInvest'."
+    },
+    {
+      "id": "S16",
+      "title": "QInvest appoints new CEO",
+      "publisher": "The Peninsula Qatar",
+      "url": "https://thepeninsulaqatar.com/article/23/11/2012/qinvest-appoints-new-ceo",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2012-11-23",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Opened. Quotes Sheikh Jassim bin Hamad bin Jassim bin Jaber Al Thani as Chairman of QInvest on 23 Nov 2012 (earliest date found for his chairmanship)."
+    },
+    {
+      "id": "S17",
+      "title": "Hussein Fakhreddine - QInvest LLC - LinkedIn",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/husseinfakhreddine/",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only. Result title shows name and employer QInvest LLC; search-result text describes him as Acting CEO or Co-Chief Executive Officer of QInvest."
     }
   ],
   "original_reconciliation": [
@@ -689,25 +743,29 @@
     },
     {
       "field": "Co-CEO vs Acting CEO",
-      "detail": "Oct 2022 release names two co-CEOs; Forbes ME 2025 and the QIB Group page name Fakhreddine as Acting CEO.",
+      "detail": "Oct 2022 release names two co-CEOs; Forbes ME 2025 and the QIB Group page (read 2026-10-13) name Fakhreddine as Acting CEO; search-result text of his LinkedIn profile and of QInvest posts still shows \"Co-Chief Executive Officer\" in places (S17).",
       "source_ids": [
         "S10",
         "S6",
-        "S1"
+        "S1",
+        "S17"
       ],
-      "resolution": "Consistent with Abdulla's departure in May 2024; used Acting CEO as the current title."
+      "resolution": "Consistent with Abdulla's departure in May 2024; used the QIB Group page title (Acting CEO). LinkedIn title not treated as a role change."
     }
   ],
   "open_items": [
     "QInvest's own website (qinvest.com) is a 'coming soon' placeholder, so leadership, products, AUM and annual reports could not be read from the issuer. Re-check when the new site launches.",
     "No QInvest-published financial statements, AUM or management list found. Financials come from QIB's associate note (100% basis, FY2025 only); 30 Jun 2026 figures are not available.",
     "Identity of the buyer(s) of the 16.62% stake sold by QIB in 2025 and of the other 51% shareholders not found.",
-    "Only four people recorded (chair, acting CEO, departed co-CEO, QIB's CEO as board member). No heads of investment banking, asset management or principal investments found. LinkedIn People tab not checked; no profile match found for Fakhreddine.",
     "QFCRA public register (eservices.qfc.qa) not checked, so regulated activities are unverified. QIB's H1 2026 statements say QFCRA authorises QInvest 'to conduct various banking activities'.",
     "Epicure Islamic Investment Management: current status, AUM and leadership not checked (only the Oct 2022 formation release).",
     "Zawya Beema article is behind a sign-up wall and undated on fetch; the first Zawya URL returned by search (cnj1o5tp) returned 404.",
     "A search summary suggested Q Invest is on the Feb 2026 QIB sukuk mandate list; the opened Zawya page did not list banks, so only the 3 Jun 2025 mandate is recorded.",
-    "Arabic name not verified from a source; left null. Batch brief lead (acting CEO Hussein Fakhreddine, QIB 49%) was confirmed."
+    "Arabic name not verified from a source; left null. Batch brief lead (acting CEO Hussein Fakhreddine, QIB 49%) was confirmed.",
+    "People pass 2026-10-13: four people profiled (Chairman, Acting CEO, departed Co-CEO, QIB Group CEO as board member). qinvest.com could not be read (TLS certificate error from this environment; earlier browser read showed only a 'coming soon' page), so no QInvest-published leadership list, board or Shariah board exists in the sources opened.",
+    "LinkedIn search-result snippets (2026-10-13) mention other QInvest staff (a Head of Proprietary Investments and Managing Director; a Managing Director said to sit on the board; an Investment Banking and Principal Investments Director). Titles are unverified, no official page lists them, and they are outside the wealth/AM/brokerage/digital heads the pass adds, so none were added. Head of QInvest's Asset Management division not identified.",
+    "Fakhreddine: LinkedIn match recorded from a search result; its text shows Acting CEO or Co-CEO, so verify the live title against QInvest or QIB sources. Chairman and Gamal LinkedIn not checked.",
+    "Chairman's date of taking the QInvest chair not found (already Chairman on 23 Nov 2012). QInvest board composition, committee members and Shariah supervisory board not found."
   ],
   "research_status": "Partial",
   "researched_by": "B22",
