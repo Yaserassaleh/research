@@ -151,6 +151,15 @@ log in), so every match comes from what a search result shows.
 6. Validate the file (JSON, source references, vocabularies). Write `research/people_pass/<BATCH>.md` with, per
    institution, searches run / matches recorded / decision-makers not found. Reply in ≤100 words.
 
+### Manual review worklist (chosen on 13 Oct 2026 instead of running L03–L16)
+
+`python3 tools/linkedin_worklist.py build` lists every person without a verified URL (departed excluded) in
+`exports/linkedin_review_worklist.xlsx`, with the matching rules above on its Read me sheet. A human reviewer opens
+the profiles and fills the yellow columns; `python3 tools/linkedin_worklist.py apply <xlsx>` then writes confirmed
+URLs back with status "Verified (profile/search match)" and a tier-4 source "LinkedIn profile (manual review)",
+turns "Not found" into "Not verified", adds "Ambiguous" notes to open_items and logs the edits in
+research/central_edits.json. The matching rules (§7.3) and the privacy rules (protocol §2) apply to the reviewer too.
+
 ### LinkedIn-pass prompt template (batches L01… in research/people_pass/linkedin_plan.json; max 6 agents at once)
 
 ```

@@ -92,8 +92,10 @@ plan and measurement: tools/people_pass.py; notes per batch in research/people_p
       source refs / vocabulary errors; QA role_not_verified_current 192→149, other flags unchanged. Website
       republished at https://claude.ai/artifact/1eKXkN8WvRUvXGnTEhbMaH.
 - [ ] X41–X47 (14 small institutions) not run.
-- [ ] LinkedIn pass: L01–L02 done (7 URLs from 149 role-based searches); L03–L16 paused pending the user's decision
-      (automated pass vs manual worklist; HANDOVER.md §4).
+- [x] LinkedIn pass: L01–L02 done (7 URLs from 149 role-based searches); the user chose a manual review worklist
+      over L03–L16. tools/linkedin_worklist.py build → exports/linkedin_review_worklist.xlsx (639 decision-makers,
+      409 board/other members without a verified URL; rules on the Read me sheet); `apply` imports the reviewer's
+      confirmed URLs with a tier-4 source and logs them in central_edits.json (HANDOVER.md §4).
 - [ ] Older backlog unchanged (10 unresearched institutions, 22 partial profiles, link and number checks).
 - Incidents: usage limit hit three times (12 Oct 14:22 with 16 agents; 12 Oct ≈20:35 and 13 Oct ≈02:00 with 6);
   killed agents' valid partial files were kept and the batches relaunched with an "interrupted run" note; X36 and

@@ -58,7 +58,8 @@ agents added under PEOPLE_DEEP_DIVE.md §1.5.
   `pass_state.json` (tracker, §3.1).
 - `research/PEOPLE_DEEP_DIVE.md` — the binding addendum for the pass (order of work, field standards, role
   statuses, sources, finish, agent prompt, LinkedIn pass rules and prompt). `tools/people_pass.py` — plan /
-  baseline / coverage / linkedin-plan commands.
+  baseline / coverage / linkedin-plan commands. `tools/linkedin_worklist.py` — manual LinkedIn review worklist
+  (build) and import of the reviewer's answers (apply); output in `exports/linkedin_review_worklist.xlsx` / `.csv`.
 - Decision-maker changes found in 2025–2026 (all marked Departed with the evidence in role_evidence; full list:
   exports/people.csv, role_status = Departed):
   - Dubai Islamic Bank: Chairman Mohammed Al-Shaibani stepped down 20 Sep 2026.
@@ -155,33 +156,24 @@ role queries restricted to linkedin.com and matched results to the roster by nam
 Main-pass agents also record LinkedIn links printed on official pages and matches that appear in ordinary searches,
 which is where most of the 43 new verified URLs came from.
 
-Options put to the user on 13 Oct (not yet answered):
-1. Stop the automated LinkedIn pass and produce a manual review worklist (recommended): for every decision-maker
-   without a verified URL, one row with name, institution, official title, appointment date and the facts a human
-   needs to confirm the right profile. Generate it from the repository root with:
-   ```
-   python3 - <<'EOF'
-   import csv, json, os, sys
-   sys.path.insert(0, "tools"); from people_pass import load_all, is_decision_maker
-   rows = []
-   for iid, d in load_all().items():
-       for p in d["people"]:
-           if is_decision_maker(p) and not (p.get("linkedin_status") or "").startswith("Verified") \
-                   and p.get("role_status") != "Departed":
-               rows.append([d.get("name"), iid, p["name"], p.get("title"), p.get("appointed"),
-                            (p.get("education") or ""), (p.get("previous_roles") or "")[:300]])
-   os.makedirs("exports", exist_ok=True)
-   with open("exports/linkedin_review_worklist.csv", "w", newline="", encoding="utf-8-sig") as fh:
-       w = csv.writer(fh); w.writerow(["institution", "id", "name", "title", "appointed", "education", "career"]); w.writerows(rows)
-   print(len(rows), "rows")
-   EOF
-   ```
-   Whoever fills it in records only URLs confirmed on the profile itself (same name, same current employer,
-   consistent title) and adds a tier-4 source per PEOPLE_DEEP_DIVE.md §7.4.
-2. Run L03–L16 as planned (research/people_pass/linkedin_plan.json; prompt in PEOPLE_DEEP_DIVE.md §7; max 4
-   concurrent; ~10–15 searches per institution; expect a similar low yield). Run an L batch only after the X batches
-   of its institutions are done (L13–L16 cover X40–X47 institutions).
-3. Run L03–L04 only (top 24 institutions) and produce the worklist for the rest.
+Decision taken by the user on 13 Oct: the manual review worklist (option 1 below). The automated L batches are not
+run unless the user asks again.
+
+1. Manual review worklist — DONE, 13 Oct 2026: `python3 tools/linkedin_worklist.py build` writes
+   `exports/linkedin_review_worklist.xlsx` (sheets: Read me with the rules, Decision-makers, Board and others) and
+   a CSV copy. 639 decision-makers and 409 board/other members across all 96 institutions have no verified URL;
+   rows are in ARTA-score order with chief executives and chairs first, and carry title, functions, appointment,
+   education, career, unverified LinkedIn leads the agents saw, the institution's LinkedIn page and a suggested
+   search string. The reviewer fills the yellow columns (URL, Confirmed / Not found / Ambiguous, reviewer, date,
+   notes). Then `python3 tools/linkedin_worklist.py apply exports/linkedin_review_worklist.xlsx` writes confirmed
+   URLs into the institution files (status "Verified (profile/search match)", tier-4 source "LinkedIn profile
+   (manual review)"), turns Not found into "Not verified", puts Ambiguous notes into open_items, logs everything in
+   research/central_edits.json, and keeps each file's formatting; rebuild afterwards. Re-run `build` after X41–X47
+   so the list covers their people too (the reviewer's answers in the old file must be applied first).
+2. Not chosen: run L03–L16 as planned (research/people_pass/linkedin_plan.json; prompt in PEOPLE_DEEP_DIVE.md §7;
+   max 4 concurrent; ~10–15 searches per institution; expect a similar low yield). Run an L batch only after the
+   X batches of its institutions are done (L13–L16 cover X40–X47 institutions).
+3. Not chosen: run L03–L04 only (top 24 institutions) and the worklist for the rest.
 
 ## 5. The older backlog (TAKEOVER.md §4–§6) — still open
 
