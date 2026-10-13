@@ -4,3 +4,4 @@
 - kw-kib: Premium Segment eligibility published 4 Aug 2026 (monthly salary KD 1,500–2,999 or total deposits KD 30,000–99,999; Kuwait Times) and "KIB Now" strategy with DriveNow and BuyNow apps launched Sep–Oct 2026 (Zawya, 7 Oct 2026) — segments and initiatives not edited (people pass X19).
 - sa-snb-capital: SNB Capital AR 2025 board report (Arabic PDF p.36, page render) states 431 employees at end-December 2025 with about 90% Saudization; the employees metric is 'Not found after research' in the file (found in people pass X28; metrics not edited).
 - bh-bbk: 20 May 2026 Tanami private-markets partnership is not in the capabilities fields (found in people pass X30).
+- kw-abk: Forbes ME 2026 profile of ABK Wealth Management's CEO states USD 3.25bn assets under management in 2025 and a January 2026 merger of ABK Capital with Private Banking under the ABK Wealth Management brand; the file records only growth rates (found in people pass X33; metrics not edited).
