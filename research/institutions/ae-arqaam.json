@@ -316,21 +316,52 @@
       "business_unit": "Group",
       "scope": "Group",
       "appointed": "2007",
-      "appointed_note": "Bloomberg/Gulf News (May 2019) says he set up the firm in 2007 (S24).",
-      "previous_roles": "Former Barclays Capital banker who set up Arqaam in 2007 to focus on emerging-market investment banking (Gulf News/Bloomberg, 2019, S24).",
+      "appointed_note": "Founder. The firm's overview (S2) and Bloomberg via Gulf News (May 2019, S24) give 2007; The National (12 Dec 2012) says Arqaam 'was set up in early 2008' (S39). Called 'founder and Chief Executive Officer' in the firm's release of 7 Jul 2026 (S16).",
+      "previous_roles": "2007- Founder and Chief Executive Officer, Arqaam Capital; earlier investment-banking roles at Credit Suisse First Boston, SBC Warburg and Barclays Capital, mostly based in London (The National, 12 Dec 2012, S39; Bloomberg 2019 calls him a former Barclays Capital banker, S24). Titles and years of the earlier roles are not published in the sources found. Current other roles: none found in an opened source.",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Quoted as 'founder and Chief Executive Officer, Arqaam Capital' in the firm's release of 7 Jul 2026 (S16); a WAM article of Jun 2026 on the 13th MENA Investor Conference names him CEO (seen in search results only, S27). A DFSA register individual page for him appeared in search results (page returned 403). One LinkedIn search found no profile. No departure news found. Checked 2026-10-12.",
+      "role_evidence": "Firm release of 7 Jul 2026 quotes 'Mr. Riad Meliti, founder and Chief Executive Officer' (S16); Zawya reprint of the release for the 3 Jun 2026 13th MENA Investor Conference quotes him as 'Chief Executive Officer of Arqaam Capital' (S40); firm post of 4 Nov 2025 quotes him as CEO (S47). The Board of Directors page linked from the Governance page returns 404 (S8) and there is no management page. DFSA register page for him returned 403 (S25, seen in search results only). Role-based LinkedIn searches (one on 2026-10-12, one on 2026-10-13) found no matching profile. No 2025-2026 departure news found. Checked 2026-10-13.",
       "source_ids": [
+        "S2",
         "S16",
         "S24",
         "S25",
-        "S27"
+        "S27",
+        "S39",
+        "S40",
+        "S47",
+        "S8"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Sami Sindi",
+      "name_ar": null,
+      "title": "Non-Executive Director and Chairman",
+      "functions": [
+        "Chair"
+      ],
+      "entity": "Arqaam Capital Limited (group board)",
+      "business_unit": "Board",
+      "scope": "Group",
+      "appointed": null,
+      "appointed_note": "Appointment date not published. The firm's post of 8 Nov 2023 refers to 'our Chairman, Sami Sindi' (S30) and its post of 20 May 2025 describes him as 'Non-Executive Director and Chairman, Arqaam Capital' (S31).",
+      "previous_roles": null,
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": null,
+      "linkedin_status": "Not verified",
+      "role_status": "Requires verification",
+      "role_evidence": "Added in this pass because the file had no chair. Named Chairman in two firm posts (8 Nov 2023, S30; 20 May 2025, S31). The Board of Directors page returns 404 (S8), no 2026 source names the chair, and no appointment or departure news was found. Career and education are not published in an opened source. One role-based LinkedIn search (chairman) returned no match. Checked 2026-10-13.",
+      "source_ids": [
+        "S8",
+        "S30",
+        "S31"
+      ],
+      "checked": "2026-10-13"
     },
     {
       "name": "Jaap Meijer",
@@ -343,43 +374,77 @@
       "business_unit": "Research",
       "scope": "Group",
       "appointed": null,
-      "appointed_note": "Start date not found.",
+      "appointed_note": "Start date not found. The firm calls him 'our Head of Research' on 1 Oct 2024 (S43) and the Research page lists him as Head of Research (S13).",
       "previous_roles": null,
       "education": "MBA (institution not stated on the Research page)",
-      "qualifications": "CFA",
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "qualifications": "CFA (as printed on the Research page)",
+      "linkedin_url": "https://www.linkedin.com/in/jaapmeijer/",
+      "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
-      "role_evidence": "Named 'Head of Research: Jaap MEIJER, MBA, CFA' on the official Research page, checked 2026-10-12 (S13). The page is undated.",
+      "role_evidence": "Research page names 'Head of Research: Jaap MEIJER, MBA, CFA', checked 2026-10-13 (S13; site metadata shows the page last modified 2025-02-11); firm post of 1 Oct 2024 'our Head of Research' (S43); quoted alongside the head of equity execution in the firm's post of 18 Aug 2025 (S44). Role-based LinkedIn search (2026-10-13) returned a result titled 'Jaap Meijer - Arqaam Capital' whose summary shows Head of Research (S45, search result only). No departure news found.",
       "source_ids": [
-        "S13"
+        "S13",
+        "S43",
+        "S44",
+        "S45"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Abdul Kadir Hussain",
       "name_ar": null,
-      "title": "Head of Fixed Income Asset Management (title from search-result sources; no title on Arqaam's own page)",
+      "title": "Head of Fixed Income (Managing Director, Fixed Income Asset Management); listed as CIO of the Arqaam Islamic Income Fund in the Aug 2026 factsheet",
       "functions": [
         "Investments / asset management"
       ],
       "entity": "Arqaam Capital",
       "business_unit": "Asset Management (Fixed Income, FIAM)",
       "scope": "Group",
-      "appointed": null,
-      "appointed_note": "Start date not found.",
-      "previous_roles": null,
-      "education": null,
-      "qualifications": "CFA",
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
-      "role_status": "Requires verification",
-      "role_evidence": "Listed first among eight FIAM team members, with CFA, in the firm's 25 Jun 2026 Sukuk Fund of the Year post, which gives no titles (S18). The head-of-FIAM title comes from a Gulf News fund-launch article and a contributor profile seen in search results only (S29); neither is dated. A LinkedIn profile titled with his name appeared in search results but its snippet did not show Arqaam as employer, so no URL is recorded.",
+      "appointed": "2016-09",
+      "appointed_note": "Finance Magnates (9 Sep 2016) reports he was chosen to set up and head the fixed-income asset-management division (S38). The firm's own titles: 'Managing Director for Fixed Income Asset Management' (31 Dec 2024, S34), 'Head of Fixed Income' (1 Dec 2025, S33), 'CIO' on the fund factsheet (Aug 2026, S36).",
+      "previous_roles": "2016- Head of Fixed Income Asset Management, Arqaam Capital (set up the division); more than 10 years as Chief Executive Officer, Mashreq Capital (overseeing USD 1.5bn across its asset management business, per Finance Magnates 2016); earlier Managing Director at Credit Suisse, running a proprietary book investing in emerging-market and high-yield developed-market debt (S38). Years before 2016 are not given. Current other roles: CIO, Arqaam Islamic Income Fund (S36).",
+      "education": "Undergraduate degree, Wharton School, University of Pennsylvania (field not stated); MBA, UCLA (printed as 'Andersen School at UCLA' in Finance Magnates)",
+      "qualifications": "CFA charterholder (21 years as of Sep 2016 per Finance Magnates; CFA printed after his name on the firm's 2024-2026 posts)",
+      "linkedin_url": "https://www.linkedin.com/in/akh52063/",
+      "linkedin_status": "Verified (official link)",
+      "role_status": "Verified current",
+      "role_evidence": "Firm post of 1 Dec 2025 'Our Head of Fixed Income' (S33); firm post of 31 Dec 2024 'Managing Director for Fixed Income Asset Management' (S34); Aug 2026 Islamic Income Fund factsheet, 'Investment Team: CIO Abdul Kadir Hussain, CFA' (S36); first-named of eight FIAM team members in the 25 Jun 2026 Sukuk Fund of the Year post (S18), which carries his LinkedIn link (also linked from the 31 Dec 2024 post, S34); Gulf News (Sep 2018) calls him head of Fixed Income Asset Management (S29). The Asset Management page (S11, last modified 2026-09-19 per site metadata) names no team members. No departure news found. Checked 2026-10-13.",
       "source_ids": [
+        "S11",
         "S18",
-        "S29"
+        "S29",
+        "S33",
+        "S34",
+        "S36",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
+    },
+    {
+      "name": "Hani Shalabi",
+      "name_ar": null,
+      "title": "Managing Director, Head of Equity Execution (joined to head the equities execution business)",
+      "functions": [
+        "Brokerage"
+      ],
+      "entity": "Arqaam Capital",
+      "business_unit": "Equities execution (Sales & Trading)",
+      "scope": "Group",
+      "appointed": "2023-11",
+      "appointed_note": "Firm post of 28 Nov 2023: joins 'to head up its equities execution business' (S32). The LinkedIn search result shows 'Managing Director' (S46).",
+      "previous_roles": "2023-11- Head of equities execution, Arqaam Capital; more than 25 years at Cantor Fitzgerald and Deutsche Bank in Asia (S32). Titles and years not published.",
+      "education": null,
+      "qualifications": null,
+      "linkedin_url": "https://www.linkedin.com/in/hani-shalabi/",
+      "linkedin_status": "Verified (profile/search match)",
+      "role_status": "Requires verification",
+      "role_evidence": "Added in this pass as head of the brokerage / equities execution business. Appointment post 28 Nov 2023 (S32); jointly quoted as 'Jaap Meijer & Hani Shalabi, Arqaam Capital' on 18 Aug 2025 (S44); role-based LinkedIn searches on 2026-10-13 returned 'Hani Shalabi - Managing Director - Arqaam Capital' (S46, search result only; summary shows Head of Equity Execution, Nov 2023 to present). No 2026 firm source names him and there is no management page, so the role is not marked verified. No departure news found.",
+      "source_ids": [
+        "S32",
+        "S44",
+        "S46"
+      ],
+      "checked": "2026-10-13"
     },
     {
       "name": "Karim Baghdady",
@@ -392,18 +457,21 @@
       "business_unit": "Investment banking",
       "scope": "Group",
       "appointed": "2026-03",
-      "appointed_note": "Joined in Mar 2026 per a search-result summary of an HR Today article (page returned 403).",
-      "previous_roles": "Managing Director at EFG Holding; earlier CEO of EFG Hermes USA; nearly three decades in capital markets and institutional sales (search-result summary only).",
+      "appointed_note": "HR Today (page returned 403) reports he joined in Mar 2026 (search-result summary only, S26). The ABANA leadership page lists him as Managing Director, Arqaam Capital (undated, S41). No Arqaam post announces him.",
+      "previous_roles": "2026-03- Managing Director, Arqaam Capital; Managing Director, EFG Holding / EFG Hermes (advising North American institutional investors on the Middle East); earlier hired as CEO of EFG-Hermes USA to open its New York office (Bloomberg via Gulf News, S42); before EFG, established the US desks of two Egyptian investment banks, Beltone Financial and CI Capital; Mogavero Lee and Co (floor-trading firm), member and floor trader on the NYSE from May 2002; began in 1996 as a ticket-runner on the NYSE floor (S41). HR Today (search-result summary): nearly three decades in capital markets and institutional sales. Current other roles: Secretary, ABANA (S41).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Requires verification",
-      "role_evidence": "Single secondary source seen in search results only (S26); not on Arqaam's news list (S15). Checked 2026-10-12.",
+      "role_evidence": "Two third-party sources and no Arqaam source: HR Today article of Mar 2026 (page returned 403; seen in search results only, S26) and the undated ABANA leadership page naming him Managing Director, Arqaam Capital (S41). Not named in any 2026 Arqaam post (S15). One role-based LinkedIn search found no matching profile. Checked 2026-10-13.",
       "source_ids": [
-        "S26"
+        "S26",
+        "S41",
+        "S42",
+        "S15"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Paolo Casamassima",
@@ -416,18 +484,19 @@
       "business_unit": "Investor Relations",
       "scope": "Group",
       "appointed": "2025-10",
-      "appointed_note": "Appointment reported 1 Oct 2025 (S22).",
-      "previous_roles": "CEO of the Middle East Investor Relations Association (Meira), where corporate membership doubled; earlier Orient Capital and Greensea Capital Investment Bank (S22).",
+      "appointed_note": "Appointment reported by Enterprise AM on 1 Oct 2025 (S22); the firm's post of 20 Jan 2026 gives the same title (S35).",
+      "previous_roles": "2025-10- Executive Director, Investor Relations and Stakeholder Engagement, Arqaam Capital; CEO, Middle East Investor Relations Association (Meira), where corporate membership doubled and he oversaw market expansion, financial management, the IR Marketplace and Corporate Access programmes; earlier Orient Capital and Greensea Capital Investment Bank (S22; years not published). Current other roles: Board member, Gulf Capital Market Association (GCMA), representing Arqaam Capital, from Jan 2026 (S35).",
       "education": null,
       "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Enterprise AM, 1 Oct 2025 (S22). No 2026 source found.",
+      "linkedin_url": "https://www.linkedin.com/in/paolo-casamassima/",
+      "linkedin_status": "Verified (official link)",
+      "role_status": "Verified current",
+      "role_evidence": "Firm post of 20 Jan 2026 names him 'Executive Director - Investor Relations & Stakeholder Engagement at Arqaam Capital' and links his LinkedIn profile (S35); Enterprise AM appointment report of 1 Oct 2025 (S22). No departure news found. Checked 2026-10-13.",
       "source_ids": [
-        "S22"
+        "S22",
+        "S35"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Sheikh Dr. Nazih Hammad",
@@ -440,18 +509,19 @@
       "business_unit": "Asset Management",
       "scope": "Fund governance (external board)",
       "appointed": null,
-      "appointed_note": "Date not stated.",
-      "previous_roles": null,
-      "education": null,
+      "appointed_note": "Appointment date not stated. Chairman of the Shari'ah Supervisory Board in the prospectus of 20 Jul 2023 (S37) and on the Asset Management page (S11).",
+      "previous_roles": "Retired professor of Islamic Jurisprudence and its fundamentals, Faculty of Shariah, Umm al-Qura University, Mecca (1973-1990); author of more than 25 books and 50 research papers (S37). Current other roles (as of 20 Jul 2023): permanent member, International Islamic Fiqh Academy of the OIC (Jeddah); designated member, Islamic Fiqh Council of the Muslim World League (Mecca); head of the Shari'ah board of Citi Islamic Investment Bank (Bahrain), the Islamic Investment Fund Limited of Credit Suisse (Guernsey) and Minhaj Advisory (Dubai); Shari'ah board member of FWU Takaful GmbH, Ratings Intelligence, Citi Islamic Global Equity Fund, the Islamic Fund 'Oasis', Al Fanar Fund Group (Permal) and Islamic Leasing Fund (ANZ).",
+      "education": "Bachelors in Shari'ah, Damascus University (1967); Master's, Baghdad University, Iraq (1970); Doctorate with first honours in Contracts and Financial Transactions in Comparative Islamic Jurisprudence, Dar al-Ulum Faculty, Cairo University (1973)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Named on the Asset Management page (undated), checked 2026-10-12 (S11).",
+      "role_status": "Verified current",
+      "role_evidence": "Asset Management page names him Chairman of the Shari'ah Supervisory Board, checked 2026-10-13 (S11; site metadata shows the page last modified 2026-09-19); prospectus of 20 Jul 2023 lists him as Chairman with biography (S37). No change news searched. This board supervises the Arqaam Islamic funds (and Arqaam's Islamic business per the prospectus).",
       "source_ids": [
-        "S11"
+        "S11",
+        "S37"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Sheikh Dr. Amin Fateh",
@@ -463,19 +533,20 @@
       "entity": "Arqaam Capital (fund Shariah board)",
       "business_unit": "Asset Management",
       "scope": "Fund governance (external board)",
-      "appointed": null,
-      "appointed_note": "Date not stated.",
-      "previous_roles": null,
-      "education": null,
+      "appointed": "2022-03-26",
+      "appointed_note": "Prospectus of 20 Jul 2023: Shari'ah Board member effective 26 Mar 2022, replacing Sheikh Abdulsattar Al Kattan, who stepped down the same date (S37).",
+      "previous_roles": "Imam, Ministry of Awqaf and Islamic Affairs, Kuwait; instructor in the Shari'ah Administration, Kuwait Finance House; lecturer, University of Women, Jordan; Director of Religious Affairs, Islamic Centre of Milwaukee; lecturer in the USA; founding member of the Shari'ah Scholars Association of North America (SSANA) and former member of the Fiqh Council in the USA (years not given). Current other roles (as of 20 Jul 2023): General Manager, Minhaj Advisory (Dubai); member, AAOIFI Shari'ah Committee in the UAE; member of the internal Shari'ah supervision committees of Emirates Islamic Bank, the Emirates NBD Islamic window (Al Watani Al Islami) and the Standard Chartered Islamic window (Sadiq); arbitrator and expert on the IICRA list (S37).",
+      "education": "Bachelors and Masters in Hadith, University of Jordan; PhD in Islamic studies, University of Birmingham, UK",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Named on the Asset Management page (undated), checked 2026-10-12 (S11).",
+      "role_status": "Verified current",
+      "role_evidence": "Asset Management page lists him as a Shari'ah Supervisory Board member, checked 2026-10-13 (S11; page last modified 2026-09-19 per site metadata); prospectus of 20 Jul 2023 gives his biography and effective date (S37). No change news searched.",
       "source_ids": [
-        "S11"
+        "S11",
+        "S37"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Sheikh Dr. Muhammad Amin Qattan",
@@ -488,18 +559,19 @@
       "business_unit": "Asset Management",
       "scope": "Fund governance (external board)",
       "appointed": null,
-      "appointed_note": "Date not stated.",
-      "previous_roles": null,
-      "education": null,
+      "appointed_note": "Appointment date not stated. Listed as a Shari'ah Supervisory Board member in the prospectus of 20 Jul 2023 (S37) and on the Asset Management page (S11).",
+      "previous_roles": "Member of several Shari'ah supervisory bodies in Kuwait, the UAE, Bahrain, Malaysia, the UK, Switzerland and the USA and of scientific and academic committees in and outside Kuwait; accredited trainer in Islamic banks and institutions; lecturer of Islamic Economics at regional and international universities (S37; institutions and years not named).",
+      "education": "Bachelors in Islamic Economics, Al Imam Muhammad Ibn Saud Islamic University, Riyadh; Master's and Doctorate in Islamic banking ('Islamic Banks' in the source), University of Birmingham, UK",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
-      "role_status": "Requires verification",
-      "role_evidence": "Named on the Asset Management page (undated), checked 2026-10-12 (S11).",
+      "role_status": "Verified current",
+      "role_evidence": "Asset Management page lists him as a Shari'ah Supervisory Board member, checked 2026-10-13 (S11; page last modified 2026-09-19 per site metadata); prospectus of 20 Jul 2023 gives his biography (S37). No change news searched.",
       "source_ids": [
-        "S11"
+        "S11",
+        "S37"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     }
   ],
   "capabilities": {
@@ -1035,7 +1107,8 @@
       "tier": 3,
       "published": null,
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Seen in search results only (page returned HTTP 403)"
     },
     {
       "id": "S26",
@@ -1046,7 +1119,8 @@
       "tier": 5,
       "published": "2026-03",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Seen in search results only (page returned HTTP 403); the March 2026 joining date and career come from the search-result summary"
     },
     {
       "id": "S27",
@@ -1057,7 +1131,8 @@
       "tier": 5,
       "published": "2026-06",
       "accessed": "2026-10-12",
-      "language": "en"
+      "language": "en",
+      "note": "Seen in search results only (page text did not load); the same quote was read in the Zawya reprint (S40)"
     },
     {
       "id": "S28",
@@ -1080,6 +1155,223 @@
       "published": null,
       "accessed": "2026-10-12",
       "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "Arqaam held its most recent Board meeting on November 2nd and 3rd",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2023/11/08/arqaam-held-its-most-recent-board-meeting-on-november-2nd-and-3rd/",
+      "doc_type": "Official news post",
+      "tier": 2,
+      "published": "2023-11-08",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S31",
+      "title": "Saudi Arabia's capital markets are at the heart of its economic transformation (12th MENA Investor Conference)",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2025/05/20/saudi-arabias-capital-markets-are-at-the-heart-of-its-economic-transformation/",
+      "doc_type": "Official news post",
+      "tier": 2,
+      "published": "2025-05-20",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S32",
+      "title": "Hani Shalabi joins Arqaam to head up its equities execution business",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2023/11/28/hani-shalabi-joins-arqaam-to-head-up-its-equities-execution-business/",
+      "doc_type": "Official news post",
+      "tier": 2,
+      "published": "2023-11-28",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S33",
+      "title": "Our Head of Fixed Income Abdul Kadir Hussain discusses 2026 outlook for regional bond and sukuk issuance",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2025/12/01/our-head-of-fixed-income-abdul-kadir-hussain-discusses-2026-outlook-for-regional-bond-and-sukuk-issuance-demand-and-pricing/",
+      "doc_type": "Official news post",
+      "tier": 2,
+      "published": "2025-12-01",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S34",
+      "title": "Arqaam Capital's Managing Director for Fixed Income Asset Management discusses FDI, growth and debt issuance in Saudi Arabia on Bloomberg News",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2024/12/31/arqaam-capitals-managing-director-for-fixed-income-asset-management-discusses-fdi-growth-and-debt-issuance-in-saudi-arabia-on-bloomberg-news/",
+      "doc_type": "Official news post",
+      "tier": 2,
+      "published": "2024-12-31",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S35",
+      "title": "Paolo Casamassima has joined the Board of the GCMA representing Arqaam Capital",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2026/01/20/paolo-casamassima-has-joined-the-board-of-the-gcma-representing-arqaam-capital/",
+      "doc_type": "Official news post (links his LinkedIn profile)",
+      "tier": 2,
+      "published": "2026-01-20",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S36",
+      "title": "Arqaam Islamic Income Fund factsheet, August 2026",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/wp-content/uploads/2026/09/Arqaam-Islamic-Income-Fund-Aug26.pdf",
+      "doc_type": "Fund factsheet (investment team: CIO and PM)",
+      "tier": 2,
+      "published": "2026-09",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Data as of 31 Aug 2026; file uploaded Sep 2026 per the URL path"
+    },
+    {
+      "id": "S37",
+      "title": "Arqaam Islamic Funds (OEIC) PLC prospectus, 20 July 2023 (Shari'ah Supervisory Board biographies, PDF pp.28-29)",
+      "publisher": "Arqaam Capital Limited (fund manager); copy hosted by Ajman Bank",
+      "url": "https://www.ajmanbank.ae/site/files/Arqaam%20%20Islamic%20Fund.pdf",
+      "doc_type": "DFSA-regulated fund prospectus (distributor copy)",
+      "tier": 2,
+      "published": "2023-07-20",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Biographies are as of the prospectus date (20 Jul 2023)"
+    },
+    {
+      "id": "S38",
+      "title": "Arqaam Capital Secures Abdul Kadir Hussain to Head Asset Management Business",
+      "publisher": "Finance Magnates",
+      "url": "https://www.financemagnates.com/executives/moves/arqaam-capital-secures-abdul-kadir-hussain-to-head-asset-management-business/",
+      "doc_type": "News article (executive move)",
+      "tier": 5,
+      "published": "2016-09-09",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S39",
+      "title": "Clear logic that comes from within the box (profile of the founder and chief executive)",
+      "publisher": "The National",
+      "url": "https://www.thenational.ae/business/clear-logic-that-comes-from-within-the-box-1.386464",
+      "doc_type": "News article (profile)",
+      "tier": 5,
+      "published": "2012-12-12",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S40",
+      "title": "Nahyan bin Mubarak to inaugurate Arqaam Capital's 13th Annual MENA Investor Conference",
+      "publisher": "Zawya (Arqaam Capital press release)",
+      "url": "https://www.zawya.com/en/press-release/events-and-conferences/nahyan-bin-mubarak-to-inaugurate-arqaam-capitals-13th-annual-mena-investor-conference-in-dubai-on-wednesday-x80shuzq",
+      "doc_type": "Press release reprint",
+      "tier": 5,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Release for the 3 Jun 2026 conference; publication date not shown on the page"
+    },
+    {
+      "id": "S41",
+      "title": "Karim Baghdady, Secretary (ABANA leadership page)",
+      "publisher": "ABANA",
+      "url": "https://www.abana.co/about/leadership/karim-baghdady/",
+      "doc_type": "Association leadership page with biography",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Undated page (footer reads 2022); lists his employer as Arqaam Capital"
+    },
+    {
+      "id": "S42",
+      "title": "EFG-Hermes plans New York office as link with Auerbach ends",
+      "publisher": "Gulf News (Bloomberg)",
+      "url": "https://gulfnews.com/business/efg-hermes-plans-new-york-office-as-link-with-auerbach-ends-1.1918557",
+      "doc_type": "News article",
+      "tier": 5,
+      "published": "2018-09-16",
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Date is the page's 'Last updated' stamp; the original Bloomberg date is not shown"
+    },
+    {
+      "id": "S43",
+      "title": "Jaap Meijer shares key insights into the evolving oil market",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2024/10/01/jaap-meijer-shares-key-insights-into-the-evolving-oil-market/",
+      "doc_type": "Official news post",
+      "tier": 2,
+      "published": "2024-10-01",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S44",
+      "title": "Arqaam Capital and Alētheia Capital have joined forces to connect global investors with deeper MENA market insights",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2025/08/18/arqaam-capital-and-aletheia-capital-have-joined-forces-to-connect-global-investors-with-deeper-mena-market-insights/",
+      "doc_type": "Official news post",
+      "tier": 2,
+      "published": "2025-08-18",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S45",
+      "title": "Jaap Meijer - LinkedIn",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jaapmeijer/",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only"
+    },
+    {
+      "id": "S46",
+      "title": "Hani Shalabi - LinkedIn",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hani-shalabi/",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only"
+    },
+    {
+      "id": "S47",
+      "title": "Bahrain Bourse Approves Arqaam Securities as an External Market Maker",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/2025/11/04/bahrain-bourse-approves-arqaam-securities-as-an-external-market-maker/",
+      "doc_type": "Official news post",
+      "tier": 2,
+      "published": "2025-11-04",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S48",
+      "title": "Advisory Members (governance roles, no names)",
+      "publisher": "Arqaam Capital",
+      "url": "https://www.arqaamcapital.com/advisory-members/",
+      "doc_type": "Official site page (governance roles)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Page last modified 2024-11-23 per site metadata; names no one"
     }
   ],
   "original_reconciliation": [],
@@ -1113,20 +1405,46 @@
         "S21",
         "S24"
       ]
+    },
+    {
+      "field": "Firm start year / CEO tenure",
+      "detail": "The firm's overview (S2) and Bloomberg via Gulf News (2019, S24) say 2007; The National (12 Dec 2012) says Arqaam 'was set up in early 2008' and launched with four staff (S39). Aggregator profiles (not cited) give other start years for individual group entities.",
+      "resolution": "Used 2007 (the firm's own statement) for the CEO's appointed year and noted 2008 in appointed_note; unresolved.",
+      "source_ids": [
+        "S2",
+        "S24",
+        "S39"
+      ]
+    },
+    {
+      "field": "Head of fixed income: title",
+      "detail": "Firm sources use different titles for the same person: 'Managing Director for Fixed Income Asset Management' (31 Dec 2024, S34), 'Head of Fixed Income' (1 Dec 2025, S33), 'CIO' of the Arqaam Islamic Income Fund (Aug 2026 factsheet, S36); Gulf News 2018 'head of Fixed Income Asset Management' (S29).",
+      "resolution": "Treated as one role (head of the fixed-income asset-management business); all titles recorded in the person's title and appointed_note.",
+      "source_ids": [
+        "S29",
+        "S33",
+        "S34",
+        "S36"
+      ]
     }
   ],
   "open_items": [
     "DFSA public register pages returned 403, so the licence category and permitted activities for Arqaam Capital Limited (F000407 per search results) were taken from the firm's own Regulatory Status page (S3). Check the DFSA register, the UAE CMA and Saudi CMA registers directly.",
     "No licence numbers or dates are published on the firm's site. The UAE CMA and Egyptian FRA permits are company statements only.",
     "Financial statements are private (S6): total assets, income and profit are not available. AUM of USD 1.7bn (May 2025) is a press-reported company figure; the Jul 2026 Forbes post says AUM has grown but gives no number.",
-    "Board and management: the /board-of-directors/ page returned 404 and the Advisory Board is 'Coming soon'; no chairman or directors named. No head of Arqaam Wealth or of equities asset management found; Abdul Kadir Hussain's head-of-FIAM title rests on undated search-result sources; Karim Baghdady (HR Today, 403) and Paolo Casamassima (Enterprise AM) rest on single sources.",
-    "LinkedIn: one search for Riad Meliti found no profile; LinkedIn checks for the head of research and asset-management leads were not run (search quota); all linkedin_url left null.",
     "Arqaam Digital: page returned 404; scope unknown. Check whether it includes any wealth or investing app.",
     "Homepage statistics (staff 200, trading volume USD 43.7bn in 2025, 230 research stocks) were read from script-rendered counter markup; confirm visually in a browser. 'B / $' was read as USD billion.",
     "The Saudi CMA managing-investments licence is from an Argaam report whose date is ambiguous (02/10/2025); the CMA announcement itself (CMA_N_3886, seen in search results) was not opened.",
     "Fund domiciles, sizes and fund managers for the three mutual funds are not stated; older Arqaam funds (value fund, macro hedge fund) appear in search results only and their current status is unknown.",
     "The task notes suggested a possible acquisition or wind-down; none was found (see discrepancies).",
-    "Governance pages (S7, S8) name no directors or executives; the firm's investment banking page (S14) lists services but no transactions or people."
+    "Governance pages (S7, S8) name no directors or executives; the firm's investment banking page (S14) lists services but no transactions or people.",
+    "Board and governance: the Board of Directors page linked from the Governance page returns 404 and the Advisory Board is 'Coming soon' (S8); archive.org lists a 12 Jul 2024 snapshot of /board-of-directors/ but web.archive.org cannot be reached from this environment. Only the Chairman (Sami Sindi) is named; other directors and the General Counsel, COO, Arqaam Global Markets president and Arqaam Investment Partners MD (roles on the Advisory Members page, S48) are not named in any source found. Sindi's career and education are not published in an opened source.",
+    "Added in this pass: Sami Sindi (Chairman; the file had no chair) and Hani Shalabi (head of equities execution / brokerage). Named on official posts but not profiled: Hazem Abdel-Mohsen (UAE Country Head, post of 15 Feb 2026), Mehdi Popotte (portfolio manager, Islamic Income Fund, S36), Nadim Amatouri (Director of credit research), Danya Bashir (Director of Special Projects), and unnamed heads of debt solutions & DCM and of ECM execution (posts of Jun and Aug 2025).",
+    "No head of Arqaam Wealth, of equities asset management (EQAM) or of Arqaam Digital is named on the official site or in the posts read (the Nov 2023 board post mentions the launch of the Wealth Management division, S30).",
+    "Riad Meliti: education is not published in an opened source (The National says only 'educated on the US west coast'; not recorded); DFSA register page returned 403 (S25). A search summary mentioned a LinkedIn post by an Arqaam employee referring to 'our CEO, Mohamed Hesham' at an Abu Dhabi Investment Forum event in London; not opened, unverified (may concern a unit or another firm); all 2025-2026 firm sources name Riad Meliti as CEO.",
+    "Karim Baghdady: HR Today (March 2026) returned 403 and the ABANA page is undated; no Arqaam post announces him. Re-check Arqaam's own news or a management page.",
+    "LinkedIn (2026-10-13): official links recorded for Abdul Kadir Hussain and Paolo Casamassima (from Arqaam posts); search-result matches for Jaap Meijer and Hani Shalabi; no profile found for the CEO, the Chairman or Karim Baghdady (role-based searches only). The Shari'ah scholars were not checked.",
+    "Shari'ah Supervisory Board: biographies come from the 20 Jul 2023 prospectus (S37, hosted by Ajman Bank); no later change was searched. The Aug 2026 factsheet (S36) does not list members."
   ],
   "research_status": "Partial",
   "researched_by": "R2",
