@@ -317,7 +317,7 @@
       "education": "Bachelor's degree, Business Administration, Portland State University (USA)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Board of Directors page checked 2026-10-12 (S4); AR 2025 board list, 2025 meetings table and other-memberships table (S1 PDF pp.7, 28-29) and Chairman's statement (S1 p.17); 2013 appointment notice (S32). English and Arabic searches for 2026 Jadwa board or CEO changes found none.",
       "source_ids": [
@@ -637,7 +637,7 @@
       "education": "MBA, INSEAD (France); bachelor's degrees, Ecole Polytechnique (as stated in the official bio)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Management Team page checked 2026-10-12 (S3); AR 2025 (S1 PDF p.33). No change news found in institution-level searches.",
       "source_ids": [
@@ -1516,7 +1516,8 @@
     "Jadwa has not published a regulated fund-distribution or retail-platform channel list; whether public funds are sold through third-party banks was not found.",
     "People pass X08: Arab News Who's Who on Ghanem Al-Ghanem (S34) answered 403 and the TradeArabia 2014 CEO article (S33) returned no article text, so both are recorded from search snippets only.",
     "People pass X08: the Board page (S4) still lists Iqbal Khan although AR 2025 records his Q3 2025 resignation and Dr Sadek Wahba's Q4 2025 arrival; the group_structure board list in this file should be updated centrally (not a people field).",
-    "People pass X08: appointment dates as head for the Executive Management Committee members (Al-Rayes, Ghannam Al-Ghannam, Ghanem Al-Ghanem, Haitham Al-Ghannam, Elkhoury, Al-Eisa, Afiouni, Hussain, Al-Omar) are not published; only joining years appear in the official bios, and the 2019–2025 annual reports carry no executive roster. Searches for 2025–2026 Jadwa appointment news (English and Arabic) returned only the Euromoney mention of the Haddad and Al Zouman hires."
+    "People pass X08: appointment dates as head for the Executive Management Committee members (Al-Rayes, Ghannam Al-Ghannam, Ghanem Al-Ghanem, Haitham Al-Ghannam, Elkhoury, Al-Eisa, Afiouni, Hussain, Al-Omar) are not published; only joining years appear in the official bios, and the 2019–2025 annual reports carry no executive roster. Searches for 2025–2026 Jadwa appointment news (English and Arabic) returned only the Euromoney mention of the Haddad and Al Zouman hires.",
+    "LinkedIn pass L02 (13 Oct 2026): 9 role-based LinkedIn searches; no new match. Existing URLs kept; the Ghanem Al-Ghanem and Elie Elkhoury profiles were seen again with matching titles, no contrary evidence for the others. No profile with a matching title was seen for the Chairman, Multi-Asset Solutions, Private Credit, Operations/Brokerage or Strategy/International roles. Profiles named Farhan Hussain (finance) and Bader AlOmar at Jadwa appeared without a title in the result and were not recorded (both stay 'Not checked': Finance and Shariah are not decision-maker functions)."
   ],
   "research_status": "Complete",
   "researched_by": "B18",

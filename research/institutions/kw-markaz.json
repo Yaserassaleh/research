@@ -425,7 +425,7 @@
       "education": "Professional accountancy, Glasgow University (AR 2025 governance report wording: 'Professional accountancy from Glasgow University'; no degree title given)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Chairman (Non-Executive Member) in AR 2025 (S24 pp.4, 22; attended all seven 2025 board meetings) and on the board pages of both 2026 profiles (S3, S23); quoted as Chairman in the FY2025 results release, 11 Feb 2026 (S2, S5). No 2025-2026 change news (S32, checked 2026-10-12).",
       "source_ids": [
@@ -872,15 +872,16 @@
       "previous_roles": "Not found in accessible official sources (Markaz leadership and subsidiaries pages blocked).",
       "education": null,
       "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_url": "https://www.linkedin.com/in/sami-shabshab-b76772305/",
+      "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
       "role_evidence": "Subsidiaries page of both 2026 profiles (S3, Mar 2026; S23, Jun 2026); leadership page snippet (S20). No change news (S32, checked 2026-10-12).",
       "source_ids": [
         "S3",
         "S23",
         "S20",
-        "S32"
+        "S32",
+        "S34"
       ],
       "checked": "2026-10-12"
     }
@@ -1507,6 +1508,18 @@
       "accessed": "2026-10-12",
       "language": "en",
       "note": "Seen in search results only (page answers 403)"
+    },
+    {
+      "id": "S34",
+      "title": "Sami Shabshab - LinkedIn",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sami-shabshab-b76772305/",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only"
     }
   ],
   "original_reconciliation": [],
@@ -1611,7 +1624,8 @@
     "Not profiled (official 2026 roster, not wealth/digital heads): Rasha A. Othman (EVP IB - Fixed Income & Capital Markets), Ali A. Al-Shamali (EVP Treasury, Operations & Corporate Services; chairs ALCO), Pradeep Rajagopalan (EVP Internal Controls; chairs the GRC committee overseeing IT and the Efficiency & Digitization sub-committee), Maha A. Imad (EVP Board Affairs & Legal; Board Secretary); directors Alshaya, Al-Jouan, Alghannam, Hayat, AlSaad (S24 has bios for all but AlSaad).",
     "LinkedIn: verified URLs only for Salamoun, Olayan and Raghu (earlier search matches, kept). Not verified for the CEO, Deputy CEO, Head of WM, Head of MENA Equities, EVP Global Investment Advisory, EVP MENA Real Estate and SVP Al Rifae; name-based searches are declined by the search tool.",
     "Maryam Al Rifae (SVP Wealth Management and Business Development): current role rests on the 28 Mar 2026 release only (SVP level is below the profile's management pages); re-confirm when the leadership page is reachable.",
-    "Marmore ownership wording differs: 2026 profiles say 'majority-owned subsidiary'; Marmore's own RFP page says 'wholly owned subsidiary of Kuwait Financial Centre' (S28). Not resolved in this people pass."
+    "Marmore ownership wording differs: 2026 profiles say 'majority-owned subsidiary'; Marmore's own RFP page says 'wholly owned subsidiary of Kuwait Financial Centre' (S28). Not resolved in this people pass.",
+    "LinkedIn pass L02 (13 Oct 2026): 11 role-based LinkedIn searches; one new match recorded (Sami Shabshab, S34). URLs already on file for Salamoun, Olayan and Raghu kept (the Olayan and Raghu profiles were seen again). No matching profile was seen for the Chairman, CEO, Deputy CEO, wealth, MENA equities, global investment advisory or real estate heads, so those decision-makers are 'Not verified'. Search summaries also mention Bassam Al-Othman (Managing Director, MENA Real Estate), Maha Imad Al-Kadi (Executive Vice President and Board Secretary) and Abdullah Al Mailam (Manager, MENA Equities, c.2023 post); none is in the roster, nothing was added; verify against official sources."
   ],
   "research_status": "Partial",
   "researched_by": "P3; people pass X05",

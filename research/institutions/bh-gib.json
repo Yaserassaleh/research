@@ -432,7 +432,7 @@
    "education": "MBA, Stanford Graduate School of Business; BBA, Babson College",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official Board page checked 2026-10-12 by batch B29a (S2); AR 2025 board page (S6 p.5); signatory of the H1 2026 statements approved 6 Aug 2026 (S4); Gulf Daily News report of the appointment (S39); Gulf News report of the 12 Feb 2026 royal orders (S40). gib.com not re-openable in pass X09 (Cloudflare HTTP 403, 12 Oct 2026); role-based news search 12 Oct 2026 found no later chairman change.",
    "source_ids": [
@@ -551,8 +551,8 @@
    "previous_roles": "2024– Chief Executive Officer, GIB Saudi Arabia; 2019–2024 Group Wholesale Banking Head, GIB (wholesale banking in Saudi Arabia, Bahrain and the UAE, plus London and New York); Oct 2018–2019 UAE Country Head, GIB (Dubai representative office and Abu Dhabi branch) (S11, S42). '28 years of regional banking experience in KSA, Bahrain and UAE' (S12). Current other roles: Non-Executive Director, GIB Capital (S33).",
    "education": "BSc Business Studies, Lebanese American University; Young Managers Programme (YMP), INSEAD; Leadership Development Programme, Darden School of Business, University of Virginia; Advanced Management Program (AMP), Harvard Business School",
    "qualifications": null,
-   "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_url": "https://sa.linkedin.com/in/khaledabbas",
+   "linkedin_status": "Verified (profile/search match)",
    "role_status": "Verified current",
    "role_evidence": "GIB Saudi Arabia Management page checked 2026-10-12 by batch B29a (S12); AR 2025 (S6 p.6); GIB Capital board page lists him as Non-Executive Director, checked 2026-10-12 (S33). Role-based news search 12 Oct 2026 found no 2025–2026 change; gib.com not re-openable in pass X09 (Cloudflare HTTP 403, 12 Oct 2026); Arab News 2019 profile page blocked (403).",
    "source_ids": [
@@ -560,7 +560,8 @@
     "S11",
     "S12",
     "S33",
-    "S42"
+    "S42",
+    "S46"
    ],
    "checked": "2026-10-12"
   },
@@ -693,13 +694,14 @@
    "previous_roles": "Current: Chief Retail Banking Officer, GIB Saudi Arabia (meem) (S12). Previously Chief Digital Officer, Alinma Bank (listed as 'Sami Hameed Al Rowaithey, Chief Digitalization Officer (CDO)' in Alinma's 4Q 2021 investor presentation, S44 p.6); Chief Digital Officer, Samba Financial Group; executive roles at The Saudi National Bank and Alawwal Bank; board memberships at Saudi Financial Technology Company and Adaptive TechSoft (S12).",
    "education": null,
    "qualifications": null,
-   "linkedin_url": null,
-   "linkedin_status": "Not verified",
+   "linkedin_url": "https://www.linkedin.com/in/sami-al-rowaithey-a2230a2/",
+   "linkedin_status": "Verified (profile/search match)",
    "role_status": "Verified current",
    "role_evidence": "GIB Saudi Arabia Management page checked 2026-10-12 by batch B29a (S12); gib.com not re-openable in pass X09 (Cloudflare HTTP 403, 12 Oct 2026); role-based news searches in English and Arabic (12 Oct 2026) found no appointment or departure news. Alinma's 4Q 2021 presentation corroborates his earlier Alinma CDO role (S44).",
    "source_ids": [
     "S12",
-    "S44"
+    "S44",
+    "S47"
    ],
    "checked": "2026-10-12"
   },
@@ -821,7 +823,7 @@
    "education": "BSc Economics and Accounting, City University London",
    "qualifications": "FCCA (Fellow, Association of Chartered Certified Accountants)",
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "Official Management page checked 2026-10-12 by batch B29a (S1); gib.com not re-openable in pass X09 (Cloudflare HTTP 403, 12 Oct 2026); role-based news search ('group chief transformation officer', 12 Oct 2026) found no appointment or departure news.",
    "source_ids": [
@@ -845,7 +847,7 @@
    "education": "BSc Computer Engineering, King Saud University; EMBA, IE Business School; INSEAD digital leadership program; LBS banker leadership program",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "GIB Saudi Arabia Management page checked 2026-10-12 by batch B29a (S12); gib.com not re-openable in pass X09 (Cloudflare HTTP 403, 12 Oct 2026); role-based news search 12 Oct 2026 found no appointment or departure news.",
    "source_ids": [
@@ -1604,6 +1606,30 @@
    "published": null,
    "accessed": "2026-10-12",
    "language": "en"
+  },
+  {
+   "id": "S46",
+   "title": "Khaled Abbas - LinkedIn",
+   "publisher": "LinkedIn",
+   "url": "https://sa.linkedin.com/in/khaledabbas",
+   "doc_type": "LinkedIn profile (search result)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Seen in search results only"
+  },
+  {
+   "id": "S47",
+   "title": "Sami AlRowaithey - LinkedIn",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/sami-al-rowaithey-a2230a2/",
+   "doc_type": "LinkedIn profile (search result)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Seen in search results only"
   }
  ],
  "original_reconciliation": [
@@ -1762,7 +1788,8 @@
   "Khaled Abbas: a search-engine summary of the blocked Arab News profile suggested a different year for his Group Wholesale Banking Head appointment than GIB's 2019 (S11, S42); page unread, GIB's date kept.",
   "Aug 2025 board release (S41) seen in search snippets only: 11 members, three years from 8 Aug 2025, chaired by Fahad AlSaif; Al Zaid Vice-Chairman from 21 Aug 2025. Full membership not read; file covers Chairman, Vice-Chairman and Group CEO.",
   "LinkedIn (X09): no official page links a personal profile and the search tool declines name look-ups; no URL verified. Garrett-Cox and Shahadah moved from 'Not checked' to 'Not verified' after official pages were checked for links.",
-  "People Matters ME reported a Group CHRO change (Nawaf Kably, effective Jun 2026) from a LinkedIn post; outside people scope but shows 2026 Group-level changes that gib.com could not be checked for."
+  "People Matters ME reported a Group CHRO change (Nawaf Kably, effective Jun 2026) from a LinkedIn post; outside people scope but shows 2026 Group-level changes that gib.com could not be checked for.",
+  "LinkedIn pass L02 (13 Oct 2026): 18 role-based LinkedIn searches; two matches recorded (Khaled Abbas, S46; Sami AlRowaithey, S47), which supersedes the X09 note that no profile was found for AlRowaithey. Not found: Chairman, Group CEO, Sara Abdulhadi, GIB Capital CEO and heads, Garrett-Cox, Nijjar, Al-Thbiti. Profiles named Sara Abdulhadi and Abdulhadi Shahadah (GIB Capital) appeared without a title in the result and were not recorded. Undated LinkedIn mentions conflict with the roster and are probably earlier holders; verify against official sources, role_status unchanged: Abdulla bin Mohammed Al Zamil and Fahad Al-Saif as chairman (S41 shows Al-Saif chairing the board from Aug 2025), Jamal Al Kishi as 'CEO of GIB B.S.C and Deputy Group CEO' (post c.4 years old per the summary) and Stephen Williams as Group CFO (roster: Marwan Abiad). A Head of Business Development - Private Banking (Rakan AlRasheed, per profile text) is not in the roster."
  ],
  "research_status": "Complete",
  "researched_by": "B29a",

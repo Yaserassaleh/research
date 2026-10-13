@@ -492,7 +492,7 @@
    "education": "BSc Economics (UK; institution not named in the bio); Master's degree, International Boundary Studies, School of Oriental and African Studies, University of London (UK)",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
    "role_evidence": "AR 2025 board list, profile and governance tables (S2 PDF pp.12, 18, 23, 27), checked 2026-10-12; FSA register listed him as Chairman in the original pass (S10; page could not be re-opened on 2026-10-12). English and Arabic searches for 2026 board changes found none. The bank's board web page could not be located (see open_items).",
    "source_ids": [
@@ -1679,7 +1679,8 @@
   "People pass X08: the Board of Directors web page could not be located — about/pages/board*.aspx variants return the site's 'Page not found' template and the navigation is script-rendered. Board verification rests on the AR 2025 governance section (S2), which records the 26 Mar 2025 election for three years.",
   "People pass X08: fsa.gov.om register (S10) could not be re-opened (TLS certificate-chain error through the session proxy; not bypassed).",
   "People pass X08: Annual reports for 2021 and 2022 were not found at the IR URL pattern, so the years Al Raisi became GM Personal Banking and Al Ojaili GM Technology are bounded (2021–2023) rather than dated.",
-  "People pass X08: no announcements found for the 2024 Deputy CEO redesignations or for Khaled Alkayd's 2026 appointment as GM Islamic Banking (English and Arabic searches); Bank Muscat does not appear to publish management-change releases and MSX disclosures were not searched. Career histories and education for the GM/DGM/AGM level remain unpublished."
+  "People pass X08: no announcements found for the 2024 Deputy CEO redesignations or for Khaled Alkayd's 2026 appointment as GM Islamic Banking (English and Arabic searches); Bank Muscat does not appear to publish management-change releases and MSX disclosures were not searched. Career histories and education for the GM/DGM/AGM level remain unpublished.",
+  "LinkedIn pass L02 (13 Oct 2026): 13 role-based LinkedIn searches; no profile matched. Profiles named Abdulnasir N. Al Raisi and Abdullah Al-Jufaili (Bank Muscat) appeared without a title in the result, so neither was recorded (a separate post headline calls Abdulnasir N. Al Raisi General Manager of Personal Banking, consistent with the roster). A search summary of a news item about a new Islamic-banking appointment calls Khaled Al Kayed 'Chief Executive Officer' (organisation, date and exact post not shown); the roster has General Manager - Islamic Banking; verify against official sources, role_status unchanged. Search results also show Mohammed Al Kharusi as Head, Hafawa (Meethaq private banking), not in the roster."
  ],
  "research_status": "Complete",
  "researched_by": "B30",

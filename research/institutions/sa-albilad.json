@@ -442,7 +442,7 @@
       "education": "Bachelor's in Quantitative Methods, King Saud University (board page, S2; Albilad Capital's board CV adds the year 1987 and executive education at INSEAD Singapore and IESE - see sa-albilad-capital)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official board page read by batch R5 on 2026-10-12 (S2); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page). Saudi Exchange filings of 26 Apr 2026 (S9, S25) and Argaam (S26) record the 1 Jun 2026 appointment; Mubasher's company profile lists him as Chairman, checked 2026-10-12 (S28). No later board change found in English/Arabic role-based searches (12 Oct 2026).",
       "source_ids": [
@@ -739,7 +739,7 @@
       "education": "Master's in Investment and Financial Risks, University of Westminster; Bachelor's in Business Administration (UAE institution not named) (board page, S2)",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Verified current",
       "role_evidence": "Official board page read by batch R5 on 2026-10-12 (S2); the X06 re-check the same day was blocked (bankalbilad.com.sa serves a WAF error page). Mubasher's company profile lists 'Haytham bin Suleiman bin Abdulaziz Al Suhaymi' as a board member, checked 2026-10-12 (S28). The page classifies him Non-Executive while listing an executive post at the subsidiary (see discrepancies).",
       "source_ids": [
@@ -793,14 +793,15 @@
       "previous_roles": "2018- Chief Executive Officer, Albilad Capital; previously roles at the Capital Market Authority (Forbes ME 2026, S23). Current other roles: member of the Audit Committee of the Saudi Exchange; member of the Investment and Funding Committee, Jeddah Central Development Company (Forbes ME 2025, S29); chairman of the Albilad Capital fund boards (see sa-albilad-capital).",
       "education": null,
       "qualifications": null,
-      "linkedin_url": null,
-      "linkedin_status": "Not verified",
+      "linkedin_url": "https://www.linkedin.com/in/zaid-almufarih-ab35661a/",
+      "linkedin_status": "Verified (profile/search match)",
       "role_status": "Verified current",
       "role_evidence": "Forbes ME Top 50 Asset Managers 2026 (published 9 Jul 2026) lists him as CEO of Albilad Capital (S23), as does the 2025 list (S29); Albilad Capital's Oct-Dec 2025 releases name him CEO (read by R5 on 12 Oct 2026; albilad-capital.com was blocked in the X06 pass). Not on the bank's executive page (S1). No departure news found (12 Oct 2026). LinkedIn search-result match recorded in sa-albilad-capital; not re-checked.",
       "source_ids": [
         "S1",
         "S23",
-        "S29"
+        "S29",
+        "S30"
       ],
       "checked": "2026-10-12"
     }
@@ -1381,6 +1382,18 @@
       "published": "2025-03-15",
       "accessed": "2026-10-12",
       "language": "en"
+    },
+    {
+      "id": "S30",
+      "title": "Zaid Mohammed Al-Mufarih - LinkedIn",
+      "publisher": "LinkedIn",
+      "url": "https://www.linkedin.com/in/zaid-almufarih-ab35661a/",
+      "doc_type": "LinkedIn profile (search result)",
+      "tier": 4,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en",
+      "note": "Seen in search results only"
     }
   ],
   "original_reconciliation": [],
@@ -1466,7 +1479,8 @@
     "LinkedIn: no profile found by R5 for the CEO, Chairman, Treasury EVP or Chief Sharia Officer; name-based look-ups are not permitted in the X06 pass, so no new URLs were verified. The company page URL was not verified. Matches for Waleed Al-Dhubaib and Abdulaziz Alghufaili are search-result matches only (the Oct 2026 search summary for Alghufaili shows the CTO title).",
     "Intellect go-live status and scope beyond wholesale banking are unknown; the NSE press release PDF timed out and a news report was used.",
     "Leads checked: private/wealth propositions (thin, see capabilities); digital investing in the bank app (only an Investment Wakalah account; investing is in Albilad Capital apps); capital-arm AUM and funds are in sa-albilad-capital.",
-    "Saudi Exchange pages were not queried (403 in earlier batches). The CMA register entry for Albilad Capital was not checked directly (licence number taken from company documents)."
+    "Saudi Exchange pages were not queried (403 in earlier batches). The CMA register entry for Albilad Capital was not checked directly (licence number taken from company documents).",
+    "LinkedIn pass L02 (13 Oct 2026): 9 role-based LinkedIn searches; one new match recorded (Zaid Al-Mufarih, Albilad Capital, S30; the same URL is recorded in sa-albilad-capital). Waleed Al-Dhubaib and Abdulaziz Alghufaili URLs seen again with matching titles. Not found: Chairman, CEO (appointment posts seen, no profile), Haytham AlSuhaimi. Search results name post-holders who are not in the roster and were not added: Moayad Aldawood (Chief Digital Officer, or Chief Digital & Innovation Officer in another profile), Sami AlHarthy (Head of Private Banking (Acting)), a General Manager of Private Banking (Abdullah Al-Obaidi, since April 2025, per a profile snippet), Bander Alhomeggi (General Manager - Group Office) and an unnamed Head of Strategy, EPMO and ESG Division. Verify digital, private-banking and strategy heads against official sources."
   ],
   "research_status": "Complete",
   "researched_by": "R5",
