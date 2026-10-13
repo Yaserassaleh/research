@@ -342,7 +342,7 @@
  "people": [
   {
    "name": "Sheikh Faisal Bin AbdulAziz Bin Jassim Al-Thani",
-   "name_ar": null,
+   "name_ar": "فيصل بن عبدالعزيز بن جاسم آل ثاني",
    "title": "Chairman",
    "functions": [
     "Chair",
@@ -351,25 +351,32 @@
    "entity": "Ahli Bank Q.P.S.C.",
    "business_unit": "Board of Directors",
    "scope": "Group",
-   "appointed": null,
-   "appointed_note": "Was already Chairman when the CEO was appointed in Jul 2020 (S16).",
-   "previous_roles": null,
-   "education": null,
+   "appointed": "2011",
+   "appointed_note": "AR 2025 (S4, PDF p.36): Board member since 2005 and Chairman since 2011. The AR also gives 'Election/Appointment: 2023, Term expiry: 2026'; he was re-elected unopposed (by acclamation) for the 2026-2028 term at the AGM of 30 Mar 2026 (S23, S24). The 2 Jul 2020 release styles him 'Chairman & Managing Director' (S16).",
+   "previous_roles": "2011- Chairman of the Board, Ahli Bank; 2005-2011 Member of the Board, Ahli Bank. Current other roles: Chairman, Museum of Islamic Art, Qatar.",
+   "education": "Bachelor's degree, Finance, Suffolk University, Boston, USA",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official leadership page checked 2026-10-12 (S1). Signed the 30 Jun 2026 statements as Chairman (S2) and was quoted in the H1 2026 release (S5).",
+   "role_evidence": "Our Leadership page (English S1, Arabic S27) checked 2026-10-13 lists him as Chairman; AR 2025 board biography (S4); signed the invitation to and presided over the AGM of 30 Mar 2026 (S22), where the 2026-2028 Board was elected unopposed (S23); on the 2026-2028 nominee list (S24); the bank's newsroom shows no board or chair change Jan 2025-Sep 2026 (S26).",
    "source_ids": [
     "S1",
     "S2",
-    "S5"
+    "S4",
+    "S5",
+    "S16",
+    "S22",
+    "S23",
+    "S24",
+    "S26",
+    "S27"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Hassan Ahmed AlEfrangi",
-   "name_ar": null,
+   "name_ar": "حسن أحمد الإفرنجي",
    "title": "Chief Executive Officer",
    "functions": [
     "CEO"
@@ -378,27 +385,30 @@
    "business_unit": "Group",
    "scope": "Group",
    "appointed": "2020-07",
-   "appointed_note": "Appointment announced 2 Jul 2020 (S16).",
-   "previous_roles": "Group CEO, Qatar General Insurance and Reinsurance Company. Began his career at Ahlibank and worked in several departments (S16, S4). Search results (not opened) say his last earlier Ahlibank role was Deputy CEO - Retail and Private Banking, and that he was promoted to Deputy CEO Retail Banking in 2016 (S18).",
-   "education": "Bachelor's degree in Finance and Banking (S16); the AR says 'bachelor's degree in financial sciences' (S4)",
+   "appointed_note": "Appointment announced 2 Jul 2020 (S16); the release gives no separate effective date. The release thanks Mahmoud Malkawi for his tenure as Acting CEO (S16).",
+   "previous_roles": "2020- Chief Executive Officer, Ahli Bank; before 2020 Group CEO, Qatar General Insurance and Reinsurance Company (dates not published in official sources); Deputy CEO - Retail and Private Banking, Ahli Bank (last Ahlibank role before that, per S16); 31 May 2016- Deputy CEO, Retail Banking Division, Ahli Bank (promoted from Head of Retail Services; 17 years with the bank at that date, S18); earlier roles at Ahli Bank include retail banking and risk management (S16, S4).",
+   "education": "Bachelor's degree, Finance and Banking (institution not published; AR 2025 words the field 'financial sciences')",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not verified",
    "role_status": "Verified current",
-   "role_evidence": "Official leadership page (S1); signed the 30 Jun 2026 statements as CEO (S2); quoted in the 21 Jul 2026 release (S5).",
+   "role_evidence": "Our Leadership page checked 2026-10-13 (S1, S27); AR 2025 biography and CEO letter (S4); signed the 30 Jun 2026 statements as CEO (S2); quoted as CEO in the 21 Jul 2026 H1 release (S5); named as CEO attending the AGM of 30 Mar 2026 (S23). Searches for 2025-2026 departure or appointment news (English and Arabic) found none; newsroom list shows none (S26). LinkedIn role search for the CEO returned posts but no profile URL.",
    "source_ids": [
     "S1",
     "S2",
+    "S4",
     "S5",
     "S16",
-    "S4",
-    "S18"
+    "S18",
+    "S23",
+    "S26",
+    "S27"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Othman Hijazi",
-   "name_ar": null,
+   "name_ar": "عثمان حجازي",
    "title": "Senior Chief Business Officer",
    "functions": [
     "Retail",
@@ -409,19 +419,23 @@
    "business_unit": "Business sector (Retail, Corporate and Private Banking report here per the 2025 org chart)",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "The AR 2025 governance section titles him 'Senior Chief Executive Officer, Business Sector' (S4).",
-   "previous_roles": "Nearly three decades in MENA banking and markets, mainly in Bahrain and the UAE, including leadership roles at Ahli United Bank (Bahrain) and Standard Chartered (S4).",
-   "education": "Master's degree in finance and applied finance (S4)",
+   "appointed_note": "Appointment date not published. He is not in the FY2024 Corporate Governance Report (S21, published Feb 2025) and is in the AR 2025 (S4) and on the website (S1), so he took up the role, or was added to the management list, after February 2025. AR 2025 heading: 'Senior Chief Executive Officer, Business Sector'.",
+   "previous_roles": "Leadership positions at Ahli United Bank of Bahrain and Standard Chartered Bank (years and titles not published); nearly three decades of experience in banking and financial markets in the Middle East and North Africa, particularly Bahrain and the United Arab Emirates (AR 2025). Current other roles: Board member, Ahli Brokerage Company (S25).",
+   "education": "Master's degree, finance and applied finance (institution not published)",
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
-   "role_evidence": "Official leadership page checked 2026-10-12 (S1); AR 2025 message from the Senior Chief Business Officer (S4).",
+   "role_evidence": "Our Leadership page checked 2026-10-13 (S1, S27); AR 2025 senior-management biography (S4, PDF p.43); listed as board member on Ahli Brokerage's board page (S25). No 2025-2026 departure news found; no appointment release in the newsroom (S26). Functions reflect the 'Business Sector' remit; no reporting lines are inferred.",
    "source_ids": [
     "S1",
-    "S4"
+    "S4",
+    "S21",
+    "S25",
+    "S26",
+    "S27"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Ahmad Abukhalil",
@@ -435,18 +449,21 @@
    "business_unit": "Private Banking & Wealth Management",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Named only in the 'Ahlibank Organizational Structure 2025' chart in the Annual Report 2025 (Arabic label gives the full name). Not on the website leadership page, which lists only senior management.",
-   "previous_roles": null,
+   "appointed_note": "Start date in the post not published. FY2024 Corporate Governance Report (S21) titles him Chief Private Banking Officer (org chart: Chief Private Banking & Wealth Management Officer); AR 2025 org chart (S4, PDF p.63) titles him Head of Private Banking & Wealth Management. Name variants: Ahmed Zuhdi Abu Khalil (S21), Ahmed Abu Khalil (LinkedIn).",
+   "previous_roles": "Wealth-management experience since 1999 (employers and years not published): wealth solutions and investment relationships for the bank's elite clients, with expertise in treasury management, financial derivatives and private equity advisory (S21).",
    "education": null,
    "qualifications": null,
-   "linkedin_url": null,
-   "linkedin_status": "Not verified",
+   "linkedin_url": "https://www.linkedin.com/in/ahmed-abu-khalil-4086635/",
+   "linkedin_status": "Verified (profile/search match)",
    "role_status": "Requires verification",
-   "role_evidence": "AR 2025 organisation chart, printed p.124 (PDF p.63) (S4). The 2026 search found no news or profile.",
+   "role_evidence": "Named in the AR 2025 organisation chart ('Structure 2025', S4) and in the FY2024 report with a biography (S21); not on the website leadership roster (S1, checked 2026-10-13). LinkedIn search result names Ahlibank Qatar as employer with a Head of Private Banking profile; the bank's LinkedIn company page is reported to list him in that role (S28, S30; search results only). No departure news found. Kept as 'Requires verification' because no 2026-dated source lists him.",
    "source_ids": [
-    "S4"
+    "S4",
+    "S21",
+    "S28",
+    "S30"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Shadi Khoury",
@@ -460,22 +477,23 @@
    "business_unit": "Retail Banking",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Named in the AR 2025 organisation chart only.",
+   "appointed_note": "Start date not published. The FY2024 report (S21) shows Ahmed ElShazly as Head of Retail Banking and Abdulaziz Al-Khater as Chief Retail Banking Officer; the AR 2025 org chart (S4) shows Shadi Khoury as Head of Retail Banking.",
    "previous_roles": null,
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Requires verification",
-   "role_evidence": "AR 2025 organisation chart (S4); not on the website leadership page (S1).",
+   "role_evidence": "Only source: AR 2025 organisation chart ('Structure 2025', S4, PDF p.63). Not on the website leadership roster (S1, checked 2026-10-13); no biography, appointment or departure news found. Role-based LinkedIn searches for the retail head returned no match for this name.",
    "source_ids": [
-    "S4"
+    "S4",
+    "S21"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Mahalingam Shankar",
-   "name_ar": null,
+   "name_ar": "ماهالينغام شانكار",
    "title": "Chief Executive - Finance and Strategy",
    "functions": [
     "Finance",
@@ -485,23 +503,26 @@
    "business_unit": "Finance & Strategy",
    "scope": "Group",
    "appointed": "2013-03",
-   "appointed_note": "Joined Jul 2006; Deputy CEO for Finance, Operations, Services and IT from Mar 2013 (S4).",
-   "previous_roles": "Operations Director, GE Capital; Head of Finance, Dresdner Bank; Senior Analyst, Gulf Bank (Kuwait) (S4).",
-   "education": "B.Com, University of Delhi; postgraduate qualification in finance (ICMAI); executive education at Harvard Business School; fintech certificates from MIT (S4)",
-   "qualifications": null,
+   "appointed_note": "March 2013 is the appointment as Deputy CEO for Finance, Operations, Services and Information Technology, the predecessor of the current title (AR 2025, S4); joined Ahli Bank in July 2006. The date of the current title is not published.",
+   "previous_roles": "2013- Deputy CEO for Finance, Operations, Services and Information Technology, Ahli Bank (now Chief Executive - Finance and Strategy); 2006- joined Ahli Bank (July 2006); earlier: Operations Director, GE Capital; Head of Finance, Dresdner Bank; Senior Analyst, Gulf Bank (Kuwait) (years not published). AR 2025 states approximately 26 years of experience in financial services.",
+   "education": "Bachelor of Commerce, University of Delhi, New Delhi, India; Executive Education Diploma, Harvard Business School, USA; specialised certifications in financial technology, MIT, USA",
+   "qualifications": "Postgraduate qualification in Finance, Institute of Cost Accountants of India (ICMAI)",
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official leadership page (S1) and AR 2025 (S4).",
+   "role_evidence": "Our Leadership page checked 2026-10-13 (S1, S27); AR 2025 biography (S4, PDF p.43) and FY2024 report biography (S21); no 2025-2026 departure news found (S26).",
    "source_ids": [
     "S1",
-    "S4"
+    "S4",
+    "S21",
+    "S26",
+    "S27"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Derek Kwok",
-   "name_ar": null,
+   "name_ar": "ديريك كووك",
    "title": "Chief Executive - Treasury & International Banking",
    "functions": [
     "Treasury",
@@ -511,19 +532,23 @@
    "business_unit": "Treasury & International Banking (brokerage services through Ahli Brokerage are described within this division)",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "",
-   "previous_roles": null,
+   "appointed_note": "Appointment date not published. AR 2025 bio heading: 'Chief Treasury and International Banking Officer'; website: 'Chief Executive - Treasury & International Banking'.",
+   "previous_roles": "Chief Treasury and International Banking Officer, Ahli Bank, also heading the Treasury and Investments Department (S21); before joining Ahlibank: led the Global Markets Sales and Trading Division at First Gulf Bank (now First Abu Dhabi Bank), Abu Dhabi; Head of G10 FX Trading for Asia-Pacific, BNP Paribas, Singapore; leadership roles at international banks in Tokyo, Singapore and Sydney (years not published). Current other roles: Board member, Ahli Brokerage Company (S25).",
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Verified current",
-   "role_evidence": "Official leadership page (S1); AR 2025 message from the Chief Executive, Treasury & International Banking (S4).",
+   "role_evidence": "Our Leadership page checked 2026-10-13 (S1, S27); AR 2025 (S4, PDF p.44) and FY2024 report (S21) biographies; board member of Ahli Brokerage (S25); no 2025-2026 departure news found (S26). A LinkedIn result 'Derek Kwok - Qatar' shows no employer, so it is not recorded.",
    "source_ids": [
     "S1",
-    "S4"
+    "S4",
+    "S21",
+    "S25",
+    "S26",
+    "S27"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Samer Totah",
@@ -537,18 +562,19 @@
    "business_unit": "Ahli Brokerage",
    "scope": "Subsidiary: Ahli Brokerage Company",
    "appointed": null,
-   "appointed_note": "",
+   "appointed_note": "Appointment date not published.",
    "previous_roles": null,
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Requires verification",
-   "role_evidence": "Listed on the Ahli Brokerage Management Team page, checked 2026-10-12 (S14). The site footer reads 'Copyright 2014', so the page may be stale; no other confirmation found.",
+   "role_evidence": "Ahli Brokerage 'Management Team' page re-read 2026-10-13 lists him as General Manager (S14), with Madhu Nellikkappillil (Operations Manager) and Waleed Al Fukaha (Investment Manager). The footer says 'Copyright 2014'; the sister Board Members page (S25) lists executives who joined Ahlibank in 2025, so the site is maintained, but no dated 2025-2026 source confirms his role. A LinkedIn result shows his name with Ahli Brokerage Company Qatar but no title, so it is not recorded.",
    "source_ids": [
-    "S14"
+    "S14",
+    "S25"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Rajesh Srinivasan",
@@ -561,18 +587,19 @@
    "business_unit": "Strategy (under Chief Executive - Finance & Strategy)",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Named in the AR 2025 organisation chart only.",
+   "appointed_note": "Start date not published. The FY2024 report org chart (S21) shows the Head of Strategy post as vacant.",
    "previous_roles": null,
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Requires verification",
-   "role_evidence": "AR 2025 organisation chart (S4).",
+   "role_evidence": "Only source: AR 2025 organisation chart ('Structure 2025', S4, PDF p.63). Not on the website leadership roster (S1, checked 2026-10-13); no biography or news found.",
    "source_ids": [
-    "S4"
+    "S4",
+    "S21"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Mahesh Sangisetti",
@@ -586,18 +613,19 @@
    "business_unit": "Transaction Banking & Transformation",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Named in the AR 2025 organisation chart only. The AR describes a 2025 enterprise-wide Transformation Program run by dedicated transformation teams.",
+   "appointed_note": "Start date not published. The FY2024 report org chart (S21) shows a 'Head of Digital Transaction Banking' (Nizar El-Jechi); the AR 2025 chart shows a 'Head of Transaction Banking & Transformation'.",
    "previous_roles": null,
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
-   "linkedin_status": "Not checked",
+   "linkedin_status": "Not verified",
    "role_status": "Requires verification",
-   "role_evidence": "AR 2025 organisation chart (S4).",
+   "role_evidence": "Only source: AR 2025 organisation chart ('Structure 2025', S4, PDF p.63). Not on the website leadership roster (S1, checked 2026-10-13). Role-based LinkedIn searches for digital/transformation heads returned no match for this name.",
    "source_ids": [
-    "S4"
+    "S4",
+    "S21"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Sanjay Macmado",
@@ -610,18 +638,19 @@
    "business_unit": "Information Technology",
    "scope": "Group",
    "appointed": null,
-   "appointed_note": "Shown as acting in the AR 2025 organisation chart.",
+   "appointed_note": "Start date not published. The FY2024 report org chart (S21) shows Rakesh Chouhan as Head of Information Technology under a Chief Operations & Information Technology Officer.",
    "previous_roles": null,
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Requires verification",
-   "role_evidence": "AR 2025 organisation chart (S4).",
+   "role_evidence": "Only source: AR 2025 organisation chart ('Structure 2025', S4, PDF p.63), where the post is marked Acting. Not on the website leadership roster (S1, checked 2026-10-13); no biography or news found.",
    "source_ids": [
-    "S4"
+    "S4",
+    "S21"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Yazan Nusairat",
@@ -634,22 +663,24 @@
    "business_unit": "Operations",
    "scope": "Group",
    "appointed": "2025",
-   "appointed_note": "Joined Ahlibank in 2025. The AR governance section calls him 'Chief Operations Officer', and the org chart 'Chief Operating Officer (Acting)' and Head of Operations (S4).",
-   "previous_roles": "Capital Bank of Jordan: COO 2018-2021; GM Process Improvement 2021-2024; CEO - Business Operations 2014-2018; helped set up two Islamic banks (S4).",
-   "education": "Bachelor's in Business Administration and Marketing (S4)",
-   "qualifications": "Certified Islamic Banker (CIB); CAMS (S4)",
+   "appointed_note": "Joined Ahlibank in 2025 (AR 2025, S4); month and the date of the acting appointment not published. The org chart shows 'Chief Operating Officer (Acting)' and 'Head of Operations'; the governance bio heading reads 'Chief Operations Officer'. The FY2024 report (S21) listed a Chief Operations & IT Officer (Izzidin Abusalameh).",
+   "previous_roles": "2025- Chief Operations Officer (Acting), Ahli Bank; 2021-2024 General Manager for Process Improvement, Jordan (employer not named in the AR); 2018-2021 Chief Operating Officer, Capital Bank of Jordan; 2014-2018 Chief Executive Officer - Business Operations (Jordan); 2004-2014 banking operations leadership roles. Played a role in establishing two new Islamic banks (AR 2025). More than 20 years in banking services and operations.",
+   "education": "Bachelor's degree, Business Administration and Marketing (institution not published)",
+   "qualifications": "Certified Islamic Banker (CIB); Certified Anti-Money Laundering Specialist (CAMS)",
    "linkedin_url": null,
    "linkedin_status": "Not checked",
-   "role_status": "Requires verification",
-   "role_evidence": "AR 2025 governance section and org chart (S4); not on the website leadership page (S1).",
+   "role_status": "Verified current",
+   "role_evidence": "AR 2025 section 3.1 lists him in the Senior Management that 'currently consists of' (S4, PDF p.44, published 2026) and the org chart shows him as acting COO and Head of Operations; he is not on the website leadership roster (S1, checked 2026-10-13), which lists 11 of the senior managers. No departure news found.",
    "source_ids": [
-    "S4"
+    "S1",
+    "S4",
+    "S21"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Mohamed Mousa Al Namla",
-   "name_ar": null,
+   "name_ar": "محمد موسى النملة",
    "title": "Chief Executive - Human Resources, Administration and Support Services",
    "functions": [
     "Operations",
@@ -659,23 +690,27 @@
    "business_unit": "HR, Administration and Support Services",
    "scope": "Group",
    "appointed": "2016",
-   "appointed_note": "Joined after QNB (1996-2016) (S4).",
-   "previous_roles": "QNB 1996-2016, including Assistant General Manager, Financial and Regulatory Reporting (S4).",
-   "education": "Bachelor's in Business Administration (S4)",
+   "appointed_note": "Joined Ahli Bank in 2016 after Qatar National Bank (1996-2016) (AR 2025, S4); the date of the current title is not published.",
+   "previous_roles": "Chief Executive for Human Resources, Administration and Support Services, Ahli Bank (current title); 2016- joined Ahli Bank; 1996-2016 Qatar National Bank, including Assistant General Manager for Financial and Regulatory Reporting, QNB Group. Current other roles: Chairman of the Board, Ahli Brokerage Company (S25). More than 25 years in financial and banking sector.",
+   "education": "Bachelor's degree, Business Administration (institution not published)",
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official leadership page (S1) and AR 2025 (S4).",
+   "role_evidence": "Our Leadership page checked 2026-10-13 (S1, S27); AR 2025 (S4, PDF p.43) and FY2024 (S21) biographies; Chairman of Ahli Brokerage per its board page (S25); no 2025-2026 departure news found (S26).",
    "source_ids": [
     "S1",
-    "S4"
+    "S4",
+    "S21",
+    "S25",
+    "S26",
+    "S27"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
   },
   {
    "name": "Mohamed Aly Sobh",
-   "name_ar": null,
+   "name_ar": "محمد علي صبح",
    "title": "Chief Risk Officer",
    "functions": [
     "Other"
@@ -684,19 +719,53 @@
    "business_unit": "Risk",
    "scope": "Group",
    "appointed": "2022",
-   "appointed_note": "Rejoined Ahlibank in 2022 (S4).",
-   "previous_roles": "Ahli United Bank Group, Kuwait: Deputy General Manager, Risk Management (2017-2022). Earlier in risk management at Ahlibank, 2007-2010 (S4).",
+   "appointed_note": "Rejoined Ahlibank in 2022 (AR 2025, S4); the date of the Chief Risk Officer title is not published.",
+   "previous_roles": "2022- Chief Risk Officer, Ahli Bank (rejoined); 2017-2022 Deputy General Manager, Risk Management, Ahli United Bank Group, Kuwait; leadership roles in banking until 2017 (Egypt, Bahrain, Qatar, Kuwait; employers not named); 2007-2010 Head of Risk Management, Ahli Bank; 2005-2007 private assets; 1992-2004 corporate finance. More than 30 years in risk management and finance. Current other roles: Board member, Ahli Brokerage Company (S25).",
    "education": null,
    "qualifications": null,
    "linkedin_url": null,
    "linkedin_status": "Not checked",
    "role_status": "Verified current",
-   "role_evidence": "Official leadership page (S1) and AR 2025 (S4).",
+   "role_evidence": "Our Leadership page checked 2026-10-13 (S1, S27); AR 2025 (S4, PDF p.44) and FY2024 (S21) biographies; board member of Ahli Brokerage (S25); no 2025-2026 departure news found (S26).",
    "source_ids": [
     "S1",
-    "S4"
+    "S4",
+    "S21",
+    "S25",
+    "S26",
+    "S27"
    ],
-   "checked": "2026-10-12"
+   "checked": "2026-10-13"
+  },
+  {
+   "name": "Abdulaziz Khalid Al-Khater",
+   "name_ar": "عبدالعزيز خالد الخاطر",
+   "title": "Chief Special Projects Officer",
+   "functions": [
+    "Strategy",
+    "Digital"
+   ],
+   "entity": "Ahli Bank Q.P.S.C.",
+   "business_unit": "Special Projects",
+   "scope": "Group",
+   "appointed": null,
+   "appointed_note": "Date of the current title not published. The FY2024 report (S21) lists him as Chief Retail Banking Officer; the AR 2025 (S4) calls him 'Head of Special Projects' in the biography and 'Chief Special Projects Officer' in the management list, as does the website (S1). A LinkedIn search result (S29, not opened) shows Chief Operating Officer from Oct 2020 and Chief Retail Banking Officer from Apr 2024.",
+   "previous_roles": "Chief Special Projects Officer, Ahli Bank (current); Chief Retail Banking Officer, Ahli Bank (to FY2024, S21); more than 20 years in banking and finance, including HSBC, International Bank of Qatar and Al Khaliji Commercial Bank, in strategic programme and project management, IT systems modernisation and organisational performance improvement (years not published).",
+   "education": null,
+   "qualifications": null,
+   "linkedin_url": "https://www.linkedin.com/in/abdulaziz-al-khater-32381b17/",
+   "linkedin_status": "Verified (profile/search match)",
+   "role_status": "Verified current",
+   "role_evidence": "Our Leadership page checked 2026-10-13 (S1, S27) lists him as Chief Special Projects Officer; AR 2025 biography (S4, PDF p.43) and org chart (S4, PDF p.63); no departure news found (S26). Added because he is the former Chief Retail Banking Officer (S21) and a current member of the website senior-management list; functions are a classification from his AR 2025 biography (strategy, execution, project management, banking operations, technology, knowledge of digital systems); no reporting lines are inferred. LinkedIn: search result with the same name and employer; the title shown is the earlier one (S29).",
+   "source_ids": [
+    "S1",
+    "S4",
+    "S21",
+    "S26",
+    "S27",
+    "S29"
+   ],
+   "checked": "2026-10-13"
   }
  ],
  "capabilities": {
@@ -918,7 +987,7 @@
    "published": null,
    "accessed": "2026-10-12",
    "language": "en",
-   "note": "Names and titles only; biographies load dynamically and were not captured."
+   "note": "Names and titles only; biographies load dynamically and were not captured. Re-read 2026-10-13: 11 board members and 11 senior-management names, unchanged from 2026-10-12."
   },
   {
    "id": "S2",
@@ -1064,7 +1133,7 @@
    "published": null,
    "accessed": "2026-10-12",
    "language": "en",
-   "note": "The site footer says 'Copyright 2014', so it may be stale."
+   "note": "Re-read 2026-10-13: lists Samer Totah (General Manager), Madhu Nellikkappillil (Operations Manager) and Waleed Al Fukaha (Investment Manager). Footer still says 'Copyright 2014'; the sister Board Members page (S25) lists Ahlibank executives who joined in 2025, so the site has been updated since."
   },
   {
    "id": "S15",
@@ -1108,9 +1177,9 @@
    "doc_type": "Press release",
    "tier": 2,
    "published": "2016-05-31",
-   "accessed": "2026-10-12",
+   "accessed": "2026-10-13",
    "language": "en",
-   "note": "Seen in search results only."
+   "note": "Opened 2026-10-13 (release dated 31 May 2016); The Asian Banker repost also appeared in search results."
   },
   {
    "id": "S19",
@@ -1134,6 +1203,123 @@
    "accessed": "2026-10-12",
    "language": "en",
    "note": "Scanned image, read visually."
+  },
+  {
+   "id": "S21",
+   "title": "Corporate Governance Report 2024 (senior management biographies and organisation chart)",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/Library/Assets/ABQ-Corporate-Governance-Report%202024_EN_20250223_WEB_Without-AGM-114336.pdf",
+   "doc_type": "Annual governance report FY2024 - management biographies (PDF p.31, org chart p.84)",
+   "tier": 1,
+   "published": "2025-02",
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Publication month taken from the file name (20250223)."
+  },
+  {
+   "id": "S22",
+   "title": "Invitation to the Shareholders to attend the Ordinary and Extraordinary General Meetings (30 Mar 2026)",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/Library/Assets/AGM%20Invitation%202026_EN-014316.pdf",
+   "doc_type": "Shareholder meeting notice and agenda",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en"
+  },
+  {
+   "id": "S23",
+   "title": "Minutes of the Ordinary General Assembly of Ahli Bank held on 30 Mar 2026 (Arabic)",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/Library/Assets/MoM%20AGM_2025_30-03-2026-101610.pdf",
+   "doc_type": "AGM minutes - election of the 2026-2028 Board by acclamation",
+   "tier": 1,
+   "published": "2026-03-30",
+   "accessed": "2026-10-13",
+   "language": "ar"
+  },
+  {
+   "id": "S24",
+   "title": "Nominees for the Board of Directors for the period 2026-2028",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/Library/Assets/BOD%20Nominees%20Eng%20Final-013309.pdf",
+   "doc_type": "Board nominee list approved by QCB and QFMA",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Found through a search result, then opened."
+  },
+  {
+   "id": "S25",
+   "title": "Ahli Brokerage - Board Members",
+   "publisher": "Ahli Brokerage Company",
+   "url": "https://www.ahlibrokerage.com.qa/BoardMembers.aspx",
+   "doc_type": "Official subsidiary board page",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Lists Mohamed Al Namla (Chairman), Derek Kwok, Johny AlKhoury, Mohamed Aly Sobh and Othman Ahmad Hijazi."
+  },
+  {
+   "id": "S26",
+   "title": "Media Centre - News / Press Releases (list January 2025 to September 2026)",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/en/media-center/news-press-releases",
+   "doc_type": "Official newsroom list",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Checked 2026-10-13: no executive or board appointment/departure release between Jan 2025 and 14 Sep 2026."
+  },
+  {
+   "id": "S27",
+   "title": "Our Leadership (Arabic)",
+   "publisher": "Ahlibank",
+   "url": "https://www.ahlibank.com.qa/ar/about-us/our-leadership",
+   "doc_type": "Official leadership page (Arabic names)",
+   "tier": 2,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "ar"
+  },
+  {
+   "id": "S28",
+   "title": "Ahmed Abu Khalil - Ahlibank Qatar - LinkedIn",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/ahmed-abu-khalil-4086635/",
+   "doc_type": "LinkedIn profile (search result)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Seen in search results only. The result names Ahlibank Qatar as employer; the search summary describes the profile as Head of Private Banking (and Treasury)."
+  },
+  {
+   "id": "S29",
+   "title": "Abdulaziz Al-Khater - Chief Retail Banking Officer at Ahli Bank QSC - LinkedIn",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/in/abdulaziz-al-khater-32381b17/",
+   "doc_type": "LinkedIn profile (search result)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Seen in search results only. Title shown is the earlier one (Chief Retail Banking Officer, from Apr 2024); employer Ahli Bank QSC."
+  },
+  {
+   "id": "S30",
+   "title": "Ahlibank Qatar - LinkedIn company page",
+   "publisher": "LinkedIn",
+   "url": "https://www.linkedin.com/company/ahlibankqatar",
+   "doc_type": "LinkedIn company page (search result)",
+   "tier": 4,
+   "published": null,
+   "accessed": "2026-10-13",
+   "language": "en",
+   "note": "Seen in search results only; the search summary says the page lists Ahmed Abu Khalil as Head of Private Banking."
   }
  ],
  "original_reconciliation": [],
@@ -1165,17 +1351,68 @@
     "S2"
    ],
    "resolution": "Recorded as reported; the reason was not found."
+  },
+  {
+   "field": "Senior management changes in 2025",
+   "detail": "The FY2024 Corporate Governance Report (S21, Feb 2025) lists a Chief Private Banking Officer, a Chief Retail Banking Officer (Abdulaziz Al-Khater), a Chief Operations & Information Technology Officer (Izzidin Abusalameh), a Head of Retail Banking (Ahmed ElShazly), a Head of Information Technology (Rakesh Chouhan), a Head of Digital Transaction Banking (Nizar El-Jechi) and a vacant Head of Strategy. The AR 2025 (S4, structure 2025) shows Othman Hijazi as Senior Chief Business Officer, Al-Khater as Chief Special Projects Officer, Yazan Nusairat as acting COO, Sanjay Macmado as acting Head of IT, Shadi Khoury as Head of Retail Banking, Mahesh Sangisetti as Head of Transaction Banking & Transformation and Rajesh Srinivasan as Head of Strategy. LinkedIn search results (not opened) still show some earlier titles, e.g. Head of Retail Banking and Chief Retail Banking Officer.",
+   "source_ids": [
+    "S21",
+    "S4",
+    "S29"
+   ],
+   "resolution": "Used the AR 2025 and the website. The 2024 office-holders who no longer appear (ElShazly, Chouhan, Abusalameh, El-Jechi in his earlier post) were not added; their departure dates are not published."
+  },
+  {
+   "field": "Ahmad Abukhalil - name and title variants",
+   "detail": "FY2024 report: 'Ahmed Zuhdi Abu Khalil, Chief Private Banking Officer' (org chart: Chief Private Banking & Wealth Management Officer, 'Ahmad Abukhalil'); AR 2025 org chart: 'Head of Private Banking & Wealth Management, Ahmad Abukhalil' (Arabic: احمد زهدي ابوخليل); LinkedIn: 'Ahmed Abu Khalil'.",
+   "source_ids": [
+    "S21",
+    "S4",
+    "S28"
+   ],
+   "resolution": "Treated as one person in the same private-banking post (same Arabic name including 'Zuhdi'); the file keeps the AR 2025 spelling."
+  },
+  {
+   "field": "Hassan AlEfrangi - degree wording",
+   "detail": "The 2 Jul 2020 release says 'Bachelor's degree in Finance and Banking'; the AR 2025 and FY2024 report say 'bachelor's degree in financial sciences'. No institution is given.",
+   "source_ids": [
+    "S16",
+    "S4",
+    "S21"
+   ],
+   "resolution": "Recorded the 2020 release wording with the AR variant noted; institution unresolved."
+  },
+  {
+   "field": "Mohamed Aly Sobh - career dates",
+   "detail": "AR 2025 gives private assets 2005-2007 and Ahli United Bank Group Kuwait 2017-2022; the FY2024 report gives private assets 2005-2007 and 2017-2019, which overlaps the Kuwait years.",
+   "source_ids": [
+    "S4",
+    "S21"
+   ],
+   "resolution": "Used the AR 2025 chronology."
+  },
+  {
+   "field": "Chairman - executive status",
+   "detail": "The AR 2025 classes the Chairman as non-independent, non-executive; the 2 Jul 2020 release calls him 'Chairman & Managing Director'.",
+   "source_ids": [
+    "S4",
+    "S16"
+   ],
+   "resolution": "Title 'Chairman' used (website and AR 2025); the managing-director styling is noted in appointed_note."
   }
  ],
  "open_items": [
   "Q3 2026 (30 Sep 2026) results not yet on QSE: the API returned 404 for ABQK 2026-09-30 on 12 Oct 2026.",
-  "The Head of Private Banking & Wealth Management (Ahmad Abukhalil) and the heads of retail, strategy, transformation and IT come only from the AR 2025 org chart. Their 2026 status needs confirmation, and no news or LinkedIn match was found for Abukhalil.",
+  "Heads of retail (Shadi Khoury), strategy (Rajesh Srinivasan), transaction banking & transformation (Mahesh Sangisetti), IT (Sanjay Macmado, Acting) and Ahli Brokerage's General Manager (Samer Totah) are confirmed only by the AR 2025 organisation chart ('Structure 2025') or the Ahli Brokerage page. None is on the website leadership roster and no biography, appointment date or 2026-dated source was found (status 'Requires verification'). Ahmad Abukhalil (private banking) has a FY2024 report biography and a LinkedIn match but is also absent from the website roster, so he stays 'Requires verification' until the bank confirms.",
   "The international investment bank partner and the Private Banking digital trading platform are not named anywhere public.",
   "The QFC MoU (24 May 2026) was seen only in a search snippet. The QFC page returned 404 and the release is not on Ahlibank's news list, so the counterparty identity needs confirmation.",
   "Ahli Brokerage management page may be stale (2014 copyright). No brokerage volumes or client numbers were found.",
-  "LinkedIn: no profile found for CEO Hassan AlEfrangi or for Ahmad Abukhalil. Others were not checked.",
+  "LinkedIn (checked 2026-10-13, role-based searches only): matched Ahmad Abukhalil (S28, S30) and Abdulaziz Al-Khater (S29). No profile URL surfaced for CEO Hassan AlEfrangi (posts only) or for the retail, strategy, transformation and IT heads. Leads not recorded because the result shows no title or no employer: Othman Hijazi (https://bh.linkedin.com/in/othman-hijazi-20a7514), Samer Totah (https://www.linkedin.com/in/samer-totah-9054542/), 'Derek Kwok - Qatar' (https://www.linkedin.com/in/derek-kwok-4866031/). Other people not checked. Two LinkedIn company pages exist: ahli-bank-qsc (linked by the website) and ahlibankqatar (search results).",
   "Premium and Private Banking eligibility thresholds are not published.",
-  "Leadership page biographies load dynamically and were not captured, so biographies come from the AR 2025."
+  "Leadership page biographies load dynamically and were not captured; biographies come from the AR 2025 (S4) and the FY2024 governance report (S21). Education, career and dates are not published for Khoury, Srinivasan, Sangisetti, Macmado and Totah; appointment dates are not published for Hijazi, Kwok, Abukhalil or Nusairat's acting role.",
+  "LinkedIn search results (not opened) still show earlier titles that the official documents have superseded: Head of Retail Banking (since 2016), Head of IT, and Chief Retail Banking Officer. A social-media post seen in search results names a 'Head of Digital Innovation' (Ala'aldin Alzu'bi) who is on no official source; verify before use.",
+  "Board: only the Chairman is profiled in this file. The 2026-2028 Board elected on 30 Mar 2026 (S23, S24, S1) also has Vice Chairman Sheikh Jassim Bin Mohammed Bin Hamad Al-Thani and nine directors (QIA appointees Akbar Abbas Al Baker, Ghanim Khalifa Alattiya and Mohammed Fahad Al-Khulaifi, the last still subject to QCB approval at the AGM; the nominee list S24 names Ali Ahmed Al Kuwari as the third QIA appointee instead). Website senior managers not in the file: Sara Ahmed Fakhroo (Head of Human Resources), Johny AlKhoury (General Counsel and Board Secretary), Maher Barakat (Chief Internal Audit Officer), Khaldoun Al-Khateeb (Chief Compliance Officer).",
+  "The Business Year interview with the CEO (thebusinessyear.com, 2026) answered 403 to the page reader (bot protection) and was not used. Searches for 2025-2026 appointment or departure news (English and Arabic) found no change at CEO, deputy or business-head level; the newsroom list for Jan 2025-14 Sep 2026 has none (S26). The Qatar Stock Exchange disclosure database was not searchable through the tools available, so a disclosure of a 2025 senior appointment (e.g. Hijazi) could not be ruled in or out."
  ],
  "research_status": "Complete",
  "researched_by": "B21",
