@@ -544,20 +544,21 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Appointment date not found. Listed as Chairman on the official board page and in AR 2025.",
-      "previous_roles": "CEO of Sanabil Investments (current per official bio); founder of Marco strategy advisory; head of Strategy and Business Development, Bank Albilad; eight years at the Capital Market Authority from 2004 incl. Head of Listing (seconded to the US SEC) and head of international relations. Boards incl. Savvy Games Group, Richard Attias & Associates, Caffeine Inc., Performance 54 Group.",
-      "education": "Bachelor's in Economics and Political Science, California State University, Hayward (1998); Chase Manhattan Bank credit training programme, New York (2000)",
+      "appointed_note": "Appointment date not published on the website or in the AR 2025 board report (S5 PDF p.22, printed pp.40-41), which lists him as Chairman (non-executive member) and records 4 of 5 board meetings attended in 2025 (18 Mar, 29 Jun, 11 Sep, 27 Nov; absent 20 Nov; S5 PDF p.23). Board bio (S3) says he is currently CEO of Sanabil Investments.",
+      "previous_roles": "Current: Chief Executive Officer, Sanabil Investments (Saudi Arabian Investment Company), and member of its board and investment committee; earlier: founder, Marco (boutique strategic advisory firm, Vision 2030 initiatives); Head of Strategy and Business Development Division, Bank Albilad; 2004-c.2012 Capital Market Authority (eight years from its inception), including Head of Listing (seconded to the US Securities and Exchange Commission) and lead for the CMA's international relations (dates of each role not published; the bio cites over 20 years in financial services). Current other roles: board member, Savvy Games Group, SNB Capital, Richard Attias & Associates, Caffeine Inc. and Performance 54 Group (S3); the AR 2025 board table also lists ACWA Power, Buraq, Al Hilal, Humain, Major Food Group and Riyadh Investment and Development Company among companies where he is a board member or manager (S5 PDF p.22).",
+      "education": "BA Economics and Political Science, California State University, Hayward, USA (June 1998); Credit Training Program, Chase Manhattan Bank, New York (2000)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and board bio page checked 2026-10-12 (S1, S3); SNB Capital AR 2025 board page (S5 p.8).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); board bio page (S3); AR 2025 board page (S5 PDF p.8) and board report (S5 PDF pp.22-23: Chairman, non-executive, 4/5 meetings in 2025). Board member: news check not required (listing unchanged); search quota ran out before any LinkedIn role search for the chair.",
       "source_ids": [
         "S1",
         "S3",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Saud Abdulaziz Bajbair",
@@ -571,25 +572,28 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Appointment date not found. Also Group Head of Retail Business at Saudi National Bank (see sa-snb).",
-      "previous_roles": "Group Head of Retail Business, SNB; earlier Head of Retail Network Group and Head of Retail Strategy and Analytics at SNB; at NCB: Head of Branch Banking, Consumer Finance, Real Estate & Personal Finance, Quality and Customer Care. Boards: Saudi Credit Bureau (SIMAH), Arabian Shield Cooperative Insurance.",
-      "education": "Bachelor's in Industrial Engineering, King Fahd University of Petroleum and Minerals",
+      "appointed_note": "Appointment date to the SNB Capital board not published (website, AR 2025 board report S5 PDF pp.22-23). He is Group Head of Retail Business at Saudi National Bank (appointed Head, Retail Business Group in 2022 per SNB AR 2025, S6; profiled in sa-snb).",
+      "previous_roles": "Current: Group Head of Retail Business (Head, Retail Business Group), Saudi National Bank (since 2022 per SNB AR 2025, S6); earlier at SNB: Head of Retail Network Group; Head of Retail Strategy and Analytics; at National Commercial Bank before the 2021 merger: Head of Branch Banking Division, Head of Consumer Finance Division, Head of Real Estate & Personal Finance Division, Head of Quality and Customer Care Department, Head of Performance Development Unit (dates not published; the bio cites over 20 years in retail banking and distribution). Current other roles: Vice Chairman, SNB Capital; board member, Saudi Credit Bureau (SIMAH), Arabian Shield Cooperative Insurance Company and Itqan Quality for Business Solutions (S3; S5 PDF p.22).",
+      "education": "Bachelor's, Systems Engineering, King Fahd University of Petroleum and Minerals (2000, per SNB AR 2025, S6; the SNB Capital board bio says Industrial Engineering, S3 - see discrepancies)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and board bio page checked 2026-10-12 (S1, S3); AR 2025 (S5 p.8).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); board bio page (S3); AR 2025 board report (S5 PDF pp.22-23: Vice Chairman, non-executive, 5/5 meetings in 2025). His SNB retail role is confirmed by SNB's Aug 2026 Mastercard release (see sa-snb). Search quota ran out before a LinkedIn role search.",
       "source_ids": [
         "S1",
         "S3",
-        "S5"
+        "S5",
+        "S6",
+        "S38",
+        "S41"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Rashed Ibrahim Sharif",
       "name_ar": "راشد بن إبراهيم شريف",
-      "title": "Chief Executive Officer and Board member",
+      "title": "Chief Executive Officer and Board member (executive)",
       "functions": [
         "CEO",
         "Subsidiary CEO",
@@ -599,26 +603,31 @@
       "business_unit": "Executive Management; Board",
       "scope": "Subsidiary",
       "appointed": "2021-02",
-      "appointed_note": "Appointed CEO and board member in February 2021 (official bio). Also a non-executive board member of Saudi National Bank (see sa-snb). The name appears as 'Rashid I. Sharif' in the CEO message.",
-      "previous_roles": "Head of Listing Department, Capital Market Authority (2006-2013); Head of Investment Banking and later CEO at another Saudi capital-market institution; Head of Local Holding Investments, Public Investment Fund (2017 to end-2020); before SNB Capital, Vice-Chairman of NCB's board and member of its Executive Committee. Former boards: Saudi Electricity Company, STC, SABIC.",
-      "education": "Bachelor's in Finance, KFUPM; MBA, Prince Sultan University; IMD 'High Performance Leaders' and 'High Performance Boards' programmes",
+      "appointed_note": "Appointed Chief Executive Officer and board member in February 2021 (official bio, S2, S3). Also a non-executive board member of Saudi National Bank (see sa-snb). Signs the CEO message as 'Rashed I. Sharif' / 'Rashid I. Sharif' (S1, S38).",
+      "previous_roles": "Feb 2021- Chief Executive Officer and board member, SNB Capital (also Chairman of its Compliance Committee and member of its Risk Committee, S5 PDF pp.25-26); to 1 Apr 2021 Vice-Chairman of the board and member of the Executive Committee, National Commercial Bank / Saudi National Bank (replaced as SNB Vice-Chairman by Yazeed AlHumied by board resolution of 1 Apr 2021, S43); 2017-end 2020 Head of Local Holding Investments, Public Investment Fund; Head of Investment Banking Division and later Chief Executive Officer at another Saudi capital market institution (not named in the official bio; SNB AR 2025 names Riyad Capital, S6); 2006-2013 Head of Listing Department, Capital Market Authority. Current other roles: non-executive board member, Saudi National Bank; board member, AviLease, NEOM Tech & Digital Company (Tonomus) and Roaa Al Madinah Holding; member of the Investment Committee, Saudi Telecom Company (S5 PDF p.22; S42); Chairman, CMA Capital Market Institutions Committee (S42). Former boards: Saudi Electricity Company, Saudi Telecom Company, SABIC (S2).",
+      "education": "BSc Finance, King Fahd University of Petroleum and Minerals (1998 per SNB AR 2025, S6); MBA, Prince Sultan University (2009 per S6); IMD executive programmes 'High Performance Leaders' and 'High Performance Boards'",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page, CEO bio page and board page checked 2026-10-12 (S1, S2, S3); signs the AR 2025 CEO message (S5); quoted as CEO in a Feb 2026 Investcorp release (S26). Searches found no departure news. LinkedIn search (CEO name + SNB Capital) returned no matching profile.",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); CEO bio and board bio pages (S2, S3); AR 2025 board report lists him as CEO and executive member with 5/5 board meetings in 2025 and chair of the Compliance Committee (S5 PDF pp.22-23, 26); Forbes Middle East Top 50 Asset Managers 2026 (9 Jul 2026) lists him as CEO since 2021 (S42); quoted as CEO in the Feb 2026 Investcorp release (S26). Role-based news searches on 13 Oct 2026 found no 2026 departure or appointment; a LinkedIn role search ('SNB Capital chief executive officer') returned no matching profile.",
       "source_ids": [
         "S1",
         "S2",
         "S3",
         "S5",
-        "S26"
+        "S6",
+        "S26",
+        "S38",
+        "S41",
+        "S42",
+        "S43"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Mohammad Al-Shaikh",
-      "name_ar": "محمد آل الشيخ",
+      "name_ar": "محمد عبدالله آل الشيخ",
       "title": "Independent Member of the Board",
       "functions": [
         "Board"
@@ -627,20 +636,21 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Appointment date not found.",
-      "previous_roles": "Senior Advisor to the Managing Director and Group CEO, Saudi National Bank (since April 2021); at Samba Financial Group, last Deputy CEO and Chief of Staff; former board member of Samba Capital & Investment Management Co. and SIMAH; member, Riyadh Economic Forum.",
-      "education": "Bachelor's in Finance, King Saud University",
+      "appointed_note": "Appointment date not published (website; AR 2025 board report S5 PDF pp.22-23 lists him as an independent member with 5/5 board meetings in 2025).",
+      "previous_roles": "Apr 2021- Senior Advisor to the Managing Director and Group CEO, Saudi National Bank; to 2021 Deputy CEO and Chief of Staff, Samba Financial Group (last of several senior positions there across operations, corporate banking, local corporate banking and consumer banking; the bio cites over 28 years' experience); former board member, Samba Capital & Investment Management Co. and Saudi Credit Bureau (SIMAH). Current other roles: member, Riyadh Economic Forum (S3); the AR 2025 board table lists SIMAH (S5 PDF p.22).",
+      "education": "Bachelor's, Finance, King Saud University",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and board bio page checked 2026-10-12 (S1, S3); AR 2025 (S5 p.8).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); board bio page (S3); AR 2025 board page and board report (S5 PDF pp.8, 22-23).",
       "source_ids": [
         "S1",
         "S3",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Sabty Sulaiman Al-Sabty",
@@ -653,25 +663,26 @@
       "business_unit": "Board of Directors",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Appointment date not found.",
-      "previous_roles": "Former Head of Listed Companies and Investment Products Department, Capital Market Authority; former CEO of Riyad Capital; current boards incl. Tadawul, Zakat Tax and Customs Authority, Jada Fund of Funds Company, Saudi Venture Capital Company.",
-      "education": "Bachelor's in Accounting, King Saud University; MBA, Colorado Technical University",
-      "qualifications": "CPA (SOCPA and AICPA)",
+      "appointed_note": "Appointment date not published (website; AR 2025 board report S5 PDF pp.22-23 lists him as an independent member with 5/5 board meetings in 2025).",
+      "previous_roles": "Former Head of the Listed Companies and Investment Products Department, Capital Market Authority; former Chief Executive Officer, Riyad Capital (dates not published; the bio describes experience in IPOs, M&A, investment product development, asset management and listed-company disclosure and governance). Current other roles: board member, Saudi Tadawul Group Holding, Zakat, Tax and Customs Authority, Jada Fund of Funds Company and Saudi Venture Capital Company (S3); the AR 2025 board table lists ZATCA, the General Authority of Awqaf, Saudi Tadawul Group Holding and Hassana Investment Company (S5 PDF p.22).",
+      "education": "BSc Accounting, King Saud University; MBA, Colorado Technical University",
+      "qualifications": "CPA, Saudi Organization for Chartered and Professional Accountants (SOCPA); CPA, American Institute of Certified Public Accountants (AICPA)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and board bio page checked 2026-10-12 (S1, S3); AR 2025 (S5 p.8).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); board bio page (S3); AR 2025 board page and board report (S5 PDF pp.8, 22-23).",
       "source_ids": [
         "S1",
         "S3",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Mohammed Al-Saggaf",
       "name_ar": "محمد السقاف",
-      "title": "Head of Client Relations and Distribution (until March 2026: Head of Wealth Management Division)",
+      "title": "Head of Client Relations and Distribution",
       "functions": [
         "Wealth",
         "Other"
@@ -680,20 +691,21 @@
       "business_unit": "Client Relations and Distribution (formerly Wealth Management)",
       "scope": "Subsidiary",
       "appointed": "2026-03",
-      "appointed_note": "Appointed Head of Client Relations and Distribution in March 2026; led the Wealth Management Division from early 2021 until then (official bio). AR 2025 org page lists him as head of wealth (رئيس إدارة الثروات).",
-      "previous_roles": "Joined NCB in 1994 (investment department, then investment and retail banking roles); moved to SNB Capital at the firm's inception; headed several segments before leading Wealth Management from early 2021. Over 25 years in investment and banking.",
+      "appointed_note": "Appointed Head of Client Relations and Distribution in March 2026 (official bio, S2); led the Wealth Management Division from early 2021 until then. AR 2025 executive page lists him as head of wealth (رئيس إدارة الثروات; S5 PDF p.8). No successor as Head of Wealth Management is listed on the website (13 Oct 2026).",
+      "previous_roles": "Mar 2026- Head of Client Relations and Distribution, SNB Capital; early 2021-Mar 2026 Head of Wealth Management Division, SNB Capital; 2007- SNB Capital (NCB Capital) from the firm's inception, heading several client segments; 1994-2007 National Commercial Bank, investment department, then roles in the investment and retail banking divisions (the bio cites more than 25 years in investment and banking).",
       "education": null,
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13) shows the earlier title. LinkedIn search (title + SNB Capital) returned no matching profile.",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2; mirrored at /w/team-12); AR 2025 executive page shows the earlier title (S5 PDF p.8). Role-based news searches on 13 Oct 2026 found no later change; a LinkedIn role search ('SNB Capital head of client relations and distribution wealth management') returned no matching profile. Education and qualifications are not published in the bio.",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Naif Al-Saif",
@@ -706,20 +718,21 @@
       "business_unit": "Investments (formerly Principal Investments and Funding)",
       "scope": "Subsidiary",
       "appointed": "2026-03",
-      "appointed_note": "Appointed CIO in March 2026 (official bio); previously Head of Principal Investment and Funding from July 2021. AR 2025 lists him as head of private investments and funding.",
-      "previous_roles": "Head of Principal Investment and Funding, SNB Capital (from July 2021); acting CEO of Samba Capital; Treasurer, Samba Financial Group; Head of Fixed Income and Money Market Desk and Chief Dealer, Samba London Treasury.",
-      "education": "MBA (Finance), Prince Sultan University (2015); Bachelor's in Finance and Economic Science, KFUPM (2003)",
+      "appointed_note": "Appointed Chief Investment Officer in March 2026 (official bio, S2); Head of Principal Investment and Funding from July 2021. AR 2025 lists him as head of principal investments and funding (رئيس إدارة الاستثمارات الخاصة والتمويل; S5 PDF p.8).",
+      "previous_roles": "Mar 2026- Chief Investment Officer, SNB Capital; Jul 2021-Mar 2026 Head of Principal Investment and Funding, SNB Capital; to 2021 Acting Chief Executive Officer, Samba Capital; Treasurer, Samba Financial Group; Head of Fixed Income & Money Market Desk and Chief Dealer, Samba London Treasury, Samba Financial Group (dates not published; the bio cites over 20 years).",
+      "education": "MBA (Finance), Prince Sultan University, Riyadh (2015); BSc Finance and Economic Science, King Fahd University of Petroleum and Minerals, Dhahran (2003)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13). LinkedIn search returned no matching profile.",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2; mirrored at /w/team-13); AR 2025 executive page (S5 PDF p.8). Role-based news search on 13 Oct 2026 found no announcement beyond the bio; a LinkedIn role search ('SNB Capital chief investment officer') returned no matching profile.",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Jalal Faruki",
@@ -732,20 +745,21 @@
       "business_unit": "Securities (brokerage, custody and securities services)",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Appointment date to current title not found. Held Head of Trading and Sales Trading from 2020 and Head of Custody and Securities Services before. AR 2025 lists Loai Bafaqeeh as head of securities, so the change occurred in 2026.",
-      "previous_roles": "Head of Custody and Securities Services and Head of Trading and Sales Trading at SNB Capital (since 2020); earlier Head of Institutional Brokerage, Head of Treasury, Sales Trader and Portfolio Manager at institutions in the USA, UAE and Saudi Arabia.",
-      "education": "Bachelor's in Business Administration, Virginia Tech (2002)",
-      "qualifications": "Active CME licence (Saudi Arabia); formerly SEC Series 7 and 63 (USA) and CISI licences (UAE)",
+      "appointed_note": "Date of appointment as Head of Securities not published. The AR 2025 executive page (S5 PDF p.8) shows Loai Bafaqeeh as head of securities, so the change occurred in 2026 (before 12 Oct 2026). A second official bio page (/w/jalal-faruki-1) carries the same text.",
+      "previous_roles": "2026- Head of Securities, SNB Capital; 2020- Head of Trading and Sales Trading, Securities Division, SNB Capital; Head of Custody and Securities Services, SNB Capital (dates not published); earlier Head of Institutional Brokerage, Head of Treasury, Sales Trader and Portfolio Manager at financial institutions and listed companies in the USA, UAE and Saudi Arabia (employers not named).",
+      "education": "BBA, Virginia Tech, USA (2002)",
+      "qualifications": "Capital Market Examination (CME) licence, Saudi Arabia (active); formerly SEC Series 7 and Series 63 licences (USA, as printed) and CISI licences (UAE)",
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2). LinkedIn search returned no matching profile.",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio pages (S2, /w/jalal-faruki-1). A role-based news search on 13 Oct 2026 found no announcement of the appointment; a LinkedIn role search ('SNB Capital head of securities brokerage') returned no matching profile.",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Loai Bafaqeeh",
@@ -759,20 +773,21 @@
       "business_unit": "Digital (formerly Securities and IT)",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Date of the Chief Digital Officer title not found. AR 2025 (published 2026) lists him as head of securities and acting head of IT (رئيس إدارة الأوراق المالية و رئيس تقنية المعلومات المكلف); the website now shows Jalal Faruki as Head of Securities.",
-      "previous_roles": "Head of Securities at SNB Capital, where he 'introduced a new platform and product suite'; CEO of the Quality of Life Program (Saudi Vision 2030); led Microsoft Arabia; Head of Marketing at SNB Capital; started at Procter & Gamble.",
+      "appointed_note": "Date of the Chief Digital Officer appointment not published. AR 2025 (published 2026) lists him as head of securities and acting head of information technology (S5 PDF p.8); the website (13 Oct 2026) shows Jalal Faruki as Head of Securities.",
+      "previous_roles": "2026- Chief Digital Officer, SNB Capital; to 2026 Head of Securities and Acting Head of Information Technology, SNB Capital (AR 2025 titles; the bio says he introduced a new platform and product suite in Securities); Chief Executive Officer, Quality of Life Program (Saudi Vision 2030); lead of the Microsoft Arabia operation (incl. public-sector sales and marketing); Head of Marketing, SNB Capital (investment services, brokerage, investment banking and asset management); career began at Procter & Gamble (dates not published; order as given in the bio).",
       "education": "Bachelor of Mechanical Engineering, King Abdulaziz University; MBA, Arab Academy for Science and Technology",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not verified",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13) shows the earlier title. LinkedIn search returned no matching profile.",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2); AR 2025 executive page shows the earlier titles (S5 PDF p.8). Role-based news search on 13 Oct 2026 found no announcement; a LinkedIn role search ('SNB Capital chief digital officer') returned no matching profile.",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Mohammed Al Ali",
@@ -785,44 +800,48 @@
       "business_unit": "Real Estate Investments (alternatives platform)",
       "scope": "Subsidiary",
       "appointed": "2026-03",
-      "appointed_note": "Appointed to the current role in March 2026 (official bio).",
-      "previous_roles": "Head of Product Development and Local Alternatives at SNB Capital, building and scaling the alternatives platform (real estate, private equity, sukuk products); senior regulatory roles at the Capital Market Authority (enforcement and investment funds oversight); began at Samba Financial Group in credit and corporate banking. Over 20 years' experience.",
-      "education": "MBA in Finance and International Business, University of San Francisco",
+      "appointed_note": "Appointed to the current role in March 2026 (official bio, S2; mirrored at /w/mohammed-al-ali). Not on the AR 2025 executive page (S5 PDF p.8), consistent with the 2026 appointment.",
+      "previous_roles": "Mar 2026- Head of Real Estate Investments, SNB Capital (real estate investment platform: strategy, origination, structuring, execution and asset management); to Mar 2026 Head of Product Development and Local Alternatives, SNB Capital (built the alternatives platform; launched public and private products in real estate, private equity and sukuk); earlier senior regulatory roles at the Capital Market Authority (established and led enforcement and investment-funds oversight functions); career began at Samba Financial Group in credit and corporate banking (dates not published; the bio cites over 20 years).",
+      "education": "MBA Finance and International Business, University of San Francisco, USA",
       "qualifications": "CFA charterholder",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio pages (S2, /w/mohammed-al-ali). Role-based news search on 13 Oct 2026 found only the bio.",
       "source_ids": [
         "S1",
-        "S2"
+        "S2",
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
-      "name": "Khalid Al-Bairakan",
+      "name": "Khaled Al Braikan",
       "name_ar": "خالد البريكان",
-      "title": "Head of Asset Management (per AR 2025; not on the current website)",
+      "title": "Head of Asset Management (per AR 2025 and an unlinked official bio page; not on the current leadership page)",
       "functions": [
         "Investments / asset management"
       ],
       "entity": "SNB Capital Company",
       "business_unit": "Asset Management",
       "scope": "Subsidiary",
-      "appointed": null,
-      "appointed_note": "Name transliterated from Arabic (a search snippet spelled it 'Khaled Al Braikan'). Listed in the AR 2025 executive pictures as head of the assets division (رئيس إدارة الأصول). Not on the official leadership page checked 12 Oct 2026, which now lists no Head of Asset Management.",
-      "previous_roles": "Not stated in the sources opened.",
-      "education": null,
+      "appointed": "2014-03",
+      "appointed_note": "Appointed Head of Asset Management in March 2014 after joining in early 2013 as Head of Institutional Mandates (official bio page /w/team-9, still live but no longer linked from the leadership page, S39). Name spelled 'Khalid Al-Bairakan' in the previous pass (transliteration of the AR 2025 Arabic). Listed as head of the assets division (رئيس إدارة الأصول) on the AR 2025 executive page (S5 PDF p.8) but absent from the leadership and executive-team pages checked 13 Oct 2026 (S1, S38), which list no Head of Asset Management.",
+      "previous_roles": "Mar 2014- Head of Asset Management, SNB Capital (NCB Capital until 2021); early 2013-Mar 2014 Head of Institutional Mandates, NCB Capital; Senior Portfolio Manager, HSBC Saudi Arabia (over three years); Samba Capital equity portfolio management (over seven years), last as Assistant General Manager (dates not published; the bio cites over 15 years of multi-asset portfolio management for government and semi-government institutions, regional sovereign wealth funds, family offices and UHNW individuals).",
+      "education": "BSc Business Administration (Finance), King Saud University, Riyadh (2000); strategy-level courses incl. Harvard Business School",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Requires verification",
-      "role_evidence": "AR 2025 executive page (S5 p.13) lists him; the official leadership page (S1) checked 2026-10-12 does not. A web-search snippet suggested an older website version listed him as Head of Asset Management; not confirmed. Possible March 2026 reorganisation (three executives changed title that month, S2). No departure or appointment news found.",
+      "role_evidence": "AR 2025 executive page (S5 PDF p.8) lists him; the leadership and executive-team pages checked 2026-10-13 (S1, S38) do not, and no Head of Asset Management is listed; his bio page remains live but unlinked (S39). A LinkedIn post seen only in search results (c. May 2026) says another executive was promoted to Head of Asset Management (see open_items); no official announcement found. A role-based news search and a LinkedIn role search ('SNB Capital head of asset management') on 13 Oct 2026 returned no profile or release for him.",
       "source_ids": [
         "S5",
-        "S1"
+        "S1",
+        "S38",
+        "S39"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Zaid Ghoul",
@@ -835,20 +854,21 @@
       "business_unit": "Investment Banking",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Led the investment banking practice after the NCB Capital / Samba Capital merger (2021). Appointment date not stated in the bio.",
-      "previous_roles": "Head of Corporate Finance and Investment Banking, Samba Capital; own consulting practice; CFO of a Dubai real estate company; CIO of a private investment conglomerate; Arthur Andersen, EY Middle East, PwC (Equity Partner).",
-      "education": "BSc in Accounting, Economics and Statistics, University of Jordan (1991)",
-      "qualifications": "CPA (USA, 1993); CFA charterholder (2003)",
+      "appointed_note": "Led the investment banking practice after the NCB Capital / Samba Capital merger (2021); appointment date not stated in the bio.",
+      "previous_roles": "2021- Head of Investment Banking, SNB Capital; to 2021 Head of Corporate Finance and Investment Banking, Samba Capital; earlier own consulting practice (debt raising and restructuring, operations and growth for large GCC family businesses); CFO, a real estate company in Dubai; CIO, a privately owned investment conglomerate (public and private equity portfolio of over USD 1bn across the GCC and Egypt); Equity Partner, PricewaterhouseCoopers (co-led the Middle East Business Recovery Services practice); Ernst & Young Middle East Corporate Finance & Lead Advisory; Arthur Andersen (dates not published; the bio cites over 30 years).",
+      "education": "BSc Accounting, Economics and Statistics, University of Jordan (1991)",
+      "qualifications": "CPA, USA (1993); CFA charterholder, USA (2003)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2); AR 2025 executive page (S5 PDF p.8).",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Abdullah Alnahdi",
@@ -861,20 +881,21 @@
       "business_unit": "Finance",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Joined SNB Capital in 2014; date of CFO appointment not stated.",
-      "previous_roles": "Head of Financial Accounting and earlier planning, reporting and analytics at SNB Capital; SABIC, Siemens, Saudi Aramco.",
-      "education": "Bachelor's in Management Information Systems, KFUPM; MBA, Stetson University (USA)",
-      "qualifications": "CMA and SOCPA certificates",
+      "appointed_note": "Joined SNB Capital in 2014; date of the CFO appointment not stated in the bio.",
+      "previous_roles": "Chief Financial Officer, SNB Capital (date not published); 2014- SNB Capital: planning and reporting, performance analytics, then Head of Financial Accounting; to 2014 investment and financial planning roles at SABIC, Siemens and Saudi Aramco (the bio cites over 19 years in finance).",
+      "education": "BSc Management Information Systems, King Fahd University of Petroleum and Minerals; MBA, Stetson University, USA",
+      "qualifications": "CMA; SOCPA certificate",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2); AR 2025 executive page (S5 PDF p.8).",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Faisal Al-Ansi",
@@ -887,20 +908,21 @@
       "business_unit": "Shared operations",
       "scope": "Subsidiary",
       "appointed": "2021-12",
-      "appointed_note": "Appointed COO in December 2021 (official bio).",
-      "previous_roles": "COO of Samba Capital, Al Rajhi Capital and Al Bilad Capital; Al Awal Capital operations (2004-2008); Samba Asset Management operations.",
-      "education": "Bachelor's in Business Administration, Central State University, Florida (2003); Bachelor's in Business Administration, King Faisal University (2015)",
+      "appointed_note": "Appointed Chief Operating Officer in December 2021 (official bio, S2).",
+      "previous_roles": "Dec 2021- Chief Operating Officer, SNB Capital; to 2021 Chief Operating Officer, Samba Capital; earlier Chief Operating Officer, Al Rajhi Capital; Chief Operating Officer, Al Bilad Capital; Senior Vice President in charge of operations in Saudi Arabia (firm not named); 2004-2008 operations, Al Awal Capital; earlier mutual-fund operations, Samba Asset Management (the bio cites over 21 years). Board member of local, GCC and real estate funds and member of internal and external committees (not named).",
+      "education": "BBA, Central State University, Florida, USA (2003); BBA, King Faisal University, Saudi Arabia (2015)",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2); AR 2025 executive page (S5 PDF p.8).",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Abdullah Alghursan",
@@ -910,49 +932,52 @@
         "Other"
       ],
       "entity": "SNB Capital Company",
-      "business_unit": "Legal, Governance",
+      "business_unit": "Legal, Governance; Office of the CEO",
       "scope": "Subsidiary",
       "appointed": "2023-11",
-      "appointed_note": "Appointed Chief Legal and Governance Officer in November 2023 (official bio); 'Acting Chief of Staff' per the website, Oct 2026.",
-      "previous_roles": "Chief of Legal, Governance and Compliance and Board Secretary, Riyad Capital; earlier Samba Capital; Capital Market Authority (seconded to the US SEC; founded its Investor Protection Department).",
-      "education": "Master's in Law, Arab East Colleges (KSA); MSc in Finance, Southern New Hampshire University; Bachelor's in Accounting, King Saud University",
+      "appointed_note": "Appointed Chief Legal and Governance Officer in November 2023 (official bio, S2); shown as 'Acting Chief of Staff' on the website (13 Oct 2026), a post Abdulrahman Almashal held from Oct 2023 (S40).",
+      "previous_roles": "Nov 2023- Chief Legal and Governance Officer, SNB Capital (also Acting Chief of Staff per the website, Oct 2026); Chief of Legal, Governance and Compliance and Board Secretary, Riyad Capital; earlier Samba Capital; managerial positions at the Capital Market Authority, including secondment to the US Securities and Exchange Commission and founding of the CMA's Investor Protection Department (dates not published; the bio cites over 20 years).",
+      "education": "Master's in Law, Arab East Colleges, Saudi Arabia; MSc Finance, Southern New Hampshire University, USA; Bachelor's in Accounting, King Saud University",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2); AR 2025 executive page (S5 PDF p.8).",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Abdulrahman Almashal",
       "name_ar": "عبدالرحمن المشعل",
-      "title": "Chief of Staff (per Jan 2026 press release; AR 2025 lists 'Chief Administrator')",
+      "title": "Chief of Staff (per unlinked official bio page, AR 2025 and a Jan 2026 press release; not on the current leadership page)",
       "functions": [
         "Other"
       ],
       "entity": "SNB Capital Company",
       "business_unit": "Office of the CEO",
       "scope": "Subsidiary",
-      "appointed": null,
-      "appointed_note": "Quoted as 'Chief of Staff, SNB Capital' in the Orion partnership release (listed 14 Jan 2026). AR 2025 lists him as كبير الإداريين. The website now shows Abdullah Alghursan as 'Acting Chief of Staff' and does not list Almashal.",
-      "previous_roles": "Not stated in the sources opened.",
-      "education": null,
+      "appointed": "2023-10",
+      "appointed_note": "Appointed Chief of Staff in October 2023 (official bio page /w/team-4, still live but no longer linked, S40; spelled 'AlMashal' there). AR 2025 lists him as كبير الإداريين (S5 PDF p.8); quoted as Chief of Staff in the Orion release of 14 Jan 2026 (S27). The leadership page checked 13 Oct 2026 does not list him and shows Abdullah Alghursan as Acting Chief of Staff (S1).",
+      "previous_roles": "Oct 2023- Chief of Staff, SNB Capital; Chief Strategy and Business Development Officer, Riyad Capital (five years); Capital Market Authority: Head of Public Investment Funds, Chairman's Advisor and Vice-Chairman of the Capital Market Institutions Committee (dates not published; the bio cites over 15 years).",
+      "education": "Master's in Finance and Investment, University of Nottingham, UK; Bachelor's in Accounting and Financial Management, University of Hull, UK",
       "qualifications": null,
       "linkedin_url": null,
-      "linkedin_status": "Not checked",
+      "linkedin_status": "Not verified",
       "role_status": "Requires verification",
-      "role_evidence": "Orion release (S27), AR 2025 page 13 (S5); absent from the official leadership page checked 2026-10-12 (S1). No news on a move found.",
+      "role_evidence": "Orion release of 14 Jan 2026 (S27) and AR 2025 (S5 PDF p.8) show him as Chief of Staff; absent from the leadership and executive-team pages checked 2026-10-13 (S1, S38), which show an acting holder; unlinked bio page still live (S40). A LinkedIn search result on 13 Oct 2026 showed the name with SNB Capital as employer but no title (not recorded). No announcement of a move found before the search quota ran out.",
       "source_ids": [
         "S27",
         "S5",
-        "S1"
+        "S1",
+        "S38",
+        "S40"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Lloyd Kawara",
@@ -965,20 +990,21 @@
       "business_unit": "Risk Management",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "Hired as Vice President, Market Risk in February 2015; date of CRO title not stated.",
-      "previous_roles": "African Development Bank (Principal Treasury Risk Officer); CRO, Bank Alkhair (Bahrain); Bahrain Middle East Bank; Riyad Bank.",
+      "appointed_note": "Joined as Vice President, Market Risk in February 2015; date of the Chief Risk Officer title not stated (the bio calls him Head of Risk Management).",
+      "previous_roles": "Chief Risk Officer (Head of Risk Management), SNB Capital (date not published); Feb 2015- SNB Capital, joined as Vice President, Market Risk; earlier Principal Treasury Risk Officer, African Development Bank (counterparty, market, investment and asset-liability risk); Chief Risk Officer, Bank Alkhair B.S.C., Bahrain; Head of Risk, Bahrain Middle East Bank; Risk Management Officer, Riyad Bank (dates not published).",
       "education": null,
-      "qualifications": "CFA charterholder; FRM (GARP); CAIA; ACMA (CIMA, UK)",
+      "qualifications": "CFA charterholder; FRM, Global Association of Risk Professionals (USA); CAIA (USA); ACMA, Chartered Institute of Management Accountants (UK)",
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2); AR 2025 executive page (S5 PDF p.8). Education not published in the bio.",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Ali Al Marzouki",
@@ -991,20 +1017,21 @@
       "business_unit": "Compliance",
       "scope": "Subsidiary",
       "appointed": null,
-      "appointed_note": "",
-      "previous_roles": "Compliance specialist across asset management, wealth, private banking, investment banking and brokerage (10+ years).",
-      "education": "MBA and BA in Industrial and Systems Engineering, King Abdulaziz University",
+      "appointed_note": "Appointment date not published.",
+      "previous_roles": "Chief Compliance Officer, SNB Capital (date not published; oversees compliance for all businesses, advises committees and the board, liaises with local and international regulators); earlier compliance roles across asset management, wealth management, private banking, investment banking and brokerage (the bio cites over ten years). Current other roles: member, SNB Capital Compliance Committee (S5 PDF p.26).",
+      "education": "MBA and BA Industrial and Systems Engineering, King Abdulaziz University; executive certifications incl. Pennsylvania State University",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2); AR 2025 executive page and Compliance Committee table (S5 PDF pp.8, 26).",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Dana Al Husseini",
@@ -1017,20 +1044,21 @@
       "business_unit": "Human Capital",
       "scope": "Subsidiary",
       "appointed": "2024-01",
-      "appointed_note": "Appointed January 2024 (official bio); 12 years at SNB Capital.",
-      "previous_roles": "HR and talent management; 17 years, 12 at SNB Capital.",
-      "education": "BA in French Literature, King Abdulaziz University; MSc in Organizational Dynamics, University of Pennsylvania",
+      "appointed_note": "Appointed Chief Human Capital Officer in January 2024 (official bio, S2).",
+      "previous_roles": "Jan 2024- Chief Human Capital Officer, SNB Capital; earlier talent management and human resources roles at SNB Capital (12 years with the firm within a 17-year HR career, as stated in the bio; earlier employers not named).",
+      "education": "BA French Literature, King Abdulaziz University; MSc Organizational Dynamics, University of Pennsylvania, USA",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2); AR 2025 executive page (S5 PDF p.8).",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     },
     {
       "name": "Ehab Reda",
@@ -1043,20 +1071,21 @@
       "business_unit": "Internal Audit",
       "scope": "Subsidiary",
       "appointed": "2024-05",
-      "appointed_note": "Appointed May 2024 (official bio).",
-      "previous_roles": "Head of Treasury and Global Markets Audit, SNB; Samba Financial Group; HSBC; Standard Chartered. 26+ years.",
-      "education": "MBA in Marketing, University of Leicester; Bachelor of Accounting, King Abdulaziz University",
+      "appointed_note": "Appointed Chief Audit Officer in May 2024 (official bio, S2).",
+      "previous_roles": "May 2024- Chief Audit Officer, SNB Capital; to 2024 Head of Treasury & Global Markets Audit, Saudi National Bank; Program Director Treasury, Samba Financial Group; Director of Institutional Sales, Global Markets, HSBC Bank; Director of Institutional and Global Corporate Sales, Standard Chartered Bank (dates not published; the bio cites over 26 years). Current other roles: member, SNB Capital Compliance Committee (S5 PDF p.26).",
+      "education": "MBA Marketing, University of Leicester, UK; Bachelor of Accounting, King Abdulaziz University",
       "qualifications": null,
       "linkedin_url": null,
       "linkedin_status": "Not checked",
       "role_status": "Verified current",
-      "role_evidence": "Official leadership page and bio page checked 2026-10-12 (S1, S2); AR 2025 (S5 p.13).",
+      "role_evidence": "Official leadership page and executive-team page checked 2026-10-13 list the same five directors and 14 executives (S1, S38); bio page (S2); AR 2025 executive page and Compliance Committee table (S5 PDF pp.8, 26).",
       "source_ids": [
         "S1",
         "S2",
-        "S5"
+        "S5",
+        "S38"
       ],
-      "checked": "2026-10-12"
+      "checked": "2026-10-13"
     }
   ],
   "capabilities": {
@@ -1432,18 +1461,18 @@
       "doc_type": "Official leadership page",
       "tier": 2,
       "published": null,
-      "accessed": "2026-10-12",
+      "accessed": "2026-10-13",
       "language": "en"
     },
     {
       "id": "S2",
-      "title": "Executive team member bio pages (14 pages, e.g. CEO bio)",
+      "title": "Executive team member bio pages (14 pages: IDs 589861 (CEO), 589876, 589891, 589921, 589936, 590402, 590417, 590447, 590456, 590471, 590486, 590501, 1546571, 1686075; mirrored at /w/team-N and named slugs)",
       "publisher": "SNB Capital",
       "url": "https://snbcapital.com/e/execuitive-team-member-lp/29345/589861",
       "doc_type": "Official biographies",
       "tier": 2,
       "published": null,
-      "accessed": "2026-10-12",
+      "accessed": "2026-10-13",
       "language": "en"
     },
     {
@@ -1454,7 +1483,7 @@
       "doc_type": "Official biographies",
       "tier": 2,
       "published": null,
-      "accessed": "2026-10-12",
+      "accessed": "2026-10-13",
       "language": "en"
     },
     {
@@ -1473,10 +1502,10 @@
       "title": "SNB Capital Annual Report 2025 (التقرير السنوي 2025)",
       "publisher": "SNB Capital",
       "url": "https://snbcapital.com/documents/529288/0/%D8%A7%D9%84%D8%AA%D9%82%D8%B1%D9%8A%D8%B1+%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A+2025.pdf/7b3e75f0-f2a2-6037-5670-000ace82b7a3?t=1774881938856",
-      "doc_type": "Annual report (Arabic; text layer garbled, read from page renders)",
+      "doc_type": "Annual report incl. board report (Arabic; text layer garbled, read from page renders: PDF p.8 board and executive pictures, PDF pp.21-26 board table, attendance, committees)",
       "tier": 1,
       "published": "2026",
-      "accessed": "2026-10-12",
+      "accessed": "2026-10-13",
       "language": "ar"
     },
     {
@@ -1795,7 +1824,7 @@
       "doc_type": "Official website",
       "tier": 2,
       "published": null,
-      "accessed": "2026-10-12",
+      "accessed": "2026-10-13",
       "language": "en"
     },
     {
@@ -1829,6 +1858,72 @@
       "tier": 5,
       "published": null,
       "accessed": "2026-10-12",
+      "language": "en"
+    },
+    {
+      "id": "S38",
+      "title": "Our Executive Team (executive-team page; CEO message and roster)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/executive-team",
+      "doc_type": "Official leadership page",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S39",
+      "title": "Khaled Al Braikan - Head of Asset Management (bio page, no longer linked from the leadership page)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/w/team-9",
+      "doc_type": "Official biography (unlinked legacy page)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S40",
+      "title": "Abdulrahman AlMashal - Chief of Staff (bio page, no longer linked from the leadership page)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/w/team-4",
+      "doc_type": "Official biography (unlinked legacy page)",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S41",
+      "title": "Rashed Sharif - Board of Directors bio (director-4) and Saud Bajbair bio (director-5)",
+      "publisher": "SNB Capital",
+      "url": "https://snbcapital.com/w/director-4",
+      "doc_type": "Official biographies",
+      "tier": 2,
+      "published": null,
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S42",
+      "title": "Top 50 Asset Managers 2026 - Rashed Sharif, CEO, SNB Capital",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/top-50-asset-managers-2026/rashed-sharif/",
+      "doc_type": "News list profile",
+      "tier": 5,
+      "published": "2026-07-09",
+      "accessed": "2026-10-13",
+      "language": "en"
+    },
+    {
+      "id": "S43",
+      "title": "Saudi National Bank appoints Ammar Al Khudairy as chairman, Saeed Alghamdi as MD & CEO (Yazeed Al Humied replaces Rashid Ibrahim Sharif as vice chairman)",
+      "publisher": "Argaam",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1456646",
+      "doc_type": "News article (Tadawul statement)",
+      "tier": 5,
+      "published": "2021-04-01",
+      "accessed": "2026-10-13",
       "language": "en"
     }
   ],
@@ -1873,12 +1968,15 @@
     },
     {
       "field": "Executive roles (AR 2025 vs website)",
-      "detail": "AR 2025 lists Mohammed Al-Saggaf as head of wealth, Naif Al-Saif as head of private investments and funding, Loai Bafaqeeh as head of securities and acting IT head, Khalid Al-Bairakan as head of asset management and Abdulrahman Almashal as 'Chief Administrator'. The website (12 Oct 2026) shows March 2026 appointments (Al-Saggaf, Al-Saif, Al Ali), Jalal Faruki as Head of Securities, Bafaqeeh as Chief Digital Officer, Alghursan as Acting Chief of Staff, and no head of asset management or wealth management.",
+      "detail": "AR 2025 lists Mohammed Al-Saggaf as head of wealth, Naif Al-Saif as head of private investments and funding, Loai Bafaqeeh as head of securities and acting IT head, Khalid Al-Bairakan as head of asset management and Abdulrahman Almashal as 'Chief Administrator'. The website (12 Oct 2026) shows March 2026 appointments (Al-Saggaf, Al-Saif, Al Ali), Jalal Faruki as Head of Securities, Bafaqeeh as Chief Digital Officer, Alghursan as Acting Chief of Staff, and no head of asset management or wealth management. Unlinked official bio pages still live on 13 Oct 2026 give Al Braikan as Head of Asset Management since March 2014 (S39) and AlMashal as Chief of Staff since October 2023 (S40).",
       "resolution": "Used the website for the current roster. Al-Bairakan and Almashal recorded as 'Requires verification'.",
       "source_ids": [
         "S5",
         "S1",
-        "S2"
+        "S2",
+        "S38",
+        "S39",
+        "S40"
       ]
     },
     {
@@ -1890,18 +1988,32 @@
         "S15",
         "S5"
       ]
+    },
+    {
+      "field": "Saud Bajbair - degree field",
+      "detail": "SNB Capital's board bio says Bachelor's in Industrial Engineering, KFUPM (S3); SNB's AR 2025 says Bachelor's in Systems Engineering, KFUPM, 2000 (S6).",
+      "resolution": "Recorded the annual-report version (tier 1) with the bio variant noted.",
+      "source_ids": [
+        "S3",
+        "S6"
+      ]
     }
   ],
   "open_items": [
     "No 30 Jun 2026 standalone statements or AUM: SNB Capital publishes annual statements only. Balance sheet and income are FY2025; H1 2026 data comes from the parent's segment note and presentation (proxies) and AUM is 1Q 2026.",
     "Head of Asset Management and Head of Wealth Management not identified: the AR 2025 lists Khalid Al-Bairakan (asset management) and Mohammed Al-Saggaf (wealth) but the website no longer lists either role. Check for a March 2026 reorganisation announcement (Saudi Exchange issuer announcements returned no result in search; not fetched, 403 risk).",
-    "LinkedIn checks for CEO, wealth, securities, digital and investments heads returned no matching profiles; all marked 'Not verified'. Unrelated LinkedIn results in the same searches (a 'Head of Investment Advisory and Solutions' appointed May 2026; two other profiles describing wealth and multi-asset leadership roles) were not matched to an official source and are not recorded.",
     "'GTN' vendor identity not stated on the site (only a commission schedule label); the Android package ID 'it.elfisystems.gbs.ncbc.phone' and iOS bundle ID 'com.alahlitadawul.gbs.mobile' suggest a third-party brokerage app vendor but no source confirms it. An undated trade-news item (seen in search results only) reports NCB Capital implementing Fidessa; current stack unconfirmed.",
     "The robo-advisory platform mentioned in SNB's AR 2025 had no launch announcement found; scope (client-facing vs adviser tool) unknown.",
     "Total client numbers, app users and employee headcount not disclosed. SNB Capital (DIFC) AUM (over SAR 7.5bn) is undated; DFSA licence number and register entry not checked.",
     "CMA authorised-persons register entry not checked directly (licence 37-06046 taken from the firm's own site and FS); Saudi Exchange pages not used.",
     "SNB Capital's Arabic annual report has a garbled text layer; figures were read from page renders (PDF p.5, 6, 8, 18). Pages on organisational structure, awards and product listings were summarised by the fetch tool, so exact fund counts are 'as listed on the website' and may omit funds shown only in PDFs. One fetched page (organizational chart) returned a note that its text contained a hidden formatting-instruction section; it was ignored.",
-    "Parent file sa-snb says 'Mala'a MoU' and 'BNY Mellon' relate to SNB Capital: confirmed here as a Feb 2024 MoU (status unknown now) and a Dec 2021 headline respectively; the parent's 'IBKR, GTN' leads are confirmed only as commission-schedule labels."
+    "Parent file sa-snb says 'Mala'a MoU' and 'BNY Mellon' relate to SNB Capital: confirmed here as a Feb 2024 MoU (status unknown now) and a Dec 2021 headline respectively; the parent's 'IBKR, GTN' leads are confirmed only as commission-schedule labels.",
+    "People pass X28 (13 Oct 2026): the shared web-search quota ran out after 17 searches. Done: role-based news checks for the CEO, asset management, wealth, securities, digital and CIO posts (nothing beyond the official bios) and LinkedIn role searches for the CEO, Head of Securities, Chief Digital Officer, Head of Asset Management, CIO and Head of Client Relations (no matching profiles). Not run: Arabic-language appointment searches beyond one query, and any LinkedIn search for board members.",
+    "Head of Asset Management: a LinkedIn post seen only in search results (about five months before 13 Oct 2026) says Abdulaziz BinZaraah was promoted to Head of Asset Management at SNB Capital (earlier Head of Equity DPMs). He is not on the official leadership page, so he is not recorded; Khaled Al Braikan's unlinked bio page is still live. Confirm with SNB Capital.",
+    "Head of Wealth Management: no successor to Mohammed Al-Saggaf is listed on the website; LinkedIn results seen in search (not opened) describe a 'Head of Investment Advisory and Solutions' appointed May 2026. Not recorded.",
+    "Chief of Staff: Abdulrahman Almashal (appointed Oct 2023 per his unlinked bio) is no longer on the roster and Abdullah Alghursan is Acting Chief of Staff; no announcement found. A LinkedIn search result still shows him at SNB Capital without a title.",
+    "Board appointment dates are not published on the website or in the AR 2025 board report (PDF pp.21-23 give 2025 attendance only). Board committees per AR 2025: Audit (Hussein Eid chair from 29 Jun 2025, Faisal Al-Suwailem, Abdulaziz Al-Babtain), Risk (Bandar Al-Hamali chair, Nasser Al Fraih, Rashed Sharif), Compliance (Rashed Sharif chair, Ali Al Marzouki, Ehab Reda, Abdullah Al-Otaibi), Shariah (Prof. Saad bin Nasser Al-Shathri chair, Dr. Mohammed Ali Al-Qari, Dr. Salman Saleh Al-Dakheel). Shariah committee members are not profiled as people.",
+    "AR 2025 board report (PDF p.36, page render) states 431 employees at end-December 2025 with about 90% Saudization; metrics not edited in this pass (noted in research/people_pass/leads_for_metrics_pass.md)."
   ],
   "research_status": "Complete",
   "researched_by": "R3",
